@@ -1,0 +1,219 @@
+{
+  "archived": false,
+  "batch": "6841fdb4-355d-4a31-a337-a05d1e7b3c61",
+  "creator_user_id": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
+  "data_update_frequency": "365",
+  "dataset_date": "[2020-06-01T00:00:00 TO 2024-12-31T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "HeiGIT",
+  "due_date": "2025-12-31T23:59:59",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "77271a62-e029-43c3-8972-f0134ee606fa",
+  "is_requestdata_type": false,
+  "isopen": false,
+  "last_modified": "2026-03-02T10:28:45.454703",
+  "license_id": "hdx-other",
+  "license_other": "Non-commercial use only. Contains derivatives of PlanetScope imagery. Redistribution subject to Planet Labs PBC licensing terms.",
+  "license_title": "Other",
+  "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
+  "metadata_created": "2025-11-18T16:43:30.240247",
+  "metadata_modified": "2026-03-03T09:51:58.895600",
+  "methodology": "Other",
+  "methodology_other": "Dataset generated using deep learning on PlanetScope imagery to classify road surface, width, and humanitarian passability.",
+  "name": "chile-planet-road-surface-data",
+  "notes": "This dataset provides AI-derived road surface type, road width, road surface change\n(unpaved to paved), and a Humanitarian Passability Index (HPI) using\nPlanetScope satellite imagery (2020 and 2024).\n\nThe analysis focuses on arterial roads classified in OSM as motorway, trunk,\nprimary, and secondary, including their link classes. These road types form\nthe backbone of long-distance, high-capacity transportation and national connectivity.\n\nFor more details on methods:\nhttps://arxiv.org/abs/2512.04092\n\n\nRelationship to the Previous Mapillary-Based Dataset\n\nHeiGIT previously released a global dataset based on Mapillary street-level imagery.\n\n- The Mapillary dataset provides detailed ground-level information but has uneven coverage.\n- The PlanetScope-based dataset provides near-complete and globally consistent coverage along arterial roads.\n\n\nAccuracy and Data Quality\n\nThe PlanetScope surface model achieved 89.2% accuracy, outperforming OSM surface tags (64.7%).\n\n\nSummary of Road Statistics\n\nApproximately 0.0396 million km of arterial roads are mapped in OSM.\n\nBased on AI-derived estimates:\n- Paved roads: 0.0346 million km (87.4092%)\n- Unpaved roads: 0.0006 million km (1.5559%)\n\nA total of 0.0003 million km (0.8596%)\nlack OSM surface tags.\n\nPlanetScope-derived predictions provide surface information for\n0.0352 million km\n(10349.5424%) of this missing data.\n\n\nAI-Derived Attributes Included\n\n- DL Surface Prediction 2020 – Paved / Unpaved / Unknown\n- DL Surface Prediction 2024 – Paved / Unpaved / Unknown\n- Road Surface Change (2020-2024) – Indicator of transitions from unpaved to paved\n- Road Width Class (1-3):\n  Class 1 (<3.5 m): light vehicles only; high blockage risk\n  Class 2 (3.5-5.5 m): single-lane heavy truck; alternating flow\n  Class 3 (>5.5 m): two-lane heavy truck; unimpeded flow\n\n- Humanitarian Passability Index (HPI)\n  Combines road surface and width into a logistical accessibility class:\n  Score 1 (highest passability) to Score 6 (lowest passability)\n\n\nIncluded OSM Attributes\n\n- Road Segment ID\n- highway classification\n- surface tag\n- OSM road length (meters)\n\n\nGeographic Attributes\n\n- country_iso_a2\n- continent\n\n\nThis dataset integrates OSM attributes with deep-learning predictions generated\nfrom PlanetScope imagery (2020 and 2024).\n\nExplore more HeiGIT datasets on HDX:\nhttps://data.humdata.org/organization/heidelberg-institute-for-geoinformation-technology\n\nMore information:\nhttps://heigit.org/\n\nContact: communications@heigit.org",
+  "num_resources": 2,
+  "num_tags": 14,
+  "organization": {
+    "id": "14bd839d-9011-44cd-9097-efb38bf7fea6",
+    "name": "heidelberg-institute-for-geoinformation-technology",
+    "title": "HeiGIT (Heidelberg Institute for Geoinformation Technology)",
+    "type": "organization",
+    "description": "HeiGIT (Heidelberg Institute for Geoinformation Technology) performs applied research relating to geographic information. Results and data are made freely available for the benefit of the environment and society through stakeholders such as researchers and aid organizations & associations.\r\n\r\nThe core foci of HeiGIT range from supporting humanitarian missions with customized geodata, to developing intelligent routing solutions for disasters or heatwaves. HeiGIT also implements innovative methods from the fields of spatial data processing and machine learning to analyze, enrich, and visualize geodata (e.g. OpenStreetMap data), as well as offering practical data analysis for climate protection initiatives.\r\n\r\nHeiGIT gGmbH was founded in 2019 as an affiliated institute of Heidelberg University, with core funding from the Klaus Tschira Foundation.",
+    "image_url": "",
+    "created": "2022-02-04T16:14:36.397317",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
+  "package_creator": "sukanya-randhawa-6497",
+  "pageviews_last_14_days": 0,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Chile\"]}",
+  "state": "active",
+  "subnational": "0",
+  "title": "Chile: Planet Road Surface, Width, and Passability Data",
+  "total_res_downloads": 0,
+  "type": "dataset",
+  "updated_by_script": "HDXPythonLibrary/6.6.5-HeiGIT (2026-03-02T11:26:07.219653)",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Chile",
+      "id": "chl",
+      "image_display_url": "",
+      "name": "chl",
+      "title": "Chile"
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2025-11-18T16:43:30.244313",
+      "datastore_active": false,
+      "description": "GeoJSON file for Chile",
+      "download_url": "https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_CL_planet_roadsurface_lines.geojson",
+      "format": "GeoJSON",
+      "hash": "\"d8ba5d57ea56c57ba77717292a86f4a3\"",
+      "hdx_rel_url": "https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_CL_planet_roadsurface_lines.geojson",
+      "id": "0ed0a2d7-c97b-427f-b6da-cabd15826f96",
+      "last_modified": "2026-03-02T10:28:45.446147",
+      "metadata_modified": "2026-03-03T09:51:58.964883",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Chile GeoJSON heigit_CL_planet_roadsurface_lines.geojson",
+      "package_id": "77271a62-e029-43c3-8972-f0134ee606fa",
+      "position": 0,
+      "resource_type": "api",
+      "shape_info": "[{\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2025-11-24T10:10:08.975939\"}, {\"state\": \"success\", \"message\": \"Import successful\", \"layer_id\": \"pre_0ed0a2d7_c97b_427f_b6da_cabd15826f96\", \"error_type\": \"None\", \"error_class\": \"None\", \"bounding_box\": \"BOX(-109.4403459 -53.5985248,-67.2811012 -17.5904285)\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"osm_id\", \"data_type\": \"character varying\"}, {\"field_name\": \"country\", \"data_type\": \"character varying\"}, {\"field_name\": \"continent\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_tags_highway\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_tags_surface\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_surface_class\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_length\", \"data_type\": \"integer\"}, {\"field_name\": \"dl_road_class_2024\", \"data_type\": \"character varying\"}, {\"field_name\": \"dl_road_class_2020\", \"data_type\": \"character varying\"}, {\"field_name\": \"surface_change_paved\", \"data_type\": \"character varying\"}, {\"field_name\": \"paved_pixels_2024\", \"data_type\": \"integer\"}, {\"field_name\": \"paved_pixels_2020\", \"data_type\": \"integer\"}, {\"field_name\": \"unpaved_pixels_2024\", \"data_type\": \"integer\"}, {\"field_name\": \"unpaved_pixels_2020\", \"data_type\": \"integer\"}, {\"field_name\": \"rw_class\", \"data_type\": \"character varying\"}, {\"field_name\": \"passability_alphanumeric_code\", \"data_type\": \"character varying\"}, {\"field_name\": \"passability_descriptive_code\", \"data_type\": \"character varying\"}, {\"field_name\": \"passability_numerical_risk_score\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"timestamp\": \"2025-11-24T10:21:48.623780\"}, {\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2025-11-25T13:25:12.867824\"}, {\"state\": \"success\", \"message\": \"Import successful\", \"layer_id\": \"pre_0ed0a2d7_c97b_427f_b6da_cabd15826f96\", \"error_type\": \"None\", \"error_class\": \"None\", \"bounding_box\": \"BOX(-109.4403459 -53.5985248,-67.2811012 -17.5904285)\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"osm_id\", \"data_type\": \"character varying\"}, {\"field_name\": \"country\", \"data_type\": \"character varying\"}, {\"field_name\": \"continent\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_tags_highway\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_tags_surface\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_surface_class\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_length\", \"data_type\": \"integer\"}, {\"field_name\": \"dl_road_class_2024\", \"data_type\": \"character varying\"}, {\"field_name\": \"dl_road_class_2020\", \"data_type\": \"character varying\"}, {\"field_name\": \"surface_change_paved\", \"data_type\": \"character varying\"}, {\"field_name\": \"paved_pixels_2024\", \"data_type\": \"integer\"}, {\"field_name\": \"paved_pixels_2020\", \"data_type\": \"integer\"}, {\"field_name\": \"unpaved_pixels_2024\", \"data_type\": \"integer\"}, {\"field_name\": \"unpaved_pixels_2020\", \"data_type\": \"integer\"}, {\"field_name\": \"rw_class\", \"data_type\": \"character varying\"}, {\"field_name\": \"passability_alphanumeric_code\", \"data_type\": \"character varying\"}, {\"field_name\": \"passability_descriptive_code\", \"data_type\": \"character varying\"}, {\"field_name\": \"passability_numerical_risk_score\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"timestamp\": \"2025-11-25T13:29:46.808689\"}, {\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2025-11-26T10:00:50.827169\"}, {\"state\": \"success\", \"message\": \"Import successful\", \"layer_id\": \"pre_0ed0a2d7_c97b_427f_b6da_cabd15826f96\", \"error_type\": \"None\", \"error_class\": \"None\", \"bounding_box\": \"BOX(-109.4403459 -53.5985248,-67.2811012 -17.5904285)\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"osm_id\", \"data_type\": \"character varying\"}, {\"field_name\": \"country\", \"data_type\": \"character varying\"}, {\"field_name\": \"continent\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_tags_highway\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_tags_surface\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_surface_class\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_length\", \"data_type\": \"integer\"}, {\"field_name\": \"dl_road_class_2024\", \"data_type\": \"character varying\"}, {\"field_name\": \"dl_road_class_2020\", \"data_type\": \"character varying\"}, {\"field_name\": \"surface_change_paved\", \"data_type\": \"character varying\"}, {\"field_name\": \"paved_pixels_2024\", \"data_type\": \"integer\"}, {\"field_name\": \"paved_pixels_2020\", \"data_type\": \"integer\"}, {\"field_name\": \"unpaved_pixels_2024\", \"data_type\": \"integer\"}, {\"field_name\": \"unpaved_pixels_2020\", \"data_type\": \"integer\"}, {\"field_name\": \"rw_class\", \"data_type\": \"character varying\"}, {\"field_name\": \"passability_alphanumeric_code\", \"data_type\": \"character varying\"}, {\"field_name\": \"passability_descriptive_code\", \"data_type\": \"character varying\"}, {\"field_name\": \"passability_numerical_risk_score\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"timestamp\": \"2025-11-26T10:05:40.710610\"}, {\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2026-03-02T10:28:45.405047\"}, {\"state\": \"success\", \"message\": \"Import successful\", \"layer_id\": \"pre_0ed0a2d7_c97b_427f_b6da_cabd15826f96\", \"error_type\": \"None\", \"error_class\": \"None\", \"bounding_box\": \"BOX(-109.4403459 -53.5985248,-67.2811012 -17.5904285)\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"osm_id\", \"data_type\": \"character varying\"}, {\"field_name\": \"country\", \"data_type\": \"character varying\"}, {\"field_name\": \"continent\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_tags_highway\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_tags_surface\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_surface_class\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_length\", \"data_type\": \"integer\"}, {\"field_name\": \"dl_road_class_2024\", \"data_type\": \"character varying\"}, {\"field_name\": \"dl_road_class_2020\", \"data_type\": \"character varying\"}, {\"field_name\": \"surface_change_paved\", \"data_type\": \"character varying\"}, {\"field_name\": \"paved_pixels_2024\", \"data_type\": \"integer\"}, {\"field_name\": \"paved_pixels_2020\", \"data_type\": \"integer\"}, {\"field_name\": \"unpaved_pixels_2024\", \"data_type\": \"integer\"}, {\"field_name\": \"unpaved_pixels_2020\", \"data_type\": \"integer\"}, {\"field_name\": \"rw_class\", \"data_type\": \"character varying\"}, {\"field_name\": \"passability_alphanumeric_code\", \"data_type\": \"character varying\"}, {\"field_name\": \"passability_descriptive_code\", \"data_type\": \"character varying\"}, {\"field_name\": \"passability_numerical_risk_score\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"timestamp\": \"2026-03-02T10:31:29.877858\"}, {\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2026-03-02T11:26:07.406262\"}, {\"state\": \"success\", \"message\": \"Import successful\", \"layer_id\": \"pre_0ed0a2d7_c97b_427f_b6da_cabd15826f96\", \"error_type\": \"None\", \"error_class\": \"None\", \"bounding_box\": \"BOX(-109.4403459 -53.5985248,-67.2811012 -17.5904285)\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"osm_id\", \"data_type\": \"character varying\"}, {\"field_name\": \"country\", \"data_type\": \"character varying\"}, {\"field_name\": \"continent\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_tags_highway\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_tags_surface\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_surface_class\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_length\", \"data_type\": \"integer\"}, {\"field_name\": \"dl_road_class_2024\", \"data_type\": \"character varying\"}, {\"field_name\": \"dl_road_class_2020\", \"data_type\": \"character varying\"}, {\"field_name\": \"surface_change_paved\", \"data_type\": \"character varying\"}, {\"field_name\": \"paved_pixels_2024\", \"data_type\": \"integer\"}, {\"field_name\": \"paved_pixels_2020\", \"data_type\": \"integer\"}, {\"field_name\": \"unpaved_pixels_2024\", \"data_type\": \"integer\"}, {\"field_name\": \"unpaved_pixels_2020\", \"data_type\": \"integer\"}, {\"field_name\": \"rw_class\", \"data_type\": \"character varying\"}, {\"field_name\": \"passability_alphanumeric_code\", \"data_type\": \"character varying\"}, {\"field_name\": \"passability_descriptive_code\", \"data_type\": \"character varying\"}, {\"field_name\": \"passability_numerical_risk_score\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"timestamp\": \"2026-03-02T11:32:17.996122\"}]",
+      "size": 85000670,
+      "state": "active",
+      "url": "https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_CL_planet_roadsurface_lines.geojson",
+      "url_type": "api"
+    },
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2025-11-18T16:43:30.244317",
+      "datastore_active": false,
+      "description": "Geopackage file for Chile",
+      "download_url": "https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_CL_planet_roadsurface_lines.gpkg",
+      "format": "Geopackage",
+      "hash": "\"6bd98a0b4168a60671f2b34b697a28bb\"",
+      "hdx_rel_url": "https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_CL_planet_roadsurface_lines.gpkg",
+      "id": "4179c92f-37e8-43bd-8b0f-55110451e1cb",
+      "last_modified": "2026-03-02T10:28:45.454703",
+      "metadata_modified": "2026-03-03T09:51:58.965031",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Chile GPKG heigit_CL_planet_roadsurface_lines.gpkg",
+      "package_id": "77271a62-e029-43c3-8972-f0134ee606fa",
+      "position": 1,
+      "resource_type": "api",
+      "size": 37228544,
+      "state": "active",
+      "url": "https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_CL_planet_roadsurface_lines.gpkg",
+      "url_type": "api"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "development",
+      "id": "3be50db2-69e2-406f-83b8-195598d0c0d5",
+      "name": "development",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "humanitarian access",
+      "id": "be991471-7303-4923-9c75-69e866fab7ae",
+      "name": "humanitarian access",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "indicators",
+      "id": "08dade96-0bf4-4248-9d9f-421f7b844e53",
+      "name": "indicators",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "logistics",
+      "id": "f62348c5-1d96-4b3a-9133-5e8b48b0d1af",
+      "name": "logistics",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "openstreetmap",
+      "id": "9e07a23b-e8ec-42f6-afa6-0a77405a343a",
+      "name": "openstreetmap",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "poverty",
+      "id": "c3544ec4-753e-4c1b-9cd6-942fb689fab5",
+      "name": "poverty",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "roads",
+      "id": "a775d5e5-2168-4b89-b415-87d77e424b0c",
+      "name": "roads",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "rural",
+      "id": "62d064e7-77bb-4712-bcb7-acb01b7bd057",
+      "name": "rural",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "services",
+      "id": "9f54b0e4-78df-4939-a2a1-892aaf4396ce",
+      "name": "services",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "socioeconomics",
+      "id": "a64218ff-64ff-4777-a664-6b0a331ab605",
+      "name": "socioeconomics",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "sustainable development",
+      "id": "95dbee08-4aea-468c-8e3e-bf2d178164e6",
+      "name": "sustainable development",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "sustainable development goals-sdg",
+      "id": "570d5718-b98f-46af-ac89-2b6f49fa9ed1",
+      "name": "sustainable development goals-sdg",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "transportation",
+      "id": "ee1a5568-91f1-4274-b10a-846a81335975",
+      "name": "transportation",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "urban",
+      "id": "a859a0b3-7b16-4ee6-8994-d9b1ac38bea8",
+      "name": "urban",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

@@ -1,0 +1,211 @@
+{
+  "archived": false,
+  "batch": "d7fe5071-b584-41e3-811c-147a040598a0",
+  "creator_user_id": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
+  "data_update_frequency": "180",
+  "dataset_date": "[2024-11-07T00:00:00 TO 2024-11-07T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "HeiGIT",
+  "due_date": "2025-05-06T23:59:59",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "25d1f706-a789-4df8-8753-595583dc34ba",
+  "is_requestdata_type": false,
+  "isopen": false,
+  "last_modified": "2024-11-19T10:21:43.487476",
+  "license_id": "odc-odbl",
+  "license_title": "odc-odbl",
+  "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
+  "metadata_created": "2024-11-19T10:21:43.508567",
+  "metadata_modified": "2026-03-02T17:18:36.769278",
+  "methodology": "Other",
+  "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
+  "name": "philippines-road-surface-data",
+  "notes": "This dataset provides detailed information on road surfaces from OpenStreetMap (OSM),\ndistinguishing between **paved** and **unpaved** roads across the region.\n\nSurface classification is derived using a hybrid deep learning approach.\nFor methodological details, see:\nhttp://arxiv.org/abs/2410.19874\n\nRecently, we also published a new country-level dataset based on PlanetScope satellite imagery\nwith near-complete coverage of all arterial roads. It is available on HDX under the name\nPhilippines **Planet** Road Surface.\nThe corresponding paper is available at:\nhttps://arxiv.org/abs/2512.04092\n\n\nRoad Surface Statistics\n\nApproximately 0.4963 million km of roads are mapped in OSM in this region.\n\nBased on AI-derived estimates:\n- Paved roads: 0.0815 million km (16.4302%)\n- Unpaved roads: 0.0513 million km (10.3289%)\n\nAbout 0.3635 million km\n(73.241%) of road surface information is missing in OSM.\n\nTo reduce this gap, the Mapillary-derived road surface dataset provides an additional\n0.0024 million km\n(0.6728%) of the missing surface information.\n\n\nIntended Use\n\nThis dataset supports transportation planning, infrastructure analysis,\nclimate emissions assessment, and GIS applications.\n\n\nAI Features\n\n- **pred_class**: Model-predicted surface class (\"paved\" or \"unpaved\")\n- **pred_label**: Binary label (0 = paved, 1 = unpaved)\n- **osm_surface_class**: Surface classification derived from OSM tags\n- **combined_surface_osm_priority**: Combined classification prioritizing OSM\n- **combined_surface_DL_priority**: Combined classification prioritizing DL prediction\n- **n_of_predictions_used**: Number of predictions used for estimation\n- **predicted_length**: Predicted length based on DL estimation (meters)\n- **DL_mean_timestamp**: Mean timestamp of predictions used\n\n\nOSM Attributes\n\n- **name**\n- **name:en**\n- **name:* (local language)**\n- **highway**\n- **surface**\n- **smoothness**\n- **width**\n- **lanes**\n- **oneway**\n- **bridge**\n- **layer**\n- **source**\n\n\nUrban Classification Attributes\n\n- **continent**\n- **country_iso_a2**\n- **urban** (0 = rural, 1 = urban)\n- **urban_area**\n- **osm_id**\n- **osm_type**\n\n\nData Sources\n\nThe dataset originates from OpenStreetMap (OSM) and is augmented with\ndeep learning predictions based on Mapillary street-level imagery,\ncombined with the GHSU Global Human Settlement Urban Layer 2019\nand AFRICAPOLIS 2020 urban layer.\n\nMore HeiGIT datasets:\nhttps://data.humdata.org/organization/heidelberg-institute-for-geoinformation-technology\n\nMore information:\nhttps://heigit.org/\n\nContact:\ncommunications@heigit.org",
+  "num_resources": 2,
+  "num_tags": 13,
+  "organization": {
+    "id": "14bd839d-9011-44cd-9097-efb38bf7fea6",
+    "name": "heidelberg-institute-for-geoinformation-technology",
+    "title": "HeiGIT (Heidelberg Institute for Geoinformation Technology)",
+    "type": "organization",
+    "description": "HeiGIT (Heidelberg Institute for Geoinformation Technology) performs applied research relating to geographic information. Results and data are made freely available for the benefit of the environment and society through stakeholders such as researchers and aid organizations & associations.\r\n\r\nThe core foci of HeiGIT range from supporting humanitarian missions with customized geodata, to developing intelligent routing solutions for disasters or heatwaves. HeiGIT also implements innovative methods from the fields of spatial data processing and machine learning to analyze, enrich, and visualize geodata (e.g. OpenStreetMap data), as well as offering practical data analysis for climate protection initiatives.\r\n\r\nHeiGIT gGmbH was founded in 2019 as an affiliated institute of Heidelberg University, with core funding from the Klaus Tschira Foundation.",
+    "image_url": "",
+    "created": "2022-02-04T16:14:36.397317",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
+  "package_creator": "sukanya-randhawa-6497",
+  "pageviews_last_14_days": 4,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Philippines\"]}",
+  "state": "active",
+  "subnational": "0",
+  "title": "Philippines: Road Surface Data",
+  "total_res_downloads": 181,
+  "type": "dataset",
+  "updated_by_script": "HDXPythonLibrary/6.6.5-HeiGIT (2026-03-02T17:03:35.932633)",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Philippines",
+      "id": "phl",
+      "image_display_url": "",
+      "name": "phl",
+      "title": "Philippines"
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2024-11-19T10:21:43.514281",
+      "datastore_active": false,
+      "description": "GeoJSON data for Philippines.",
+      "download_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_phl_roadsurface_lines.geojson",
+      "format": "GeoJSON",
+      "hash": "\"7d48b110-62740f87c05cf\"",
+      "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_phl_roadsurface_lines.geojson",
+      "id": "11f81a30-1801-4f47-a83e-ad46297ae6cb",
+      "last_modified": "2024-11-19T10:21:43.487180",
+      "metadata_modified": "2026-03-02T17:18:36.816866",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Philippines GeoJSON Resource",
+      "package_id": "25d1f706-a789-4df8-8753-595583dc34ba",
+      "position": 0,
+      "resource_type": "api",
+      "shape_info": "[{\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2024-12-05T13:53:54.944948\"}, {\"state\": \"failure\", \"message\": \"response too large\", \"layer_id\": \"pre_11f81a30_1801_4f47_a83e_ad46297ae6cb\", \"error_type\": \"None\", \"error_class\": \"FileTooLargeException\", \"type\": \"file-too-large\", \"timestamp\": \"2024-12-05T14:09:08.736210\"}, {\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2024-12-05T14:11:25.353012\"}, {\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2024-12-05T14:17:15.981736\"}, {\"state\": \"failure\", \"message\": \"response too large\", \"layer_id\": \"pre_11f81a30_1801_4f47_a83e_ad46297ae6cb\", \"error_type\": \"None\", \"error_class\": \"FileTooLargeException\", \"type\": \"file-too-large\", \"timestamp\": \"2024-12-05T14:28:55.026818\"}, {\"state\": \"failure\", \"message\": \"response too large\", \"layer_id\": \"pre_11f81a30_1801_4f47_a83e_ad46297ae6cb\", \"error_type\": \"None\", \"error_class\": \"FileTooLargeException\", \"type\": \"file-too-large\", \"timestamp\": \"2024-12-05T14:48:41.929628\"}, {\"state\": \"failure\", \"message\": \"response too large\", \"layer_id\": \"pre_11f81a30_1801_4f47_a83e_ad46297ae6cb\", \"error_type\": \"None\", \"error_class\": \"FileTooLargeException\", \"type\": \"file-too-large\", \"timestamp\": \"2024-12-05T15:06:46.653028\"}, {\"state\": \"failure\", \"message\": \"response too large\", \"layer_id\": \"pre_11f81a30_1801_4f47_a83e_ad46297ae6cb\", \"error_type\": \"None\", \"error_class\": \"FileTooLargeException\", \"type\": \"file-too-large\", \"timestamp\": \"2024-12-05T15:27:21.080145\"}, {\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2026-03-02T17:03:36.170964\"}, {\"state\": \"failure\", \"message\": \"response too large\", \"layer_id\": \"pre_11f81a30_1801_4f47_a83e_ad46297ae6cb\", \"error_type\": \"None\", \"error_class\": \"FileTooLargeException\", \"type\": \"file-too-large\", \"timestamp\": \"2026-03-02T17:18:36.617526\"}]",
+      "size": 2101915920,
+      "state": "active",
+      "url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_phl_roadsurface_lines.geojson",
+      "url_type": "api"
+    },
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2024-11-19T10:21:43.514288",
+      "datastore_active": false,
+      "description": "Geopackage data for Philippines.",
+      "download_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_phl_roadsurface_lines.gpkg",
+      "format": "Geopackage",
+      "hash": "\"36086000-62740fd15b65f\"",
+      "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_phl_roadsurface_lines.gpkg",
+      "id": "6f7cc3e4-de12-43f2-bd72-2bf92236b162",
+      "last_modified": "2024-11-19T10:21:43.487476",
+      "metadata_modified": "2026-03-02T17:03:36.409475",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Philippines GeoPackage Resource",
+      "package_id": "25d1f706-a789-4df8-8753-595583dc34ba",
+      "position": 1,
+      "resource_type": "api",
+      "size": 906518528,
+      "state": "active",
+      "url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_phl_roadsurface_lines.gpkg",
+      "url_type": "api"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "development",
+      "id": "3be50db2-69e2-406f-83b8-195598d0c0d5",
+      "name": "development",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "humanitarian access",
+      "id": "be991471-7303-4923-9c75-69e866fab7ae",
+      "name": "humanitarian access",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "indicators",
+      "id": "08dade96-0bf4-4248-9d9f-421f7b844e53",
+      "name": "indicators",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "logistics",
+      "id": "f62348c5-1d96-4b3a-9133-5e8b48b0d1af",
+      "name": "logistics",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "openstreetmap",
+      "id": "9e07a23b-e8ec-42f6-afa6-0a77405a343a",
+      "name": "openstreetmap",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "poverty",
+      "id": "c3544ec4-753e-4c1b-9cd6-942fb689fab5",
+      "name": "poverty",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "roads",
+      "id": "a775d5e5-2168-4b89-b415-87d77e424b0c",
+      "name": "roads",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "services",
+      "id": "9f54b0e4-78df-4939-a2a1-892aaf4396ce",
+      "name": "services",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "socioeconomics",
+      "id": "a64218ff-64ff-4777-a664-6b0a331ab605",
+      "name": "socioeconomics",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "sustainable development",
+      "id": "95dbee08-4aea-468c-8e3e-bf2d178164e6",
+      "name": "sustainable development",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "sustainable development goals-sdg",
+      "id": "570d5718-b98f-46af-ac89-2b6f49fa9ed1",
+      "name": "sustainable development goals-sdg",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "transportation",
+      "id": "ee1a5568-91f1-4274-b10a-846a81335975",
+      "name": "transportation",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "urban",
+      "id": "a859a0b3-7b16-4ee6-8994-d9b1ac38bea8",
+      "name": "urban",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

@@ -1,0 +1,211 @@
+{
+  "archived": false,
+  "batch": "d7fe5071-b584-41e3-811c-147a040598a0",
+  "creator_user_id": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
+  "data_update_frequency": "180",
+  "dataset_date": "[2024-11-07T00:00:00 TO 2024-11-07T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "HeiGIT",
+  "due_date": "2025-05-06T23:59:59",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "a4418cae-8730-416e-b9ce-79d6ed91d61e",
+  "is_requestdata_type": false,
+  "isopen": false,
+  "last_modified": "2024-11-19T10:23:18.202051",
+  "license_id": "odc-odbl",
+  "license_title": "odc-odbl",
+  "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
+  "metadata_created": "2024-11-19T10:23:18.221424",
+  "metadata_modified": "2026-03-02T17:27:23.656698",
+  "methodology": "Other",
+  "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
+  "name": "guadeloupe-road-surface-data",
+  "notes": "This dataset provides detailed information on road surfaces from OpenStreetMap (OSM),\ndistinguishing between **paved** and **unpaved** roads across the region.\n\nSurface classification is derived using a hybrid deep learning approach.\nFor methodological details, see:\nhttp://arxiv.org/abs/2410.19874\n\nRecently, we also published a new country-level dataset based on PlanetScope satellite imagery\nwith near-complete coverage of all arterial roads. It is available on HDX under the name\nGuadeloupe **Planet** Road Surface.\nThe corresponding paper is available at:\nhttps://arxiv.org/abs/2512.04092\n\n\nRoad Surface Statistics\n\nApproximately 0.0 million km of roads are mapped in OSM in this region.\n\nBased on AI-derived estimates:\n- Paved roads: 0.0 million km (nan%)\n- Unpaved roads: 0.0 million km (nan%)\n\nAbout 0.0 million km\n(nan%) of road surface information is missing in OSM.\n\nTo reduce this gap, the Mapillary-derived road surface dataset provides an additional\n0.0 million km\n(nan%) of the missing surface information.\n\n\nIntended Use\n\nThis dataset supports transportation planning, infrastructure analysis,\nclimate emissions assessment, and GIS applications.\n\n\nAI Features\n\n- **pred_class**: Model-predicted surface class (\"paved\" or \"unpaved\")\n- **pred_label**: Binary label (0 = paved, 1 = unpaved)\n- **osm_surface_class**: Surface classification derived from OSM tags\n- **combined_surface_osm_priority**: Combined classification prioritizing OSM\n- **combined_surface_DL_priority**: Combined classification prioritizing DL prediction\n- **n_of_predictions_used**: Number of predictions used for estimation\n- **predicted_length**: Predicted length based on DL estimation (meters)\n- **DL_mean_timestamp**: Mean timestamp of predictions used\n\n\nOSM Attributes\n\n- **name**\n- **name:en**\n- **name:* (local language)**\n- **highway**\n- **surface**\n- **smoothness**\n- **width**\n- **lanes**\n- **oneway**\n- **bridge**\n- **layer**\n- **source**\n\n\nUrban Classification Attributes\n\n- **continent**\n- **country_iso_a2**\n- **urban** (0 = rural, 1 = urban)\n- **urban_area**\n- **osm_id**\n- **osm_type**\n\n\nData Sources\n\nThe dataset originates from OpenStreetMap (OSM) and is augmented with\ndeep learning predictions based on Mapillary street-level imagery,\ncombined with the GHSU Global Human Settlement Urban Layer 2019\nand AFRICAPOLIS 2020 urban layer.\n\nMore HeiGIT datasets:\nhttps://data.humdata.org/organization/heidelberg-institute-for-geoinformation-technology\n\nMore information:\nhttps://heigit.org/\n\nContact:\ncommunications@heigit.org",
+  "num_resources": 2,
+  "num_tags": 13,
+  "organization": {
+    "id": "14bd839d-9011-44cd-9097-efb38bf7fea6",
+    "name": "heidelberg-institute-for-geoinformation-technology",
+    "title": "HeiGIT (Heidelberg Institute for Geoinformation Technology)",
+    "type": "organization",
+    "description": "HeiGIT (Heidelberg Institute for Geoinformation Technology) performs applied research relating to geographic information. Results and data are made freely available for the benefit of the environment and society through stakeholders such as researchers and aid organizations & associations.\r\n\r\nThe core foci of HeiGIT range from supporting humanitarian missions with customized geodata, to developing intelligent routing solutions for disasters or heatwaves. HeiGIT also implements innovative methods from the fields of spatial data processing and machine learning to analyze, enrich, and visualize geodata (e.g. OpenStreetMap data), as well as offering practical data analysis for climate protection initiatives.\r\n\r\nHeiGIT gGmbH was founded in 2019 as an affiliated institute of Heidelberg University, with core funding from the Klaus Tschira Foundation.",
+    "image_url": "",
+    "created": "2022-02-04T16:14:36.397317",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
+  "package_creator": "sukanya-randhawa-6497",
+  "pageviews_last_14_days": 0,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Guadeloupe\"]}",
+  "state": "active",
+  "subnational": "0",
+  "title": "Guadeloupe: Road Surface Data",
+  "total_res_downloads": 3,
+  "type": "dataset",
+  "updated_by_script": "HDXPythonLibrary/6.6.5-HeiGIT (2026-03-02T17:05:03.083246)",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Guadeloupe",
+      "id": "glp",
+      "image_display_url": "",
+      "name": "glp",
+      "title": "Guadeloupe"
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2024-11-19T10:23:18.224765",
+      "datastore_active": false,
+      "description": "GeoJSON data for Guadeloupe.",
+      "download_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_glp_roadsurface_lines.geojson",
+      "format": "GeoJSON",
+      "hash": "\"2a7892a-62740f6c1a021\"",
+      "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_glp_roadsurface_lines.geojson",
+      "id": "a2bacac9-2dcb-425b-9bcd-20c8439b1c75",
+      "last_modified": "2024-11-19T10:23:18.201778",
+      "metadata_modified": "2026-03-02T17:27:23.714501",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Guadeloupe GeoJSON Resource",
+      "package_id": "a4418cae-8730-416e-b9ce-79d6ed91d61e",
+      "position": 0,
+      "resource_type": "api",
+      "shape_info": "[{\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2024-11-19T10:23:18.043976\"}, {\"state\": \"success\", \"message\": \"Import successful\", \"layer_id\": \"pre_a2bacac9_2dcb_425b_9bcd_20c8439b1c75\", \"error_type\": \"None\", \"error_class\": \"None\", \"bounding_box\": \"BOX(-61.808586 15.841184,-61.003406 16.509903)\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"continent\", \"data_type\": \"character varying\"}, {\"field_name\": \"country_iso_a2\", \"data_type\": \"character varying\"}, {\"field_name\": \"country_iso_a3\", \"data_type\": \"character varying\"}, {\"field_name\": \"urban\", \"data_type\": \"character varying\"}, {\"field_name\": \"urban_area\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_id\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_type\", \"data_type\": \"character varying\"}, {\"field_name\": \"highway\", \"data_type\": \"character varying\"}, {\"field_name\": \"surface\", \"data_type\": \"character varying\"}, {\"field_name\": \"smoothness\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_surface_class\", \"data_type\": \"character varying\"}, {\"field_name\": \"pred_class\", \"data_type\": \"character varying\"}, {\"field_name\": \"pred_label\", \"data_type\": \"character varying\"}, {\"field_name\": \"combined_surface_osm_priority\", \"data_type\": \"character varying\"}, {\"field_name\": \"combined_surface_dl_priority\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_changeset_timestamp\", \"data_type\": \"character varying\"}, {\"field_name\": \"dl_mean_timestamp\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_length\", \"data_type\": \"character varying\"}, {\"field_name\": \"predicted_length\", \"data_type\": \"character varying\"}, {\"field_name\": \"n_of_predictions_used\", \"data_type\": \"character varying\"}, {\"field_name\": \"name\", \"data_type\": \"character varying\"}, {\"field_name\": \"name:en\", \"data_type\": \"character varying\"}, {\"field_name\": \"width\", \"data_type\": \"character varying\"}, {\"field_name\": \"lanes\", \"data_type\": \"character varying\"}, {\"field_name\": \"oneway\", \"data_type\": \"character varying\"}, {\"field_name\": \"bridge\", \"data_type\": \"character varying\"}, {\"field_name\": \"layer\", \"data_type\": \"character varying\"}, {\"field_name\": \"source\", \"data_type\": \"character varying\"}, {\"field_name\": \"name:fr\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"timestamp\": \"2024-11-19T10:47:20.806453\"}, {\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2024-12-05T14:19:09.962032\"}, {\"state\": \"success\", \"message\": \"Import successful\", \"layer_id\": \"pre_a2bacac9_2dcb_425b_9bcd_20c8439b1c75\", \"error_type\": \"None\", \"error_class\": \"None\", \"bounding_box\": \"BOX(-61.808586 15.841184,-61.003406 16.509903)\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"continent\", \"data_type\": \"character varying\"}, {\"field_name\": \"country_iso_a2\", \"data_type\": \"character varying\"}, {\"field_name\": \"country_iso_a3\", \"data_type\": \"character varying\"}, {\"field_name\": \"urban\", \"data_type\": \"character varying\"}, {\"field_name\": \"urban_area\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_id\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_type\", \"data_type\": \"character varying\"}, {\"field_name\": \"highway\", \"data_type\": \"character varying\"}, {\"field_name\": \"surface\", \"data_type\": \"character varying\"}, {\"field_name\": \"smoothness\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_surface_class\", \"data_type\": \"character varying\"}, {\"field_name\": \"pred_class\", \"data_type\": \"character varying\"}, {\"field_name\": \"pred_label\", \"data_type\": \"character varying\"}, {\"field_name\": \"combined_surface_osm_priority\", \"data_type\": \"character varying\"}, {\"field_name\": \"combined_surface_dl_priority\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_changeset_timestamp\", \"data_type\": \"character varying\"}, {\"field_name\": \"dl_mean_timestamp\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_length\", \"data_type\": \"character varying\"}, {\"field_name\": \"predicted_length\", \"data_type\": \"character varying\"}, {\"field_name\": \"n_of_predictions_used\", \"data_type\": \"character varying\"}, {\"field_name\": \"name\", \"data_type\": \"character varying\"}, {\"field_name\": \"name:en\", \"data_type\": \"character varying\"}, {\"field_name\": \"width\", \"data_type\": \"character varying\"}, {\"field_name\": \"lanes\", \"data_type\": \"character varying\"}, {\"field_name\": \"oneway\", \"data_type\": \"character varying\"}, {\"field_name\": \"bridge\", \"data_type\": \"character varying\"}, {\"field_name\": \"layer\", \"data_type\": \"character varying\"}, {\"field_name\": \"source\", \"data_type\": \"character varying\"}, {\"field_name\": \"name:fr\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"timestamp\": \"2024-12-05T15:36:30.878760\"}, {\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2026-03-02T17:05:03.335626\"}, {\"state\": \"success\", \"message\": \"Import successful\", \"layer_id\": \"pre_a2bacac9_2dcb_425b_9bcd_20c8439b1c75\", \"error_type\": \"None\", \"error_class\": \"None\", \"bounding_box\": \"BOX(-61.808586 15.841184,-61.003406 16.509903)\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"continent\", \"data_type\": \"character varying\"}, {\"field_name\": \"country_iso_a2\", \"data_type\": \"character varying\"}, {\"field_name\": \"country_iso_a3\", \"data_type\": \"character varying\"}, {\"field_name\": \"urban\", \"data_type\": \"character varying\"}, {\"field_name\": \"urban_area\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_id\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_type\", \"data_type\": \"character varying\"}, {\"field_name\": \"highway\", \"data_type\": \"character varying\"}, {\"field_name\": \"surface\", \"data_type\": \"character varying\"}, {\"field_name\": \"smoothness\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_surface_class\", \"data_type\": \"character varying\"}, {\"field_name\": \"pred_class\", \"data_type\": \"character varying\"}, {\"field_name\": \"pred_label\", \"data_type\": \"character varying\"}, {\"field_name\": \"combined_surface_osm_priority\", \"data_type\": \"character varying\"}, {\"field_name\": \"combined_surface_dl_priority\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_changeset_timestamp\", \"data_type\": \"character varying\"}, {\"field_name\": \"dl_mean_timestamp\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_length\", \"data_type\": \"character varying\"}, {\"field_name\": \"predicted_length\", \"data_type\": \"character varying\"}, {\"field_name\": \"n_of_predictions_used\", \"data_type\": \"character varying\"}, {\"field_name\": \"name\", \"data_type\": \"character varying\"}, {\"field_name\": \"name:en\", \"data_type\": \"character varying\"}, {\"field_name\": \"width\", \"data_type\": \"character varying\"}, {\"field_name\": \"lanes\", \"data_type\": \"character varying\"}, {\"field_name\": \"oneway\", \"data_type\": \"character varying\"}, {\"field_name\": \"bridge\", \"data_type\": \"character varying\"}, {\"field_name\": \"layer\", \"data_type\": \"character varying\"}, {\"field_name\": \"source\", \"data_type\": \"character varying\"}, {\"field_name\": \"name:fr\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"timestamp\": \"2026-03-02T17:27:23.487760\"}]",
+      "size": 44534058,
+      "state": "active",
+      "url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_glp_roadsurface_lines.geojson",
+      "url_type": "api"
+    },
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2024-11-19T10:23:18.224770",
+      "datastore_active": false,
+      "description": "Geopackage data for Guadeloupe.",
+      "download_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_glp_roadsurface_lines.gpkg",
+      "format": "Geopackage",
+      "hash": "\"f01000-62740fc0af191\"",
+      "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_glp_roadsurface_lines.gpkg",
+      "id": "34893e94-6780-4dea-9f5e-25f0b54f221b",
+      "last_modified": "2024-11-19T10:23:18.202051",
+      "metadata_modified": "2026-03-02T17:05:03.476662",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Guadeloupe GeoPackage Resource",
+      "package_id": "a4418cae-8730-416e-b9ce-79d6ed91d61e",
+      "position": 1,
+      "resource_type": "api",
+      "size": 15732736,
+      "state": "active",
+      "url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_glp_roadsurface_lines.gpkg",
+      "url_type": "api"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "development",
+      "id": "3be50db2-69e2-406f-83b8-195598d0c0d5",
+      "name": "development",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "humanitarian access",
+      "id": "be991471-7303-4923-9c75-69e866fab7ae",
+      "name": "humanitarian access",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "indicators",
+      "id": "08dade96-0bf4-4248-9d9f-421f7b844e53",
+      "name": "indicators",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "logistics",
+      "id": "f62348c5-1d96-4b3a-9133-5e8b48b0d1af",
+      "name": "logistics",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "openstreetmap",
+      "id": "9e07a23b-e8ec-42f6-afa6-0a77405a343a",
+      "name": "openstreetmap",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "poverty",
+      "id": "c3544ec4-753e-4c1b-9cd6-942fb689fab5",
+      "name": "poverty",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "roads",
+      "id": "a775d5e5-2168-4b89-b415-87d77e424b0c",
+      "name": "roads",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "services",
+      "id": "9f54b0e4-78df-4939-a2a1-892aaf4396ce",
+      "name": "services",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "socioeconomics",
+      "id": "a64218ff-64ff-4777-a664-6b0a331ab605",
+      "name": "socioeconomics",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "sustainable development",
+      "id": "95dbee08-4aea-468c-8e3e-bf2d178164e6",
+      "name": "sustainable development",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "sustainable development goals-sdg",
+      "id": "570d5718-b98f-46af-ac89-2b6f49fa9ed1",
+      "name": "sustainable development goals-sdg",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "transportation",
+      "id": "ee1a5568-91f1-4274-b10a-846a81335975",
+      "name": "transportation",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "urban",
+      "id": "a859a0b3-7b16-4ee6-8994-d9b1ac38bea8",
+      "name": "urban",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

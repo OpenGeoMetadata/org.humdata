@@ -1,0 +1,462 @@
+{
+  "archived": false,
+  "creator_user_id": "abd2a5b4-9f84-43f8-b660-450933a4a798",
+  "data_update_frequency": "-2",
+  "dataset_date": "[1980-01-01T00:00:00 TO 2022-12-31T23:59:59]",
+  "dataset_preview": "no_preview",
+  "dataset_source": "HarvestStat Africa",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "7fa9576d-3ccb-4a99-91e8-7c5650d86539",
+  "is_requestdata_type": false,
+  "isopen": false,
+  "last_modified": "2026-02-06T10:20:14.468116",
+  "license_id": "hdx-other",
+  "license_other": "[CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)",
+  "license_title": "Other",
+  "maintainer": "abd2a5b4-9f84-43f8-b660-450933a4a798",
+  "metadata_created": "2026-02-05T10:27:45.852469",
+  "metadata_modified": "2026-02-12T05:28:48.221913",
+  "methodology": "Other",
+  "methodology_other": "View Scientific Data article for detailed [methodology](https://www.nature.com/articles/s41597-025-05001-z)",
+  "name": "harveststat-africa",
+  "notes": "HarvestStat Africa presents the largest compilation of open-access sub-national crop statistics and time-series across Sub-Saharan Africa. Based on agricultural statistics collated by the Famine Early Warning Systems Network, the sub-national crop statistics are standardized and calibrated across changing administrative units to produce consistent and continuous time-series. \r\n\r\nThe dataset includes 574,204 records, primarily spanning from 1980 to 2022, detailing quantity produced (metric tonnes; mt), harvested areas (hectares; ha), and yields (metric tonnes per hectare; mt/ha) for 33 countries and 94 crop types, including key cereals in Sub-Saharan Africa such as wheat, maize, rice, sorghum, barley, millet, and fonio. \r\n\r\nAs an open-source resource, it establishes a precedent for sharing sub-national crop statistics to inform decision-making and modeling efforts.",
+  "num_resources": 4,
+  "num_tags": 3,
+  "organization": {
+    "id": "4fce498a-42af-4626-8d03-b9ad0a55334a",
+    "name": "harveststat",
+    "title": "HarvestStat Consortium",
+    "type": "organization",
+    "description": "The HarvestStat Consortium is collaboratively collating subnational agricultural statistics to produce a freely available global database for use in research and operations.",
+    "image_url": "",
+    "created": "2025-11-11T15:14:06.299715",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "4fce498a-42af-4626-8d03-b9ad0a55334a",
+  "package_creator": "melanie-rabier",
+  "pageviews_last_14_days": 62,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Angola\", \"Benin\", \"Burkina Faso\", \"Burundi\", \"Cameroon\", \"Central African Republic\", \"Chad\", \"Democratic Republic of the Congo\", \"Ethiopia\", \"Ghana\", \"Guinea\", \"Kenya\", \"Lesotho\", \"Liberia\", \"Madagascar\", \"Malawi\", \"Mali\", \"Mauritania\", \"Mozambique\", \"Niger\", \"Nigeria\", \"Rwanda\", \"Senegal\", \"Sierra Leone\", \"Somalia\", \"South Africa\", \"South Sudan\", \"Sudan\", \"Togo\", \"Uganda\", \"United Republic of Tanzania\", \"Zambia\", \"Zimbabwe\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "HarvestStat Africa - Harmonized Subnational Crop Statistics for Sub-Saharan Africa",
+  "total_res_downloads": 297,
+  "type": "dataset",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Angola",
+      "id": "ago",
+      "image_display_url": "",
+      "name": "ago",
+      "title": "Angola"
+    },
+    {
+      "description": "",
+      "display_name": "Benin",
+      "id": "ben",
+      "image_display_url": "",
+      "name": "ben",
+      "title": "Benin"
+    },
+    {
+      "description": "",
+      "display_name": "Burkina Faso",
+      "id": "bfa",
+      "image_display_url": "",
+      "name": "bfa",
+      "title": "Burkina Faso"
+    },
+    {
+      "description": "",
+      "display_name": "Burundi",
+      "id": "bdi",
+      "image_display_url": "",
+      "name": "bdi",
+      "title": "Burundi"
+    },
+    {
+      "description": "",
+      "display_name": "Cameroon",
+      "id": "cmr",
+      "image_display_url": "",
+      "name": "cmr",
+      "title": "Cameroon"
+    },
+    {
+      "description": "",
+      "display_name": "Central African Republic",
+      "id": "caf",
+      "image_display_url": "",
+      "name": "caf",
+      "title": "Central African Republic"
+    },
+    {
+      "description": "",
+      "display_name": "Chad",
+      "id": "tcd",
+      "image_display_url": "",
+      "name": "tcd",
+      "title": "Chad"
+    },
+    {
+      "description": "",
+      "display_name": "Democratic Republic of the Congo",
+      "id": "cod",
+      "image_display_url": "",
+      "name": "cod",
+      "title": "Democratic Republic of the Congo"
+    },
+    {
+      "description": "",
+      "display_name": "Ethiopia",
+      "id": "eth",
+      "image_display_url": "",
+      "name": "eth",
+      "title": "Ethiopia"
+    },
+    {
+      "description": "",
+      "display_name": "Ghana",
+      "id": "gha",
+      "image_display_url": "",
+      "name": "gha",
+      "title": "Ghana"
+    },
+    {
+      "description": "",
+      "display_name": "Guinea",
+      "id": "gin",
+      "image_display_url": "",
+      "name": "gin",
+      "title": "Guinea"
+    },
+    {
+      "description": "",
+      "display_name": "Kenya",
+      "id": "ken",
+      "image_display_url": "",
+      "name": "ken",
+      "title": "Kenya"
+    },
+    {
+      "description": "",
+      "display_name": "Lesotho",
+      "id": "lso",
+      "image_display_url": "",
+      "name": "lso",
+      "title": "Lesotho"
+    },
+    {
+      "description": "",
+      "display_name": "Liberia",
+      "id": "lbr",
+      "image_display_url": "",
+      "name": "lbr",
+      "title": "Liberia"
+    },
+    {
+      "description": "",
+      "display_name": "Madagascar",
+      "id": "mdg",
+      "image_display_url": "",
+      "name": "mdg",
+      "title": "Madagascar"
+    },
+    {
+      "description": "",
+      "display_name": "Malawi",
+      "id": "mwi",
+      "image_display_url": "",
+      "name": "mwi",
+      "title": "Malawi"
+    },
+    {
+      "description": "",
+      "display_name": "Mali",
+      "id": "mli",
+      "image_display_url": "",
+      "name": "mli",
+      "title": "Mali"
+    },
+    {
+      "description": "",
+      "display_name": "Mauritania",
+      "id": "mrt",
+      "image_display_url": "",
+      "name": "mrt",
+      "title": "Mauritania"
+    },
+    {
+      "description": "",
+      "display_name": "Mozambique",
+      "id": "moz",
+      "image_display_url": "",
+      "name": "moz",
+      "title": "Mozambique"
+    },
+    {
+      "description": "",
+      "display_name": "Niger",
+      "id": "ner",
+      "image_display_url": "",
+      "name": "ner",
+      "title": "Niger"
+    },
+    {
+      "description": "",
+      "display_name": "Nigeria",
+      "id": "nga",
+      "image_display_url": "",
+      "name": "nga",
+      "title": "Nigeria"
+    },
+    {
+      "description": "",
+      "display_name": "Rwanda",
+      "id": "rwa",
+      "image_display_url": "",
+      "name": "rwa",
+      "title": "Rwanda"
+    },
+    {
+      "description": "",
+      "display_name": "Senegal",
+      "id": "sen",
+      "image_display_url": "",
+      "name": "sen",
+      "title": "Senegal"
+    },
+    {
+      "description": "",
+      "display_name": "Sierra Leone",
+      "id": "sle",
+      "image_display_url": "",
+      "name": "sle",
+      "title": "Sierra Leone"
+    },
+    {
+      "description": "",
+      "display_name": "Somalia",
+      "id": "som",
+      "image_display_url": "",
+      "name": "som",
+      "title": "Somalia"
+    },
+    {
+      "description": "",
+      "display_name": "South Africa",
+      "id": "zaf",
+      "image_display_url": "",
+      "name": "zaf",
+      "title": "South Africa"
+    },
+    {
+      "description": "",
+      "display_name": "South Sudan",
+      "id": "ssd",
+      "image_display_url": "",
+      "name": "ssd",
+      "title": "South Sudan"
+    },
+    {
+      "description": "",
+      "display_name": "Sudan",
+      "id": "sdn",
+      "image_display_url": "",
+      "name": "sdn",
+      "title": "Sudan"
+    },
+    {
+      "description": "",
+      "display_name": "Togo",
+      "id": "tgo",
+      "image_display_url": "",
+      "name": "tgo",
+      "title": "Togo"
+    },
+    {
+      "description": "",
+      "display_name": "Uganda",
+      "id": "uga",
+      "image_display_url": "",
+      "name": "uga",
+      "title": "Uganda"
+    },
+    {
+      "description": "",
+      "display_name": "United Republic of Tanzania",
+      "id": "tza",
+      "image_display_url": "",
+      "name": "tza",
+      "title": "United Republic of Tanzania"
+    },
+    {
+      "description": "",
+      "display_name": "Zambia",
+      "id": "zmb",
+      "image_display_url": "",
+      "name": "zmb",
+      "title": "Zambia"
+    },
+    {
+      "description": "",
+      "display_name": "Zimbabwe",
+      "id": "zwe",
+      "image_display_url": "",
+      "name": "zwe",
+      "title": "Zimbabwe"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/7fa9576d-3ccb-4a99-91e8-7c5650d86539/resource/acaf06d1-0d22-44ef-8c24-9aa5af560e16/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2026-02-05T10:27:49.729102",
+      "dataset_preview_enabled": false,
+      "datastore_active": false,
+      "description": "A CSV file containing harmonized subnational crop statistics.",
+      "download_url": "https://data.humdata.org/dataset/7fa9576d-3ccb-4a99-91e8-7c5650d86539/resource/acaf06d1-0d22-44ef-8c24-9aa5af560e16/download/hvstat_africa_data_v1.0.csv",
+      "format": "CSV",
+      "fs_check_info": "[{\"state\": \"processing\", \"message\": \"The processing of the file structure check has started\", \"timestamp\": \"2026-02-05T10:27:49.625907\"}, {\"state\": \"error\", \"message\": \"404 Client Error: Not Found for url: /api/source-info?url=https://data.humdata.org/dataset/7fa9576d-3ccb-4a99-91e8-7c5650d86539/resource/acaf06d1-0d22-44ef-8c24-9aa5af560e16/download/hvstat_africa_data_v1.0.csv\", \"timestamp\": \"2026-02-05T10:28:06.489724\", \"sheet_changes\": [], \"hxl_proxy_response\": {\"error\": \"HTTPError\", \"details\": \"404 Client Error: Not Found for url: /api/source-info?url=https://data.humdata.org/dataset/7fa9576d-3ccb-4a99-91e8-7c5650d86539/resource/acaf06d1-0d22-44ef-8c24-9aa5af560e16/download/hvstat_africa_data_v1.0.csv\"}}]",
+      "hash": "",
+      "hdx_rel_url": "/dataset/7fa9576d-3ccb-4a99-91e8-7c5650d86539/resource/acaf06d1-0d22-44ef-8c24-9aa5af560e16/download/hvstat_africa_data_v1.0.csv",
+      "id": "acaf06d1-0d22-44ef-8c24-9aa5af560e16",
+      "last_modified": "2026-02-05T10:27:49.638148",
+      "metadata_modified": "2026-02-06T10:20:09.994346",
+      "microdata": false,
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "name": "hvstat_africa_data_v1.0.csv",
+      "originalHash": -1884308145,
+      "package_id": "7fa9576d-3ccb-4a99-91e8-7c5650d86539",
+      "pii": "false",
+      "position": 0,
+      "resource_type": "file.upload",
+      "size": 23242587,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/7fa9576d-3ccb-4a99-91e8-7c5650d86539/resource/acaf06d1-0d22-44ef-8c24-9aa5af560e16/download/hvstat_africa_data_v1.0.csv",
+      "url_type": "upload"
+    },
+    {
+      "alt_url": "https://data.humdata.org/dataset/7fa9576d-3ccb-4a99-91e8-7c5650d86539/resource/8da7834e-99c7-4854-a56f-75101b2a2904/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2026-02-06T10:20:10.005372",
+      "dataset_preview_enabled": false,
+      "datastore_active": false,
+      "description": "A GeoPackage file with FEWS NET’s administrative boundaries, aligned with crop statistics via FNID.\r\n",
+      "download_url": "https://data.humdata.org/dataset/7fa9576d-3ccb-4a99-91e8-7c5650d86539/resource/8da7834e-99c7-4854-a56f-75101b2a2904/download/hvstat_africa_boundary_v1.0.gpkg",
+      "format": "Geopackage",
+      "hash": "",
+      "hdx_rel_url": "/dataset/7fa9576d-3ccb-4a99-91e8-7c5650d86539/resource/8da7834e-99c7-4854-a56f-75101b2a2904/download/hvstat_africa_boundary_v1.0.gpkg",
+      "id": "8da7834e-99c7-4854-a56f-75101b2a2904",
+      "last_modified": "2026-02-06T10:20:09.885933",
+      "metadata_modified": "2026-02-06T10:20:12.823760",
+      "microdata": false,
+      "mimetype": "application/octet-stream",
+      "mimetype_inner": null,
+      "name": "hvstat_africa_boundary_v1.0.gpkg",
+      "originalHash": "8750915",
+      "package_id": "7fa9576d-3ccb-4a99-91e8-7c5650d86539",
+      "pii": "false",
+      "position": 1,
+      "resource_type": "file.upload",
+      "size": 8196096,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/7fa9576d-3ccb-4a99-91e8-7c5650d86539/resource/8da7834e-99c7-4854-a56f-75101b2a2904/download/hvstat_africa_boundary_v1.0.gpkg",
+      "url_type": "upload"
+    },
+    {
+      "alt_url": "https://data.humdata.org/dataset/7fa9576d-3ccb-4a99-91e8-7c5650d86539/resource/abcf85d6-3327-47da-b8e1-24845efc5251/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2026-02-06T10:20:12.836468",
+      "dataset_preview_enabled": false,
+      "datastore_active": false,
+      "description": "A zipped file containing raw FDW data for 33 countries.",
+      "download_url": "https://data.humdata.org/dataset/7fa9576d-3ccb-4a99-91e8-7c5650d86539/resource/abcf85d6-3327-47da-b8e1-24845efc5251/download/fdw_raw_data_v1.0.zip",
+      "format": "CSV",
+      "fs_check_info": "[{\"state\": \"processing\", \"message\": \"The processing of the file structure check has started\", \"timestamp\": \"2026-02-06T10:20:12.723795\"}, {\"state\": \"error\", \"message\": \"404 Client Error: Not Found for url: /api/source-info?url=https://data.humdata.org/dataset/7fa9576d-3ccb-4a99-91e8-7c5650d86539/resource/abcf85d6-3327-47da-b8e1-24845efc5251/download/fdw_raw_data_v1.0.zip\", \"timestamp\": \"2026-02-06T10:20:14.040218\", \"sheet_changes\": [], \"hxl_proxy_response\": {\"error\": \"HTTPError\", \"details\": \"404 Client Error: Not Found for url: /api/source-info?url=https://data.humdata.org/dataset/7fa9576d-3ccb-4a99-91e8-7c5650d86539/resource/abcf85d6-3327-47da-b8e1-24845efc5251/download/fdw_raw_data_v1.0.zip\"}}]",
+      "hash": "",
+      "hdx_rel_url": "/dataset/7fa9576d-3ccb-4a99-91e8-7c5650d86539/resource/abcf85d6-3327-47da-b8e1-24845efc5251/download/fdw_raw_data_v1.0.zip",
+      "id": "abcf85d6-3327-47da-b8e1-24845efc5251",
+      "last_modified": "2026-02-06T10:20:12.731977",
+      "metadata_modified": "2026-02-06T10:20:14.133315",
+      "microdata": false,
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "fdw_raw_data_v1.0.zip",
+      "originalHash": "8750915",
+      "package_id": "7fa9576d-3ccb-4a99-91e8-7c5650d86539",
+      "pii": "false",
+      "position": 2,
+      "resource_type": "file.upload",
+      "size": 44483751,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/7fa9576d-3ccb-4a99-91e8-7c5650d86539/resource/abcf85d6-3327-47da-b8e1-24845efc5251/download/fdw_raw_data_v1.0.zip",
+      "url_type": "upload"
+    },
+    {
+      "alt_url": "https://data.humdata.org/dataset/7fa9576d-3ccb-4a99-91e8-7c5650d86539/resource/d97523d2-1ca0-480c-a4be-c7378a256f0f/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2026-02-06T10:20:14.587676",
+      "dataset_preview_enabled": false,
+      "datastore_active": false,
+      "description": "Read Me containing details about the authors, publications, file list and file structure as well as a change log. ",
+      "download_url": "https://data.humdata.org/dataset/7fa9576d-3ccb-4a99-91e8-7c5650d86539/resource/d97523d2-1ca0-480c-a4be-c7378a256f0f/download/readme.md",
+      "format": "TXT",
+      "hash": "",
+      "hdx_rel_url": "/dataset/7fa9576d-3ccb-4a99-91e8-7c5650d86539/resource/d97523d2-1ca0-480c-a4be-c7378a256f0f/download/readme.md",
+      "id": "d97523d2-1ca0-480c-a4be-c7378a256f0f",
+      "last_modified": "2026-02-06T10:20:14.468116",
+      "metadata_modified": "2026-02-06T10:24:30.282509",
+      "microdata": false,
+      "mimetype": "application/octet-stream",
+      "mimetype_inner": null,
+      "name": "README.md",
+      "originalHash": 93932358,
+      "package_id": "7fa9576d-3ccb-4a99-91e8-7c5650d86539",
+      "pii": "false",
+      "position": 3,
+      "resource_type": "file.upload",
+      "size": 8038,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/7fa9576d-3ccb-4a99-91e8-7c5650d86539/resource/d97523d2-1ca0-480c-a4be-c7378a256f0f/download/readme.md",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "africa",
+      "id": "9b05220b-0f1e-46ba-912a-36a895c04695",
+      "name": "africa",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "agriculture-livestock",
+      "id": "e6b84407-4b14-4b0a-95c5-314da049f64c",
+      "name": "agriculture-livestock",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "food security",
+      "id": "b084d063-149c-4b7d-811b-18e320ca0b8c",
+      "name": "food security",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

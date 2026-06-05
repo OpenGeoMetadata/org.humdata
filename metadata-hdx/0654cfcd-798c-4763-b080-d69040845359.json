@@ -1,0 +1,130 @@
+{
+  "archived": true,
+  "creator_user_id": "6d4d394a-2e39-4f9c-811a-6b3d1b15de61",
+  "data_update_frequency": "-1",
+  "dataset_date": "[2017-12-01T00:00:00 TO 2019-07-19T23:59:59]",
+  "dataset_preview": "no_preview",
+  "dataset_source": "International Peace Information Service (IPIS)",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "0654cfcd-798c-4763-b080-d69040845359",
+  "is_requestdata_type": false,
+  "isopen": false,
+  "last_modified": "2026-04-29T08:44:08.729442",
+  "license_id": "hdx-odc-by",
+  "license_title": "Open Data Commons Attribution License (ODC-BY)",
+  "license_url": "https://opendatacommons.org/licenses/by/1-0/",
+  "maintainer": "e32d5afb-cc7e-4715-85b7-5a3b849443f5",
+  "metadata_created": "2019-07-19T13:44:50.535224",
+  "metadata_modified": "2026-04-29T09:10:24.290861",
+  "methodology": "Sample Survey",
+  "name": "tza_mines_curated_all_opendata_p_ipis",
+  "notes": "Artisanal mining site visits in North-West Tanzania",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "id": "57bf9c32-010f-4d5b-90c3-a134395610b0",
+    "name": "ipis",
+    "title": "International Peace Information Service (IPIS) (inactive)",
+    "type": "organization",
+    "description": "International Peace Information Service (IPIS) is an independent research institute providing tailored information, analysis, and capacity enhancement to support those actors who want to realize a vision of durable peace, sustainable development and the fulfillment of human rights.",
+    "image_url": "",
+    "created": "2019-07-19T10:27:57.660053",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "57bf9c32-010f-4d5b-90c3-a134395610b0",
+  "package_creator": "ipisresearch",
+  "pageviews_last_14_days": 0,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"United Republic of Tanzania\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "North-West Tanzanian mining sites 2017-2019",
+  "total_res_downloads": 16,
+  "type": "dataset",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "United Republic of Tanzania",
+      "id": "tza",
+      "image_display_url": "",
+      "name": "tza",
+      "title": "United Republic of Tanzania"
+    }
+  ],
+  "resources": [
+    {
+      "broken_link": true,
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-19T13:44:51.889270",
+      "dataset_preview_enabled": false,
+      "datastore_active": false,
+      "description": "Artisanal mining site visits in North-West Tanzania",
+      "download_url": "http://geo.ipisresearch.be/geoserver/public/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=public:tza_mines_curated_all_opendata_p_ipis&outputFormat=application%2Fjson",
+      "format": "GeoJSON",
+      "hash": "7d59e7790a93f51c7082f8732206284b",
+      "hdx_rel_url": "http://geo.ipisresearch.be/geoserver/public/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=public:tza_mines_curated_all_opendata_p_ipis&outputFormat=application%2Fjson",
+      "id": "5a21b3c2-c531-4326-8275-8be2c8223712",
+      "last_modified": "2026-04-29T08:44:08.729442",
+      "metadata_modified": "2026-04-29T09:10:24.311365",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "tza_mines_curated_all_opendata_p_ipis",
+      "originalHash": "434511475",
+      "package_id": "0654cfcd-798c-4763-b080-d69040845359",
+      "position": 0,
+      "resource_type": "api",
+      "shape_info": "[{\"error_class\": \"None\", \"layer_id\": \"None\", \"error_type\": \"None\", \"state\": \"processing\", \"timestamp\": \"2019-07-19T13:44:51.653791\", \"message\": \"The processing of the geo-preview has started\"}, {\"error_class\": \"None\", \"layer_fields\": [{\"field_name\": \"id\", \"data_type\": \"integer\"}, {\"field_name\": \"source\", \"data_type\": \"character varying\"}, {\"field_name\": \"project\", \"data_type\": \"character varying\"}, {\"field_name\": \"pcode\", \"data_type\": \"character varying\"}, {\"field_name\": \"sitename\", \"data_type\": \"character varying\"}, {\"field_name\": \"today\", \"data_type\": \"date\"}, {\"field_name\": \"visit\", \"data_type\": \"integer\"}, {\"field_name\": \"longitude\", \"data_type\": \"character varying\"}, {\"field_name\": \"latitude\", \"data_type\": \"character varying\"}, {\"field_name\": \"region\", \"data_type\": \"character varying\"}, {\"field_name\": \"disctrict\", \"data_type\": \"character varying\"}, {\"field_name\": \"village\", \"data_type\": \"character varying\"}, {\"field_name\": \"sitetype\", \"data_type\": \"character varying\"}, {\"field_name\": \"buildingtype\", \"data_type\": \"character varying\"}, {\"field_name\": \"closetoresidential\", \"data_type\": \"character varying\"}, {\"field_name\": \"camponesite\", \"data_type\": \"character varying\"}, {\"field_name\": \"peoplelivingincamp\", \"data_type\": \"integer\"}, {\"field_name\": \"liveincampwith\", \"data_type\": \"character varying\"}, {\"field_name\": \"worker\", \"data_type\": \"integer\"}, {\"field_name\": \"workerwomen\", \"data_type\": \"integer\"}, {\"field_name\": \"womenactivitiesmining\", \"data_type\": \"character varying\"}, {\"field_name\": \"cooppresent\", \"data_type\": \"character varying\"}, {\"field_name\": \"csr\", \"data_type\": \"character varying\"}, {\"field_name\": \"pits\", \"data_type\": \"integer\"}, {\"field_name\": \"mineral1name\", \"data_type\": \"character varying\"}, {\"field_name\": \"mineral2name\", \"data_type\": \"character varying\"}, {\"field_name\": \"mineral3name\", \"data_type\": \"character varying\"}, {\"field_name\": \"cyanide\", \"data_type\": \"character varying\"}, {\"field_name\": \"cyanidetailings\", \"data_type\": \"character varying\"}, {\"field_name\": \"mercury\", \"data_type\": \"character varying\"}, {\"field_name\": \"oreamalgamation\", \"data_type\": \"character varying\"}, {\"field_name\": \"openair\", \"data_type\": \"character varying\"}, {\"field_name\": \"openairclosetoresidential\", \"data_type\": \"character varying\"}, {\"field_name\": \"state1name\", \"data_type\": \"character varying\"}, {\"field_name\": \"state1freq\", \"data_type\": \"character varying\"}, {\"field_name\": \"state1purpose\", \"data_type\": \"character varying\"}, {\"field_name\": \"state2name\", \"data_type\": \"character varying\"}, {\"field_name\": \"state2freq\", \"data_type\": \"character varying\"}, {\"field_name\": \"state2purpose\", \"data_type\": \"character varying\"}, {\"field_name\": \"state3name\", \"data_type\": \"character varying\"}, {\"field_name\": \"state3freq\", \"data_type\": \"character varying\"}, {\"field_name\": \"state3purpose\", \"data_type\": \"character varying\"}, {\"field_name\": \"facilities\", \"data_type\": \"character varying\"}, {\"field_name\": \"workerchildunder15\", \"data_type\": \"integer\"}, {\"field_name\": \"childunder15activitiesmining\", \"data_type\": \"character varying\"}, {\"field_name\": \"childunder15nonmining\", \"data_type\": \"integer\"}, {\"field_name\": \"childunder15activitiesnonmining\", \"data_type\": \"character varying\"}, {\"field_name\": \"accidentswoundedtotal\", \"data_type\": \"integer\"}, {\"field_name\": \"accidentswoundedcauses\", \"data_type\": \"character varying\"}, {\"field_name\": \"accidentskilledtotal\", \"data_type\": \"integer\"}, {\"field_name\": \"accidentskilledcauses\", \"data_type\": \"character varying\"}, {\"field_name\": \"incidents\", \"data_type\": \"character varying\"}, {\"field_name\": \"picture\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"layer_id\": \"pre_5a21b3c2_c531_4326_8275_8be2c8223712\", \"error_type\": \"None\", \"bounding_box\": \"BOX(29.72418667 -5.23786333,34.659975 -1.3458561)\", \"state\": \"success\", \"timestamp\": \"2019-07-19T13:44:54.183154\", \"message\": \"Import successful\"}]",
+      "size": 688119,
+      "state": "active",
+      "url": "http://geo.ipisresearch.be/geoserver/public/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=public:tza_mines_curated_all_opendata_p_ipis&outputFormat=application%2Fjson",
+      "url_type": "api"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "children",
+      "id": "3a4131ff-a500-4c77-ba6e-02da286daa99",
+      "name": "children",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "development",
+      "id": "3be50db2-69e2-406f-83b8-195598d0c0d5",
+      "name": "development",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "human rights",
+      "id": "60aaf965-1357-4726-bec3-e907f027aae0",
+      "name": "human rights",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "socioeconomics",
+      "id": "a64218ff-64ff-4777-a664-6b0a331ab605",
+      "name": "socioeconomics",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

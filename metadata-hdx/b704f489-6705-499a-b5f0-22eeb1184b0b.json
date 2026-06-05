@@ -1,0 +1,250 @@
+{
+  "archived": false,
+  "batch": "54bafdc6-82ca-401d-be60-cea504ae9fde",
+  "caveats": "Modified and Simplified by UN OCHA",
+  "creator_user_id": "2f9fd160-2a16-49c0-89d6-0bc3230599bf",
+  "data_update_frequency": "7",
+  "dataset_date": "[2026-03-05T00:00:00 TO 2026-06-03T23:59:59]",
+  "dataset_preview": "resource_id",
+  "dataset_source": "AER FloodScan: Atmospheric and Environmental Research (AER).",
+  "due_date": "2026-06-10T23:59:59",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "b704f489-6705-499a-b5f0-22eeb1184b0b",
+  "is_requestdata_type": false,
+  "isopen": false,
+  "last_modified": "2026-06-04T23:30:01.403634",
+  "license_id": "cc-by-igo",
+  "license_title": "Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO)",
+  "license_url": "http://creativecommons.org/licenses/by/3.0/igo/legalcode",
+  "maintainer": "2f9fd160-2a16-49c0-89d6-0bc3230599bf",
+  "metadata_created": "2025-01-31T00:24:20.366932",
+  "metadata_modified": "2026-06-04T23:31:21.601226",
+  "methodology": "Other",
+  "methodology_other": " Raster \n \n- Daily FloodScan SFED(flood fraction) band obtained directly from AER.\n \n- Daily historical SFED  band smoothed with 11 day centered rolling mean (+/-5 days).\n \n- Average day-of-year (DOY) raster calculated using last  10 years of smoothed data (2013-2023) to create SFED Baseline band\n \n- SFED & SFED Baseline band merged per day.\n \n- Last 90 days of merged SFED + SFED Baseline bands zipped\n \n Tabular \n \n- Daily zonal stats (mean) for all historical SFED data 1998-01-01 - 2023-12-31 for each Admin 2 covered by FloodScan extent\n \n- Return periods calculated form zonal mean data per admin 2 using the Log III Pearson distribution.",
+  "name": "floodscan",
+  "notes": "FloodScan uses satellite data to map and monitor floods daily, helping compare current flood conditions with historical averages. This dataset contains two resources:   \n  \n The first (hdx_floodscan_zonal_stats.xlsx) is a daily tabular dataset providing average FloodScan Standard Flood Extent Depiction (SFED) flood fraction (0-100%) per admin 1  and 2 level. Historical baseline values (SFED_BASELINE) are calculated per day-of-year from the last 10 years of historical data (non-inclusive of current year) after applying an 11 day smoothing mean window. Return Period (RP) is calculated empirically based on all historical data up to the current year (non-inclusive).   \n  \n The second resource (aer_floodscan_300s_SFED_90d.zip) is a zipped file containing AER FloodScan estimated daily flood fraction (0-100%) gridded data at approximately 10 km resolution (300 arcseconds equivalent to approximately 0.083 degrees) for the last 90 days. Each file represents the estimates for a single day and includes 2 bands: SFED and SFED_BASELINE. The baseline band provides users an easy way to compare current values with historical averages. The baseline is calculated per day-of-year from the last 10 years of historical data (non-inclusive of current year) after applying an 11 day temporal smoothing mean window.",
+  "num_resources": 2,
+  "num_tags": 5,
+  "organization": {
+    "id": "53acf7a0-29d5-453d-82ab-20daa6645128",
+    "name": "aer",
+    "title": "JANUS Atmospheric and Environmental Research",
+    "type": "organization",
+    "description": "At JANUS Atmospheric and Environmental Research (AER), we are dedicated to advancing the scientific understanding of the atmosphere, ocean, and space environment, and translating this into actionable information for our customers.\r\n\r\nWe prepare public agencies and insurance, investment, and energy companies to anticipate, manage, react to, and profit from weather and climate related risk. We serve our clients by providing state-of-the-art research, development, and analysis delivered in reports, databases, and software solutions.\r\n\r\nOur scientists and engineers – more than 65 of whom hold PhDs or other advanced degrees – are globally recognized for being at the forefront of their respective fields. Areas of expertise span climate change, defense, hydrology, meteorology, oceanography, space, remote sensing, and atmospheric and environmental science.  Through externally funded research conducted by our in-house scientific staff, and often in collaboration with world-renowned scientists at academic and other research institutions, we have developed analytical tools to help measure and observe the properties of the environment and to translate these measurements into useful information to take action. We have clients in the private and public sectors around the world.",
+    "image_url": "",
+    "created": "2024-03-11T09:11:28.587714",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "53acf7a0-29d5-453d-82ab-20daa6645128",
+  "package_creator": "isabelle-tot",
+  "pageviews_last_14_days": 94,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Burkina Faso\", \"Cameroon\", \"Central African Republic\", \"Chad\", \"Ethiopia\", \"Mali\", \"Mozambique\", \"Niger\", \"Nigeria\", \"Somalia\", \"South Sudan\", \"Sudan\"]}",
+  "state": "active",
+  "subnational": "0",
+  "title": "FloodScan: Near Real-Time and Historical Flood Mapping",
+  "total_res_downloads": 1790,
+  "type": "dataset",
+  "updated_by_script": "HDX Scraper: FloodScan (2026-06-04T23:30:00.705240)",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Burkina Faso",
+      "id": "bfa",
+      "image_display_url": "",
+      "name": "bfa",
+      "title": "Burkina Faso"
+    },
+    {
+      "description": "",
+      "display_name": "Cameroon",
+      "id": "cmr",
+      "image_display_url": "",
+      "name": "cmr",
+      "title": "Cameroon"
+    },
+    {
+      "description": "",
+      "display_name": "Central African Republic",
+      "id": "caf",
+      "image_display_url": "",
+      "name": "caf",
+      "title": "Central African Republic"
+    },
+    {
+      "description": "",
+      "display_name": "Chad",
+      "id": "tcd",
+      "image_display_url": "",
+      "name": "tcd",
+      "title": "Chad"
+    },
+    {
+      "description": "",
+      "display_name": "Ethiopia",
+      "id": "eth",
+      "image_display_url": "",
+      "name": "eth",
+      "title": "Ethiopia"
+    },
+    {
+      "description": "",
+      "display_name": "Mali",
+      "id": "mli",
+      "image_display_url": "",
+      "name": "mli",
+      "title": "Mali"
+    },
+    {
+      "description": "",
+      "display_name": "Mozambique",
+      "id": "moz",
+      "image_display_url": "",
+      "name": "moz",
+      "title": "Mozambique"
+    },
+    {
+      "description": "",
+      "display_name": "Niger",
+      "id": "ner",
+      "image_display_url": "",
+      "name": "ner",
+      "title": "Niger"
+    },
+    {
+      "description": "",
+      "display_name": "Nigeria",
+      "id": "nga",
+      "image_display_url": "",
+      "name": "nga",
+      "title": "Nigeria"
+    },
+    {
+      "description": "",
+      "display_name": "Somalia",
+      "id": "som",
+      "image_display_url": "",
+      "name": "som",
+      "title": "Somalia"
+    },
+    {
+      "description": "",
+      "display_name": "South Sudan",
+      "id": "ssd",
+      "image_display_url": "",
+      "name": "ssd",
+      "title": "South Sudan"
+    },
+    {
+      "description": "",
+      "display_name": "Sudan",
+      "id": "sdn",
+      "image_display_url": "",
+      "name": "sdn",
+      "title": "Sudan"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/b704f489-6705-499a-b5f0-22eeb1184b0b/resource/b2108171-0a17-428f-9a28-7f3f7160d8f5/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2025-01-31T00:24:20.376779",
+      "dataset_preview_enabled": false,
+      "datastore_active": false,
+      "description": "Daily Excel file containing date, admin metadata, raw SFED mean values (per admin 1 and 2), the approximate calculated return period and the baseline value calculated from the past 10 years of data.",
+      "download_url": "https://data.humdata.org/dataset/b704f489-6705-499a-b5f0-22eeb1184b0b/resource/b2108171-0a17-428f-9a28-7f3f7160d8f5/download/floodscan_readme.xlsx",
+      "format": "XLSX",
+      "fs_check_info": "[{\"state\": \"success\", \"message\": \"File structure check completed\", \"timestamp\": \"2026-05-14T23:26:57.642377\", \"sheet_changes\": [], \"hxl_proxy_response\": {\"url_or_filename\": \"/dataset/b704f489-6705-499a-b5f0-22eeb1184b0b/resource/b2108171-0a17-428f-9a28-7f3f7160d8f5/download\", \"format\": \"XLSX\", \"sheets\": [{\"name\": \"Readme\", \"is_hidden\": false, \"nrows\": 9, \"ncols\": 1, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"36e1237b957fa2002d264c5fd031c547\", \"hxl_header_hash\": null, \"headers\": [\"Readme\"], \"hxl_headers\": null}, {\"name\": \"admin1\", \"is_hidden\": false, \"nrows\": 154149, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"0a3962c156313d564000247c231649b5\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"pcode\", \"ADM1_NAME\", \"ADM2_PCODE\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}, {\"name\": \"admin2\", \"is_hidden\": false, \"nrows\": 152903, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"6607caba26a447cd135c61c612a079bc\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"ADM1_PCODE\", \"ADM1_NAME\", \"pcode\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}]}}, {\"state\": \"success\", \"message\": \"File structure check completed\", \"timestamp\": \"2026-05-15T23:26:30.787981\", \"sheet_changes\": [], \"hxl_proxy_response\": {\"url_or_filename\": \"/dataset/b704f489-6705-499a-b5f0-22eeb1184b0b/resource/b2108171-0a17-428f-9a28-7f3f7160d8f5/download\", \"format\": \"XLSX\", \"sheets\": [{\"name\": \"Readme\", \"is_hidden\": false, \"nrows\": 9, \"ncols\": 1, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"36e1237b957fa2002d264c5fd031c547\", \"hxl_header_hash\": null, \"headers\": [\"Readme\"], \"hxl_headers\": null}, {\"name\": \"admin1\", \"is_hidden\": false, \"nrows\": 154149, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"0a3962c156313d564000247c231649b5\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"pcode\", \"ADM1_NAME\", \"ADM2_PCODE\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}, {\"name\": \"admin2\", \"is_hidden\": false, \"nrows\": 152903, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"6607caba26a447cd135c61c612a079bc\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"ADM1_PCODE\", \"ADM1_NAME\", \"pcode\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}]}}, {\"state\": \"success\", \"message\": \"File structure check completed\", \"timestamp\": \"2026-05-16T23:30:10.314962\", \"sheet_changes\": [], \"hxl_proxy_response\": {\"url_or_filename\": \"/dataset/b704f489-6705-499a-b5f0-22eeb1184b0b/resource/b2108171-0a17-428f-9a28-7f3f7160d8f5/download\", \"format\": \"XLSX\", \"sheets\": [{\"name\": \"Readme\", \"is_hidden\": false, \"nrows\": 9, \"ncols\": 1, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"36e1237b957fa2002d264c5fd031c547\", \"hxl_header_hash\": null, \"headers\": [\"Readme\"], \"hxl_headers\": null}, {\"name\": \"admin1\", \"is_hidden\": false, \"nrows\": 154149, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"0a3962c156313d564000247c231649b5\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"pcode\", \"ADM1_NAME\", \"ADM2_PCODE\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}, {\"name\": \"admin2\", \"is_hidden\": false, \"nrows\": 152903, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"6607caba26a447cd135c61c612a079bc\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"ADM1_PCODE\", \"ADM1_NAME\", \"pcode\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}]}}, {\"state\": \"success\", \"message\": \"File structure check completed\", \"timestamp\": \"2026-05-17T23:25:49.515661\", \"sheet_changes\": [], \"hxl_proxy_response\": {\"url_or_filename\": \"/dataset/b704f489-6705-499a-b5f0-22eeb1184b0b/resource/b2108171-0a17-428f-9a28-7f3f7160d8f5/download\", \"format\": \"XLSX\", \"sheets\": [{\"name\": \"Readme\", \"is_hidden\": false, \"nrows\": 9, \"ncols\": 1, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"36e1237b957fa2002d264c5fd031c547\", \"hxl_header_hash\": null, \"headers\": [\"Readme\"], \"hxl_headers\": null}, {\"name\": \"admin1\", \"is_hidden\": false, \"nrows\": 154149, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"0a3962c156313d564000247c231649b5\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"pcode\", \"ADM1_NAME\", \"ADM2_PCODE\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}, {\"name\": \"admin2\", \"is_hidden\": false, \"nrows\": 152903, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"6607caba26a447cd135c61c612a079bc\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"ADM1_PCODE\", \"ADM1_NAME\", \"pcode\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}]}}, {\"state\": \"success\", \"message\": \"File structure check completed\", \"timestamp\": \"2026-05-18T23:31:57.854970\", \"sheet_changes\": [], \"hxl_proxy_response\": {\"url_or_filename\": \"/dataset/b704f489-6705-499a-b5f0-22eeb1184b0b/resource/b2108171-0a17-428f-9a28-7f3f7160d8f5/download\", \"format\": \"XLSX\", \"sheets\": [{\"name\": \"Readme\", \"is_hidden\": false, \"nrows\": 9, \"ncols\": 1, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"36e1237b957fa2002d264c5fd031c547\", \"hxl_header_hash\": null, \"headers\": [\"Readme\"], \"hxl_headers\": null}, {\"name\": \"admin1\", \"is_hidden\": false, \"nrows\": 154149, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"0a3962c156313d564000247c231649b5\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"pcode\", \"ADM1_NAME\", \"ADM2_PCODE\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}, {\"name\": \"admin2\", \"is_hidden\": false, \"nrows\": 152903, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"6607caba26a447cd135c61c612a079bc\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"ADM1_PCODE\", \"ADM1_NAME\", \"pcode\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}]}}, {\"state\": \"success\", \"message\": \"File structure check completed\", \"timestamp\": \"2026-05-19T23:27:24.506929\", \"sheet_changes\": [], \"hxl_proxy_response\": {\"url_or_filename\": \"/dataset/b704f489-6705-499a-b5f0-22eeb1184b0b/resource/b2108171-0a17-428f-9a28-7f3f7160d8f5/download\", \"format\": \"XLSX\", \"sheets\": [{\"name\": \"Readme\", \"is_hidden\": false, \"nrows\": 9, \"ncols\": 1, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"36e1237b957fa2002d264c5fd031c547\", \"hxl_header_hash\": null, \"headers\": [\"Readme\"], \"hxl_headers\": null}, {\"name\": \"admin1\", \"is_hidden\": false, \"nrows\": 154149, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"0a3962c156313d564000247c231649b5\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"pcode\", \"ADM1_NAME\", \"ADM2_PCODE\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}, {\"name\": \"admin2\", \"is_hidden\": false, \"nrows\": 152903, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"6607caba26a447cd135c61c612a079bc\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"ADM1_PCODE\", \"ADM1_NAME\", \"pcode\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}]}}, {\"state\": \"success\", \"message\": \"File structure check completed\", \"timestamp\": \"2026-05-20T23:25:40.554516\", \"sheet_changes\": [], \"hxl_proxy_response\": {\"url_or_filename\": \"/dataset/b704f489-6705-499a-b5f0-22eeb1184b0b/resource/b2108171-0a17-428f-9a28-7f3f7160d8f5/download\", \"format\": \"XLSX\", \"sheets\": [{\"name\": \"Readme\", \"is_hidden\": false, \"nrows\": 9, \"ncols\": 1, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"36e1237b957fa2002d264c5fd031c547\", \"hxl_header_hash\": null, \"headers\": [\"Readme\"], \"hxl_headers\": null}, {\"name\": \"admin1\", \"is_hidden\": false, \"nrows\": 154149, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"0a3962c156313d564000247c231649b5\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"pcode\", \"ADM1_NAME\", \"ADM2_PCODE\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}, {\"name\": \"admin2\", \"is_hidden\": false, \"nrows\": 152903, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"6607caba26a447cd135c61c612a079bc\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"ADM1_PCODE\", \"ADM1_NAME\", \"pcode\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}]}}, {\"state\": \"success\", \"message\": \"File structure check completed\", \"timestamp\": \"2026-05-21T23:28:38.578197\", \"sheet_changes\": [], \"hxl_proxy_response\": {\"url_or_filename\": \"/dataset/b704f489-6705-499a-b5f0-22eeb1184b0b/resource/b2108171-0a17-428f-9a28-7f3f7160d8f5/download\", \"format\": \"XLSX\", \"sheets\": [{\"name\": \"Readme\", \"is_hidden\": false, \"nrows\": 9, \"ncols\": 1, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"36e1237b957fa2002d264c5fd031c547\", \"hxl_header_hash\": null, \"headers\": [\"Readme\"], \"hxl_headers\": null}, {\"name\": \"admin1\", \"is_hidden\": false, \"nrows\": 154149, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"0a3962c156313d564000247c231649b5\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"pcode\", \"ADM1_NAME\", \"ADM2_PCODE\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}, {\"name\": \"admin2\", \"is_hidden\": false, \"nrows\": 152903, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"6607caba26a447cd135c61c612a079bc\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"ADM1_PCODE\", \"ADM1_NAME\", \"pcode\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}]}}, {\"state\": \"success\", \"message\": \"File structure check completed\", \"timestamp\": \"2026-05-22T23:37:18.267080\", \"sheet_changes\": [], \"hxl_proxy_response\": {\"url_or_filename\": \"/dataset/b704f489-6705-499a-b5f0-22eeb1184b0b/resource/b2108171-0a17-428f-9a28-7f3f7160d8f5/download\", \"format\": \"XLSX\", \"sheets\": [{\"name\": \"Readme\", \"is_hidden\": false, \"nrows\": 9, \"ncols\": 1, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"36e1237b957fa2002d264c5fd031c547\", \"hxl_header_hash\": null, \"headers\": [\"Readme\"], \"hxl_headers\": null}, {\"name\": \"admin1\", \"is_hidden\": false, \"nrows\": 154149, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"0a3962c156313d564000247c231649b5\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"pcode\", \"ADM1_NAME\", \"ADM2_PCODE\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}, {\"name\": \"admin2\", \"is_hidden\": false, \"nrows\": 152903, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"6607caba26a447cd135c61c612a079bc\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"ADM1_PCODE\", \"ADM1_NAME\", \"pcode\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}]}}, {\"state\": \"success\", \"message\": \"File structure check completed\", \"timestamp\": \"2026-05-23T23:24:27.372028\", \"sheet_changes\": [], \"hxl_proxy_response\": {\"url_or_filename\": \"/dataset/b704f489-6705-499a-b5f0-22eeb1184b0b/resource/b2108171-0a17-428f-9a28-7f3f7160d8f5/download\", \"format\": \"XLSX\", \"sheets\": [{\"name\": \"Readme\", \"is_hidden\": false, \"nrows\": 9, \"ncols\": 1, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"36e1237b957fa2002d264c5fd031c547\", \"hxl_header_hash\": null, \"headers\": [\"Readme\"], \"hxl_headers\": null}, {\"name\": \"admin1\", \"is_hidden\": false, \"nrows\": 154149, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"0a3962c156313d564000247c231649b5\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"pcode\", \"ADM1_NAME\", \"ADM2_PCODE\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}, {\"name\": \"admin2\", \"is_hidden\": false, \"nrows\": 152903, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"6607caba26a447cd135c61c612a079bc\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"ADM1_PCODE\", \"ADM1_NAME\", \"pcode\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}]}}, {\"state\": \"success\", \"message\": \"File structure check completed\", \"timestamp\": \"2026-05-24T23:27:17.313899\", \"sheet_changes\": [], \"hxl_proxy_response\": {\"url_or_filename\": \"/dataset/b704f489-6705-499a-b5f0-22eeb1184b0b/resource/b2108171-0a17-428f-9a28-7f3f7160d8f5/download\", \"format\": \"XLSX\", \"sheets\": [{\"name\": \"Readme\", \"is_hidden\": false, \"nrows\": 9, \"ncols\": 1, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"36e1237b957fa2002d264c5fd031c547\", \"hxl_header_hash\": null, \"headers\": [\"Readme\"], \"hxl_headers\": null}, {\"name\": \"admin1\", \"is_hidden\": false, \"nrows\": 154149, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"0a3962c156313d564000247c231649b5\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"pcode\", \"ADM1_NAME\", \"ADM2_PCODE\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}, {\"name\": \"admin2\", \"is_hidden\": false, \"nrows\": 152903, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"6607caba26a447cd135c61c612a079bc\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"ADM1_PCODE\", \"ADM1_NAME\", \"pcode\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}]}}, {\"state\": \"success\", \"message\": \"File structure check completed\", \"timestamp\": \"2026-05-25T23:30:31.817264\", \"sheet_changes\": [], \"hxl_proxy_response\": {\"url_or_filename\": \"/dataset/b704f489-6705-499a-b5f0-22eeb1184b0b/resource/b2108171-0a17-428f-9a28-7f3f7160d8f5/download\", \"format\": \"XLSX\", \"sheets\": [{\"name\": \"Readme\", \"is_hidden\": false, \"nrows\": 9, \"ncols\": 1, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"36e1237b957fa2002d264c5fd031c547\", \"hxl_header_hash\": null, \"headers\": [\"Readme\"], \"hxl_headers\": null}, {\"name\": \"admin1\", \"is_hidden\": false, \"nrows\": 154149, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"0a3962c156313d564000247c231649b5\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"pcode\", \"ADM1_NAME\", \"ADM2_PCODE\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}, {\"name\": \"admin2\", \"is_hidden\": false, \"nrows\": 152903, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"6607caba26a447cd135c61c612a079bc\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"ADM1_PCODE\", \"ADM1_NAME\", \"pcode\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}]}}, {\"state\": \"success\", \"message\": \"File structure check completed\", \"timestamp\": \"2026-05-28T23:31:45.633291\", \"sheet_changes\": [], \"hxl_proxy_response\": {\"url_or_filename\": \"/dataset/b704f489-6705-499a-b5f0-22eeb1184b0b/resource/b2108171-0a17-428f-9a28-7f3f7160d8f5/download\", \"format\": \"XLSX\", \"sheets\": [{\"name\": \"Readme\", \"is_hidden\": false, \"nrows\": 9, \"ncols\": 1, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"36e1237b957fa2002d264c5fd031c547\", \"hxl_header_hash\": null, \"headers\": [\"Readme\"], \"hxl_headers\": null}, {\"name\": \"admin1\", \"is_hidden\": false, \"nrows\": 154149, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"0a3962c156313d564000247c231649b5\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"pcode\", \"ADM1_NAME\", \"ADM2_PCODE\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}, {\"name\": \"admin2\", \"is_hidden\": false, \"nrows\": 152903, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"6607caba26a447cd135c61c612a079bc\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"ADM1_PCODE\", \"ADM1_NAME\", \"pcode\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}]}}, {\"state\": \"success\", \"message\": \"File structure check completed\", \"timestamp\": \"2026-05-29T23:25:31.424338\", \"sheet_changes\": [], \"hxl_proxy_response\": {\"url_or_filename\": \"/dataset/b704f489-6705-499a-b5f0-22eeb1184b0b/resource/b2108171-0a17-428f-9a28-7f3f7160d8f5/download\", \"format\": \"XLSX\", \"sheets\": [{\"name\": \"Readme\", \"is_hidden\": false, \"nrows\": 9, \"ncols\": 1, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"36e1237b957fa2002d264c5fd031c547\", \"hxl_header_hash\": null, \"headers\": [\"Readme\"], \"hxl_headers\": null}, {\"name\": \"admin1\", \"is_hidden\": false, \"nrows\": 154149, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"0a3962c156313d564000247c231649b5\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"pcode\", \"ADM1_NAME\", \"ADM2_PCODE\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}, {\"name\": \"admin2\", \"is_hidden\": false, \"nrows\": 152903, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"6607caba26a447cd135c61c612a079bc\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"ADM1_PCODE\", \"ADM1_NAME\", \"pcode\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}]}}, {\"state\": \"success\", \"message\": \"File structure check completed\", \"timestamp\": \"2026-05-30T23:24:40.722918\", \"sheet_changes\": [], \"hxl_proxy_response\": {\"url_or_filename\": \"/dataset/b704f489-6705-499a-b5f0-22eeb1184b0b/resource/b2108171-0a17-428f-9a28-7f3f7160d8f5/download\", \"format\": \"XLSX\", \"sheets\": [{\"name\": \"Readme\", \"is_hidden\": false, \"nrows\": 9, \"ncols\": 1, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"36e1237b957fa2002d264c5fd031c547\", \"hxl_header_hash\": null, \"headers\": [\"Readme\"], \"hxl_headers\": null}, {\"name\": \"admin1\", \"is_hidden\": false, \"nrows\": 154149, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"0a3962c156313d564000247c231649b5\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"pcode\", \"ADM1_NAME\", \"ADM2_PCODE\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}, {\"name\": \"admin2\", \"is_hidden\": false, \"nrows\": 152903, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"6607caba26a447cd135c61c612a079bc\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"ADM1_PCODE\", \"ADM1_NAME\", \"pcode\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}]}}, {\"state\": \"success\", \"message\": \"File structure check completed\", \"timestamp\": \"2026-05-31T23:25:51.450732\", \"sheet_changes\": [], \"hxl_proxy_response\": {\"url_or_filename\": \"/dataset/b704f489-6705-499a-b5f0-22eeb1184b0b/resource/b2108171-0a17-428f-9a28-7f3f7160d8f5/download\", \"format\": \"XLSX\", \"sheets\": [{\"name\": \"Readme\", \"is_hidden\": false, \"nrows\": 9, \"ncols\": 1, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"36e1237b957fa2002d264c5fd031c547\", \"hxl_header_hash\": null, \"headers\": [\"Readme\"], \"hxl_headers\": null}, {\"name\": \"admin1\", \"is_hidden\": false, \"nrows\": 154149, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"0a3962c156313d564000247c231649b5\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"pcode\", \"ADM1_NAME\", \"ADM2_PCODE\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}, {\"name\": \"admin2\", \"is_hidden\": false, \"nrows\": 152903, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"6607caba26a447cd135c61c612a079bc\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"ADM1_PCODE\", \"ADM1_NAME\", \"pcode\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}]}}, {\"state\": \"success\", \"message\": \"File structure check completed\", \"timestamp\": \"2026-06-01T23:36:25.020169\", \"sheet_changes\": [], \"hxl_proxy_response\": {\"url_or_filename\": \"/dataset/b704f489-6705-499a-b5f0-22eeb1184b0b/resource/b2108171-0a17-428f-9a28-7f3f7160d8f5/download\", \"format\": \"XLSX\", \"sheets\": [{\"name\": \"Readme\", \"is_hidden\": false, \"nrows\": 9, \"ncols\": 1, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"36e1237b957fa2002d264c5fd031c547\", \"hxl_header_hash\": null, \"headers\": [\"Readme\"], \"hxl_headers\": null}, {\"name\": \"admin1\", \"is_hidden\": false, \"nrows\": 154149, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"0a3962c156313d564000247c231649b5\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"pcode\", \"ADM1_NAME\", \"ADM2_PCODE\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}, {\"name\": \"admin2\", \"is_hidden\": false, \"nrows\": 152903, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"6607caba26a447cd135c61c612a079bc\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"ADM1_PCODE\", \"ADM1_NAME\", \"pcode\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}]}}, {\"state\": \"success\", \"message\": \"File structure check completed\", \"timestamp\": \"2026-06-02T23:29:09.933382\", \"sheet_changes\": [], \"hxl_proxy_response\": {\"url_or_filename\": \"/dataset/b704f489-6705-499a-b5f0-22eeb1184b0b/resource/b2108171-0a17-428f-9a28-7f3f7160d8f5/download\", \"format\": \"XLSX\", \"sheets\": [{\"name\": \"Readme\", \"is_hidden\": false, \"nrows\": 9, \"ncols\": 1, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"36e1237b957fa2002d264c5fd031c547\", \"hxl_header_hash\": null, \"headers\": [\"Readme\"], \"hxl_headers\": null}, {\"name\": \"admin1\", \"is_hidden\": false, \"nrows\": 154149, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"0a3962c156313d564000247c231649b5\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"pcode\", \"ADM1_NAME\", \"ADM2_PCODE\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}, {\"name\": \"admin2\", \"is_hidden\": false, \"nrows\": 152903, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"6607caba26a447cd135c61c612a079bc\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"ADM1_PCODE\", \"ADM1_NAME\", \"pcode\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}]}}, {\"state\": \"success\", \"message\": \"File structure check completed\", \"timestamp\": \"2026-06-03T23:26:46.316053\", \"sheet_changes\": [], \"hxl_proxy_response\": {\"url_or_filename\": \"/dataset/b704f489-6705-499a-b5f0-22eeb1184b0b/resource/b2108171-0a17-428f-9a28-7f3f7160d8f5/download\", \"format\": \"XLSX\", \"sheets\": [{\"name\": \"Readme\", \"is_hidden\": false, \"nrows\": 9, \"ncols\": 1, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"36e1237b957fa2002d264c5fd031c547\", \"hxl_header_hash\": null, \"headers\": [\"Readme\"], \"hxl_headers\": null}, {\"name\": \"admin1\", \"is_hidden\": false, \"nrows\": 154149, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"0a3962c156313d564000247c231649b5\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"pcode\", \"ADM1_NAME\", \"ADM2_PCODE\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}, {\"name\": \"admin2\", \"is_hidden\": false, \"nrows\": 152903, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"6607caba26a447cd135c61c612a079bc\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"ADM1_PCODE\", \"ADM1_NAME\", \"pcode\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}]}}, {\"state\": \"success\", \"message\": \"File structure check completed\", \"timestamp\": \"2026-06-04T23:31:21.429093\", \"sheet_changes\": [], \"hxl_proxy_response\": {\"url_or_filename\": \"/dataset/b704f489-6705-499a-b5f0-22eeb1184b0b/resource/b2108171-0a17-428f-9a28-7f3f7160d8f5/download\", \"format\": \"XLSX\", \"sheets\": [{\"name\": \"Readme\", \"is_hidden\": false, \"nrows\": 9, \"ncols\": 1, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"36e1237b957fa2002d264c5fd031c547\", \"hxl_header_hash\": null, \"headers\": [\"Readme\"], \"hxl_headers\": null}, {\"name\": \"admin1\", \"is_hidden\": false, \"nrows\": 154149, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"0a3962c156313d564000247c231649b5\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"pcode\", \"ADM1_NAME\", \"ADM2_PCODE\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}, {\"name\": \"admin2\", \"is_hidden\": false, \"nrows\": 152903, \"ncols\": 11, \"has_merged_cells\": false, \"is_hxlated\": false, \"header_hash\": \"6607caba26a447cd135c61c612a079bc\", \"hxl_header_hash\": null, \"headers\": [\"iso3\", \"ADM0_PCODE\", \"ADM0_NAME\", \"ADM1_PCODE\", \"ADM1_NAME\", \"pcode\", \"ADM2_NAME\", \"valid_date\", \"SFED\", \"RP\", \"SFED_BASELINE\"], \"hxl_headers\": null}]}}]",
+      "hash": "012fd9905888adfcb5271e93eb8a26e0",
+      "hdx_rel_url": "/dataset/b704f489-6705-499a-b5f0-22eeb1184b0b/resource/b2108171-0a17-428f-9a28-7f3f7160d8f5/download/floodscan_readme.xlsx",
+      "id": "b2108171-0a17-428f-9a28-7f3f7160d8f5",
+      "last_modified": "2026-06-04T23:30:01.403022",
+      "metadata_modified": "2026-06-04T23:31:21.641635",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "hdx_floodscan_zonal_stats.xlsx",
+      "package_id": "b704f489-6705-499a-b5f0-22eeb1184b0b",
+      "position": 0,
+      "resource_type": "file.upload",
+      "size": 16284822,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/b704f489-6705-499a-b5f0-22eeb1184b0b/resource/b2108171-0a17-428f-9a28-7f3f7160d8f5/download/floodscan_readme.xlsx",
+      "url_type": "upload"
+    },
+    {
+      "alt_url": "https://data.humdata.org/dataset/b704f489-6705-499a-b5f0-22eeb1184b0b/resource/7e76a4ae-57bd-40e0-acf9-a67def1e7f9b/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2025-01-31T00:24:20.376782",
+      "dataset_preview_enabled": true,
+      "datastore_active": false,
+      "description": "Daily zip file containing previous 90 days of raster data with both SFED and SFED baseline bands.",
+      "download_url": "https://data.humdata.org/dataset/b704f489-6705-499a-b5f0-22eeb1184b0b/resource/7e76a4ae-57bd-40e0-acf9-a67def1e7f9b/download/baseline_zipped_file.zip",
+      "format": "GeoTIFF",
+      "hash": "05478848",
+      "hdx_rel_url": "/dataset/b704f489-6705-499a-b5f0-22eeb1184b0b/resource/7e76a4ae-57bd-40e0-acf9-a67def1e7f9b/download/baseline_zipped_file.zip",
+      "id": "7e76a4ae-57bd-40e0-acf9-a67def1e7f9b",
+      "last_modified": "2026-06-04T23:30:01.403634",
+      "metadata_modified": "2026-06-04T23:30:01.543918",
+      "microdata": false,
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "aer_floodscan_300s_SFED_90d.zip",
+      "originalHash": -1576919446,
+      "package_id": "b704f489-6705-499a-b5f0-22eeb1184b0b",
+      "position": 1,
+      "resource_type": "file.upload",
+      "size": 76193248,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/b704f489-6705-499a-b5f0-22eeb1184b0b/resource/7e76a4ae-57bd-40e0-acf9-a67def1e7f9b/download/baseline_zipped_file.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "climate hazards",
+      "id": "ba8322b6-72e7-4475-b015-72d200bf5957",
+      "name": "climate hazards",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "climate-weather",
+      "id": "6f0a101d-5c57-408b-aa2a-61c078d32713",
+      "name": "climate-weather",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "flooding",
+      "id": "532eacf2-7b8c-4dd5-baf7-c25720cadb38",
+      "name": "flooding",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "hydrology",
+      "id": "4fc0b5ba-330e-41d4-846a-13415a517f03",
+      "name": "hydrology",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "natural disasters",
+      "id": "48520851-7df8-418b-aa00-7fa276d7fd88",
+      "name": "natural disasters",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

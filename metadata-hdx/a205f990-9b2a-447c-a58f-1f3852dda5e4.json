@@ -1,0 +1,609 @@
+{
+  "archived": false,
+  "batch": "f82c6408-f73d-447d-9160-2163362e40d7",
+  "caveats": "Each ZIP download contains the original scanned TIFF files for a single calendar\nyear, including monthly and dekadal scans. The files are provided in a ZIP archive\nto preserve the original sources and may be extracted and converted as needed.\n\n\nWhile ERA5 provides complete spatial coverage, it is a model reanalysis and may overestimate\ndrizzle or miss localized convective storms common in the tropics. Users should compare\nthis product with the GPCC-based CDI where gauge data is available to understand\npotential biases in the reanalysis inputs.",
+  "creator_user_id": "1a008a13-52b1-4326-a9ea-aa541372577c",
+  "data_update_frequency": "14",
+  "dataset_date": "[2024-01-01T00:00:00 TO 2026-05-31T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "African Center of Meteorological Applications for Development (ACMAD)",
+  "due_date": "2026-06-14T23:59:59",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "a205f990-9b2a-447c-a58f-1f3852dda5e4",
+  "is_requestdata_type": false,
+  "isopen": true,
+  "last_modified": "2026-05-01T12:43:27.271898",
+  "license_id": "cc-by",
+  "license_title": "Creative Commons Attribution International (CC BY)",
+  "license_url": "http://www.opendefinition.org/licenses/cc-by",
+  "maintainer": "196196be-6037-4488-8b71-d786adf4c081",
+  "metadata_created": "2026-03-05T20:09:46.682116",
+  "metadata_modified": "2026-06-05T12:43:58.159168",
+  "methodology": "Other",
+  "methodology_other": "The methodology mirrors the standard ACMAD CDI: combining meteorological drought (SPI computed\nfrom ERA5), agricultural drought (Soil Moisture Anomaly), and vegetation impact (fAPAR).\nA convergence of evidence approach identifies where these indicators overlap to classify\nregions into categories such as \"Watch,\" \"Warning,\" and \"Alert.\"\n\n\n**Value Ranges:**\n\n* **1-3:** watch\n* **4-6:** warning\n* **7-10:** alert\n* **11-12:** partial-recovery\n* **13-14:** full-recovery",
+  "name": "acmad-combined-drought-indicator-era5",
+  "notes": "This version of the Combined Drought Indicator (CDI) utilizes ERA5 reanalysis data\nas the primary input for the precipitation component (SPI), rather than gauge-only\nor other satellite-blended products. ERA5, produced by ECMWF, offers comprehensive\nspatial coverage and temporal consistency, making it valuable for regions where gauge\nnetworks are failing or sparse.\n\n\nLike the standard CDI, this dataset synthesizes rainfall deficits (via ERA5), soil\nmoisture anomalies, and vegetation stress into a single classification system to\nmonitor the evolution of drought episodes.",
+  "num_resources": 3,
+  "num_tags": 4,
+  "organization": {
+    "id": "2dbc5dcc-1507-470b-a414-0687e0980ecb",
+    "name": "acmad",
+    "title": "African Center of Meteorological Applications for Development",
+    "type": "organization",
+    "description": "ACMAD was created through **Resolution 540** of the **UNECA Conference of Ministers** in **April 1985**, following the severe droughts of the 1970s and 1980s, **ACMAD** was established in **Niamey, Niger** in **October 1992** with two mandates:\r\n\r\n- **Continental Weather and Climate Watch Centre for Africa**  \r\n   Monitoring, forecasting, and early warning for droughts, floods, tropical cyclones, and other extreme events. In this regard, ACMAD became:\r\n\r\n       +  The Continental Climate Watch Centre was achieved with ACMAD designated by the WMO Congress after a successful demonstration phase as a Regional Climate Centre for Africa in May 2015.\r\n\r\n       +  The Continental Weather Watch Centre was achieved with the Continental Multi-Hazards Advisory Centre inaugurated in November 2022, and ACMAD is providing contributions to continental watches and disaster situation reports to support the situation room operations at the African Union Commission Headquarters in Addis Ababa.\r\n\r\n- **Institution of excellence for the application of meteorology for sustainable development**\r\nThis includes capacity building, development of methods, tools and products, contributions to global weather and climate programs, database development, and research and innovation as functions.\r\n\r\nSince **July 2024**, ACMAD has been a member of the **NoE (Africa Network of Excellence for DRR)**.\r\n\r\n   **ACMAD Provides the following Bulletins with Continental coverage:** <ul>\r\n<li>Impact-based Forecast Bulletin</li>\r\n<li>Multi-Hazard Bulletin</li> \r\n<li>Seasonal Climate Forecast Bulletin</li> \r\n<li>Monthly Climate Bulletin</li>\r\n</ul>  \r\n\r\n The bulletins are in PDF format  and are are available on the website: https://www.acmad.org  \r\n   * API for the Drought: https://ada.acmad.org/api",
+    "image_url": "",
+    "created": "2025-12-03T10:51:57.214232",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "2dbc5dcc-1507-470b-a414-0687e0980ecb",
+  "package_creator": "HDX Data Systems Team",
+  "pageviews_last_14_days": 5,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Angola\", \"Burundi\", \"Benin\", \"Burkina Faso\", \"Botswana\", \"Central African Republic\", \"C\\u00f4te d'Ivoire\", \"Cameroon\", \"Democratic Republic of the Congo\", \"Congo\", \"Comoros\", \"Cabo Verde\", \"Djibouti\", \"Algeria\", \"Egypt\", \"Eritrea\", \"Western Sahara\", \"Ethiopia\", \"Gabon\", \"Ghana\", \"Guinea\", \"Gambia\", \"Guinea-Bissau\", \"Equatorial Guinea\", \"Kenya\", \"Liberia\", \"Libya\", \"Lesotho\", \"Morocco\", \"Madagascar\", \"Mali\", \"Mozambique\", \"Mauritania\", \"Mauritius\", \"Malawi\", \"Namibia\", \"Niger\", \"Nigeria\", \"Rwanda\", \"Sudan\", \"Senegal\", \"Sierra Leone\", \"Somalia\", \"South Sudan\", \"Sao Tome and Principe\", \"Eswatini\", \"Seychelles\", \"Chad\", \"Togo\", \"Tunisia\", \"United Republic of Tanzania\", \"Uganda\", \"South Africa\", \"Zambia\", \"Zimbabwe\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Africa - CDI based on ERA5 Precipitation",
+  "total_res_downloads": 163,
+  "type": "dataset",
+  "updated_by_script": "HDX Scraper: ACMAD (2026-06-05T12:43:57.758558)",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Algeria",
+      "id": "dza",
+      "image_display_url": "",
+      "name": "dza",
+      "title": "Algeria"
+    },
+    {
+      "description": "",
+      "display_name": "Angola",
+      "id": "ago",
+      "image_display_url": "",
+      "name": "ago",
+      "title": "Angola"
+    },
+    {
+      "description": "",
+      "display_name": "Benin",
+      "id": "ben",
+      "image_display_url": "",
+      "name": "ben",
+      "title": "Benin"
+    },
+    {
+      "description": "",
+      "display_name": "Botswana",
+      "id": "bwa",
+      "image_display_url": "",
+      "name": "bwa",
+      "title": "Botswana"
+    },
+    {
+      "description": "",
+      "display_name": "Burkina Faso",
+      "id": "bfa",
+      "image_display_url": "",
+      "name": "bfa",
+      "title": "Burkina Faso"
+    },
+    {
+      "description": "",
+      "display_name": "Burundi",
+      "id": "bdi",
+      "image_display_url": "",
+      "name": "bdi",
+      "title": "Burundi"
+    },
+    {
+      "description": "",
+      "display_name": "Cabo Verde",
+      "id": "cpv",
+      "image_display_url": "",
+      "name": "cpv",
+      "title": "Cabo Verde"
+    },
+    {
+      "description": "",
+      "display_name": "Cameroon",
+      "id": "cmr",
+      "image_display_url": "",
+      "name": "cmr",
+      "title": "Cameroon"
+    },
+    {
+      "description": "",
+      "display_name": "Central African Republic",
+      "id": "caf",
+      "image_display_url": "",
+      "name": "caf",
+      "title": "Central African Republic"
+    },
+    {
+      "description": "",
+      "display_name": "Chad",
+      "id": "tcd",
+      "image_display_url": "",
+      "name": "tcd",
+      "title": "Chad"
+    },
+    {
+      "description": "",
+      "display_name": "Comoros",
+      "id": "com",
+      "image_display_url": "",
+      "name": "com",
+      "title": "Comoros"
+    },
+    {
+      "description": "",
+      "display_name": "Congo",
+      "id": "cog",
+      "image_display_url": "",
+      "name": "cog",
+      "title": "Congo"
+    },
+    {
+      "description": "",
+      "display_name": "Côte d'Ivoire",
+      "id": "civ",
+      "image_display_url": "",
+      "name": "civ",
+      "title": "Côte d'Ivoire"
+    },
+    {
+      "description": "",
+      "display_name": "Democratic Republic of the Congo",
+      "id": "cod",
+      "image_display_url": "",
+      "name": "cod",
+      "title": "Democratic Republic of the Congo"
+    },
+    {
+      "description": "",
+      "display_name": "Djibouti",
+      "id": "dji",
+      "image_display_url": "",
+      "name": "dji",
+      "title": "Djibouti"
+    },
+    {
+      "description": "",
+      "display_name": "Egypt",
+      "id": "egy",
+      "image_display_url": "",
+      "name": "egy",
+      "title": "Egypt"
+    },
+    {
+      "description": "",
+      "display_name": "Equatorial Guinea",
+      "id": "gnq",
+      "image_display_url": "",
+      "name": "gnq",
+      "title": "Equatorial Guinea"
+    },
+    {
+      "description": "",
+      "display_name": "Eritrea",
+      "id": "eri",
+      "image_display_url": "",
+      "name": "eri",
+      "title": "Eritrea"
+    },
+    {
+      "description": "",
+      "display_name": "Eswatini",
+      "id": "swz",
+      "image_display_url": "",
+      "name": "swz",
+      "title": "Eswatini"
+    },
+    {
+      "description": "",
+      "display_name": "Ethiopia",
+      "id": "eth",
+      "image_display_url": "",
+      "name": "eth",
+      "title": "Ethiopia"
+    },
+    {
+      "description": "",
+      "display_name": "Gabon",
+      "id": "gab",
+      "image_display_url": "",
+      "name": "gab",
+      "title": "Gabon"
+    },
+    {
+      "description": "",
+      "display_name": "Gambia",
+      "id": "gmb",
+      "image_display_url": "",
+      "name": "gmb",
+      "title": "Gambia"
+    },
+    {
+      "description": "",
+      "display_name": "Ghana",
+      "id": "gha",
+      "image_display_url": "",
+      "name": "gha",
+      "title": "Ghana"
+    },
+    {
+      "description": "",
+      "display_name": "Guinea",
+      "id": "gin",
+      "image_display_url": "",
+      "name": "gin",
+      "title": "Guinea"
+    },
+    {
+      "description": "",
+      "display_name": "Guinea-Bissau",
+      "id": "gnb",
+      "image_display_url": "",
+      "name": "gnb",
+      "title": "Guinea-Bissau"
+    },
+    {
+      "description": "",
+      "display_name": "Kenya",
+      "id": "ken",
+      "image_display_url": "",
+      "name": "ken",
+      "title": "Kenya"
+    },
+    {
+      "description": "",
+      "display_name": "Lesotho",
+      "id": "lso",
+      "image_display_url": "",
+      "name": "lso",
+      "title": "Lesotho"
+    },
+    {
+      "description": "",
+      "display_name": "Liberia",
+      "id": "lbr",
+      "image_display_url": "",
+      "name": "lbr",
+      "title": "Liberia"
+    },
+    {
+      "description": "",
+      "display_name": "Libya",
+      "id": "lby",
+      "image_display_url": "",
+      "name": "lby",
+      "title": "Libya"
+    },
+    {
+      "description": "",
+      "display_name": "Madagascar",
+      "id": "mdg",
+      "image_display_url": "",
+      "name": "mdg",
+      "title": "Madagascar"
+    },
+    {
+      "description": "",
+      "display_name": "Malawi",
+      "id": "mwi",
+      "image_display_url": "",
+      "name": "mwi",
+      "title": "Malawi"
+    },
+    {
+      "description": "",
+      "display_name": "Mali",
+      "id": "mli",
+      "image_display_url": "",
+      "name": "mli",
+      "title": "Mali"
+    },
+    {
+      "description": "",
+      "display_name": "Mauritania",
+      "id": "mrt",
+      "image_display_url": "",
+      "name": "mrt",
+      "title": "Mauritania"
+    },
+    {
+      "description": "",
+      "display_name": "Mauritius",
+      "id": "mus",
+      "image_display_url": "",
+      "name": "mus",
+      "title": "Mauritius"
+    },
+    {
+      "description": "",
+      "display_name": "Morocco",
+      "id": "mar",
+      "image_display_url": "",
+      "name": "mar",
+      "title": "Morocco"
+    },
+    {
+      "description": "",
+      "display_name": "Mozambique",
+      "id": "moz",
+      "image_display_url": "",
+      "name": "moz",
+      "title": "Mozambique"
+    },
+    {
+      "description": "",
+      "display_name": "Namibia",
+      "id": "nam",
+      "image_display_url": "",
+      "name": "nam",
+      "title": "Namibia"
+    },
+    {
+      "description": "",
+      "display_name": "Niger",
+      "id": "ner",
+      "image_display_url": "",
+      "name": "ner",
+      "title": "Niger"
+    },
+    {
+      "description": "",
+      "display_name": "Nigeria",
+      "id": "nga",
+      "image_display_url": "",
+      "name": "nga",
+      "title": "Nigeria"
+    },
+    {
+      "description": "",
+      "display_name": "Rwanda",
+      "id": "rwa",
+      "image_display_url": "",
+      "name": "rwa",
+      "title": "Rwanda"
+    },
+    {
+      "description": "",
+      "display_name": "Sao Tome and Principe",
+      "id": "stp",
+      "image_display_url": "",
+      "name": "stp",
+      "title": "Sao Tome and Principe"
+    },
+    {
+      "description": "",
+      "display_name": "Senegal",
+      "id": "sen",
+      "image_display_url": "",
+      "name": "sen",
+      "title": "Senegal"
+    },
+    {
+      "description": "",
+      "display_name": "Seychelles",
+      "id": "syc",
+      "image_display_url": "",
+      "name": "syc",
+      "title": "Seychelles"
+    },
+    {
+      "description": "",
+      "display_name": "Sierra Leone",
+      "id": "sle",
+      "image_display_url": "",
+      "name": "sle",
+      "title": "Sierra Leone"
+    },
+    {
+      "description": "",
+      "display_name": "Somalia",
+      "id": "som",
+      "image_display_url": "",
+      "name": "som",
+      "title": "Somalia"
+    },
+    {
+      "description": "",
+      "display_name": "South Africa",
+      "id": "zaf",
+      "image_display_url": "",
+      "name": "zaf",
+      "title": "South Africa"
+    },
+    {
+      "description": "",
+      "display_name": "South Sudan",
+      "id": "ssd",
+      "image_display_url": "",
+      "name": "ssd",
+      "title": "South Sudan"
+    },
+    {
+      "description": "",
+      "display_name": "Sudan",
+      "id": "sdn",
+      "image_display_url": "",
+      "name": "sdn",
+      "title": "Sudan"
+    },
+    {
+      "description": "",
+      "display_name": "Togo",
+      "id": "tgo",
+      "image_display_url": "",
+      "name": "tgo",
+      "title": "Togo"
+    },
+    {
+      "description": "",
+      "display_name": "Tunisia",
+      "id": "tun",
+      "image_display_url": "",
+      "name": "tun",
+      "title": "Tunisia"
+    },
+    {
+      "description": "",
+      "display_name": "Uganda",
+      "id": "uga",
+      "image_display_url": "",
+      "name": "uga",
+      "title": "Uganda"
+    },
+    {
+      "description": "",
+      "display_name": "United Republic of Tanzania",
+      "id": "tza",
+      "image_display_url": "",
+      "name": "tza",
+      "title": "United Republic of Tanzania"
+    },
+    {
+      "description": "",
+      "display_name": "Western Sahara",
+      "id": "esh",
+      "image_display_url": "",
+      "name": "esh",
+      "title": "Western Sahara"
+    },
+    {
+      "description": "",
+      "display_name": "Zambia",
+      "id": "zmb",
+      "image_display_url": "",
+      "name": "zmb",
+      "title": "Zambia"
+    },
+    {
+      "description": "",
+      "display_name": "Zimbabwe",
+      "id": "zwe",
+      "image_display_url": "",
+      "name": "zwe",
+      "title": "Zimbabwe"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/a205f990-9b2a-447c-a58f-1f3852dda5e4/resource/a113bee7-e59d-4cde-8269-00284a19d1e2/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2026-05-01T12:43:27.652907",
+      "datastore_active": false,
+      "description": "ERA5-based CDI geotiffs by month and dekad for 2026",
+      "download_url": "https://data.humdata.org/dataset/a205f990-9b2a-447c-a58f-1f3852dda5e4/resource/a113bee7-e59d-4cde-8269-00284a19d1e2/download/f73285d3-ea8e-4ef9-9eb4-cda786f898e3",
+      "format": "GeoTIFF",
+      "hash": "76cdb2bad9582d23c1f6f4d868218d6c",
+      "hdx_rel_url": "/dataset/a205f990-9b2a-447c-a58f-1f3852dda5e4/resource/a113bee7-e59d-4cde-8269-00284a19d1e2/download/f73285d3-ea8e-4ef9-9eb4-cda786f898e3",
+      "id": "a113bee7-e59d-4cde-8269-00284a19d1e2",
+      "last_modified": "2026-05-01T12:43:27.271898",
+      "metadata_modified": "2026-05-01T12:43:28.866857",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "cdi_era5_geotiffs_2026",
+      "package_id": "a205f990-9b2a-447c-a58f-1f3852dda5e4",
+      "position": 0,
+      "resource_type": "file.upload",
+      "size": 22,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/a205f990-9b2a-447c-a58f-1f3852dda5e4/resource/a113bee7-e59d-4cde-8269-00284a19d1e2/download/f73285d3-ea8e-4ef9-9eb4-cda786f898e3",
+      "url_type": "upload"
+    },
+    {
+      "alt_url": "https://data.humdata.org/dataset/a205f990-9b2a-447c-a58f-1f3852dda5e4/resource/121ea64a-3e53-4c95-b597-4bb4158bbf33/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2026-03-05T20:09:46.687795",
+      "datastore_active": false,
+      "description": "ERA5-based CDI geotiffs by month and dekad for 2025",
+      "download_url": "https://data.humdata.org/dataset/a205f990-9b2a-447c-a58f-1f3852dda5e4/resource/121ea64a-3e53-4c95-b597-4bb4158bbf33/download/de344ae6-1de7-4faa-b350-9a42cb4c3b2c",
+      "format": "GeoTIFF",
+      "hash": "76cdb2bad9582d23c1f6f4d868218d6c",
+      "hdx_rel_url": "/dataset/a205f990-9b2a-447c-a58f-1f3852dda5e4/resource/121ea64a-3e53-4c95-b597-4bb4158bbf33/download/de344ae6-1de7-4faa-b350-9a42cb4c3b2c",
+      "id": "121ea64a-3e53-4c95-b597-4bb4158bbf33",
+      "last_modified": "2026-03-05T20:09:48.168369",
+      "metadata_modified": "2026-03-11T12:57:44.398903",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "cdi_era5_geotiffs_2025",
+      "package_id": "a205f990-9b2a-447c-a58f-1f3852dda5e4",
+      "position": 1,
+      "resource_type": "file.upload",
+      "size": 22,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/a205f990-9b2a-447c-a58f-1f3852dda5e4/resource/121ea64a-3e53-4c95-b597-4bb4158bbf33/download/de344ae6-1de7-4faa-b350-9a42cb4c3b2c",
+      "url_type": "upload"
+    },
+    {
+      "alt_url": "https://data.humdata.org/dataset/a205f990-9b2a-447c-a58f-1f3852dda5e4/resource/8b7ac8e0-e934-4d63-9cfb-812ddf73e42a/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2026-03-05T20:09:46.687798",
+      "datastore_active": false,
+      "description": "ERA5-based CDI geotiffs by month and dekad for 2024",
+      "download_url": "https://data.humdata.org/dataset/a205f990-9b2a-447c-a58f-1f3852dda5e4/resource/8b7ac8e0-e934-4d63-9cfb-812ddf73e42a/download/2203af58-415d-4467-bc72-c0714b183393",
+      "format": "GeoTIFF",
+      "hash": "76cdb2bad9582d23c1f6f4d868218d6c",
+      "hdx_rel_url": "/dataset/a205f990-9b2a-447c-a58f-1f3852dda5e4/resource/8b7ac8e0-e934-4d63-9cfb-812ddf73e42a/download/2203af58-415d-4467-bc72-c0714b183393",
+      "id": "8b7ac8e0-e934-4d63-9cfb-812ddf73e42a",
+      "last_modified": "2026-03-05T20:09:48.168638",
+      "metadata_modified": "2026-03-11T12:57:44.399020",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "cdi_era5_geotiffs_2024",
+      "package_id": "a205f990-9b2a-447c-a58f-1f3852dda5e4",
+      "position": 2,
+      "resource_type": "file.upload",
+      "size": 22,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/a205f990-9b2a-447c-a58f-1f3852dda5e4/resource/8b7ac8e0-e934-4d63-9cfb-812ddf73e42a/download/2203af58-415d-4467-bc72-c0714b183393",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "climate hazards",
+      "id": "ba8322b6-72e7-4475-b015-72d200bf5957",
+      "name": "climate hazards",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "climate-weather",
+      "id": "6f0a101d-5c57-408b-aa2a-61c078d32713",
+      "name": "climate-weather",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "drought",
+      "id": "34a5c9d1-5554-4f9e-91fa-5983f0c9a721",
+      "name": "drought",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "hazards and risk",
+      "id": "7173a61f-84fd-45ca-856a-3aa2b0372869",
+      "name": "hazards and risk",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

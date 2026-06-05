@@ -1,0 +1,123 @@
+{
+  "archived": true,
+  "creator_user_id": "6d4d394a-2e39-4f9c-811a-6b3d1b15de61",
+  "data_update_frequency": "-1",
+  "dataset_date": "[2009-01-01T00:00:00 TO *]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "International Peace Information Service (IPIS)",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "e5461362-25c2-43a5-8b8f-2b93fd200a8a",
+  "is_requestdata_type": false,
+  "isopen": false,
+  "last_modified": "2026-04-29T08:44:08.785810",
+  "license_id": "hdx-odc-by",
+  "license_title": "Open Data Commons Attribution License (ODC-BY)",
+  "license_url": "https://opendatacommons.org/licenses/by/1-0/",
+  "maintainer": "e32d5afb-cc7e-4715-85b7-5a3b849443f5",
+  "metadata_created": "2019-07-19T13:32:49.659874",
+  "metadata_modified": "2026-04-29T10:37:37.453930",
+  "methodology": "Sample Survey",
+  "name": "cod_mines_curated_all_opendata_p_ipis",
+  "notes": "Artisanal mining site visits in Eastern DRC",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "id": "57bf9c32-010f-4d5b-90c3-a134395610b0",
+    "name": "ipis",
+    "title": "International Peace Information Service (IPIS) (inactive)",
+    "type": "organization",
+    "description": "International Peace Information Service (IPIS) is an independent research institute providing tailored information, analysis, and capacity enhancement to support those actors who want to realize a vision of durable peace, sustainable development and the fulfillment of human rights.",
+    "image_url": "",
+    "created": "2019-07-19T10:27:57.660053",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "57bf9c32-010f-4d5b-90c3-a134395610b0",
+  "package_creator": "ipisresearch",
+  "pageviews_last_14_days": 2,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Democratic Republic of the Congo\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Artisanal mining sites in Eastern DRC 2009 - 2020",
+  "total_res_downloads": 95,
+  "type": "dataset",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Democratic Republic of the Congo",
+      "id": "cod",
+      "image_display_url": "",
+      "name": "cod",
+      "title": "Democratic Republic of the Congo"
+    }
+  ],
+  "resources": [
+    {
+      "broken_link": true,
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-19T13:32:50.895630",
+      "dataset_preview_enabled": false,
+      "datastore_active": false,
+      "description": "Artisanal mining site visits in Eastern DRC",
+      "download_url": "http://geo.ipisresearch.be/geoserver/public/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=public:cod_mines_curated_all_opendata_p_ipis&outputFormat=application%2Fjson",
+      "format": "GeoJSON",
+      "hash": "6fb106806385be99e6748d530a680c01",
+      "hdx_rel_url": "http://geo.ipisresearch.be/geoserver/public/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=public:cod_mines_curated_all_opendata_p_ipis&outputFormat=application%2Fjson",
+      "id": "c4478af3-974c-422c-ac2d-2ad529638f8e",
+      "last_modified": "2026-04-29T08:44:08.785810",
+      "metadata_modified": "2026-04-29T10:37:37.483217",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "cod_mines_curated_all_opendata_p_ipis",
+      "originalHash": "-1961718975",
+      "package_id": "e5461362-25c2-43a5-8b8f-2b93fd200a8a",
+      "position": 0,
+      "resource_type": "api",
+      "shape_info": "[{\"error_class\": \"None\", \"layer_id\": \"None\", \"error_type\": \"None\", \"state\": \"processing\", \"timestamp\": \"2019-07-19T13:32:50.685837\", \"message\": \"The processing of the geo-preview has started\"}, {\"error_class\": \"None\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"id\", \"data_type\": \"character varying\"}, {\"field_name\": \"vid\", \"data_type\": \"integer\"}, {\"field_name\": \"source\", \"data_type\": \"character varying\"}, {\"field_name\": \"project\", \"data_type\": \"character varying\"}, {\"field_name\": \"pcode\", \"data_type\": \"character varying\"}, {\"field_name\": \"name\", \"data_type\": \"character varying\"}, {\"field_name\": \"visit_date\", \"data_type\": \"date\"}, {\"field_name\": \"visit_onsite\", \"data_type\": \"integer\"}, {\"field_name\": \"visit_onsite_novisitreason\", \"data_type\": \"character varying\"}, {\"field_name\": \"longitude\", \"data_type\": \"character varying\"}, {\"field_name\": \"latitude\", \"data_type\": \"character varying\"}, {\"field_name\": \"location_origin\", \"data_type\": \"character varying\"}, {\"field_name\": \"province\", \"data_type\": \"character varying\"}, {\"field_name\": \"province_old\", \"data_type\": \"character varying\"}, {\"field_name\": \"territoire\", \"data_type\": \"character varying\"}, {\"field_name\": \"collectivite\", \"data_type\": \"character varying\"}, {\"field_name\": \"groupement\", \"data_type\": \"character varying\"}, {\"field_name\": \"village\", \"data_type\": \"character varying\"}, {\"field_name\": \"workers_numb\", \"data_type\": \"integer\"}, {\"field_name\": \"is_3t_mine\", \"data_type\": \"integer\"}, {\"field_name\": \"is_gold_mine\", \"data_type\": \"integer\"}, {\"field_name\": \"mineral1\", \"data_type\": \"character varying\"}, {\"field_name\": \"selling_points_mineral1\", \"data_type\": \"character varying\"}, {\"field_name\": \"final_destination_mineral1\", \"data_type\": \"character varying\"}, {\"field_name\": \"mineral2\", \"data_type\": \"character varying\"}, {\"field_name\": \"selling_points_mineral2\", \"data_type\": \"character varying\"}, {\"field_name\": \"final_destination_mineral2\", \"data_type\": \"character varying\"}, {\"field_name\": \"mineral3\", \"data_type\": \"character varying\"}, {\"field_name\": \"selling_points_mineral3\", \"data_type\": \"character varying\"}, {\"field_name\": \"final_destination_mineral3\", \"data_type\": \"character varying\"}, {\"field_name\": \"mercury\", \"data_type\": \"character varying\"}, {\"field_name\": \"presence\", \"data_type\": \"integer\"}, {\"field_name\": \"interference\", \"data_type\": \"character varying\"}, {\"field_name\": \"armed_group1\", \"data_type\": \"character varying\"}, {\"field_name\": \"type_armed_group1\", \"data_type\": \"character varying\"}, {\"field_name\": \"frequency_armed_group1\", \"data_type\": \"character varying\"}, {\"field_name\": \"taxation_armed_group1\", \"data_type\": \"character varying\"}, {\"field_name\": \"commerce_taxation_armed_group1\", \"data_type\": \"character varying\"}, {\"field_name\": \"entrance_taxation_armed_group1\", \"data_type\": \"character varying\"}, {\"field_name\": \"monopoly_armed_group1\", \"data_type\": \"character varying\"}, {\"field_name\": \"buying_minerals_armed_group1\", \"data_type\": \"character varying\"}, {\"field_name\": \"digging_armed_group1\", \"data_type\": \"character varying\"}, {\"field_name\": \"forced_labour_armed_group1\", \"data_type\": \"character varying\"}, {\"field_name\": \"pillaging_armed_group1\", \"data_type\": \"character varying\"}, {\"field_name\": \"armed_group2\", \"data_type\": \"character varying\"}, {\"field_name\": \"type_armed_group2\", \"data_type\": \"character varying\"}, {\"field_name\": \"frequency_armed_group2\", \"data_type\": \"character varying\"}, {\"field_name\": \"taxation_armed_group2\", \"data_type\": \"character varying\"}, {\"field_name\": \"commerce_taxation_armed_group2\", \"data_type\": \"character varying\"}, {\"field_name\": \"entrance_taxation_armed_group2\", \"data_type\": \"character varying\"}, {\"field_name\": \"monopoly_armed_group2\", \"data_type\": \"character varying\"}, {\"field_name\": \"buying_minerals_armed_group2\", \"data_type\": \"character varying\"}, {\"field_name\": \"digging_armed_group2\", \"data_type\": \"character varying\"}, {\"field_name\": \"forced_labour_armed_group2\", \"data_type\": \"character varying\"}, {\"field_name\": \"pillaging_armed_group2\", \"data_type\": \"character varying\"}, {\"field_name\": \"state_service1\", \"data_type\": \"character varying\"}, {\"field_name\": \"state_service2\", \"data_type\": \"character varying\"}, {\"field_name\": \"state_service3\", \"data_type\": \"character varying\"}, {\"field_name\": \"state_service4\", \"data_type\": \"character varying\"}, {\"field_name\": \"itsci\", \"data_type\": \"character varying\"}, {\"field_name\": \"qualification\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"layer_id\": \"pre_c4478af3_974c_422c_ac2d_2ad529638f8e\", \"error_type\": \"None\", \"bounding_box\": \"BOX(23.59986111 -10.21344444,30.623077 4.46416667)\", \"state\": \"success\", \"timestamp\": \"2019-07-19T13:32:59.330344\", \"message\": \"Import successful\"}]",
+      "size": 17142604,
+      "state": "active",
+      "url": "http://geo.ipisresearch.be/geoserver/public/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=public:cod_mines_curated_all_opendata_p_ipis&outputFormat=application%2Fjson",
+      "url_type": "api"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "children",
+      "id": "3a4131ff-a500-4c77-ba6e-02da286daa99",
+      "name": "children",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "development",
+      "id": "3be50db2-69e2-406f-83b8-195598d0c0d5",
+      "name": "development",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "human rights",
+      "id": "60aaf965-1357-4726-bec3-e907f027aae0",
+      "name": "human rights",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

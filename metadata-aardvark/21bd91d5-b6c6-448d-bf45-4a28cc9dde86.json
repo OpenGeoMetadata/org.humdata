@@ -1,0 +1,41 @@
+{
+  "id": "hdx-21bd91d5-b6c6-448d-bf45-4a28cc9dde86",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-01-12T15:10:36Z",
+  "dct_title_s": "Satellite detected water extent over Gujba LGA, Yobe state, Nigeria as of 18 Jul 2022",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20220721NGA** This map illustrates satellite-detected surface waters in Gujba LGA, Yobe state, Nigeria as observed from a Sentinel-1 image acquired on 18 Jul 2022 at 18:22 local time. Within the analyzed area of about 1,040 km2, about 22 km2 of lands appear to be flooded. Based on Worldpop population data and the detected surface waters, about 1,400 people are potentially exposed or living within/close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Nigeria"
+  ],
+  "locn_geometry": "ENVELOPE(2.69, 14.58, 13.87, 4.24)",
+  "dcat_bbox": "ENVELOPE(2.69, 14.58, 13.87, 4.24)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-water-extent-over-gujba-lga-yobe-state-nigeria-as-of-18-jul-2022\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/NG/FL20220721NGA/FL20220721NGA_gdb.zip\"}"
+}

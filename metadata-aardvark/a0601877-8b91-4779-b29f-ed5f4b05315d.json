@@ -1,0 +1,43 @@
+{
+  "id": "hdx-a0601877-8b91-4779-b29f-ed5f4b05315d",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-15T15:38:18Z",
+  "dct_title_s": "Jamaica : Roads (OpenStreetMap Export)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Road network across the region from OSM. Includes everything tagged with `highway`: motorways, residential streets, service roads, footways, and trails. Useful for routing, accessibility analysis, and evacuation planning. OpenStreetMap is a free, collaborative world map built by volunteers. Completeness varies by region: urban areas are usually well-mapped, remote areas may be incomplete. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org) - OSM tags: [Key:highway](https://wiki.openstreetmap.org/wiki/Key:highway) - Part of many [exports grid on HDX](https://data.humdata.org/organization/hot) by the [HOT](https://www.hotosm.org/en/)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "roads",
+    "transportation"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "roads",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "Jamaica"
+  ],
+  "locn_geometry": "ENVELOPE(-78.34, -76.2, 18.52, 17.7)",
+  "dcat_bbox": "ENVELOPE(-78.34, -76.2, 18.52, 17.7)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_jam_roads\",\"http://schema.org/downloadUrl\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/JAM/roads/hotosm_jam_roads_osm_gpkg.zip\"}"
+}

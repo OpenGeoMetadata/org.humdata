@@ -1,0 +1,41 @@
+{
+  "id": "hdx-297c8293-2de7-4413-ad76-ee9bdca5ca96",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-02-18T05:01:10Z",
+  "dct_title_s": "Satellite detected water extents in Camarines Sur Province as of 29 October 2024",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: TC20241028PHL, GDACS ID: 1001115** This map illustrates a satellite-detected surface waters in Camarines Sur Province, Bicol Region, Philippines acquired on 29 October 2024 at 17:58 local time (09:58 UTC). Within the boundary of Camarines Sur Province of about 5,300 km², a total of about 130 km² of land appears to be affected by flood waters, with around 230 km² of cropland inundated. The flood extent has receded by approximately 150 km² since the previous observation on 26 October 2024. Based on Worldpop spatial demographic data, about 93,000 people are exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to the United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to the backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "locn_geometry": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dcat_bbox": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-water-extents-in-camarines-sur-province-as-of-29-october-2024\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/4015/TC20241028PHL_GDB.zip\"}"
+}

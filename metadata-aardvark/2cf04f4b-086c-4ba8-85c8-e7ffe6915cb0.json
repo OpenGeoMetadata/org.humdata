@@ -1,0 +1,41 @@
+{
+  "id": "hdx-2cf04f4b-086c-4ba8-85c8-e7ffe6915cb0",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-04-27T14:55:07Z",
+  "dct_title_s": "Burkina Faso health districts (districts de santé)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Burkina Faso health districts (districts de santé) P-coded and fitting below [Burkina Faso administrative level 0-3 boundaries](https://data.humdata.org/dataset/burkina-faso-administrative-boundaries) administrative level 2 (department). Example P-code: BFDS130001 BF is the ADM0_FR, representing Burkina Faso DS means \"District de santé\" 13 is from ADM1_PCODE BF13 00 is from ADM2_PCODE BF1300 01 means District de santé number 01 within BF1300"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Institut Géographique du Burkina (IGB)"
+  ],
+  "dcat_keyword_sm": [
+    "gazetteer",
+    "health facilities"
+  ],
+  "dct_subject_sm": [
+    "gazetteer",
+    "health facilities"
+  ],
+  "dct_spatial_sm": [
+    "Burkina Faso"
+  ],
+  "locn_geometry": "ENVELOPE(-5.47, 2.18, 15.12, 9.61)",
+  "dcat_bbox": "ENVELOPE(-5.47, 2.18, 15.12, 9.61)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/burkina-faso-health-districts-districts-de-sante\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/2cf04f4b-086c-4ba8-85c8-e7ffe6915cb0/resource/49e02f05-8e77-46ce-8575-7244e8b8cd73/download/bfa_dsa_igb_2020.zip\"}"
+}

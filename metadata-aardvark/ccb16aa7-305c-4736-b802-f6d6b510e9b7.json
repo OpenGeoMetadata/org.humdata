@@ -1,0 +1,43 @@
+{
+  "id": "hdx-ccb16aa7-305c-4736-b802-f6d6b510e9b7",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T02:44:12Z",
+  "dct_title_s": "Peru - Earthquake on Jul 06 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000qazs](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000qazs) Magnitude 5.4 earthquake at 10.0 depth occurred on Jul 06 2025 27km SE of Santa Maria De Cahuapanas. The epicentre of the earthquake was located at latitude -5.4814 longitude -76.9633. It impacted 26949 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Peru"
+  ],
+  "locn_geometry": "ENVELOPE(-81.41, -68.67, -0.06, -18.35)",
+  "dcat_bbox": "ENVELOPE(-81.41, -68.67, -0.06, -18.35)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/per-earthquake-sm-us7000qazs\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/ccb16aa7-305c-4736-b802-f6d6b510e9b7/resource/8334f598-b796-4f1d-b224-ae0bbf1abfcc/download/per_wfpadam_earthquake_20250706.geojson\"}"
+}

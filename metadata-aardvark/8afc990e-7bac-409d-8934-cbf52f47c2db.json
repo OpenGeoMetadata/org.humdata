@@ -1,0 +1,43 @@
+{
+  "id": "hdx-8afc990e-7bac-409d-8934-cbf52f47c2db",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T02:45:36Z",
+  "dct_title_s": "Brazil - Earthquake on Mar 11 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000py4l](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000py4l) Magnitude 5.6 earthquake at 640.71 depth occurred on Mar 11 2025 81km S of Puerto Esperanza. The epicentre of the earthquake was located at latitude -10.4958 longitude -70.6144. It impacted 298 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Brazil"
+  ],
+  "locn_geometry": "ENVELOPE(-73.99, -34.73, 5.24, -33.77)",
+  "dcat_bbox": "ENVELOPE(-73.99, -34.73, 5.24, -33.77)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/bra-earthquake-sm-us6000py4l\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/8afc990e-7bac-409d-8934-cbf52f47c2db/resource/663d9992-8389-495d-a048-ebad388fccca/download/bra_wfpadam_earthquake_20250311.geojson\"}"
+}

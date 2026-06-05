@@ -1,0 +1,43 @@
+{
+  "id": "hdx-8cf9638e-0df8-4ccc-836a-c1e34935081a",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T03:07:16Z",
+  "dct_title_s": "Vanuatu - Earthquake on May 19 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000synm](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000synm) Magnitude 5.8 earthquake at 37.376 depth occurred on May 19 2026 45km SW of Pango. The epicentre of the earthquake was located at latitude -18.1598 longitude 168.1719. It impacted 31160 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Vanuatu"
+  ],
+  "locn_geometry": "ENVELOPE(166.63, 167.84, -14.63, -16.6)",
+  "dcat_bbox": "ENVELOPE(166.63, 167.84, -14.63, -16.6)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/vut-earthquake-sm-us6000synm\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/8cf9638e-0df8-4ccc-836a-c1e34935081a/resource/4635fa37-181a-4c81-927b-ec3ca402fd80/download/vut_wfpadam_earthquake_20260519.geojson\"}"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hdx-cadb6bd7-d0bd-45e5-9e01-6067e837fbe4",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-04T15:30:20Z",
+  "dct_title_s": "Formal Sector School Location Lower Myanmar",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Formal Sector Schools for Basic Education in Myanmar. Location data was verified in May 2019 by the Ministry of Education (MoE) and compiled by MIMU. Some school locations have yet to be confirmed and some may not be included in this dataset. Original dataset title: Formal Sector School Location Lower Myanmar (2019)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Myanmar Information Management Unit (MIMU)"
+  ],
+  "dcat_keyword_sm": [
+    "facilities-infrastructure",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "facilities-infrastructure",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "gbl_indexYear_im": [
+    2019
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-formal-sector-school-location-lower-myanmar\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:formal_sector_school_location_lowermyanmar_2019\"}"
+}

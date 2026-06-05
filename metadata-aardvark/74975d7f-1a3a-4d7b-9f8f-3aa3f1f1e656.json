@@ -1,0 +1,43 @@
+{
+  "id": "hdx-74975d7f-1a3a-4d7b-9f8f-3aa3f1f1e656",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-07T12:52:15Z",
+  "dct_title_s": "Malawi: Administrative Division with Aggregated Population",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Malawi administrative division with aggregated population. Built from [Kontur Population: Global Population Density for 400m H3 Hexagons](https://data.humdata.org/dataset/kontur-population-dataset) on top of [OpenStreetMap](https://www.openstreetmap.org) administrative boundaries data. Enriched with HASC codes for regions taken from Wikidata. Global version of boundaries dataset: [Kontur Boundaries: Global administrative division with aggregated population](https://data.humdata.org/dataset/kontur-boundaries)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Kontur"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "baseline population",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "baseline population",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Malawi"
+  ],
+  "locn_geometry": "ENVELOPE(32.69, 35.77, -9.23, -16.8)",
+  "dcat_bbox": "ENVELOPE(32.69, 35.77, -9.23, -16.8)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-malawi\",\"http://schema.org/downloadUrl\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_MW_20220407.gpkg.gz\"}"
+}

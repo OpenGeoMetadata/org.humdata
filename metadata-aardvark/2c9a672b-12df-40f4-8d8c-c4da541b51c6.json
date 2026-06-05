@@ -1,0 +1,52 @@
+{
+  "id": "hdx-2c9a672b-12df-40f4-8d8c-c4da541b51c6",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-04-29T14:06:10Z",
+  "dct_title_s": "Rwanda - Subnational Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains the following administrative boundaries: ADM0, ADM1, ADM2, ADM3, ADM4, ADM5. Produced and maintained since 2017, the geoBoundaries Global Database of Political Administrative Boundaries Database [www.geoboundaries.org](https://www.geoboundaries.org) is an open license, standardized resource of boundaries (i.e., state, county) for every country in the world."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Open Data RwandaOpen Data RwandaOpen Data RwandaSentinel-2 10-Meter Land Use/LandCoverThe Rwanda Geo PortalThe World Bank"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Rwanda"
+  ],
+  "locn_geometry": "ENVELOPE(29.02, 30.82, -1.13, -2.92)",
+  "dcat_bbox": "ENVELOPE(29.02, 30.82, -1.13, -2.92)",
+  "dct_temporal_sm": [
+    "2012-2021"
+  ],
+  "gbl_indexYear_im": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/geoboundaries-admin-boundaries-for-rwanda\",\"http://schema.org/downloadUrl\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RWA/ADM0/geoBoundaries-RWA-ADM0_simplified.geojson\"}"
+}

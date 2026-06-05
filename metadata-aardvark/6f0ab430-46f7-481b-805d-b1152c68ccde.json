@@ -1,0 +1,43 @@
+{
+  "id": "hdx-6f0ab430-46f7-481b-805d-b1152c68ccde",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-07T14:48:42Z",
+  "dct_title_s": "Algeria Airports (OpenStreetMap Export)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This theme includes all OpenStreetMap features in this area matching ( Learn what tags means [here](https://wiki.openstreetmap.org/wiki/Tags) ) : tags['aeroway'] IS NOT NULL OR tags['building'] = 'aerodrome' OR tags['emergency:helipad'] IS NOT NULL OR tags['emergency'] = 'landing_site' Features may have these attributes: - [name](http://wiki.openstreetmap.org/wiki/Key:name) - [name:en](http://wiki.openstreetmap.org/wiki/Key:name:en) - [aeroway](http://wiki.openstreetmap.org/wiki/Key:aeroway) - [building](http://wiki.openstreetmap.org/wiki/Key:building) - [emergency](http://wiki.openstreetmap.org/wiki/Key:emergency) - [emergency:helipad](http://wiki.openstreetmap.org/wiki/Key:emergency:helipad) - [operator:type](http://wiki.openstreetmap.org/wiki/Key:operator:type) - [capacity:persons](http://wiki.openstreetmap.org/wiki/Key:capacity:persons) - [addr:full](http://wiki.openstreetmap.org/wiki/Key:addr:full) - [addr:city](http://wiki.openstreetmap.org/wiki/Key:addr:city) - [source](http://wiki.openstreetmap.org/wiki/Key:source) - [name:ar](http://wiki.openstreetmap.org/wiki/Key:name:ar) - [name:ber](http://wiki.openstreetmap.org/wiki/Key:name:ber) This dataset is one of many [OpenStreetMap exports on HDX](https://data.humdata.org/organization/hot). See the [Humanitarian OpenStreetMap Team](http://hotosm.org/) website for more information."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "aviation",
+    "facilities-infrastructure",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "aviation",
+    "facilities-infrastructure",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Algeria"
+  ],
+  "locn_geometry": "ENVELOPE(-8.68, 12.0, 37.12, 19.06)",
+  "dcat_bbox": "ENVELOPE(-8.68, 12.0, 37.12, 19.06)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "KML",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_dza_airports\",\"http://schema.org/downloadUrl\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/DZA/airports/points/hotosm_dza_airports_points_kml.zip\"}"
+}

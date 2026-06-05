@@ -1,0 +1,47 @@
+{
+  "id": "hdx-4607c450-e05b-4b54-b0c0-3124318598f8",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-04T14:27:45Z",
+  "dct_title_s": "Canada - Landsat Active Fire Detections",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Near-real-time active fire and thermal anomaly detections from NASA's [Fire Information for Resource Management System (FIRMS)](https://firms.modaps.eosdis.nasa.gov/active_fire/) covering **Canada**, derived from the **Landsat** sensor family (Landsat 8 since 2013, Landsat 9 since 2021). Each resource is an external link directly to a NASA-hosted file. The files are continuously updated as new satellite overpasses are processed (typically within 3 hours of acquisition). **Formats:** SHP, KML, CSV **Time windows:** Last 24h, 48h, 7d (Landsat KML uses an animated 48-hour file in place of the 7-day one.)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "NASA Fire Information for Resource Management System (FIRMS)"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "environment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "environment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "locn_geometry": "ENVELOPE(-141.0, -52.65, 73.23, 41.68)",
+  "dcat_bbox": "ENVELOPE(-141.0, -52.65, 73.23, 41.68)",
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "gbl_indexYear_im": [
+    2013
+  ],
+  "dct_format_s": "KML",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/nasa-firms-active-fire-canada-landsat\",\"http://schema.org/downloadUrl\":\"https://firms.modaps.eosdis.nasa.gov/data/active_fire/landsat/kml/LANDSAT_Canada_24h.kml\"}"
+}

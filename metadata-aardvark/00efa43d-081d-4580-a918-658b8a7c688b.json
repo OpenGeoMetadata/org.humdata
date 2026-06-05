@@ -1,0 +1,41 @@
+{
+  "id": "hdx-00efa43d-081d-4580-a918-658b8a7c688b",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-04T14:10:32Z",
+  "dct_title_s": "Myanmar State and Region Boundaries with Sub-regions MIMU  v9.4",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Polygons of Myanmar State, Region and Union territory boundaries (Admin1) with Sub-regions, based on the latest MIMU Pcode version 9.4 and information provided by field offices and government departments. Place names from General Administration Department (GAD), are available in Myanmar Unicode. Transliteration in roman script by MIMU. This dataset was mainly digitized at 1:250,000 scale. Place names are in line with the general cartographic practice to reflect the names of such places as designated by the host governments."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Myanmar Information Management Unit (MIMU)"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-myanmar-state-and-region-boundaries-with-sub-regions-mimu\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_polbnda2_adm1_250k_mimu_1\"}"
+}

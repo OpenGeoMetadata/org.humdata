@@ -1,0 +1,91 @@
+{
+  "id": "hdx-3595e7b5-757a-4adb-b19f-870bba54c4d7",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-04T14:25:20Z",
+  "dct_title_s": "Europe - MODIS Active Fire Detections",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Near-real-time active fire and thermal anomaly detections from NASA's [Fire Information for Resource Management System (FIRMS)](https://firms.modaps.eosdis.nasa.gov/active_fire/) covering **Europe**, derived from the **MODIS** sensor family (Terra since 2000, Aqua since 2002). Each resource is an external link directly to a NASA-hosted file. The files are continuously updated as new satellite overpasses are processed (typically within 3 hours of acquisition). **Formats:** SHP, KML, CSV **Time windows:** Last 24h, 48h, 7d"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "NASA Fire Information for Resource Management System (FIRMS)"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "environment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "environment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Albania",
+    "Andorra",
+    "Austria",
+    "Belarus",
+    "Belgium",
+    "Bosnia and Herzegovina",
+    "Bulgaria",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Holy See",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Italy",
+    "Latvia",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Monaco",
+    "Montenegro",
+    "Netherlands",
+    "North Macedonia",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Republic of Moldova",
+    "Romania",
+    "San Marino",
+    "Serbia",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "Türkiye",
+    "Ukraine",
+    "United Kingdom"
+  ],
+  "locn_geometry": "ENVELOPE(-24.33, 40.08, 70.92, 34.57)",
+  "dcat_bbox": "ENVELOPE(-24.33, 40.08, 70.92, 34.57)",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "gbl_indexYear_im": [
+    2000
+  ],
+  "dct_format_s": "KML",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/nasa-firms-active-fire-europe-modis\",\"http://schema.org/downloadUrl\":\"https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/kml/MODIS_C6_1_Europe_24h.kml\"}"
+}

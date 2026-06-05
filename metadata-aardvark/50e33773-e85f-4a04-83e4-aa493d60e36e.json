@@ -1,0 +1,58 @@
+{
+  "id": "hdx-50e33773-e85f-4a04-83e4-aa493d60e36e",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-04T14:32:05Z",
+  "dct_title_s": "Southeast Asia - VIIRS Active Fire Detections",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Near-real-time active fire and thermal anomaly detections from NASA's [Fire Information for Resource Management System (FIRMS)](https://firms.modaps.eosdis.nasa.gov/active_fire/) covering **Southeast Asia**, derived from the **VIIRS** sensor family (Suomi-NPP since 2011, NOAA-20 since 2017, NOAA-21 since 2022). Each resource is an external link directly to a NASA-hosted file. The files are continuously updated as new satellite overpasses are processed (typically within 3 hours of acquisition). **Formats:** SHP, KML, CSV **Time windows:** Last 24h, 48h, 7d"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "NASA Fire Information for Resource Management System (FIRMS)"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "environment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "environment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Brunei Darussalam",
+    "Cambodia",
+    "Indonesia",
+    "Lao People's Democratic Republic",
+    "Malaysia",
+    "Myanmar",
+    "Papua New Guinea",
+    "Philippines",
+    "Singapore",
+    "Thailand",
+    "Timor-Leste",
+    "Viet Nam"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 81.25, -10.65)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 81.25, -10.65)",
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "gbl_indexYear_im": [
+    2012
+  ],
+  "dct_format_s": "KML",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/nasa-firms-active-fire-southeast-asia-viirs\",\"http://schema.org/downloadUrl\":\"https://firms.modaps.eosdis.nasa.gov/data/active_fire/suomi-npp-viirs-c2/kml/SUOMI_VIIRS_C2_SouthEast_Asia_24h.kml\"}"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "hdx-79b472af-25c3-49ef-9f86-1dd29f53ad0e",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T03:07:52Z",
+  "dct_title_s": "Peru - Earthquake on Apr 01 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000s9cg](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000s9cg) Magnitude 6.0 earthquake at 108.831 depth occurred on Apr 01 2026 4km SE of Shamboyacu. The epicentre of the earthquake was located at latitude -7.0558 longitude -76.1241. It impacted 81860 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Peru"
+  ],
+  "locn_geometry": "ENVELOPE(-81.41, -68.67, -0.06, -18.35)",
+  "dcat_bbox": "ENVELOPE(-81.41, -68.67, -0.06, -18.35)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/per-earthquake-sm-us7000s9cg\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/79b472af-25c3-49ef-9f86-1dd29f53ad0e/resource/ffbe9141-742c-4e92-a625-5c0a2204a84a/download/per_wfpadam_earthquake_20260401.geojson\"}"
+}

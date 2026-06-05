@@ -1,0 +1,43 @@
+{
+  "id": "hdx-892d4066-b98c-412d-a66d-567f12fc4f10",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-07T12:31:02Z",
+  "dct_title_s": "South Africa: Population Density for 400m H3 Hexagons",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "South Africa population density for 400m H3 hexagons. Built from [Kontur Population: Global Population Density for 400m H3 Hexagons](https://data.humdata.org/dataset/kontur-population-dataset) Vector H3 hexagons with population counts at 400m resolution. Fixed up fusion of GHSL, Facebook, Microsoft Buildings, Copernicus Global Land Service Land Cover, Land Information New Zealand, and OpenStreetMap data."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "kontur"
+  ],
+  "dcat_keyword_sm": [
+    "baseline population",
+    "geodata",
+    "population"
+  ],
+  "dct_subject_sm": [
+    "baseline population",
+    "geodata",
+    "population"
+  ],
+  "dct_spatial_sm": [
+    "South Africa"
+  ],
+  "locn_geometry": "ENVELOPE(16.34, 32.83, -22.09, -34.82)",
+  "dcat_bbox": "ENVELOPE(16.34, 32.83, -22.09, -34.82)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-south-africa\",\"http://schema.org/downloadUrl\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_ZA_20220630.gpkg.gz\"}"
+}

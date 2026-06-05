@@ -1,0 +1,41 @@
+{
+  "id": "hdx-b7148887-a5dd-4883-80d8-60d55fa50b58",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-01-04T16:09:12Z",
+  "dct_title_s": "Satellite detected water extent over Rajshahi, Rangpur, Mymensingh and Khulna Divisions, Bangladesh as of 21 June 2022",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20220525BGD** This map illustrates satellite-detected surface waters in Rajshahi, Rangur, Mymensingh, Dhaka and Khulna Divisions, Bangladesh as observed from a Sentinel-1 images acquired on 21 Jun. 2022 at 18:05 local time and using an automated analysis with machine learning method. Within the analyzed area of about 20,400 km2, about 2,950 km2 of lands appear to be flooded. Water extent appears to have increased of about 2,360 km2 since 9 Jun. 2022. Based on Worldpop population data and the detected surface waters in the analyzed area, the potentially exposed population is mainly located in the division of Rajshahi with ~1,335,000 people, Dhaka with 674,000 people,and Mymensingh with ~ 640,000 people. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Bangladesh"
+  ],
+  "locn_geometry": "ENVELOPE(88.08, 92.67, 26.45, 20.67)",
+  "dcat_bbox": "ENVELOPE(88.08, 92.67, 26.45, 20.67)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extent-over-rajshahi-rangpur-mymensingh-and-khulna-divisions-bangladesh-as-of-21-jun\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/BD/FL20220525BGD/FL20220525BGD_gdb.zip\"}"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "hdx-fc379c69-efe6-4df6-85ec-039c03b65af0",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-01T12:53:43Z",
+  "dct_title_s": "Suriname: Copernicus Vegetation Index Anomaly (FAPAR Anomaly)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Fraction of Absorbed Photosynthetically Active Radiation (FAPAR) is a biophysical dimensionless quantity (its values range from 0/no absorption to 1/total absorption) used to assess the greenness and health of vegetation. FAPAR anomalies can be used as an indicator to detect and monitor the impacts of agricultural drought on the growth and productivity of vegetation. The data is presented in 10-day time composite of the Visible Infrared Imaging Radiometer Suite (VIIRS)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "European Commission, Joint Research Centre (JRC)"
+  ],
+  "dcat_keyword_sm": [
+    "drought",
+    "environment"
+  ],
+  "dct_subject_sm": [
+    "drought",
+    "environment"
+  ],
+  "dct_spatial_sm": [
+    "Suriname"
+  ],
+  "locn_geometry": "ENVELOPE(-58.04, -53.96, 6.03, 1.82)",
+  "dcat_bbox": "ENVELOPE(-58.04, -53.96, 6.03, 1.82)",
+  "dct_temporal_sm": [
+    "2012-2026"
+  ],
+  "gbl_indexYear_im": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/sur-anomalies-fapar-viirs\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/fc379c69-efe6-4df6-85ec-039c03b65af0/resource/c53e3d24-2fe9-4f69-a429-6754f5a12ba4/download/sur_fpanv_m_gdo_20260101_20260511_t.zip\"}"
+}

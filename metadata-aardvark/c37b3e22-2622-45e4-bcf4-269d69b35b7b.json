@@ -1,0 +1,44 @@
+{
+  "id": "hdx-c37b3e22-2622-45e4-bcf4-269d69b35b7b",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-04T15:30:13Z",
+  "dct_title_s": "OpenStreetMap GIS data on Guinea, Liberia, and Sierra Leone",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains shapefiles for Guinea, Liberia, and Sierra Leone from the [OpenStreetMap (OSM)](http://www.openstreetmap.org/) project. Each country has its individual file. The dataset counts with contributions of hundreds of users. **This dataset is updated daily.** The original dataset can be downloaded from the [OSM West Africa Ebola response wiki](http://wiki.openstreetmap.org/wiki/2014_West_Africa_Ebola_Response#ShapeFiles_for_GIS_softwares)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap (OSM)"
+  ],
+  "dcat_keyword_sm": [
+    "disease",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "disease",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Guinea",
+    "Liberia",
+    "Sierra Leone"
+  ],
+  "locn_geometry": "ENVELOPE(-15.13, -7.54, 12.59, 4.36)",
+  "dcat_bbox": "ENVELOPE(-15.13, -7.54, 12.59, 4.36)",
+  "dct_temporal_sm": [
+    "2018-2019"
+  ],
+  "gbl_indexYear_im": [
+    2018,
+    2019
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/open-street-map-data-on-guinea-liberia-and-sierra-leone\",\"http://schema.org/downloadUrl\":\"https://download.geofabrik.de/africa/guinea-latest-free.shp.zip\"}"
+}

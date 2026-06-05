@@ -1,0 +1,41 @@
+{
+  "id": "hdx-3cc61063-d989-426e-9eee-a4f068fc162d",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-04-27T14:54:59Z",
+  "dct_title_s": "Tanintharyi Region Land Cover (Original)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Geotiff download link: http://bit.ly/2IjLZtw This dataset is the result of a land cover analysis for Myanmar's Tanintharyi Region based on March, 2016 Landsat 8 OLI imagery. The primary purpose of the study was to map natural forest for each of four ecological forest types (Mangrove, Mixed Deciduous, Lowland Evergreen, Upland Evergreen). A number of other land use/land cover types are also included in the dataset, including human settlement areas, rice paddyfields, and agroforestry plantations. This dataset is the original version generated according to the methodology outlined in the corresponding manuscript. [Citation: Connette, G., P. Oswald, M. Songer, and P. Leimgruber. 2016. Mapping distinct forest types improves overall forest identification based on multi-spectral Landsat imagery. Remote Sensing 8: 882.] [Spatial reference: WGS84 UTM47N] Original dataset title: Tanintharyi Region Land Cover - March 2016 (Original)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Myanmar Information Management Unit (MIMU)"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "topography"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "topography"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "gbl_indexYear_im": [
+    2016
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-tanintharyi-region-land-cover-original\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:tanintharyi_2016_v1\"}"
+}

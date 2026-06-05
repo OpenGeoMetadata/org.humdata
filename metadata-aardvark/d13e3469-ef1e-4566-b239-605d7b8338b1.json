@@ -1,0 +1,43 @@
+{
+  "id": "hdx-d13e3469-ef1e-4566-b239-605d7b8338b1",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T03:10:11Z",
+  "dct_title_s": "Afghanistan - Earthquake on Sep 04 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000qtst](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000qtst) Magnitude 5.6 earthquake at 10.0 depth occurred on Sep 04 2025 3km NW of Kama. The epicentre of the earthquake was located at latitude 34.4221 longitude 70.6145. It impacted 1017660 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Afghanistan"
+  ],
+  "locn_geometry": "ENVELOPE(60.53, 75.16, 38.49, 29.32)",
+  "dcat_bbox": "ENVELOPE(60.53, 75.16, 38.49, 29.32)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/afg-earthquake-sm-us7000qtst\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/d13e3469-ef1e-4566-b239-605d7b8338b1/resource/5eaf0d2a-9784-46a3-8a1f-acbfce9e8852/download/afg_wfpadam_earthquake_20250904.geojson\"}"
+}

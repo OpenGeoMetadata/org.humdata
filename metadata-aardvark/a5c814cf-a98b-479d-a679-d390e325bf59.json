@@ -1,0 +1,49 @@
+{
+  "id": "hdx-a5c814cf-a98b-479d-a679-d390e325bf59",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-04-27T17:07:56Z",
+  "dct_title_s": "Mozambique - Floods - January 2026 - OpenStreetMap Data",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains OpenStreetMap data exported from the HOTOSM disaster mapping in response to flooding events in the Gaza, Maputo and Maputo City Provinces of Mozambique (GLIDE: FL-2026-000004-MOZ) in early 2026. Severe flooding in Mozambique has affected more than half a million people following heavy rains in the first weeks of the new year. Gaza province has been hit hardest, alongside Maputo and Sofala provinces. The first OSM extract was based on [Copernicus' flood extend](https://mapping.emergency.copernicus.eu/activations/EMSR857/download) from 29 January 2026. The first disaster response mapping project focused on settlements around Chicumbane in the Province of Gaza which, from 9 February, expanded to other settlements in the province. It now includes additional settlements further north in the Province. HOT worked with [UNICEF](https://www.unicef.org/), [INGD](https://ingd.gov.mz/) (Mozambique Disaster Risk Management Institute) and [OSM Mozambique](https://wiki.openstreetmap.org/wiki/Mozambique) to define priority areas and features. The data has been contributed by volunteers through the Humanitarian OpenStreetMap Team's Tasking Manager and represents buildings and roads in the affected area. It was updated once or twice a week as mapping progresses but is now updated every other week. Subscribe to this dataset to be notified of any new updates. This dataset includes all OpenStreetMap features in the area of interest for this event, covering: Buildings, Roads. See the list of projects in the Tasking Manager [here](https://tasks.hotosm.org/explore?campaign=Mozambique+Floods+2026&omitMapResults=1&status=PUBLISHED%2CARCHIVED%2CDRAFT). For more information see the [HOTOSM activation page](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Open_Mapping_Hub_Eastern_and_Southern_Africa/Mozambique_Floods_2026). As of 22 April 2026: over 3,300 contributors (non unique)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "facilities-infrastructure",
+    "flooding",
+    "geodata",
+    "natural disasters",
+    "roads",
+    "transportation"
+  ],
+  "dct_subject_sm": [
+    "facilities-infrastructure",
+    "flooding",
+    "geodata",
+    "natural disasters",
+    "roads",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "Mozambique"
+  ],
+  "locn_geometry": "ENVELOPE(30.18, 40.78, -10.32, -26.74)",
+  "dcat_bbox": "ENVELOPE(30.18, 40.78, -10.32, -26.74)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/moz-floods-january-2026-openstreetmap-data\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/a5c814cf-a98b-479d-a679-d390e325bf59/resource/589e663e-c32a-4e8b-937a-45d235909699/download/moz_floods_buildings_glide_fl_2026_000004_moz_22apr2026_geojson.zip\"}"
+}

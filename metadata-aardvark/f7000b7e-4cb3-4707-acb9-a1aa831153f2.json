@@ -1,0 +1,41 @@
+{
+  "id": "hdx-f7000b7e-4cb3-4707-acb9-a1aa831153f2",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-18T14:50:19Z",
+  "dct_title_s": "Ethiopia Rangeland Mask",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset provides a spatial mask of Ethiopia rangelands, identifying areas dominated by grasslands, shrublands, and sparse vegetation that are primarily used for grazing and pastoral livelihoods. The rangeland mask for Ethiopia delineates regions where pastoralism and agro-pastoralism are prevalent, helping distinguish these land systems from croplands, forests, or urban areas. The dataset is derived from a combination of remote sensing data and land cover classifications, ensuring consistency across ecological zones-"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "ICPAC"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "topography"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "topography"
+  ],
+  "dct_spatial_sm": [
+    "Ethiopia"
+  ],
+  "locn_geometry": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dcat_bbox": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/icpac-geonode-ethiopia-rangeland-mask\",\"http://schema.org/downloadUrl\":\"https://geoportal.icpac.net/geoserver/ows?service=WCS&request=GetCoverage&coverageid=geonode__Normalized_Rangeland&format=image%2Ftiff&version=2.0.1&compression=DEFLATE&tileWidth=512&tileHeight=512\"}"
+}

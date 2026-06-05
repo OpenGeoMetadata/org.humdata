@@ -1,0 +1,45 @@
+{
+  "id": "hdx-71e92561-2013-4208-a896-b8a3fd0a41e2",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-04T14:48:01Z",
+  "dct_title_s": "UNHCR People of Concern",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Geographic point layer representing all the people of concern's known locations in the world ( Refugees, Internally displaced, Stateless persons and other of concern). The data is displayed by population type and location type (typology adapted from the SPHERE handbook standard)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UNHCR"
+  ],
+  "dcat_keyword_sm": [
+    "internally displaced persons-idp",
+    "population",
+    "refugees",
+    "stateless persons"
+  ],
+  "dct_subject_sm": [
+    "internally displaced persons-idp",
+    "population",
+    "refugees",
+    "stateless persons"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "dct_format_s": "KMZ",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/unhcr-people-of-concern\",\"http://schema.org/downloadUrl\":\"https://gis.unhcr.org/arcgis/rest/services/core_v2/wrl_prp_p_unhcr_PoC/MapServer/kml/mapImage.kmz\"}"
+}

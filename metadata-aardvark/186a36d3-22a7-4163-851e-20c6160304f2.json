@@ -1,0 +1,41 @@
+{
+  "id": "hdx-186a36d3-22a7-4163-851e-20c6160304f2",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-02-18T05:01:32Z",
+  "dct_title_s": "Satellite detected water extents from 9 to 13 November 2024 over Nigeria",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20240902NGA, GDACS ID: 1102720** This map illustrates cumulative satellite-detected water using VIIRS in Nigeria between 09 to 13 November 2024. Within the cloud free analysed areas of about 900,000 km², a total of about 22,000 km² of lands appear to be affected with flood waters. Maximum flood water extent appears to have receded of about 5,700 km² since the period between 27 to 31 October 2024. Based on Worldpop population data and the maximum flood water extent, about 5.8 million people remain potentially exposed or live close to flooded areas. The pixelwise water fraction from VIIRS, using a 5-day composite at 375 m spatial resolution, indicates potential floodwater coverage ranging from 0% to 100%. This large-scale analysis is intended for guidance purposes and has not yet been validated with ground truth data or higher- resolution analysis. The population exposure analysis is based on floodwaters observed only in cloud-free areas, so the total number of people exposed may be underestimated. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to the United Nations Satellite Centre (UNOSAT)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Nigeria"
+  ],
+  "locn_geometry": "ENVELOPE(2.69, 14.58, 13.87, 4.24)",
+  "dcat_bbox": "ENVELOPE(2.69, 14.58, 13.87, 4.24)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-water-extents-from-9-to-13-november-2024-over-nigeria\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/4021/FL20240902NGA_gdb.zip\"}"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "hdx-efe1c72b-891f-4e64-981d-6864cae5686b",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-15T16:19:37Z",
+  "dct_title_s": "Sweden : Cultural Places (OpenStreetMap Export)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Cultural and historic places from OSM. Includes museums, galleries, theatres, places of worship, monuments, and historic sites tagged via `tourism`, `amenity`, `historic`, or `heritage`. Useful for heritage protection, cultural mapping, and tourism context. OpenStreetMap is a free, collaborative world map built by volunteers. Completeness varies by region: urban areas are usually well-mapped, remote areas may be incomplete. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org) - OSM tags: [Key:tourism](https://wiki.openstreetmap.org/wiki/Key:tourism), [Key:amenity](https://wiki.openstreetmap.org/wiki/Key:amenity), [Key:historic](https://wiki.openstreetmap.org/wiki/Key:historic), [Key:heritage](https://wiki.openstreetmap.org/wiki/Key:heritage) - Part of many [exports grid on HDX](https://data.humdata.org/organization/hot) by the [HOT](https://www.hotosm.org/en/)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "facilities-infrastructure",
+    "geodata",
+    "points of interest-poi"
+  ],
+  "dct_subject_sm": [
+    "facilities-infrastructure",
+    "geodata",
+    "points of interest-poi"
+  ],
+  "dct_spatial_sm": [
+    "Sweden"
+  ],
+  "locn_geometry": "ENVELOPE(11.03, 23.9, 69.11, 55.36)",
+  "dcat_bbox": "ENVELOPE(11.03, 23.9, 69.11, 55.36)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "KML",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_swe_cultural_places\",\"http://schema.org/downloadUrl\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/SWE/cultural_places/hotosm_swe_cultural_places_osm_kml.zip\"}"
+}

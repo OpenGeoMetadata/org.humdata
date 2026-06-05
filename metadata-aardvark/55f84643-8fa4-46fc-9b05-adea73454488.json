@@ -1,0 +1,39 @@
+{
+  "id": "hdx-55f84643-8fa4-46fc-9b05-adea73454488",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-18T14:51:27Z",
+  "dct_title_s": "Somalia Crop Mask",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "The dataset contains global crop at 0.0089286 deg resolution (about 1 squared kilometer).   Each pixel represents the area fraction of the specific cover (i.e. percentage of the pixel with rangelands)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "ICPAC"
+  ],
+  "dcat_keyword_sm": [
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Somalia"
+  ],
+  "locn_geometry": "ENVELOPE(40.98, 51.13, 12.02, -1.68)",
+  "dcat_bbox": "ENVELOPE(40.98, 51.13, 12.02, -1.68)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/icpac-geonode-somalia-crop-mask\",\"http://schema.org/downloadUrl\":\"https://geoportal.icpac.net/geoserver/ows?service=WCS&request=GetCoverage&coverageid=geonode__SOM_crop_negative1_normalized&format=image%2Ftiff&version=2.0.1&compression=DEFLATE&tileWidth=512&tileHeight=512\"}"
+}

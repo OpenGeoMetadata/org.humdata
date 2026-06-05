@@ -1,0 +1,43 @@
+{
+  "id": "hdx-de2840f5-9068-4fa9-92bd-dcbd5633898b",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T03:09:29Z",
+  "dct_title_s": "Ethiopia - Earthquake on Oct 11 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000rglb](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000rglb) Magnitude 5.6 earthquake at 10.0 depth occurred on Oct 11 2025 7km NE of Womberta. The epicentre of the earthquake was located at latitude 13.6508 longitude 39.8628. It impacted 815772 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Ethiopia"
+  ],
+  "locn_geometry": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dcat_bbox": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eth-earthquake-sm-us6000rglb\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/de2840f5-9068-4fa9-92bd-dcbd5633898b/resource/5636386d-14f5-483c-b5cb-37f8c4601ee9/download/eth_wfpadam_earthquake_20251011.geojson\"}"
+}

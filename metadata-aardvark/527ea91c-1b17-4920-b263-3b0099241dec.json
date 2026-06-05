@@ -1,0 +1,43 @@
+{
+  "id": "hdx-527ea91c-1b17-4920-b263-3b0099241dec",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T03:09:33Z",
+  "dct_title_s": "Philippines - Earthquake on Oct 11 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000rgj4](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000rgj4) Magnitude 5.5 earthquake at 60.094 depth occurred on Oct 11 2025 27km E of Caraga. The epicentre of the earthquake was located at latitude 7.2713 longitude 126.798. It impacted 114933 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "locn_geometry": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dcat_bbox": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/phl-earthquake-sm-us6000rgj4\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/527ea91c-1b17-4920-b263-3b0099241dec/resource/8a89f747-afcb-46e8-a42f-96add50b5800/download/phl_wfpadam_earthquake_202510111.geojson\"}"
+}

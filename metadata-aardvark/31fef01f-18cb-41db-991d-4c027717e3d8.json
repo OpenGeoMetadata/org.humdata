@@ -1,0 +1,43 @@
+{
+  "id": "hdx-31fef01f-18cb-41db-991d-4c027717e3d8",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T03:08:28Z",
+  "dct_title_s": "Myanmar - Earthquake on Feb 03 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000s65b](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000s65b) Magnitude 5.9 earthquake at 62.69 depth occurred on Feb 03 2026 32km W of Sidoktaya. The epicentre of the earthquake was located at latitude 20.4657 longitude 93.9572. It impacted 70339 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mmr-earthquake-sm-us6000s65b\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/31fef01f-18cb-41db-991d-4c027717e3d8/resource/26f63d32-4e36-40cd-99f2-f3ab86675fb0/download/mmr_wfpadam_earthquake_20260203.geojson\"}"
+}

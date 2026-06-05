@@ -1,0 +1,41 @@
+{
+  "id": "hdx-c1d4a5d4-48eb-48ba-a678-351ab1275fcd",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-03-24T15:24:28Z",
+  "dct_title_s": "Satellite detected water extent in Tillabéri Region, Niger as of 19 August 2022",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20220728NER** This map illustrates satellite-detected surface waters in Tillabéri Region, Niger as observed from a Sentinel-2 image acquired on 19 August 2022 at 11:37 local time. Within the analyzed area of about 26,000 km2, about 377 km2 of lands appear to be flooded. Based on Worldpop population data and the detected surface waters in the analyzed area, about 33,500 people are potentially exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to United Nations Satellite Centre (UNOSAT)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Niger"
+  ],
+  "locn_geometry": "ENVELOPE(0.3, 15.9, 23.47, 11.66)",
+  "dcat_bbox": "ENVELOPE(0.3, 15.9, 23.47, 11.66)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-water-extent-in-tillaberi-region-niger-as-of-19-august-2022\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/NE/FL20220728NER/FL20220728NER_gdb.zip\"}"
+}

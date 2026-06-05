@@ -1,0 +1,43 @@
+{
+  "id": "hdx-0a91c5d9-9102-4130-859f-9c9fcdf4b198",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T03:07:40Z",
+  "dct_title_s": "Azerbaijan - Earthquake on Apr 08 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000sbau](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000sbau) Magnitude 5.6 earthquake at 10.0 depth occurred on Apr 08 2026 71km SE of Neftçala. The epicentre of the earthquake was located at latitude 38.8408 longitude 49.6001. It impacted 12 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Azerbaijan"
+  ],
+  "locn_geometry": "ENVELOPE(44.79, 50.39, 41.86, 38.27)",
+  "dcat_bbox": "ENVELOPE(44.79, 50.39, 41.86, 38.27)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/aze-earthquake-sm-us7000sbau\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/0a91c5d9-9102-4130-859f-9c9fcdf4b198/resource/bfa71b6e-ce58-421d-80e2-01c900fb7045/download/aze_wfpadam_earthquake_20260408.geojson\"}"
+}

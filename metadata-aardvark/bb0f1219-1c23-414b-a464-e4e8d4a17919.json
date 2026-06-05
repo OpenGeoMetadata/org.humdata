@@ -1,0 +1,43 @@
+{
+  "id": "hdx-bb0f1219-1c23-414b-a464-e4e8d4a17919",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-02-19T16:48:36Z",
+  "dct_title_s": "Census disaggregated gridded population estimates for Mozambique (2017), version 1.1",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "These data were produced by the [WorldPop](https://www.worldpop.org/) Research Group at the University of Southampton. This work is part of the [GRID3 ](https://grid3.org/) (Geo-Referenced Infrastructure and Demographic Data for Development) project funded by the Bill and Melinda Gates Foundation (BMGF) and the United Kingdom Foreign, Commonwealth & Development Office (OPP1182425). Project partners include WorldPop at the University of Southampton, the United Nations Population Fund ([UNFPA](https://www.unfpa.org)), Center for International Earth Science Information Network ([CIESIN](http://www.ciesin.org/)) in the Earth Institute at Columbia University, and the [Flowminder](https://www.flowminder.org) Foundation. This work provides an estimate of the geographic distribution of the population of Mozambique in 2017. The outputs are intended as an interim population product to support ongoing development and operations work until such time as the official 2017 Population and Housing Census results are available in a spatial gridded format. At that time, this interim gridded population layer will be superseded and users will be advised to use the official gridded population release from [INE](http://www.ine.gov.mz/iv-rgph-2017). For further details, please, read MOZ_population_v1_1_README.pdf __Recommended citation__ _Bondarenko M, Jones P, Leasure D, Lazar AN, Tatem AJ. 2020. Census disaggregated gridded population estimates for Mozambique (2017), version 1.1. WorldPop, University of Southampton. doi:10.5258/SOTON/WP00672_"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "GRID3 (Geo-Referenced Infrastructure and Demographic Data for Development)"
+  ],
+  "dcat_keyword_sm": [
+    "census",
+    "demographics",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "census",
+    "demographics",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Mozambique"
+  ],
+  "locn_geometry": "ENVELOPE(30.18, 40.78, -10.32, -26.74)",
+  "dcat_bbox": "ENVELOPE(30.18, 40.78, -10.32, -26.74)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/gridded-population-estimates-for-mozambique-2017-census-v1-1\",\"http://schema.org/downloadUrl\":\"https://wopr.worldpop.org/download/237\"}"
+}

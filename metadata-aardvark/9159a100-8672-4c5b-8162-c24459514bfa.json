@@ -1,0 +1,46 @@
+{
+  "id": "hdx-9159a100-8672-4c5b-8162-c24459514bfa",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-07T12:30:20Z",
+  "dct_title_s": "Kontur Population: Global Population Density for 22km H3 Hexagons",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Global Population dataset. Vector H3 hexagons with population counts at 22km resolution. * 400m resolution version: [data.humdata.org/dataset/kontur-population-dataset](https://data.humdata.org/dataset/kontur-population-dataset) * 3km resolution version: [data.humdata.org/dataset/kontur-population-dataset-3km](https://data.humdata.org/dataset/kontur-population-dataset-3km) * Per-country subsets of Kontur Population: [data.humdata.org/organization/kontur](https://data.humdata.org/organization/kontur) Fixed up fusion of GHSL, Facebook, Microsoft Buildings, Copernicus Global Land Service Land Cover, Land Information New Zealand, and OpenStreetMap data."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Kontur"
+  ],
+  "dcat_keyword_sm": [
+    "baseline population",
+    "geodata",
+    "population"
+  ],
+  "dct_subject_sm": [
+    "baseline population",
+    "geodata",
+    "population"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2020-2023"
+  ],
+  "gbl_indexYear_im": [
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-dataset-22km\",\"http://schema.org/downloadUrl\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_population_20231101_r4.gpkg.gz\"}"
+}

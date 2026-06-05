@@ -1,0 +1,41 @@
+{
+  "id": "hdx-782bbea4-431f-49b2-9ddb-a4e790062190",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-04T14:48:33Z",
+  "dct_title_s": "Power Plant Locations in Myanmar",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Non-authoritative dataset of >100 approximate centre point locations of of power plants and other larger electricity generation facilities as of 2025. Produced by CDE Myanmar based on publicly available reference data (incl. https://www.moep.gov.mm/en/ignite/page/641), OpenStreetMap, local knowledge and high resolution satellite imagery. The attribute data includes the non-authoritative English name of each facility along with a \"best-guess\" operational status as of 2025, based on satellite imagery analysis and publicly available online sources. Creation methodology: - Identifying power generation locations primarily based on https://www.moep.gov.mm/en/ignite/page/641, OpenStreetMap and high resolution satellite imagery. - Mapping the approximate centrepoint of each substation and matching it with the reference data available. - assigning a \"power facility code\" to each facility - operational status was assessed based on satellite imagery, considering visible signs of ongoing construction, complete decommissioning, or disuse - assigning power generation source and max. capacity (in MW) based on MOEP reference map from 2019, internet searches and \"best guess\" assessment based on the visual apearance of the substation in the imagery. - assigning a non-authoritative facility name, based on google maps, MOEP, OSM and other publicly available data. - creating a public dataset by excluding planned and non-confirmed power facility locations and by reducing the attribute table to a selection of cleaned and relevant fields. Known issues: - power generation facility names are unofficial and non-authoritative; Myanmar-language names are still missing. - some power plants present in reference lists (MOEP, Myanmar project bank, SEA 2018, ...) are only in planning stage, have been decomissions or canceled. Locations for those were not identified. - The matching of power generation locations with data from the Ministry of Electricity and Energy (MOEP) and other reference sources is not always reliable, and mismatches may have occurred in the dataset. - for some power generation facilities no names are known or are highly uncertain. Those names are places in square backets \"[]\" - many smaller solar plants or solar mini-grids are included in this dataset (as visible in imagery) while mini-grid diesel generators, micro-hydro and other power generation facilities with similar capacity are not included (as not easily identifiable in imagery) Spatial dataset created based on approximately 1:5.000 scaled imagery."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Myanmar Information Management Unit (MIMU)"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-power-plant-locations-in-myanmar\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mm_powerplants_pt_v20250812\"}"
+}

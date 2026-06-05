@@ -1,0 +1,41 @@
+{
+  "id": "hdx-89c82ab8-be9d-4990-910c-03f6a4c6febc",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-02-26T07:07:14Z",
+  "dct_title_s": "Zimbabwe: Google Building Footprints",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This large-scale open dataset consists of outlines of buildings derived from high-resolution 50 cm satellite imagery. It contains 1.8B building detections in Africa, Latin America, Caribbean, South Asia and Southeast Asia. The inference spanned an area of 58M km² and was carried out during May 2023. Each building in this dataset includes a polygon describing its footprint size on the ground and a confidence score indicating how sure this is a building. There is no information about the type of building, its street address, or any details other than its geometry. The HDX team curates these datasets at [Google Open Buildings (by HDX)](https://data.humdata.org/organization/google-open-buildings) using international boundaries from the UN Geospatial Hub. For more details, see the official website of the [Open Buildings dataset](https://sites.research.google/gr/open-buildings/)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Google Earth imagery"
+  ],
+  "dcat_keyword_sm": [
+    "facilities-infrastructure",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "facilities-infrastructure",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Zimbabwe"
+  ],
+  "locn_geometry": "ENVELOPE(25.26, 32.85, -15.51, -22.27)",
+  "dcat_bbox": "ENVELOPE(25.26, 32.85, -15.51, -22.27)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/buildings-google-zwe\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/89c82ab8-be9d-4990-910c-03f6a4c6febc/resource/adcc8ad2-5590-4a36-bbcf-c05d082744b0/download/zwe_buildings.gdb.zip\"}"
+}

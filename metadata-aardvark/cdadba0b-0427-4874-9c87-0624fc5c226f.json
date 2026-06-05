@@ -1,0 +1,55 @@
+{
+  "id": "hdx-cdadba0b-0427-4874-9c87-0624fc5c226f",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-01T12:49:12Z",
+  "dct_title_s": "Kenya: Copernicus Vegetation Index Anomaly (FAPAR Anomaly)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Fraction of Absorbed Photosynthetically Active Radiation (FAPAR) is a biophysical dimensionless quantity (its values range from 0/no absorption to 1/total absorption) used to assess the greenness and health of vegetation. FAPAR anomalies can be used as an indicator to detect and monitor the impacts of agricultural drought on the growth and productivity of vegetation. The data is presented in 10-day time composite of the Visible Infrared Imaging Radiometer Suite (VIIRS)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "European Commission, Joint Research Centre (JRC)"
+  ],
+  "dcat_keyword_sm": [
+    "drought",
+    "environment"
+  ],
+  "dct_subject_sm": [
+    "drought",
+    "environment"
+  ],
+  "dct_spatial_sm": [
+    "Kenya"
+  ],
+  "locn_geometry": "ENVELOPE(33.89, 41.86, 5.51, -4.68)",
+  "dcat_bbox": "ENVELOPE(33.89, 41.86, 5.51, -4.68)",
+  "dct_temporal_sm": [
+    "2012-2026"
+  ],
+  "gbl_indexYear_im": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/ken-anomalies-fapar-viirs\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/cdadba0b-0427-4874-9c87-0624fc5c226f/resource/a4edce70-e5e3-4015-9c5d-1a1bf06131ee/download/ken_fpanv_m_gdo_20260101_20260511_t.zip\"}"
+}

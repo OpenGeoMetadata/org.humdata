@@ -1,0 +1,41 @@
+{
+  "id": "hdx-25c15d1f-3488-49d9-9d08-ea625f6ca2d0",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-02-18T05:02:36Z",
+  "dct_title_s": "Satellite detected water extents in Andapa District, Sava Region, Madagascar as of 9 March 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: TC20250308MDG, GDACS ID: 1154** This map illustrates the potentially affected cropland in Andapa District, Sava Region, Madagascar, based on RCM-2 satellite images acquired on 9 March 2025. In the analyzed area of approximately 680 km², about 145 km² of cropland is identified, of which about 20 km² appears to be affected by floodwaters. This is a preliminary analysis and has not yet been validated on the ground. Ground feedback is requested and can be sent to the United Nations Satellite Centre (UNOSAT). Important Note: Flood analysis based on radar images may underestimate the presence of standing water in built-up or densely vegetated areas due to the backscattering properties of the radar signal. as of 9 March 2025"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Madagascar"
+  ],
+  "locn_geometry": "ENVELOPE(43.25, 50.48, -12.04, -25.6)",
+  "dcat_bbox": "ENVELOPE(43.25, 50.48, -12.04, -25.6)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extents-in-andapa-district-sava-region-madagascar-as-of-9-march-2025\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/4086/TC20250308MDG_gdb.zip\"}"
+}

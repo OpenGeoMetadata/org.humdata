@@ -1,0 +1,41 @@
+{
+  "id": "hdx-3c758d10-53c6-4dc3-b430-aa9bfd3fcea4",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-04T14:25:41Z",
+  "dct_title_s": "Historical Hurricane Tracks",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This feature layer, utilizing data from the National Oceanic and Atmospheric Administration (NOAA), displays global hurricane tracks from 1842-2024. According to NOAA, \"a tropical cyclone is a rotating low-pressure weather system that has organized thunderstorms but no fronts (a boundary separating two air masses of different densities). Tropical cyclones with maximum sustained surface winds of less than 39 miles per hour (mph) are called tropical depressions. Those with maximum sustained winds of 39 mph or higher are called tropical storms. When a storm's maximum sustained winds reach 74 mph, it is called a hurricane.\" Data currency: December 31, 2024 Data source: International Best Track Archive for Climate Stewardship (IBTrACS) Data modification: Field added - Hurricane Date For more information: International Best Track Archive for Climate Stewardship (IBTrACS) Support documentation: IBTrACS v04 column documentation For feedback, please contact: ArcGIScomNationalMaps@esri.com This dataset presents global hurricane tracks from 1842 to 2024, derived from the National Oceanic and Atmospheric Administration (NOAA) archives. It encompasses data from the HURDAT2 database maintained by the NOAA National Hurricane Center and the NOAA National Centers for Environmental Information. The dataset includes information on storm positions, intensities, and other relevant attributes. The feature layer is designed to support visualization and analysis of historical tropical cyclone activity. It serves as a valuable resource for researchers, emergency planners, and the general public interested in understanding hurricane patterns and impacts over time. For more detailed information and to access the dataset, please visit the Historical Hurricane Tracks page. Original dataset title: Historical Hurricane Tracks (1842 - 2024)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Myanmar Information Management Unit (MIMU)"
+  ],
+  "dcat_keyword_sm": [
+    "environment",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "environment",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "1842"
+  ],
+  "gbl_indexYear_im": [
+    1842
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-historical-hurricane-tracks\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:historical_harricane_tracks\"}"
+}

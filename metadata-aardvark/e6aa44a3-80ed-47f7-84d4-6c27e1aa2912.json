@@ -1,0 +1,41 @@
+{
+  "id": "hdx-e6aa44a3-80ed-47f7-84d4-6c27e1aa2912",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-15T16:19:00Z",
+  "dct_title_s": "Portugal : Financial Services (OpenStreetMap Export)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Financial services from OSM. Includes banks, ATMs, post offices, money transfer agents, and microfinance branches tagged via `amenity`. Useful for financial-inclusion mapping, cash-distribution planning, and economic analysis. OpenStreetMap is a free, collaborative world map built by volunteers. Completeness varies by region: urban areas are usually well-mapped, remote areas may be incomplete. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org) - OSM tags: [Key:amenity](https://wiki.openstreetmap.org/wiki/Key:amenity) - Part of many [exports grid on HDX](https://data.humdata.org/organization/hot) by the [HOT](https://www.hotosm.org/en/)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "economics",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "economics",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Portugal"
+  ],
+  "locn_geometry": "ENVELOPE(-9.53, -6.39, 42.28, 36.84)",
+  "dcat_bbox": "ENVELOPE(-9.53, -6.39, 42.28, 36.84)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "KML",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_prt_financial_services\",\"http://schema.org/downloadUrl\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PRT/financial_services/hotosm_prt_financial_services_osm_kml.zip\"}"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "hdx-2d0dffcb-b5f7-4bfa-958c-7d5acc1e9d32",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T03:09:49Z",
+  "dct_title_s": "Argentina - Earthquake on Oct 02 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000recz](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000recz) Magnitude 5.7 earthquake at 571.146 depth occurred on Oct 02 2025 29 km W of El Hoyo, Argentina. The epicentre of the earthquake was located at latitude -27.0636 longitude -63.5228. It impacted 7706 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Argentina"
+  ],
+  "locn_geometry": "ENVELOPE(-73.42, -53.63, -21.83, -55.25)",
+  "dcat_bbox": "ENVELOPE(-73.42, -53.63, -21.83, -55.25)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/arg-earthquake-sm-us6000recz\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/2d0dffcb-b5f7-4bfa-958c-7d5acc1e9d32/resource/68c7970a-30b5-4331-8dbe-a0228abd4d86/download/arg_wfpadam_earthquake_20251002.geojson\"}"
+}

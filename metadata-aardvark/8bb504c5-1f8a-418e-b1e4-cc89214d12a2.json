@@ -1,0 +1,43 @@
+{
+  "id": "hdx-8bb504c5-1f8a-418e-b1e4-cc89214d12a2",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-05T16:40:39Z",
+  "dct_title_s": "Fire Danger Forecast",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "The fire danger forecast provides daily fire danger indices. The continuous raster GeoTIFFs in this dataset are from the ECMWF (~8 km) and NASA Geos-5 (~28 km) models. The Fire Weather Index (FWI) is computed from the ECMWF and NASA Geos-5 models. The FWI is mapped in 6 classes: low, medium, high, very high, extreme and very extreme. The \"Very Extreme\" class was introduced in June 2021 to discriminate against extensive areas initially classified at \"Extreme\" in the Mediterranean region during summer months, and includes areas with FWI values above 70."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Copernicus"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "forecasting",
+    "hazards and risk"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "forecasting",
+    "hazards and risk"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/copernicus-fire-danger-forecast\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/8bb504c5-1f8a-418e-b1e4-cc89214d12a2/resource/8d206bca-309f-444b-a9cf-82c90c295888/download/copernicus_fire_danger_ecmwf_fwi_1d_forecast.geotiff\"}"
+}

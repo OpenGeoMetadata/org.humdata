@@ -1,0 +1,43 @@
+{
+  "id": "hdx-3b386788-3bac-4c40-906e-7f48a784e872",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T03:09:00Z",
+  "dct_title_s": "Indonesia - Earthquake on Nov 15 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000rneu](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000rneu) Magnitude 5.4 earthquake at 35.624 depth occurred on Nov 15 2025 4km NE of Kalongan. The epicentre of the earthquake was located at latitude 4.0381 longitude 126.6556. It impacted 40688 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Indonesia"
+  ],
+  "locn_geometry": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dcat_bbox": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/idn-earthquake-sm-us6000rneu\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/3b386788-3bac-4c40-906e-7f48a784e872/resource/5a57a3f5-df05-4cfa-9d8d-14e9edc18a1e/download/idn_wfpadam_earthquake_20251115.geojson\"}"
+}

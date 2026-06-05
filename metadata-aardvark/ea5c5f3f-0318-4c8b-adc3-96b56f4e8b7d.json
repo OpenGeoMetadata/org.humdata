@@ -1,0 +1,41 @@
+{
+  "id": "hdx-ea5c5f3f-0318-4c8b-adc3-96b56f4e8b7d",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-18T14:50:41Z",
+  "dct_title_s": "Kenya Population Density",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset represents the estimated population density of Kenya in the year 2020 , expressed as the number of people per square kilometer. It is intended to support spatial analysis and decision-making in areas such as disaster risk reduction, resource allocation, development planning, and vulnerability assessment Source - WORLDPOP Relationship to Exposure- (Positive)-   The higher the population, the higher the exposure"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "ICPAC"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "population"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "population"
+  ],
+  "dct_spatial_sm": [
+    "Kenya"
+  ],
+  "locn_geometry": "ENVELOPE(33.89, 41.86, 5.51, -4.68)",
+  "dcat_bbox": "ENVELOPE(33.89, 41.86, 5.51, -4.68)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/icpac-geonode-kenya-population-density\",\"http://schema.org/downloadUrl\":\"https://geoportal.icpac.net/geoserver/ows?service=WCS&request=GetCoverage&coverageid=geonode__Normalized_popdensityNorm_Copy&format=image%2Ftiff&version=2.0.1&compression=DEFLATE&tileWidth=512&tileHeight=512\"}"
+}

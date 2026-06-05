@@ -1,0 +1,50 @@
+{
+  "id": "hdx-777e8b06-337f-4295-80bc-ca1515244215",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-04-25T14:04:15Z",
+  "dct_title_s": "Haiti - Subnational Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Haiti administrative level 0-3 boundaries (COD-AB) dataset version 01. This dataset is structured into 3 levels: - Admin 1: 10 Departement - Admin 2: 140 Commune - Admin 3: 570 section communale / Communal Section Dates associated with this dataset: - 06 January 2025: dataset reviewed for accuracy and completeness - 29 November 2018: valid for use by the humanitarian community - 29 March 1987: last edit to the dataset before publishing - 29 March 1987: boundaries created by the source Contributed by [OCHA Haiti](https://data.humdata.org/organization/ocha-haiti). Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx). Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Centre National de l'Information Géo-Spatiale (CNIGS)"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Haiti"
+  ],
+  "locn_geometry": "ENVELOPE(-74.46, -71.62, 19.92, 18.03)",
+  "dcat_bbox": "ENVELOPE(-74.46, -71.62, 19.92, 18.03)",
+  "dct_temporal_sm": [
+    "2018-2025"
+  ],
+  "gbl_indexYear_im": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-hti\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/777e8b06-337f-4295-80bc-ca1515244215/resource/1d89a0d5-897d-4c83-ab37-f363a0dca850/download/hti_admin_boundaries.geojson.zip\"}"
+}

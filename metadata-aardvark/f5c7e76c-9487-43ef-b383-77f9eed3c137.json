@@ -1,0 +1,41 @@
+{
+  "id": "hdx-f5c7e76c-9487-43ef-b383-77f9eed3c137",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-18T14:49:36Z",
+  "dct_title_s": "Burundi Flood Inundation (100 year return period)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset is the output from the Global Flood Model intercomparison project undertaken on behalf of the Global Flood Partnership. The methodology is described in Trigg et al., 2016, \"The credibility challenge for global fluvial flood risk analysis,\" published in the Environmental Research Letters Journal Each file is a geospatial, WGS84, 1/1200 decimal degrees resolution (~90m) GeoTIFF raster with a classified integer value representing how many out of the 6 models agree that a cell is wet (note 0 - dry/no data)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "ICPAC"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Burundi"
+  ],
+  "locn_geometry": "ENVELOPE(29.02, 30.75, -2.35, -4.5)",
+  "dcat_bbox": "ENVELOPE(29.02, 30.75, -2.35, -4.5)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/icpac-geonode-burundi-flood-inundation-100-year-return-period\",\"http://schema.org/downloadUrl\":\"https://geoportal.icpac.net/geoserver/ows?service=WCS&request=GetCoverage&coverageid=geonode__Burundi_flood_inundation&format=image%2Ftiff&version=2.0.1&compression=DEFLATE&tileWidth=512&tileHeight=512\"}"
+}

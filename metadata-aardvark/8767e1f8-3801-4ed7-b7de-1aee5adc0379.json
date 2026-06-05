@@ -1,0 +1,45 @@
+{
+  "id": "hdx-8767e1f8-3801-4ed7-b7de-1aee5adc0379",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-15T15:10:08Z",
+  "dct_title_s": "Jordan : Railways (OpenStreetMap Export)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Railway lines and stations from OSM, tagged with `railway`. Includes rail lines, tram tracks, and stations. Useful for transport accessibility analysis and basemap context. OpenStreetMap is a free, collaborative world map built by volunteers. Completeness varies by region: urban areas are usually well-mapped, remote areas may be incomplete. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org) - OSM tags: [Key:railway](https://wiki.openstreetmap.org/wiki/Key:railway) - Part of many [exports grid on HDX](https://data.humdata.org/organization/hot) by the [HOT](https://www.hotosm.org/en/)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "facilities-infrastructure",
+    "geodata",
+    "railways",
+    "transportation"
+  ],
+  "dct_subject_sm": [
+    "facilities-infrastructure",
+    "geodata",
+    "railways",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "Jordan"
+  ],
+  "locn_geometry": "ENVELOPE(34.92, 39.2, 33.38, 29.2)",
+  "dcat_bbox": "ENVELOPE(34.92, 39.2, 33.38, 29.2)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "KML",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_jor_railways\",\"http://schema.org/downloadUrl\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/JOR/railways/hotosm_jor_railways_osm_kml.zip\"}"
+}

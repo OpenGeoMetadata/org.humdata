@@ -1,0 +1,42 @@
+{
+  "id": "hdx-283f3883-4571-4f02-9273-056fcb18843e",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-01-08T15:05:58Z",
+  "dct_title_s": "Africa - HydroBasin - vectorized polygon layers of hydrographic basins",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "HydroBASINS represents a series of vectorized polygon layers that depict sub-basin boundaries at a global scale. The goal of this product is to provide a seamless global coverage of consistently sized and hierarchically nested sub-basins at different scales (from tens to millions of square kilometers), supported by a coding scheme that allows for analysis of catchment topology such as up- and downstream connectivity. HydroBASINS has been extracted from the gridded HydroSHEDS core layers at 15 arc-second resolution. More info: [HydroBASINS](https://www.hydrosheds.org/products/hydrobasins)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Hydrosheds"
+  ],
+  "dcat_keyword_sm": [
+    "environment",
+    "water sanitation and hygiene-wash"
+  ],
+  "dct_subject_sm": [
+    "environment",
+    "water sanitation and hygiene-wash"
+  ],
+  "dct_spatial_sm": [
+    "Ethiopia",
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/africa-hydrobasin-vectorized-polygon-layers-of-hydrographic-basins\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/283f3883-4571-4f02-9273-056fcb18843e/resource/e0be5962-8575-4d34-9600-5e5fe30a4da8/download/ethiopia-hydrobasin.zip\"}"
+}

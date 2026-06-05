@@ -1,0 +1,43 @@
+{
+  "id": "hdx-0e115f56-b496-4a71-80e3-0a668b977ff4",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-04-27T14:56:19Z",
+  "dct_title_s": "Democratic Republic of Congo (DRC) Education Facilities (OpenStreetMap Export)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "République démocratique du Congo (RDC), Établissements éducatifs Points + Polygons : Interactive Online Map and Tabular spreadsheet (For multipolygons lat,lon=centroid) * First Column *Thematic* describes line Feature content : school, college, university * Objets Institutions de la santé (écoles, universités, collèges) Columns : thematic, osmtyhpe, lat (latitude), lon (longitude), osm_id (unique point id), [amenity](http://wiki.openstreetmap.org/wiki/amenity), [school:FR](http://wiki.openstreetmap.org/wiki/school:FR), [name](http://wiki.openstreetmap.org/wiki/name), [name:fr](http://wiki.openstreetmap.org/wiki/name:fr), [name:en](http://wiki.openstreetmap.org/wiki/name:en), [operator:type](http://wiki.openstreetmap.org/wiki/operator:type), [addr:housenumber](http://wiki.openstreetmap.org/wiki/addr:housenumber), [addr:street](http://wiki.openstreetmap.org/wiki/addr:street), [addr:city](http://wiki.openstreetmap.org/wiki/addr:city), [phone](http://wiki.openstreetmap.org/wiki/phone), [building](http://wiki.openstreetmap.org/wiki/building), [source](http://wiki.openstreetmap.org/wiki/source), [source:data](http://wiki.openstreetmap.org/wiki/source:data), [source:date](http://wiki.openstreetmap.org/wiki/source:date), [source:name](http://wiki.openstreetmap.org/wiki/source:name), [source_ref](http://wiki.openstreetmap.org/wiki/source_ref), [survey:date](http://wiki.openstreetmap.org/wiki/survey:date), [note](http://wiki.openstreetmap.org/wiki/note), [attribution](http://wiki.openstreetmap.org/wiki/attribution) * [OpenStreetMap data extraction from](https://download.geofabrik.de) * [ETL2HDX Procedures](https://github.com/opendatalabrdc/OSM_Exports)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap"
+  ],
+  "dcat_keyword_sm": [
+    "education",
+    "education facilities-schools",
+    "facilities-infrastructure",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "education",
+    "education facilities-schools",
+    "facilities-infrastructure",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Democratic Republic of the Congo"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/democratic-republic-of-congo-drc-educatin-facilities-openstreetmap-export\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/0e115f56-b496-4a71-80e3-0a668b977ff4/resource/20d09585-5b0c-4880-9cc9-4316314abf62/download/osm_rd_congo_education.geojson.zip\"}"
+}

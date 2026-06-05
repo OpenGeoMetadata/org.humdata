@@ -1,0 +1,41 @@
+{
+  "id": "hdx-41d7dbc2-3588-46f7-b653-cc127fb4516d",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-02-18T05:02:28Z",
+  "dct_title_s": "Satellite detected water extents in Gaborone, South East Districts, Botswana as of 23 February 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20250220BWA, GDACS ID: 1103128** This map illustrates the satellite-detected accumulated flood extent in Gaborone, South East District, Botswana, as observed from Planet imagery acquired on 23 February 2025. Within the analyzed area of approximately 120 km², about 10 km² of land appears to be affected by floodwaters. UNITAR-UNOSAT has identified approximately 670 potentially affected structures within the analyzed area. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to the United Nations Satellite Centre (UNOSAT)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Botswana"
+  ],
+  "locn_geometry": "ENVELOPE(19.9, 29.43, -17.66, -26.83)",
+  "dcat_bbox": "ENVELOPE(19.9, 29.43, -17.66, -26.83)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extents-in-gaborone-south-east-districts-botswana-as-of-23-february-2025\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/4080/FL20250220BWA_gdb.zip\"}"
+}

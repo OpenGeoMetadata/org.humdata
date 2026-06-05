@@ -1,0 +1,41 @@
+{
+  "id": "hdx-6c1ff824-59f2-416b-8906-9a493c2be570",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-03T14:45:07Z",
+  "dct_title_s": "Village Points Shan State PCode v9.6",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Village locations (points) in Shan State, based on the latest MIMU Pcode version 9.6 . Place names from General Administration Department (GAD), are available in Myanmar Unicode. Transliteration in roman script by MIMU. Place names are in line with the general cartographic practice to reflect the names of such places as designated by the host governments. The United Nations encourages authorities to review place names which include terms that may be viewed or perceived as derogatory."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Myanmar Information Management Unit (MIMU)"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-village-points-shan-state-pcode\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_shn_pplp2_unodc_mimu_250k_1\"}"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hdx-998e59ac-44c0-4b5c-bd9c-0178c3369db3",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-27T15:11:16Z",
+  "dct_title_s": "Satellite detected water extent as of 8 June 2021 in Guyana",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20210520GUY** This map illustrates satellite-detected surface waters in Guyana as observed from a Joint VIIRS-ABI flood product acquired on 6 & 8 June 2021. Within the analyzed cloud free zones of about 140,000 km2, a total of about 2,000 km2 of lands appear to be flooded. The overall water extent as detected on the 8 June 2021 appears to have decreased of about 1,000 km2 since 6 June 2021. Based on Worldpop population data and the detected surface waters, about 30,000 people are potentially exposed or living close to flooded areas. The potentially exposed population is mainly located in the Region 6 with ~10,000 people and Region 2 & 5 with ~6,000 people each. This is a preliminary analysis that has not yet been validated in the field. Please send ground feedback to UNITAR-UNOSAT."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Guyana"
+  ],
+  "locn_geometry": "ENVELOPE(-61.41, -56.54, 8.37, 1.27)",
+  "dcat_bbox": "ENVELOPE(-61.41, -56.54, 8.37, 1.27)",
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-water-extent-as-of-8-june-2021-in-guyana\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/GY/FL20210520GUY/FL20210520GUY_gdb.zip\"}"
+}

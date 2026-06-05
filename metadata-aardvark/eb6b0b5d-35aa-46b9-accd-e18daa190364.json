@@ -1,0 +1,41 @@
+{
+  "id": "hdx-eb6b0b5d-35aa-46b9-accd-e18daa190364",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-15T16:18:38Z",
+  "dct_title_s": "Central African Republic : Populated Places (OpenStreetMap Export)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Settlements and residential areas from OSM. Includes named cities, towns, villages, suburbs, and residential land (`place=*` and `landuse=residential`). Useful for demographic context, settlement-level targeting, and population analysis. OpenStreetMap is a free, collaborative world map built by volunteers. Completeness varies by region: urban areas are usually well-mapped, remote areas may be incomplete. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org) - OSM tags: [Key:place](https://wiki.openstreetmap.org/wiki/Key:place), [Key:landuse](https://wiki.openstreetmap.org/wiki/Key:landuse) - Part of many [exports grid on HDX](https://data.humdata.org/organization/hot) by the [HOT](https://www.hotosm.org/en/)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_spatial_sm": [
+    "Central African Republic"
+  ],
+  "locn_geometry": "ENVELOPE(14.46, 27.37, 11.14, 2.27)",
+  "dcat_bbox": "ENVELOPE(14.46, 27.37, 11.14, 2.27)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "KML",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_caf_populated_places\",\"http://schema.org/downloadUrl\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CAF/populated_places/hotosm_caf_populated_places_osm_kml.zip\"}"
+}

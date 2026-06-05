@@ -1,0 +1,39 @@
+{
+  "id": "hdx-1efd3d49-57c1-4d16-b176-526a9cbf2c02",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-04T14:10:28Z",
+  "dct_title_s": "UNHCR Global Administrative Divisions (Admin1)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This layer shows the different administrative boundaries (levels: 1) used in the UNHCR GIS system. It is mostly from governments and official sources but also other UN bodies or NGOs. The OCHA CODs and Pcodes are examined and considered. The boundaries and names do not imply official endorsement or acceptance by the United Nations."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UNHCR"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "KMZ",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/first-level-administrative-divisions-admin1\",\"http://schema.org/downloadUrl\":\"https://gis.unhcr.org/arcgis/rest/services/core_v2/wrl_polbnd_adm1_a_unhcr/MapServer/kml/mapImage.kmz\"}"
+}

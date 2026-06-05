@@ -1,0 +1,41 @@
+{
+  "id": "hdx-2f5a6fb8-b05a-44a7-a51b-107efe4862c1",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-18T14:51:30Z",
+  "dct_title_s": "Somalia  livestock density",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains the most up to date version of GLW 4 for the reference year 2020 for the following species: buffalo, cattle, sheep, goats, pigs and chicken. The individual species datasets are available at global extent and 5 minutes of arc resolution (approx. 10 km at the equator).   The fourth version of GLW, compared to the previous ones, reflects the most recently compiled and harmonized subnational livestock distribution data and much more detailed metadata.   The layers contain the density of animals per km², with weight estimated by the Random Forest model. The livestock species modelled include: buffaloes, cattle, chickens, goats, pigs and sheep"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "ICPAC"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "topography"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "topography"
+  ],
+  "dct_spatial_sm": [
+    "Somalia"
+  ],
+  "locn_geometry": "ENVELOPE(40.98, 51.13, 12.02, -1.68)",
+  "dcat_bbox": "ENVELOPE(40.98, 51.13, 12.02, -1.68)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/icpac-geonode-somalia-livestock-density\",\"http://schema.org/downloadUrl\":\"https://geoportal.icpac.net/geoserver/ows?service=WCS&request=GetCoverage&coverageid=geonode__SOM_livestock_density1_normalized&format=image%2Ftiff&version=2.0.1&compression=DEFLATE&tileWidth=512&tileHeight=512\"}"
+}

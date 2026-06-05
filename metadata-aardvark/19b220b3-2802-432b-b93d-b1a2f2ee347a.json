@@ -1,0 +1,47 @@
+{
+  "id": "hdx-19b220b3-2802-432b-b93d-b1a2f2ee347a",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-04-24T14:05:03Z",
+  "dct_title_s": "Panama - Subnational Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Panama administrative level 0-3 boundaries (COD-AB) dataset version 01. This dataset is structured into 3 levels: - Admin 1: 13 province or indigenous territory (provincia o comarca comarca indígena) - Admin 2: 76 district or indigenous territory (distrito o comarca indígena) - Admin 3: 594 municpiality (corregimiento) Dates associated with this dataset: - 30 October 2025: dataset reviewed for accuracy and completeness - 20 October 2021: valid for use by the humanitarian community - 15 June 2020: last edit to the dataset before publishing - 15 June 2020: boundaries created by the source Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx). Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "www.gadm.org"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Panama"
+  ],
+  "locn_geometry": "ENVELOPE(-82.97, -77.24, 9.61, 7.22)",
+  "dcat_bbox": "ENVELOPE(-82.97, -77.24, 9.61, 7.22)",
+  "dct_temporal_sm": [
+    "2021-2025"
+  ],
+  "gbl_indexYear_im": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-pan\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/19b220b3-2802-432b-b93d-b1a2f2ee347a/resource/64d9b04e-4964-41a3-8f9d-bd00eab6c1e4/download/pan_admin_boundaries.geojson.zip\"}"
+}

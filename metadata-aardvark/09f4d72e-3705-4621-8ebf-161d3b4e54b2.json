@@ -1,0 +1,43 @@
+{
+  "id": "hdx-09f4d72e-3705-4621-8ebf-161d3b4e54b2",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-15T14:10:56Z",
+  "dct_title_s": "Guyana : Roads (OpenStreetMap Export)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Road network across the region from OSM. Includes everything tagged with `highway`: motorways, residential streets, service roads, footways, and trails. Useful for routing, accessibility analysis, and evacuation planning. OpenStreetMap is a free, collaborative world map built by volunteers. Completeness varies by region: urban areas are usually well-mapped, remote areas may be incomplete. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org) - OSM tags: [Key:highway](https://wiki.openstreetmap.org/wiki/Key:highway) - Part of many [exports grid on HDX](https://data.humdata.org/organization/hot) by the [HOT](https://www.hotosm.org/en/)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "roads",
+    "transportation"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "roads",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "Guyana"
+  ],
+  "locn_geometry": "ENVELOPE(-61.41, -56.54, 8.37, 1.27)",
+  "dcat_bbox": "ENVELOPE(-61.41, -56.54, 8.37, 1.27)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_guy_roads\",\"http://schema.org/downloadUrl\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/GUY/roads/hotosm_guy_roads_osm_gpkg.zip\"}"
+}

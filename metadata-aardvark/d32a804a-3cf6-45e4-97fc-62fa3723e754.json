@@ -1,0 +1,41 @@
+{
+  "id": "hdx-d32a804a-3cf6-45e4-97fc-62fa3723e754",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-03-24T14:37:30Z",
+  "dct_title_s": "Satellite detected water extents from 26 August to 7 September 2025 over Pakistan",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20250818PAK** This map illustrates cumulative satellite-detected water using VIIRS in Pakistan from 26 August 2025 to 7 September 2025. Within the cloud-free analysed areas of about 870,000 km², approximately 39,200 km² of land appears to be affected by flood waters including about 21,000 km² of cropland. Based on WorldPop population data and the maximum flood water extent, about 16.5 million people are potentially exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to the United Nations Satellite Centre (UNOSAT)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Pakistan"
+  ],
+  "locn_geometry": "ENVELOPE(60.87, 77.84, 37.13, 23.69)",
+  "dcat_bbox": "ENVELOPE(60.87, 77.84, 37.13, 23.69)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-water-extents-from-26-august-to-7-september-2025-over-pakistan\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/4197/FL20250818PAK_gdb.zip\"}"
+}

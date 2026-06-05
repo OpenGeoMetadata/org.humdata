@@ -1,0 +1,45 @@
+{
+  "id": "hdx-168ea66f-c7f6-4c40-8873-3031136459b0",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-31T14:06:51Z",
+  "dct_title_s": "Papua New Guinea - Subnational Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains the following administrative boundaries: ADM0, ADM1, ADM2, ADM3. Produced and maintained since 2017, the geoBoundaries Global Database of Political Administrative Boundaries Database [www.geoboundaries.org](https://www.geoboundaries.org) is an open license, standardized resource of boundaries (i.e., state, county) for every country in the world."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OCHA ROAP, Papua New Guinea National Statistics OfficeOpenStreetMap, WambacherPapua New Guinea National Statistics Office, OCHA ROAPPapua New Guinea National Statistics Office, OCHA ROAP"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Papua New Guinea"
+  ],
+  "locn_geometry": "ENVELOPE(141.0, 156.02, -2.5, -10.65)",
+  "dcat_bbox": "ENVELOPE(141.0, 156.02, -2.5, -10.65)",
+  "dct_temporal_sm": [
+    "2017-2019"
+  ],
+  "gbl_indexYear_im": [
+    2017,
+    2018,
+    2019
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/geoboundaries-admin-boundaries-for-papua-new-guinea\",\"http://schema.org/downloadUrl\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PNG/ADM0/geoBoundaries-PNG-ADM0_simplified.geojson\"}"
+}

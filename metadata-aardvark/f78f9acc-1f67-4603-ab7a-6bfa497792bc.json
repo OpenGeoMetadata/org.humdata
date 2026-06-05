@@ -1,0 +1,58 @@
+{
+  "id": "hdx-f78f9acc-1f67-4603-ab7a-6bfa497792bc",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-19T12:09:40Z",
+  "dct_title_s": "Lebanon Buildings - Historical Baseline",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Historical baseline for OSM buildings that includes buildings not modified or digitized after March 20 2025 Building footprints across the region from OSM. Includes every feature tagged as a building (building=*), from residential homes through hospitals, schools, and places of worship. Useful for population estimation, damage assessment, and urban planning. OpenStreetMap is a free, collaborative world map built by volunteers. Completeness varies by region: urban areas are usually well-mapped, remote areas may be incomplete. Cross-check critical decisions with local field knowledge. Source: OpenStreetMap OSM tags: Key:building Part of many exports grid on HDX by the HOT"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Openstreetmap"
+  ],
+  "dcat_keyword_sm": [
+    "facilities-infrastructure",
+    "populated places-settlements"
+  ],
+  "dct_subject_sm": [
+    "facilities-infrastructure",
+    "populated places-settlements"
+  ],
+  "dct_spatial_sm": [
+    "Lebanon"
+  ],
+  "locn_geometry": "ENVELOPE(35.13, 36.61, 34.64, 33.09)",
+  "dcat_bbox": "ENVELOPE(35.13, 36.61, 34.64, 33.09)",
+  "dct_temporal_sm": [
+    "2008-2025"
+  ],
+  "gbl_indexYear_im": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/lebanon-historical-baseline-openstreetmap-export\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/f78f9acc-1f67-4603-ab7a-6bfa497792bc/resource/d8a4dae9-18ad-44be-ade3-30e3d67f5ffd/download/20250320_lebanon_buildings.geojson\"}"
+}

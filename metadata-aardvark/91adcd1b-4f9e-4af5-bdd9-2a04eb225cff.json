@@ -1,0 +1,43 @@
+{
+  "id": "hdx-91adcd1b-4f9e-4af5-bdd9-2a04eb225cff",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T03:07:29Z",
+  "dct_title_s": "Philippines - Earthquake on May 04 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000si2z](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000si2z) Magnitude 6.0 earthquake at 73.268 depth occurred on May 04 2026 10km NW of San Julian. The epicentre of the earthquake was located at latitude 11.7774 longitude 125.3718. It impacted 312511 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "locn_geometry": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dcat_bbox": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/phl-earthquake-sm-us7000si2z\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/91adcd1b-4f9e-4af5-bdd9-2a04eb225cff/resource/0c8a3d1f-7487-4dde-b125-8838f413db48/download/phl_wfpadam_earthquake_20260504.geojson\"}"
+}

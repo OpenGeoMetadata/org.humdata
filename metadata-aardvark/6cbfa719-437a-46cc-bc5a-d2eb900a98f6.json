@@ -1,0 +1,43 @@
+{
+  "id": "hdx-6cbfa719-437a-46cc-bc5a-d2eb900a98f6",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T02:45:26Z",
+  "dct_title_s": "Indonesia - Earthquake on Mar 31 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000pp13](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000pp13) Magnitude 5.6 earthquake at 28.472 depth occurred on Mar 31 2025 61km SW of Gg. Perintis. The epicentre of the earthquake was located at latitude -10.0526 longitude 119.0351. It impacted 80865 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Indonesia"
+  ],
+  "locn_geometry": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dcat_bbox": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/idn-earthquake-sm-us7000pp13\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/6cbfa719-437a-46cc-bc5a-d2eb900a98f6/resource/a3deb9dc-9b6a-46ee-94cf-3ff45a277501/download/idn_wfpadam_earthquake_20250331.geojson\"}"
+}

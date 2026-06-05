@@ -1,0 +1,43 @@
+{
+  "id": "hdx-fce3da0f-fbe8-47ed-ab11-a449af5662bd",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T02:44:22Z",
+  "dct_title_s": "El Salvador - Earthquake on Jun 18 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000ql02](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000ql02) Magnitude 5.4 earthquake at 81.191 depth occurred on Jun 18 2025 31km SW of Usulután. The epicentre of the earthquake was located at latitude 13.0931 longitude -88.5664. It impacted 324483 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "El Salvador"
+  ],
+  "locn_geometry": "ENVELOPE(-90.1, -87.72, 14.42, 13.15)",
+  "dcat_bbox": "ENVELOPE(-90.1, -87.72, 14.42, 13.15)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/slv-earthquake-sm-us6000ql02\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/fce3da0f-fbe8-47ed-ab11-a449af5662bd/resource/5bd2a042-069e-4ec0-8738-19881eb38f57/download/slv_wfpadam_earthquake_20250618.geojson\"}"
+}

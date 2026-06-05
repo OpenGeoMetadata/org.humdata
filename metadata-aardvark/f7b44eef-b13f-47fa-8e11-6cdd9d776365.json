@@ -1,0 +1,43 @@
+{
+  "id": "hdx-f7b44eef-b13f-47fa-8e11-6cdd9d776365",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-18T14:50:11Z",
+  "dct_title_s": "Ethiopia Monthly Growing Areas",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Crop production is among the most extensive human activities on the planet – with critical importance for global food security, land use, environmental burden, and climate. Yet despite the key role that croplands play in global land use and Earth systems, there remains little understanding of how spatial patterns of global crop cultivation have recently evolved and which crops have contributed most to these changes. Here we construct a new data library of subnational crop-specific irrigated and rainfed harvested area statistics and combine it with global gridded land cover products to develop a global gridded (5-arcminute) irrigated and rainfed cropped area (MIRCA-OS) dataset for the years 2000 to 2015 for 23 crop classes. These global data products support critical insights into the spatially detailed patterns of irrigated and rainfed cropland change since the start of the century and provide an improved foundation for a wide array of global assessments spanning agriculture, water resource management, land use change, climate impact, and sustainable development"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "ICPAC"
+  ],
+  "dcat_keyword_sm": [
+    "food security",
+    "geodata",
+    "topography"
+  ],
+  "dct_subject_sm": [
+    "food security",
+    "geodata",
+    "topography"
+  ],
+  "dct_spatial_sm": [
+    "Ethiopia"
+  ],
+  "locn_geometry": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dcat_bbox": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/icpac-geonode-ethiopia-monthly-growing-areas\",\"http://schema.org/downloadUrl\":\"https://geoportal.icpac.net/geoserver/ows?service=WCS&request=GetCoverage&coverageid=geonode__monthly_growing_areas&format=image%2Ftiff&version=2.0.1&compression=DEFLATE&tileWidth=512&tileHeight=512\"}"
+}

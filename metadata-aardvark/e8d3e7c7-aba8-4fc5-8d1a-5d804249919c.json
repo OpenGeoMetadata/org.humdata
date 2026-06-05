@@ -1,0 +1,55 @@
+{
+  "id": "hdx-e8d3e7c7-aba8-4fc5-8d1a-5d804249919c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-01T12:45:54Z",
+  "dct_title_s": "Cameroon: Copernicus Vegetation Index Anomaly (FAPAR Anomaly)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Fraction of Absorbed Photosynthetically Active Radiation (FAPAR) is a biophysical dimensionless quantity (its values range from 0/no absorption to 1/total absorption) used to assess the greenness and health of vegetation. FAPAR anomalies can be used as an indicator to detect and monitor the impacts of agricultural drought on the growth and productivity of vegetation. The data is presented in 10-day time composite of the Visible Infrared Imaging Radiometer Suite (VIIRS)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "European Commission, Joint Research Centre (JRC)"
+  ],
+  "dcat_keyword_sm": [
+    "drought",
+    "environment"
+  ],
+  "dct_subject_sm": [
+    "drought",
+    "environment"
+  ],
+  "dct_spatial_sm": [
+    "Cameroon"
+  ],
+  "locn_geometry": "ENVELOPE(8.49, 16.01, 12.86, 1.73)",
+  "dcat_bbox": "ENVELOPE(8.49, 16.01, 12.86, 1.73)",
+  "dct_temporal_sm": [
+    "2012-2026"
+  ],
+  "gbl_indexYear_im": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cmr-anomalies-fapar-viirs\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/e8d3e7c7-aba8-4fc5-8d1a-5d804249919c/resource/6fcf7e64-b295-47a0-bc1c-e357315dc0c2/download/cmr_fpanv_m_gdo_20260101_20260511_t.zip\"}"
+}

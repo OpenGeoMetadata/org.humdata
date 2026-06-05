@@ -1,0 +1,43 @@
+{
+  "id": "hdx-2a2067fe-d5e6-4e29-b289-e7e7e67146fb",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T02:44:29Z",
+  "dct_title_s": "Peru - Earthquake on May 17 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000pztw](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000pztw) Magnitude 6.0 earthquake at 92.076 depth occurred on May 17 2025 6km W of San Antonio. The epicentre of the earthquake was located at latitude -14.7708 longitude -74.1584. It impacted 24053 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Peru"
+  ],
+  "locn_geometry": "ENVELOPE(-81.41, -68.67, -0.06, -18.35)",
+  "dcat_bbox": "ENVELOPE(-81.41, -68.67, -0.06, -18.35)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/per-earthquake-sm-us7000pztw\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/2a2067fe-d5e6-4e29-b289-e7e7e67146fb/resource/07ec5617-90f6-4345-aab6-e72168802890/download/per_wfpadam_earthquake_20250517.geojson\"}"
+}

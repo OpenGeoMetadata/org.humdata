@@ -1,0 +1,43 @@
+{
+  "id": "hdx-c76ed190-af04-49d9-b8f6-55848b77b04a",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T03:07:48Z",
+  "dct_title_s": "Indonesia - Earthquake on Apr 02 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000slwy](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000slwy) Magnitude 5.9 earthquake at 35.0 depth occurred on Apr 02 2026 113 km WNW of Ternate, Indonesia. The epicentre of the earthquake was located at latitude 1.1553 longitude 126.4345. It impacted 329 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Indonesia"
+  ],
+  "locn_geometry": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dcat_bbox": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/idn-earthquake-sm-us6000slwy\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/c76ed190-af04-49d9-b8f6-55848b77b04a/resource/8d5a83f6-23a6-4c40-bd07-143400d794ee/download/idn_wfpadam_earthquake_202604021.geojson\"}"
+}

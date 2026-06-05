@@ -1,0 +1,43 @@
+{
+  "id": "hdx-f4a66651-7693-4f4d-9b45-eeec0da34cd1",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-07T12:49:36Z",
+  "dct_title_s": "Zimbabwe: Administrative Division with Aggregated Population",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Zimbabwe administrative division with aggregated population. Built from [Kontur Population: Global Population Density for 400m H3 Hexagons](https://data.humdata.org/dataset/kontur-population-dataset) on top of [OpenStreetMap](https://www.openstreetmap.org) administrative boundaries data. Enriched with HASC codes for regions taken from Wikidata. Global version of boundaries dataset: [Kontur Boundaries: Global administrative division with aggregated population](https://data.humdata.org/dataset/kontur-boundaries)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Kontur"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "baseline population",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "baseline population",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Zimbabwe"
+  ],
+  "locn_geometry": "ENVELOPE(25.26, 32.85, -15.51, -22.27)",
+  "dcat_bbox": "ENVELOPE(25.26, 32.85, -15.51, -22.27)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-zimbabwe\",\"http://schema.org/downloadUrl\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_ZW_20220407.gpkg.gz\"}"
+}

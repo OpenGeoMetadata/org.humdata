@@ -1,0 +1,43 @@
+{
+  "id": "hdx-2b74a17a-a219-4e1b-af4a-97a2ef426976",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T03:07:14Z",
+  "dct_title_s": "Peru - Earthquake on May 19 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000syt5](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000syt5) Magnitude 5.9 earthquake at 62.684 depth occurred on May 19 2026 16km SE of Rosario De Yauca. The epicentre of the earthquake was located at latitude -14.2425 longitude -75.4795. It impacted 326943 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Peru"
+  ],
+  "locn_geometry": "ENVELOPE(-81.41, -68.67, -0.06, -18.35)",
+  "dcat_bbox": "ENVELOPE(-81.41, -68.67, -0.06, -18.35)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/per-earthquake-sm-us6000syt5\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/2b74a17a-a219-4e1b-af4a-97a2ef426976/resource/fd4528f7-2cd0-4188-82c7-8805b8ed73e0/download/per_wfpadam_earthquake_20260519.geojson\"}"
+}

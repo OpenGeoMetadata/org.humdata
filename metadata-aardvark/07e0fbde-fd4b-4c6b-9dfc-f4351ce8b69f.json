@@ -1,0 +1,43 @@
+{
+  "id": "hdx-07e0fbde-fd4b-4c6b-9dfc-f4351ce8b69f",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T03:09:24Z",
+  "dct_title_s": "Philippines - Earthquake on Oct 16 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000rhns](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000rhns) Magnitude 6.1 earthquake at 69.015 depth occurred on Oct 16 2025 6km SW of General Luna. The epicentre of the earthquake was located at latitude 9.7561 longitude 126.1093. It impacted 121340 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "locn_geometry": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dcat_bbox": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/phl-earthquake-sm-us6000rhns\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/07e0fbde-fd4b-4c6b-9dfc-f4351ce8b69f/resource/3c88ae40-2570-4985-9070-9aec4e076538/download/phl_wfpadam_earthquake_20251016.geojson\"}"
+}

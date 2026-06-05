@@ -1,0 +1,43 @@
+{
+  "id": "hdx-2cb40c73-32ee-401e-b453-ed89a31a075b",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T03:08:45Z",
+  "dct_title_s": "Vanuatu - Earthquake on Dec 07 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000rt4z](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000rt4z) Magnitude 5.4 earthquake at 10.0 depth occurred on Dec 07 2025 4km NE of Olpoi. The epicentre of the earthquake was located at latitude -14.8528 longitude 166.5885. It impacted 2292 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Vanuatu"
+  ],
+  "locn_geometry": "ENVELOPE(166.63, 167.84, -14.63, -16.6)",
+  "dcat_bbox": "ENVELOPE(166.63, 167.84, -14.63, -16.6)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/vut-earthquake-sm-us6000rt4z\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/2cb40c73-32ee-401e-b453-ed89a31a075b/resource/f8caaa15-b54e-42d8-af0e-6795da3d16f1/download/vut_wfpadam_earthquake_20251207.geojson\"}"
+}

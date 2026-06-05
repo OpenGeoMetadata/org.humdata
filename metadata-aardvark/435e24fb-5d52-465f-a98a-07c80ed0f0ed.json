@@ -1,0 +1,111 @@
+{
+  "id": "hdx-435e24fb-5d52-465f-a98a-07c80ed0f0ed",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-05T17:43:56Z",
+  "dct_title_s": "Africa - Monthly and dekadal Soil Moisture Anomaly (SMA)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "The Soil Moisture Anomaly (SMA) dataset provides a measure of deviation in root-zone soil moisture conditions relative to the long-term climatological mean. Generated typically from hydrological models or satellite assimilation systems, this product highlights deficits or surpluses in soil water availability that are critical for agriculture and pastoralism. Because soil moisture integrates rainfall over time and accounts for evapotranspiration losses, SMA offers a more direct indicator of agricultural drought stress than precipitation deficits alone. This dataset is essential for monitoring the onset of agricultural drought, as soil moisture deficits often precede visible vegetation stress. It is widely used to assess potential yield reductions in rainfed agriculture and to monitor fodder availability in pastoral regions."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "African Center of Meteorological Applications for Development (ACMAD)"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "climate-weather",
+    "drought",
+    "hazards and risk"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "climate-weather",
+    "drought",
+    "hazards and risk"
+  ],
+  "dct_spatial_sm": [
+    "Algeria",
+    "Angola",
+    "Benin",
+    "Botswana",
+    "Burkina Faso",
+    "Burundi",
+    "Cabo Verde",
+    "Cameroon",
+    "Central African Republic",
+    "Chad",
+    "Comoros",
+    "Congo",
+    "Côte d'Ivoire",
+    "Democratic Republic of the Congo",
+    "Djibouti",
+    "Egypt",
+    "Equatorial Guinea",
+    "Eritrea",
+    "Eswatini",
+    "Ethiopia",
+    "Gabon",
+    "Gambia",
+    "Ghana",
+    "Guinea",
+    "Guinea-Bissau",
+    "Kenya",
+    "Lesotho",
+    "Liberia",
+    "Libya",
+    "Madagascar",
+    "Malawi",
+    "Mali",
+    "Mauritania",
+    "Mauritius",
+    "Morocco",
+    "Mozambique",
+    "Namibia",
+    "Niger",
+    "Nigeria",
+    "Rwanda",
+    "Sao Tome and Principe",
+    "Senegal",
+    "Seychelles",
+    "Sierra Leone",
+    "Somalia",
+    "South Africa",
+    "South Sudan",
+    "Sudan",
+    "Togo",
+    "Tunisia",
+    "Uganda",
+    "United Republic of Tanzania",
+    "Western Sahara",
+    "Zambia",
+    "Zimbabwe"
+  ],
+  "locn_geometry": "ENVELOPE(-17.63, 51.13, 37.35, -34.82)",
+  "dcat_bbox": "ENVELOPE(-17.63, 51.13, 37.35, -34.82)",
+  "dct_temporal_sm": [
+    "2012-2024"
+  ],
+  "gbl_indexYear_im": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/acmad-soil-moisture-anomaly\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/435e24fb-5d52-465f-a98a-07c80ed0f0ed/resource/abfcd307-fd35-459c-af15-2a398ab127cb/download/ab6b9fbc-5db7-423c-8885-2ef052f5f0c1\"}"
+}

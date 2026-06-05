@@ -1,0 +1,43 @@
+{
+  "id": "hdx-ba431324-7337-4ef9-9d1b-f99724d3cac4",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T03:08:01Z",
+  "dct_title_s": "Argentina - Earthquake on Mar 21 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000si4j](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000si4j) Magnitude 5.6 earthquake at 192.58 depth occurred on Mar 21 2026 68 km WNW of San Antonio de los Cobres, Argentina. The epicentre of the earthquake was located at latitude -24.0759 longitude -66.977. It impacted 911 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Argentina"
+  ],
+  "locn_geometry": "ENVELOPE(-73.42, -53.63, -21.83, -55.25)",
+  "dcat_bbox": "ENVELOPE(-73.42, -53.63, -21.83, -55.25)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/arg-earthquake-sm-us6000si4j\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/ba431324-7337-4ef9-9d1b-f99724d3cac4/resource/fe6d69f0-8ddb-4b72-b958-cfd1eb1d5281/download/arg_wfpadam_earthquake_20260321.geojson\"}"
+}

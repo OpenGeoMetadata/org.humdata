@@ -1,0 +1,45 @@
+{
+  "id": "hdx-2a0dec52-9163-4d75-ba14-2a3a26145297",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-04-24T16:26:34Z",
+  "dct_title_s": "Ethiopia: Normalized Difference Turbidity Index (NDTI)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Water turbidity index analysis is a powerful, decision-oriented approach that converts raw water quality measurements into actionable insights for policymakers, planners, and environmental managers, and it is widely applied in hydrology, environmental monitoring, and GIS-based water resource management. In particular, the Normalized Difference Turbidity Index (NDTI) plays a critical role in detecting suspended sediments and assessing water clarity using remote sensing data. In this study, Sentinel-2 Level-2A (Surface Reflectance) imagery processed and atmospherically corrected by the European Space Agency through the Sen2Cor algorithm was utilized. The workflow includes cloud masking, water body extraction to ensure turbidity is only measured over water surfaces, and subsequent computation of the turbidity index. The NDTI is calculated using the formula: NDTI=(R_red-R_green)/(R_red+R_green )where R_redand R_greenrepresent the reflectance values in the red and green spectral bands, respectively. In Ethiopia, elevated turbidity levels often indicate soil erosion, surface runoff, or industrial discharge, making such analyses essential for reservoir sedimentation management, aquatic ecosystem protection, and ensuring safe drinking water supplies. However, it is important to interpret results contextually; for example, Lake Langano is naturally characterized by high turbidity due to its elevated mineral content (such as sulfur and soda) and suspended sediments, particularly during rainy seasons, which does not necessarily imply pollution or unsafe water conditions."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "3iS"
+  ],
+  "dcat_keyword_sm": [
+    "disaster risk reduction-drr",
+    "environment",
+    "flooding",
+    "water sanitation and hygiene-wash"
+  ],
+  "dct_subject_sm": [
+    "disaster risk reduction-drr",
+    "environment",
+    "flooding",
+    "water sanitation and hygiene-wash"
+  ],
+  "dct_spatial_sm": [
+    "Ethiopia"
+  ],
+  "locn_geometry": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dcat_bbox": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/ethiopia-normalized-difference-turbidity-index-ndti\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/2a0dec52-9163-4d75-ba14-2a3a26145297/resource/61985592-0881-4d9e-96c4-e5a0858d1427/download/ndti-march-2026.zip\"}"
+}

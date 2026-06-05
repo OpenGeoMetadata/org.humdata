@@ -1,0 +1,41 @@
+{
+  "id": "hdx-d30bbcb5-c21a-49ec-a692-43356a17dc2c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-02-18T05:01:27Z",
+  "dct_title_s": "UNOSAT - FAO Gaza Strip Cropland Damage Assessment - December 2024",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: CE20231007PSE** This map illustrates satellite-detected changes in cropland areas of the Gaza Strip resulting from the decline in the health and density of crops due to the ongoing conflict. UNOSAT conducted an analysis utilising satellite imagery collected by the Sentinel-2 satellite between December 2017 and 2024, performing a Normalized Difference Vegetation Index (NDVI) analysis as well as a multitemporal classification to identify notable changes taking place in cropland areas during that timeframe. The methodology evaluated the damage as a decline in the health and density of crops in December 2024, compared to the preceding seven seasons spanning from 2017 to 2024. The decline in the health and density of the crops can be observed due to the impact of activities such as razing, heavy vehicle activity, bombing, shelling, and other conflict-related dynamics. The analysis includes damage assessment for orchards and other trees, field crops and vegetables. UNOSAT and FAO analysis shows that the cropland extent in the Gaza Strip is estimated to be 150 sq. km, accounting for approximately 41% of the total area of the Gaza Strip, following an extensive land-cover analysis. Compared to the average of the previous seven years, approximately 75% of the permanent crop fields in the Gaza Strip exhibited a significant decline in health and density in September 2024. In a comprehensive evaluation, it was found that there has been a 10% increase in the proportion of cropland that has been damaged since the previous analysis conducted in September 2024. Additionally, the analysis indicates a notable rise in the destruction of the orchards and other trees, field crops and vegetables in the Deir al-Balah Governorate, with a 9-percentage point increase compared to the previous July 2024 analysis. Moreover, there has been a notable escalation in the destruction of cropland within the Rafah Governorate, with the percentage rising from 57% in September 2024 to 67% in December 2024. This is a preliminary analysis and has not yet been validated in the field."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "complex emergency-conflict-security",
+    "crisis-opt-israel-hostilities",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "complex emergency-conflict-security",
+    "crisis-opt-israel-hostilities",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "State of Palestine"
+  ],
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/unosat-fao-gaza-strip-cropland-damage-assessment-december-2024\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/4072/FAO-PAL-012_UNOSAT_Cropland_DA_GDB_December2024.zip\"}"
+}

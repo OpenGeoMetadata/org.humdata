@@ -1,0 +1,43 @@
+{
+  "id": "hdx-2b454c99-2da5-43d5-b913-143a59b1dfbe",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T03:10:10Z",
+  "dct_title_s": "Ecuador - Earthquake on Sep 05 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000qu91](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000qu91) Magnitude 5.4 earthquake at 0.0 depth occurred on Sep 05 2025 34km NW of Ayangue. The epicentre of the earthquake was located at latitude -1.8831 longitude -81.0479. It impacted 346460 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Ecuador"
+  ],
+  "locn_geometry": "ENVELOPE(-80.97, -75.23, 1.38, -4.96)",
+  "dcat_bbox": "ENVELOPE(-80.97, -75.23, 1.38, -4.96)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/ecu-earthquake-sm-us7000qu91\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/2b454c99-2da5-43d5-b913-143a59b1dfbe/resource/84b6e3ab-5295-4beb-ab9e-3a2b59daa37c/download/ecu_wfpadam_earthquake_20250905.geojson\"}"
+}

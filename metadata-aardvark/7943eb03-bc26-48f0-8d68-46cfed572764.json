@@ -1,0 +1,46 @@
+{
+  "id": "hdx-7943eb03-bc26-48f0-8d68-46cfed572764",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-01-24T15:43:55Z",
+  "dct_title_s": "Lesotho - Subnational Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains the following administrative boundaries: ADM0, ADM1, ADM2. Produced and maintained since 2017, the geoBoundaries Global Database of Political Administrative Boundaries Database [www.geoboundaries.org](https://www.geoboundaries.org) is an open license, standardized resource of boundaries (i.e., state, county) for every country in the world."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "FAO and the Ministry of Local Government, OCHA ROSEAOpenStreetMap, WambacherOpenStreetMap, Wambacher"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Lesotho"
+  ],
+  "locn_geometry": "ENVELOPE(27.0, 29.33, -28.65, -30.65)",
+  "dcat_bbox": "ENVELOPE(27.0, 29.33, -28.65, -30.65)",
+  "dct_temporal_sm": [
+    "2017-2020"
+  ],
+  "gbl_indexYear_im": [
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/geoboundaries-admin-boundaries-for-lesotho\",\"http://schema.org/downloadUrl\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/LSO/ADM0/geoBoundaries-LSO-ADM0_simplified.geojson\"}"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "hdx-de332b3e-f30e-4df9-a2fe-c3efc797e943",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-04T15:33:56Z",
+  "dct_title_s": "Myanmar: Airports",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Location of Airports in Myanmar. Attributes include Airport Name, Status , Lat, Long and Location by Administrative boundaries. Data source: Mission Aviation Fellowship International (MAF International - Myanmar), https://www.mafc.org/countries/myanmar | September 2020"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Myanmar Information Management Unit (MIMU)"
+  ],
+  "dcat_keyword_sm": [
+    "aviation",
+    "facilities-infrastructure",
+    "geodata",
+    "transportation"
+  ],
+  "dct_subject_sm": [
+    "aviation",
+    "facilities-infrastructure",
+    "geodata",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/myanmar-airport\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Ammr_airports_mimu&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature\"}"
+}

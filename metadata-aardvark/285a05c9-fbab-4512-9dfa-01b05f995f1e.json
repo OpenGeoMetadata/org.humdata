@@ -1,0 +1,43 @@
+{
+  "id": "hdx-285a05c9-fbab-4512-9dfa-01b05f995f1e",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-07T14:08:20Z",
+  "dct_title_s": "Antarctica Waterways (OpenStreetMap Export)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This theme includes all OpenStreetMap features in this area matching ( Learn what tags means [here](https://wiki.openstreetmap.org/wiki/Tags) ) : tags['waterway'] IS NOT NULL OR tags['water'] IS NOT NULL OR tags['natural'] IN ('water','wetland','bay') Features may have these attributes: - [name](http://wiki.openstreetmap.org/wiki/Key:name) - [name:en](http://wiki.openstreetmap.org/wiki/Key:name:en) - [waterway](http://wiki.openstreetmap.org/wiki/Key:waterway) - [covered](http://wiki.openstreetmap.org/wiki/Key:covered) - [width](http://wiki.openstreetmap.org/wiki/Key:width) - [depth](http://wiki.openstreetmap.org/wiki/Key:depth) - [layer](http://wiki.openstreetmap.org/wiki/Key:layer) - [blockage](http://wiki.openstreetmap.org/wiki/Key:blockage) - [tunnel](http://wiki.openstreetmap.org/wiki/Key:tunnel) - [natural](http://wiki.openstreetmap.org/wiki/Key:natural) - [water](http://wiki.openstreetmap.org/wiki/Key:water) - [source](http://wiki.openstreetmap.org/wiki/Key:source) This dataset is one of many [OpenStreetMap exports on HDX](https://data.humdata.org/organization/hot). See the [Humanitarian OpenStreetMap Team](http://hotosm.org/) website for more information."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "hydrology",
+    "rivers"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "hydrology",
+    "rivers"
+  ],
+  "dct_spatial_sm": [
+    "Antarctica"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, -63.27, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, -63.27, -90.0)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "KML",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_ata_waterways\",\"http://schema.org/downloadUrl\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ATA/waterways/lines/hotosm_ata_waterways_lines_kml.zip\"}"
+}

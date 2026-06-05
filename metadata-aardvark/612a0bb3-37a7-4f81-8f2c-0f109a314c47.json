@@ -1,0 +1,43 @@
+{
+  "id": "hdx-612a0bb3-37a7-4f81-8f2c-0f109a314c47",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-07T12:53:06Z",
+  "dct_title_s": "Egypt: Administrative Division with Aggregated Population",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Egypt administrative division with aggregated population. Built from [Kontur Population: Global Population Density for 400m H3 Hexagons](https://data.humdata.org/dataset/kontur-population-dataset) on top of [OpenStreetMap](https://www.openstreetmap.org) administrative boundaries data. Enriched with HASC codes for regions taken from Wikidata. Global version of boundaries dataset: [Kontur Boundaries: Global administrative division with aggregated population](https://data.humdata.org/dataset/kontur-boundaries)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Kontur"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "baseline population",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "baseline population",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Egypt"
+  ],
+  "locn_geometry": "ENVELOPE(24.7, 36.87, 31.59, 22.0)",
+  "dcat_bbox": "ENVELOPE(24.7, 36.87, 31.59, 22.0)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-egypt\",\"http://schema.org/downloadUrl\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_EG_20220407.gpkg.gz\"}"
+}

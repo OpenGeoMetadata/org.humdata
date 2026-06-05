@@ -1,0 +1,43 @@
+{
+  "id": "hdx-3966a564-51a5-44d6-8518-c211d7205966",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-04T14:25:28Z",
+  "dct_title_s": "Mexico - Regiones potenciales de deslizamiento de laderas",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Deslizamiento de laderas sin probabilidad de ocurrencia regionalizada en Baja California, Baja California Sur, Eje Neovolcánico, Golfo California, Chihuahua, Durango, Golfo Norte, Golfo de México, Pacífico Norte y Pacífico Sur."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Centro Nacional de Prevención de Desastres"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Mexico"
+  ],
+  "locn_geometry": "ENVELOPE(-117.13, -86.81, 32.72, 14.54)",
+  "dcat_bbox": "ENVELOPE(-117.13, -86.81, 32.72, 14.54)",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "gbl_indexYear_im": [
+    2015
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mexico-landslide\",\"http://schema.org/downloadUrl\":\"http://servicios1.cenapred.unam.mx:6080/arcgis/rest/services/ANR/GoogleCrisis/MapServer/exts/GeoJSONServer/GeoJSON?query=1=1&layer=3&f=geojson\"}"
+}

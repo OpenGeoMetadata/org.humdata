@@ -1,0 +1,43 @@
+{
+  "id": "hdx-f3be3e35-b445-4ef1-81ce-b8946f008f73",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T02:44:00Z",
+  "dct_title_s": "Philippines - Earthquake on Jul 20 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000qdxz](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000qdxz) Magnitude 5.5 earthquake at 39.654 depth occurred on Jul 20 2025 46km N of Calayan. The epicentre of the earthquake was located at latitude 19.6786 longitude 121.4976. It impacted 9954 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "locn_geometry": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dcat_bbox": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/phl-earthquake-sm-us7000qdxz\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/f3be3e35-b445-4ef1-81ce-b8946f008f73/resource/31ab7b4c-bdb4-458f-9183-f571c99c7c93/download/phl_wfpadam_earthquake_20250720.geojson\"}"
+}

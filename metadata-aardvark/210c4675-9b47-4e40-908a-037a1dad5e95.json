@@ -1,0 +1,53 @@
+{
+  "id": "hdx-210c4675-9b47-4e40-908a-037a1dad5e95",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-04T14:07:32Z",
+  "dct_title_s": "Malawi Current Situation FEWS NET Acute Food Insecurity Classifications Data",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Malawi Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "FEWS NET"
+  ],
+  "dcat_keyword_sm": [
+    "food security"
+  ],
+  "dct_subject_sm": [
+    "food security"
+  ],
+  "dct_spatial_sm": [
+    "Malawi"
+  ],
+  "locn_geometry": "ENVELOPE(32.69, 35.77, -9.23, -16.8)",
+  "dcat_bbox": "ENVELOPE(32.69, 35.77, -9.23, -16.8)",
+  "dct_temporal_sm": [
+    "2011-2025"
+  ],
+  "gbl_indexYear_im": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "dct_format_s": "CSV",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/malawi_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":\"https://fdw.fews.net/api/ipcphasemap/?country=MW&scenario=CS&collection_date=2022-06-01&format=geojson\"}"
+}

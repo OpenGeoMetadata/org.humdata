@@ -1,0 +1,43 @@
+{
+  "id": "hdx-3ea20464-8846-4e34-9144-c4bbb4f9c4d3",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T03:09:38Z",
+  "dct_title_s": "Philippines - Earthquake on Oct 10 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000rg02](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000rg02) Magnitude 5.5 earthquake at 67.729 depth occurred on Oct 10 2025 35km SE of Manay. The epicentre of the earthquake was located at latitude 7.0638 longitude 126.8218. It impacted 92672 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "locn_geometry": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dcat_bbox": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/phl-earthquake-sm-us6000rg02\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/3ea20464-8846-4e34-9144-c4bbb4f9c4d3/resource/8284739f-aff8-4af0-a52e-886128702872/download/phl_wfpadam_earthquake_20251010.geojson\"}"
+}

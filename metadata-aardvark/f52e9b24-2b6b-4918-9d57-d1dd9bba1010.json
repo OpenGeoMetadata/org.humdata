@@ -1,0 +1,43 @@
+{
+  "id": "hdx-f52e9b24-2b6b-4918-9d57-d1dd9bba1010",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T03:07:24Z",
+  "dct_title_s": "Philippines - Earthquake on May 06 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000svp9](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000svp9) Magnitude 5.5 earthquake at 10.0 depth occurred on May 06 2026 25km NE of Baganga. The epicentre of the earthquake was located at latitude 7.6333 longitude 126.7818. It impacted 125822 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "locn_geometry": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dcat_bbox": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/phl-earthquake-sm-us6000svp9\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/f52e9b24-2b6b-4918-9d57-d1dd9bba1010/resource/d508b67a-896d-4bd7-a983-cb245a185886/download/phl_wfpadam_earthquake_20260506.geojson\"}"
+}

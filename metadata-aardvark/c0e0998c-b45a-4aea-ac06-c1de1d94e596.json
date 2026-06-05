@@ -1,0 +1,45 @@
+{
+  "id": "hdx-c0e0998c-b45a-4aea-ac06-c1de1d94e596",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-04-24T14:04:41Z",
+  "dct_title_s": "Niger - Subnational Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Niger administrative level 0-3 boundaries (COD-AB) dataset version 02. This dataset is structured into 3 levels: - Admin 1: 8 Region (Région) - Admin 2: 67 SD0 - Admin 3: 266 Commune Dates associated with this dataset: - 30 October 2025: dataset reviewed for accuracy and completeness - 20 July 2023: valid for use by the humanitarian community - 01 January 2006: last edit to the dataset before publishing - 01 January 2006: boundaries created by the source Contributed by [OCHA Niger](https://data.humdata.org/organization/ocha-niger). Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx). Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "IGNN"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Niger"
+  ],
+  "locn_geometry": "ENVELOPE(0.3, 15.9, 23.47, 11.66)",
+  "dcat_bbox": "ENVELOPE(0.3, 15.9, 23.47, 11.66)",
+  "dct_temporal_sm": [
+    "2023-2025"
+  ],
+  "gbl_indexYear_im": [
+    2023,
+    2024,
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-ner\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/c0e0998c-b45a-4aea-ac06-c1de1d94e596/resource/52a76bdf-7c22-43d4-9e2d-bad40351007c/download/ner_admin_boundaries.geojson.zip\"}"
+}

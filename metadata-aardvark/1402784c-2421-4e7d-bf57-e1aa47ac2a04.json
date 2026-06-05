@@ -1,0 +1,41 @@
+{
+  "id": "hdx-1402784c-2421-4e7d-bf57-e1aa47ac2a04",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-01-04T15:06:54Z",
+  "dct_title_s": "Inundaciones en Nicaragua entre el 13 y 17 de Noviembre 2020",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: TC20201116NIC** Este mapa ilustra las inundaciones detectadas por el satélite NOAA-VIIRS en Nicaragua entre el 13 y 17 de Noviembre. Dentro del área analizada de aproximadamente 95,000 km2, un total de aproximadamente 2,000 km2 de tierras parecen estar inundadas. Basado en los datos de población de Worldpop y la extensión de las aguas superficiales detectadas, alrededor de 100,000 personas están potencialmente expuestas o viven cerca de áreas inundadas. La población potencialmente expuesta se encuentra principalmente en el departamento de Chinandega con ~25,000 habitantes, en el departamento de Manague con ~16,000 habitantes, y em el departamento de Atlántico Norte con 10,000 habitantes. Se trata de un análisis preliminar que aún no ha sido validado en el terreno. Por favor envíe comentarios a UNITAR-UNOSAT."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Nicaragua"
+  ],
+  "locn_geometry": "ENVELOPE(-87.67, -83.15, 15.02, 10.73)",
+  "dcat_bbox": "ENVELOPE(-87.67, -83.15, 15.02, 10.73)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/inundaciones-en-nicaragua-entre-el-13-y-17-de-noviembre-2020\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/NI/TC20201116NIC/TC20201116NIC_gdb.zip\"}"
+}

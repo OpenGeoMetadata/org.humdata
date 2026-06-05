@@ -1,0 +1,43 @@
+{
+  "id": "hdx-84edb623-9f7e-44e8-b618-ee24f08fefda",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-03-09T22:22:44Z",
+  "dct_title_s": "Seychelles Walking Travel Time to nearest Level IV health centre",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "A 100 m spatial resolution geotiff of walking travel time in seconds to nearest health facility in Seychelles. The data was generated using the Child Poverty and Access to Services (CPAS) software (10.5281/zenodo.4638563) and was created as part of the CPAS project within the Data for Children Collaborative. The travel time is calculated assuming walking speeds on all roads, tracks, paths and land cover types. A full description is available [here](https://doi.org/10.1038/s41597-022-01274-w) a video description of the data is also available [here](https://www.dataforchildrencollaborative.com/outputs/presentation-a-100m-resolution-travel-time-map) Projection system is: GCS_WGS_1984 EPSG 4326 for all"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Data for Children Collaborative"
+  ],
+  "dcat_keyword_sm": [
+    "africa",
+    "geodata",
+    "health facilities",
+    "transportation"
+  ],
+  "dct_subject_sm": [
+    "africa",
+    "geodata",
+    "health facilities",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "Seychelles"
+  ],
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/seychelles-walking-travel-time-to-nearest-level-iv-health-centre\",\"http://schema.org/downloadUrl\":\"https://s3.eidf.ac.uk/eidf158-walkingtraveltimemaps/service_area_Seychelles_walking.tif\"}"
+}

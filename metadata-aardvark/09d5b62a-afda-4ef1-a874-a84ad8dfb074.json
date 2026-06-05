@@ -1,0 +1,43 @@
+{
+  "id": "hdx-09d5b62a-afda-4ef1-a874-a84ad8dfb074",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-05T16:41:07Z",
+  "dct_title_s": "Burnt Areas (MODIS)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Global burned area polygons derived from MODIS satellite imagery, providing information on spatial and temporal attributes of areas affected by fires. Fires are mapped using a semi-automatic procedure. Provided as GeoJSON. Note: the dates reported as Start date and Last update may not correspond to the date of ignition and extinction of the fire."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Copernicus"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "damage assessment",
+    "hazards and risk"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "damage assessment",
+    "hazards and risk"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/copernicus-burnt-areas\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/09d5b62a-afda-4ef1-a874-a84ad8dfb074/resource/3d1f1c1a-c757-4140-9395-8fab653705cc/download/copernicus_burnt_areas_modis_last_1d.geojson\"}"
+}

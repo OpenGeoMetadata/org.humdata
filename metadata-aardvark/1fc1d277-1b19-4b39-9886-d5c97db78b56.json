@@ -1,0 +1,41 @@
+{
+  "id": "hdx-1fc1d277-1b19-4b39-9886-d5c97db78b56",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-04T14:10:58Z",
+  "dct_title_s": "Mining Areas",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This is a dataset of possible mining areas in Myanmar that was digitized from a systematic search of high-resolution imagery available on Google Earth and Bing Aerial. Digitizing took place in late 2015 and early 2016 with the most recent imagery available (usually 2014 or 2015). A field in the attribute table called \"Certainty\" indicates the how confident we were that the digitized polygon is a mine, rather than some other type of ground disturbance."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Myanmar Information Management Unit (MIMU)"
+  ],
+  "dcat_keyword_sm": [
+    "environment",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "environment",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "gbl_indexYear_im": [
+    2016
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-mining-areas\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mining_areas\"}"
+}

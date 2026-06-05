@@ -1,0 +1,41 @@
+{
+  "id": "hdx-49e9c1fa-e45c-4069-a498-41be9d3c835c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-04-27T14:55:04Z",
+  "dct_title_s": "Tanintharyi Region Mangrove Forest dataset",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Geotiff download link : http://bit.ly/2PHtJyf This is a Landsat 8-based classification of the extent and condition of mangrove forests in Tanintharyi Region. The classification is derived from satellite images which were acquired in 2014. The classification is based on ground truth data, which was collected in May and June 2015. In addition, further training polygons were digitized based on high-resolution Google Maps and Bing Maps data. This dataset is a filtered version of the initial classification result. The classified mangrove classes are ‘Intact to slightly degraded mangroves’, ‘Degraded mangroves’, ‘Heavily degraded mangroves’ and ‘Nipa monoculture’. suggested citiation: Stephani, A.; Oswald, P.; Koellner, T.; Wegmann, M., 2016. Tanintharyi Region Mangrove Forest dataset (2014). Point of contact: annastephani@gmx.de and patrickoswald@fauna-flora.org"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Myanmar Information Management Unit (MIMU)"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "topography"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "topography"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "gbl_indexYear_im": [
+    2016
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-tanintharyi-region-mangrove-forest-dataset\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:ffi_tni_mangrove_30m_2015\"}"
+}

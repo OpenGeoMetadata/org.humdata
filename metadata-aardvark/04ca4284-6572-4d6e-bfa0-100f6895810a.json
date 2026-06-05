@@ -1,0 +1,43 @@
+{
+  "id": "hdx-04ca4284-6572-4d6e-bfa0-100f6895810a",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T03:09:18Z",
+  "dct_title_s": "Ecuador - Earthquake on Oct 22 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000rik7](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000rik7) Magnitude 5.5 earthquake at 69.758 depth occurred on Oct 22 2025 25km SE of Santa Rosa. The epicentre of the earthquake was located at latitude -3.6247 longitude -79.8229. It impacted 547397 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Ecuador"
+  ],
+  "locn_geometry": "ENVELOPE(-80.97, -75.23, 1.38, -4.96)",
+  "dcat_bbox": "ENVELOPE(-80.97, -75.23, 1.38, -4.96)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/ecu-earthquake-sm-us6000rik7\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/04ca4284-6572-4d6e-bfa0-100f6895810a/resource/e95154f8-9e2c-4123-83ed-477fd13c5bcd/download/ecu_wfpadam_earthquake_20251022.geojson\"}"
+}

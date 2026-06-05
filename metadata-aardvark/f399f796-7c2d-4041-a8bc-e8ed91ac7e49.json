@@ -1,0 +1,41 @@
+{
+  "id": "hdx-f399f796-7c2d-4041-a8bc-e8ed91ac7e49",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-02-18T05:03:40Z",
+  "dct_title_s": "Satellite detected water extents in Bolikhanh and Pakxane Districts, Bolikhamxai Province, Lao PDR as of 23 July 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: TC20250722LAO, GDACS ID: 1001181** This map illustrates the satellite detected water extent in Bolikhanh and Pakxane Districts, Bolikhamxai Province, Lao PDR as observed from Sentinel-1 satellite images acquired on 23 July 2025 at 18:12 local time (11:12 UTC). Within the analyzed area of approximately 1,400 km², about 14 km² of land appears to be affected by floodwaters. Based on WorldPop population data and the flood extent, approximately 4,600 people are potentially exposed or living close to the flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to the United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to the backscattering properties of the radar signal"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Lao People's Democratic Republic"
+  ],
+  "locn_geometry": "ENVELOPE(100.12, 107.56, 22.46, 13.88)",
+  "dcat_bbox": "ENVELOPE(100.12, 107.56, 22.46, 13.88)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extents-in-bolikhanh-and-pakxane-districts-bolikhamxai-province-lao-pdr-as-of-23-jul\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/4154/TC20250722LAO_gdb.zip\"}"
+}

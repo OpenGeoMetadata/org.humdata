@@ -1,0 +1,69 @@
+{
+  "id": "hdx-70241899-7abf-46ff-b9df-ebf040d8d5f2",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-03-02T17:29:51Z",
+  "dct_title_s": "Togo: Planet Road Surface, Width, and Passability Data",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset provides AI-derived road surface type, road width, road surface change (unpaved to paved), and a Humanitarian Passability Index (HPI) using PlanetScope satellite imagery (2020 and 2024). The analysis focuses on arterial roads classified in OSM as motorway, trunk, primary, and secondary, including their link classes. These road types form the backbone of long-distance, high-capacity transportation and national connectivity. For more details on methods: https://arxiv.org/abs/2512.04092 Relationship to the Previous Mapillary-Based Dataset HeiGIT previously released a global dataset based on Mapillary street-level imagery. - The Mapillary dataset provides detailed ground-level information but has uneven coverage. - The PlanetScope-based dataset provides near-complete and globally consistent coverage along arterial roads. Accuracy and Data Quality The PlanetScope surface model achieved 89.2% accuracy, outperforming OSM surface tags (64.7%). Summary of Road Statistics Approximately 0.005 million km of arterial roads are mapped in OSM. Based on AI-derived estimates: - Paved roads: 0.0024 million km (47.6842%) - Unpaved roads: 0.0023 million km (46.9702%) A total of 0.0009 million km (18.9689%) lack OSM surface tags. PlanetScope-derived predictions provide surface information for 0.0047 million km (498.9979%) of this missing data. AI-Derived Attributes Included - DL Surface Prediction 2020 – Paved / Unpaved / Unknown - DL Surface Prediction 2024 – Paved / Unpaved / Unknown - Road Surface Change (2020-2024) – Indicator of transitions from unpaved to paved - Road Width Class (1-3): Class 1 (<3.5 m): light vehicles only; high blockage risk Class 2 (3.5-5.5 m): single-lane heavy truck; alternating flow Class 3 (>5.5 m): two-lane heavy truck; unimpeded flow - Humanitarian Passability Index (HPI) Combines road surface and width into a logistical accessibility class: Score 1 (highest passability) to Score 6 (lowest passability) Included OSM Attributes - Road Segment ID - highway classification - surface tag - OSM road length (meters) Geographic Attributes - country_iso_a2 - continent This dataset integrates OSM attributes with deep-learning predictions generated from PlanetScope imagery (2020 and 2024). Explore more HeiGIT datasets on HDX: https://data.humdata.org/organization/heidelberg-institute-for-geoinformation-technology More information: https://heigit.org/ Contact: communications@heigit.org"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "HeiGIT"
+  ],
+  "dcat_keyword_sm": [
+    "development",
+    "humanitarian access",
+    "indicators",
+    "logistics",
+    "openstreetmap",
+    "poverty",
+    "roads",
+    "rural",
+    "services",
+    "socioeconomics",
+    "sustainable development",
+    "sustainable development goals-sdg",
+    "transportation",
+    "urban"
+  ],
+  "dct_subject_sm": [
+    "development",
+    "humanitarian access",
+    "indicators",
+    "logistics",
+    "openstreetmap",
+    "poverty",
+    "roads",
+    "rural",
+    "services",
+    "socioeconomics",
+    "sustainable development",
+    "sustainable development goals-sdg",
+    "transportation",
+    "urban"
+  ],
+  "dct_spatial_sm": [
+    "Togo"
+  ],
+  "locn_geometry": "ENVELOPE(-0.05, 1.87, 11.02, 5.93)",
+  "dcat_bbox": "ENVELOPE(-0.05, 1.87, 11.02, 5.93)",
+  "dct_temporal_sm": [
+    "2020-2024"
+  ],
+  "gbl_indexYear_im": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/togo-planet-road-surface-data\",\"http://schema.org/downloadUrl\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_TG_planet_roadsurface_lines.geojson\"}"
+}

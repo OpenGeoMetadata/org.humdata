@@ -1,0 +1,41 @@
+{
+  "id": "hdx-cadc8190-d018-4d7d-9887-034c90964642",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-07T15:33:03Z",
+  "dct_title_s": "China, Hong Kong Special Administrative Region Points of Interest (OpenStreetMap Export)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This theme includes all OpenStreetMap features in this area matching ( Learn what tags means [here](https://wiki.openstreetmap.org/wiki/Tags) ) : tags['amenity'] IS NOT NULL OR tags['man_made'] IS NOT NULL OR tags['shop'] IS NOT NULL OR tags['tourism'] IS NOT NULL Features may have these attributes: - [name](http://wiki.openstreetmap.org/wiki/Key:name) - [name:en](http://wiki.openstreetmap.org/wiki/Key:name:en) - [amenity](http://wiki.openstreetmap.org/wiki/Key:amenity) - [man_made](http://wiki.openstreetmap.org/wiki/Key:man_made) - [shop](http://wiki.openstreetmap.org/wiki/Key:shop) - [tourism](http://wiki.openstreetmap.org/wiki/Key:tourism) - [opening_hours](http://wiki.openstreetmap.org/wiki/Key:opening_hours) - [beds](http://wiki.openstreetmap.org/wiki/Key:beds) - [rooms](http://wiki.openstreetmap.org/wiki/Key:rooms) - [addr:full](http://wiki.openstreetmap.org/wiki/Key:addr:full) - [addr:housenumber](http://wiki.openstreetmap.org/wiki/Key:addr:housenumber) - [addr:street](http://wiki.openstreetmap.org/wiki/Key:addr:street) - [addr:city](http://wiki.openstreetmap.org/wiki/Key:addr:city) - [source](http://wiki.openstreetmap.org/wiki/Key:source) - [name:zh](http://wiki.openstreetmap.org/wiki/Key:name:zh) This dataset is one of many [OpenStreetMap exports on HDX](https://data.humdata.org/organization/hot). See the [Humanitarian OpenStreetMap Team](http://hotosm.org/) website for more information."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "facilities-infrastructure",
+    "geodata",
+    "points of interest-poi"
+  ],
+  "dct_subject_sm": [
+    "facilities-infrastructure",
+    "geodata",
+    "points of interest-poi"
+  ],
+  "dct_spatial_sm": [
+    "China, Hong Kong Special Administrative Region"
+  ],
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "KML",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_hkg_points_of_interest\",\"http://schema.org/downloadUrl\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/HKG/points_of_interest/points/hotosm_hkg_points_of_interest_points_kml.zip\"}"
+}

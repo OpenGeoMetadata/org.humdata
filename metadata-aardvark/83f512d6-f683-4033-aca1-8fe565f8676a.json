@@ -1,0 +1,68 @@
+{
+  "id": "hdx-83f512d6-f683-4033-aca1-8fe565f8676a",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-04T14:53:23Z",
+  "dct_title_s": "Central America & the Caribbean - MODIS Active Fire Detections",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Near-real-time active fire and thermal anomaly detections from NASA's [Fire Information for Resource Management System (FIRMS)](https://firms.modaps.eosdis.nasa.gov/active_fire/) covering **Central America & the Caribbean**, derived from the **MODIS** sensor family (Terra since 2000, Aqua since 2002). Each resource is an external link directly to a NASA-hosted file. The files are continuously updated as new satellite overpasses are processed (typically within 3 hours of acquisition). **Formats:** SHP, KML, CSV **Time windows:** Last 24h, 48h, 7d"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "NASA Fire Information for Resource Management System (FIRMS)"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "environment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "environment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Antigua and Barbuda",
+    "Bahamas",
+    "Barbados",
+    "Belize",
+    "Costa Rica",
+    "Cuba",
+    "Dominica",
+    "Dominican Republic",
+    "El Salvador",
+    "Grenada",
+    "Guatemala",
+    "Haiti",
+    "Honduras",
+    "Jamaica",
+    "Mexico",
+    "Nicaragua",
+    "Panama",
+    "Puerto Rico",
+    "Saint Kitts and Nevis",
+    "Saint Lucia",
+    "Saint Vincent and the Grenadines",
+    "Trinidad and Tobago"
+  ],
+  "locn_geometry": "ENVELOPE(-117.13, -60.9, 32.72, 7.22)",
+  "dcat_bbox": "ENVELOPE(-117.13, -60.9, 32.72, 7.22)",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "gbl_indexYear_im": [
+    2000
+  ],
+  "dct_format_s": "KML",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/nasa-firms-active-fire-central-america-and-caribbean-modis\",\"http://schema.org/downloadUrl\":\"https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/kml/MODIS_C6_1_Central_America_24h.kml\"}"
+}

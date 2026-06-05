@@ -1,0 +1,43 @@
+{
+  "id": "hdx-c27ea0c4-f1cf-4ba5-8738-4681e000f78d",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T03:07:27Z",
+  "dct_title_s": "Mexico - Earthquake on May 04 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000si51](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000si51) Magnitude 5.7 earthquake at 22.194 depth occurred on May 04 2026 2 km SE of Zocoteaca de León, Mexico. The epicentre of the earthquake was located at latitude 16.6223 longitude -97.9846. It impacted 271437 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Mexico"
+  ],
+  "locn_geometry": "ENVELOPE(-117.13, -86.81, 32.72, 14.54)",
+  "dcat_bbox": "ENVELOPE(-117.13, -86.81, 32.72, 14.54)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mex-earthquake-sm-us7000si51\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/c27ea0c4-f1cf-4ba5-8738-4681e000f78d/resource/3cedab10-7e1c-425a-b7f8-f65716c3ec7b/download/mex_wfpadam_earthquake_20260504.geojson\"}"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hdx-e9960328-99ab-4b93-8ed4-eb6246ca93b8",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-03-03T16:45:38Z",
+  "dct_title_s": "Satellite detected waters in Quang Binh Province of Viet Nam as of 18 October 2020",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: TC20201013VNM** This map illustrates satellite-detected surface waters in Quang Binh Province of Viet Nam as observed from a TerraSAR-X image acquired on 18 October 2020. Within the analyzed area of about 5,000 km2, a total of about 420 km2 of lands appear to be flooded. Based on Worldpop population data and the detected surface waters, about 160,000 people are potentially exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR-UNOSAT. Important Note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Viet Nam"
+  ],
+  "locn_geometry": "ENVELOPE(102.17, 109.34, 23.35, 8.6)",
+  "dcat_bbox": "ENVELOPE(102.17, 109.34, 23.35, 8.6)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-waters-in-quang-binh-province-of-viet-nam-as-of-18-october-2020\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/VN/TC20201013VNM/TC20201013VNM_gdb.zip\"}"
+}

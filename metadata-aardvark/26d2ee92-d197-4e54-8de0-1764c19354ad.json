@@ -1,0 +1,45 @@
+{
+  "id": "hdx-26d2ee92-d197-4e54-8de0-1764c19354ad",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-17T14:06:05Z",
+  "dct_title_s": "Global airports",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This layer contains airports locations. This dataset brings together various public sources such as OpenStreetMap or ourairports.com with WFP logistics information. It is updated regularly with inputs from WFP aviation unit but also from many partners through the Logistics Cluster and the Logistics Capacity Assessment (LCA: dlca.logcluster.org). The information is compiled at a global level by the Emergency and Preparedness Geospatial Information Unit at the World Food Programme (WFP) Headquarters in Rome, Italy. This dataset is at a global scale and is updated country by country. The last update date can be retrieved from the data of the country of interest."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP, Logistics Cluster"
+  ],
+  "dcat_keyword_sm": [
+    "aviation",
+    "geodata",
+    "logistics",
+    "transportation"
+  ],
+  "dct_subject_sm": [
+    "aviation",
+    "geodata",
+    "logistics",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "gbl_indexYear_im": [
+    2015
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/global-airports\",\"http://schema.org/downloadUrl\":\"https://gis.wfp.org/arcgis/rest/services/GLOBAL/GlobalAirports/FeatureServer/0/query?where=status+%3D+%27Open%27&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnExceededLimitFeatures=false&quantizationParameters=&returnCentroid=false&timeReferenceUnknownClient=false&sqlFormat=none&resultType=&featureEncoding=esriDefault&datumTransformation=&f=geojson\"}"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "hdx-24fa788e-6516-4097-bd3e-65ddfc51c8a3",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T03:07:58Z",
+  "dct_title_s": "Nicaragua - Earthquake on Mar 26 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000s7w6](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000s7w6) Magnitude 5.5 earthquake at 155.688 depth occurred on Mar 26 2026 13km W of Managua. The epicentre of the earthquake was located at latitude 12.1114 longitude -86.3881. It impacted 695347 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Nicaragua"
+  ],
+  "locn_geometry": "ENVELOPE(-87.67, -83.15, 15.02, 10.73)",
+  "dcat_bbox": "ENVELOPE(-87.67, -83.15, 15.02, 10.73)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/nic-earthquake-sm-us7000s7w6\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/24fa788e-6516-4097-bd3e-65ddfc51c8a3/resource/0407cbce-f333-46b0-945c-6fe8129630ce/download/nic_wfpadam_earthquake_20260326.geojson\"}"
+}

@@ -3,6 +3,38 @@ require 'json'
 require 'nokogiri'
 require_relative 'country_bboxes'
 
+# Minimal polyfills for ActiveSupport's blank?/present? used by Mapper.
+# These are not loaded when running outside of Rails/ActiveSupport.
+class NilClass
+  def blank? = true
+  def present? = false
+end
+
+class String
+  def blank? = strip.empty?
+  def present? = !blank?
+end
+
+class Array
+  def blank? = empty?
+  def present? = !blank?
+end
+
+class Hash
+  def blank? = empty?
+  def present? = !blank?
+end
+
+class FalseClass
+  def blank? = true
+  def present? = false
+end
+
+class TrueClass
+  def blank? = false
+  def present? = true
+end
+
 class Mapper
   # Map a single HDX dataset hash to OGM Aardvark schema
   # @param dataset [Hash] raw dataset JSON from HDX API
@@ -10,6 +42,8 @@ class Mapper
   def self.map(dataset)
     new(dataset).map
   end
+
+  attr_reader :dataset
 
   def initialize(dataset)
     @dataset = dataset || {}
@@ -102,7 +136,7 @@ class Mapper
     max_lat = nil
 
     countries.each do |country|
-      box = Earthworks::Hdx::CountryBboxes.bbox_for(country)
+      box = CountryBboxes.bbox_for(country)
       next unless box # Skip if country coordinates are not found
 
       # box is [min_lon, min_lat, max_lon, max_lat]

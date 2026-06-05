@@ -1,0 +1,41 @@
+{
+  "id": "hdx-4bc0a251-df12-4c1a-bbcb-3d8d4c61da5a",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-07T14:27:22Z",
+  "dct_title_s": "Algeria Populated Places (OpenStreetMap Export)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This theme includes all OpenStreetMap features in this area matching ( Learn what tags means [here](https://wiki.openstreetmap.org/wiki/Tags) ) : tags['place'] IN ('isolated_dwelling', 'town', 'village', 'hamlet', 'city') OR tags['landuse'] IN ('residential') Features may have these attributes: - [name](http://wiki.openstreetmap.org/wiki/Key:name) - [name:en](http://wiki.openstreetmap.org/wiki/Key:name:en) - [place](http://wiki.openstreetmap.org/wiki/Key:place) - [landuse](http://wiki.openstreetmap.org/wiki/Key:landuse) - [population](http://wiki.openstreetmap.org/wiki/Key:population) - [is_in](http://wiki.openstreetmap.org/wiki/Key:is_in) - [source](http://wiki.openstreetmap.org/wiki/Key:source) - [name:ar](http://wiki.openstreetmap.org/wiki/Key:name:ar) - [name:ber](http://wiki.openstreetmap.org/wiki/Key:name:ber) This dataset is one of many [OpenStreetMap exports on HDX](https://data.humdata.org/organization/hot). See the [Humanitarian OpenStreetMap Team](http://hotosm.org/) website for more information."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_spatial_sm": [
+    "Algeria"
+  ],
+  "locn_geometry": "ENVELOPE(-8.68, 12.0, 37.12, 19.06)",
+  "dcat_bbox": "ENVELOPE(-8.68, 12.0, 37.12, 19.06)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "KML",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_dza_populated_places\",\"http://schema.org/downloadUrl\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/DZA/populated_places/points/hotosm_dza_populated_places_points_kml.zip\"}"
+}

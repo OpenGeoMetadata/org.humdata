@@ -1,0 +1,43 @@
+{
+  "id": "hdx-cd0dbf2b-2575-425e-ada3-5bad7aec742d",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T02:43:14Z",
+  "dct_title_s": "Afghanistan - Earthquake on Aug 31 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000qsvj](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000qsvj) Magnitude 6.0 earthquake at 8.0 depth occurred on Aug 31 2025 11km SW of Nurgal. The epicentre of the earthquake was located at latitude 34.5191 longitude 70.7342. It impacted 1422825 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Afghanistan"
+  ],
+  "locn_geometry": "ENVELOPE(60.53, 75.16, 38.49, 29.32)",
+  "dcat_bbox": "ENVELOPE(60.53, 75.16, 38.49, 29.32)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/afg-earthquake-sm-us7000qsvj\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/cd0dbf2b-2575-425e-ada3-5bad7aec742d/resource/bad70050-e772-441c-88ca-1dc0c688fd4b/download/afg_wfpadam_earthquake_20250831.geojson\"}"
+}

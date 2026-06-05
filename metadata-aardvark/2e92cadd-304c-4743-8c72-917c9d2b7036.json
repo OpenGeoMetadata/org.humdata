@@ -1,0 +1,43 @@
+{
+  "id": "hdx-2e92cadd-304c-4743-8c72-917c9d2b7036",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-07T12:42:59Z",
+  "dct_title_s": "Kontur Boundaries: Global administrative division with aggregated population",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Global administrative division with aggregated population. Built from [Kontur Population: Global Population Density for 400m H3 Hexagons](https://data.humdata.org/dataset/kontur-population-dataset) on top of [OpenStreetMap](https://www.openstreetmap.org) administrative boundaries data. * Per-country subsets of Kontur Boundaries can be found here: [data.humdata.org/organization/kontur](https://data.humdata.org/organization/kontur?res_format=Geopackage&organization=kontur&vocab_Topics=administrative+boundaries-divisions&q=&sort=title_case_insensitive+asc&ext_page_size=100&page=1#datasets-section)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Kontur"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "baseline population",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "baseline population",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries\",\"http://schema.org/downloadUrl\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_20230628.gpkg.gz\"}"
+}

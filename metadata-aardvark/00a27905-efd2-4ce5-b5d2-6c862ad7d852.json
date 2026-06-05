@@ -1,0 +1,45 @@
+{
+  "id": "hdx-00a27905-efd2-4ce5-b5d2-6c862ad7d852",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-04-27T15:05:42Z",
+  "dct_title_s": "AI building footprint in Izabal, Guatemala",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Izabal department (GT-IZ), Guatemala: AI predictions of building footprint on Bing Maps images (approximately 2016-2019), see https://github.com/rodekruis/automated-building-detection. Produced in support to DRRT Guatemala for hurricane Eta and Iota. Coordinate reference system: WGS 84 / EPSG:4326"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Netherlands Red Cross - 510"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "facilities-infrastructure",
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "facilities-infrastructure",
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_spatial_sm": [
+    "Guatemala"
+  ],
+  "locn_geometry": "ENVELOPE(-92.23, -88.23, 17.82, 13.74)",
+  "dcat_bbox": "ENVELOPE(-92.23, -88.23, 17.82, 13.74)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/ai-building-footprint-in-izabal-guatemala\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/00a27905-efd2-4ce5-b5d2-6c862ad7d852/resource/4e4b3d3f-6a31-4623-902a-76eea7fc928f/download/buildings-izabal.geojson\"}"
+}

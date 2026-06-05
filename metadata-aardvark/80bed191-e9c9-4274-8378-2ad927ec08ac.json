@@ -1,0 +1,43 @@
+{
+  "id": "hdx-80bed191-e9c9-4274-8378-2ad927ec08ac",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-04T14:53:37Z",
+  "dct_title_s": "Myanmar Railway Network",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Myanmar national rail network (lines). Updated railway data in March 2022 based on Google Satellite images and the Ministry of Transport and Communications. This layer shows the transportation network based on available information from Google Earth. Parts of the network may not be functioning for various reasons such as landslides. The status of the railway has not been verified. Place names from General Administration Department (GAD), are available in Myanmar Unicode. Transliteration in roman script by MIMU. Lines by MIMU using Google Satellite images as a reference. Original dataset title: Myanmar Railway Network 2022"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Myanmar Information Management Unit (MIMU)"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "natural disasters",
+    "transportation"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "natural disasters",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-myanmar-railway-network\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_rlwl_250k_mimu_1\"}"
+}

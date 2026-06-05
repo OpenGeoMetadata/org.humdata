@@ -1,0 +1,49 @@
+{
+  "id": "hdx-494229d9-eee0-4872-8864-2baf98691554",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-13T18:21:27Z",
+  "dct_title_s": "Benin - Subnational Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Benin administrative level 0-2 boundaries (COD-AB) dataset version 01. This dataset is structured into 2 levels: - Admin 1: 12 nan - Admin 2: 77 nan Dates associated with this dataset: - 30 October 2025: dataset reviewed for accuracy and completeness - 16 August 2019: valid for use by the humanitarian community - 07 August 2015: last edit to the dataset before publishing - 07 August 2015: boundaries created by the source Contributed by [OCHA West and Central Africa (ROWCA)](https://data.humdata.org/organization/ocha-rowca). Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx). Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Secondary Administrative Level Boundary (SALB) Project, OCHA ROWCA"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Benin"
+  ],
+  "locn_geometry": "ENVELOPE(0.77, 3.8, 12.24, 6.14)",
+  "dcat_bbox": "ENVELOPE(0.77, 3.8, 12.24, 6.14)",
+  "dct_temporal_sm": [
+    "2019-2025"
+  ],
+  "gbl_indexYear_im": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-ben\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/494229d9-eee0-4872-8864-2baf98691554/resource/a1f07015-1ee2-49c3-b3f6-b75221b52bf3/download/ben_admin_boundaries.geojson.zip\"}"
+}

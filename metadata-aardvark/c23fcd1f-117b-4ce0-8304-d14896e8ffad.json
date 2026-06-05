@@ -1,0 +1,59 @@
+{
+  "id": "hdx-c23fcd1f-117b-4ce0-8304-d14896e8ffad",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-03T14:27:34Z",
+  "dct_title_s": "Disruptions",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "The PortWatch Disruptions dataset collects data from the Global Disaster Alert and Coordination System ([GDACS](https://www.gdacs.org/)), which provides alerts on natural hazards such as earthquakes, tsunamis, tropical cyclones, floods, volcanic eruptions, and droughts, as well as other types of disruptions such as those arising from geopolitical tensions. PortWatch intersects this data with their ports and chokepoints databases to identify locations that may be at risk of being disrupted."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Global Platform; IMF PortWatch"
+  ],
+  "dcat_keyword_sm": [
+    "crisis-greater-middle-east",
+    "cyclones-hurricanes-typhoons",
+    "earthquake-tsunami",
+    "flooding",
+    "natural disasters",
+    "ports",
+    "trade"
+  ],
+  "dct_subject_sm": [
+    "crisis-greater-middle-east",
+    "cyclones-hurricanes-typhoons",
+    "earthquake-tsunami",
+    "flooding",
+    "natural disasters",
+    "ports",
+    "trade"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2018-2026"
+  ],
+  "gbl_indexYear_im": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "dct_format_s": "CSV",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/disruptions\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/c23fcd1f-117b-4ce0-8304-d14896e8ffad/resource/af35f4e2-0778-48e7-8af7-1743e1f65e13/download/disruptions.geojson\"}"
+}

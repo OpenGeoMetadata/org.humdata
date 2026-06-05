@@ -1,0 +1,41 @@
+{
+  "id": "hdx-fc006e13-6020-46a8-bcc2-e9b6ff0aaf65",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-02-18T05:03:55Z",
+  "dct_title_s": "Satellite-detected Flood Extent in Punjab Province, Pakistan – 10 July 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20250630PAK** This map illustrates the extent of floodwaters detected in Punjab Province using Sentinel-1 imagery acquired on 10 July 2025 at 18:04 local time (13:04 UTC). Within the analyzed area of approximately 50,000 km², around 4,200 km² of land appears to be inundated. Based on WorldPop population data and the observed flood extent, an estimated 3.3 million people are potentially exposed or living in close proximity to the affected areas. This is a preliminary analysis and has not been validated on the ground. We kindly encourage you to share any field observations or feedback with the United Nations Satellite Centre (UNOSAT). Important Note: Flood analysis derived from radar imagery may underestimate standing water in urban or densely vegetated areas due to the radar signal's backscattering characteristics. Should you have any questions or require further support, please do not hesitate to contact us. We remain at your disposal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Pakistan"
+  ],
+  "locn_geometry": "ENVELOPE(60.87, 77.84, 37.13, 23.69)",
+  "dcat_bbox": "ENVELOPE(60.87, 77.84, 37.13, 23.69)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-flood-extent-in-punjab-province-pakistan-10-july-2025\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/4147/FL20250630PAK_gdb.zip\"}"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "hdx-4e18ed84-27ff-4dab-914b-fe15dddd88a9",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T02:46:40Z",
+  "dct_title_s": "El Salvador - Earthquake on Jan 05 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000pi09](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000pi09) Magnitude 6.2 earthquake at 49.452 depth occurred on Jan 05 2025 48km S of San Luis Talpa. The epicentre of the earthquake was located at latitude 13.053 longitude -89.1723. It impacted 138269 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "El Salvador"
+  ],
+  "locn_geometry": "ENVELOPE(-90.1, -87.72, 14.42, 13.15)",
+  "dcat_bbox": "ENVELOPE(-90.1, -87.72, 14.42, 13.15)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/slv-earthquake-sm-us6000pi09\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/4e18ed84-27ff-4dab-914b-fe15dddd88a9/resource/c7e0629c-91d0-478c-9044-c68f7265cb82/download/slv_wfpadam_earthquake_20250105.geojson\"}"
+}

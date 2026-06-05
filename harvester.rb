@@ -62,8 +62,8 @@ class Harvester
       save_metadata(HDX_METADATA_DIR, id, dataset)
 
       # Map and save Aardvark
-      # aardvark_data = Mapper.map(dataset)
-      # save_metadata(AARDVARK_METADATA_DIR, id, aardvark_data)
+      aardvark_data = Mapper.map(dataset)
+      save_metadata(AARDVARK_METADATA_DIR, id, aardvark_data)
 
       processed_count += 1
       puts "Processed #{id}"

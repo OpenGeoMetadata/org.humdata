@@ -1,0 +1,41 @@
+{
+  "id": "hdx-d963b4e2-7b7d-4297-89b5-77d2bbaff547",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-03-24T15:30:41Z",
+  "dct_title_s": "Satellite detected water extents between 03 and 23 August 2022 over Pakistan",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20220808PAK** This map illustrates cumulative satellite-detected water using VIIRS in Pakistan between 03 to 23 August 2022. Within the cloud free analyzed areas of about 780,000 km2, a total of about 55,000 km2 of lands appear to be affected with flood waters. Based on Worldpop population data and the maximum flood water coverage, ~19,368,000 people are potentially exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to the United Nations Satellite Centre (UNOSAT)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Pakistan"
+  ],
+  "locn_geometry": "ENVELOPE(60.87, 77.84, 37.13, 23.69)",
+  "dcat_bbox": "ENVELOPE(60.87, 77.84, 37.13, 23.69)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-water-extents-between-03-and-23-august-2022-over-pakistan\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/PK/FL20220808PAK/FL20220808PAK_gdb.zip\"}"
+}

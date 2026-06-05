@@ -1,0 +1,48 @@
+{
+  "id": "hdx-50fda5c8-bc93-48e7-b542-f123b2038350",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-04-24T14:04:36Z",
+  "dct_title_s": "Namibia - Subnational Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Namibia administrative level 0-2 boundaries (COD-AB) dataset version 01. This dataset is structured into 2 levels: - Admin 1: 14 Region - Admin 2: 107 Constituency Dates associated with this dataset: - 28 January 2025: dataset reviewed for accuracy and completeness - 09 January 2020: valid for use by the humanitarian community - 01 January 2011: last edit to the dataset before publishing - 01 January 2011: boundaries created by the source Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx). Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Namibia Statistics Agency (NSA)"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Namibia"
+  ],
+  "locn_geometry": "ENVELOPE(11.73, 25.08, -16.94, -29.05)",
+  "dcat_bbox": "ENVELOPE(11.73, 25.08, -16.94, -29.05)",
+  "dct_temporal_sm": [
+    "2020-2025"
+  ],
+  "gbl_indexYear_im": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-nam\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/50fda5c8-bc93-48e7-b542-f123b2038350/resource/0a024129-9aa5-4948-837d-7ae330a23890/download/nam_admin_boundaries.geojson.zip\"}"
+}

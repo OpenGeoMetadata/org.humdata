@@ -1,0 +1,43 @@
+{
+  "id": "hdx-313247e3-f414-4494-bc58-0db578e81189",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-01-28T15:23:53Z",
+  "dct_title_s": "GRID3 COD - Gridded Population Estimates v4.4",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Democratic Republic of the Congo gridded population estimates. This data release provides gridded population estimates (spatial resolution of 3 arc-seconds, approximately 100-metre grid cells) for the Democratic Republic of the Congo (DRC), along with uncertainty estimates. The data is a mosaic of gridded population estimates produced for all 26 provinces namely Bas-Uele, Equateur, Haut-Katanga, Haut-Lomami, Haut-Uele, Ituri, Kasai, Kasai-Central, Kasai-Oriental, Kinshasa, Kongo-Central, Kwango, Kwilu, Lomami, Lualaba, Mai-Ndombe, Maniema, Mongala, Nord-Kivu, Nord-Ubangi, Sankuru, Sud-Kivu, Sud-Ubangi, Tanganyika, Tshopo and Tshuapa. The project team used the Pre-Distribution Registration Survey (PDRS) data from the National Malaria Control Programme (PNLP) collected as part of anti-malarial campaigns in the DRC, settlement extent and geospatial covariates to model and estimate population numbers at grid cell level using a Bayesian statistical hierarchical modelling framework. Please note that PNLP data were collected across the DRC, except in Kasai, Kasai Central, Kasai Oriental, Kwango, Nord Ubangi and Lualaba, where the modelling utilised observations from neighbouring provinces The projection for all GIS files is the geographic coordinate system WGS84 (World Geodetic System 1984). Grid cells with values of NA represent areas that were mapped as unsettled according to building footprints data or being outside the national boundary. Suggested Dataset Citation: Yankey O., Nnanatu C., Boo G., Chaudhuri S., Krishnaveni K S, Megheib M, Bonnie A., Chamberlain H., Lazar A. N., Tatem A. J. 2025. Bottom-up gridded population estimates for the Democratic Republic of Congo, version 4.4. WorldPop. URL. Accessed DAY-MONTH-YEAR."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Yankey O., Nnanatu C., Boo G., Chaudhuri S., Krishnaveni K S, Megheib M, Bonnie A., Chamberlain H., Lazar A. N., Tatem A. J."
+  ],
+  "dcat_keyword_sm": [
+    "demographics",
+    "geodata",
+    "population"
+  ],
+  "dct_subject_sm": [
+    "demographics",
+    "geodata",
+    "population"
+  ],
+  "dct_spatial_sm": [
+    "Democratic Republic of the Congo"
+  ],
+  "dct_temporal_sm": [
+    "2022-2024"
+  ],
+  "gbl_indexYear_im": [
+    2022,
+    2023,
+    2024
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-cod-gridded-population-estimates-v4-4\",\"http://schema.org/downloadUrl\":\"https://wopr.worldpop.org/download/614\"}"
+}

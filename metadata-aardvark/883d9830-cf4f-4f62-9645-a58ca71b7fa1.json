@@ -1,0 +1,41 @@
+{
+  "id": "hdx-883d9830-cf4f-4f62-9645-a58ca71b7fa1",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-04-27T14:56:25Z",
+  "dct_title_s": "Democratic Republic of Congo (DRC) Local Roads (OpenStreetMap Export)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "République démocratique du Congo (RDC), Réseau routier local Lines + Polygons : Local roads Interactive Online Map [OSM Roads](https://wiki.openstreetmap.org/wiki/Key:highway) Columns: osm_id, highway, name, layer, bridge, tunnel, oneway, ref , route, junction, lanes, width, maxspeed, surface, practicability, smoothness, condition, geometry OSM Filter highway in ('residential', 'living_street', 'path', 'footway', 'pedestrian', 'steps', 'cycleway', 'track', 'service', 'bridleway', 'construction', 'road') * highway=road attribute for roads not yet classified. The Major Roads dataset is available from the [Major Roads network dataset](https://data.humdata.org/dataset/democratic-republic-of-congo-drc-major-roads-network-openstreetmap-export)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "roads",
+    "transportation"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "roads",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "Democratic Republic of the Congo"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/democratic-republic-of-congo-drc-local-roads-openstreetmap-export\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/883d9830-cf4f-4f62-9645-a58ca71b7fa1/resource/807c78f9-9086-4dd5-88be-da29f1676ab3/download/osm_rd_congo_local_roads.geojson.zip\"}"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "hdx-c7c08aa9-1d2e-42cf-906b-552a442a2cf1",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-01-08T16:24:10Z",
+  "dct_title_s": "Africa - HydroRIVERS - vectorized line network of all African rivers",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "HydroRIVERS represents a vectorized line network of all global rivers that have a catchment area of at least 10 km² or an average river flow of at least 0.1 m³/sec, or both. HydroRIVERS has been extracted from the gridded HydroSHEDS core layers at 15 arc-second resolution. The global coverage of HydroRIVERS encompasses 8.5 million individual river reaches with an average length of 4.2 km, representing a total of 35.9 million km of rivers globally. HydroRIVERS only includes a limited amount of (mostly geometric) attribute information, such as the river reach length, the distance from upstream headwaters and ocean outlet, the river order, and an estimate of long-term average discharge. Every river reach is also co-registered to the sub-basin of the HydroBASINS database in which it resides (via a shared ID). More information: [Hydrosheds - Hydrorivers](https://www.hydrosheds.org/products/hydrorivers)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Hydrosheds"
+  ],
+  "dcat_keyword_sm": [
+    "environment",
+    "rivers",
+    "water sanitation and hygiene-wash"
+  ],
+  "dct_subject_sm": [
+    "environment",
+    "rivers",
+    "water sanitation and hygiene-wash"
+  ],
+  "dct_spatial_sm": [
+    "Egypt",
+    "Eritrea",
+    "Ethiopia",
+    "Nigeria",
+    "Somalia",
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/africa-hydrorivers-vectorized-line-network-of-all-african-rivers\",\"http://schema.org/downloadUrl\":\"https://data.hydrosheds.org/file/HydroRIVERS/HydroRIVERS_v10_af.gdb.zip\"}"
+}

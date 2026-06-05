@@ -1,0 +1,33 @@
+{
+  "id": "hdx-192372eb-6549-4704-b2c1-5a9c06db77bb",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-04-14T15:41:04Z",
+  "dct_title_s": "Azerbaijan - Subnational Edge-matched Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Azerbaijan administrative level 0-1 edge-matched gazetteer, shapefiles, geodatabase, and geoservice. These boundaries are suitable for database or GIS linkage to the [Azerbaijan - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-aze) tables using the ADM0, and ADM1_PCODE fields. COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-aze); however COD-EM datasets may be preferred for cartographic purposes. See caveats. Vetting by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "www.gadm.org and Open Street Map"
+  ],
+  "dct_spatial_sm": [
+    "Azerbaijan"
+  ],
+  "locn_geometry": "ENVELOPE(44.79, 50.39, 41.86, 38.27)",
+  "dcat_bbox": "ENVELOPE(44.79, 50.39, 41.86, 38.27)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "XLSX",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-em-aze\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/192372eb-6549-4704-b2c1-5a9c06db77bb/resource/4314283d-c5b9-43f2-8f5a-1c6aa933f477/download/aze_adminboundaries_tabulardata.xlsx\"}"
+}

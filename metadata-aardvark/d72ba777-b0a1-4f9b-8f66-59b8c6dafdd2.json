@@ -1,0 +1,110 @@
+{
+  "id": "hdx-d72ba777-b0a1-4f9b-8f66-59b8c6dafdd2",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-05T17:43:59Z",
+  "dct_title_s": "Africa - Monthly and dekadal combined drought indicator (CDI)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "The Combined Drought Indicator (CDI) dataset developed at ACMAD is designed as an operational drought-monitoring product that synthesizes multiple biophysical signals into a single, coherent assessment of drought conditions across Africa. Rather than relying on a single indicator, the ACMAD CDI combines information from rainfall-based drought indices and satellite-derived vegetation condition metrics, applying rule-based logic to identify areas where these independent indicators consistently point to drought stress. This convergence approach reduces the risk of false alarms that can arise from short-term rainfall variability or vegetation anomalies unrelated to drought. The data exist in two forms one based on GPCC while another based on Era5 precipitation. The dataset is particularly useful in the African context, where ground observations are sparse and climatic gradients are strong across regions. By using harmonized, gridded datasets, the CDI provides a comparable drought signal across national boundaries, supporting regional coordination and continental-scale analysis. Its categorical outputs are intentionally simple and policy-ready, making them suitable for drought bulletins, early-warning communications, and high-level decision support. Importantly, the CDI is not intended to replace detailed drought diagnostics or impact assessments. Instead, it serves as a convergence and confirmation tool that highlights areas requiring closer analysis and expert interpretation. In this role, the CDI acts as a bridge between complex climate data and practical drought-risk management, enabling timely, consistent, and defensible drought monitoring at regional and continental scales."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "African Center of Meteorological Applications for Development (ACMAD)"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "climate-weather",
+    "drought",
+    "hazards and risk"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "climate-weather",
+    "drought",
+    "hazards and risk"
+  ],
+  "dct_spatial_sm": [
+    "Algeria",
+    "Angola",
+    "Benin",
+    "Botswana",
+    "Burkina Faso",
+    "Burundi",
+    "Cabo Verde",
+    "Cameroon",
+    "Central African Republic",
+    "Chad",
+    "Comoros",
+    "Congo",
+    "Côte d'Ivoire",
+    "Democratic Republic of the Congo",
+    "Djibouti",
+    "Egypt",
+    "Equatorial Guinea",
+    "Eritrea",
+    "Eswatini",
+    "Ethiopia",
+    "Gabon",
+    "Gambia",
+    "Ghana",
+    "Guinea",
+    "Guinea-Bissau",
+    "Kenya",
+    "Lesotho",
+    "Liberia",
+    "Libya",
+    "Madagascar",
+    "Malawi",
+    "Mali",
+    "Mauritania",
+    "Mauritius",
+    "Morocco",
+    "Mozambique",
+    "Namibia",
+    "Niger",
+    "Nigeria",
+    "Rwanda",
+    "Sao Tome and Principe",
+    "Senegal",
+    "Seychelles",
+    "Sierra Leone",
+    "Somalia",
+    "South Africa",
+    "South Sudan",
+    "Sudan",
+    "Togo",
+    "Tunisia",
+    "Uganda",
+    "United Republic of Tanzania",
+    "Western Sahara",
+    "Zambia",
+    "Zimbabwe"
+  ],
+  "locn_geometry": "ENVELOPE(-17.63, 51.13, 37.35, -34.82)",
+  "dcat_bbox": "ENVELOPE(-17.63, 51.13, 37.35, -34.82)",
+  "dct_temporal_sm": [
+    "2015-2026"
+  ],
+  "gbl_indexYear_im": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/acmad-combined-drought-indicator\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/d72ba777-b0a1-4f9b-8f66-59b8c6dafdd2/resource/28c34d27-0040-42b3-82c6-29bcf2ec64b7/download/31637436-4788-4d71-abbe-1be3139f64d6\"}"
+}

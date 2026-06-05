@@ -1,0 +1,47 @@
+{
+  "id": "hdx-70ca85b0-336a-407e-b9e5-f32a7e4840d0",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-13T18:23:12Z",
+  "dct_title_s": "Chile - Subnational Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Chile administrative level 0-3 boundaries (COD-AB) dataset version 01. This dataset is structured into 3 levels: - Admin 1: 16 nan - Admin 2: 56 nan - Admin 3: 345 nan Dates associated with this dataset: - 17 February 2025: dataset reviewed for accuracy and completeness - 08 October 2021: valid for use by the humanitarian community - 05 September 2018: last edit to the dataset before publishing - 05 September 2018: boundaries created by the source Contributed by [OCHA Latin America and the Caribbean (ROLAC)](https://data.humdata.org/organization/ocha-rolac). Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx). Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "La Biblioteca del Congreso Nacional de Chile (BCN)"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Chile"
+  ],
+  "locn_geometry": "ENVELOPE(-75.64, -66.96, -17.58, -55.61)",
+  "dcat_bbox": "ENVELOPE(-75.64, -66.96, -17.58, -55.61)",
+  "dct_temporal_sm": [
+    "2021-2025"
+  ],
+  "gbl_indexYear_im": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-chl\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/70ca85b0-336a-407e-b9e5-f32a7e4840d0/resource/3e64e88b-eef7-4a05-98f1-861a208c7936/download/chl_admin_boundaries.geojson.zip\"}"
+}

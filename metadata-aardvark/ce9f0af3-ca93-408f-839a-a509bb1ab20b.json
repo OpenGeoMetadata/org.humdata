@@ -1,0 +1,44 @@
+{
+  "id": "hdx-ce9f0af3-ca93-408f-839a-a509bb1ab20b",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-31T15:25:10Z",
+  "dct_title_s": "Iraq - Subnational Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains the following administrative boundaries: ADM0, ADM1, ADM2. Produced and maintained since 2017, the geoBoundaries Global Database of Political Administrative Boundaries Database [www.geoboundaries.org](https://www.geoboundaries.org) is an open license, standardized resource of boundaries (i.e., state, county) for every country in the world."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Iraq Central Statistics Office, OCHA IraqNatural EarthgeoBoundaries, Wikimedia Commons"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Iraq"
+  ],
+  "locn_geometry": "ENVELOPE(38.79, 48.57, 37.39, 29.1)",
+  "dcat_bbox": "ENVELOPE(38.79, 48.57, 37.39, 29.1)",
+  "dct_temporal_sm": [
+    "2021-2022"
+  ],
+  "gbl_indexYear_im": [
+    2021,
+    2022
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/geoboundaries-admin-boundaries-for-iraq\",\"http://schema.org/downloadUrl\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/IRQ/ADM0/geoBoundaries-IRQ-ADM0_simplified.geojson\"}"
+}

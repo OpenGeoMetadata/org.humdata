@@ -1,0 +1,41 @@
+{
+  "id": "hdx-4e653646-3f34-4900-aa3b-06759bcb3b4c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-05T16:41:04Z",
+  "dct_title_s": "Fire Emissions (CAMS-GFAS)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "The CAMS Global Fire Assimilation System (GFAS) utilises satellite observations of fire radiative power (FRP) to provide near-real-time information on the location, relative intensity and estimated emissions from biomass burning and vegetation fires. Emissions are estimated by conversion of FRP observations to the dry matter (DM) consumed by the fire, and application of emission factors to DM for different biomes, based on field and laboratory studies. Provided as continuous raster GeoTIFFs."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Copernicus"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "environment"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "environment"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/copernicus-fire-emissions\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/4e653646-3f34-4900-aa3b-06759bcb3b4c/resource/44d13385-2c0e-4bb0-9a3a-d96eb4ca2539/download/copernicus_fire_emissions_gfas_bc_last_7d.geotiff\"}"
+}

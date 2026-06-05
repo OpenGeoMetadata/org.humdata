@@ -1,0 +1,43 @@
+{
+  "id": "hdx-05d97747-e383-415e-af71-71a8b9f5ac9f",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-04T14:10:30Z",
+  "dct_title_s": "Sluice Gates in Myanmar",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Non-authoritative dataset of >300 sluice gates (with geographic coordiates for 274 sluice gates) in Myanmar. A sluice gate is a water control structure used to regulate the flow of water in rivers, canals, and irrigation systems. In agricultural settings, especially for large areas, sluice gates are vital for managing water levels, preventing flooding, and ensuring adequate irrigation. They are typically adjustable, allowing farmers to control water flow, direct it to fields, or block it to prevent water damage during storms or heavy rains. For Myanmar, esp. in the low lying delta areas installed, sluice gates are essential to protect farmland from flooding. Dataset produced by CDE Myanmar based on publicly available reference date (esp. GAD Township profiles 2019 and IWUMD website), enhanced with local knowledge and determining geographic coordinates using mostly large scale satellite/google satellite. Attribute data available for most sluice dates include - the river/stream name the sluice gate provides protection from - the size of the gate - the construction material - the construcction period (year of start & completion) - the size of the protected area - Township name Creation methodology: - create excel masterlist from GAD and IWUMD, incl. attributes and assign unique code. - based on the reference data location maps and textual location information, identification of sluice gate cooridinates on Google/Bing imagery. - addition of sluice gate data based on local knowledge - cleanup of data, standardization of attributes and correcting typos Known issues: - dataset may be out of date (GAD township profiles from 2019, IWUMD data from 2023) - for 65 (out of 339 known sluice gates) no geographic coordinates could be determined - for 42 sluice gates, the geographic coordinates are \"best-guess\", meaning that there is a possibility that the reference data from GAD/IWUMD and the sluice gate identified in google/bing imagery may not indicate the same sluice gate - reference data from GAD and IWUMD may be incomplete, thus leading to missing sluice gates in this dataset - for some sluice gates, attribute data is missing or incomplete - some sluice gates may be non-functional or destroyed Spatial dataset created based on 1:5.000 - 1:2.000 scaled imagery."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Myanmar Information Management Unit (MIMU)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-sluice-gates-in-myanmar\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mm_sluicegates_cde_pt_v20250101\"}"
+}

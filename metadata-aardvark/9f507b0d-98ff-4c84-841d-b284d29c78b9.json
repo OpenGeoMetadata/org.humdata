@@ -1,0 +1,43 @@
+{
+  "id": "hdx-9f507b0d-98ff-4c84-841d-b284d29c78b9",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-15T15:22:26Z",
+  "dct_title_s": "Belarus : Roads (OpenStreetMap Export)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Road network across the region from OSM. Includes everything tagged with `highway`: motorways, residential streets, service roads, footways, and trails. Useful for routing, accessibility analysis, and evacuation planning. OpenStreetMap is a free, collaborative world map built by volunteers. Completeness varies by region: urban areas are usually well-mapped, remote areas may be incomplete. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org) - OSM tags: [Key:highway](https://wiki.openstreetmap.org/wiki/Key:highway) - Part of many [exports grid on HDX](https://data.humdata.org/organization/hot) by the [HOT](https://www.hotosm.org/en/)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "roads",
+    "transportation"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "roads",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "Belarus"
+  ],
+  "locn_geometry": "ENVELOPE(23.2, 32.69, 56.17, 51.32)",
+  "dcat_bbox": "ENVELOPE(23.2, 32.69, 56.17, 51.32)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_blr_roads\",\"http://schema.org/downloadUrl\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BLR/roads/hotosm_blr_roads_osm_shp.zip\"}"
+}

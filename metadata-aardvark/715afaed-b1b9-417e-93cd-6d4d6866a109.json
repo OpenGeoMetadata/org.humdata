@@ -1,0 +1,43 @@
+{
+  "id": "hdx-715afaed-b1b9-417e-93cd-6d4d6866a109",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-04T14:48:43Z",
+  "dct_title_s": "Myanmar Road Network",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Road network with main, secondary and tertiary roads. This network-based connectivity approach mainly uses population centres, such as, Union capital, State/Region capital, Main town, other town and village location, as the bases to road network. Main Road links ST/R Capital to Main Towns and to Neighbouring countries. Secondary Road links a Major Road to another Main Road. Tertiary Road links main town to other-town and other-town to other-town. Original dataset title: Myanmar Road Network 2022"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Myanmar Information Management Unit (MIMU)"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "roads",
+    "transportation"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "roads",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-myanmar-road-network\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_rdsl_mimu_250k\"}"
+}

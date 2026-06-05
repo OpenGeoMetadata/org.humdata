@@ -1,0 +1,41 @@
+{
+  "id": "hdx-98b61b16-702a-4945-9543-3aa3d31b7fb6",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-04T15:12:49Z",
+  "dct_title_s": "UNHCR Population Reference Areas",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Polygon layer that represent the areas of Population Reference Points. Available only for the main People of Concern locations."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UNHCR"
+  ],
+  "dcat_keyword_sm": [
+    "people in need-pin",
+    "populated places-settlements"
+  ],
+  "dct_subject_sm": [
+    "people in need-pin",
+    "populated places-settlements"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "dct_format_s": "KMZ",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/unhcr-population-reference-areas\",\"http://schema.org/downloadUrl\":\"https://gis.unhcr.org/arcgis/rest/services/core_v2/wrl_prp_a_unhcr/MapServer/kml/mapImage.kmz\"}"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hdx-a5372702-a702-412f-aad3-8b84c3e2ca7e",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-04T15:15:58Z",
+  "dct_title_s": "Electric Power Substations in Myanmar",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Non-authoritative dataset of >300 approximate centre point locations of of electricity transmission and distribution substations as of 2025. Produced by CDE Myanmar based on publicly available reference data (incl. https://www.moep.gov.mm/en/ignite/page/641), OpenStreetMap, local knowledge and high resolution satellite imagery. The attribute data includes the non-authoritative English name of each substation along with a \"best-guess\" operational status as of 2025, based on satellite imagery analysis and publicly available online sources. Creation methodology: - Identifying substation locations primarily based on https://www.moep.gov.mm/en/ignite/page/641, OpenStreetMap and high resolution satellite imagery. - Mapping the approximate centrepoint of each substation and matching it with the reference data available. - assigning a \"power facility code\" to each substation - operational status was assessed based on satellite imagery, considering visible signs of ongoing construction, complete decommissioning, or disuse - assigning substation type and capacity (in KV) based on MOEP reference map from 2019, internet searches and \"best guess\" assessment based on the visual apearance of the substation in the imagery. - assigning a non-authoritative substation name, based on google maps, MOEP, OSM and other publicly available data. - creating a public dataset by excluding planned and non-confirmed substation locations and by reducing the attribute table to a selection of cleaned and relevant fields. Known issues: - Substation names are unofficial and non-authoritative; Myanmar-language names are still missing. - Some substations have been classified as industrial or power plant substations when there was strong evidence linking them to industrial facilities or when they serve to feed electricity generated on-site into the grid. However, the majority of substations are classified as unspecified, assumed to be general power grid transmission or distribution substations—though this classification is not always certain. - A few larger substations (66 kV and above) are still missing, while the number of missing substations at 33 kV and below is uncertain. - The matching of substation locations with data from the Ministry of Electricity and Energy (MOEP) and other reference sources is not always reliable, and mismatches may have occurred in the dataset. - for some substations no names are known or are highly uncertain. Those names are places in square backets \"[]\" Spatial dataset created based on approximately 1:5.000 scaled imagery."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Myanmar Information Management Unit (MIMU)"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-electric-power-substations-in-myanmar\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mm_substations_pt_v20250812\"}"
+}

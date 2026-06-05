@@ -1,0 +1,41 @@
+{
+  "id": "hdx-c9a4f7e6-51e7-4584-9598-1a11b7c6dab2",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-04-27T14:56:34Z",
+  "dct_title_s": "Democratic Republic of Congo (DRC)  Health Facilities (OpenStreetMap Export)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "République démocratique du Congo (RDC), Établissements de santé Points + Polygons : Interactive Online Map and Tabular spreadsheet (For multipolygons lat,lon=centroid) * First Column *Thematic* describes line Feature content : hospital, doctors, clinic, pharmacy, dentist,veterinary * Objets Institutions de la santé (hopitaux, médecins, cliniques, pharmacies, dentiste) * OSM amenity IN ('doctors','clinic','hospital','pharmacy','dentist') Columns :thematic, osmtype, lat (latitude), lon (longitude) osm_id (unique point id), [amenity](http://wiki.openstreetmap.org/wiki/amenity), [name](http://wiki.openstreetmap.org/wiki/name), [name:fr](http://wiki.openstreetmap.org/wiki/name:fr), [name:en](http://wiki.openstreetmap.org/wiki/name:en), [health_facility:type](http://wiki.openstreetmap.org/wiki/health_facility:type), beds, health_services:description, heliport, operator, operator:type, private, address, addr:housenumber, addr:street, addr:city, building, [building:levels](http://wiki.openstreetmap.org/wiki/building:levels), [building:material](http://wiki.openstreetmap.org/wiki/building:material), [building:condition](http://wiki.openstreetmap.org/wiki/building:condition), building:status, note, layer, other_tags * [OpenStreetMap data extraction from](https://download.geofabrik.de) *[ETL2HDX Procedures](https://github.com/opendatalabrdc/OSM_Exports)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap "
+  ],
+  "dcat_keyword_sm": [
+    "facilities-infrastructure",
+    "geodata",
+    "health facilities"
+  ],
+  "dct_subject_sm": [
+    "facilities-infrastructure",
+    "geodata",
+    "health facilities"
+  ],
+  "dct_spatial_sm": [
+    "Democratic Republic of the Congo"
+  ],
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/https-github-com-opendatalabrdc-osm_exports-raw-master-data-osm_rd_congo_poi_health-geojson\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/c9a4f7e6-51e7-4584-9598-1a11b7c6dab2/resource/14c539d1-1a53-4c75-8de3-6720e7accf4e/download/osm_rd_congo_health.geojson.zip\"}"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hdx-325c489c-9d54-463b-a5b0-3d16154d4797",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-02-25T15:24:27Z",
+  "dct_title_s": "Satellite detected waters in Da Nang City of Viet Nam as of 30 October 2020",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: TC20201028VNM** This map illustrates satellite-detected surface waters in Da Nang City of Viet Nam as observed from a Sentinel-1 image acquired on 30 October 2020 at about 05:35 local time. Within the analyzed area of about 300 km2, a total of about 8 km2 of lands appear to be flooded. Based on Worldpop population data and the detected surface waters, about 4,300 people are potentially exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR-UNOSAT. Important Note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Viet Nam"
+  ],
+  "locn_geometry": "ENVELOPE(102.17, 109.34, 23.35, 8.6)",
+  "dcat_bbox": "ENVELOPE(102.17, 109.34, 23.35, 8.6)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-waters-in-da-nang-city-of-viet-nam-as-of-30-october-2020\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/VN/TC20201028VNM/TC20201028VNM_gdb.zip\"}"
+}

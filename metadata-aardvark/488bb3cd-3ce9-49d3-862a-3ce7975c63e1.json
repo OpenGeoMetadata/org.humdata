@@ -1,0 +1,48 @@
+{
+  "id": "hdx-488bb3cd-3ce9-49d3-862a-3ce7975c63e1",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-04-25T14:04:24Z",
+  "dct_title_s": "Iraq - Subnational Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Iraq administrative level 0-3 boundaries (COD-AB) dataset version 01. This dataset is structured into 3 levels: - Admin 1: 18 Governorate - Admin 2: 101 District - Admin 3: 294 Sub-district Dates associated with this dataset: - 19 December 2024: dataset reviewed for accuracy and completeness - 03 June 2019: valid for use by the humanitarian community - 05 June 2019: last edit to the dataset before publishing - 05 June 2019: boundaries created by the source Contributed by [OCHA Middle East and North Africa (ROMENA)](https://data.humdata.org/organization/ocha-romena). Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx). Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Iraq Central Statistics Office"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Iraq"
+  ],
+  "locn_geometry": "ENVELOPE(38.79, 48.57, 37.39, 29.1)",
+  "dcat_bbox": "ENVELOPE(38.79, 48.57, 37.39, 29.1)",
+  "dct_temporal_sm": [
+    "2019-2024"
+  ],
+  "gbl_indexYear_im": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-irq\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/488bb3cd-3ce9-49d3-862a-3ce7975c63e1/resource/a9ed4d00-1182-4fdc-a0e4-82bbd20786db/download/irq_admin_boundaries.geojson.zip\"}"
+}

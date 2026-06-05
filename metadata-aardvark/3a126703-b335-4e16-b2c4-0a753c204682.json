@@ -1,0 +1,41 @@
+{
+  "id": "hdx-3a126703-b335-4e16-b2c4-0a753c204682",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-04T14:25:40Z",
+  "dct_title_s": "Lakes and Dams in Myanmar",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Lakes and Dams in Myanmar. This dataset was extracted from Landsat satellite images, Sentinel-1 ESA satellite images, and Google satellite images. The United Nations and the MIMU specifically do not make any warranties or representations as to the accuracy or completeness of this dataset nor does it imply official endorsement or acceptance by the United Nations."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Myanmar Information Management Unit (MIMU)"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "hydrology"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "hydrology"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-lakes-and-dams-in-myanmar\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_dam_lake_2021\"}"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "hdx-8070f0ac-6c25-4956-bb7c-383c251f0153",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-04T14:53:20Z",
+  "dct_title_s": "Border Crossing Points",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Country border crossing points. The boundaries and names included in this web service do not imply official endorsement or acceptance by the United Nations."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UNHCR"
+  ],
+  "dcat_keyword_sm": [
+    "border crossings"
+  ],
+  "dct_subject_sm": [
+    "border crossings"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "dct_format_s": "KMZ",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/border-crossing-points\",\"http://schema.org/downloadUrl\":\"https://gis.unhcr.org/arcgis/rest/services/core_v2/wrl_marker_crossing_p_unhcr/MapServer/kml/mapImage.kmz\"}"
+}

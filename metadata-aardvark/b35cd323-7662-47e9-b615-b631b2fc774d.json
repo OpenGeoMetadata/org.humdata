@@ -1,0 +1,41 @@
+{
+  "id": "hdx-b35cd323-7662-47e9-b615-b631b2fc774d",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-04T15:13:27Z",
+  "dct_title_s": "Bago Region Village Tract Boundaries MIMU v9.4",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Polygons of Village Tract boundaries (Admin4) for the Bago Region, based on the latest MIMU Pcode version 9.4 . Place names from General Administration Department (GAD), are available in Myanmar Unicode. Transliteration in roman script by MIMU. Place names are in line with the general cartographic practice to reflect the names of such places as designated by the host governments. The United Nations encourages authorities to review place names which include terms that may be viewed or perceived as derogatory."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Myanmar Information Management Unit (MIMU)"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-bago-region-village-tract-boundaries-mimu\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_bgo_polbnda_adm4_mimu_250k_1\"}"
+}

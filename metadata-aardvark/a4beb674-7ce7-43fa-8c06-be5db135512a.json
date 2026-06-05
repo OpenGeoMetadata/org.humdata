@@ -1,0 +1,45 @@
+{
+  "id": "hdx-a4beb674-7ce7-43fa-8c06-be5db135512a",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-04-23T17:41:50Z",
+  "dct_title_s": "Ethiopia: Rainfall Anomaly",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Rainfall anomaly refers to the difference between the observed rainfall and the long-term average for a specific location and time period. It indicates whether rainfall conditions are above or below normal. Positive anomalies represent higher-than-average rainfall, while negative anomalies indicate below-average rainfall. These anomalies are essential for monitoring climate variability, including droughts and floods, and for assessing their impacts on agriculture, water resources, and other sectors. For this analysis, CHIRPS daily rainfall data for Ethiopia were utilized, covering the month of March 2024, 2025 and 2025. Rainfall anomalies for month of March were calculated by subtracting the long-term average (2000–2020) from the observed rainfall values for the same period."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "3iS"
+  ],
+  "dcat_keyword_sm": [
+    "climate-weather",
+    "disaster risk reduction-drr",
+    "drought",
+    "environment"
+  ],
+  "dct_subject_sm": [
+    "climate-weather",
+    "disaster risk reduction-drr",
+    "drought",
+    "environment"
+  ],
+  "dct_spatial_sm": [
+    "Ethiopia"
+  ],
+  "locn_geometry": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dcat_bbox": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/ethiopia-rainfall-anomaly-march-2026-last-two-years\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/a4beb674-7ce7-43fa-8c06-be5db135512a/resource/ea749472-3e62-4f11-81e3-2e5ad09f6fe3/download/rainfall_anomaly_2026_3.tif\"}"
+}

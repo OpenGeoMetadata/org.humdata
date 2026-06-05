@@ -1,0 +1,41 @@
+{
+  "id": "hdx-80ac01ff-5595-445f-82e3-9f92ed33b371",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-02-03T15:50:27Z",
+  "dct_title_s": "Satellite detected water extent over Nawalparasi West, Rupandehi and Kapilbastu districts, Nepal as of 7 July 2021",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20210630NPL** This map illustrates satellite-detected surface waters in Nawalparasi West, Rupandehi and Kapilbastu districts, Lumbini province, Nepal as observed from a Sentinel-1 image acquired on 7 July 2021 at 06:12 local time and using an automated analysis with Machine learning method. Within the analyzed area of about 1,500 km2 and, about 67km2 of lands appear to be flooded. The water extent appears to have decreased of about 110 km2 since 2 July 2021 and moved toward India. Based on Worldpop population data and the detected surface waters in the analyzed area, the potentially exposed population is mainly located in the district of Rupandehi with ~59,000 people and Nawalparasi West with ~5,200 people. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Nepal"
+  ],
+  "locn_geometry": "ENVELOPE(80.09, 88.17, 30.42, 26.4)",
+  "dcat_bbox": "ENVELOPE(80.09, 88.17, 30.42, 26.4)",
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extent-over-nawalparasi-west-rupandehi-and-kapilbastu-districts-nepal-as-of-7-july-2\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/NP/FL20210630NPL/FL20210630NPL_gdb.zip\"}"
+}

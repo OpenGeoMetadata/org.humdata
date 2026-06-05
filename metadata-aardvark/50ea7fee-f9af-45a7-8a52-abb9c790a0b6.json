@@ -1,0 +1,47 @@
+{
+  "id": "hdx-50ea7fee-f9af-45a7-8a52-abb9c790a0b6",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-03-10T13:40:53Z",
+  "dct_title_s": "Colombia - Subnational Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Colombia administrative level 0-3 boundaries (COD-AB) dataset version 02. This dataset is structured into 3 levels: - Admin 1: 33 Departement - Admin 2: 1122 Municipality (municipio or distrito) - Admin 3: 31880 corregimiento or comuna, partial coverage Dates associated with this dataset: - 20 November 2024: dataset reviewed for accuracy and completeness - 16 April 2020: valid for use by the humanitarian community - 01 December 2019: last edit to the dataset before publishing - 01 December 2019: boundaries created by the source Contributed by [OCHA Latin America and the Caribbean (ROLAC)](https://data.humdata.org/organization/ocha-rolac). Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx). Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Departamento Administrativo Nacional de Estadística (DANE)"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Colombia"
+  ],
+  "locn_geometry": "ENVELOPE(-78.99, -66.88, 12.44, -4.3)",
+  "dcat_bbox": "ENVELOPE(-78.99, -66.88, 12.44, -4.3)",
+  "dct_temporal_sm": [
+    "2020-2024"
+  ],
+  "gbl_indexYear_im": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-col\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/50ea7fee-f9af-45a7-8a52-abb9c790a0b6/resource/86ec6413-73a7-402b-97ae-023f5d3bc861/download/mgn2024_urb_seccion.zip\"}"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "hdx-9785b196-2c28-49f7-ac56-a216a6687245",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-04T15:13:23Z",
+  "dct_title_s": "Non-authoritative zones of Myanmar inscribed UNESCO World Heritage Sites",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Non-authoritative management zone polygon dataset of inscribed UNESCO World Heritage Sites in Myanmar (Bagan and Pyu Ancient Cities). Digitized in medium scale by CDE Myanmar based on georeferenced publicly available reference maps. Original dataset title: Non-authoritative zones of Myanmar inscribed UNESCO World Heritage Sites (2020)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Myanmar Information Management Unit (MIMU)"
+  ],
+  "dcat_keyword_sm": [
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-non-authoritative-zones-of-myanmar-inscribed-unesco-world-heritage-sites\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:unesco_world_heritage_sites_myanmar_2020\"}"
+}

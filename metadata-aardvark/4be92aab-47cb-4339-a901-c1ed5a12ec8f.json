@@ -1,0 +1,39 @@
+{
+  "id": "hdx-4be92aab-47cb-4339-a901-c1ed5a12ec8f",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-01T14:26:44Z",
+  "dct_title_s": "Vanuatu_Population_Grid_2020",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Population Raster Vanuatu 2020 Data Input: Household locations from 2016 Population and Housing Census conducted using Survey Solutions CAPI (Computer Assisted Personal Interview). Year Population Growth Rate of 2.3% has been applied to update population up to 2020 Household locations vector layer has been transformed into a 100m resolution raster. _Access this dataset from the [Pacific Data Hub](https://pacificdata.org/data/dataset/vut_population_grid_2020)_"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "SPC Statistics for Development Division (SDD)"
+  ],
+  "dcat_keyword_sm": [
+    "population"
+  ],
+  "dct_subject_sm": [
+    "population"
+  ],
+  "dct_spatial_sm": [
+    "Vanuatu"
+  ],
+  "locn_geometry": "ENVELOPE(166.63, 167.84, -14.63, -16.6)",
+  "dcat_bbox": "ENVELOPE(166.63, 167.84, -14.63, -16.6)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/pdh-vanuatu_population_grid_2020\",\"http://schema.org/downloadUrl\":\"https://pacificdata.org/data/dataset/1cb668eb-e915-4970-8b87-89aead626d39/resource/08748669-bfb9-404a-9ca4-bd1b49f337ef/download/rastpop2020rps_100m.tif\"}"
+}

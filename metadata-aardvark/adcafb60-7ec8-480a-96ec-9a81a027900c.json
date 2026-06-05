@@ -1,0 +1,113 @@
+{
+  "id": "hdx-adcafb60-7ec8-480a-96ec-9a81a027900c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-05T17:43:52Z",
+  "dct_title_s": "Africa - Fraction of Absorbed Photosynthetically Active Radiation (fAPAR) Anomaly",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "The fAPAR Anomaly dataset maps deviations in vegetation health and photosynthetic activity across Africa. fAPAR measures the proportion of solar radiation absorbed by plants for photosynthesis, making it a robust biophysical indicator of vegetation status. The anomaly product highlights areas where vegetation activity is significantly below or above the long-term average, serving as a primary proxy for agricultural production and biomass availability. Unlike simple greenness indices (like NDVI), fAPAR is physically related to the energy and mass exchange processes of the canopy. Negative anomalies in this dataset are strong indicators of vegetation stress caused by drought, pests, or disease, making it a critical input for yield forecasting and food security analysis."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "African Center of Meteorological Applications for Development (ACMAD)"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "climate-weather",
+    "drought",
+    "hazards and risk"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "climate-weather",
+    "drought",
+    "hazards and risk"
+  ],
+  "dct_spatial_sm": [
+    "Algeria",
+    "Angola",
+    "Benin",
+    "Botswana",
+    "Burkina Faso",
+    "Burundi",
+    "Cabo Verde",
+    "Cameroon",
+    "Central African Republic",
+    "Chad",
+    "Comoros",
+    "Congo",
+    "Côte d'Ivoire",
+    "Democratic Republic of the Congo",
+    "Djibouti",
+    "Egypt",
+    "Equatorial Guinea",
+    "Eritrea",
+    "Eswatini",
+    "Ethiopia",
+    "Gabon",
+    "Gambia",
+    "Ghana",
+    "Guinea",
+    "Guinea-Bissau",
+    "Kenya",
+    "Lesotho",
+    "Liberia",
+    "Libya",
+    "Madagascar",
+    "Malawi",
+    "Mali",
+    "Mauritania",
+    "Mauritius",
+    "Morocco",
+    "Mozambique",
+    "Namibia",
+    "Niger",
+    "Nigeria",
+    "Rwanda",
+    "Sao Tome and Principe",
+    "Senegal",
+    "Seychelles",
+    "Sierra Leone",
+    "Somalia",
+    "South Africa",
+    "South Sudan",
+    "Sudan",
+    "Togo",
+    "Tunisia",
+    "Uganda",
+    "United Republic of Tanzania",
+    "Western Sahara",
+    "Zambia",
+    "Zimbabwe"
+  ],
+  "locn_geometry": "ENVELOPE(-17.63, 51.13, 37.35, -34.82)",
+  "dcat_bbox": "ENVELOPE(-17.63, 51.13, 37.35, -34.82)",
+  "dct_temporal_sm": [
+    "2012-2026"
+  ],
+  "gbl_indexYear_im": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/acmad-fapar-anomaly\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/adcafb60-7ec8-480a-96ec-9a81a027900c/resource/f6386de5-67d4-4e0b-a081-868a7d7467d2/download/554f5519-6f09-42c8-8d95-a27fba64a608\"}"
+}

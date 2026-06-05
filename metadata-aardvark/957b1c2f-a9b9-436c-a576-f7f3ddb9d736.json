@@ -1,0 +1,46 @@
+{
+  "id": "hdx-957b1c2f-a9b9-436c-a576-f7f3ddb9d736",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-03T14:27:23Z",
+  "dct_title_s": "Chokepoints",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "The PortWatch chokepoints database includes 28 major global chokepoints along with other [associated information](https://portwatch.imf.org/datasets/fa9a5800b0ee4855af8b2944ab1e07af/about). This dataset refers to narrow, strategic maritime passage like a strait or canal that is critical for global shipments. These are points where large volumes of traffic must pass, making them vulnerable to disruptions from factors like geopolitical conflict, natural disasters, or accidents. PortWatch specifically tracks and analyzes data related to these chokepoints."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Global Platform; IMF PortWatch"
+  ],
+  "dcat_keyword_sm": [
+    "crisis-greater-middle-east",
+    "ports",
+    "trade"
+  ],
+  "dct_subject_sm": [
+    "crisis-greater-middle-east",
+    "ports",
+    "trade"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2023-2026"
+  ],
+  "gbl_indexYear_im": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "dct_format_s": "CSV",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/chokepoints\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/957b1c2f-a9b9-436c-a576-f7f3ddb9d736/resource/f6bb78de-9018-4a85-9baf-4eeac32639ce/download/chokepoints.geojson\"}"
+}

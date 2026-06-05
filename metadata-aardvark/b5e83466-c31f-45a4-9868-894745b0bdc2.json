@@ -1,0 +1,61 @@
+{
+  "id": "hdx-b5e83466-c31f-45a4-9868-894745b0bdc2",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-03-02T23:01:53Z",
+  "dct_title_s": "Czechia: Road Surface Data",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset provides detailed information on road surfaces from OpenStreetMap (OSM), distinguishing between **paved** and **unpaved** roads across the region. Surface classification is derived using a hybrid deep learning approach. For methodological details, see: http://arxiv.org/abs/2410.19874 Recently, we also published a new country-level dataset based on PlanetScope satellite imagery with near-complete coverage of all arterial roads. It is available on HDX under the name Czechia **Planet** Road Surface. The corresponding paper is available at: https://arxiv.org/abs/2512.04092 Road Surface Statistics Approximately 0.3757 million km of roads are mapped in OSM in this region. Based on AI-derived estimates: - Paved roads: 0.0812 million km (21.6018%) - Unpaved roads: 0.0347 million km (9.2479%) About 0.2598 million km (69.1503%) of road surface information is missing in OSM. To reduce this gap, the Mapillary-derived road surface dataset provides an additional 0.001 million km (0.3722%) of the missing surface information. Intended Use This dataset supports transportation planning, infrastructure analysis, climate emissions assessment, and GIS applications. AI Features - **pred_class**: Model-predicted surface class (\"paved\" or \"unpaved\") - **pred_label**: Binary label (0 = paved, 1 = unpaved) - **osm_surface_class**: Surface classification derived from OSM tags - **combined_surface_osm_priority**: Combined classification prioritizing OSM - **combined_surface_DL_priority**: Combined classification prioritizing DL prediction - **n_of_predictions_used**: Number of predictions used for estimation - **predicted_length**: Predicted length based on DL estimation (meters) - **DL_mean_timestamp**: Mean timestamp of predictions used OSM Attributes - **name** - **name:en** - **name:* (local language)** - **highway** - **surface** - **smoothness** - **width** - **lanes** - **oneway** - **bridge** - **layer** - **source** Urban Classification Attributes - **continent** - **country_iso_a2** - **urban** (0 = rural, 1 = urban) - **urban_area** - **osm_id** - **osm_type** Data Sources The dataset originates from OpenStreetMap (OSM) and is augmented with deep learning predictions based on Mapillary street-level imagery, combined with the GHSU Global Human Settlement Urban Layer 2019 and AFRICAPOLIS 2020 urban layer. More HeiGIT datasets: https://data.humdata.org/organization/heidelberg-institute-for-geoinformation-technology More information: https://heigit.org/ Contact: communications@heigit.org"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "HeiGIT"
+  ],
+  "dcat_keyword_sm": [
+    "development",
+    "humanitarian access",
+    "indicators",
+    "logistics",
+    "openstreetmap",
+    "poverty",
+    "roads",
+    "services",
+    "socioeconomics",
+    "sustainable development",
+    "sustainable development goals-sdg",
+    "transportation",
+    "urban"
+  ],
+  "dct_subject_sm": [
+    "development",
+    "humanitarian access",
+    "indicators",
+    "logistics",
+    "openstreetmap",
+    "poverty",
+    "roads",
+    "services",
+    "socioeconomics",
+    "sustainable development",
+    "sustainable development goals-sdg",
+    "transportation",
+    "urban"
+  ],
+  "dct_spatial_sm": [
+    "Czechia"
+  ],
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/czechia-road-surface-data\",\"http://schema.org/downloadUrl\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_cze_roadsurface_lines.geojson\"}"
+}

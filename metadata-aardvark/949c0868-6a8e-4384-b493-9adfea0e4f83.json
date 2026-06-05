@@ -1,0 +1,43 @@
+{
+  "id": "hdx-949c0868-6a8e-4384-b493-9adfea0e4f83",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T02:44:39Z",
+  "dct_title_s": "Peru - Earthquake on May 08 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000pxx7](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000pxx7) Magnitude 5.4 earthquake at 56.116 depth occurred on May 08 2025 8km NE of Casitas. The epicentre of the earthquake was located at latitude -3.8565 longitude -80.616. It impacted 150374 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Peru"
+  ],
+  "locn_geometry": "ENVELOPE(-81.41, -68.67, -0.06, -18.35)",
+  "dcat_bbox": "ENVELOPE(-81.41, -68.67, -0.06, -18.35)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/per-earthquake-sm-us7000pxx7\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/949c0868-6a8e-4384-b493-9adfea0e4f83/resource/3b7e31f6-e83e-4fe2-9489-cf371af2ed3f/download/per_wfpadam_earthquake_20250508.geojson\"}"
+}

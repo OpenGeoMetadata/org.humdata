@@ -1,0 +1,45 @@
+{
+  "id": "hdx-e987aa90-7d9a-47fd-b203-f9dfafebd2ee",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-07T15:43:27Z",
+  "dct_title_s": "South Africa Railways (OpenStreetMap Export)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This theme includes all OpenStreetMap features in this area matching ( Learn what tags means [here](https://wiki.openstreetmap.org/wiki/Tags) ) : tags['railway'] IN ('rail','station') Features may have these attributes: - [name](http://wiki.openstreetmap.org/wiki/Key:name) - [name:en](http://wiki.openstreetmap.org/wiki/Key:name:en) - [railway](http://wiki.openstreetmap.org/wiki/Key:railway) - [ele](http://wiki.openstreetmap.org/wiki/Key:ele) - [operator:type](http://wiki.openstreetmap.org/wiki/Key:operator:type) - [layer](http://wiki.openstreetmap.org/wiki/Key:layer) - [addr:full](http://wiki.openstreetmap.org/wiki/Key:addr:full) - [addr:city](http://wiki.openstreetmap.org/wiki/Key:addr:city) - [source](http://wiki.openstreetmap.org/wiki/Key:source) - [name:af](http://wiki.openstreetmap.org/wiki/Key:name:af) - [name:nr](http://wiki.openstreetmap.org/wiki/Key:name:nr) - [name:st](http://wiki.openstreetmap.org/wiki/Key:name:st) - [name:nso](http://wiki.openstreetmap.org/wiki/Key:name:nso) - [name:ssw](http://wiki.openstreetmap.org/wiki/Key:name:ssw) - [name:ts](http://wiki.openstreetmap.org/wiki/Key:name:ts) - [name:tn](http://wiki.openstreetmap.org/wiki/Key:name:tn) - [name:ve](http://wiki.openstreetmap.org/wiki/Key:name:ve) - [name:xh](http://wiki.openstreetmap.org/wiki/Key:name:xh) - [name:zu](http://wiki.openstreetmap.org/wiki/Key:name:zu) This dataset is one of many [OpenStreetMap exports on HDX](https://data.humdata.org/organization/hot). See the [Humanitarian OpenStreetMap Team](http://hotosm.org/) website for more information."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "facilities-infrastructure",
+    "geodata",
+    "railways",
+    "transportation"
+  ],
+  "dct_subject_sm": [
+    "facilities-infrastructure",
+    "geodata",
+    "railways",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "South Africa"
+  ],
+  "locn_geometry": "ENVELOPE(16.34, 32.83, -22.09, -34.82)",
+  "dcat_bbox": "ENVELOPE(16.34, 32.83, -22.09, -34.82)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "KML",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_zaf_railways\",\"http://schema.org/downloadUrl\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ZAF/railways/points/hotosm_zaf_railways_points_kml.zip\"}"
+}

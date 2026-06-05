@@ -1,0 +1,41 @@
+{
+  "id": "hdx-6f9937a2-0de1-4d67-8fb0-9632a494302c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-02-26T07:06:52Z",
+  "dct_title_s": "Niger: Google Building Footprints",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This large-scale open dataset consists of outlines of buildings derived from high-resolution 50 cm satellite imagery. It contains 1.8B building detections in Africa, Latin America, Caribbean, South Asia and Southeast Asia. The inference spanned an area of 58M km² and was carried out during May 2023. Each building in this dataset includes a polygon describing its footprint size on the ground and a confidence score indicating how sure this is a building. There is no information about the type of building, its street address, or any details other than its geometry. The HDX team curates these datasets at [Google Open Buildings (by HDX)](https://data.humdata.org/organization/google-open-buildings) using international boundaries from the UN Geospatial Hub. For more details, see the official website of the [Open Buildings dataset](https://sites.research.google/gr/open-buildings/)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Google Earth imagery"
+  ],
+  "dcat_keyword_sm": [
+    "facilities-infrastructure",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "facilities-infrastructure",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Niger"
+  ],
+  "locn_geometry": "ENVELOPE(0.3, 15.9, 23.47, 11.66)",
+  "dcat_bbox": "ENVELOPE(0.3, 15.9, 23.47, 11.66)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/buildings-google-ner\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/6f9937a2-0de1-4d67-8fb0-9632a494302c/resource/25e54228-dac0-4f94-8b8d-15dd1f67f31b/download/ner_buildings.gdb.zip\"}"
+}

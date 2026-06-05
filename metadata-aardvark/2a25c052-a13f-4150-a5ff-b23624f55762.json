@@ -1,0 +1,43 @@
+{
+  "id": "hdx-2a25c052-a13f-4150-a5ff-b23624f55762",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T03:08:32Z",
+  "dct_title_s": "China - Earthquake on Jan 26 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000rs2q](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000rs2q) Magnitude 5.5 earthquake at 10.0 depth occurred on Jan 26 2026 10km E of Diebu. The epicentre of the earthquake was located at latitude 34.0278 longitude 103.3047. It impacted 30897 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "locn_geometry": "ENVELOPE(73.68, 135.03, 53.46, 18.2)",
+  "dcat_bbox": "ENVELOPE(73.68, 135.03, 53.46, 18.2)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/chn-earthquake-sm-us7000rs2q\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/2a25c052-a13f-4150-a5ff-b23624f55762/resource/664d184c-1887-4176-b19d-1399ed0d8074/download/chn_wfpadam_earthquake_20260126.geojson\"}"
+}

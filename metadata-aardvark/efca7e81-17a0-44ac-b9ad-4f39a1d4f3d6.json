@@ -1,0 +1,43 @@
+{
+  "id": "hdx-efca7e81-17a0-44ac-b9ad-4f39a1d4f3d6",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T03:07:34Z",
+  "dct_title_s": "Ecuador - Earthquake on Apr 21 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000srr2](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000srr2) Magnitude 5.4 earthquake at 118.545 depth occurred on Apr 21 2026 25km W of Ibarra. The epicentre of the earthquake was located at latitude 0.3666 longitude -78.3421. It impacted 360812 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Ecuador"
+  ],
+  "locn_geometry": "ENVELOPE(-80.97, -75.23, 1.38, -4.96)",
+  "dcat_bbox": "ENVELOPE(-80.97, -75.23, 1.38, -4.96)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/ecu-earthquake-sm-us6000srr2\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/efca7e81-17a0-44ac-b9ad-4f39a1d4f3d6/resource/ed65d689-6b44-4566-861f-bdb09c3ba465/download/ecu_wfpadam_earthquake_20260421.geojson\"}"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "hdx-af036263-1c9d-4bb6-923a-32fd75f45e88",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T02:46:00Z",
+  "dct_title_s": "Russian Federation - Earthquake on Feb 15 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000pdvt](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000pdvt) Magnitude 5.7 earthquake at 10.0 depth occurred on Feb 15 2025 26 km W of Kosh-Agach, Russia. The epicentre of the earthquake was located at latitude 49.9839 longitude 88.3027. It impacted 7197 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Russian Federation"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 81.25, 41.15)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 81.25, 41.15)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/rus-earthquake-sm-us7000pdvt\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/af036263-1c9d-4bb6-923a-32fd75f45e88/resource/e78db1cf-ad52-491d-b496-32610ada1537/download/rus_wfpadam_earthquake_20250215.geojson\"}"
+}

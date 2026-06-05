@@ -1,0 +1,41 @@
+{
+  "id": "hdx-4422ebfe-4dc3-472a-b709-b1074290eb09",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-02-26T07:07:00Z",
+  "dct_title_s": "Somalia: Google Building Footprints",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This large-scale open dataset consists of outlines of buildings derived from high-resolution 50 cm satellite imagery. It contains 1.8B building detections in Africa, Latin America, Caribbean, South Asia and Southeast Asia. The inference spanned an area of 58M km² and was carried out during May 2023. Each building in this dataset includes a polygon describing its footprint size on the ground and a confidence score indicating how sure this is a building. There is no information about the type of building, its street address, or any details other than its geometry. The HDX team curates these datasets at [Google Open Buildings (by HDX)](https://data.humdata.org/organization/google-open-buildings) using international boundaries from the UN Geospatial Hub. For more details, see the official website of the [Open Buildings dataset](https://sites.research.google/gr/open-buildings/)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Google Earth imagery"
+  ],
+  "dcat_keyword_sm": [
+    "facilities-infrastructure",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "facilities-infrastructure",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Somalia"
+  ],
+  "locn_geometry": "ENVELOPE(40.98, 51.13, 12.02, -1.68)",
+  "dcat_bbox": "ENVELOPE(40.98, 51.13, 12.02, -1.68)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/buildings-google-som\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/4422ebfe-4dc3-472a-b709-b1074290eb09/resource/f61bbd18-352f-469f-8ef3-2be4f38390ad/download/som_buildings.gdb.zip\"}"
+}

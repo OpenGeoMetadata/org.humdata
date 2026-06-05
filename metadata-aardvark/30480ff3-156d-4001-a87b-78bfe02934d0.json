@@ -1,0 +1,43 @@
+{
+  "id": "hdx-30480ff3-156d-4001-a87b-78bfe02934d0",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T02:46:44Z",
+  "dct_title_s": "Ethiopia - Earthquake on Jan 03 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000phnz](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000phnz) Magnitude 5.5 earthquake at 10.0 depth occurred on Jan 03 2025 30km NW of Asebot. The epicentre of the earthquake was located at latitude 9.2986 longitude 40.4246. It impacted 459121 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Ethiopia"
+  ],
+  "locn_geometry": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dcat_bbox": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eth-earthquake-sm-us6000phnz\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/30480ff3-156d-4001-a87b-78bfe02934d0/resource/e1a83e5a-b3ae-4d84-8bef-901226f7ca8a/download/eth_wfpadam_earthquake_20250103.geojson\"}"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hdx-e45a3d87-79f8-4d7f-bd22-7ce908e42c2a",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-04T15:38:36Z",
+  "dct_title_s": "Public Hospitals in Myanmar",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Approximate centre point location dataset of public hospitals/hospital grounds in Myanmar as of 2020. Produced by CDE Myanmar based on publicly available reference lists and local knowledge and improving geographic coordinates using mostly large scale satellite/google satellite. Spatial dataset created based on 1:5.000 - 1:2.000 scaled imagery. Smaller facilities often only be village location or best guess hospital-like looking features near the original coordinate/settlement. Original dataset title: Public Hospitals in Myanmar as of 2020"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Myanmar Information Management Unit (MIMU)"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "health"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "health"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-public-hospitals-in-myanmar\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:health_facilities_myanmar2020_v20241016\"}"
+}

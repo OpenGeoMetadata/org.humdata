@@ -1,0 +1,41 @@
+{
+  "id": "hdx-92d13d49-89e7-4268-9f9b-2ff9931784c2",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-04T15:13:24Z",
+  "dct_title_s": "Myanmar tentative UNESCO World Heritage Sites",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Polygon dataset of all 15 properties considered to be cultural and/or natural heritage of outstanding universal value and submitted by Myanmar for inscription on the World Heritage List. Based on documents from https://whc.unesco.org/en/tentativelists. Approximate geolocation added by CDE Myanmar based on publicly available reference data and local knowledge. Original dataset title: Myanmar tentative UNESCO World Heritage Sites (2020)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Myanmar Information Management Unit (MIMU)"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-myanmar-tentative-unesco-world-heritage-sites\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:myanmar_tentative_unesco_world_heritage_sites_2020\"}"
+}

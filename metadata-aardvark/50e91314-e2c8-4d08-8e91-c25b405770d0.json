@@ -1,0 +1,43 @@
+{
+  "id": "hdx-50e91314-e2c8-4d08-8e91-c25b405770d0",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T03:08:50Z",
+  "dct_title_s": "Guatemala - Earthquake on Nov 28 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000rehl](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000rehl) Magnitude 5.8 earthquake at 148.223 depth occurred on Nov 28 2025 55km NE of Tapachula. The epicentre of the earthquake was located at latitude 15.3705 longitude -92.0886. It impacted 983660 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Guatemala"
+  ],
+  "locn_geometry": "ENVELOPE(-92.23, -88.23, 17.82, 13.74)",
+  "dcat_bbox": "ENVELOPE(-92.23, -88.23, 17.82, 13.74)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/gtm-earthquake-sm-us7000rehl\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/50e91314-e2c8-4d08-8e91-c25b405770d0/resource/a0467ff6-56ed-486f-847e-b209a5ccf8b2/download/gtm_wfpadam_earthquake_20251128.geojson\"}"
+}

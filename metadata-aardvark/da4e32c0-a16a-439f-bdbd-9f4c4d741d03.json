@@ -1,0 +1,41 @@
+{
+  "id": "hdx-da4e32c0-a16a-439f-bdbd-9f4c4d741d03",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-04-23T15:34:06Z",
+  "dct_title_s": "Modelled gridded population estimates for the Haut-Katanga, Haut-Lomami, Ituri, Kasaï, Kasaï Oriental, Lomami and Sud-Kivu provinces in the Democratic Republic of the Congo (2021), version  3.0.",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "These data consist of modelled gridded population estimates produced at a spatial resolution of approximately 100m across the Haut-Katanga, Haut-Lomami, Ituri, Kasaï, Kasaï-Oriental, Lomami and Sud-Kivu provinces in the Democratic Republic of the Congo (DRC). The estimates comprise total population counts created using a Bayesian statistical model and post-hoc breakdowns in 40 age and sex groups. The main input data were derived from a dedicated microcensus survey carried out in the targeted provinces throughout March and April 2021. The microcensus was led by the Flowminder Foundation, the École de Santé Publique de Kinshasa, the WorldPop Research Group at the University of Southampton and the Bureau Central du Recensement, which is part of the Institut National de la Statistique of the DRC. Other essential input data include metrics derived from building footprints, which were automatically delineated by Ecopia.AI in 2021 using satellite imagery collected by Maxar Technologies between 2010 and 2021. The modelled population estimates represent the period of the microcensus but their consistency may be impacted by the accuracy of the building footprints, particularly in the areas where the satellite imagery used for automatic delineation was outdated. These data were produced by the [WorldPop](https://www.worldpop.org/) Research Group at the University of Southampton as part of the [GRID3 ](https://grid3.org/) Mapping for Health Project. This project was delivered under the leadership of the Ministry of Public Health, Hygiene and Prevention of the DRC and funded by Gavi, the Vaccine Alliance (RM 867204 20A2). The project was led by the Flowminder Foundation and the Center for International Earth Science Information Network ([CIESIN](http://www.ciesin.org/)) at Columbia University, in collaboration with the WorldPop Research Group at the University of Southampton and national partners including, but not limited to, the École de Santé Publique de Kinshasa and both the Bureau Central du Recensement and the Institut National de la Statistique. This work was a continuation of the GRID3 (Geo-Referenced Infrastructure and Demographic Data for Development) programme funded by the Bill and Melinda Gates Foundation (BMGF) and the United Kingdom’s Foreign, Commonwealth & Development Office (INV 009579, formerly OPP 1182425). The study was approved by the Faculty Ethics Committee of the University of Southampton (ERGO II 62716). The production of these data was led by Gianluca Boo (WorldPop](https://www.worldpop.org/) ) with support from Roland Hosner (Flowminder Foundation), Pierre Z Akilimali (École de Santé Publique de Kinshasa), Edith Darin (WorldPop), Heather R Chamberlain (WorldPop), Warren C Jochem (WorldPop), Patricia Jones (WorldPop), Roger Shulungu Runika (Institut National de la Statistique), Henri Marie Kazadi Mutombo (Bureau Central du Recensement), Attila N Lazar (WorldPop) and Andrew J Tatem (WorldPop). The authors acknowledge the support of their respective institutions in the completion of this work. __Recommended citation:__ _G Boo, R Hosner, PZ Akilimali, E Darin, HR Chamberlain, WC Jochem, P Jones, R Shulungu Runika, HM Kazadi Mutombo, AN Lazar and AJ Tatem. 2021. Modelled gridded population estimates for the HautKatanga, Haut-Lomami, Ituri, Kasaï, Kasaï-Oriental, Lomami and Sud-Kivu provinces in the Democratic Republic of the Congo (2021), version 3.0. WorldPop, University of Southampton, Flowminder Foundation, École de Santé Publique de Kinshasa, Bureau Central du Recensement and Institut National de la Statistique. doi:10.5258/SOTON/WP00720_"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "GRID3 (Geo-Referenced Infrastructure and Demographic Data for Development)"
+  ],
+  "dcat_keyword_sm": [
+    "baseline population",
+    "demographics",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "baseline population",
+    "demographics",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Democratic Republic of the Congo"
+  ],
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/modelled-gridded-population-estimates-for-cod-version-3-0\",\"http://schema.org/downloadUrl\":\"https://wopr.worldpop.org/download/488\"}"
+}

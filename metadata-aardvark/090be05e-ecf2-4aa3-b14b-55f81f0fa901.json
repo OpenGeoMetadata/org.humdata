@@ -1,0 +1,41 @@
+{
+  "id": "hdx-090be05e-ecf2-4aa3-b14b-55f81f0fa901",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-03-24T14:37:30Z",
+  "dct_title_s": "Satellite detected water extents in north Viet Nam  as of 26 August 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: TC20250826VNM** This map illustrates the satellite detected water extent in Northern part of Viet Nam as observed from Sentinel-1 satellite images acquired on 26 August 2025 at 05:51 local time (22:51 UTC). Within the analyzed area of approximately 74,000 km², about 1,200 km² of land appears to be affected by floodwaters. Based on WorldPop population data and the flood extent, approximately 708,000 people are potentially exposed or living close to the flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to the United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to the backscattering properties of the radar signal"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Viet Nam"
+  ],
+  "locn_geometry": "ENVELOPE(102.17, 109.34, 23.35, 8.6)",
+  "dcat_bbox": "ENVELOPE(102.17, 109.34, 23.35, 8.6)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-water-extents-in-north-viet-nam-as-of-26-august-2025\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/4184/TC20250825VNM_GDB.zip\"}"
+}

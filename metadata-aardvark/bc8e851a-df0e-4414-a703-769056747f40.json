@@ -1,0 +1,41 @@
+{
+  "id": "hdx-bc8e851a-df0e-4414-a703-769056747f40",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-04-19T15:07:32Z",
+  "dct_title_s": "Satellite detected water extents as of 26 and 31 January, and 2 February 2022",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: TC20220126MWI** This map illustrates the floods (cumulative) aggregated using Sentinel-1 images acquired between 26 January and 2 February 2022 about 05:00 local time. The flood analysis were carried out by using automated analysis with an Artificial Intelligence based method, and Worldpop spatial demographic data. About 102,000 people were exposed or living close to flooded areas. The population potentially exposed to floods are mainly located in the districts of Chikwawa with ~ 33,700 people and Nsanje with ~ 33,700 people. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Malawi"
+  ],
+  "locn_geometry": "ENVELOPE(32.69, 35.77, -9.23, -16.8)",
+  "dcat_bbox": "ENVELOPE(32.69, 35.77, -9.23, -16.8)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-water-extents-as-of-26-and-31-january-and-2-february-2022\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/MW/TC20220126MWI/TC20220126MWI_gdb.zip\"}"
+}

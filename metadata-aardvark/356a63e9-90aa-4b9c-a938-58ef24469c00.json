@@ -1,0 +1,47 @@
+{
+  "id": "hdx-356a63e9-90aa-4b9c-a938-58ef24469c00",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-04-24T14:05:57Z",
+  "dct_title_s": "Syrian Arab Republic - Subnational Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Syrian Arab Republic administrative level 0-3 boundaries (COD-AB) dataset version 02. This dataset is structured into 3 levels: - Admin 1: 14 Governorate - Admin 2: 62 District - Admin 3: 272 Sub-district Dates associated with this dataset: - 01 April 2024: dataset reviewed for accuracy and completeness - 17 December 2020: valid for use by the humanitarian community - 01 January 1960: last edit to the dataset before publishing - 01 January 1960: boundaries created by the source Contributed by [OCHA Syria](https://data.humdata.org/organization/ocha-rosc). Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx). Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "United Nations Cartographic Section (UNCS) and partners"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Syrian Arab Republic"
+  ],
+  "locn_geometry": "ENVELOPE(35.7, 42.35, 37.23, 32.31)",
+  "dcat_bbox": "ENVELOPE(35.7, 42.35, 37.23, 32.31)",
+  "dct_temporal_sm": [
+    "2020-2024"
+  ],
+  "gbl_indexYear_im": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-syr\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/356a63e9-90aa-4b9c-a938-58ef24469c00/resource/ab4b6f19-3854-4b2b-8f5c-b5dc474a4c0c/download/syr_admin_boundaries.geojson.zip\"}"
+}

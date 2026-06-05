@@ -1,0 +1,53 @@
+{
+  "id": "hdx-5f800516-d283-47b8-8407-9740ada39eff",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-04-27T14:54:48Z",
+  "dct_title_s": "Tanintharyi Region Forest Cover Change",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Geotiff download link : http://bit.ly/2wq7KFy Metadata download link: http://geonode.themimu.info/documents/26 A Landsat-based classification of forest cover in Tanintharyi Region with a focus on changes in intact forest between 2002 and 2014. This dataset expands upon the Myanmar 2002-2014 Forest Cover Change raster*, by differentiating oil palm plantations from other plantations. Developed by: ALARM, Smithsonian Institution, GMAP and American Museum of Natural History *http://geonode.themimu.info/layers/geonode%3Amyanmar_forestcoverchange See the recommended style file (.txt) in the documents section for associating raster values and creating the legend. Original dataset title: Tanintharyi Region 2002-2014 Forest Cover Change"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Myanmar Information Management Unit (MIMU)"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "topography"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "topography"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2002-2014"
+  ],
+  "gbl_indexYear_im": [
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-tanintharyi-region-forest-cover-change\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:myanmar_forestcoverchange_tanintharyi_1\"}"
+}

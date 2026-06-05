@@ -1,0 +1,41 @@
+{
+  "id": "hdx-cf63b245-3684-4dc7-b303-ee6ba9967c61",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-01-24T16:24:29Z",
+  "dct_title_s": "Estimated precipitation accumulation over Yemen from 20th July to 1st August 2021",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20210729YEM** This map illustrates the estimated total precipitation accumulated over Yemen. The total estimate was derived from the NASA Precipitation Processing System (PPS) dataset at a spatial resolution of approximately 10km and covers the period from 20th July to 1st August 2021. Western Governorates have been predominantly affected by precipitation, with some values greater than 600mm over the 13-day period. It is possible that precipitation levels may have been underestimated for local areas and are not a substitute for ground station measurements. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR-UNOSAT."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Yemen"
+  ],
+  "locn_geometry": "ENVELOPE(42.6, 53.11, 19.0, 12.59)",
+  "dcat_bbox": "ENVELOPE(42.6, 53.11, 19.0, 12.59)",
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/estimated-precipitation-accumulation-over-yemen-from-20th-july-to-1st-august-2021\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/YE/FL20210729YEM/FL20210729YEM_gdb.zip\"}"
+}

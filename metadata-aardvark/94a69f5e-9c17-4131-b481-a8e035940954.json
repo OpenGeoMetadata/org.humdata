@@ -1,0 +1,43 @@
+{
+  "id": "hdx-94a69f5e-9c17-4131-b481-a8e035940954",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T03:09:45Z",
+  "dct_title_s": "China - Earthquake on Oct 09 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000rfs1](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000rfs1) Magnitude 5.6 earthquake at 10.0 depth occurred on Oct 09 2025 210 km N of Daocheng, China. The epicentre of the earthquake was located at latitude 30.9106 longitude 99.939. It impacted 39846 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "locn_geometry": "ENVELOPE(73.68, 135.03, 53.46, 18.2)",
+  "dcat_bbox": "ENVELOPE(73.68, 135.03, 53.46, 18.2)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/chn-earthquake-sm-us6000rfs1\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/94a69f5e-9c17-4131-b481-a8e035940954/resource/701fc4b0-4d03-4792-98ff-4c3bb0088b19/download/chn_wfpadam_earthquake_20251009.geojson\"}"
+}

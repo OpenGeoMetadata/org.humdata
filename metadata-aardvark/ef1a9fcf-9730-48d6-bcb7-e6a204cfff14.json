@@ -1,0 +1,43 @@
+{
+  "id": "hdx-ef1a9fcf-9730-48d6-bcb7-e6a204cfff14",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-04-13T15:33:33Z",
+  "dct_title_s": "Myanmar Monsoon Rice Sown Area_v1",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Rice sown area estimation from Sentinel-1 SAR and Sentinel-2 optical images using Random Forest Machine Learning method. The map should be used in association with the sample based area estimation. Area estimation data (95% CI) can be access @https://data.humdata.org/dataset/myanmar-state-region-level-monsoon-season-rice-sown-estimation-for-2021-2023. Original dataset title: Myanmar Monsoon Rice Sown Area 2023_v1"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Myanmar Information Management Unit (MIMU)"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "livelihoods",
+    "topography"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "livelihoods",
+    "topography"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-myanmar-monsoon-rice-sown-area-v1\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:msrice_myanmar_2023_1\"}"
+}

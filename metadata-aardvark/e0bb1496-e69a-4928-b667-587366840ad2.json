@@ -1,0 +1,43 @@
+{
+  "id": "hdx-e0bb1496-e69a-4928-b667-587366840ad2",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-07T12:40:40Z",
+  "dct_title_s": "Armenia: Population Density for 400m H3 Hexagons",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Armenia population density for 400m H3 hexagons. Built from [Kontur Population: Global Population Density for 400m H3 Hexagons](https://data.humdata.org/dataset/kontur-population-dataset) Vector H3 hexagons with population counts at 400m resolution. Fixed up fusion of GHSL, Facebook, Microsoft Buildings, Copernicus Global Land Service Land Cover, Land Information New Zealand, and OpenStreetMap data."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "kontur"
+  ],
+  "dcat_keyword_sm": [
+    "baseline population",
+    "geodata",
+    "population"
+  ],
+  "dct_subject_sm": [
+    "baseline population",
+    "geodata",
+    "population"
+  ],
+  "dct_spatial_sm": [
+    "Armenia"
+  ],
+  "locn_geometry": "ENVELOPE(43.58, 46.51, 41.25, 38.74)",
+  "dcat_bbox": "ENVELOPE(43.58, 46.51, 41.25, 38.74)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-armenia\",\"http://schema.org/downloadUrl\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_AM_20220630.gpkg.gz\"}"
+}

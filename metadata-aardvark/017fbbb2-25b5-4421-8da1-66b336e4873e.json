@@ -1,0 +1,41 @@
+{
+  "id": "hdx-017fbbb2-25b5-4421-8da1-66b336e4873e",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-04T14:10:29Z",
+  "dct_title_s": "Kayah State Village Tract Boundaries MIMU v9.4",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Polygons of Village Tract boundaries (Admin4) for the Kayah State, based on the latest MIMU Pcode version 9.4 . Place names from General Administration Department (GAD), are available in Myanmar Unicode. Transliteration in roman script by MIMU. Place names are in line with the general cartographic practice to reflect the names of such places as designated by the host governments. The United Nations encourages authorities to review place names which include terms that may be viewed or perceived as derogatory."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Myanmar Information Management Unit (MIMU)"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-kayah-state-village-tract-boundaries-mimu\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_kyh_polbnda_adm4_250k_mimu_1\"}"
+}

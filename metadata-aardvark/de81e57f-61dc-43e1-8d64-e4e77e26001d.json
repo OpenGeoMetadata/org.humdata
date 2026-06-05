@@ -1,0 +1,41 @@
+{
+  "id": "hdx-de81e57f-61dc-43e1-8d64-e4e77e26001d",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-01-29T17:28:46Z",
+  "dct_title_s": "Namibia - Contour Lines",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Countour Lines at 100m Intervals. Interpolated (using a kriging interpolator) from a 30 second grid DTM. Grid cell size was set to 500m. The shapefile was produced directly from the grid using elevation intervals of 100m. Positional Accuracy: Interpolated from 1km grid. DTM originally obtained from Geo Business Solutions. Zip file includes elevation and relief, Namibia borders and settlements shapefiles, and detail metadata."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Atlas of Namibia, Geo Business Solutions"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "topography"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "topography"
+  ],
+  "dct_spatial_sm": [
+    "Namibia"
+  ],
+  "locn_geometry": "ENVELOPE(11.73, 25.08, -16.94, -29.05)",
+  "dcat_bbox": "ENVELOPE(11.73, 25.08, -16.94, -29.05)",
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "gbl_indexYear_im": [
+    2001
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/namibia-contour-lines\",\"http://schema.org/downloadUrl\":\"https://www.uni-koeln.de/sfb389/e/e1/download/atlas_namibia/data/physical/ph_elevations_and_relief_in_namibia.zip\"}"
+}

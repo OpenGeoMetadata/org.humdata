@@ -1,0 +1,41 @@
+{
+  "id": "hdx-774bb5d5-889e-4ec8-bfee-2abf1435155b",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-04T14:48:38Z",
+  "dct_title_s": "Industrial Zones, Special Economic Zones (SEZ) and Other Economic Development Areas in Myanmar (Point)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Dataset of approximate location of >100 industrial zones, Special Economic Zones (SEZ) and other economic development areas in Myanmar. Based on publicly available reference data and google satellite by CDE Myanmar and MIMU. Location data is non-authoritative and based on publicly available reference data and local knowledge. Masterdata in excel and location shapefiles (point and polygon). ArcGIS tool to combine, filter and export a cleaned product for public sharing. Known issues: - area/polygon data only available for approx. 50% of industrial/economic zones. - location is non-authoritative as based on scan maps, google imagery and other reference data and maps and local knowledge. - some zones might be sub-zones or parts of a larger zone. - year of establishment and \"official notified\" area information only available for some zones (based on AungMinKudo2012_IZMyanmar.pdf) - Pyay Industrial Zone and Pathein Industrial SME Zone (listed in FMR 2019 report) not included in dataset as no location data available for those 2 IZs Spatial dataset created based on reference maps of various scales matching with Google Satellite. ~ 1:25.000"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Myanmar Information Management Unit (MIMU)"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-industrial-zones-special-economic-zones-sez-and-other-economic-development-ar\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mm_izez_cde_v20240911_pt\"}"
+}

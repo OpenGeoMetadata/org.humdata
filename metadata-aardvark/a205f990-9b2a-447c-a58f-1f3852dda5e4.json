@@ -1,0 +1,101 @@
+{
+  "id": "hdx-a205f990-9b2a-447c-a58f-1f3852dda5e4",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-05T17:43:58Z",
+  "dct_title_s": "Africa - CDI based on ERA5 Precipitation",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This version of the Combined Drought Indicator (CDI) utilizes ERA5 reanalysis data as the primary input for the precipitation component (SPI), rather than gauge-only or other satellite-blended products. ERA5, produced by ECMWF, offers comprehensive spatial coverage and temporal consistency, making it valuable for regions where gauge networks are failing or sparse. Like the standard CDI, this dataset synthesizes rainfall deficits (via ERA5), soil moisture anomalies, and vegetation stress into a single classification system to monitor the evolution of drought episodes."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "African Center of Meteorological Applications for Development (ACMAD)"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "climate-weather",
+    "drought",
+    "hazards and risk"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "climate-weather",
+    "drought",
+    "hazards and risk"
+  ],
+  "dct_spatial_sm": [
+    "Algeria",
+    "Angola",
+    "Benin",
+    "Botswana",
+    "Burkina Faso",
+    "Burundi",
+    "Cabo Verde",
+    "Cameroon",
+    "Central African Republic",
+    "Chad",
+    "Comoros",
+    "Congo",
+    "Côte d'Ivoire",
+    "Democratic Republic of the Congo",
+    "Djibouti",
+    "Egypt",
+    "Equatorial Guinea",
+    "Eritrea",
+    "Eswatini",
+    "Ethiopia",
+    "Gabon",
+    "Gambia",
+    "Ghana",
+    "Guinea",
+    "Guinea-Bissau",
+    "Kenya",
+    "Lesotho",
+    "Liberia",
+    "Libya",
+    "Madagascar",
+    "Malawi",
+    "Mali",
+    "Mauritania",
+    "Mauritius",
+    "Morocco",
+    "Mozambique",
+    "Namibia",
+    "Niger",
+    "Nigeria",
+    "Rwanda",
+    "Sao Tome and Principe",
+    "Senegal",
+    "Seychelles",
+    "Sierra Leone",
+    "Somalia",
+    "South Africa",
+    "South Sudan",
+    "Sudan",
+    "Togo",
+    "Tunisia",
+    "Uganda",
+    "United Republic of Tanzania",
+    "Western Sahara",
+    "Zambia",
+    "Zimbabwe"
+  ],
+  "locn_geometry": "ENVELOPE(-17.63, 51.13, 37.35, -34.82)",
+  "dcat_bbox": "ENVELOPE(-17.63, 51.13, 37.35, -34.82)",
+  "dct_temporal_sm": [
+    "2024-2026"
+  ],
+  "gbl_indexYear_im": [
+    2024,
+    2025,
+    2026
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/acmad-combined-drought-indicator-era5\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/a205f990-9b2a-447c-a58f-1f3852dda5e4/resource/a113bee7-e59d-4cde-8269-00284a19d1e2/download/f73285d3-ea8e-4ef9-9eb4-cda786f898e3\"}"
+}

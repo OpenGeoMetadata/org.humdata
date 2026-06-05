@@ -1,0 +1,111 @@
+{
+  "id": "hdx-2d5549cf-693d-4392-8239-b59a91412743",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-05T17:43:50Z",
+  "dct_title_s": "Africa - Fraction of Absorbed Photosynthetically Active Radiation (fAPAR) Absolute Values",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains the absolute values of the Fraction of Absorbed Photosynthetically Active Radiation (fAPAR). While anomalies show deviations from the norm, these absolute values provide a direct measure of the current state of vegetation density and health. It represents the fraction of incoming solar radiation in the photosynthetically active spectrum that is absorbed by the canopy, ranging theoretically from 0 (bare soil) to 1 (dense, healthy vegetation). Absolute fAPAR is crucial for initializing crop growth models, estimating net primary productivity (NPP), and monitoring the phenological development of crops and natural vegetation throughout the growing season."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "African Center of Meteorological Applications for Development (ACMAD)"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "climate-weather",
+    "drought",
+    "hazards and risk"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "climate-weather",
+    "drought",
+    "hazards and risk"
+  ],
+  "dct_spatial_sm": [
+    "Algeria",
+    "Angola",
+    "Benin",
+    "Botswana",
+    "Burkina Faso",
+    "Burundi",
+    "Cabo Verde",
+    "Cameroon",
+    "Central African Republic",
+    "Chad",
+    "Comoros",
+    "Congo",
+    "Côte d'Ivoire",
+    "Democratic Republic of the Congo",
+    "Djibouti",
+    "Egypt",
+    "Equatorial Guinea",
+    "Eritrea",
+    "Eswatini",
+    "Ethiopia",
+    "Gabon",
+    "Gambia",
+    "Ghana",
+    "Guinea",
+    "Guinea-Bissau",
+    "Kenya",
+    "Lesotho",
+    "Liberia",
+    "Libya",
+    "Madagascar",
+    "Malawi",
+    "Mali",
+    "Mauritania",
+    "Mauritius",
+    "Morocco",
+    "Mozambique",
+    "Namibia",
+    "Niger",
+    "Nigeria",
+    "Rwanda",
+    "Sao Tome and Principe",
+    "Senegal",
+    "Seychelles",
+    "Sierra Leone",
+    "Somalia",
+    "South Africa",
+    "South Sudan",
+    "Sudan",
+    "Togo",
+    "Tunisia",
+    "Uganda",
+    "United Republic of Tanzania",
+    "Western Sahara",
+    "Zambia",
+    "Zimbabwe"
+  ],
+  "locn_geometry": "ENVELOPE(-17.63, 51.13, 37.35, -34.82)",
+  "dcat_bbox": "ENVELOPE(-17.63, 51.13, 37.35, -34.82)",
+  "dct_temporal_sm": [
+    "2012-2024"
+  ],
+  "gbl_indexYear_im": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/acmad-fapar-absorbed\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/2d5549cf-693d-4392-8239-b59a91412743/resource/ecb9f205-198e-4a2a-acb0-142e9e60e397/download/a0b76c76-7b24-4e43-b600-aeddb958255b\"}"
+}

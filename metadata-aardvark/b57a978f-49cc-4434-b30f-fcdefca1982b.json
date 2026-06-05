@@ -1,0 +1,43 @@
+{
+  "id": "hdx-b57a978f-49cc-4434-b30f-fcdefca1982b",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-05-22T03:07:44Z",
+  "dct_title_s": "Afghanistan - Earthquake on Apr 03 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000smda](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000smda) Magnitude 5.8 earthquake at 186.371 depth occurred on Apr 03 2026 7km NE of Yamgan. The epicentre of the earthquake was located at latitude 36.5479 longitude 70.852. It impacted 164009 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Afghanistan"
+  ],
+  "locn_geometry": "ENVELOPE(60.53, 75.16, 38.49, 29.32)",
+  "dcat_bbox": "ENVELOPE(60.53, 75.16, 38.49, 29.32)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/afg-earthquake-sm-us6000smda\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/b57a978f-49cc-4434-b30f-fcdefca1982b/resource/562da5b1-a9d0-481d-b09c-89353c526968/download/afg_wfpadam_earthquake_20260403.geojson\"}"
+}

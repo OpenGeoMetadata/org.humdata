@@ -1,0 +1,41 @@
+{
+  "id": "hdx-e52dc596-a6af-405f-9f53-16dcbb38643d",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-02-18T05:01:02Z",
+  "dct_title_s": "Floodwater Depth  in Saint-Louis and Matam Regions, Senegal  as of 23 October 2024",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20241022SEN** This map illustrates floodwater depth in in Saint-Louis and Matam Regions, Senegal observed from VIIRS flood depth data as of 23 October 2024. Important note: This map is prepared with a 30-m VIIRS satellite-derived Floodwater Depth product. It has been downscaled with software that uses VIIRS daily composite flood products at 375-m resolution as a basis. Products are under development and processed in near real-time at the Cooperative Institute for Meteorological Satellite Studies (CIMSS). This is a preliminary analysis intended to be used for guidance purposes and has yet to be validated with ground truth data. Please send field observations to United Nations Satellite Centre (UNOSAT)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Senegal"
+  ],
+  "locn_geometry": "ENVELOPE(-17.63, -11.47, 16.6, 12.33)",
+  "dcat_bbox": "ENVELOPE(-17.63, -11.47, 16.6, 12.33)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/floodwater-depth-in-saint-louis-and-matam-regions-senegal-as-of-23-october-2024\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/4008/FL20241022SEN_gdb.zip\"}"
+}

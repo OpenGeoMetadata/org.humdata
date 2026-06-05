@@ -1,0 +1,45 @@
+{
+  "id": "hdx-8602aea9-825d-42a3-8573-6defd3c863f0",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-03-09T22:22:56Z",
+  "dct_title_s": "United Republic of Tanzania Motorised Travel Time (in seconds) to nearest health centre",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "A 100 m spatial resolution geotiff of motorised travel time in seconds to nearest health facility in United Republic of Tanzania. The data was generated using the Child Poverty and Access to Services (CPAS) software (10.5281/zenodo.4638563) and was created as part of the CPAS project within the Data for Children Collaborative. The travel time is calculated assuming driving speeds of local public transport options on all-weather roads/asphalt roads and walking speeds on all other roads, tracks, paths and land cover types. A full description is available [here](https://doi.org/10.1038/s41597-022-01274-w) a video description of the data is also available [here](https://www.dataforchildrencollaborative.com/outputs/presentation-a-100m-resolution-travel-time-map) Projection system is: GCS_WGS_1984 EPSG 4326 for all"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Data for Children Collaborative"
+  ],
+  "dcat_keyword_sm": [
+    "africa",
+    "geodata",
+    "health facilities",
+    "transportation"
+  ],
+  "dct_subject_sm": [
+    "africa",
+    "geodata",
+    "health facilities",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "United Republic of Tanzania"
+  ],
+  "locn_geometry": "ENVELOPE(29.34, 40.32, -0.95, -11.72)",
+  "dcat_bbox": "ENVELOPE(29.34, 40.32, -0.95, -11.72)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/united-republic-of-tanzania-motorised-travel-time-in-seconds-to-nearest-health-centre\",\"http://schema.org/downloadUrl\":\"https://s3.eidf.ac.uk/eidf158-motorised-travel-time-maps/service_area_Tanzania_mot.tif\"}"
+}

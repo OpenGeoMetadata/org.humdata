@@ -2,17 +2,32 @@ require 'net/http'
 require 'json'
 require 'time'
 require 'fileutils'
+require 'securerandom'
 require_relative 'mapper'
 
 class Harvester
   HDX_API_URL = "https://data.humdata.org/api/3/action/package_search"
   BATCH_SIZE = 1000
+
+  # Default paths for production datastores
   STATE_FILE = "state.json"
   HDX_METADATA_DIR = "metadata-hdx"
   AARDVARK_METADATA_DIR = "metadata-aardvark"
 
-  def self.run
-    new.run
+  def self.run(state_file: STATE_FILE, hdx_metadata_dir: HDX_METADATA_DIR, aardvark_metadata_dir: AARDVARK_METADATA_DIR)
+    new(
+      state_file: state_file,
+      hdx_metadata_dir: hdx_metadata_dir,
+      aardvark_metadata_dir: aardvark_metadata_dir
+    ).run
+  end
+
+  attr_reader :state_file, :hdx_metadata_dir, :aardvark_metadata_dir
+
+  def initialize(state_file: STATE_FILE, hdx_metadata_dir: HDX_METADATA_DIR, aardvark_metadata_dir: AARDVARK_METADATA_DIR)
+    @state_file = state_file
+    @hdx_metadata_dir = hdx_metadata_dir
+    @aardvark_metadata_dir = aardvark_metadata_dir
   end
 
   def run
@@ -23,9 +38,11 @@ class Harvester
     last_run_str = last_run.strftime('%Y-%m-%dT%H:%M:%SZ')
     fq = "metadata_modified:[#{last_run_str} TO *]"
 
-    all_datasets = []
     start = 0
     total_count = 0
+    total_fetched_count = 0
+    processed_count = 0
+    current_time = Time.now.utc
 
     loop do
       batch, count = fetch_datasets(fq: fq, start: start)
@@ -35,39 +52,36 @@ class Harvester
       page_number = (start / BATCH_SIZE) + 1
       puts "Fetching page #{page_number} of #{total_count}"
 
-      all_datasets.concat(batch)
+      total_fetched_count += batch.size
+
+      batch.each do |dataset|
+        # Filter by modified date
+        modified_date_str = dataset['metadata_modified']
+        next unless modified_date_str
+
+        modified_date = Time.parse(modified_date_str).utc
+        next unless modified_date > last_run
+
+        # Use the ID for file naming
+        id = dataset['id'] || dataset['name'] || "unknown_#{SecureRandom.hex(4)}"
+
+        # Save original
+        save_metadata(@hdx_metadata_dir, id, dataset)
+
+        # Map and save Aardvark
+        aardvark_data = Mapper.map(dataset)
+        save_metadata(@aardvark_metadata_dir, id, aardvark_data)
+
+        processed_count += 1
+        puts "Processed #{id}"
+      end
+
       start += BATCH_SIZE
-
-      break if all_datasets.size >= total_count && total_count > 0
+      break if start >= total_count
     end
 
-    puts "Fetched #{all_datasets.size} datasets from HDX."
-    exit if all_datasets.empty?
-
-    processed_count = 0
-    current_time = Time.now.utc
-
-    all_datasets.each do |dataset|
-      # Filter by modified date
-      modified_date_str = dataset['metadata_modified']
-      next unless modified_date_str
-
-      modified_date = Time.parse(modified_date_str).utc
-      next unless modified_date > last_run
-
-      # Use the ID for file naming
-      id = dataset['id'] || dataset['name'] || "unknown_#{SecureRandom.hex(4)}"
-
-      # Save original
-      save_metadata(HDX_METADATA_DIR, id, dataset)
-
-      # Map and save Aardvark
-      aardvark_data = Mapper.map(dataset)
-      save_metadata(AARDVARK_METADATA_DIR, id, aardvark_data)
-
-      processed_count += 1
-      puts "Processed #{id}"
-    end
+    puts "Fetched #{total_fetched_count} datasets from HDX."
+    exit if total_fetched_count == 0
 
     puts "Processed #{processed_count} new datasets."
     update_last_run(current_time)
@@ -76,8 +90,8 @@ class Harvester
   private
 
   def load_last_run
-    if File.exist?(STATE_FILE)
-      data = JSON.parse(File.read(STATE_FILE))
+    if File.exist?(@state_file)
+      data = JSON.parse(File.read(@state_file))
       Time.parse(data['last_run']).utc
     else
       Time.parse("2024-01-01T00:00:00Z").utc
@@ -88,13 +102,13 @@ class Harvester
   end
 
   def update_last_run(time)
-    File.write(STATE_FILE, JSON.pretty_generate({ last_run: time.strftime('%Y-%m-%dT%H:%M:%SZ') }))
+    File.write(@state_file, JSON.pretty_generate({ last_run: time.strftime('%Y-%m-%dT%H:%M:%SZ') }))
     puts "Updated state file with: #{time.strftime('%Y-%m-%dT%H:%M:%SZ')}"
   rescue StandardError => e
     puts "Error updating state file: #{e.message}"
   end
 
-    def fetch_datasets(fq: nil, start: 0)
+  def fetch_datasets(fq: nil, start: 0)
     params = {
       "q" => "has_geodata:true",
       "rows" => BATCH_SIZE,

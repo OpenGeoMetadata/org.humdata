@@ -38,3 +38,11 @@ ruby convert.rb metadata-hdx/*.json
 ```
 
 Output files are written to `metadata-aardvark/` with the same filename as the corresponding input file.
+
+## Testing
+
+To run the test suite:
+
+```bash
+ruby harvester_spec.rb
+```

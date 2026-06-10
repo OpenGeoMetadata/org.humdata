@@ -1,0 +1,33 @@
+name: Weekly Harvest
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every Monday
+    - cron: "0 0 * * 1"
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  run-rake-task:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "4.0"
+
+      - name: Run rake task
+        run: gem install nokogiri && ruby harvester.rb
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add metadata-hdx/ metadata-aardvark/ state.json
+          git diff --staged --quiet || git commit -m "Auto-update from weekly harvest"
+          git push

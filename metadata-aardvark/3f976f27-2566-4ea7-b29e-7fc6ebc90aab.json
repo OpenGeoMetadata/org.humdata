@@ -1,0 +1,39 @@
+{
+  "id": "hdx-3f976f27-2566-4ea7-b29e-7fc6ebc90aab",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-04-09T00:30:51Z",
+  "dct_title_s": "World Port Index",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "The World Port Index shows locations, physical characteristics, facilities, and services offered by major ports around the world. This dataset is created by the Maritime Security Office of the National Geospatial-Intelligence Agency (NGA) to document the locations and features of major ports around the world. The Maritime Security Office requests that mariners send it corrections in plain language, which the office subsequently codes to create a consistent record of port facilities."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OCHA ROLAC"
+  ],
+  "dcat_keyword_sm": [
+    "ports"
+  ],
+  "dct_subject_sm": [
+    "ports"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "gbl_indexYear_im": [
+    2019
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/world-port-index\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/3f976f27-2566-4ea7-b29e-7fc6ebc90aab/resource/060abaf3-8c9f-4df4-b7e3-5335a15c6247/download/world_port_index.zip\"}"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hdx-7f101c89-0546-41fe-ba8b-51338f58db5a",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-21T15:43:58Z",
+  "dct_title_s": "Satellite detected waters extents, as of 4 March 2020 over  Central, Luapula, Muchinga and Northern Province, Zambia",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20200305ZMB** This map illustrates satellite-detected waters in Chitambo, Lunga, Samfya, Lavushimanda and Chilubi District; Central, Luapula, Muchinga and Northern Province of Zambia as observed from Sentinel-1 imagery acquired on 4 March 2020. Within the analysed area of 10,000 km2, a total of about 705 km2 of land appear to be flooded. Based on Worldpop population data and the detected surface waters, about 7,000 people are potentially exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITARUNOSAT."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Zambia"
+  ],
+  "locn_geometry": "ENVELOPE(21.89, 33.49, -8.24, -17.96)",
+  "dcat_bbox": "ENVELOPE(21.89, 33.49, -8.24, -17.96)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/waters-extents-as-of-4-march-2020-over-central-luapula-muchinga-and-northern-province-zamb\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/unosat-maps/ZM/FL20200305ZMB/FL20200305ZMB_gdb.zip\"}"
+}

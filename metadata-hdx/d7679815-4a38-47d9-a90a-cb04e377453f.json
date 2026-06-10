@@ -1,0 +1,123 @@
+{
+  "archived": true,
+  "batch": "8e385b7b-e2e8-486b-994c-237265b11bc1",
+  "creator_user_id": "e780fabb-29f0-4c65-92a9-ed8896f7faf6",
+  "data_update_frequency": "-1",
+  "dataset_date": "[2015-11-13T00:00:00 TO 2015-11-13T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "FAO SWALIM",
+  "has_geodata": true,
+  "has_showcases": true,
+  "id": "d7679815-4a38-47d9-a90a-cb04e377453f",
+  "is_requestdata_type": false,
+  "isopen": false,
+  "last_modified": "2015-12-18T12:17:21.804127",
+  "license_id": "other-pd-nr",
+  "license_title": "Public Domain / No restrictions (CC0)",
+  "maintainer": "7d7f5f8d-7e3b-483a-8de1-2b122010c1eb",
+  "metadata_created": "2015-12-18T08:50:23.646310",
+  "metadata_modified": "2024-12-02T12:01:24.132430",
+  "methodology": "Sample Survey",
+  "name": "somalia-reported-flooded-areas",
+  "notes": "Dataset shows the reported flooded Areas in Somalia",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "id": "98b7d5e1-2614-4bba-ba83-e2ffcab792d1",
+    "name": "fao-swalim",
+    "title": "FAO SWALIM (inactive)",
+    "type": "organization",
+    "description": "Two decades of civil strife in Somalia resulted in the loss or damage of most of the water and land-related information collected over the previous half century. To alleviate the critical shortage of water and land information, a group of interested stakeholders decided together with Somali authorities that a new overview of these resources was needed, in the form of datasets based on structured, up-to-date and location-specific observations and measurements. The result was SWALIM.\r\n\r\nSWALIM, the Somalia Water and Land Information Management project, is an information management program, technically managed by the Food and Agriculture Organisation of the United Nations (FAO) in Somalia and funded by the European Union (EU), the United Nations Children's Fund (UNICEF) and the Common Humanitarian Fund (CHF). SWALIM serves Somali government institutions, non-governmental organizations (NGOs), development agencies and UN bodies engaged in assisting Somali communities whose lives and livelihoods depend directly on water and land resources. The program aims to provide high quality water and land information, crucial to relief, rehabilitation and development initiatives in Somalia, in order to support sustainable water and land resources development and management.",
+    "image_url": "",
+    "created": "2015-07-07T17:57:57.016928",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "98b7d5e1-2614-4bba-ba83-e2ffcab792d1",
+  "package_creator": "marindi",
+  "pageviews_last_14_days": 1,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Somalia\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Somalia - Reported Flooded areas",
+  "total_res_downloads": 75,
+  "type": "dataset",
+  "updated_by_script": "HDXPythonLibrary/5.4.8-test (2022-01-04T21:33:45.178924)",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Somalia",
+      "id": "som",
+      "image_display_url": "",
+      "name": "som",
+      "title": "Somalia"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/d7679815-4a38-47d9-a90a-cb04e377453f/resource/1034e06b-53a9-4af6-a0f8-68cb517b4ed1/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2015-12-18T08:50:54.718498",
+      "datastore_active": false,
+      "description": "",
+      "download_url": "https://data.humdata.org/dataset/d7679815-4a38-47d9-a90a-cb04e377453f/resource/1034e06b-53a9-4af6-a0f8-68cb517b4ed1/download/shp.zip",
+      "format": "SHP",
+      "hash": "",
+      "hdx_rel_url": "/dataset/d7679815-4a38-47d9-a90a-cb04e377453f/resource/1034e06b-53a9-4af6-a0f8-68cb517b4ed1/download/shp.zip",
+      "id": "1034e06b-53a9-4af6-a0f8-68cb517b4ed1",
+      "last_modified": "2015-12-18T12:17:21.804127",
+      "metadata_modified": "2023-03-02T23:28:29.904587",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "shp.zip",
+      "package_id": "d7679815-4a38-47d9-a90a-cb04e377453f",
+      "position": 0,
+      "resource_type": "file.upload",
+      "resource_uploader": "marindi",
+      "shape_info": "{\"state\": \"success\", \"error_class\": \"None\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}, {\"field_name\": \"name\", \"data_type\": \"character varying\"}, {\"field_name\": \"pcode\", \"data_type\": \"character varying\"}, {\"field_name\": \"region\", \"data_type\": \"character varying\"}, {\"field_name\": \"district\", \"data_type\": \"character varying\"}, {\"field_name\": \"source\", \"data_type\": \"character varying\"}, {\"field_name\": \"x_coord\", \"data_type\": \"character varying\"}, {\"field_name\": \"y_coord\", \"data_type\": \"character varying\"}], \"layer_id\": \"pre_1034e06b_53a9_4af6_a0f8_68cb517b4ed1\", \"message\": \"Import successful\", \"error_type\": \"None\", \"bounding_box\": \"BOX(40.9329032897949 0.0691599994897842,50.737234431935 11.9590226281626)\"}",
+      "size": 8232,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/d7679815-4a38-47d9-a90a-cb04e377453f/resource/1034e06b-53a9-4af6-a0f8-68cb517b4ed1/download/shp.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "el nino-el nina",
+      "id": "5da3914b-3c97-4093-abf9-bfaad4ff4c1c",
+      "name": "el nino-el nina",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "flooding",
+      "id": "532eacf2-7b8c-4dd5-baf7-c25720cadb38",
+      "name": "flooding",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "water sanitation and hygiene-wash",
+      "id": "5a4f7135-daaf-4c82-985f-e0bb443fdb94",
+      "name": "water sanitation and hygiene-wash",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "hdx-a9d1996e-a265-485d-aa9c-c65817c2204c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-22T15:12:33Z",
+  "dct_title_s": "Ethiopia: NDVI Anomaly",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "NDVI Anomaly is a geospatial metric used to measure how current vegetation conditions deviate from what is considered \"normal\" or average for a specific location and time period. It helps identify abnormal vegetation growth, whether better or worse than expected, and is especially valuable in agriculture, drought monitoring, food security, and environmental management. The dataset used for this analysis is the MOD13Q1 V6.1 product, which provides a Vegetation Index (VI) value on a per-pixel basis. For this study, we used MODIS data from July for the past three years, along with historical data spanning from 2010 to 2020."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "MODIS"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "disaster risk reduction-drr",
+    "drought",
+    "environment"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "disaster risk reduction-drr",
+    "drought",
+    "environment"
+  ],
+  "dct_spatial_sm": [
+    "Ethiopia"
+  ],
+  "locn_geometry": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dcat_bbox": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/ethiopia-ndvi-anomaly-july-2025\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/a9d1996e-a265-485d-aa9c-c65817c2204c/resource/d52ec573-bc7f-4204-ab19-4cb456f114fb/download/ndvi_anomaly_ethiopia_202507.tif\"}"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hdx-f0526c5b-8d03-4d4b-a596-a72ef1bf12ce",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-25T03:37:34Z",
+  "dct_title_s": "Satellite detected water extents between 31 August and 04 September 2024 over Chad",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20240820TCD** This map illustrates cumulative satellite-detected water using VIIRS in Chad between 31 August to 04 September 2024. Within the cloud free analysed areas of about 900,000 km², a total of about 22,800 km² of lands appear to be affected with flood waters. Maximum flood water extent appears to have increased of about 3,900 km² since the period between 20 to 24 August 2024. Based on Worldpop population data and the maximum flood water extent, about 820,000 people are potentially exposed or living close to flooded areas. Amongst which ~145,000 people in Logone Oriental Region and ~90,000 people in Mayo-Kebbi Est Region. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to the United Nations Satellite Centre (UNOSAT)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Chad"
+  ],
+  "locn_geometry": "ENVELOPE(13.54, 23.89, 23.41, 7.42)",
+  "dcat_bbox": "ENVELOPE(13.54, 23.89, 23.41, 7.42)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-water-extents-between-31-august-and-04-september-2024-over-chad\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3949/FL20240820TCD_gdb.zip\"}"
+}

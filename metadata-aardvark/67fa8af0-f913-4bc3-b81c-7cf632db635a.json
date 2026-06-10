@@ -1,0 +1,41 @@
+{
+  "id": "hdx-67fa8af0-f913-4bc3-b81c-7cf632db635a",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-21T15:39:38Z",
+  "dct_title_s": "Damage Assessment in the town of Coatetelco, Municipality of Miacatlan, State of Morelos, Mexico",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This map illustrates satellite-detected, potentially damaged structures in the town of Coatetelco, Miacatlan Municipality, Morelos State, Mexico. The analyzed area is located approximately 90 km northwest of the main shock epicenter of the 19 September 2017 M7.1 earthquake. UNITAR-UNOSAT identified 500 potentially damaged structures. The analysis was performed using a post-event WorldView-3 satellite image acquired on 22 September 2017 and a pre-event WorldView-2 satellite image acquired on 17 January 2017. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR - UNOSAT."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UNOSAT"
+  ],
+  "dcat_keyword_sm": [
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Mexico"
+  ],
+  "locn_geometry": "ENVELOPE(-117.13, -86.81, 32.72, 14.54)",
+  "dcat_bbox": "ENVELOPE(-117.13, -86.81, 32.72, 14.54)",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "gbl_indexYear_im": [
+    2017
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/damage-assessment-in-the-town-of-coatetelco-municipality-of-miacatlan-state-of-morelos-mexico\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/unosat-maps/MX/EQ20170919MEX/EQ20170919MEX_gdb.zip\"}"
+}

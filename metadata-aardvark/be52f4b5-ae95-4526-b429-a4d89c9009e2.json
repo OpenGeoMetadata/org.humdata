@@ -1,0 +1,41 @@
+{
+  "id": "hdx-be52f4b5-ae95-4526-b429-a4d89c9009e2",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-21T16:07:06Z",
+  "dct_title_s": "Satellite detected water extent as of 2 January 2020 over Banten, Dki Jakarta and Jawa Barat Province of Indonesia",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20200101IDN** This map illustrates satellite-detected surface water in Banten, Dki Jakarta and Jawa Barat Province of Indonesia as observed from Sentinel-1 imagery acquired on the 2 January 2020. Approximately 258 km2 of land appear to be flooded. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR - UNOSAT. Important Note: Flood analysis from Sentinel-1 imagery acquired on 2 January 2020 may seriously underestimate presence of standing flood water in built up areas due to backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Indonesia"
+  ],
+  "locn_geometry": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dcat_bbox": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extent-as-of-2-january-2020-over-banten-dki-jakarta-and-jawa-barat-province-of-indon\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/unosat-maps/ID/FL20200101IDN/FL20200101IDN_gdb.zip\"}"
+}

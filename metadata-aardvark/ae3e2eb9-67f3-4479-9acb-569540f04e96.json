@@ -1,0 +1,33 @@
+{
+  "id": "hdx-ae3e2eb9-67f3-4479-9acb-569540f04e96",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-10-31T16:50:37Z",
+  "dct_title_s": "Ethiopia: Seasonal Vegetation Condition Index",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "These datasets provide Ethiopia’s Vegetation Condition Index (VCI) values for the past five years, specifically covering the June to September growing season. The VCI is a satellite-derived indicator used to evaluate vegetation health and drought conditions. It distinguishes drought-related stress from other factors affecting vegetation growth. The VCI values range from 0 to 100, where 0% indicates the worst vegetation condition—approaching the historical minimum and signifying severe drought—and 100% indicates optimal conditions, near the historical maximum, reflecting healthy and lush vegetation. The VCI data is obtained from the MODIS satellite. The long-term dataset used for seasonal analysis spans from the year 2000 to the present, focusing on the months of June through September, aligning with Ethiopia’s main growing season. These time series datasets enable the comparison of current vegetation conditions with those of recent growing seasons, supporting drought monitoring and vegetation health assessments."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "MODIS(Moderate Resolution Imaging Spectroradiometer)"
+  ],
+  "dct_spatial_sm": [
+    "Ethiopia"
+  ],
+  "locn_geometry": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dcat_bbox": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/ethiopia-seasonal-vegetation-condition-index-june-july-august-september\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/ae3e2eb9-67f3-4479-9acb-569540f04e96/resource/75be5a40-a613-4f6c-a69d-7817c51ee6d7/download/vci_seasonal_whole_ethiopia_2025.tif\"}"
+}

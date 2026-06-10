@@ -1,0 +1,41 @@
+{
+  "id": "hdx-390c0013-9e21-4bbd-ba79-4439139d2086",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-10-03T15:29:41Z",
+  "dct_title_s": "Haiti Gridded Population Dataset",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Haiti was chosen as the pilot country for developing our population mapping methods, based on its high frequency of hurricanes and other natural disasters in the recent past. We found a clear correlation between built-up area density derived from interpretation of high- and medium-resolution satellite imagery and data from the 2003 national census. The resulting 100-meter gridded population map is the finest-scale demographic map of the country ever produced. It was made available to the public the day after the devastating earthquake of January 2010, and has been used extensively for disaster relief. The methods used in the Haiti project are described in a paper published in the International Journal of Remote Sensing."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "U.S. Census Bureau"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "population"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "population"
+  ],
+  "dct_spatial_sm": [
+    "Haiti"
+  ],
+  "locn_geometry": "ENVELOPE(-74.46, -71.62, 19.92, 18.03)",
+  "dcat_bbox": "ENVELOPE(-74.46, -71.62, 19.92, 18.03)",
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "gbl_indexYear_im": [
+    2003
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/haiti-gridded-population-data\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/390c0013-9e21-4bbd-ba79-4439139d2086/resource/5b083aed-7642-4e6d-bc82-812ee35fd1b0/download/haiti-gridded-population-estimates-2003.zip\"}"
+}

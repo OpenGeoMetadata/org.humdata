@@ -1,0 +1,41 @@
+{
+  "id": "hdx-38c1c787-1062-45c5-9126-d1c807d94c1c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T17:25:31Z",
+  "dct_title_s": "Satellite detected water extent and evolution over Sofala and Zambezia Provinces, Mozambique between 13 and 17 March 2023",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code TC20230221MOZ, GDACS Id: 1000961** This map illustrates satellite-detected surface waters in Sofala and Zambezia Provinces, Mozambique as observed from a Sentinel-1 image acquired on 17 Mar. 2023 at 03:09 local time. Within the analyzed area of about 27,000 km2, about 1,800 km2 of lands appear to be flooded. Water extent appears to have increased of about 900 km2 since the 13 March 2023. Based on Worldpop population data and the detected surface waters in the analyzed area, the potentially exposed population is mainly located in Zambezia province, including the district of Namacurra, with ~39,00 people, Nicoadala with ~32,000 people and Maganja Da Costa with ~ 23,000 people. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Mozambique"
+  ],
+  "locn_geometry": "ENVELOPE(30.18, 40.78, -10.32, -26.74)",
+  "dcat_bbox": "ENVELOPE(30.18, 40.78, -10.32, -26.74)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extent-and-evolution-over-sofala-and-zambezia-provinces-mozambique-between-13-and-17\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3537/TC20230221MOZ_gdb.zip\"}"
+}

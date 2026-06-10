@@ -1,0 +1,43 @@
+{
+  "id": "hdx-16565cb0-4bee-498e-af94-fa86219e19d3",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-12-17T15:05:49Z",
+  "dct_title_s": "Bottom-up gridded population estimates for Nigeria, version 1.2",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This data release includes gridded population estimates (~100 m grid cells) with national coverage for Nigeria, along with estimates of the number of people belonging to individual age-sex groups. These population estimates represent the time period 2016 to 2017 corresponding to when the household surveys were conducted. Populations were mapped into areas where residential settlements were detected based on satellite imagery mostly from 2014. The data were produced by the [WorldPop](https://www.worldpop.org/) Research Group at the University of Southampton. This work was part of the [GRID3 ](https://grid3.org/) project with funding from the Bill and Melinda Gates Foundation and the United Kingdom's Department for International Development (OPP1182408). Project partners included the United Nations Population Fund, Center for International Earth Science Information Network ([CIESIN](http://www.ciesin.org/)) in the Earth Institute at Columbia University, and the [Flowminder](https://www.flowminder.org/) Foundation. Statistical modellingwas led by Doug Leasure and Chris Jochem with oversight from Andy Tatem. In-country implementation was led by Tracy Adole. Oak Ridge National Laboratories (ORNL), eHealth Africa, and the Bill and Melinda Gates Foundation collected microcensus data and produced the settlement map used as inputs for this work. The whole WorldPop group and GRID3 partners are acknowledged for overall project support. __RELEASE CONTENT__ 1. NGA_population_v1_2_gridded.zip 2. NGA_population_v1_2_admin.zip 3. NGA_population_v1_2_sql.sql 4. NGA_population_v1_2_mastergrid.tif 5. NGA_population_v1_2_tiles.zip 6. NGA_population_v1_2_agesex.zip 7. NGA_population_v1_2_methods.zip __LICENSE__ These data (1-6) may be redistributed using a [Creative Commons Attribution Share-Alike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License. The methods documentation (7) may be redistributed using a [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) License. __Recommended citations__ _WorldPop. 2019. Bottom-up gridded population estimates for Nigeria, version 1.2. WorldPop, University of Southampton. doi:10.5258/SOTON/WP00655_ _WorldPop. 2020. Bottom-up gridded population estimates for individual age-sex groups in Nigeria, version 1.2.1. WorldPop, University of Southampton. doi:10.5258/SOTON/WP00661_ _Leasure DR, Jochem WC, Weber EM, Seaman V, Tatem AJ. 2020. National population mapping from sparse survey data: A hierarchical Bayesian modeling framework to account for uncertainty. Proceedings of the National Academy of Sciences. doi:10.1073/pnas.1913050117_ For further details, please, read NGA_population_v1_2_README.pdf"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "GRID3 (Geo-Referenced Infrastructure and Demographic Data for Development)"
+  ],
+  "dcat_keyword_sm": [
+    "baseline population",
+    "demographics",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "baseline population",
+    "demographics",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Nigeria"
+  ],
+  "locn_geometry": "ENVELOPE(2.69, 14.58, 13.87, 4.24)",
+  "dcat_bbox": "ENVELOPE(2.69, 14.58, 13.87, 4.24)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/bottom-up-gridded-population-estimates-for-nigeria\",\"http://schema.org/downloadUrl\":\"https://wopr.worldpop.org/download/1\"}"
+}

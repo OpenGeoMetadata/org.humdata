@@ -1,0 +1,41 @@
+{
+  "id": "hdx-2fb6d5c3-8f33-4ba0-9c55-caa202c5abb7",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-21T15:06:22Z",
+  "dct_title_s": "Satellite detected water extent as of 14 July 2020 over Province 2 of Nepal",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20200708NPL** This map illustrates satellite-detected surface waters in Province 2 of Nepal as observed from a Radarsat-2 image acquired on 14 July 2020 due to the current monsoon rains. Within the analyzed area of about 2,000 km2, a total of about 50 km2 of lands appear to be flooded. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR - UNOSAT. Important Note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Nepal"
+  ],
+  "locn_geometry": "ENVELOPE(80.09, 88.17, 30.42, 26.4)",
+  "dcat_bbox": "ENVELOPE(80.09, 88.17, 30.42, 26.4)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-water-extent-as-of-14-july-2020-over-province-2-of-nepal\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/unosat-maps/NP/FL20200708NPL/FL20200708NPL_gdb.zip\"}"
+}

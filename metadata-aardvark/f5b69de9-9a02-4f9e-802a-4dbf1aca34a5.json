@@ -1,0 +1,41 @@
+{
+  "id": "hdx-f5b69de9-9a02-4f9e-802a-4dbf1aca34a5",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-25T03:37:47Z",
+  "dct_title_s": "Satellite detected water extents in Vientiane Capital, Lao PDR as of 18 September 2024",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20240913LAO** This map illustrates the floods using Sentinel-1 images acquired on 18 September 2024 at 06:00 local time. Within the analyzed area of approximately 7,000 km², around 230 km² of land appears to be affected by floodwaters. The extent of the flooding has increased by approximately 50 km² since the previous observation on 13 September 2024. Based on WorldPop spatial demographic data, an estimated 26,000 people are currently exposed or residing near the flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to the United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to the backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Lao People's Democratic Republic"
+  ],
+  "locn_geometry": "ENVELOPE(100.12, 107.56, 22.46, 13.88)",
+  "dcat_bbox": "ENVELOPE(100.12, 107.56, 22.46, 13.88)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-water-extents-in-vientiane-capital-lao-pdr-as-of-18-september-2024\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3976/FL20240913LAO_GDB.zip\"}"
+}

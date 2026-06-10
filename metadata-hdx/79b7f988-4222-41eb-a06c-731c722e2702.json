@@ -17,7 +17,7 @@
   "license_title": "odc-odbl",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2024-11-19T10:20:52.586547",
-  "metadata_modified": "2026-03-02T17:15:25.271434",
+  "metadata_modified": "2026-06-06T09:53:33.630643",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
   "name": "mozambique-road-surface-data",
@@ -38,7 +38,7 @@
   },
   "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
   "package_creator": "sukanya-randhawa-6497",
-  "pageviews_last_14_days": 1,
+  "pageviews_last_14_days": 3,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Mozambique\"]}",
@@ -62,6 +62,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:20:52.591708",
@@ -73,7 +74,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_moz_roadsurface_lines.geojson",
       "id": "860bd308-832e-4ea4-8179-cc0d31d3d351",
       "last_modified": "2024-11-19T10:20:52.564559",
-      "metadata_modified": "2026-03-02T17:15:25.316494",
+      "metadata_modified": "2026-06-06T09:53:33.682120",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -88,6 +89,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:20:52.591713",
@@ -99,7 +101,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_moz_roadsurface_lines.gpkg",
       "id": "92fd216d-cb88-44e7-9503-ea1bc75555fc",
       "last_modified": "2024-11-19T10:20:52.564811",
-      "metadata_modified": "2026-03-02T17:02:45.260204",
+      "metadata_modified": "2026-06-06T09:53:33.682345",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

@@ -1,0 +1,152 @@
+{
+  "archived": true,
+  "creator_user_id": "0aa72ad1-2489-473a-afbf-a28c21b2544a",
+  "data_update_frequency": "-1",
+  "dataset_date": "[2017-03-06T00:00:00 TO 2017-03-06T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "DTGC (Direction des Travaux géographiques et cartographiques), WHO, DCW, NE, ",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "b94a55d0-0b8e-4458-9499-8bbc6987d396",
+  "is_requestdata_type": false,
+  "isopen": true,
+  "last_modified": "2018-05-07T08:22:34.785854",
+  "license_id": "cc-by",
+  "license_title": "Creative Commons Attribution International (CC BY)",
+  "license_url": "http://www.opendefinition.org/licenses/cc-by",
+  "maintainer": "0aa72ad1-2489-473a-afbf-a28c21b2544a",
+  "metadata_created": "2017-03-06T12:12:29.862118",
+  "metadata_modified": "2024-05-24T15:42:04.855005",
+  "methodology": "Other",
+  "methodology_other": "Last update May 2018 according to Admin COD datasets for SEN endorsed by RO on January 2016 and those from DTGC (Direction des Travaux Géographiques et Cartographiques); see metadata for description of cleaning and processing performed by ITOS. The dataset represents Admin level 0 (International), Admin Level 1 (Region), Admin Level 2 (Departement), Admin Level 3 (Arrondissement).\r\nThe roads from DCW, Highway, Main asphalted road, Secondary asphalted road and tracks\r\nInfrastructures of health, education...",
+  "name": "sen-geodb-ocha-20170306",
+  "notes": "Admin boundaries (admin1, admin 2 and admin3 polygons and polylines), settlements with pcode iso2 and iso 3, transporation (roads, railways, airports, ports), Hydrology (river line), Infrastructures (Education, health, trade)",
+  "num_resources": 1,
+  "num_tags": 8,
+  "organization": {
+    "id": "ac91832d-2477-4e1f-8520-9a591a7c3d69",
+    "name": "ocha-rowca",
+    "title": "OCHA West and Central Africa (ROWCA)",
+    "type": "organization",
+    "description": "Dans les pays de l'Afrique de l’Ouest et du Centre, l'insécurité alimentaire et la malnutrition s’aggravent avec l'impact des catastrophes naturelles, le changement climatique, l’évolution démographique, l'urbanisation mal gérée, les épidémies et les conflits violents.",
+    "image_url": "",
+    "created": "2014-09-26T15:15:48.616313",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "ac91832d-2477-4e1f-8520-9a591a7c3d69",
+  "package_creator": "oumousy2_",
+  "pageviews_last_14_days": 2,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Senegal\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Senegal - geodatabase on admin boundaries, settlements, hydrology, transporation, land use and infrastructure",
+  "total_res_downloads": 304,
+  "type": "dataset",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Senegal",
+      "id": "sen",
+      "image_display_url": "",
+      "name": "sen",
+      "title": "Senegal"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/b94a55d0-0b8e-4458-9499-8bbc6987d396/resource/31dfa1c3-95ab-4875-9518-f9b0c4416c71/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-03-06T12:12:46.676693",
+      "datastore_active": false,
+      "description": "Senegal geodatabase : admin boundaries, settlements, hydrologie, transporation, land use, infrastructures",
+      "download_url": "https://data.humdata.org/dataset/b94a55d0-0b8e-4458-9499-8bbc6987d396/resource/31dfa1c3-95ab-4875-9518-f9b0c4416c71/download/senegal_geodatabase.zip",
+      "format": "Geodatabase",
+      "hash": "",
+      "hdx_rel_url": "/dataset/b94a55d0-0b8e-4458-9499-8bbc6987d396/resource/31dfa1c3-95ab-4875-9518-f9b0c4416c71/download/senegal_geodatabase.zip",
+      "id": "31dfa1c3-95ab-4875-9518-f9b0c4416c71",
+      "last_modified": "2018-05-07T08:22:34.785854",
+      "metadata_modified": "2023-03-02T20:43:49.362179",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Senegal_geodatabase.zip",
+      "originalHash": "-1766469102",
+      "package_id": "b94a55d0-0b8e-4458-9499-8bbc6987d396",
+      "position": 0,
+      "resource_type": "file.upload",
+      "size": 8534274,
+      "state": "active",
+      "tracking_summary[recent]": "0",
+      "tracking_summary[total]": "0",
+      "url": "https://data.humdata.org/dataset/b94a55d0-0b8e-4458-9499-8bbc6987d396/resource/31dfa1c3-95ab-4875-9518-f9b0c4416c71/download/senegal_geodatabase.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "administrative boundaries-divisions",
+      "id": "6e0600e9-167a-482f-9259-4a17455607c6",
+      "name": "administrative boundaries-divisions",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "education",
+      "id": "111f9068-6270-4dbd-a2a9-b4d69ee1735b",
+      "name": "education",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "education facilities-schools",
+      "id": "c29686c1-68c3-4417-a50d-b07de0c47770",
+      "name": "education facilities-schools",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "hydrology",
+      "id": "4fc0b5ba-330e-41d4-846a-13415a517f03",
+      "name": "hydrology",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "populated places-settlements",
+      "id": "c7d3120a-ca01-4bba-b773-53cd7dc608bc",
+      "name": "populated places-settlements",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "roads",
+      "id": "a775d5e5-2168-4b89-b415-87d77e424b0c",
+      "name": "roads",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "transportation",
+      "id": "ee1a5568-91f1-4274-b10a-846a81335975",
+      "name": "transportation",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

@@ -1,0 +1,117 @@
+{
+  "archived": true,
+  "batch": "73cbe9d9-5f9a-4ba8-90d8-b934265124aa",
+  "caveats": "",
+  "creator_user_id": "1a008a13-52b1-4326-a9ea-aa541372577c",
+  "data_update_frequency": "-1",
+  "dataset_date": "[2023-02-06T00:00:00 TO 2023-03-12T23:59:59]",
+  "dataset_preview": "no_preview",
+  "dataset_source": "WFP ADAM",
+  "has_geodata": true,
+  "has_showcases": true,
+  "id": "2b416d3c-2808-4b22-b856-95b31ba5a7a7",
+  "is_requestdata_type": false,
+  "isopen": true,
+  "last_modified": "2023-11-24T03:36:00.839085",
+  "license_id": "cc-by-sa",
+  "license_title": "Creative Commons Attribution Share-Alike (CC BY-SA)",
+  "license_url": "http://www.opendefinition.org/licenses/cc-by-sa",
+  "maintainer": "196196be-6037-4488-8b71-d786adf4c081",
+  "metadata_created": "2023-08-28T23:20:25.087583",
+  "metadata_modified": "2023-11-24T03:36:04.590155",
+  "methodology": "Other",
+  "methodology_other": "ADAM is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies. Currently operational for floods, earthquakes and tropical storms, ADAM issues alerts and response dashboards aggregating relevant, evidence-based, near-real time risk and impact information. ",
+  "name": "madagascar-cyclone-1000961",
+  "notes": "**ADAM ID: 1000961\\_60**  Cyclone (category 1) during the period Feb 06 2023-Mar 12 2023 in Mozambique, Madagascar. It impacted 1327678 people.",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "id": "1ca198b6-e490-4cd0-9c1a-5b91bad9879a",
+    "name": "automated-disaster-analysis-mapping",
+    "title": "WFP Automated Disaster Analysis & Mapping",
+    "type": "organization",
+    "description": "**As of August 2025, this page is no longer actively maintained or updated. Sorry for any inconvenience caused. For the latest disaster alerts please visit: https://adam.geospatial.wfp.org/live**\r\n<br />\r\n<br />\r\nWFP's corporate geospatial solution for emergency preparedness, early warning & response.\r\n<br />\r\n<br />\r\nAutomated Disaster Analysis and Mapping (ADAM) is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies. Currently operational for floods, earthquakes and tropical storms, ADAM issues alerts and response dashboards aggregating relevant, evidence-based, near-real time risk and impact information.\r\n\r\nMore WFP data can be found here: https://data.humdata.org/organization/wfp",
+    "image_url": "",
+    "created": "2023-02-22T04:15:38.542670",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "1ca198b6-e490-4cd0-9c1a-5b91bad9879a",
+  "package_creator": "mcarans",
+  "pageviews_last_14_days": 0,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Madagascar\"]}",
+  "state": "active",
+  "subnational": "0",
+  "title": "Madagascar: Cyclone - Category 1 - Mar 2023",
+  "total_res_downloads": 29,
+  "type": "dataset",
+  "updated_by_script": "HDX Scraper: WFP ADAM (2023-11-24T03:36:00.641687)",
+  "url": null,
+  "version": null,
+  "customviz": [
+    {
+      "url": "https://mcarans.github.io/view-images/#https://adam-project-prod.s3-eu-west-1.amazonaws.com/adam_ts/events/2023/03/1000961_60/adam_ts_1000961_60.jpg"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Madagascar",
+      "id": "mdg",
+      "image_display_url": "",
+      "name": "mdg",
+      "title": "Madagascar"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/2b416d3c-2808-4b22-b856-95b31ba5a7a7/resource/7a28b6ee-be29-44a0-804d-ee025d606c03/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2023-08-28T23:20:25.092864",
+      "dataset_preview_enabled": false,
+      "datastore_active": false,
+      "description": "Shape File",
+      "download_url": "https://data.humdata.org/dataset/2b416d3c-2808-4b22-b856-95b31ba5a7a7/resource/7a28b6ee-be29-44a0-804d-ee025d606c03/download/1000961-60-adam-ts-1000961-60-shp.zip",
+      "format": "SHP",
+      "hash": "",
+      "hdx_rel_url": "/dataset/2b416d3c-2808-4b22-b856-95b31ba5a7a7/resource/7a28b6ee-be29-44a0-804d-ee025d606c03/download/1000961-60-adam-ts-1000961-60-shp.zip",
+      "id": "7a28b6ee-be29-44a0-804d-ee025d606c03",
+      "last_modified": "2023-11-24T03:36:00.839085",
+      "metadata_modified": "2023-11-24T03:36:04.604758",
+      "microdata": false,
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "1000961-60-adam-ts-1000961-60-shp.zip",
+      "package_id": "2b416d3c-2808-4b22-b856-95b31ba5a7a7",
+      "position": 0,
+      "resource_type": "file.upload",
+      "shape_info": "[{\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2023-09-12T04:25:13.099828\"}, {\"state\": \"success\", \"message\": \"Import successful\", \"layer_id\": \"pre_7a28b6ee_be29_44a0_804d_ee025d606c03\", \"error_type\": \"None\", \"error_class\": \"None\", \"bounding_box\": \"BOX(33.82583621800006 -26.668999999999983,119.79396462300008 -11.032999999999959)\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"shape_leng\", \"data_type\": \"character varying\"}, {\"field_name\": \"shape_area\", \"data_type\": \"character varying\"}, {\"field_name\": \"event_epis\", \"data_type\": \"character varying\"}, {\"field_name\": \"ts_name\", \"data_type\": \"character varying\"}, {\"field_name\": \"ts_class\", \"data_type\": \"character varying\"}, {\"field_name\": \"datasource\", \"data_type\": \"character varying\"}, {\"field_name\": \"alertlevel\", \"data_type\": \"character varying\"}, {\"field_name\": \"wind_speed\", \"data_type\": \"character varying\"}, {\"field_name\": \"colour_cl\", \"data_type\": \"character varying\"}, {\"field_name\": \"population\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"timestamp\": \"2023-09-12T04:25:16.796184\"}, {\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2023-11-24T01:00:26.613494\"}, {\"state\": \"success\", \"message\": \"Import successful\", \"layer_id\": \"pre_7a28b6ee_be29_44a0_804d_ee025d606c03\", \"error_type\": \"None\", \"error_class\": \"None\", \"bounding_box\": \"BOX(33.82583621800006 -26.668999999999983,119.79396462300008 -11.032999999999959)\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"shape_leng\", \"data_type\": \"character varying\"}, {\"field_name\": \"shape_area\", \"data_type\": \"character varying\"}, {\"field_name\": \"event_epis\", \"data_type\": \"character varying\"}, {\"field_name\": \"ts_name\", \"data_type\": \"character varying\"}, {\"field_name\": \"ts_class\", \"data_type\": \"character varying\"}, {\"field_name\": \"datasource\", \"data_type\": \"character varying\"}, {\"field_name\": \"alertlevel\", \"data_type\": \"character varying\"}, {\"field_name\": \"wind_speed\", \"data_type\": \"character varying\"}, {\"field_name\": \"colour_cl\", \"data_type\": \"character varying\"}, {\"field_name\": \"population\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"timestamp\": \"2023-11-24T01:00:30.723557\"}, {\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2023-11-24T01:17:27.997689\"}, {\"state\": \"success\", \"message\": \"Import successful\", \"layer_id\": \"pre_7a28b6ee_be29_44a0_804d_ee025d606c03\", \"error_type\": \"None\", \"error_class\": \"None\", \"bounding_box\": \"BOX(33.82583621800006 -26.668999999999983,119.79396462300008 -11.032999999999959)\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"shape_leng\", \"data_type\": \"character varying\"}, {\"field_name\": \"shape_area\", \"data_type\": \"character varying\"}, {\"field_name\": \"event_epis\", \"data_type\": \"character varying\"}, {\"field_name\": \"ts_name\", \"data_type\": \"character varying\"}, {\"field_name\": \"ts_class\", \"data_type\": \"character varying\"}, {\"field_name\": \"datasource\", \"data_type\": \"character varying\"}, {\"field_name\": \"alertlevel\", \"data_type\": \"character varying\"}, {\"field_name\": \"wind_speed\", \"data_type\": \"character varying\"}, {\"field_name\": \"colour_cl\", \"data_type\": \"character varying\"}, {\"field_name\": \"population\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"timestamp\": \"2023-11-24T01:17:32.669567\"}, {\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2023-11-24T02:49:46.578937\"}, {\"state\": \"success\", \"message\": \"Import successful\", \"layer_id\": \"pre_7a28b6ee_be29_44a0_804d_ee025d606c03\", \"error_type\": \"None\", \"error_class\": \"None\", \"bounding_box\": \"BOX(33.82583621800006 -26.668999999999983,119.79396462300008 -11.032999999999959)\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"shape_leng\", \"data_type\": \"character varying\"}, {\"field_name\": \"shape_area\", \"data_type\": \"character varying\"}, {\"field_name\": \"event_epis\", \"data_type\": \"character varying\"}, {\"field_name\": \"ts_name\", \"data_type\": \"character varying\"}, {\"field_name\": \"ts_class\", \"data_type\": \"character varying\"}, {\"field_name\": \"datasource\", \"data_type\": \"character varying\"}, {\"field_name\": \"alertlevel\", \"data_type\": \"character varying\"}, {\"field_name\": \"wind_speed\", \"data_type\": \"character varying\"}, {\"field_name\": \"colour_cl\", \"data_type\": \"character varying\"}, {\"field_name\": \"population\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"timestamp\": \"2023-11-24T02:49:50.569514\"}, {\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2023-11-24T03:36:00.731727\"}, {\"state\": \"success\", \"message\": \"Import successful\", \"layer_id\": \"pre_7a28b6ee_be29_44a0_804d_ee025d606c03\", \"error_type\": \"None\", \"error_class\": \"None\", \"bounding_box\": \"BOX(33.82583621800006 -26.668999999999983,119.79396462300008 -11.032999999999959)\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"shape_leng\", \"data_type\": \"character varying\"}, {\"field_name\": \"shape_area\", \"data_type\": \"character varying\"}, {\"field_name\": \"event_epis\", \"data_type\": \"character varying\"}, {\"field_name\": \"ts_name\", \"data_type\": \"character varying\"}, {\"field_name\": \"ts_class\", \"data_type\": \"character varying\"}, {\"field_name\": \"datasource\", \"data_type\": \"character varying\"}, {\"field_name\": \"alertlevel\", \"data_type\": \"character varying\"}, {\"field_name\": \"wind_speed\", \"data_type\": \"character varying\"}, {\"field_name\": \"colour_cl\", \"data_type\": \"character varying\"}, {\"field_name\": \"population\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"timestamp\": \"2023-11-24T03:36:04.440280\"}]",
+      "size": 138079,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/2b416d3c-2808-4b22-b856-95b31ba5a7a7/resource/7a28b6ee-be29-44a0-804d-ee025d606c03/download/1000961-60-adam-ts-1000961-60-shp.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "cyclones-hurricanes-typhoons",
+      "id": "326e097b-96f2-46e4-8ef4-0a8d4401a646",
+      "name": "cyclones-hurricanes-typhoons",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

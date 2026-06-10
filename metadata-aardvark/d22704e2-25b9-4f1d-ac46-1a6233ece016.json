@@ -1,0 +1,45 @@
+{
+  "id": "hdx-d22704e2-25b9-4f1d-ac46-1a6233ece016",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-27T00:57:56Z",
+  "dct_title_s": "Romania - Subnational Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains the following administrative boundaries: ADM0, ADM1, ADM2. Produced and maintained since 2017, the geoBoundaries Global Database of Political Administrative Boundaries Database [www.geoboundaries.org](https://www.geoboundaries.org) is an open license, standardized resource of boundaries (i.e., state, county) for every country in the world."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Agentia Nationala de Cadastru si Publicitate ImobiliaraStatSilk, geoBoundariesWorld Bank"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Romania"
+  ],
+  "locn_geometry": "ENVELOPE(20.22, 29.63, 48.22, 43.69)",
+  "dcat_bbox": "ENVELOPE(20.22, 29.63, 48.22, 43.69)",
+  "dct_temporal_sm": [
+    "2016-2018"
+  ],
+  "gbl_indexYear_im": [
+    2016,
+    2017,
+    2018
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/geoboundaries-admin-boundaries-for-romania\",\"http://schema.org/downloadUrl\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ROU/ADM0/geoBoundaries-ROU-ADM0_simplified.geojson\"}"
+}

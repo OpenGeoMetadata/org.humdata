@@ -1,0 +1,41 @@
+{
+  "id": "hdx-007de930-02e7-4b32-8a6c-774c86eb2c8f",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-25T03:37:37Z",
+  "dct_title_s": "Satellite detected water extents between 28 August & 4 September 2024 in Bangladesh",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20240825BGD** This map illustrates the aggregated floods using Sentinel-1 images acquired between 18 to 26 August 2024 and between 28 August & 4 September 2024 using an automated analysis with a machine learning method. Within the analysed area of about 140,000 km², a total of about 8,100 km² of land appears to be affected by flood waters. Based on Worldpop spatial demographic data, about 6.2 million people are exposed or living close to flooded areas. Over these two periods, floodwaters receded by approximately 8,700 km². This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to the United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to the backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Bangladesh"
+  ],
+  "locn_geometry": "ENVELOPE(88.08, 92.67, 26.45, 20.67)",
+  "dcat_bbox": "ENVELOPE(88.08, 92.67, 26.45, 20.67)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-water-extents-between-28-august-4-september-2024-in-bangladesh\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3954/FL20240825BGD_gdb.zip\"}"
+}

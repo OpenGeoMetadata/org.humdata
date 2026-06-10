@@ -1,0 +1,41 @@
+{
+  "id": "hdx-37455eee-27bc-4aef-b766-eae0583187b3",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2023-03-03T04:36:30Z",
+  "dct_title_s": "Haiti - Hurricane Matthew - composite index hurricane impact (wind, rain)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Includes the windspeed per adm3-area, and a combined 1-10 score for windspeed and accumulated rainfall. Datasets used: - https://data.humdata.org/dataset/accumulated-gpm-imerg-data-for-haiti-hurricane-matthew-october-3-6th-2016 - https://data.humdata.org/dataset/hurricane-matthew-gust-footprint-tropical-storm-risk-university-college-london"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Netherlands Red Cross - 510.global"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Haiti"
+  ],
+  "locn_geometry": "ENVELOPE(-74.46, -71.62, 19.92, 18.03)",
+  "dcat_bbox": "ENVELOPE(-74.46, -71.62, 19.92, 18.03)",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "gbl_indexYear_im": [
+    2016
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/haiti-hurricane-matthew-composite-index-hurricane-impact-wind-rain\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/37455eee-27bc-4aef-b766-eae0583187b3/resource/44cbb8a5-4dee-4c67-b972-945453e329e8/download/rain_wind_matthew_adm3.zip\"}"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "hdx-7e8670c6-c7f7-44b8-818e-9f1008e960d5",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T18:52:34Z",
+  "dct_title_s": "Uganda Shops (OpenStreetMap Export)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "OpenStreetMap exports for use in GIS applications. This theme includes all OpenStreetMap features in this area matching ( Learn what tags means [here](https://wiki.openstreetmap.org/wiki/Tags) ) : tags['shop'] IN ('alcohol','art','bakery','beauty','beverages','bicycle','books','butcher','car','car_parts','car_repair','charcoal','chemist','clothes','convenience','copyshop','cosmetics','electronics','food','furniture','greengrocer','hairdresser','houseware','jewelry','kiosk','mobile_phone','pastry','shoes','stationary','supermarket','tailor','yes') Features may have these attributes: - [name](http://wiki.openstreetmap.org/wiki/Key:name) - [highway](http://wiki.openstreetmap.org/wiki/Key:highway) This dataset is one of many [OpenStreetMap exports on HDX](https://data.humdata.org/organization/hot). See the [Humanitarian OpenStreetMap Team](http://hotosm.org/) website for more information."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Uganda"
+  ],
+  "locn_geometry": "ENVELOPE(29.58, 35.04, 4.25, -1.44)",
+  "dcat_bbox": "ENVELOPE(29.58, 35.04, 4.25, -1.44)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_uga_rr_shops\",\"http://schema.org/downloadUrl\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/hotosm_uga_rr/shops/points/hotosm_uga_rr_shops_points_geojson.zip\"}"
+}

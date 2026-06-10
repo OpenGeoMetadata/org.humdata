@@ -1,0 +1,44 @@
+{
+  "id": "hdx-bfedda6e-4902-4cd8-9b05-410d00e70660",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-09-12T15:12:25Z",
+  "dct_title_s": "East Africa - CHIRPS Seasonal Rainfall Accumulation Anomaly by Pentad",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Climate Hazards Group InfraRed Precipitation with Station data (CHIRPS) is a 35+ year quasi-global rainfall data set. It is a gridded rainfall time series for trend analysis and seasonal drought monitoring, spans 50°S-50°N (and all longitudes) and ranges from 1981 to near-present. The anomaly refers to the difference between current rainfall and the average rainfall that occurred between 1981 and 2010 in millimeters. For more information visit the [CHIRPS site](https://www.chc.ucsb.edu/data/chirps). This dataset contains the latest available CHIRPS anomaly data. The full list of data available is available from USGS for [Mar-May data](https://edcintl.cr.usgs.gov/downloads/sciweb1/shared/fews/web/africa/east/pentadal/chirps/seasaccum/marmay/anom/lta/downloads/pentadal/), [Oct-Dec data](https://edcintl.cr.usgs.gov/downloads/sciweb1/shared/fews/web/africa/east/pentadal/chirps/seasaccum/octdec/anom/lta/downloads/pentadal/), and others. Additionally, subnational statistics (mean, min, max) have been calculated for Ethiopia, Kenya, and Somalia and are available in the csv resource."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "USGS, FEWS NET, CHIRPS"
+  ],
+  "dcat_keyword_sm": [
+    "climate-weather",
+    "hazards and risk"
+  ],
+  "dct_subject_sm": [
+    "climate-weather",
+    "hazards and risk"
+  ],
+  "dct_spatial_sm": [
+    "Ethiopia",
+    "Kenya",
+    "Somalia"
+  ],
+  "locn_geometry": "ENVELOPE(32.95, 51.13, 14.96, -4.68)",
+  "dcat_bbox": "ENVELOPE(32.95, 51.13, 14.96, -4.68)",
+  "dct_temporal_sm": [
+    "2023-2024"
+  ],
+  "gbl_indexYear_im": [
+    2023,
+    2024
+  ],
+  "dct_format_s": "CSV",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/east-africa-chirps-seasonal-rainfall-accumulation-anomaly-by-pentad\",\"http://schema.org/downloadUrl\":\"https://edcintl.cr.usgs.gov/downloads/sciweb1/shared/fews/web/africa/east/pentadal/chirps/seasaccum/octdec/anom/lta/downloads/pentadal/ea_chirps_seasaccum_anom_octdec_202372_lta.zip\"}"
+}

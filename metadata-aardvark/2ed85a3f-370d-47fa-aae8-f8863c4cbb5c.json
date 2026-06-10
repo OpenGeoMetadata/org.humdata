@@ -1,0 +1,43 @@
+{
+  "id": "hdx-2ed85a3f-370d-47fa-aae8-f8863c4cbb5c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2024-05-09T02:50:50Z",
+  "dct_title_s": "HOTOSM Haiti Schools",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "OpenStreetMap exports for use in GIS applications. This theme includes all OpenStreetMap features in this area matching: amenity IN ('kindergarten', 'school', 'college', 'university','language_school') OR office='educational_institution' Features may have these attributes: name, amenity, isced:level, capacity Geometry types: point, polygon This dataset is one of many OpenStreetMap exports on HDX. See the Humanitarian OpenStreetMap Team website for more information."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OCHA ROLAC"
+  ],
+  "dcat_keyword_sm": [
+    "education",
+    "education facilities-schools",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "education",
+    "education facilities-schools",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Haiti"
+  ],
+  "locn_geometry": "ENVELOPE(-74.46, -71.62, 19.92, 18.03)",
+  "dcat_bbox": "ENVELOPE(-74.46, -71.62, 19.92, 18.03)",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "gbl_indexYear_im": [
+    2019
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm-haiti-schools\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/2ed85a3f-370d-47fa-aae8-f8863c4cbb5c/resource/5a0d2934-5ee6-4f85-9c61-c55f745b5d14/download/hti_schools_shp.zip\"}"
+}

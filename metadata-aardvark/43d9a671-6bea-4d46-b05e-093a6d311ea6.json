@@ -1,0 +1,41 @@
+{
+  "id": "hdx-43d9a671-6bea-4d46-b05e-093a6d311ea6",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-01-17T16:07:55Z",
+  "dct_title_s": "Ethiopia - Potential Settlement Expansion Areas",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "[Initial analysis] The database contains information about buildings identified by Google outside of settlements recognized by GRID3. It serves as a proxy for identifying potential new settlements or areas of urban growth. The analysis incorporates two levels of clustering: one at a distance of 500 meters and another at 100 meters. The 500-meter clustering helps identify broader areas where multiple buildings are concentrated, potentially indicating the presence of a new settlement or an expansion of an existing one. This distance threshold allows for the initial identification of potential new settlement areas. The 100-meter clustering provides a more granular view, highlighting tighter clusters of buildings within the broader 500-meter areas. This finer level of clustering aids in distinguishing individual settlement units or neighborhoods within the larger potential settlement areas. By combining these two levels of clustering, the database facilitates a comprehensive analysis of potential new settlements or urban growth areas. It enables researchers, urban planners, and policymakers to identify and prioritize areas for further investigation, resource allocation, or development planning."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "3iSolution"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_spatial_sm": [
+    "Ethiopia"
+  ],
+  "locn_geometry": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dcat_bbox": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/ethiopia-potential-settlement-expansion-areas\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/43d9a671-6bea-4d46-b05e-093a6d311ea6/resource/fa43f9c0-8d5c-447e-92e6-20909d298c5e/download/eth-buildings-outside-settlements-clustered.zip\"}"
+}

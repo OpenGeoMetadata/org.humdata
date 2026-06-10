@@ -1,0 +1,41 @@
+{
+  "id": "hdx-198064b8-100c-4a21-8d0f-fadf6d5dbcb2",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2023-09-28T20:56:06Z",
+  "dct_title_s": "Pakistan - 2010 flood-affected Union Councils",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Union Council (UC) UC is second level sub admin unit under district. UC Boundary was first created by Population Census Office (PCO) during 2010 Flood. Moza (Admin5) which is sublevel under UC were digitized from scanned maps and added admin attributes. Then these Moza were dissolved with UC attribute to create UC dataset. UC datasets cover only 2010 flooded areas in Pakistan. No new dataset is shared till to date (Aug 2015). In August 2015, UC attributes were edited according to changes in District Boundary (Admin2). There are three new districts, 2 in Balochistan and 1 in Sindh. Overall boundary shape of the UC was not changed. Do not cover entire Pakistan. No new dataset is shared by PCO since 2011."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Population Census Office (PCO)"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Pakistan"
+  ],
+  "locn_geometry": "ENVELOPE(60.87, 77.84, 37.13, 23.69)",
+  "dcat_bbox": "ENVELOPE(60.87, 77.84, 37.13, 23.69)",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "gbl_indexYear_im": [
+    2015
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/pakistan-admin-level-4-boundaries\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/198064b8-100c-4a21-8d0f-fadf6d5dbcb2/resource/b6197814-3b01-4c46-a3b5-0d49aef4ae31/download/pak_adm4_2010floodaffected_pco_20150826.zip\"}"
+}

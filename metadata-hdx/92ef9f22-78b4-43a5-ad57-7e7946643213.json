@@ -1,0 +1,133 @@
+{
+  "archived": true,
+  "batch": "562919d5-1cf5-4b9d-b1f3-1a927493cc5d",
+  "caveats": "**Languages:** EN\r\n",
+  "creator_user_id": "060468e4-2f33-4488-8504-c4b10cc34821",
+  "data_update_frequency": "-1",
+  "dataset_date": "[2009-01-01T00:00:00 TO 2009-01-01T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "Collected (in 2008 and 2009) by UNOCHA from different stake-holders working in Northern part of Uganda, such as Protection cluster leads, humanitarian partners, and local government",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "92ef9f22-78b4-43a5-ad57-7e7946643213",
+  "indicator": "0",
+  "is_requestdata_type": false,
+  "isopen": false,
+  "last_modified": "2018-08-16T07:27:00.798591",
+  "license_id": "hdx-other",
+  "license_other": "See this [terms of use](https://data.humdata.org/about/license/legacy_hrinfo). This does not replace any terms of use information provided with the dataset.",
+  "license_title": "Other",
+  "maintainer": "be78a89a-5a16-4db6-8306-f7b9193857d8",
+  "metadata_created": "2015-09-01T02:36:04.222935",
+  "metadata_modified": "2024-09-13T11:59:49.775420",
+  "methodology": "Other",
+  "methodology_other": "Other",
+  "name": "uganda-affected-persons-locations",
+  "notes": "IDP Camp locations in Northern Uganda - based on GPS coordinates of IDP locations collected (in 2008 and 2009) by UNOCHA from different stake-holders working in Northern part of Uganda, such as Protection cluster leads, humanitarian partners, and local government. The location of the IDP camps are re-verified by District Office (local government). Note: Almost all IDPs in Uganda already moved to return sites. Please check Protection cluster or concern authority in Uganda for updated info on IDPs.\r\n\r\n\r\n\r\n",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "id": "37a0c6e3-3bcd-4457-aa81-6ddeb99dd203",
+    "name": "ocha-rosea",
+    "title": "OCHA Regional Office for Southern and Eastern Africa (ROSEA)",
+    "type": "organization",
+    "description": "In 2016, OCHA merged its offices in Johannesburg and Nairobi into the OCHA Regional Office for Southern and Eastern Africa (ROSEA), covering 25 countries.\r\n\r\nComprising the Horn of Africa and the Great Lakes, eastern Africa is a region in which emergencies tend to be large scale, resulting in significant displacement and other needs. For this reason, OCHA maintains country presences in Burundi, DRC, Eritrea, Ethiopia, Kenya, Somalia, South Sudan and Sudan. The southern Africa region has fewer protracted humanitarian crises, but is prone to drought and floods. For this reason, OCHA does not have country offices in the region. In both regions the 2015-2016 El Nino weather phenomenon continues to have a significant humanitarian impact.\r\n\r\nFor those countries where OCHA does not have a presence, it is essential that OCHA can deploy from the regional hub swiftly and effectively in times of emergency, and to otherwise ensure preparedness for potential crises. OCHA works closely with local authorities and partners to bolster national disaster preparedness in these countries and supports response.\r\n\r\nWhether we’re mobilizing relief money or raising awareness of forgotten crises, it’s our mandate to keep world attention focused on humanitarian issues. For this reason, we produce and release timely regional reporting and analytical products to strengthen the humanitarian case and highlight the needs of the most vulnerable in the region. OCHA ROSEA also provides a platform for the analysis of cross-border issues of humanitarian concern, such as facilitating multi-country preparedness and planning consultations. OCHA ROSEA also works to strengthen collaboration on emergency preparedness and response with regional bodies, such as the Intergovernmental Authority on Development (IGAD) in eastern Africa and the Southern Africa Development Community (SADC) in southern Africa.",
+    "image_url": "",
+    "created": "2014-04-28T17:49:00.350372",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "37a0c6e3-3bcd-4457-aa81-6ddeb99dd203",
+  "package_creator": "hdx",
+  "pageviews_last_14_days": 0,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Uganda\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Uganda - Affected Persons Locations",
+  "total_res_downloads": 57,
+  "type": "dataset",
+  "updated_by_script": "hdxinternal:HDXPythonLibrary/6.3.1-hdx-cli-toolkit (2024-09-13T11:59:49.605400)",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Uganda",
+      "id": "uga",
+      "image_display_url": "",
+      "name": "uga",
+      "title": "Uganda"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/92ef9f22-78b4-43a5-ad57-7e7946643213/resource/cadc5266-d162-42cf-8b7a-09e3949b4835/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2015-09-01T10:13:54.532699",
+      "datastore_active": false,
+      "description": "",
+      "download_url": "https://data.humdata.org/dataset/92ef9f22-78b4-43a5-ad57-7e7946643213/resource/cadc5266-d162-42cf-8b7a-09e3949b4835/download/uganda_northuganda_idp_camps_july2009.zip",
+      "format": "SHP",
+      "hash": "",
+      "hdx_rel_url": "/dataset/92ef9f22-78b4-43a5-ad57-7e7946643213/resource/cadc5266-d162-42cf-8b7a-09e3949b4835/download/uganda_northuganda_idp_camps_july2009.zip",
+      "id": "cadc5266-d162-42cf-8b7a-09e3949b4835",
+      "last_modified": "2018-08-16T07:27:00.798591",
+      "metadata_modified": "2023-03-02T22:54:40.372802",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "uganda_northuganda_idp_camps_july2009.zip",
+      "package_id": "92ef9f22-78b4-43a5-ad57-7e7946643213",
+      "position": 0,
+      "resource_type": "file.upload",
+      "shape_info": "{\"error_class\": \"None\", \"layer_id\": \"pre_cadc5266_d162_42cf_8b7a_09e3949b4835\", \"error_type\": \"None\", \"bounding_box\": \"BOX(0.00359840634129534 -90,34.1590125873627 3.81891259852177)\", \"state\": \"success\", \"message\": \"Import successful\"}",
+      "size": 61863,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/92ef9f22-78b4-43a5-ad57-7e7946643213/resource/cadc5266-d162-42cf-8b7a-09e3949b4835/download/uganda_northuganda_idp_camps_july2009.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "displacement",
+      "id": "3e3f28cd-405e-4706-a20b-74ff3e217af2",
+      "name": "displacement",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "internally displaced persons-idp",
+      "id": "4a0f429f-679c-4492-8386-d5cdf2d82ecd",
+      "name": "internally displaced persons-idp",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "populated places-settlements",
+      "id": "c7d3120a-ca01-4bba-b773-53cd7dc608bc",
+      "name": "populated places-settlements",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "refugees",
+      "id": "8af07ef8-0180-4966-9e15-d184b9a2fef1",
+      "name": "refugees",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "hdx-55b4e34a-3016-47d7-9d1e-db9dde7f1f97",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2023-09-11T14:20:42Z",
+  "dct_title_s": "POMELO - Rwanda High Resolution Population Density",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset presents a fine-grained population map of Rwanda with a resolution of 100 meters for 2020, generated using the POMELO super-resolution technique that is based on deep learning. Please refer to our [Nature Scientific Reports publication](https://www.nature.com/articles/s41598-022-24495-w) for more details. Background: Traditionally, many countries, including those in sub-Saharan Africa, rely on aggregated census data over expansive spatial units, which are not always timely or accurate. The need for detailed population maps is paramount in several sectors, including urban development, environmental supervision, public health, and humanitarian initiatives. Addressing this gap, the POMELO methodology leverages coarse census data in conjunction with open geodata to produce high precision population maps. Key Features: Resolution: The map offers a granular view with a 100m ground sampling distance, providing intricate details about population distributions in Rwanda. Data Sources: Utilizing a combination of projected admisistrative census data (UN), and supplementing it with open geodata. Reliability: In comparative experiments conducted in sub-Saharan Africa, POMELO's ability to disaggregate coarse census counts achieved R2 values of 85-89%. Furthermore, its potential to predict population numbers without any census data reached accuracy levels of 48-69%."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "ETH Zürich, Photogrammetry and Remote Sensing"
+  ],
+  "dcat_keyword_sm": [
+    "baseline population",
+    "demographics",
+    "geodata",
+    "population"
+  ],
+  "dct_subject_sm": [
+    "baseline population",
+    "demographics",
+    "geodata",
+    "population"
+  ],
+  "dct_spatial_sm": [
+    "Rwanda"
+  ],
+  "locn_geometry": "ENVELOPE(29.02, 30.82, -1.13, -2.92)",
+  "dcat_bbox": "ENVELOPE(29.02, 30.82, -1.13, -2.92)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/pomelo-rwanda-high-resolution-population\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/55b4e34a-3016-47d7-9d1e-db9dde7f1f97/resource/eeca5520-a1b3-4a42-b43d-e415bb8bb953/download/rwa_pomelo.tiff\"}"
+}

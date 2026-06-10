@@ -1,0 +1,47 @@
+{
+  "id": "hdx-50e37b45-25a1-4ef4-8c83-8b2fdf923773",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2024-05-16T17:16:19Z",
+  "dct_title_s": "Cyclone Idai - Aerial Survey",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This data relates to an aerial survey conducted of Mozambique from the 24-29 March 2019 following tropical cyclone Idai. Data was collected by INGC (National Disaster Management Authority of Mozambique), IFRC, UNDAC, MSF, DFID, Save the Children, and MapAction. Enumerators flew in squirrel helicopters over priority areas (usually at 500 feet) and some fixed wing aircraft for confirmation on outlying areas. Data contains location, points of interest, severity and estimated population. The survey used Kobo for data collection. Processing was conducted in R and then imported into ArcGIS for final map products. Data is presented in .xlsx (with and without hxl tags) and .geojson formats."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "International Federation of Red Cross and Red Crescent Societies (IFRC)"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata",
+    "hxl",
+    "logistics",
+    "severity"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata",
+    "hxl",
+    "logistics",
+    "severity"
+  ],
+  "dct_spatial_sm": [
+    "Mozambique"
+  ],
+  "locn_geometry": "ENVELOPE(30.18, 40.78, -10.32, -26.74)",
+  "dcat_bbox": "ENVELOPE(30.18, 40.78, -10.32, -26.74)",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "gbl_indexYear_im": [
+    2019
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/aerial-survey-idai-24-29-march-2019\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/50e37b45-25a1-4ef4-8c83-8b2fdf923773/resource/9584ef21-2151-468e-94a8-49864b62c70b/download/moz_cycloneidaiaerialsurvey.geojson\"}"
+}

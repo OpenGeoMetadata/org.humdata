@@ -1,0 +1,131 @@
+{
+  "archived": true,
+  "batch": "c55ab462-60dd-433e-becf-b8f1ac23709a",
+  "creator_user_id": "7d7f5f8d-7e3b-483a-8de1-2b122010c1eb",
+  "data_update_frequency": "-1",
+  "dataset_date": "[2015-07-01T00:00:00 TO 2015-07-01T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "GFDRR, Open Cities Project",
+  "has_geodata": true,
+  "has_showcases": true,
+  "id": "dc30ae61-ad00-463b-9a58-64a1c9c16a12",
+  "is_requestdata_type": false,
+  "isopen": false,
+  "last_modified": "2021-03-25T14:34:39",
+  "license_id": "cc-by-igo",
+  "license_title": "Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO)",
+  "license_url": "http://creativecommons.org/licenses/by/3.0/igo/legalcode",
+  "maintainer": "7d7f5f8d-7e3b-483a-8de1-2b122010c1eb",
+  "metadata_created": "2015-04-26T13:37:32.724306",
+  "metadata_modified": "2025-03-10T23:36:53.901307",
+  "methodology": "Other",
+  "methodology_other": "The Open Cities Project collects data through open and participatory methods in partnership with local government agencies, universities, technical communities, and the private sector.",
+  "name": "education-facilities-in-the-kathmandu-valley-nepal",
+  "notes": "Educational facilities and critical educational sector infrastructure in the Kathmandu Valley in Nepal. Data downloaded from the [Open Cities Project Educational Facilities](http://www.opencitiesproject.org/casestudy/schools/) page.",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "id": "hdx",
+    "name": "hdx",
+    "title": "HDX",
+    "type": "organization",
+    "description": "The Humanitarian Data Exchange (HDX) is an open data sharing platform managed by the United Nations Office for the Coordination of Humanitarian Affairs. The HDX organization is managed by the HDX data team and is used to share data on behalf of a number of partners",
+    "image_url": "http://labs.reliefweb.int/img/rw-thumbnail-hdx.png",
+    "created": "2014-04-02T12:19:44.486326",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "hdx",
+  "package_creator": "godfrey",
+  "pageviews_last_14_days": 0,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Nepal\", \"Nepal Earthquake\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Education facilities in the Kathmandu Valley, Nepal",
+  "total_res_downloads": 42,
+  "type": "dataset",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Nepal",
+      "id": "npl",
+      "image_display_url": "",
+      "name": "npl",
+      "title": "Nepal"
+    },
+    {
+      "description": "This will be a placeholder for all information related to the earthquake in Nepal.",
+      "display_name": "Nepal Earthquake",
+      "id": "fba94eb6-a73b-407d-8acd-c16e61e4f0dc",
+      "image_display_url": "",
+      "name": "nepal-earthquake",
+      "title": "Nepal Earthquake"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/dc30ae61-ad00-463b-9a58-64a1c9c16a12/resource/8c641afd-77cd-4c85-8fbc-6bdf845b24bb/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2015-04-26T13:38:24.527606",
+      "datastore_active": false,
+      "description": "",
+      "download_url": "https://data.humdata.org/dataset/dc30ae61-ad00-463b-9a58-64a1c9c16a12/resource/8c641afd-77cd-4c85-8fbc-6bdf845b24bb/download/educational-facilities-shp.zip",
+      "format": "SHP",
+      "hash": "\"b0c555b9d416a146a837e358c86f6dfc\"",
+      "hdx_rel_url": "/dataset/dc30ae61-ad00-463b-9a58-64a1c9c16a12/resource/8c641afd-77cd-4c85-8fbc-6bdf845b24bb/download/educational-facilities-shp.zip",
+      "id": "8c641afd-77cd-4c85-8fbc-6bdf845b24bb",
+      "last_modified": "2021-03-25T14:34:39",
+      "metadata_modified": "2025-03-10T23:36:53.926266",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Educational Facilities.shp.zip",
+      "package_id": "dc30ae61-ad00-463b-9a58-64a1c9c16a12",
+      "position": 0,
+      "resource_type": "file.upload",
+      "resource_uploader": "geopreviewbot",
+      "size": 1741198,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/dc30ae61-ad00-463b-9a58-64a1c9c16a12/resource/8c641afd-77cd-4c85-8fbc-6bdf845b24bb/download/educational-facilities-shp.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "earthquake-tsunami",
+      "id": "ec3e650b-06d4-410d-915f-213d6156b1b6",
+      "name": "earthquake-tsunami",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "education",
+      "id": "111f9068-6270-4dbd-a2a9-b4d69ee1735b",
+      "name": "education",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "education facilities-schools",
+      "id": "c29686c1-68c3-4417-a50d-b07de0c47770",
+      "name": "education facilities-schools",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

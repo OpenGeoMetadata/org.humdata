@@ -1,0 +1,41 @@
+{
+  "id": "hdx-c21b4e60-2e95-4006-af09-698f86bcc5bf",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-25T03:37:53Z",
+  "dct_title_s": "Satellite detected water  extents in Mandalay,  Kayah, Shan (South), Nay  Pyi Taw, Bago (Est), Mon  and Kayin States,  Myanmar as of 03 & 23  September 2024",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20240912MMR** This map illustrates aggregated satellite detected floods using Sentinel-1 images acquired on 03 to 20 September 2024 using an automated analysis with a machine learning method. Within the analysed area of about 80,000 km², a total of about 5,100 km² of land appears to be affected by flood waters and about 4,500 km² of cropland appears to be inundated. Based on Worldpop spatial demographic data, about 760,000 people are exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to the United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to the backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extents-in-mandalay-kayah-shan-south-nay-pyi-taw-bago-est-mon-and-kayin-states-myanm\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3992/FL20240912MMR_gdb.zip\"}"
+}

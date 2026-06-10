@@ -1,0 +1,41 @@
+{
+  "id": "hdx-0e3355cf-4c84-4f54-a0e7-e7dd1a5497e4",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T16:10:15Z",
+  "dct_title_s": "Satellite detected water extent in Capiz Province, Region VI, Philippines  as of 2 November 2022",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code TC20221028PHL, GDACS Id: 1000942** This map illustrates satellite-detected surface waters in Capiz Province, Region VI, Philippines as observed from a Sentinel-1 image acquired on 2 November 2022 at 05:39 local time. Within analyzed area of about 1,300 km2, about 28 km2 of lands appear to be flooded. Based on Worldpop population data and the detected surface waters, about 15,000 people are potentially exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "locn_geometry": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dcat_bbox": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extent-in-capiz-province-region-vi-philippines-as-of-2-november-2022\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3432/TC20221028PHL_gdb.zip\"}"
+}

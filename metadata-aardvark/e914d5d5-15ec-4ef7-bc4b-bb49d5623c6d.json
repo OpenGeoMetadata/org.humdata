@@ -1,0 +1,41 @@
+{
+  "id": "hdx-e914d5d5-15ec-4ef7-bc4b-bb49d5623c6d",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T21:59:41Z",
+  "dct_title_s": "Guam Sea Ports (OpenStreetMap Export)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "OpenStreetMap exports for use in GIS applications. This theme includes all OpenStreetMap features in this area matching ( Learn what tags means [here](https://wiki.openstreetmap.org/wiki/Tags) ) : tags['amenity'] = 'ferry_terminal' OR tags['building'] = 'ferry_terminal' OR tags['port'] IS NOT NULL Features may have these attributes: - [name](http://wiki.openstreetmap.org/wiki/Key:name) - [name:en](http://wiki.openstreetmap.org/wiki/Key:name:en) - [amenity](http://wiki.openstreetmap.org/wiki/Key:amenity) - [building](http://wiki.openstreetmap.org/wiki/Key:building) - [port](http://wiki.openstreetmap.org/wiki/Key:port) - [operator:type](http://wiki.openstreetmap.org/wiki/Key:operator:type) - [addr:full](http://wiki.openstreetmap.org/wiki/Key:addr:full) - [addr:city](http://wiki.openstreetmap.org/wiki/Key:addr:city) - [source](http://wiki.openstreetmap.org/wiki/Key:source) This dataset is one of many [OpenStreetMap exports on HDX](https://data.humdata.org/organization/hot). See the [Humanitarian OpenStreetMap Team](http://hotosm.org/) website for more information."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "facilities-infrastructure",
+    "geodata",
+    "ports"
+  ],
+  "dct_subject_sm": [
+    "facilities-infrastructure",
+    "geodata",
+    "ports"
+  ],
+  "dct_spatial_sm": [
+    "Guam"
+  ],
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_gum_sea_ports\",\"http://schema.org/downloadUrl\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/hotosm_gum/sea_ports/points/hotosm_gum_sea_ports_points_geojson.zip\"}"
+}

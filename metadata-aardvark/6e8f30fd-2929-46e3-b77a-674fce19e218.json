@@ -1,0 +1,43 @@
+{
+  "id": "hdx-6e8f30fd-2929-46e3-b77a-674fce19e218",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-27T14:51:06Z",
+  "dct_title_s": "Afghanistan: Combined Drought Indicator (CDI)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "The Combined Drought Indicator (CDI) dataset identifies different drought classes and their extent, focusing on vegetated areas (at risk, affected, and recovering). It integrates three complementary indicators — Standardized Precipitation Index (SPI), Soil Moisture Index Anomaly (SMA), and FAPAR anomaly — to capture meteorological, agricultural, and vegetation drought conditions. The dataset consists of raster maps with a spatial resolution of ~5 km at the Equator, using WGS84 (EPSG:4326) as the coordinate system. Data are available from 2012 to the present, updated every 10 days, which is suitable for monitoring short-term crop stress. Produced operationally by the European Drought Observatory (EDO), the CDI maps are freely accessible online. Recent updates include: CDIv3 (March 2023): integration of static crop masks to limit analysis to active growing seasons. CDIv4 (June 2024): introduction of dynamic snow masks and a new soil moisture input based on EFAS v5. More: https://drought.emergency.copernicus.eu/data/factsheets/factsheet_combinedDroughtIndicator_v4.pdf"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "European Drought Observatory (EDO)"
+  ],
+  "dct_spatial_sm": [
+    "Afghanistan"
+  ],
+  "locn_geometry": "ENVELOPE(60.53, 75.16, 38.49, 29.32)",
+  "dcat_bbox": "ENVELOPE(60.53, 75.16, 38.49, 29.32)",
+  "dct_temporal_sm": [
+    "2015-2025"
+  ],
+  "gbl_indexYear_im": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/afghanistan-combined-drought-indicator-cdi\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/6e8f30fd-2929-46e3-b77a-674fce19e218/resource/ea8fdfea-a1f6-4794-854b-1b7cc74b3a15/download/afg_cdi_20250101_20250831.zip\"}"
+}

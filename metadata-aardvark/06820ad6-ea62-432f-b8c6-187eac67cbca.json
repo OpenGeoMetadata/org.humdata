@@ -1,0 +1,59 @@
+{
+  "id": "hdx-06820ad6-ea62-432f-b8c6-187eac67cbca",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-25T03:37:12Z",
+  "dct_title_s": "Satellite detected water extent in Kingston, Saint Catherine and Saint Andrew Parishes, Jamaica as of 04 July 2024",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: TC20240702JAM, GDACS ID: 1001067** This map illustrates satellite-detected water extent in Kingston, Saint Catherine and Saint Andrew Parishes as observed from a TerraSAR-X image acquired at 06:03 local time. Within the analysed area of about 1,450 km², a limited extent of 5 km² of lands appear to be affected with flood waters. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to the United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Anguilla",
+    "Antigua and Barbuda",
+    "Barbados",
+    "British Virgin Islands",
+    "Cuba",
+    "Dominica",
+    "Dominican Republic",
+    "Grenada",
+    "Guadeloupe",
+    "Haiti",
+    "Jamaica",
+    "Montserrat",
+    "Puerto Rico",
+    "Saint Kitts and Nevis",
+    "Saint Lucia",
+    "Saint Vincent and the Grenadines",
+    "Trinidad and Tobago",
+    "Turks and Caicos Islands",
+    "United States Virgin Islands"
+  ],
+  "locn_geometry": "ENVELOPE(-84.97, 44.79, 42.14, 10.0)",
+  "dcat_bbox": "ENVELOPE(-84.97, 44.79, 42.14, 10.0)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extent-in-kingston-saint-catherine-and-saint-andrew-parishes-jamaica-as-of-04-july-2\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3893/TC20240702JAM_gdb.zip\"}"
+}

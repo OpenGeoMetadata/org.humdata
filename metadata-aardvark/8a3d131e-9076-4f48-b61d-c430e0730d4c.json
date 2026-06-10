@@ -1,0 +1,41 @@
+{
+  "id": "hdx-8a3d131e-9076-4f48-b61d-c430e0730d4c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-21T15:48:18Z",
+  "dct_title_s": "Haiti - Satellite Detected Surface Waters Extent in Les Cayes and Cavaillon Communes, Sud Department",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This map illustrates the satellite-detected water extent in Les Cayes and Cavaillon communes in Sud Department (Haiti) located in the southwestern part of Haiti. The UNITAR-UNOSAT analysis used a Sentinel-1 satellite image acquired on the 26 April 2017 and a Radarsat-2 image acquired on the 17 May 2016 and could observe areas with standing waters mainly affecting agricultural fields. The UNITAR-UNOSAT analysis identified 718 ha of flooded areas, which cover ~4% of this map's extent of ~20300 ha of land. The increase of waters within the analyzed zone is about 460%. ~155 ha of surface waters were observed the 17 May 2016 and reached ~873 ha the 26 April 2017. About 9km of roads, mainly local roads are potentially affected. It is likely that flood waters have been systematically underestimated along highly vegetated areas along main river banks and within built-up urban areas because of the special characteristics of the satellite data used. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR-UNOSAT."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UNOSAT"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Haiti"
+  ],
+  "locn_geometry": "ENVELOPE(-74.46, -71.62, 19.92, 18.03)",
+  "dcat_bbox": "ENVELOPE(-74.46, -71.62, 19.92, 18.03)",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "gbl_indexYear_im": [
+    2017
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-surface-waters-extent-in-les-cayes-and-cavaillon-communes-sud-department-haiti\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/unosat-maps/HT/FL20170424HTI/FL20170424HTI_gdb.zip\"}"
+}

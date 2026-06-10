@@ -1,0 +1,45 @@
+{
+  "id": "hdx-4df67e9c-04a1-4d35-91ac-553c524b3ad3",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2024-12-02T16:11:19Z",
+  "dct_title_s": "Cloud to Street Rohingya Refugees Flood Maps based on Sentinel-1 Imagery",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Includes a binary GeoTIFF where 0 values are non-flooded and 1 values are flooded. Included a metadata file that describes a summary and methods for the data."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Cloud to Street"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata",
+    "refugee crisis",
+    "refugees"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata",
+    "refugee crisis",
+    "refugees"
+  ],
+  "dct_spatial_sm": [
+    "Bangladesh"
+  ],
+  "locn_geometry": "ENVELOPE(88.08, 92.67, 26.45, 20.67)",
+  "dcat_bbox": "ENVELOPE(88.08, 92.67, 26.45, 20.67)",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "gbl_indexYear_im": [
+    2018
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cloud-to-street-rohingya-refugees-flood-maps-2018-06-13-based-on-sentinel-1-imagery\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/4df67e9c-04a1-4d35-91ac-553c524b3ad3/resource/b7287bb7-c8d8-430b-9a05-422fbd499ebb/download/rohingya_megacamp_flood_sentinel1_20180613_cloudtostreet.tif\"}"
+}

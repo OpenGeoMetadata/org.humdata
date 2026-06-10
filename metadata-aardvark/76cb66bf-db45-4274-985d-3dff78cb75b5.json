@@ -1,0 +1,39 @@
+{
+  "id": "hdx-76cb66bf-db45-4274-985d-3dff78cb75b5",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T18:54:41Z",
+  "dct_title_s": "ICA Sudan, 2018 - Natural Shock Risk",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This layer contains information about the natural shock risk (floods and droughts) estimated during the Integrated Context Analysis (ICA) performed in Sudan in 2018. Data sources: UNEP/UNISDR GAR 2013, HQ VAM Analysis of CHIRPS Rainfall Estimates (RFE) 1982-2017."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP Geonode"
+  ],
+  "dcat_keyword_sm": [
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Sudan"
+  ],
+  "locn_geometry": "ENVELOPE(21.94, 38.41, 22.0, 8.62)",
+  "dcat_bbox": "ENVELOPE(21.94, 38.41, 22.0, 8.62)",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "gbl_indexYear_im": [
+    2018
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/ica-sudan-2018-natural-shock-risk\",\"http://schema.org/downloadUrl\":\"https://geonode.wfp.org/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Asdn_ica_naturalshockrisk_geonode_20180201&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature\"}"
+}

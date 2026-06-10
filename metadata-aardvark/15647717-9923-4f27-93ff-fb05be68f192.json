@@ -1,0 +1,41 @@
+{
+  "id": "hdx-15647717-9923-4f27-93ff-fb05be68f192",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2024-01-04T15:37:51Z",
+  "dct_title_s": "Bangladesh 1km Resolution Poverty Estimates - Mapping poverty using mobile phone and satellite data",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Here we provide poverty data created using Bayesian model-based geostatistics in combination with high resolution gridded spatial covariates and aggregated mobile phone data applied to geolocated household survey data on poverty from the DHS wealth index (2011), the Progress out of Poverty Index (2014), and household income (2013). Citation: Steele, J. E. et al. Mapping poverty using mobile phone and satellite data. J. R. Soc. Interface 14, 20160690 (2017). Online here: http://rsif.royalsocietypublishing.org/content/14/127/20160690"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Flowminder / WorldPop"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "poverty"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "poverty"
+  ],
+  "dct_spatial_sm": [
+    "Bangladesh"
+  ],
+  "locn_geometry": "ENVELOPE(88.08, 92.67, 26.45, 20.67)",
+  "dcat_bbox": "ENVELOPE(88.08, 92.67, 26.45, 20.67)",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "gbl_indexYear_im": [
+    2017
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/bangladesh-1km-resolution-poverty-estimates-mapping-poverty-using-mobile-phone-and-satellite-data\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/15647717-9923-4f27-93ff-fb05be68f192/resource/e3373d6e-1e7b-46ad-9b6a-08a40bd09c49/download/bgd2011wipov.tif\"}"
+}

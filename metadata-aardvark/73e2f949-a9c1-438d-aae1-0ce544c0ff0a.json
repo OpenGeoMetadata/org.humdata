@@ -1,0 +1,43 @@
+{
+  "id": "hdx-73e2f949-a9c1-438d-aae1-0ce544c0ff0a",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2023-05-16T06:31:52Z",
+  "dct_title_s": "The Bahamas Subnational Population and Housing Data Tables with Administrative Boundaries, Based on National Census and Surveys",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "The geodatabase contains boundaries for the national and first-and second-order administrative divisions, aligned to the Large Scale International Boundaries dataset from the U.S. Department of State. The feature classes are suitable for linking to the attribute data provided. The tabular data contain total population for 2010 (census) and 2019 (population estimates), as well as five-year age group and sex, settlements, household characteristics, individual characteristics, and hurricane damage."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "U.S. Census Bureau"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "baseline population",
+    "demographics"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "baseline population",
+    "demographics"
+  ],
+  "dct_spatial_sm": [
+    "Bahamas"
+  ],
+  "locn_geometry": "ENVELOPE(-78.98, -77.0, 27.04, 23.71)",
+  "dcat_bbox": "ENVELOPE(-78.98, -77.0, 27.04, 23.71)",
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/the-bahamas-subnational-boundaries-and-tabular-data\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/73e2f949-a9c1-438d-aae1-0ce544c0ff0a/resource/3392fe3f-03d6-4c19-aa2f-f35eea9f17fe/download/the_bahamas.gdb.zip\"}"
+}

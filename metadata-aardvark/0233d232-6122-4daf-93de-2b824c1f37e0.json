@@ -1,0 +1,41 @@
+{
+  "id": "hdx-0233d232-6122-4daf-93de-2b824c1f37e0",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T16:10:52Z",
+  "dct_title_s": "Satellite detected water extent over Khammouan & Savannakhet Provinces, Lao PDR as of 04 August 2023",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code FL20230807LAO** This map illustrates cumulative satellite-detected surface waters over Khammouan & Savannakhet Provinces, Lao PDR as oberved from a Sentinel-1 image acquired on 04 August 2023 at 18:04 local time. Within the analysed area of about 25,000 km², a total of about 160 km² of lands appear to be flooded. Based on Worldpop population data and the detected surface waters in the analysed area, ~18,000 people are potentially exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to the United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to backscaterring properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Lao People's Democratic Republic"
+  ],
+  "locn_geometry": "ENVELOPE(100.12, 107.56, 22.46, 13.88)",
+  "dcat_bbox": "ENVELOPE(100.12, 107.56, 22.46, 13.88)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extent-over-khammouan-savannakhet-provinces-lao-pdr-as-of-04-august-2023\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3654/FL20230807LAO_gdb.zip\"}"
+}

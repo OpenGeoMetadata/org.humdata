@@ -1,0 +1,43 @@
+{
+  "id": "hdx-15c53644-46e1-4f64-9839-081ef09ff03e",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T16:37:43Z",
+  "dct_title_s": "Montenegro - Subnational Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains the following administrative boundaries: ADM0, ADM1. Produced and maintained since 2017, the geoBoundaries Global Database of Political Administrative Boundaries Database [www.geoboundaries.org](https://www.geoboundaries.org) is an open license, standardized resource of boundaries (i.e., state, county) for every country in the world."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap, WambacherOpenStreetMap, Wambacher"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Montenegro"
+  ],
+  "locn_geometry": "ENVELOPE(18.45, 20.34, 43.52, 41.88)",
+  "dcat_bbox": "ENVELOPE(18.45, 20.34, 43.52, 41.88)",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "gbl_indexYear_im": [
+    2017
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/geoboundaries-admin-boundaries-for-montenegro\",\"http://schema.org/downloadUrl\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MNE/ADM0/geoBoundaries-MNE-ADM0_simplified.geojson\"}"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "hdx-30768ff0-289b-4fda-96d9-7209243c984d",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-01-14T22:55:00Z",
+  "dct_title_s": "LA Fires - Palisades fire January 2025: Building Damage Assessment",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "We ran our damage assessment AI models on images provided by Planet and Maxar and have mapped out the affected buildings. The images cover Palisades fires. Analysis was done on: 1) Planet's 20250108_222134_ssc10 SkySat scene captured 01/08 2) Planet's 20250109_221527_ssc10 SkySat scene captured 01/09 3) Maxar imagery 1050010040277500 captured 1/10 Latest results show the following. Total of 18,538 structures: 11,735 not damaged 6,803 damaged"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Microsoft - AI4G Lab"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment"
+  ],
+  "dct_subject_sm": [
+    "damage assessment"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "locn_geometry": "ENVELOPE(-125.0, -66.96, 49.5, 25.0)",
+  "dcat_bbox": "ENVELOPE(-125.0, -66.96, 49.5, 25.0)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/palisades-fire-building-damage-assessment\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/30768ff0-289b-4fda-96d9-7209243c984d/resource/4f04b37a-8aa0-46bd-abe5-463d2dc5c453/download/20250109_221527_ssc7_u0001_data_mask.geojson\"}"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "hdx-fb4f6952-3a04-4be7-a74f-489d5197fb74",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T22:20:45Z",
+  "dct_title_s": "India - Population Density",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "WorldPop produces different types of gridded population count datasets, depending on the methods used and end application. Please make sure you have read our Mapping Populations overview page before choosing and downloading a dataset. Datasets are available to download in Geotiff and ASCII XYZ format at a resolution of 30 arc-seconds (approximately 1km at the equator) -Unconstrained individual countries 2000-2020: Population density datasets for all countries of the World for each year 2000-2020 – derived from the corresponding Unconstrained individual countries 2000-2020 population count datasets by dividing the number of people in each pixel by the pixel surface area. These are produced using the unconstrained top-down modelling method. -Unconstrained individual countries 2000-2020 UN adjusted: Population density datasets for all countries of the World for each year 2000-2020 – derived from the corresponding Unconstrained individual countries 2000-2020 population UN adjusted count datasets by dividing the number of people in each pixel, adjusted to match the country total from the official United Nations population estimates (UN 2019), by the pixel surface area. These are produced using the unconstrained top-down modelling method. Data for earlier dates is available directly from WorldPop. WorldPop (www.worldpop.org - School of Geography and Environmental Science, University of Southampton; Department of Geography and Geosciences, University of Louisville; Departement de Geographie, Universite de Namur) and Center for International Earth Science Information Network (CIESIN), Columbia University (2018). Global High Resolution Population Denominators Project - Funded by The Bill and Melinda Gates Foundation (OPP1134076). https://dx.doi.org/10.5258/SOTON/WP00674"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WorldPop, University of Southampton, UK"
+  ],
+  "dcat_keyword_sm": [
+    "baseline population",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "baseline population",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "India"
+  ],
+  "locn_geometry": "ENVELOPE(68.18, 97.4, 35.49, 7.97)",
+  "dcat_bbox": "ENVELOPE(68.18, 97.4, 35.49, 7.97)",
+  "dct_temporal_sm": [
+    "2000-2020"
+  ],
+  "gbl_indexYear_im": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/worldpop-population-density-for-india\",\"http://schema.org/downloadUrl\":\"https://data.worldpop.org/GIS/Population_Density/Global_2000_2020_1km/2020/IND/ind_pd_2020_1km_ASCII_XYZ.zip\"}"
+}

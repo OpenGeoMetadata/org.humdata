@@ -1,0 +1,33 @@
+{
+  "id": "hdx-70d63f2f-9091-4ea0-b620-a5d1b1304a6c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-06-25T02:31:00Z",
+  "dct_title_s": "Lebanon - Subnational Edge-matched Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Lebanon administrative level 0-3 edge-matched gazetteer and boundary files. SEE CAVEATS COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-lbn); however COD-EM datasets may be preferred for cartographic purposes. See caveats. These layers are suitable for database or GIS linkage to the [Lebanon - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-lbn) tables using the ADM0, ADM1, ADM2, and ADM3_PCODE fields. Vetting by Information Technology Outreach Services (ITOS) with funding from USAID."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Council for Development and Reconstruction (CDR) and ITOS"
+  ],
+  "dct_spatial_sm": [
+    "Lebanon"
+  ],
+  "locn_geometry": "ENVELOPE(35.13, 36.61, 34.64, 33.09)",
+  "dcat_bbox": "ENVELOPE(35.13, 36.61, 34.64, 33.09)",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "gbl_indexYear_im": [
+    2017
+  ],
+  "dct_format_s": "XLSX",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-em-lbn\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/70d63f2f-9091-4ea0-b620-a5d1b1304a6c/resource/4968e622-9454-4cf6-a102-83f113dbdf73/download/lbn_admgz.xlsx\"}"
+}

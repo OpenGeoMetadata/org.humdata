@@ -1,0 +1,41 @@
+{
+  "id": "hdx-8929fdb9-b849-4dc0-80bd-1f57f99ddd78",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-23T15:48:17Z",
+  "dct_title_s": "Satellite Detected Waters in Cobán, Chisec, Ixcán y Sayaxché Municipalities, Guatemala",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This map illustrates satellite-detected surface water extent in the northern part of Guatemala covering Chisec, Coban Ixcan and Sayaxche municipalities, using a Sentinel-1 satellite image acquired on the 09 October 2017. Sentinel-1 imagery acquired on 3 and 5 October 2017 was used as pre crisis imagery. UNITAR-UNOSAT analysis shows an expansion of water of ~ 4,600 has over the analyzed municipalities, being Sayaxche the municipality that was affected the most with an expansion of flood waters of ~ 3,200 Ha. The exact limit of flood waters is uncertain because of the low spatial resolution of the satellite data used for this analysis. Please send ground feedback to UNITAR - UNOSAT."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UNOSAT"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Guatemala"
+  ],
+  "locn_geometry": "ENVELOPE(-92.23, -88.23, 17.82, 13.74)",
+  "dcat_bbox": "ENVELOPE(-92.23, -88.23, 17.82, 13.74)",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "gbl_indexYear_im": [
+    2017
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-waters-in-coban-chisec-ixcan-y-sayaxche-municipalities-guatemala-2710\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/unosat-maps/GT/FL20171025GTM/FL20171025GTM.gdb.zip\"}"
+}

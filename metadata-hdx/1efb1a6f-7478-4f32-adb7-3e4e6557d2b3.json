@@ -17,7 +17,7 @@
   "license_title": "odc-odbl",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2024-11-19T10:23:35.472494",
-  "metadata_modified": "2026-03-02T17:27:55.556299",
+  "metadata_modified": "2026-06-06T09:10:59.616450",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
   "name": "san-marino-road-surface-data",
@@ -38,7 +38,7 @@
   },
   "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
   "package_creator": "sukanya-randhawa-6497",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 1,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"San Marino\"]}",
@@ -62,6 +62,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:23:35.479741",
@@ -73,7 +74,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_smr_roadsurface_lines.geojson",
       "id": "d2529a65-3ab8-4658-9fed-eca474df3c55",
       "last_modified": "2024-11-19T10:23:35.411282",
-      "metadata_modified": "2026-03-02T17:27:55.600460",
+      "metadata_modified": "2026-06-06T09:10:59.772158",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -88,6 +89,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:23:35.479749",
@@ -99,7 +101,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_smr_roadsurface_lines.gpkg",
       "id": "60c31a1b-25fc-44f8-b399-c845a2f4f228",
       "last_modified": "2024-11-19T10:23:35.411461",
-      "metadata_modified": "2025-08-26T11:37:27.168207",
+      "metadata_modified": "2026-06-06T09:10:59.772433",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

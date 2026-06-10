@@ -1,0 +1,39 @@
+{
+  "id": "hdx-e66dbc70-17fe-4230-b9d6-855d192fc05c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-09-05T06:55:45Z",
+  "dct_title_s": "JSON Repository",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains resources transformed from other datasets on HDX. They exist here only in a format modified to support visualization on HDX and may not be as up to date as the source datasets from which they are derived. Source datasets: https://data.hdx.rwlabs.org/dataset/idps-data-by-region-in-mali"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Various"
+  ],
+  "dcat_keyword_sm": [
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "gbl_indexYear_im": [
+    2016
+  ],
+  "dct_format_s": "CSV",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/json-repository\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/e66dbc70-17fe-4230-b9d6-855d192fc05c/resource/864ef944-a6a8-496a-b0f7-94ab37e34922/download/mli-admbnda-adm1-gov.geojson\"}"
+}

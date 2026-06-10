@@ -1,0 +1,55 @@
+{
+  "id": "hdx-cb4ff74d-0b79-4d4b-b90b-e339b8a25a87",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T21:09:21Z",
+  "dct_title_s": "Food Insecurity Mapping - West Africa (October - December 2013)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This Archive contains shapefiles for FEWS NET Food Security Outlook for **West Africa**. It was last updated on November 14, 2013. The classification used is [IPC V2.0 Compatible](http://www.fews.net/nosso-trabalho/nosso-trabalho/classifica%C3%A7%C3%A3o-integrada-de-fases), aimed to address acute food insecurity. The two shapefiles represent the two analytic periods: * xx201304_ML1 Most likely food security outcome for October-December 2013 * xx201304_ML2 Most likely food security outcome for January-March 2014 Within the shapefiles, the food security outlook is contained in a field named as ML1 or ML2 according to the outlook period. The code itself is the IPC phase. Two additional codes are used: * 66 = water * 88 = parks, forests, reserves * 99 = missing data (usually urban centers)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "FEWS NET"
+  ],
+  "dcat_keyword_sm": [
+    "agriculture-livestock",
+    "climate-weather",
+    "complex emergency-conflict-security",
+    "food security"
+  ],
+  "dct_subject_sm": [
+    "agriculture-livestock",
+    "climate-weather",
+    "complex emergency-conflict-security",
+    "food security"
+  ],
+  "dct_spatial_sm": [
+    "Burkina Faso",
+    "Central African Republic",
+    "Chad",
+    "Guinea",
+    "Liberia",
+    "Mali",
+    "Mauritania",
+    "Niger",
+    "Nigeria",
+    "Senegal",
+    "Sierra Leone"
+  ],
+  "locn_geometry": "ENVELOPE(-17.63, 27.37, 27.4, 2.27)",
+  "dcat_bbox": "ENVELOPE(-17.63, 27.37, 27.4, 2.27)",
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "gbl_indexYear_im": [
+    2013
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/food-insecurity-mapping-west-africa-october-december-2013\",\"http://schema.org/downloadUrl\":\"http://shapefiles.fews.net/west-africa201310.zip\"}"
+}

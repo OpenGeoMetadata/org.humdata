@@ -1,0 +1,47 @@
+{
+  "id": "hdx-e23c6178-ddf1-4ab3-be17-0cd8bae01f3e",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-01-21T17:42:30Z",
+  "dct_title_s": "Ethiopia Water Points Data: Multi-Source Collection with Administrative Region Tags (Admin 1, 2, 3) – Use with Caution",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset encompasses a collection of water points across Ethiopia, each annotated with administrative region tags (Admin 1, Admin 2, and Admin 3) to facilitate detailed geographic analysis. Sourced as secondary data from mWater, the dataset compiles information from multiple sources collected at various times. It provides insights into water accessibility, infrastructure types, and management across different regions. However, users are advised to exercise caution as the dataset may include water points that are no longer available or may omit new ones due to the nature of data collection. The degree of confidence in the accuracy and completeness of the data is moderate, reflecting the variability in source data and the dynamic nature of water point status. This resource is particularly useful for stakeholders in humanitarian response, development planning, and resource management, offering a broad overview but requiring validation for precision-critical applications."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "https://www.mwater.co/"
+  ],
+  "dcat_keyword_sm": [
+    "water sanitation and hygiene-wash"
+  ],
+  "dct_subject_sm": [
+    "water sanitation and hygiene-wash"
+  ],
+  "dct_spatial_sm": [
+    "Ethiopia"
+  ],
+  "locn_geometry": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dcat_bbox": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dct_temporal_sm": [
+    "2014-2022"
+  ],
+  "gbl_indexYear_im": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eth_water_points\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/e23c6178-ddf1-4ab3-be17-0cd8bae01f3e/resource/40265f98-c2fc-4295-916a-83f39f3f6ff0/download/water-points.zip\"}"
+}

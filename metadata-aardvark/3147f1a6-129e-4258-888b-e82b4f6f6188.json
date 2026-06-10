@@ -1,0 +1,41 @@
+{
+  "id": "hdx-3147f1a6-129e-4258-888b-e82b4f6f6188",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-21T15:23:49Z",
+  "dct_title_s": "Satellite detected waters extents, as of 17 November 2019 over Ouaka Prefecture of Central African Republic",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20191028CAF** This map illustrates satellite-detected surface water in Ouaka Prefecture of Central African Republic as observed from Sentinel-1 imagery acquired on 17 November 2019. Within the analysed extent of about 1,950 km2, a total about 4 km2 of land appear to be flooded. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR - UNOSAT. Important note: Flood analysis from SAR Sentinel-1 images may significantly underestimate the presence of standing waters in built up and/or densely vegetated areas due to backscattering of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Central African Republic"
+  ],
+  "locn_geometry": "ENVELOPE(14.46, 27.37, 11.14, 2.27)",
+  "dcat_bbox": "ENVELOPE(14.46, 27.37, 11.14, 2.27)",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "gbl_indexYear_im": [
+    2019
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/waters-extents-as-of-17-november-2019-over-ouaka-prefecture-of-central-african-republic\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/unosat-maps/CF/FL20191028CAF/FL20191028CAF_gdb.zip\"}"
+}

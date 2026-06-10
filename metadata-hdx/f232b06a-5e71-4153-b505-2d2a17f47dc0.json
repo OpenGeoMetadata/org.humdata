@@ -17,7 +17,7 @@
   "license_title": "odc-odbl",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2024-11-19T10:18:24.487842",
-  "metadata_modified": "2026-03-02T17:00:42.019447",
+  "metadata_modified": "2026-06-06T10:52:48.480040",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
   "name": "syrian-arab-republic-road-surface-data",
@@ -38,7 +38,7 @@
   },
   "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
   "package_creator": "sukanya-randhawa-6497",
-  "pageviews_last_14_days": 2,
+  "pageviews_last_14_days": 3,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Syrian Arab Republic\"]}",
@@ -62,6 +62,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:18:24.498537",
@@ -73,7 +74,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_syr_roadsurface_lines.geojson",
       "id": "fa007499-19d4-4e05-b90b-3b3a7384ffee",
       "last_modified": "2024-11-19T10:18:24.456379",
-      "metadata_modified": "2026-03-02T17:00:42.082152",
+      "metadata_modified": "2026-06-06T10:52:48.534625",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -88,6 +89,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:18:24.498543",
@@ -99,7 +101,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_syr_roadsurface_lines.gpkg",
       "id": "e312b0e3-7ee0-430d-b875-a51d07e56b9c",
       "last_modified": "2024-11-19T10:18:24.456650",
-      "metadata_modified": "2026-03-02T16:50:02.854738",
+      "metadata_modified": "2026-06-06T10:52:48.534805",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

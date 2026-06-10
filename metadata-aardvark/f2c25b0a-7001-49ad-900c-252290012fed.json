@@ -1,0 +1,41 @@
+{
+  "id": "hdx-f2c25b0a-7001-49ad-900c-252290012fed",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-12-19T17:14:56Z",
+  "dct_title_s": "Satellite detected water extents in Northeastern part of Thailand",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20210928THA** This map illustrates satellite-detected surface waters in Khon Kaen, Chaiyaphum, Nakhon Ratchasima, and Nong Bua Lam Phu provinces, Thailand as observed from a Sentinel-1 image acquired on 5 Oct 2021 at 18:20 local time and using an automated analysis with Machine learning method. Within the analyzed area of about 40,500 km2 , about 770 km2 of lands appear to be flooded. The water extent appears to have decreased of about 70 km2 since 29 September 2021. Based on Worldpop population data and the detected surface waters in the analyzed area, the potentially exposed population is mainly located in the district of Phimai with ~ 10,400 people, Non Sung with ~ 9,000 people, Mueang Chaiyaphum with ~ 6,700 people, Mueang Khon Kaen with ~ 4,500 people, and Chonnabot Thai with ~ 4,300 people. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Thailand"
+  ],
+  "locn_geometry": "ENVELOPE(97.38, 105.59, 20.42, 5.69)",
+  "dcat_bbox": "ENVELOPE(97.38, 105.59, 20.42, 5.69)",
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-water-extents-in-northeastern-part-of-thailand\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/TH/FL20210928THA/FL20210928THA_gdb.zip\"}"
+}

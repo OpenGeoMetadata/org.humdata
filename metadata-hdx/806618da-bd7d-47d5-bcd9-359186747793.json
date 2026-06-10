@@ -1,0 +1,132 @@
+{
+  "archived": false,
+  "batch": "9046e63c-9897-44de-b7f3-28e144aef15b",
+  "creator_user_id": "5f7f9cc7-b9e0-4313-9a61-aee16cc64460",
+  "data_update_frequency": "365",
+  "dataset_date": "[2022-11-21T00:00:00 TO 2024-03-21T23:59:59]",
+  "dataset_preview": "resource_id",
+  "dataset_source": "Humanitarian partners",
+  "due_date": "2025-03-21T23:59:59",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "806618da-bd7d-47d5-bcd9-359186747793",
+  "is_requestdata_type": false,
+  "isopen": false,
+  "last_modified": "2022-11-21T09:45:04.715702",
+  "license_id": "other-pd-nr",
+  "license_title": "Public Domain / No restrictions (CC0)",
+  "maintainer": "5f7f9cc7-b9e0-4313-9a61-aee16cc64460",
+  "metadata_created": "2022-11-21T09:44:58.364073",
+  "metadata_modified": "2025-05-05T11:07:50.647271",
+  "methodology": "Sample Survey",
+  "name": "mozambique-roads",
+  "notes": "This dataset gives the road names, type and condition in Mozambique.",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "id": "4af7c80c-bddb-4673-864b-e37bde95274c",
+    "name": "ocha-mozambique-hat",
+    "title": "OCHA Mozambique",
+    "type": "organization",
+    "description": "OCHA Mozambique Humanitarian Advisory Team responding to Cyclone Idai.",
+    "image_url": "",
+    "created": "2019-04-04T20:43:33.322371",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "4af7c80c-bddb-4673-864b-e37bde95274c",
+  "package_creator": "abdul-rahimo-9480",
+  "pageviews_last_14_days": 10,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Mozambique\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Mozambique: Roads",
+  "total_res_downloads": 512,
+  "type": "dataset",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Mozambique",
+      "id": "moz",
+      "image_display_url": "",
+      "name": "moz",
+      "title": "Mozambique"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/806618da-bd7d-47d5-bcd9-359186747793/resource/3ec5ccd8-893e-46c1-8fbf-7af1a4e83dac/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2022-11-21T09:45:04.951052",
+      "dataset_preview_enabled": true,
+      "datastore_active": false,
+      "description": "Road names and type in Mozambique.",
+      "download_url": "https://data.humdata.org/dataset/806618da-bd7d-47d5-bcd9-359186747793/resource/3ec5ccd8-893e-46c1-8fbf-7af1a4e83dac/download/moz_roads.zip",
+      "format": "SHP",
+      "hash": "",
+      "hdx_rel_url": "/dataset/806618da-bd7d-47d5-bcd9-359186747793/resource/3ec5ccd8-893e-46c1-8fbf-7af1a4e83dac/download/moz_roads.zip",
+      "id": "3ec5ccd8-893e-46c1-8fbf-7af1a4e83dac",
+      "last_modified": "2022-11-21T09:45:04.715702",
+      "metadata_modified": "2025-05-05T11:07:50.674943",
+      "microdata": false,
+      "mimetype": "application/x-zip-compressed",
+      "mimetype_inner": null,
+      "name": "Mozambique_Roads.zip",
+      "originalHash": -289300733,
+      "package_id": "806618da-bd7d-47d5-bcd9-359186747793",
+      "pii": "false",
+      "position": 0,
+      "resource_type": "file.upload",
+      "shape_info": "[{\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2022-11-21T09:45:04.533018\"}, {\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2022-11-21T09:47:03.800376\"}, {\"state\": \"success\", \"message\": \"Import successful\", \"layer_id\": \"pre_3ec5ccd8_893e_46c1_8fbf_7af1a4e83dac\", \"error_type\": \"None\", \"error_class\": \"None\", \"bounding_box\": \"BOX(30.2486480593586 -26.861255241452,40.759577898487 -10.5672972915147)\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"objectid\", \"data_type\": \"numeric\"}, {\"field_name\": \"estrada\", \"data_type\": \"numeric\"}, {\"field_name\": \"enova\", \"data_type\": \"numeric\"}, {\"field_name\": \"prov\", \"data_type\": \"numeric\"}, {\"field_name\": \"tro\\u00e7o\", \"data_type\": \"character varying\"}, {\"field_name\": \"sequ\\u00eancia\", \"data_type\": \"numeric\"}, {\"field_name\": \"dist1\", \"data_type\": \"character varying\"}, {\"field_name\": \"s_fic\", \"data_type\": \"character varying\"}, {\"field_name\": \"cond\", \"data_type\": \"character varying\"}, {\"field_name\": \"code\", \"data_type\": \"character varying\"}, {\"field_name\": \"manut96\", \"data_type\": \"character varying\"}, {\"field_name\": \"tr94\", \"data_type\": \"numeric\"}, {\"field_name\": \"sadc\", \"data_type\": \"numeric\"}, {\"field_name\": \"c_viak\", \"data_type\": \"character varying\"}, {\"field_name\": \"d_pais\", \"data_type\": \"character varying\"}, {\"field_name\": \"t_velho\", \"data_type\": \"numeric\"}, {\"field_name\": \"local_i\", \"data_type\": \"character varying\"}, {\"field_name\": \"local_f\", \"data_type\": \"character varying\"}, {\"field_name\": \"nod_i\", \"data_type\": \"numeric\"}, {\"field_name\": \"nod_f\", \"data_type\": \"numeric\"}, {\"field_name\": \"cruz_i\", \"data_type\": \"character varying\"}, {\"field_name\": \"cruz_f\", \"data_type\": \"character varying\"}, {\"field_name\": \"levantado\", \"data_type\": \"character varying\"}, {\"field_name\": \"type\", \"data_type\": \"character varying\"}, {\"field_name\": \"roadno\", \"data_type\": \"character varying\"}, {\"field_name\": \"pavedtype\", \"data_type\": \"character varying\"}, {\"field_name\": \"id\", \"data_type\": \"character varying\"}, {\"field_name\": \"newno\", \"data_type\": \"character varying\"}, {\"field_name\": \"road_name\", \"data_type\": \"character varying\"}, {\"field_name\": \"reason\", \"data_type\": \"character varying\"}, {\"field_name\": \"provincia\", \"data_type\": \"character varying\"}, {\"field_name\": \"oldid\", \"data_type\": \"character varying\"}, {\"field_name\": \"oldtype\", \"data_type\": \"character varying\"}, {\"field_name\": \"uncontype\", \"data_type\": \"character varying\"}, {\"field_name\": \"uncon_name\", \"data_type\": \"character varying\"}, {\"field_name\": \"length\", \"data_type\": \"character varying\"}, {\"field_name\": \"typequal\", \"data_type\": \"character varying\"}, {\"field_name\": \"shape_leng\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"timestamp\": \"2022-11-21T09:47:08.076046\"}, {\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2022-11-21T14:28:12.334558\"}, {\"state\": \"success\", \"message\": \"Import successful\", \"layer_id\": \"pre_3ec5ccd8_893e_46c1_8fbf_7af1a4e83dac\", \"error_type\": \"None\", \"error_class\": \"None\", \"bounding_box\": \"BOX(30.2486480593586 -26.861255241452,40.759577898487 -10.5672972915147)\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"objectid\", \"data_type\": \"numeric\"}, {\"field_name\": \"estrada\", \"data_type\": \"numeric\"}, {\"field_name\": \"enova\", \"data_type\": \"numeric\"}, {\"field_name\": \"prov\", \"data_type\": \"numeric\"}, {\"field_name\": \"tro\\u00e7o\", \"data_type\": \"character varying\"}, {\"field_name\": \"sequ\\u00eancia\", \"data_type\": \"numeric\"}, {\"field_name\": \"dist1\", \"data_type\": \"character varying\"}, {\"field_name\": \"s_fic\", \"data_type\": \"character varying\"}, {\"field_name\": \"cond\", \"data_type\": \"character varying\"}, {\"field_name\": \"code\", \"data_type\": \"character varying\"}, {\"field_name\": \"manut96\", \"data_type\": \"character varying\"}, {\"field_name\": \"tr94\", \"data_type\": \"numeric\"}, {\"field_name\": \"sadc\", \"data_type\": \"numeric\"}, {\"field_name\": \"c_viak\", \"data_type\": \"character varying\"}, {\"field_name\": \"d_pais\", \"data_type\": \"character varying\"}, {\"field_name\": \"t_velho\", \"data_type\": \"numeric\"}, {\"field_name\": \"local_i\", \"data_type\": \"character varying\"}, {\"field_name\": \"local_f\", \"data_type\": \"character varying\"}, {\"field_name\": \"nod_i\", \"data_type\": \"numeric\"}, {\"field_name\": \"nod_f\", \"data_type\": \"numeric\"}, {\"field_name\": \"cruz_i\", \"data_type\": \"character varying\"}, {\"field_name\": \"cruz_f\", \"data_type\": \"character varying\"}, {\"field_name\": \"levantado\", \"data_type\": \"character varying\"}, {\"field_name\": \"type\", \"data_type\": \"character varying\"}, {\"field_name\": \"roadno\", \"data_type\": \"character varying\"}, {\"field_name\": \"pavedtype\", \"data_type\": \"character varying\"}, {\"field_name\": \"id\", \"data_type\": \"character varying\"}, {\"field_name\": \"newno\", \"data_type\": \"character varying\"}, {\"field_name\": \"road_name\", \"data_type\": \"character varying\"}, {\"field_name\": \"reason\", \"data_type\": \"character varying\"}, {\"field_name\": \"provincia\", \"data_type\": \"character varying\"}, {\"field_name\": \"oldid\", \"data_type\": \"character varying\"}, {\"field_name\": \"oldtype\", \"data_type\": \"character varying\"}, {\"field_name\": \"uncontype\", \"data_type\": \"character varying\"}, {\"field_name\": \"uncon_name\", \"data_type\": \"character varying\"}, {\"field_name\": \"length\", \"data_type\": \"character varying\"}, {\"field_name\": \"typequal\", \"data_type\": \"character varying\"}, {\"field_name\": \"shape_leng\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"timestamp\": \"2022-11-21T14:28:15.613321\"}, {\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2023-08-25T07:39:39.173268\"}, {\"state\": \"success\", \"message\": \"Import successful\", \"layer_id\": \"pre_3ec5ccd8_893e_46c1_8fbf_7af1a4e83dac\", \"error_type\": \"None\", \"error_class\": \"None\", \"bounding_box\": \"BOX(30.248648059358594 -26.861255241452042,40.75957789848699 -10.567297291514713)\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"objectid\", \"data_type\": \"numeric\"}, {\"field_name\": \"estrada\", \"data_type\": \"numeric\"}, {\"field_name\": \"enova\", \"data_type\": \"numeric\"}, {\"field_name\": \"prov\", \"data_type\": \"numeric\"}, {\"field_name\": \"tro\\u00e7o\", \"data_type\": \"character varying\"}, {\"field_name\": \"sequ\\u00eancia\", \"data_type\": \"numeric\"}, {\"field_name\": \"dist1\", \"data_type\": \"character varying\"}, {\"field_name\": \"s_fic\", \"data_type\": \"character varying\"}, {\"field_name\": \"cond\", \"data_type\": \"character varying\"}, {\"field_name\": \"code\", \"data_type\": \"character varying\"}, {\"field_name\": \"manut96\", \"data_type\": \"character varying\"}, {\"field_name\": \"tr94\", \"data_type\": \"numeric\"}, {\"field_name\": \"sadc\", \"data_type\": \"numeric\"}, {\"field_name\": \"c_viak\", \"data_type\": \"character varying\"}, {\"field_name\": \"d_pais\", \"data_type\": \"character varying\"}, {\"field_name\": \"t_velho\", \"data_type\": \"numeric\"}, {\"field_name\": \"local_i\", \"data_type\": \"character varying\"}, {\"field_name\": \"local_f\", \"data_type\": \"character varying\"}, {\"field_name\": \"nod_i\", \"data_type\": \"numeric\"}, {\"field_name\": \"nod_f\", \"data_type\": \"numeric\"}, {\"field_name\": \"cruz_i\", \"data_type\": \"character varying\"}, {\"field_name\": \"cruz_f\", \"data_type\": \"character varying\"}, {\"field_name\": \"levantado\", \"data_type\": \"character varying\"}, {\"field_name\": \"type\", \"data_type\": \"character varying\"}, {\"field_name\": \"roadno\", \"data_type\": \"character varying\"}, {\"field_name\": \"pavedtype\", \"data_type\": \"character varying\"}, {\"field_name\": \"id\", \"data_type\": \"character varying\"}, {\"field_name\": \"newno\", \"data_type\": \"character varying\"}, {\"field_name\": \"road_name\", \"data_type\": \"character varying\"}, {\"field_name\": \"reason\", \"data_type\": \"character varying\"}, {\"field_name\": \"provincia\", \"data_type\": \"character varying\"}, {\"field_name\": \"oldid\", \"data_type\": \"character varying\"}, {\"field_name\": \"oldtype\", \"data_type\": \"character varying\"}, {\"field_name\": \"uncontype\", \"data_type\": \"character varying\"}, {\"field_name\": \"uncon_name\", \"data_type\": \"character varying\"}, {\"field_name\": \"length\", \"data_type\": \"character varying\"}, {\"field_name\": \"typequal\", \"data_type\": \"character varying\"}, {\"field_name\": \"shape_leng\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"timestamp\": \"2023-08-25T07:39:43.404707\"}, {\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2024-09-18T07:21:31.092145\"}, {\"state\": \"success\", \"message\": \"Import successful\", \"layer_id\": \"pre_3ec5ccd8_893e_46c1_8fbf_7af1a4e83dac\", \"error_type\": \"None\", \"error_class\": \"None\", \"bounding_box\": \"BOX(30.248648059358594 -26.861255241452042,40.75957789848699 -10.567297291514713)\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"objectid\", \"data_type\": \"numeric\"}, {\"field_name\": \"estrada\", \"data_type\": \"numeric\"}, {\"field_name\": \"enova\", \"data_type\": \"numeric\"}, {\"field_name\": \"prov\", \"data_type\": \"numeric\"}, {\"field_name\": \"tro\\u00e7o\", \"data_type\": \"character varying\"}, {\"field_name\": \"sequ\\u00eancia\", \"data_type\": \"numeric\"}, {\"field_name\": \"dist1\", \"data_type\": \"character varying\"}, {\"field_name\": \"s_fic\", \"data_type\": \"character varying\"}, {\"field_name\": \"cond\", \"data_type\": \"character varying\"}, {\"field_name\": \"code\", \"data_type\": \"character varying\"}, {\"field_name\": \"manut96\", \"data_type\": \"character varying\"}, {\"field_name\": \"tr94\", \"data_type\": \"numeric\"}, {\"field_name\": \"sadc\", \"data_type\": \"numeric\"}, {\"field_name\": \"c_viak\", \"data_type\": \"character varying\"}, {\"field_name\": \"d_pais\", \"data_type\": \"character varying\"}, {\"field_name\": \"t_velho\", \"data_type\": \"numeric\"}, {\"field_name\": \"local_i\", \"data_type\": \"character varying\"}, {\"field_name\": \"local_f\", \"data_type\": \"character varying\"}, {\"field_name\": \"nod_i\", \"data_type\": \"numeric\"}, {\"field_name\": \"nod_f\", \"data_type\": \"numeric\"}, {\"field_name\": \"cruz_i\", \"data_type\": \"character varying\"}, {\"field_name\": \"cruz_f\", \"data_type\": \"character varying\"}, {\"field_name\": \"levantado\", \"data_type\": \"character varying\"}, {\"field_name\": \"type\", \"data_type\": \"character varying\"}, {\"field_name\": \"roadno\", \"data_type\": \"character varying\"}, {\"field_name\": \"pavedtype\", \"data_type\": \"character varying\"}, {\"field_name\": \"id\", \"data_type\": \"character varying\"}, {\"field_name\": \"newno\", \"data_type\": \"character varying\"}, {\"field_name\": \"road_name\", \"data_type\": \"character varying\"}, {\"field_name\": \"reason\", \"data_type\": \"character varying\"}, {\"field_name\": \"provincia\", \"data_type\": \"character varying\"}, {\"field_name\": \"oldid\", \"data_type\": \"character varying\"}, {\"field_name\": \"oldtype\", \"data_type\": \"character varying\"}, {\"field_name\": \"uncontype\", \"data_type\": \"character varying\"}, {\"field_name\": \"uncon_name\", \"data_type\": \"character varying\"}, {\"field_name\": \"length\", \"data_type\": \"character varying\"}, {\"field_name\": \"typequal\", \"data_type\": \"character varying\"}, {\"field_name\": \"shape_leng\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"timestamp\": \"2024-09-18T07:21:38.727524\"}]",
+      "size": 513230,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/806618da-bd7d-47d5-bcd9-359186747793/resource/3ec5ccd8-893e-46c1-8fbf-7af1a4e83dac/download/moz_roads.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "africa",
+      "id": "9b05220b-0f1e-46ba-912a-36a895c04695",
+      "name": "africa",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "logistics",
+      "id": "f62348c5-1d96-4b3a-9133-5e8b48b0d1af",
+      "name": "logistics",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "roads",
+      "id": "a775d5e5-2168-4b89-b415-87d77e424b0c",
+      "name": "roads",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "transportation",
+      "id": "ee1a5568-91f1-4274-b10a-846a81335975",
+      "name": "transportation",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hdx-6ee7cbc2-897d-4a3d-85bd-a57bab562a63",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-10-31T16:28:26Z",
+  "dct_title_s": "Ethiopia: Seasonal Vegetation Health Index (June, July, August, & September)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "These datasets provide Ethiopia’s Vegetation Health Index (VHI) values for the past five years, focusing specifically on the growing season from June to September. The Vegetation Health Index (VHI) is a satellite-derived indicator used to monitor the overall health and stress conditions of vegetation, particularly in relation to drought, heat, and moisture availability. It offers an integrated measure by combining data on vegetation greenness and thermal conditions. VHI is a vital remote sensing index for assessing vegetation condition, drought impacts, and agricultural stress. It combines two indices: the Vegetation Condition Index (VCI), which reflects vegetation greenness, biomass, and vigor; and the Temperature Condition Index (TCI), which indicates thermal conditions including heat and water stress. The long-term dataset analyzed for seasonal VHI spans from 2000 to the present, concentrating on the months of June, July, August, and September, corresponding to the Ethiopian growing season. These time series datasets highlight VHI values for the most recent five growing seasons, enabling direct comparison with current year conditions."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "3iS"
+  ],
+  "dct_spatial_sm": [
+    "Ethiopia"
+  ],
+  "locn_geometry": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dcat_bbox": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/ethiopia-seasonal-vegetation-health-index-june-july-august-september\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/6ee7cbc2-897d-4a3d-85bd-a57bab562a63/resource/810b740c-d37f-4f5c-827e-563d55af4957/download/vhi_seasonal_whole_ethiopia_2025.tif\"}"
+}

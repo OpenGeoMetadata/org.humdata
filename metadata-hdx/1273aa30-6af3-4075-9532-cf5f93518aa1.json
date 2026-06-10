@@ -1,0 +1,118 @@
+{
+  "archived": true,
+  "batch": "0da571e1-719c-4c5b-b396-599dec0a8c5e",
+  "caveats": "",
+  "creator_user_id": "1a008a13-52b1-4326-a9ea-aa541372577c",
+  "data_update_frequency": "-1",
+  "dataset_date": "[2023-02-27T00:00:00 TO 2023-03-03T23:59:59]",
+  "dataset_preview": "no_preview",
+  "dataset_source": "WFP ADAM",
+  "has_geodata": true,
+  "has_showcases": true,
+  "id": "1273aa30-6af3-4075-9532-cf5f93518aa1",
+  "is_requestdata_type": false,
+  "isopen": true,
+  "last_modified": "2023-03-03T07:48:54",
+  "license_id": "cc-by-sa",
+  "license_title": "Creative Commons Attribution Share-Alike (CC BY-SA)",
+  "license_url": "http://www.opendefinition.org/licenses/cc-by-sa",
+  "maintainer": "196196be-6037-4488-8b71-d786adf4c081",
+  "metadata_created": "2023-08-28T23:20:32.633906",
+  "metadata_modified": "2025-08-26T11:40:38.682951",
+  "methodology": "Other",
+  "methodology_other": "ADAM is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies. Currently operational for floods, earthquakes and tropical storms, ADAM issues alerts and response dashboards aggregating relevant, evidence-based, near-real time risk and impact information. ",
+  "name": "vanuatu-cyclone-1000965",
+  "notes": "A cyclone (tropical storm) during the period Feb 27 2023-Mar 03 2023 in Vanuatu. It impacted 190950 people.",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "id": "1ca198b6-e490-4cd0-9c1a-5b91bad9879a",
+    "name": "automated-disaster-analysis-mapping",
+    "title": "WFP Automated Disaster Analysis & Mapping",
+    "type": "organization",
+    "description": "**As of August 2025, this page is no longer actively maintained or updated. Sorry for any inconvenience caused. For the latest disaster alerts please visit: https://adam.geospatial.wfp.org/live**\r\n<br />\r\n<br />\r\nWFP's corporate geospatial solution for emergency preparedness, early warning & response.\r\n<br />\r\n<br />\r\nAutomated Disaster Analysis and Mapping (ADAM) is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies. Currently operational for floods, earthquakes and tropical storms, ADAM issues alerts and response dashboards aggregating relevant, evidence-based, near-real time risk and impact information.\r\n\r\nMore WFP data can be found here: https://data.humdata.org/organization/wfp",
+    "image_url": "",
+    "created": "2023-02-22T04:15:38.542670",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "1ca198b6-e490-4cd0-9c1a-5b91bad9879a",
+  "package_creator": "mcarans",
+  "pageviews_last_14_days": 0,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Vanuatu\"]}",
+  "state": "active",
+  "subnational": "0",
+  "title": "Vanuatu: Cyclone - Tropical storm - Mar 2023",
+  "total_res_downloads": 0,
+  "type": "dataset",
+  "updated_by_script": "HDXINTERNAL:HDXPythonLibrary/6.1.3-ArchiveOldDatasets (2023-10-16T22:01:52.970207)",
+  "url": null,
+  "version": null,
+  "customviz": [
+    {
+      "url": "https://mcarans.github.io/view-images/#https://adam-project-prod.s3-eu-west-1.amazonaws.com/adam_ts/events/2023/03/1000965_18/adam_ts_1000965_18.jpg"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Vanuatu",
+      "id": "vut",
+      "image_display_url": "",
+      "name": "vut",
+      "title": "Vanuatu"
+    }
+  ],
+  "resources": [
+    {
+      "broken_link": true,
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2023-08-28T23:20:32.637389",
+      "dataset_preview_enabled": false,
+      "datastore_active": false,
+      "description": "Shape File",
+      "download_url": "https://adam-project-prod.s3-eu-west-1.amazonaws.com/adam_ts/events/2023/03/1000965_18/ADAM_TS_1000965_18_shp.zip",
+      "format": "SHP",
+      "hash": "",
+      "hdx_rel_url": "https://adam-project-prod.s3-eu-west-1.amazonaws.com/adam_ts/events/2023/03/1000965_18/ADAM_TS_1000965_18_shp.zip",
+      "id": "b4fdbef9-0c93-4ca6-b14f-fb0782338865",
+      "last_modified": "2023-03-03T07:48:54",
+      "metadata_modified": "2025-08-26T11:40:38.695031",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "ADAM_TS_1000965_18_shp.zip",
+      "p_coded": false,
+      "package_id": "1273aa30-6af3-4075-9532-cf5f93518aa1",
+      "position": 0,
+      "resource_type": "api",
+      "shape_info": "[{\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2023-08-28T23:20:32.551542\"}, {\"state\": \"failure\", \"message\": \"403 Client Error: Forbidden for url: https://adam-project-prod.s3-eu-west-1.amazonaws.com/adam_ts/events/2023/03/1000965_18/ADAM_TS_1000965_18_shp.zip\", \"layer_id\": \"pre_b4fdbef9_0c93_4ca6_b14f_fb0782338865\", \"error_type\": \"None\", \"error_class\": \"HTTPError\", \"type\": \"unknown\", \"timestamp\": \"2023-08-28T23:20:33.781851\"}, {\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2023-09-12T04:13:24.195719\"}, {\"state\": \"failure\", \"message\": \"403 Client Error: Forbidden for url: https://adam-project-prod.s3-eu-west-1.amazonaws.com/adam_ts/events/2023/03/1000965_18/ADAM_TS_1000965_18_shp.zip\", \"layer_id\": \"pre_b4fdbef9_0c93_4ca6_b14f_fb0782338865\", \"error_type\": \"None\", \"error_class\": \"HTTPError\", \"type\": \"unknown\", \"timestamp\": \"2023-09-12T04:13:25.212827\"}, {\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2023-09-12T04:25:18.802895\"}, {\"state\": \"failure\", \"message\": \"403 Client Error: Forbidden for url: https://adam-project-prod.s3-eu-west-1.amazonaws.com/adam_ts/events/2023/03/1000965_18/ADAM_TS_1000965_18_shp.zip\", \"layer_id\": \"pre_b4fdbef9_0c93_4ca6_b14f_fb0782338865\", \"error_type\": \"None\", \"error_class\": \"HTTPError\", \"type\": \"unknown\", \"timestamp\": \"2023-09-12T04:25:19.686779\"}]",
+      "size": null,
+      "state": "active",
+      "url": "https://adam-project-prod.s3-eu-west-1.amazonaws.com/adam_ts/events/2023/03/1000965_18/ADAM_TS_1000965_18_shp.zip",
+      "url_type": "api"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "cyclones-hurricanes-typhoons",
+      "id": "326e097b-96f2-46e4-8ef4-0a8d4401a646",
+      "name": "cyclones-hurricanes-typhoons",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

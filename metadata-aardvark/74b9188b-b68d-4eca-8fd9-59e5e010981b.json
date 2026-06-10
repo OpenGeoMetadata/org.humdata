@@ -1,0 +1,41 @@
+{
+  "id": "hdx-74b9188b-b68d-4eca-8fd9-59e5e010981b",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-05-22T10:21:18Z",
+  "dct_title_s": "Mali Qlik Sense Template-COD",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "(Beta) Qlik Sense COD template app and its source data including the administrative hierarchy table and geographical data (KML). The KML files in this data set are optimized for Qlik Sense and are not the substitute for the original COD data sets used in the GIS applications. To see the differences, refer CAVEATS/COMMENTS in the Metadata. The data set is currently under the user acceptance testing phase."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "ITOS"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "hxl"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "hxl"
+  ],
+  "dct_spatial_sm": [
+    "Mali"
+  ],
+  "locn_geometry": "ENVELOPE(-12.17, 4.27, 24.97, 10.1)",
+  "dcat_bbox": "ENVELOPE(-12.17, 4.27, 24.97, 10.1)",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "gbl_indexYear_im": [
+    2019
+  ],
+  "dct_format_s": "CSV",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/qlik-sense-template-cod-mli\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/74b9188b-b68d-4eca-8fd9-59e5e010981b/resource/6faf8d60-037a-499d-bed2-8bc5d095beb8/download/cod_mli_admin0_kml.kml\"}"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hdx-f7264567-0666-4fbe-b2ed-a3cee4a3c86b",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-21T16:38:04Z",
+  "dct_title_s": "Bangladesh - Satellite Detected Water Extent in Chittagong District, Chittagong  Division",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This map illustrates the satellite-detected water extent in the District of Chittagong, Chittagong Division, in the southeastern part of Bangladesh after the tropical cyclone Mora-17. The UNITAR-UNOSAT analysis used a Sentinel-1 satellite image acquired on the 30 May 2017 and detected several areas with standing waters. In the district of Chittagong ~4,790 ha are likely flooded and almost 12 km of the local roads seem to be affected. The population exposure analysis using WorldPop data shows that ~70,000 people are potentially affected by floods within map extent. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR - UNOSAT."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UNOSAT"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Bangladesh"
+  ],
+  "locn_geometry": "ENVELOPE(88.08, 92.67, 26.45, 20.67)",
+  "dcat_bbox": "ENVELOPE(88.08, 92.67, 26.45, 20.67)",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "gbl_indexYear_im": [
+    2017
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-water-extent-in-chittagong-district-chittagong-division-bangladesh\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/unosat-maps/BD/TC20170529BGD/TC20170529BGD_gdb.zip\"}"
+}

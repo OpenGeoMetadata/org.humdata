@@ -1,0 +1,37 @@
+{
+  "id": "hdx-61842b69-8241-43ca-baa0-bc5222889e0f",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T18:27:06Z",
+  "dct_title_s": "Niue_Population_Grid_2020",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Population Raster Niue 2020 Data Input: Household locations from Open Street Maps - HOSM Niue Building footprint. https://data.humdata.org/dataset/hotosm_niu_buildings Population allocated proportionally using 2011 census population counts at enumeration area level. Year Population Growth Rate of 0.76% has been applied to update population up to 2020 The human settlement footprint with census population allocated has been converted into a 100 m resolution raster. _Access this dataset from the [Pacific Data Hub](https://pacificdata.org/data/dataset/niu_population_grid_2020)_"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "SPC Statistics for Development Division (SDD)"
+  ],
+  "dcat_keyword_sm": [
+    "population"
+  ],
+  "dct_subject_sm": [
+    "population"
+  ],
+  "dct_spatial_sm": [
+    "Niue"
+  ],
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/pdh-niue_population_grid_2020\",\"http://schema.org/downloadUrl\":\"https://pacificdata.org/data/dataset/f0ae6b16-af3d-40d4-b8f2-a04b2744f9e5/resource/85b5e76d-0f83-4cde-899b-0c2df1a8137f/download/niu_pop_grid_2020.tif.tif\"}"
+}

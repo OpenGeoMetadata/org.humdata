@@ -1,0 +1,56 @@
+{
+  "id": "hdx-cf660232-00f8-47e8-bad4-df3506887d4e",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T21:09:22Z",
+  "dct_title_s": "Food Insecurity Mapping - West Africa (April - June 2015)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This Archive contains shapefiles for FEWS NET Food Security Outlook for **East Africa**. It was last updated on June 30, 2015. The classification used is [IPC V2.0 Compatible](http://www.fews.net/nosso-trabalho/nosso-trabalho/classifica%C3%A7%C3%A3o-integrada-de-fases), aimed to address acute food insecurity. The two shapefiles represent the two analytic periods: * westafrica201304_ML1 Most likely food security outcome for April-June 2015 * westafrica201304_ML2 Most likely food security outcome for July-September 2015 Within the shapefiles, the food security outlook is contained in a field named as ML1 or ML2 according to the outlook period. The code itself is the IPC phase. Two additional codes are used: * 66 = water * 88 = parks, forests, reserves * 99 = missing data (usually urban centers)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "FEWS NET"
+  ],
+  "dcat_keyword_sm": [
+    "agriculture-livestock",
+    "climate-weather",
+    "complex emergency-conflict-security",
+    "el nino-el nina",
+    "food security"
+  ],
+  "dct_subject_sm": [
+    "agriculture-livestock",
+    "climate-weather",
+    "complex emergency-conflict-security",
+    "el nino-el nina",
+    "food security"
+  ],
+  "dct_spatial_sm": [
+    "Central African Republic",
+    "Chad",
+    "Guinea",
+    "Liberia",
+    "Mali",
+    "Mauritania",
+    "Niger",
+    "Nigeria",
+    "Senegal",
+    "Sierra Leone"
+  ],
+  "locn_geometry": "ENVELOPE(-17.63, 27.37, 27.4, 2.27)",
+  "dcat_bbox": "ENVELOPE(-17.63, 27.37, 27.4, 2.27)",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "gbl_indexYear_im": [
+    2015
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/food-insecurity-mapping-west-africa-april-june-2015\",\"http://schema.org/downloadUrl\":\"http://shapefiles.fews.net/west-africa201504.zip\"}"
+}

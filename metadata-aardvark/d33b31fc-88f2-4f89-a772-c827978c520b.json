@@ -1,0 +1,41 @@
+{
+  "id": "hdx-d33b31fc-88f2-4f89-a772-c827978c520b",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T21:30:23Z",
+  "dct_title_s": "Satellite detected water extent over Shabelle District, Shabelle Region, Ethiopia as of 28 March 2023",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code FL20230327SOM** This map illustrates satellite detected surface waters in Shabelle District, Shabelle Region, Ethiopia as observed from a Sentinel-2 image acquired on 28 March 2023 at 07:49 UTC. Within the analyzed area of about 44,000 km2, about 485 km2 of lands appear to be flooded. Based on Worldpop population data and the detected surface waters in the analyzed area, 40,000 people are potentially exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to United Nations Satellite Centre (UNOSAT)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Ethiopia"
+  ],
+  "locn_geometry": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dcat_bbox": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extent-over-shabelle-district-shabelle-region-ethiopia-as-of-28-march-2023\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3550/FL20230327SOM_gdb.zip\"}"
+}

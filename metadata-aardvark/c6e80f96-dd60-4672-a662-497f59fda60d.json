@@ -1,0 +1,41 @@
+{
+  "id": "hdx-c6e80f96-dd60-4672-a662-497f59fda60d",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-25T03:37:49Z",
+  "dct_title_s": "Satellite detected water extents in Red River Delta, Viet Nam as of 25 September 2024",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: TC20240905VNM, GDACS ID: 1001090** Satellite detected water extents in Red River Delta, Viet Nam as of 25 September 2024 This map illustrates the floods using Sentinel-1 images acquired on 25 September 2024 at 05:58 local time. Within the analysed area of about 38,000 km², a total of about 600 km² of land appears to be affected by flood waters. Flood extent appears to have decreased by about 700 km² since 13 September 2024. Based on Worldpop spatial demographic data, about 400,000 people are exposed or living close to flooded areas as of 25 September 2024. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to the United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to the backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Viet Nam"
+  ],
+  "locn_geometry": "ENVELOPE(102.17, 109.34, 23.35, 8.6)",
+  "dcat_bbox": "ENVELOPE(102.17, 109.34, 23.35, 8.6)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-water-extents-in-red-river-delta-viet-nam-as-of-25-september-2024\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3981/TC20240905VNM_GDB.zip\"}"
+}

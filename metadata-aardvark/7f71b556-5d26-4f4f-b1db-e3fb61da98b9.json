@@ -1,0 +1,42 @@
+{
+  "id": "hdx-7f71b556-5d26-4f4f-b1db-e3fb61da98b9",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-05-05T15:49:05Z",
+  "dct_title_s": "Ethiopia - Populated Places GeoNames",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset represents populated places in Ethiopia at the locality level, including villages, kebeles, towns, and other administrative divisions. Each entry is associated with XY coordinates and is integrated with Ethiopian administrative boundaries. The data originates from the National Geospatial-Intelligence Agency (NGA) and is accessible through their GeoNames platform(https://geonames.nga.mil/geonames/GNSData/).The dataset includes various types of populated areas such as: villages, kebeles and towns. This dataset is crucial for various applications, including urban planning to assist in the development of infrastructure and services based on population distribution, for research, and on disaster management to support humanitarian efforts by identifying populated areas during crises."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "National Geospatial-Intelligence Agency (NGA)"
+  ],
+  "dcat_keyword_sm": [
+    "populated places-settlements",
+    "population"
+  ],
+  "dct_subject_sm": [
+    "populated places-settlements",
+    "population"
+  ],
+  "dct_spatial_sm": [
+    "Ethiopia"
+  ],
+  "locn_geometry": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dcat_bbox": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dct_temporal_sm": [
+    "2024-2025"
+  ],
+  "gbl_indexYear_im": [
+    2024,
+    2025
+  ],
+  "dct_format_s": "CSV",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/ethiopia-populated-places-geonames\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/7f71b556-5d26-4f4f-b1db-e3fb61da98b9/resource/3b0dcfe1-6ee9-46a4-a127-0232bc35aff5/download/populated_place_geonames.zip\"}"
+}

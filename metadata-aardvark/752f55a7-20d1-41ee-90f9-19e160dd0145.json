@@ -1,0 +1,41 @@
+{
+  "id": "hdx-752f55a7-20d1-41ee-90f9-19e160dd0145",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-10-20T14:46:21Z",
+  "dct_title_s": "Satellite detected water extents between 03 and 07 November 2021 over South Sudan",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20211015SSD** This map illustrates cumulative satellite-detected water using VIIRS in South Sudan between 03 to 07 November 2021 compared with the period between 20 to 24 October 2021. Within the cloud free analyzed areas of about 630,000 km2, a total of about 33,500 km2 of lands appear to be affected with flood waters. Water extent appears to have decreased of about 2,700 km2 since the period between 20 to 24 October 2021. Based on Worldpop population data and the detected surface waters, ~935,000 people are potentially exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to the United Nations Satellite Centre (UNOSAT)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "South Sudan"
+  ],
+  "locn_geometry": "ENVELOPE(23.89, 35.3, 12.25, 3.51)",
+  "dcat_bbox": "ENVELOPE(23.89, 35.3, 12.25, 3.51)",
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-water-extents-between-03-and-07-november-2021-over-south-sudan\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/SS/FL20211015SSD/FL20211015SSD_gdb.zip\"}"
+}

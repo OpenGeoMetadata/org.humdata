@@ -1,0 +1,35 @@
+{
+  "id": "hdx-0052cacf-c839-4c3f-8886-d3849b635f08",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-04-15T22:15:21Z",
+  "dct_title_s": "Costa Rica - Subnational Edge-matched Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Costa Rica administrative level 0-3 edge-matched gazetteer, shapefiles, geodatabase, and geoservice. COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-cri); however COD-EM datasets may be preferred for cartographic purposes. See caveats. These layers are suitable for database or GIS linkage to the [Costa Rica - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-tcd) tables. Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Costa Rica National Statistics Office (NSO) and ITOS"
+  ],
+  "dct_spatial_sm": [
+    "Costa Rica"
+  ],
+  "locn_geometry": "ENVELOPE(-85.94, -82.55, 11.22, 8.23)",
+  "dcat_bbox": "ENVELOPE(-85.94, -82.55, 11.22, 8.23)",
+  "dct_temporal_sm": [
+    "2022-2024"
+  ],
+  "gbl_indexYear_im": [
+    2022,
+    2023,
+    2024
+  ],
+  "dct_format_s": "XLSX",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-em-cri\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/0052cacf-c839-4c3f-8886-d3849b635f08/resource/bbe14efc-bd16-417a-a4d8-c7f73734add4/download/cri_admgz.xlsx\"}"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "hdx-22dc8b4e-f50a-4cb6-9421-ebc992f57a61",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-09-24T14:10:02Z",
+  "dct_title_s": "Syria Cultural Sites",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "The Syria Cultural Sites dataset contains geographic location (point geometry), name, type, and area name of over 1000 cultural heritage sites and museums in Syria compiled by the Cultural Heritage Center, Bureau of Educational and Cultural Affairs, U.S. Department of State ([http://eca.state.gov/cultural-heritage-center](http://eca.state.gov/cultural-heritage-center)) as of Spring 2013. The sites are categorized by type, which include but not limited to, archaeological sites, roman ruins, mosques, schools, churches, cemeteries, and towns. The data contained herein is entirely unclassified."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "U.S. Department of State"
+  ],
+  "dcat_keyword_sm": [
+    "education",
+    "education facilities-schools",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "education",
+    "education facilities-schools",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Syrian Arab Republic"
+  ],
+  "locn_geometry": "ENVELOPE(35.7, 42.35, 37.23, 32.31)",
+  "dcat_bbox": "ENVELOPE(35.7, 42.35, 37.23, 32.31)",
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "gbl_indexYear_im": [
+    2013
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/syria-cultural-sites\",\"http://schema.org/downloadUrl\":\"http://geonode.state.gov/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3ASyria_CulturalSites_2013May22_HIU_USDoS&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature\"}"
+}

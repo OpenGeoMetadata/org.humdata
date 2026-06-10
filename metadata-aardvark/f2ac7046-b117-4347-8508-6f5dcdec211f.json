@@ -1,0 +1,53 @@
+{
+  "id": "hdx-f2ac7046-b117-4347-8508-6f5dcdec211f",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-27T02:12:14Z",
+  "dct_title_s": "Bhutan - Subnational Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains the following administrative boundaries: ADM0, ADM1, ADM2. Produced and maintained since 2017, the geoBoundaries Global Database of Political Administrative Boundaries Database [www.geoboundaries.org](https://www.geoboundaries.org) is an open license, standardized resource of boundaries (i.e., state, county) for every country in the world."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OCHA ROAPgeoBoundaries, Wikimedia Commons; credit to author 'Babbage'geoBoundaries, Wikimedia Commons; credit to author 'Babbage'"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Bhutan"
+  ],
+  "locn_geometry": "ENVELOPE(88.81, 92.1, 28.3, 26.72)",
+  "dcat_bbox": "ENVELOPE(88.81, 92.1, 28.3, 26.72)",
+  "dct_temporal_sm": [
+    "2010-2020"
+  ],
+  "gbl_indexYear_im": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/geoboundaries-admin-boundaries-for-bhutan\",\"http://schema.org/downloadUrl\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BTN/ADM0/geoBoundaries-BTN-ADM0_simplified.geojson\"}"
+}

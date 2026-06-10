@@ -1,0 +1,41 @@
+{
+  "id": "hdx-5cc5531e-8307-425f-bdd1-8225515e8200",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-05-23T18:09:25Z",
+  "dct_title_s": "Syrian Arab Republic: IBTrACS Storm Tracks",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "The International Best Track Archive for Climate Stewardship (IBTrACS) project is the most complete global collection of tropical cyclones available. It merges recent and historical tropical cyclone data from multiple agencies to create a unified, publicly available, best-track dataset that improves inter-agency comparisons. Fields available: SID: A unique storm identifier (SID) assigned by IBTrACS algorithm. ISO_TIME: Time of the observation in ISO format (YYYY-MM-DD hh:mm:ss) BASIN: Basin of the current storm position SUBBASIN: Sub-basin of the current storm position NATURE: Type of storm (a combination of the various types from the available sources) NUMBER: Number of the storm for the year (restarts at 1 for each year LAT: Mean position - latitude (a combination of the available positions) LON: Mean position - longitude (a combination of the available positions) WMO_WIND: Maximum sustained wind speed assigned by the responsible WMO agency WMO_PRES: Minimum central pressure assigned by the responsible WMO agency."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "National Oceanic and Atmospheric Administration (NOAA) / National Centers for Environmental Information (NCEI)"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "hxl"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "hxl"
+  ],
+  "dct_spatial_sm": [
+    "Syrian Arab Republic"
+  ],
+  "locn_geometry": "ENVELOPE(35.7, 42.35, 37.23, 32.31)",
+  "dcat_bbox": "ENVELOPE(35.7, 42.35, 37.23, 32.31)",
+  "dct_temporal_sm": [
+    "1948"
+  ],
+  "gbl_indexYear_im": [
+    1948
+  ],
+  "dct_format_s": "CSV",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/syr-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/5cc5531e-8307-425f-bdd1-8225515e8200/resource/97c3126a-6bf3-429e-b162-ae04c013ff61/download/ibtracs_all_list_v04r01_lines_syr.geojson\"}"
+}

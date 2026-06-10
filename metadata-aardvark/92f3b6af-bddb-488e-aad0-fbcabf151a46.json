@@ -1,0 +1,41 @@
+{
+  "id": "hdx-92f3b6af-bddb-488e-aad0-fbcabf151a46",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-20T22:15:11Z",
+  "dct_title_s": "Ukraine: Logistics Datasets",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**For real-time data downloads, go to [LogIE Ukraine operation page](https://logie.logcluster.org/?op=ukr-22-a)** This dataset contains layers ESRI ArcGIS Online feature services for the following layers of interest to the logistics cluster in Ukraine: - Entry and exit points - Ports - Supply routes - Roads - Railways - Reception points - Roads in Poland"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Global Logistics Cluster"
+  ],
+  "dcat_keyword_sm": [
+    "logistics",
+    "railways"
+  ],
+  "dct_subject_sm": [
+    "logistics",
+    "railways"
+  ],
+  "dct_spatial_sm": [
+    "Ukraine"
+  ],
+  "locn_geometry": "ENVELOPE(22.09, 40.08, 52.34, 44.36)",
+  "dcat_bbox": "ENVELOPE(22.09, 40.08, 52.34, 44.36)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/ukraine-logistics-datasets\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/92f3b6af-bddb-488e-aad0-fbcabf151a46/resource/e24a4b8c-9a97-43ea-8781-66840ea30cf3/download/ukr_eep.geojson\"}"
+}

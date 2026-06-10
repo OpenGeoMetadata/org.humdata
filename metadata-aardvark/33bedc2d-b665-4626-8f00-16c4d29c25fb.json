@@ -1,0 +1,41 @@
+{
+  "id": "hdx-33bedc2d-b665-4626-8f00-16c4d29c25fb",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T17:24:35Z",
+  "dct_title_s": "Satellite detected water extents between 12 and 16 October 2022 over Region Autonoma del Atlantico Norte, Nicaragua",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code TC20221014NIC** This map illustrates cumulative satellite-detected water using VIIRS in Region Autonoma del Atlantico Norte, Nicaragua between 12 to 16 October 2022 compared with the period from 27 September to 01 October 2022. Within the cloud free analyzed areas of about 30,000 km², a total of about 1,900 km² of lands appear to be affected. Water extent appears to have increased of about 1,400 km² since the period between 27 September to 01 October 2022. Based on Worldpop population data and the maximal flood water extent ~8,500 people are potentially exposed or living close to flooded areas amongst the 29,000 people living in cloud free areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to the United Nations Satellite Centre (UNOSAT)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Nicaragua"
+  ],
+  "locn_geometry": "ENVELOPE(-87.67, -83.15, 15.02, 10.73)",
+  "dcat_bbox": "ENVELOPE(-87.67, -83.15, 15.02, 10.73)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extents-between-12-and-16-october-2022-over-region-autonoma-del-atlantico-norte-nica\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3411/TC20221014NIC_gdb.zip\"}"
+}

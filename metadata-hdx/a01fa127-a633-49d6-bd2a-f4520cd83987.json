@@ -1,0 +1,136 @@
+{
+  "archived": false,
+  "caveats": "While the data provides a valuable first look, it should serve as a preliminary guide and will require on-the-ground verification for a complete understanding.",
+  "creator_user_id": "db99c124-1307-4809-93ef-eb763b945fc8",
+  "data_update_frequency": "-1",
+  "dataset_date": "[2025-11-30T00:00:00 TO 2025-11-30T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "Microsoft AI for Good Lab",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "a01fa127-a633-49d6-bd2a-f4520cd83987",
+  "is_requestdata_type": false,
+  "isopen": true,
+  "last_modified": "2025-12-04T11:08:55.586641",
+  "license_id": "cc-by",
+  "license_title": "Creative Commons Attribution International (CC BY)",
+  "license_url": "http://www.opendefinition.org/licenses/cc-by",
+  "maintainer": "db99c124-1307-4809-93ef-eb763b945fc8",
+  "metadata_created": "2025-12-04T11:08:38.099574",
+  "metadata_modified": "2025-12-09T20:36:48.113876",
+  "methodology": "Other",
+  "methodology_other": "Microsoft AI4G Lab ran their damage assessment AI models on images provided by Planet and have mapped out the affected buildings.",
+  "name": "thailand-floods-building-damage-assessment-in-hat-yai",
+  "notes": "Microsoft AI for Good Lab ran their damage assessment AI models on images provided by Planet and have mapped out the affected buildings in Hat Yai, Thailand.",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "id": "e7b426aa-85ac-491d-b54f-b4ab17c6ad51",
+    "name": "microsoft-ai4g-lab",
+    "title": "Microsoft AI for Good Lab",
+    "type": "organization",
+    "description": "The AI for Good Lab at Microsoft is a collaborative effort focused on leveraging artificial intelligence to solve some of the world's most pressing challenges. By working with global partners and leveraging cutting-edge AI tools, the lab supports innovations in environmental sustainability, agriculture, healthcare, and more. The AI for Good Lab is committed to applying AI solutions to improve lives, drive progress toward the UN’s Sustainable Development Goals, and make a lasting impact through technology.",
+    "image_url": "",
+    "created": "2025-01-08T08:53:27.886529",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "e7b426aa-85ac-491d-b54f-b4ab17c6ad51",
+  "package_creator": "luanamarotti",
+  "pageviews_last_14_days": 0,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Thailand\"]}",
+  "state": "active",
+  "subnational": "0",
+  "title": "Thailand Floods: Building Damage Assessment in Hat Yai",
+  "total_res_downloads": 27,
+  "type": "dataset",
+  "url": null,
+  "version": null,
+  "customviz": [
+    {
+      "url": "https://visualizers.aiforgood.ai/damage-assessment/thailand_cyclone_senyar_11_30_2025.html"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Thailand",
+      "id": "tha",
+      "image_display_url": "",
+      "name": "tha",
+      "title": "Thailand"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/a01fa127-a633-49d6-bd2a-f4520cd83987/resource/35fb5e62-18c0-4723-8c1c-58c741232cc3/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2025-12-04T11:08:55.692905",
+      "dataset_preview_enabled": false,
+      "description": "The images cover Hat Yai, Thailand.\r\n\r\nAnalysis was done on Planet SkySat imagery captured 11/30/2025.\r\n\r\nTotal buildings from Overture Maps: 70,516 \r\nIntersected by flood predictions: 1,671 \r\nWater within 20 meters: 3,219\r\n\r\nSeparately we labeled a random selection of 139 building footprints with area greater than 50 sq meters as flooded vs. not-flooded based on visible flood waters around the building and estimate that a total of 2005 buildings are affected (N=46439 buildings that are larger than 50 sq m) with a 95% CI of [432, 3577]. \r\n\r\nOverall, low damage in the city, but heavy flooding in the fields and along the river north of the city.",
+      "download_url": "https://data.humdata.org/dataset/a01fa127-a633-49d6-bd2a-f4520cd83987/resource/35fb5e62-18c0-4723-8c1c-58c741232cc3/download/20251130_004309_ssc12_building_predictions_clipped.gpkg",
+      "format": "Geopackage",
+      "hash": "",
+      "hdx_rel_url": "/dataset/a01fa127-a633-49d6-bd2a-f4520cd83987/resource/35fb5e62-18c0-4723-8c1c-58c741232cc3/download/20251130_004309_ssc12_building_predictions_clipped.gpkg",
+      "id": "35fb5e62-18c0-4723-8c1c-58c741232cc3",
+      "last_modified": "2025-12-04T11:08:55.586641",
+      "metadata_modified": "2025-12-04T11:08:55.684102",
+      "microdata": false,
+      "mimetype": "application/octet-stream",
+      "mimetype_inner": null,
+      "name": "20251130_004309_ssc12_building_predictions_clipped.gpkg",
+      "originalHash": "8750915",
+      "package_id": "a01fa127-a633-49d6-bd2a-f4520cd83987",
+      "pii": "false",
+      "position": 0,
+      "resource_type": "file.upload",
+      "size": 19218432,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/a01fa127-a633-49d6-bd2a-f4520cd83987/resource/35fb5e62-18c0-4723-8c1c-58c741232cc3/download/20251130_004309_ssc12_building_predictions_clipped.gpkg",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "damage assessment",
+      "id": "3c5bab40-4c0f-40bc-a2dd-12cd7f945037",
+      "name": "damage assessment",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "disaster risk reduction-drr",
+      "id": "4f186471-d358-4f37-b9ab-2743abd61fbd",
+      "name": "disaster risk reduction-drr",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "flooding",
+      "id": "532eacf2-7b8c-4dd5-baf7-c25720cadb38",
+      "name": "flooding",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "natural disasters",
+      "id": "48520851-7df8-418b-aa00-7fa276d7fd88",
+      "name": "natural disasters",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

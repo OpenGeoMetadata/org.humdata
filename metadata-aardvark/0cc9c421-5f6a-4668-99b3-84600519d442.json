@@ -1,0 +1,63 @@
+{
+  "id": "hdx-0cc9c421-5f6a-4668-99b3-84600519d442",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T16:13:05Z",
+  "dct_title_s": "Ukraine - Age and gender structures",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "WorldPop produces different types of gridded population count datasets, depending on the methods used and end application. Please make sure you have read our Mapping Populations overview page before choosing and downloading a dataset. A description of the modelling methods used for age and gender structures can be found in Tatem et al and Pezzulo et al. Details of the input population count datasets used can be found here, and age/gender structure proportion datasets here. Both top-down 'unconstrained' and 'constrained' versions of the datasets are available, and the differences between the two methods are outlined here. The datasets represent the outputs from a project focused on construction of consistent 100m resolution population count datasets for all countries of the World structured by male/female and 5-year age classes (plus a <1 year class). These efforts necessarily involved some shortcuts for consistency. The unconstrained datasets are available for each year from 2000 to 2020. The constrained datasets are only available for 2020 at present, given the time periods represented by the building footprint and built settlement datasets used in the mapping. Data for earlier dates is available directly from WorldPop. WorldPop (www.worldpop.org - School of Geography and Environmental Science, University of Southampton; Department of Geography and Geosciences, University of Louisville; Departement de Geographie, Universite de Namur) and Center for International Earth Science Information Network (CIESIN), Columbia University (2018). Global High Resolution Population Denominators Project - Funded by The Bill and Melinda Gates Foundation (OPP1134076). https://dx.doi.org/10.5258/SOTON/WP00646"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WorldPop, University of Southampton, UK"
+  ],
+  "dcat_keyword_sm": [
+    "baseline population",
+    "demographics",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "baseline population",
+    "demographics",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Ukraine"
+  ],
+  "locn_geometry": "ENVELOPE(22.09, 40.08, 52.34, 44.36)",
+  "dcat_bbox": "ENVELOPE(22.09, 40.08, 52.34, 44.36)",
+  "dct_temporal_sm": [
+    "2000-2020"
+  ],
+  "gbl_indexYear_im": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/worldpop-age-and-gender-structures-for-ukraine\",\"http://schema.org/downloadUrl\":\"https://data.worldpop.org/GIS/AgeSex_structures/Global_2000_2020/2020/UKR/ukr_m_80_2020.tif\"}"
+}

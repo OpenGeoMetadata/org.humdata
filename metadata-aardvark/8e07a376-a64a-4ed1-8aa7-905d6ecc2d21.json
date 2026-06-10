@@ -1,0 +1,50 @@
+{
+  "id": "hdx-8e07a376-a64a-4ed1-8aa7-905d6ecc2d21",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-07T17:03:31Z",
+  "dct_title_s": "Global Population Projections (1 km Grid)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This data release provides gridded population distributions (spatial resolution of 30 arc-seconds, approximately 1km grid cells) globally for 2025-2100, quantitatively consistent with the [Shared Socioeconomic Pathways (SSP) 3.2](https://doi.org/10.1016/j.gloenvcha.2015.02.012) national population scenarios. National population totals at 5-year intervals for 2025-2100 were provided for each SSP scenario. Using [WorldPop Global2 R2025A data](https://hub.worldpop.org/geodata/listing?id=135), subnational population proportions were calculated and summarised at administrative unit level 2, i.e. the percentage of the national population within each administrative unit. Global2 historical settlement data was used to determine the percentage of grid cells that became built settlement per administrative unit in 5-year intervals for 2015-2025 and the number of people per new settlement grid cell. This rate of settlement change was extrapolated into future 5-year intervals (2030-2100) and cross-referenced against a probability of becoming built settlement layer, where the transition probability of non-built-settlement to built-settlement was created following the methodology outlined in [Nieves, J. J., etc](https://doi.org/10.3390/rs12101545). The grid cells with the highest probability of becoming built settlement were selected until the required percentage of grid cells was reached. The WorldPop Global2 R2025A population data were populated with new settlement grid cells and normalised so that the national population count was consistent with the SSP totals. Concurrently, the subnational population proportions calculated at administrative unit level 2 were retained during normalisation. These steps were implemented to create the global gridded population distributions for 2015-2100 for each SSP scenario. These data were produced by the WorldPop Research Group at the University of Southampton in collaboration with researchers at the University of Bristol. This work was part of the FuturePop: Constructing high spatial resolution population projections and supporting the provision, access and updates of WorldPop spatial demographic datasets project, funded by the Wellcome Trust (grant 308679/Z/23/Z). For more details about the datasets, please refer to the [release statement here](https://data.worldpop.org/repo/prj/FuturePop/SSPs_1km_v0_2/Release_Statement_FP_SSPs_1km_v0_2.pdf)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Multiple Sources"
+  ],
+  "dcat_keyword_sm": [
+    "population"
+  ],
+  "dct_subject_sm": [
+    "population"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2025-2100"
+  ],
+  "gbl_indexYear_im": [
+    2025,
+    2026,
+    2027,
+    2028,
+    2029,
+    2030,
+    2031,
+    2032,
+    2033,
+    2034,
+    2035,
+    2036
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/futurepop_1km_grid_population_2025-2100_ssp_v0_2\",\"http://schema.org/downloadUrl\":\"https://data.worldpop.org/repo/prj/FuturePop/SSPs_1km_v0_2/FuturePop_SSP1_1km_v0_2.zip\"}"
+}

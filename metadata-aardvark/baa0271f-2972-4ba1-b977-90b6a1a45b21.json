@@ -1,0 +1,41 @@
+{
+  "id": "hdx-baa0271f-2972-4ba1-b977-90b6a1a45b21",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T20:52:55Z",
+  "dct_title_s": "Satellite detected water extent over Kaski and Syangja districts, Gandaki province, Nepal as of 4 July 2021",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20210630NPL** This map illustrates satellite-detected surface waters in Kaski and Syangja districts, Gandaki province, Nepal as observed from a Sentinel-2 image acquired on 4 July 2021 at 10:41 local time. Within the analyzed cloud free zones of about 500 km2, a total of about 25km2 of lands appear to be flooded. Based on Worldpop population data and the detected surface waters, about 17,000 people are potentially exposed or living close to flooded areas. The potentially exposed population is mainly located in the Kaski district with ~16,000 people. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to United Nations Satellite Centre (UNOSAT)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Nepal"
+  ],
+  "locn_geometry": "ENVELOPE(80.09, 88.17, 30.42, 26.4)",
+  "dcat_bbox": "ENVELOPE(80.09, 88.17, 30.42, 26.4)",
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extent-over-kaski-and-syangja-districts-gandaki-province-nepal-as-of-4-july-2021\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/NP/FL20210630NPL/FL20210630NPL_gdb.zip\"}"
+}

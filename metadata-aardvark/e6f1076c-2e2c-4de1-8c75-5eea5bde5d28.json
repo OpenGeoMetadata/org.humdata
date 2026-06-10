@@ -1,0 +1,48 @@
+{
+  "id": "hdx-e6f1076c-2e2c-4de1-8c75-5eea5bde5d28",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-09-20T15:32:54Z",
+  "dct_title_s": "Vanuatu - Subnational Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains the following administrative boundaries: ADM0, ADM1, ADM2, ADM3. Produced and maintained since 2017, the geoBoundaries Global Database of Political Administrative Boundaries Database [www.geoboundaries.org](https://www.geoboundaries.org) is an open license, standardized resource of boundaries (i.e., state, county) for every country in the world."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap, WambacherOpenStreetMap, WambacherPOPGISSecretarial of the Pacific Community (SPC), Statistics for Development Division, OCHA ROP"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Vanuatu"
+  ],
+  "locn_geometry": "ENVELOPE(166.63, 167.84, -14.63, -16.6)",
+  "dcat_bbox": "ENVELOPE(166.63, 167.84, -14.63, -16.6)",
+  "dct_temporal_sm": [
+    "2014-2019"
+  ],
+  "gbl_indexYear_im": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/geoboundaries-admin-boundaries-for-vanuatu\",\"http://schema.org/downloadUrl\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/VUT/ADM0/geoBoundaries-VUT-ADM0_simplified.geojson\"}"
+}

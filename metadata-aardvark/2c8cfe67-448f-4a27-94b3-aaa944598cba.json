@@ -1,0 +1,50 @@
+{
+  "id": "hdx-2c8cfe67-448f-4a27-94b3-aaa944598cba",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-19T16:36:13Z",
+  "dct_title_s": "Pakistan & India: High Resolution Population Density Maps",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Facebook and Columbia University - CIESIN provide the High Resolution Settlement Layer as the world's most accurate population datasets. More info can be found here: https://dataforgood.fb.com/tools/population-density-maps/ These maps are the distribution of human population spanning Pakistan and India. Each of the 13 TIFF files is a 10 x 10 degree tile (the lower latitude coordinate and longitude coordinates are in the file name). A VRT file is also included."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Facebook"
+  ],
+  "dcat_keyword_sm": [
+    "children",
+    "elderly",
+    "geodata",
+    "health",
+    "women",
+    "youth"
+  ],
+  "dct_subject_sm": [
+    "children",
+    "elderly",
+    "geodata",
+    "health",
+    "women",
+    "youth"
+  ],
+  "dct_spatial_sm": [
+    "India",
+    "Pakistan"
+  ],
+  "locn_geometry": "ENVELOPE(60.87, 97.4, 37.13, 7.97)",
+  "dcat_bbox": "ENVELOPE(60.87, 97.4, 37.13, 7.97)",
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/pakistan-india_all-files-high-resolution-population-density-maps\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/2c8cfe67-448f-4a27-94b3-aaa944598cba/resource/e3dbe673-4117-4243-93a8-3366c6e6396b/download/population_ind_pak_general.zip\"}"
+}

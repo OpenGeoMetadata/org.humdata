@@ -1,0 +1,173 @@
+{
+  "archived": true,
+  "batch": "c55ab462-60dd-433e-becf-b8f1ac23709a",
+  "caveats": "As part of the piloting of IPC 2.0, FEWS NET adopted key elements in 2011, including the scale, mapping protocols, and Household-based Acute Food Insecurity Reference Table. However, FEWS NET is considered “IPC-compatible” rather than “IPC-compliant” because it does not use all elements of IPC. \r\n \r\nThe difference in approach relates to the IPC requirement that stakeholders in a given country conduct intensive technical reviews, peer reviews, and consensus exercises as a step in the process. In all countries, the success of FEWS NET's work depends on close collaboration with partners and technical experts. At times, however, it is necessary to conduct analysis with a speed and flexibility that is not possible when many actors share decision-making.\r\n\r\nFor more information, please refer to [FEWS NET](http://www.fews.net/nosso-trabalho/nosso-trabalho/classifica%C3%A7%C3%A3o-integrada-de-fases).",
+  "creator_user_id": "154de241-38d6-47d3-a77f-0a9848a61df3",
+  "data_update_frequency": "-1",
+  "dataset_date": "[2013-07-01T00:00:00 TO 2013-07-01T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "FEWS NET",
+  "has_geodata": true,
+  "has_showcases": true,
+  "id": "708dccdf-c303-447e-8aa0-43ab343fc45c",
+  "is_requestdata_type": false,
+  "isopen": true,
+  "last_modified": "2015-10-15T17:56:48.404693",
+  "license_id": "cc-by",
+  "license_title": "Creative Commons Attribution International (CC BY)",
+  "license_url": "http://www.opendefinition.org/licenses/cc-by",
+  "maintainer": "154de241-38d6-47d3-a77f-0a9848a61df3",
+  "metadata_created": "2015-10-15T17:56:09.872661",
+  "metadata_modified": "2025-08-26T13:51:57.475481",
+  "methodology": "Other",
+  "methodology_other": "FEWS NET uses a scenario development method to evaluate the most likely scenario for acute food insecurity outcome up to 6 months ahead. This methods involves making best assumption on key drivers of food security, including agro-climatic performance, markets and trade, etc. This is a best estimate of likely food security outcome and should not be taken as a firm prediction. FEWS NET re-examines the assumptions each month and updates the outlooks when appropriate.\r\n\r\nThe IPC_Legend.lyr file is provided for reference. It contains the official color schemes for IPC (Integrated Phase Classification).\r\n\r\nFor more information, please contact info@fews.net",
+  "name": "food-insecurity-mapping-southern-africa-africa-july-september-2013",
+  "notes": "This Archive contains shapefiles for FEWS NET Food Security Outlook for  **Southern Africa**.\r\n\r\nIt was last updated on July 14, 2013. The classification used is [IPC V2.0 Compatible](http://www.fews.net/nosso-trabalho/nosso-trabalho/classifica%C3%A7%C3%A3o-integrada-de-fases), aimed to address acute food insecurity.\r\n\r\nThe two shapefiles represent the two analytic periods:\r\n\r\n* southernafrica201307_ML1\tMost likely food security outcome for July-September 2013\r\n* southernafrica201307_ML2\tMost likely food security outcome for October-December 2013\r\n\r\nWithin the shapefiles, the food security outlook is contained in a field named as ML1 or ML2 according to the outlook period. The code itself is the IPC phase. Two additional codes are used:\r\n\r\n* 66 = water\r\n* 88 = parks, forests, reserves\r\n* 99 = missing data (usually urban centers)",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "id": "hdx",
+    "name": "hdx",
+    "title": "HDX",
+    "type": "organization",
+    "description": "The Humanitarian Data Exchange (HDX) is an open data sharing platform managed by the United Nations Office for the Coordination of Humanitarian Affairs. The HDX organization is managed by the HDX data team and is used to share data on behalf of a number of partners",
+    "image_url": "http://labs.reliefweb.int/img/rw-thumbnail-hdx.png",
+    "created": "2014-04-02T12:19:44.486326",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "hdx",
+  "package_creator": "luiscape",
+  "pageviews_last_14_days": 1,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Angola\", \"Lesotho\", \"Madagascar\", \"Malawi\", \"Mozambique\", \"Zambia\", \"Zimbabwe\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Food Insecurity Mapping - Southern Africa (July - September 2013)",
+  "total_res_downloads": 0,
+  "type": "dataset",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Angola",
+      "id": "ago",
+      "image_display_url": "",
+      "name": "ago",
+      "title": "Angola"
+    },
+    {
+      "description": "",
+      "display_name": "Lesotho",
+      "id": "lso",
+      "image_display_url": "",
+      "name": "lso",
+      "title": "Lesotho"
+    },
+    {
+      "description": "",
+      "display_name": "Madagascar",
+      "id": "mdg",
+      "image_display_url": "",
+      "name": "mdg",
+      "title": "Madagascar"
+    },
+    {
+      "description": "",
+      "display_name": "Malawi",
+      "id": "mwi",
+      "image_display_url": "",
+      "name": "mwi",
+      "title": "Malawi"
+    },
+    {
+      "description": "",
+      "display_name": "Mozambique",
+      "id": "moz",
+      "image_display_url": "",
+      "name": "moz",
+      "title": "Mozambique"
+    },
+    {
+      "description": "",
+      "display_name": "Zambia",
+      "id": "zmb",
+      "image_display_url": "",
+      "name": "zmb",
+      "title": "Zambia"
+    },
+    {
+      "description": "",
+      "display_name": "Zimbabwe",
+      "id": "zwe",
+      "image_display_url": "",
+      "name": "zwe",
+      "title": "Zimbabwe"
+    }
+  ],
+  "resources": [
+    {
+      "broken_link": true,
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2015-10-15T17:56:39.717700",
+      "datastore_active": false,
+      "description": "",
+      "download_url": "http://shapefiles.fews.net/southern-africa201307.zip",
+      "format": "SHP",
+      "hash": "\"b42b87697efbe8acce984978a1b5a394\"",
+      "hdx_rel_url": "http://shapefiles.fews.net/southern-africa201307.zip",
+      "id": "99e2ebd7-e436-40e7-b7ea-430fa160a9e7",
+      "last_modified": "2015-10-15T17:56:48.404693",
+      "metadata_modified": "2025-08-26T13:51:57.504132",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "southern-africa201307.zip",
+      "package_id": "708dccdf-c303-447e-8aa0-43ab343fc45c",
+      "position": 0,
+      "resource_type": "api",
+      "resource_uploader": "luiscape",
+      "shape_info": "{\"state\": \"success\", \"error_class\": \"None\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}, {\"field_name\": \"ml1\", \"data_type\": \"numeric\"}], \"layer_id\": \"pre_99e2ebd7_e436_40e7_b7ea_430fa160a9e7\", \"message\": \"Import successful\", \"error_type\": \"None\", \"bounding_box\": \"BOX(21.9993705750001 -26.868684769,40.8406257630001 -8.25498104099998)\"}",
+      "size": 6974677,
+      "state": "active",
+      "url": "http://shapefiles.fews.net/southern-africa201307.zip",
+      "url_type": "api"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "agriculture-livestock",
+      "id": "e6b84407-4b14-4b0a-95c5-314da049f64c",
+      "name": "agriculture-livestock",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "climate-weather",
+      "id": "6f0a101d-5c57-408b-aa2a-61c078d32713",
+      "name": "climate-weather",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "complex emergency-conflict-security",
+      "id": "964a4ed8-0527-4b90-b929-ccea14fc2851",
+      "name": "complex emergency-conflict-security",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "food security",
+      "id": "b084d063-149c-4b7d-811b-18e320ca0b8c",
+      "name": "food security",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hdx-55520d2b-d287-4c31-8816-08d06bca286f",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T18:07:52Z",
+  "dct_title_s": "Satellite detected water extent as of 18 July 2020 over Eastern part of Sylhet Division, Bangladesh",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20200713BGD** This map illustrates satellite-detected surface waters over the Eastern part of the Sylhet division of Bangladesh as observed from a TerraSAR-X image acquired on 18 July 2020 due to the current monsoon rains. Within the analyzed area of about 8,600 km2, a total of about 2,200 km2 of lands appear to be flooded. This is a preliminary analysis and has not yet been validated in the field. Based on WorldPop population data and the detected surface waters, about 2,000,000 people area potentially exposed or living close to flooded areas. Please send ground feedback to UNITAR - UNOSAT. Important Note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Bangladesh"
+  ],
+  "locn_geometry": "ENVELOPE(88.08, 92.67, 26.45, 20.67)",
+  "dcat_bbox": "ENVELOPE(88.08, 92.67, 26.45, 20.67)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extent-as-of-18-july-2020-over-eastern-part-of-sylhet-division-bangladesh\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/unosat-maps/BD/FL20200713BGD/FL20200713BGD_gdb.zip\"}"
+}

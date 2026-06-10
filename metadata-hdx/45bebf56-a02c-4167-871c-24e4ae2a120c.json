@@ -17,7 +17,7 @@
   "license_title": "odc-odbl",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2024-11-19T10:21:26.604461",
-  "metadata_modified": "2026-03-02T17:17:24.291203",
+  "metadata_modified": "2026-06-06T09:32:20.149964",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
   "name": "egypt-road-surface-data",
@@ -38,7 +38,7 @@
   },
   "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
   "package_creator": "sukanya-randhawa-6497",
-  "pageviews_last_14_days": 6,
+  "pageviews_last_14_days": 4,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Egypt\"]}",
@@ -62,6 +62,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:21:26.607294",
@@ -73,7 +74,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_egy_roadsurface_lines.geojson",
       "id": "628d3464-72c4-43aa-96fb-d15f32891409",
       "last_modified": "2024-11-19T10:21:26.590685",
-      "metadata_modified": "2026-03-02T17:17:24.337489",
+      "metadata_modified": "2026-06-06T09:32:20.229447",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -88,6 +89,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:21:26.607297",
@@ -99,7 +101,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_egy_roadsurface_lines.gpkg",
       "id": "a6f71b5a-29da-48a3-bf6c-8bc004b4fc6c",
       "last_modified": "2024-11-19T10:21:26.590838",
-      "metadata_modified": "2026-03-02T17:03:21.594389",
+      "metadata_modified": "2026-06-06T09:32:20.229616",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

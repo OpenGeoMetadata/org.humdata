@@ -1,0 +1,50 @@
+{
+  "id": "hdx-2768bdfd-6486-4963-8e3d-e63149478eb4",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-13T16:02:18Z",
+  "dct_title_s": "Rwanda - Subnational Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Rwanda administrative level 0-4 boundaries (COD-AB) dataset. The date that these administrative boundaries were established is unknown. NOTE: COD-AB extends to ADM4. COD-PS extends to ADM3. This COD-AB has NOT been reviewed for accuracy and necessary changes in the last 12 months. Sourced from National Institute of Statistics of Rwanda (NISR). Vetting by Information Technology Outreach Services (ITOS) with funding from USAID. This COD-AB is suitable for database or GIS linkage to the Rwanda [COD-PS](https://data.humdata.org/dataset/cod-ps-rwa). No edge-matched (COD-EM) version of this COD-AB has yet been prepared. Please see the [COD Portal](https://cod.unocha.org/). Administrative level 1 contains 5 feature(s). The normal administrative level 1 feature type is \"\"currently not known\"\". Administrative level 2 contains 30 feature(s). The normal administrative level 2 feature type is \"\"currently not known\"\". Administrative level 3 contains 416 feature(s). The normal administrative level 3 feature type is \"\"currently not known\"\". Administrative level 4 contains 1,000 feature(s). The normal administrative level 4 feature type is \"\"currently not known\"\". Recommended cartographic projection: Africa Albers Equal Area Conic This metadata was last updated on January 9, 2025."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "National Institute of Statistics of Rwanda (NISR)."
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Rwanda"
+  ],
+  "locn_geometry": "ENVELOPE(29.02, 30.82, -1.13, -2.92)",
+  "dcat_bbox": "ENVELOPE(29.02, 30.82, -1.13, -2.92)",
+  "dct_temporal_sm": [
+    "2018-2025"
+  ],
+  "gbl_indexYear_im": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "dct_format_s": "XLSX",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-rwa\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/2768bdfd-6486-4963-8e3d-e63149478eb4/resource/95b0f509-7bbb-44cb-a783-92c8208fdfea/download/rwa_gazetteer_rphc2012_v2.xlsx\"}"
+}

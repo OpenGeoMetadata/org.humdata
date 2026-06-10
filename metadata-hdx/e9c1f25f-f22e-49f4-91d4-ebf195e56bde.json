@@ -17,7 +17,7 @@
   "license_title": "odc-odbl",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2024-11-19T10:23:31.703288",
-  "metadata_modified": "2026-03-02T17:27:44.981590",
+  "metadata_modified": "2026-06-06T10:45:03.179604",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
   "name": "afghanistan-road-surface-data",
@@ -38,7 +38,7 @@
   },
   "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
   "package_creator": "sukanya-randhawa-6497",
-  "pageviews_last_14_days": 6,
+  "pageviews_last_14_days": 5,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Afghanistan\"]}",
@@ -62,6 +62,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:23:31.708125",
@@ -73,7 +74,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_afg_roadsurface_lines.geojson",
       "id": "fa66491e-b820-4bb9-a33c-7a21f631463e",
       "last_modified": "2024-11-19T10:23:31.660062",
-      "metadata_modified": "2026-03-02T17:27:45.058813",
+      "metadata_modified": "2026-06-06T10:45:03.245587",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -88,6 +89,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:23:31.708129",
@@ -99,7 +101,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_afg_roadsurface_lines.gpkg",
       "id": "c317bb62-4dd3-4351-9e36-c7adef93d873",
       "last_modified": "2024-11-19T10:23:31.660233",
-      "metadata_modified": "2026-03-02T17:05:18.885352",
+      "metadata_modified": "2026-06-06T10:45:03.245716",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

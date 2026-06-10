@@ -1,0 +1,141 @@
+{
+  "archived": true,
+  "batch": "c55ab462-60dd-433e-becf-b8f1ac23709a",
+  "caveats": "The EbolaGeonode was archived in December 2015 and EbolaGeonode.org was decommissioned in October 2017",
+  "creator_user_id": "7d7f5f8d-7e3b-483a-8de1-2b122010c1eb",
+  "data_update_frequency": "-1",
+  "dataset_date": "[2015-12-31T00:00:00 TO 2015-12-31T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "Multiple Sources",
+  "has_geodata": true,
+  "has_showcases": true,
+  "id": "5f2852f3-1335-40f6-98c6-86c6897f3b53",
+  "is_requestdata_type": false,
+  "isopen": false,
+  "last_modified": "2021-03-25T16:12:06",
+  "license_id": "cc-by-igo",
+  "license_title": "Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO)",
+  "license_url": "http://creativecommons.org/licenses/by/3.0/igo/legalcode",
+  "maintainer": "7d7f5f8d-7e3b-483a-8de1-2b122010c1eb",
+  "metadata_created": "2014-11-19T22:12:41.710258",
+  "metadata_modified": "2025-03-10T23:37:15.466157",
+  "methodology": "Other",
+  "methodology_other": "<p>Direct Observational Data/Anecdotal Data </p>",
+  "name": "ebola-geonode",
+  "notes": "EbolaGeonode was a partnership platform for sharing geospatial data, analysis and maps related to the Ebola emergency response. The platform was intended to minimize the time that GIS analysts spend locating up-to-date data. Users were able to make maps on the fly, view metadata, and access the reports behind GIS layers. Curators worked to ensure that the layers were recent, clean, useful, and legally and technically open.",
+  "num_resources": 1,
+  "num_tags": 3,
+  "organization": {
+    "id": "hdx",
+    "name": "hdx",
+    "title": "HDX",
+    "type": "organization",
+    "description": "The Humanitarian Data Exchange (HDX) is an open data sharing platform managed by the United Nations Office for the Coordination of Humanitarian Affairs. The HDX organization is managed by the HDX data team and is used to share data on behalf of a number of partners",
+    "image_url": "http://labs.reliefweb.int/img/rw-thumbnail-hdx.png",
+    "created": "2014-04-02T12:19:44.486326",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "hdx",
+  "package_creator": "godfrey",
+  "pageviews_last_14_days": 0,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Guinea\", \"Liberia\", \"Sierra Leone\", \"World\"]}",
+  "state": "active",
+  "subnational": "0",
+  "title": "[Archived] Ebola GeoNode",
+  "total_res_downloads": 67,
+  "type": "dataset",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Guinea",
+      "id": "gin",
+      "image_display_url": "",
+      "name": "gin",
+      "title": "Guinea"
+    },
+    {
+      "description": "",
+      "display_name": "Liberia",
+      "id": "lbr",
+      "image_display_url": "",
+      "name": "lbr",
+      "title": "Liberia"
+    },
+    {
+      "description": "",
+      "display_name": "Sierra Leone",
+      "id": "sle",
+      "image_display_url": "",
+      "name": "sle",
+      "title": "Sierra Leone"
+    },
+    {
+      "description": "",
+      "display_name": "World",
+      "id": "world",
+      "image_display_url": "",
+      "name": "world",
+      "title": "World"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/5f2852f3-1335-40f6-98c6-86c6897f3b53/resource/fc5e143e-89f0-478e-9e58-36f445bf6c86/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-10-18T07:47:33.808609",
+      "datastore_active": false,
+      "description": "Zip archive containing 57 zipped shapefiles from EbolaGeonode",
+      "download_url": "https://data.humdata.org/dataset/5f2852f3-1335-40f6-98c6-86c6897f3b53/resource/fc5e143e-89f0-478e-9e58-36f445bf6c86/download/ebola-geonode-layers.zip",
+      "format": "SHP",
+      "hash": "\"70f9c343b6dca43285ab4523ff676c47-12\"",
+      "hdx_rel_url": "/dataset/5f2852f3-1335-40f6-98c6-86c6897f3b53/resource/fc5e143e-89f0-478e-9e58-36f445bf6c86/download/ebola-geonode-layers.zip",
+      "id": "fc5e143e-89f0-478e-9e58-36f445bf6c86",
+      "last_modified": "2021-03-25T16:12:06",
+      "metadata_modified": "2025-03-10T23:37:15.487053",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Ebola Geonode layers.zip",
+      "originalHash": "-778143572",
+      "package_id": "5f2852f3-1335-40f6-98c6-86c6897f3b53",
+      "position": 0,
+      "resource_type": "file.upload",
+      "size": 92640474,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/5f2852f3-1335-40f6-98c6-86c6897f3b53/resource/fc5e143e-89f0-478e-9e58-36f445bf6c86/download/ebola-geonode-layers.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "disease",
+      "id": "2a4e3877-8487-4a62-b010-8dafdc1ba6d8",
+      "name": "disease",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "health",
+      "id": "26fe3d20-9de7-436b-b47a-4f7f2e4547d0",
+      "name": "health",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

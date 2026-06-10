@@ -17,7 +17,7 @@
   "license_title": "odc-odbl",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2024-11-19T10:24:02.792885",
-  "metadata_modified": "2026-03-02T17:30:13.878115",
+  "metadata_modified": "2026-06-06T09:54:42.886226",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
   "name": "cayman-islands-road-surface-data",
@@ -38,7 +38,7 @@
   },
   "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
   "package_creator": "sukanya-randhawa-6497",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 1,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Cayman Islands\"]}",
@@ -62,6 +62,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:24:02.796742",
@@ -73,7 +74,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_cym_roadsurface_lines.geojson",
       "id": "436fd5c7-35cf-40a5-b62a-610eac648b48",
       "last_modified": "2024-11-19T10:24:02.774773",
-      "metadata_modified": "2026-03-02T17:30:13.937693",
+      "metadata_modified": "2026-06-06T09:54:43.037683",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -88,6 +89,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:24:02.796746",
@@ -99,7 +101,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_cym_roadsurface_lines.gpkg",
       "id": "193e13af-7fb2-4523-b89e-40dec410ef3c",
       "last_modified": "2024-11-19T10:24:02.774926",
-      "metadata_modified": "2026-03-02T17:05:46.703776",
+      "metadata_modified": "2026-06-06T09:54:43.037954",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

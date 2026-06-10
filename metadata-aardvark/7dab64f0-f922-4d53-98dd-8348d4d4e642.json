@@ -1,0 +1,43 @@
+{
+  "id": "hdx-7dab64f0-f922-4d53-98dd-8348d4d4e642",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T18:54:39Z",
+  "dct_title_s": "Global UNHAS Routes (WFP SDI-T - Logistics Database)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "UNHAS (United Nations Humanitarian Air Service) routes for passenger and cargo air transport services used by humanitarian and development agencies and their implementing NGO partners"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP, Logistics Cluster"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "logistics",
+    "transportation"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "logistics",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "gbl_indexYear_im": [
+    2014
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/global-unhas-routes\",\"http://schema.org/downloadUrl\":\"http://geonode.wfp.org/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Awld_trs_unhasroutes_wfp&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature\"}"
+}

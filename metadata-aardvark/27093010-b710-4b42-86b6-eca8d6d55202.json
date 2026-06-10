@@ -1,0 +1,41 @@
+{
+  "id": "hdx-27093010-b710-4b42-86b6-eca8d6d55202",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-21T15:06:21Z",
+  "dct_title_s": "Satellite Detected Water Extent in Maguindanao and Cotabato Provinces, Phillipines",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This map illustrates the satellite-detected water extent in Maguindanao and Cotabato provinces, Phillipines. The UNITAR-UNOSAT analysis used a Sentinel-1 satellite image acquired on the 07 June 2017 and could observe areas with standing waters mainly affecting agricultural fields. Within the map extent, the UNITAR-UNOSAT analysis identified ~34,000 ha of those areas and ~127 km of potentially affected road mainly local roads. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR-UNOSAT."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UNOSAT"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "locn_geometry": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dcat_bbox": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "gbl_indexYear_im": [
+    2017
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-water-extent-in-maguindanao-and-cotabato-provinces-phillipines\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/unosat-maps/PH/FL20170607PHL/FL20170607PHL_gdb.zip\"}"
+}

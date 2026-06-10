@@ -1,0 +1,41 @@
+{
+  "id": "hdx-b4d70e88-9c72-4b59-93e8-0f767b51c977",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-10-28T15:12:42Z",
+  "dct_title_s": "Damage Assessment in Nippes department, Haiti as of 16 August 2021",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: EQ20210814HTI** This map illustrates potentially damaged structures/buildings in Nippes department of Haiti as detected by using a satellite image acquired after the earthquake. UNOSAT analysis used a Worldview-2 image acquired on 14 & 16 August 2021, a Worldview-1 image acquired on 15 August 2021, a Worldview-3 image acquired on 16 August 2021, and Pleiades images acquired on 15 & 16 August 2021, as a post-event images. Within the analyzed area, UNOSAT identified 73 damaged structures and 125 potentially damaged structures. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to United Nations Satellite Centre (UNOSAT)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Haiti"
+  ],
+  "locn_geometry": "ENVELOPE(-74.46, -71.62, 19.92, 18.03)",
+  "dcat_bbox": "ENVELOPE(-74.46, -71.62, 19.92, 18.03)",
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/damage-assessment-in-nippes-department-haiti-as-of-16-august-2021\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/HT/EQ20210814HTI/EQ20210814HTI_gdb.zip\"}"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hdx-15a1518d-a6e4-47b4-818a-74058f4e2316",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-10-28T14:06:43Z",
+  "dct_title_s": "Satellite detected water extent in Region 9 - Upper Takutu-Upper Essequibo, Guyana as of 16 August 2021",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20210817GUY** This map illustrates satellite-detected surface waters in the Upper Takutu-Upper Essequibo Regions of Guyana using NOAA-VIIRS between 12th and 16th of August 2021. Within the analysed area of about 24,462 km2, a total of about 1417 km2 of lands were observed as flooded. Based on Worldpop spatial demographic data,approximately 2153 people are exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR-UNOSAT."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Guyana"
+  ],
+  "locn_geometry": "ENVELOPE(-61.41, -56.54, 8.37, 1.27)",
+  "dcat_bbox": "ENVELOPE(-61.41, -56.54, 8.37, 1.27)",
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extent-in-region-9-upper-takutu-upper-essequibo-guyana-as-of-16-august-2021\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/GY/FL20210817GUY/FL20210817GUY_gdb.zip\"}"
+}

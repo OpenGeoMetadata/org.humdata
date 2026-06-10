@@ -1,0 +1,41 @@
+{
+  "id": "hdx-4e1e63ac-6b0e-4e2f-aaf7-2c5f766acb71",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-12-17T15:22:34Z",
+  "dct_title_s": "Gridded disaggregated population estimates for Kenya , version 2.0",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "These data were produced by the [ WorldPop](https://www.worldpop.org/) Research Group at the University of Southampton. This work was part of the GRID3 project with funding from the United Nations Children's Fund ([ UNICEF ](https://www.unicef.org/)) - Population Modelling for use in Routine Health Planning and Monitoring project (contract no. 43335861). Projects partners included the Kenya Unicef Regional and Country Offices, WorldPop research group at the University of Southampton and the Center for International Earth Science Information Network in the Columbia Climate School at Columbia University. Assane Gadiaga (WorldPop) led the input processing and the modelling work following the Random Forest (RF)-based dasymetric mapping approach developed by Stevens et al. (2015). Thomas Abbott supported the covariates processing work. In-country engagements were done by David Kyalo, Olena Borkovska ([ GRID3 ](https://grid3.org/ Inc), Maria Muniz (Unicef). Using the 2009 and 2019 census data from the Kenya’s National Bureau of Statistics (KNBS), the US Census Bureau released the census-based total population projections, population by age and gender and digital sub-counties boundaries. Duygu Cihan helped in the preparation of these input population data. Attila N Lazar, Edith Darin and Heather Chamberlain advised on the modelling procedure. The work was overseen by Attila N Lazar and Andy J Tatem. **Recommended citations** Gadiaga A. N., Abbott T. J., Chamberlain H., Lazar A. N., Darin E., Tatem A. J. 2023. Census disaggregated gridded population estimates for Kenya (2022), version 2.0. University of Southampton. doi:10.5258/SOTON/WP00762 **License** *These data may be distributed using a Creative Commons Attribution 4.0 International (CC BY 4.0) License, specified in legal code. Contact release[at]worldpop.org for more information*. The authors followed rigorous procedures designed to ensure that the used data, the applied method and thus the results are appropriate and of reasonable quality. If users encounter apparent errors or misstatements, they should contact WorldPop at release[at]worldpop.org. [WorldPop](https://www.worldpop.org/), University of Southampton, and their sponsors offer these data on a \"where is, as is\" basis; do not offer an express or implied warranty of any kind; do not guarantee the quality, applicability, accuracy, reliability or completeness of any data provided; and shall not be liable for incidental, consequential, or special damages arising out of the use of any data that they offer."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WorldPop"
+  ],
+  "dcat_keyword_sm": [
+    "demographics",
+    "population"
+  ],
+  "dct_subject_sm": [
+    "demographics",
+    "population"
+  ],
+  "dct_spatial_sm": [
+    "Kenya"
+  ],
+  "locn_geometry": "ENVELOPE(33.89, 41.86, 5.51, -4.68)",
+  "dcat_bbox": "ENVELOPE(33.89, 41.86, 5.51, -4.68)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/gridded-disaggregated-population-estimates-for-kenya-version-2-0\",\"http://schema.org/downloadUrl\":\"https://wopr.worldpop.org/download/549\"}"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hdx-7d978dcf-afa9-454e-8eaa-d9e54458f44e",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T18:52:37Z",
+  "dct_title_s": "Satellite detected water extents between 1 and 25 October 2022 over Nigeria",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code FL20221019NGA** This map illustrates cumulative satellite-detected water using VIIRS in Nigeria between 1 to 25 October 2022 compared with the period from 1 to 30 September 2022. Within the cloud free analysed areas of about 912,000 km², a total of about 48,300 km² of land appears to be affected. In the analysed areas, 1,370 health facilities and 2,730 schools are identified to be within or close to a flooded zone. In comparison with the period between 1 to 30 September 2022, water extent appears to have increased of about 2,300 km². Based on Worldpop population data and the maximal flood water extent ~12,200,000 people are potentially exposed or living close to flooded areas amongst the 220 million people living in the analysed zone. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to the United Nations Satellite Centre (UNOSAT)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Nigeria"
+  ],
+  "locn_geometry": "ENVELOPE(2.69, 14.58, 13.87, 4.24)",
+  "dcat_bbox": "ENVELOPE(2.69, 14.58, 13.87, 4.24)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-water-extents-between-1-and-25-october-2022-over-nigeria\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3427/FL20221019NGA_GDB.zip\"}"
+}

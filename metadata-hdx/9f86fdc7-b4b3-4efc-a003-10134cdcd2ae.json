@@ -1,0 +1,132 @@
+{
+  "archived": false,
+  "caveats": "While the data provides a valuable first look, it should serve as a preliminary guide and will require on-the-ground verification for a complete understanding.",
+  "creator_user_id": "db99c124-1307-4809-93ef-eb763b945fc8",
+  "data_update_frequency": "-1",
+  "dataset_date": "[2025-03-31T00:00:00 TO 2025-03-31T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "Microsoft AI for Good Lab",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "9f86fdc7-b4b3-4efc-a003-10134cdcd2ae",
+  "is_requestdata_type": false,
+  "isopen": true,
+  "last_modified": "2025-04-01T16:03:54.825882",
+  "license_id": "cc-by",
+  "license_title": "Creative Commons Attribution International (CC BY)",
+  "license_url": "http://www.opendefinition.org/licenses/cc-by",
+  "maintainer": "db99c124-1307-4809-93ef-eb763b945fc8",
+  "metadata_created": "2025-04-01T16:03:47.448925",
+  "metadata_modified": "2025-04-02T08:55:11.483772",
+  "methodology": "Other",
+  "methodology_other": "Microsoft AI4G Lab ran their damage assessment AI models on images provided by Planet and have mapped out the affected buildings.",
+  "name": "myanmar-earthquake-naypyidaw-building-damage-assessment-from-03-31-2025",
+  "notes": "Microsoft AI for Good Lab ran their damage assessment AI models on images provided by Planet and have mapped out the affected buildings in Naypyidaw, Myanmar.",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "id": "e7b426aa-85ac-491d-b54f-b4ab17c6ad51",
+    "name": "microsoft-ai4g-lab",
+    "title": "Microsoft AI for Good Lab",
+    "type": "organization",
+    "description": "The AI for Good Lab at Microsoft is a collaborative effort focused on leveraging artificial intelligence to solve some of the world's most pressing challenges. By working with global partners and leveraging cutting-edge AI tools, the lab supports innovations in environmental sustainability, agriculture, healthcare, and more. The AI for Good Lab is committed to applying AI solutions to improve lives, drive progress toward the UN’s Sustainable Development Goals, and make a lasting impact through technology.",
+    "image_url": "",
+    "created": "2025-01-08T08:53:27.886529",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "e7b426aa-85ac-491d-b54f-b4ab17c6ad51",
+  "package_creator": "luanamarotti",
+  "pageviews_last_14_days": 3,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Myanmar\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Myanmar Earthquake: Naypyidaw Building Damage Assessment",
+  "total_res_downloads": 145,
+  "type": "dataset",
+  "url": null,
+  "version": null,
+  "customviz": [
+    {
+      "url": "https://aka.ms/naypyidaw_earthquake_3_31_2025"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Myanmar",
+      "id": "mmr",
+      "image_display_url": "",
+      "name": "mmr",
+      "title": "Myanmar"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/9f86fdc7-b4b3-4efc-a003-10134cdcd2ae/resource/a75f3991-02cd-4836-8b4f-b57f91cf1f6c/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2025-04-01T16:03:54.926131",
+      "dataset_preview_enabled": false,
+      "datastore_active": false,
+      "description": "The images cover Naypyidaw, Myanmar.\r\n\r\nAnalysis was done on Planet imagery captured 03/31/2025.\r\n\r\n-19,837 buildings with damage fraction between 0% and 20%\r\n-19 buildings with damage fraction between 40% and 60%\r\n-14 buildings with damage fraction between 60% and 80%\r\n-24 buildings with damage fraction between 80% and 100%\r\n-70 buildings with damage fraction between 20% and 40%\r\n\r\nWhile the data provides a valuable first look, it should serve as a preliminary guide and will require on-the-ground verification for a complete understanding.\r\n\r\nThe result file contains the following fields for each building footprint: \r\n-damage_pct_0m​ – the fraction of the building footprint's area that is classified as damaged by our model \r\n-damaged​ – 1 if damage_pct_0m > 0 else 0 \r\n-unknown_pct – fraction of the pixels within the building footprint that we think are obstructed (clouds, smoke, haze, too dark to evaluate)",
+      "download_url": "https://data.humdata.org/dataset/9f86fdc7-b4b3-4efc-a003-10134cdcd2ae/resource/a75f3991-02cd-4836-8b4f-b57f91cf1f6c/download/naypyidaw_myanmar_results_03313025_skysat.gpkg",
+      "format": "Geopackage",
+      "hash": "",
+      "hdx_rel_url": "/dataset/9f86fdc7-b4b3-4efc-a003-10134cdcd2ae/resource/a75f3991-02cd-4836-8b4f-b57f91cf1f6c/download/naypyidaw_myanmar_results_03313025_skysat.gpkg",
+      "id": "a75f3991-02cd-4836-8b4f-b57f91cf1f6c",
+      "in_quarantine": false,
+      "last_modified": "2025-04-01T16:03:54.825882",
+      "metadata_modified": "2025-04-02T08:55:11.512797",
+      "microdata": false,
+      "mimetype": "application/octet-stream",
+      "mimetype_inner": null,
+      "name": "naypyidaw_myanmar_results_03313025_skysat.gpkg",
+      "originalHash": "8750915",
+      "p_coded": false,
+      "package_id": "9f86fdc7-b4b3-4efc-a003-10134cdcd2ae",
+      "pii": "false",
+      "position": 0,
+      "resource_type": "file.upload",
+      "size": 4870144,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/9f86fdc7-b4b3-4efc-a003-10134cdcd2ae/resource/a75f3991-02cd-4836-8b4f-b57f91cf1f6c/download/naypyidaw_myanmar_results_03313025_skysat.gpkg",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "crisis-myanmar-earthquake",
+      "id": "7b13f527-9eb1-4c4a-9d2f-00957adb5f46",
+      "name": "crisis-myanmar-earthquake",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "damage assessment",
+      "id": "3c5bab40-4c0f-40bc-a2dd-12cd7f945037",
+      "name": "damage assessment",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "earthquake-tsunami",
+      "id": "ec3e650b-06d4-410d-915f-213d6156b1b6",
+      "name": "earthquake-tsunami",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "urban search and rescue-usar",
+      "id": "f6b3cf0c-6704-480d-a2ed-b363281def0c",
+      "name": "urban search and rescue-usar",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

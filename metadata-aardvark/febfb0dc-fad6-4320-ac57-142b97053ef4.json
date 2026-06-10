@@ -1,0 +1,43 @@
+{
+  "id": "hdx-febfb0dc-fad6-4320-ac57-142b97053ef4",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-02-25T00:49:59Z",
+  "dct_title_s": "Global Humanitarian Response Plan COVID-19 Administrative Boundaries and Population Statistics",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Global Humanitarian Response Plan COVID-19 administrative level 1 boundaries, gazetteer and population tables for countries covered by the May update of the [Global Humanitarian Response Plan COVID-19](https://reliefweb.int/sites/reliefweb.int/files/resources/GHRP-COVID19_MayUpdate.pdf). 13 OCTOBER 2020 UPDATE: The [Ethiopia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/ethiopia-cod-ab) dataset has been updated with changes at administrative level 1 and below. However, as the [Ethiopia - Subnational Population Statistics](https://data.humdata.org/dataset/ethiopia-population-data-_-admin-level-0-3#) dataset has not been updated and no longer matches, this global dataset has not yet been updated. 30 SEPTEMBER 2020 UPDATE: The dataset has been updated to reflect official Brazil P-codes. Users should note that the Brazil P-codes in earlier versions no longer correspond to the current CODs. 17 SEPTEMBER 2020 UPDATE: The dataset has been updated to reflect the new (2020) Paraguay COD-PS projections and the adjusted Paraguay P-codes. Users should note that the Paraguay P-codes in earlier versions no longer correspond to the current CODs. 26 AUGUST 2020 UPDATE: administrative level 1 total population statistics have been added for the following 11 countries: Benin , Djibouti, Liberia, Pakistan, Panama, Philippines, Paraguay, Sierra Leone, Togo, Uruguay, Zimbabwe. Population statistics are now available for 48 of the 63 countries or territories. Data fields: ADM1_PCODE: Administrative level 1 (various types) P-code ADM0_PCODE: Administrative level 0 (country or territory) P-code alpha_3: ISO 3166-1 Alpha 3 country or territory identifier ADM0_REF: Administrative level 0 (country or territory) reference name (Latin script without special characters) ADM1_REF: Administrative level 1 (various types) reference name (Latin script without special characters) Population: Most recent available total population. PLEASE SEE CAVEATS"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Multiple Sources"
+  ],
+  "dcat_keyword_sm": [
+    "covid-19",
+    "gazetteer",
+    "humanitarian response plan-hrp"
+  ],
+  "dct_subject_sm": [
+    "covid-19",
+    "gazetteer",
+    "humanitarian response plan-hrp"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "CSV",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/global-humanitarian-response-plan-covid-19-administrative-boundaries-and-population-statistics\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/febfb0dc-fad6-4320-ac57-142b97053ef4/resource/4b23b5fb-bba4-40df-9e2f-3ac250dded51/download/ghrp_covid19_admbnda_adm1_2020_09_30.zip\"}"
+}

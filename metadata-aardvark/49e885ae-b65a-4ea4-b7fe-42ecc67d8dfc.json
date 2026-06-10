@@ -1,0 +1,39 @@
+{
+  "id": "hdx-49e885ae-b65a-4ea4-b7fe-42ecc67d8dfc",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2024-04-18T16:59:30Z",
+  "dct_title_s": "Kenya: ICT Usage by Subcounty",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Kenya 2019 Census ICT Usage data mapped by Subcounty Note KNBS incorrectly used 345 sub counties. This is mapped by best effort to 290 correct sub counties using IEBC boundaries. Acknowledgements to Shel Kariuki who imported KNBS PDFS to CSV and Brian Mwangi who helped with mapping KNBS regions to valid sub county names."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Liquid Telecom"
+  ],
+  "dcat_keyword_sm": [
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Kenya"
+  ],
+  "locn_geometry": "ENVELOPE(33.89, 41.86, 5.51, -4.68)",
+  "dcat_bbox": "ENVELOPE(33.89, 41.86, 5.51, -4.68)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "ESRI ArcMap Project File",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kenyacencusict2019\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/49e885ae-b65a-4ea4-b7fe-42ecc67d8dfc/resource/41d73845-b050-4a0a-b327-fafd8bc6337f/download/kenya-with-sub-counties.mxd\"}"
+}

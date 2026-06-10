@@ -1,0 +1,57 @@
+{
+  "id": "hdx-66724d51-2381-4d05-b463-af070a757356",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T18:27:10Z",
+  "dct_title_s": "Food Insecurity Mapping - East Africa (January - March 2014)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This Archive contains shapefiles for FEWS NET Food Security Outlook for **East Africa**. It was last updated on August 07, 2014. The classification used is [IPC V2.0 Compatible](http://www.fews.net/nosso-trabalho/nosso-trabalho/classifica%C3%A7%C3%A3o-integrada-de-fases), aimed to address acute food insecurity. The two shapefiles represent the two analytic periods: * eastafrica201304_ML1 Most likely food security outcome for January-March 2014 * eastafrica201304_ML2 Most likely food security outcome for April-June 2014 Within the shapefiles, the food security outlook is contained in a field named as ML1 or ML2 according to the outlook period. The code itself is the IPC phase. Two additional codes are used: * 66 = water * 88 = parks, forests, reserves * 99 = missing data (usually urban centers)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "FEWS NET"
+  ],
+  "dcat_keyword_sm": [
+    "agriculture-livestock",
+    "climate-weather",
+    "complex emergency-conflict-security",
+    "food security",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "agriculture-livestock",
+    "climate-weather",
+    "complex emergency-conflict-security",
+    "food security",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Burundi",
+    "Djibouti",
+    "Ethiopia",
+    "Kenya",
+    "Rwanda",
+    "Somalia",
+    "South Sudan",
+    "Sudan",
+    "Uganda",
+    "United Republic of Tanzania",
+    "Yemen"
+  ],
+  "locn_geometry": "ENVELOPE(21.94, 53.11, 22.0, -11.72)",
+  "dcat_bbox": "ENVELOPE(21.94, 53.11, 22.0, -11.72)",
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "gbl_indexYear_im": [
+    2014
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/food-insecurity-mapping-east-africa-january-march-2014\",\"http://schema.org/downloadUrl\":\"http://shapefiles.fews.net/east-africa201401.zip\"}"
+}

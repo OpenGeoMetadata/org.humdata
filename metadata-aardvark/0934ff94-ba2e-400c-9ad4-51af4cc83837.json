@@ -1,0 +1,39 @@
+{
+  "id": "hdx-0934ff94-ba2e-400c-9ad4-51af4cc83837",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-06-25T01:59:26Z",
+  "dct_title_s": "Cameroon - Subnational Edge-matched Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Cameroon administrative level 0-3 edge-matched gazetteer, shapefiles, geodatabase, and geoservice. COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-cmr); however COD-EM datasets may be preferred for cartographic purposes. See caveats. These layers are suitable for database or GIS linkage to the [Cameroon - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-cmr) tables using the ADM0, ADM1, ADM2, and ADM3_PCODE fields. Vetting by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Institut National de Cartographie (INC) provided by OSM and ITOS"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions"
+  ],
+  "dct_spatial_sm": [
+    "Cameroon"
+  ],
+  "locn_geometry": "ENVELOPE(8.49, 16.01, 12.86, 1.73)",
+  "dcat_bbox": "ENVELOPE(8.49, 16.01, 12.86, 1.73)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "XLSX",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-em-cmr\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/0934ff94-ba2e-400c-9ad4-51af4cc83837/resource/e2c426c1-f92c-41c5-ac4d-479b5522b64a/download/cmr_adminboundaries_tabulardata.xlsx\"}"
+}

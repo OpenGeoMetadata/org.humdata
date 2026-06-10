@@ -1,0 +1,41 @@
+{
+  "id": "hdx-768b9ef7-7615-4fec-8233-be9e87ad1804",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-10-20T14:46:18Z",
+  "dct_title_s": "Satellite detected waters in the Central region of Thailand as of 3 October 2021",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20210928THA** This map illustrates satellite-detected surface waters in Central part of Thailand as observed from a Sentinel-1 image acquired on 3 October 2021 at 06:08 local time. Within the analyzed area of about 91,000 km2 , about 3,300 km2 of lands appear to be flooded. The water extent appears to have decreased of about 180 km2 since 27 September 2021. Based on Worldpop population data and the detected surface waters in the analyzed area, the potentially exposed population is 350,000 people mainly located in the Ayutthaya Province with ~ 76,000 People. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Thailand"
+  ],
+  "locn_geometry": "ENVELOPE(97.38, 105.59, 20.42, 5.69)",
+  "dcat_bbox": "ENVELOPE(97.38, 105.59, 20.42, 5.69)",
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-waters-in-the-central-region-of-thailand-as-of-3-october-2021\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/TH/FL20210928THA/FL20210928THA_gdb.zip\"}"
+}

@@ -1,0 +1,133 @@
+{
+  "archived": true,
+  "batch": "c947a5c2-c4c1-4068-9ccd-426bd65b158f",
+  "creator_user_id": "35170fdf-d23a-498a-be44-44a42a6d799a",
+  "data_update_frequency": "-1",
+  "dataset_date": "[2019-04-03T00:00:00 TO 2019-04-03T23:59:59]",
+  "dataset_preview": "resource_id",
+  "dataset_source": "MSF  - Médecins Sans Frontières (MSF) International - doctors without borders",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "efa236cf-dfaf-4520-97c6-57bd79bc02f7",
+  "is_requestdata_type": false,
+  "isopen": true,
+  "last_modified": "2019-04-03T17:51:19.547103",
+  "license_id": "cc-by",
+  "license_title": "Creative Commons Attribution International (CC BY)",
+  "license_url": "http://www.opendefinition.org/licenses/cc-by",
+  "maintainer": "7d7f5f8d-7e3b-483a-8de1-2b122010c1eb",
+  "metadata_created": "2019-04-03T17:51:18.687839",
+  "metadata_modified": "2025-04-25T15:03:59.534987",
+  "methodology": "Direct Observational Data/Anecdotal Data",
+  "name": "mozambique-beira-idp-april-2019",
+  "notes": "IDP shapefile collected by MSF Médecins Sans Frontières (MSF) International - doctors without borders during the first week of April 2019 in Mozambique Beire",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "id": "4af7c80c-bddb-4673-864b-e37bde95274c",
+    "name": "ocha-mozambique-hat",
+    "title": "OCHA Mozambique",
+    "type": "organization",
+    "description": "OCHA Mozambique Humanitarian Advisory Team responding to Cyclone Idai.",
+    "image_url": "",
+    "created": "2019-04-04T20:43:33.322371",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "4af7c80c-bddb-4673-864b-e37bde95274c",
+  "package_creator": "hdxmetasebya",
+  "pageviews_last_14_days": 0,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Mozambique\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Mozambique Beira IDP  April 2019",
+  "total_res_downloads": 113,
+  "type": "dataset",
+  "updated_by_script": "hdx:HDXPythonLibrary/6.3.1-hdx_cli_toolkit_cjh (2025-04-25T15:03:57.306244)",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Mozambique",
+      "id": "moz",
+      "image_display_url": "",
+      "name": "moz",
+      "title": "Mozambique"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/efa236cf-dfaf-4520-97c6-57bd79bc02f7/resource/a9f9fd83-4ad6-4a90-b5b3-6cecc6a95cdc/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-04-03T17:51:19.913592",
+      "dataset_preview_enabled": true,
+      "datastore_active": false,
+      "description": "",
+      "download_url": "https://data.humdata.org/dataset/efa236cf-dfaf-4520-97c6-57bd79bc02f7/resource/a9f9fd83-4ad6-4a90-b5b3-6cecc6a95cdc/download/moz_beira_idp_v3_190403_msf.zip",
+      "format": "SHP",
+      "hash": "",
+      "hdx_rel_url": "/dataset/efa236cf-dfaf-4520-97c6-57bd79bc02f7/resource/a9f9fd83-4ad6-4a90-b5b3-6cecc6a95cdc/download/moz_beira_idp_v3_190403_msf.zip",
+      "id": "a9f9fd83-4ad6-4a90-b5b3-6cecc6a95cdc",
+      "last_modified": "2019-04-03T17:51:19.547103",
+      "metadata_modified": "2025-04-08T17:38:35.638226",
+      "microdata": false,
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "MOZ_Beira_IDP_v3_190403_msf.zip",
+      "originalHash": "1116936704",
+      "p_coded": false,
+      "package_id": "efa236cf-dfaf-4520-97c6-57bd79bc02f7",
+      "position": 0,
+      "resource_type": "file.upload",
+      "shape_info": "[{\"error_class\": \"None\", \"layer_id\": \"None\", \"error_type\": \"None\", \"state\": \"processing\", \"timestamp\": \"2019-04-03T17:51:19.737288\", \"message\": \"The processing of the geo-preview has started\"}, {\"error_class\": \"None\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"id\", \"data_type\": \"numeric\"}, {\"field_name\": \"form_date\", \"data_type\": \"date\"}, {\"field_name\": \"loc_center\", \"data_type\": \"character varying\"}, {\"field_name\": \"loc_cent_1\", \"data_type\": \"character varying\"}, {\"field_name\": \"loc_cent_2\", \"data_type\": \"character varying\"}, {\"field_name\": \"lat_y\", \"data_type\": \"character varying\"}, {\"field_name\": \"long_x\", \"data_type\": \"character varying\"}, {\"field_name\": \"loc_provin\", \"data_type\": \"character varying\"}, {\"field_name\": \"loc_distri\", \"data_type\": \"character varying\"}, {\"field_name\": \"loc_neigh\", \"data_type\": \"character varying\"}, {\"field_name\": \"loc_other_\", \"data_type\": \"character varying\"}, {\"field_name\": \"hh\", \"data_type\": \"numeric\"}, {\"field_name\": \"pop_approx\", \"data_type\": \"numeric\"}, {\"field_name\": \"pop_women\", \"data_type\": \"numeric\"}, {\"field_name\": \"pop_men\", \"data_type\": \"numeric\"}, {\"field_name\": \"pop_childr\", \"data_type\": \"numeric\"}, {\"field_name\": \"pop_old\", \"data_type\": \"numeric\"}, {\"field_name\": \"water_sour\", \"data_type\": \"character varying\"}, {\"field_name\": \"water_well\", \"data_type\": \"character varying\"}, {\"field_name\": \"water_cost\", \"data_type\": \"numeric\"}, {\"field_name\": \"water_so_1\", \"data_type\": \"numeric\"}, {\"field_name\": \"sanitation\", \"data_type\": \"character varying\"}, {\"field_name\": \"sanitati_1\", \"data_type\": \"numeric\"}, {\"field_name\": \"sanitati_2\", \"data_type\": \"numeric\"}, {\"field_name\": \"sanitati_3\", \"data_type\": \"character varying\"}, {\"field_name\": \"clinic_acc\", \"data_type\": \"character varying\"}, {\"field_name\": \"clinic_hc_\", \"data_type\": \"numeric\"}, {\"field_name\": \"clinic\", \"data_type\": \"character varying\"}, {\"field_name\": \"comments\", \"data_type\": \"character varying\"}, {\"field_name\": \"comment2\", \"data_type\": \"character varying\"}, {\"field_name\": \"source\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"layer_id\": \"pre_a9f9fd83_4ad6_4a90_b5b3_6cecc6a95cdc\", \"error_type\": \"None\", \"bounding_box\": \"BOX(34.82393 -19.8455556,34.93658 -19.73034)\", \"state\": \"success\", \"timestamp\": \"2019-04-03T17:51:21.599533\", \"message\": \"Import successful\"}]",
+      "size": 5333,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/efa236cf-dfaf-4520-97c6-57bd79bc02f7/resource/a9f9fd83-4ad6-4a90-b5b3-6cecc6a95cdc/download/moz_beira_idp_v3_190403_msf.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "cyclones-hurricanes-typhoons",
+      "id": "326e097b-96f2-46e4-8ef4-0a8d4401a646",
+      "name": "cyclones-hurricanes-typhoons",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "internally displaced persons-idp",
+      "id": "4a0f429f-679c-4492-8386-d5cdf2d82ecd",
+      "name": "internally displaced persons-idp",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "needs assessment",
+      "id": "9b4c3273-e3c3-4727-9adf-6760644993d0",
+      "name": "needs assessment",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "populated places-settlements",
+      "id": "c7d3120a-ca01-4bba-b773-53cd7dc608bc",
+      "name": "populated places-settlements",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

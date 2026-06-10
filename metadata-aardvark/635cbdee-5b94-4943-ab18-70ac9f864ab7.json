@@ -1,0 +1,41 @@
+{
+  "id": "hdx-635cbdee-5b94-4943-ab18-70ac9f864ab7",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T18:28:39Z",
+  "dct_title_s": "Satellite detected water extent over between 19 to 23 May 2023 over Hiraan, Midle Shabelle and Lower Shabelle Region, Somalia",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code FL20230327SOM, GDACS Id: 1101908** This map illustrates cumulative satellite-detected water using VIIRS along the Shabelle River in Somalia between 19 to 23 May 2023. Within the analysed area of about 39,000 km², about 1,400 km² of land appear to be flooded. Based on Worldpop population data and the maximum flood water coverage, at least 120,000 people are potentially exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to United Nations Satellite Centre (UNOSAT)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Somalia"
+  ],
+  "locn_geometry": "ENVELOPE(40.98, 51.13, 12.02, -1.68)",
+  "dcat_bbox": "ENVELOPE(40.98, 51.13, 12.02, -1.68)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extent-over-between-19-to-23-may-2023-over-hiraan-midle-shabelle-and-lower-shabelle-\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3600/FL20230327SOM_gdb.zip\"}"
+}

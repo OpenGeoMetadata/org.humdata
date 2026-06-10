@@ -1,0 +1,130 @@
+{
+  "archived": false,
+  "creator_user_id": "5b55dc45-8323-41e3-a14f-487e137ef94d",
+  "data_update_frequency": "-2",
+  "dataset_date": "[2020-01-01T00:00:00 TO 2020-12-31T23:59:59]",
+  "dataset_preview": "resource_id",
+  "dataset_source": "ETH Zürich, Photogrammetry and Remote Sensing",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "b2146b6f-8267-464f-8bda-efdf2f62f41a",
+  "is_requestdata_type": false,
+  "isopen": true,
+  "last_modified": "2023-09-08T07:40:44.195665",
+  "license_id": "cc-by",
+  "license_title": "Creative Commons Attribution International (CC BY)",
+  "license_url": "http://www.opendefinition.org/licenses/cc-by",
+  "maintainer": "5b55dc45-8323-41e3-a14f-487e137ef94d",
+  "metadata_created": "2023-09-08T07:40:33.346347",
+  "metadata_modified": "2023-09-11T09:20:24.822952",
+  "methodology": "Other",
+  "methodology_other": "POMELO super resolution: https://www.nature.com/articles/s41598-022-24495-w ",
+  "name": "pomelo-tanzania-high-resolution-population",
+  "notes": "This dataset presents a fine-grained population map of Tanzania with a resolution of 100 meters for 2020, generated using the POMELO super-resolution technique that is based on deep learning. Please refer to our [Nature Scientific Reports publication](https://www.nature.com/articles/s41598-022-24495-w) for more details.\r\n\r\nBackground:\r\nTraditionally, many countries, including those in sub-Saharan Africa, rely on aggregated census data over expansive spatial units, which are not always timely or accurate. The need for detailed population maps is paramount in several sectors, including urban development, environmental supervision, public health, and humanitarian initiatives. Addressing this gap, the POMELO methodology leverages coarse census data in conjunction with open geodata to produce high precision population maps.\r\n\r\nKey Features:\r\nResolution: The map offers a granular view with a 100m ground sampling distance, providing intricate details about population distributions in Tanzania.\r\nData Sources: Utilizing a combination of projected admisistrative census data (UN), and supplementing it with open geodata.\r\nReliability: In comparative experiments conducted in sub-Saharan Africa, POMELO's ability to disaggregate coarse census counts achieved R2 values of 85-89%. Furthermore, its potential to predict population numbers without any census data reached accuracy levels of 48-69%.",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "id": "8dffc419-c6ec-481a-9d8f-756d9004b40a",
+    "name": "eth-zurich-photogrammetry-and-remote-sensing",
+    "title": "ETH Zürich, Photogrammetry and Remote Sensing",
+    "type": "organization",
+    "description": "Our research revolves around computational methods to convert image-like sensor data into models of the world. The data we are interested in comes from various sources, including consumer cameras, airborne mapping cameras, laser scanners, range cameras, optical and RADAR systems on remote sensing satellites, etc. The output we aim to deliver are maps and models of the environment, such as virtual 3D object models, or maps of elevation and land-cover. We focus on automatic image interpretation, i.e. we aim to create computer systems which can, with minimal user interaction, extract both accurate geometric measurements and useful semantic interpretations of the observed world from the image data.",
+    "image_url": "",
+    "created": "2023-09-01T10:58:23.814583",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "8dffc419-c6ec-481a-9d8f-756d9004b40a",
+  "package_creator": "nandometzger",
+  "pageviews_last_14_days": 2,
+  "private": false,
+  "qa_completed": true,
+  "solr_additions": "{\"countries\": [\"United Republic of Tanzania\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "POMELO - Tanzania High Resolution Population Density",
+  "total_res_downloads": 120,
+  "type": "dataset",
+  "url": null,
+  "version": null,
+  "customviz": [
+    {
+      "url": "https://ee-nandometzger.projects.earthengine.app/view/pomelo"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "United Republic of Tanzania",
+      "id": "tza",
+      "image_display_url": "",
+      "name": "tza",
+      "title": "United Republic of Tanzania"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/b2146b6f-8267-464f-8bda-efdf2f62f41a/resource/08da2c38-c179-46a8-8ce3-6e7488b06720/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2023-09-08T07:40:44.403422",
+      "dataset_preview_enabled": true,
+      "datastore_active": false,
+      "description": "Georeferenced Tiff raster",
+      "download_url": "https://data.humdata.org/dataset/b2146b6f-8267-464f-8bda-efdf2f62f41a/resource/08da2c38-c179-46a8-8ce3-6e7488b06720/download/tza_pomelo.tiff",
+      "format": "GeoTIFF",
+      "hash": "",
+      "hdx_rel_url": "/dataset/b2146b6f-8267-464f-8bda-efdf2f62f41a/resource/08da2c38-c179-46a8-8ce3-6e7488b06720/download/tza_pomelo.tiff",
+      "id": "08da2c38-c179-46a8-8ce3-6e7488b06720",
+      "last_modified": "2023-09-08T07:40:44.195665",
+      "metadata_modified": "2023-09-11T09:20:19.293216",
+      "microdata": false,
+      "mimetype": "image/tiff",
+      "mimetype_inner": null,
+      "name": "tza_pomelo.tiff",
+      "originalHash": "-988266717",
+      "package_id": "b2146b6f-8267-464f-8bda-efdf2f62f41a",
+      "pii": "false",
+      "pii_is_sensitive": false,
+      "position": 0,
+      "resource_type": "file.upload",
+      "size": 41078559,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/b2146b6f-8267-464f-8bda-efdf2f62f41a/resource/08da2c38-c179-46a8-8ce3-6e7488b06720/download/tza_pomelo.tiff",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "baseline population",
+      "id": "db8205e9-b61c-4df7-a987-1a2658ed8666",
+      "name": "baseline population",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "demographics",
+      "id": "7aa60d26-5c83-4c50-80d2-0b944fe80122",
+      "name": "demographics",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "population",
+      "id": "02e85359-ad5c-4d45-a779-2e7bff747686",
+      "name": "population",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

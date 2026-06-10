@@ -1,0 +1,41 @@
+{
+  "id": "hdx-c5c56134-391c-4232-aba0-d9ca023148d9",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-21T16:21:40Z",
+  "dct_title_s": "Satellite-detected cumulative water extents, as of 06  November 2019 over Luakpiny/Nasir, Pibor",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20191023SSD** This map illustrates the 5-day cumulative, day-time surface water extent detected over Luakpiny/Nasir, Pibor and neighbouring counties in South Sudan. The extent was derived from VIIRS-NOAA satellite imagery between 2 and 6 November 2019 and includes all pixels with 0-100% open water. In the two counties of interest, about 9% of the population in Luakpiny/Nasir and 7% in Pibor may be affected by taking into account WorldPop population estimates. This is a preliminary analysis that has not yet been validated in the field. Please send any fieldbased comments to UNITAR-UNOSAT."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "South Sudan"
+  ],
+  "locn_geometry": "ENVELOPE(23.89, 35.3, 12.25, 3.51)",
+  "dcat_bbox": "ENVELOPE(23.89, 35.3, 12.25, 3.51)",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "gbl_indexYear_im": [
+    2019
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cumulative-water-extents-as-of-06-november-2019-over-luakpiny-nasir-pibor\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/unosat-maps/SS/FL20191023SSD/FL20191023SSD_gdb.zip\"}"
+}

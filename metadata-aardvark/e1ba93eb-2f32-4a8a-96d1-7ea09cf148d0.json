@@ -1,0 +1,41 @@
+{
+  "id": "hdx-e1ba93eb-2f32-4a8a-96d1-7ea09cf148d0",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-21T16:33:21Z",
+  "dct_title_s": "Geodata of Flood waters over Khartoum State, Sudan",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This map illustrates satellite-detected areas of flood affected land as detected in satellite imagery acquired by the Pleiades satellite on 14 August 2014 in Khartoum State, Sudan. The area surrounding Khartoum City and Umdurman was inundated by floods caused by heavy rains. Areas to the South of Umdurman seem to have been flooded and many other areas including Um Baba and Khartoum Bahri seem to be affected by varying levels of water and saturated soils. The flooded area over Khartoum has decreased slightly in some areas, however the higher resolution of the Pleiades shows more smaller standing bodies of water that were likely overlooked by previous sensors. It is likely that flood waters have been systematically underestimated along highly vegetated areas along main river banks, and within built-up urban areas because of the characteristics of the satellite data used. This analysis has not yet been validated in the field. Please send ground feedback to UNITAR /UNOSAT"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UNOSAT"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Sudan"
+  ],
+  "locn_geometry": "ENVELOPE(21.94, 38.41, 22.0, 8.62)",
+  "dcat_bbox": "ENVELOPE(21.94, 38.41, 22.0, 8.62)",
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "gbl_indexYear_im": [
+    2014
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/geodata-of-flood-waters-over-khartoum-state-sudan-august-19-2014\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/unosat-maps/SD/FL20140803SDN/FL20140803SDN.shp.zip\"}"
+}

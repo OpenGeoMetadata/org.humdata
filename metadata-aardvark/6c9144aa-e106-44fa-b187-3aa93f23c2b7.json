@@ -1,0 +1,41 @@
+{
+  "id": "hdx-6c9144aa-e106-44fa-b187-3aa93f23c2b7",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T18:28:28Z",
+  "dct_title_s": "Satellite-detected water extents  in Vohipeno District, Vatovavy Fitovinany Region, Madagascar as of 23 February 2023",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code TC20230221MDG, GDACS Id: 1000961** This map illustrates satellite-detected water in Vohipeno district, Vatovavy Fitovinany region, Madagascar from a TerraSAR-X imagery acquired on 23 February 2023 at 05:19 local time. Within the analyzed area of about 1,100 km2, about 40 km2 of land appear to be flooded. Based on Worldpop population data and the detected surface waters, about 231,000 people live within the analysed area while 10,000 people are potentially exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to the backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Madagascar"
+  ],
+  "locn_geometry": "ENVELOPE(43.25, 50.48, -12.04, -25.6)",
+  "dcat_bbox": "ENVELOPE(43.25, 50.48, -12.04, -25.6)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extents-in-vohipeno-district-vatovavy-fitovinany-region-madagascar-as-of-23-february\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3508/TC20230221MDG_gdb.zip\"}"
+}

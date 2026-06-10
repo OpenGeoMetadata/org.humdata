@@ -1,0 +1,52 @@
+{
+  "id": "hdx-e16e7a7e-67a9-4420-91d6-8cb640649e17",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-10-01T19:08:06Z",
+  "dct_title_s": "Isle of Man: WOF Administrative Subdivisions and Human Settlements",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains administrative polygons grouped by country (admin-0) with the following subdivisions according to Who's On First placetypes: - macroregion (admin-1 including region) - region (admin-2 including state, province, department, governorate) - macrocounty (admin-3 including arrondissement) - county (admin-4 including prefecture, sub-prefecture, regency, canton, commune) - localadmin (admin-5 including municipality, local government area, unitary authority, commune, suburb) The dataset also contains human settlement points and polygons for: - localities (city, town, and village) - neighbourhoods (borough, macrohood, neighbourhood, microhood) The dataset covers activities carried out by Who's On First (WOF) since 2015. Global administrative boundaries and human settlements are aggregated and standardized from hundreds of sources and available with an open CC-BY license. Who's On First data is updated on an as-need basis for individual places with annual sprints focused on improving specific countries or placetypes. Please refer to the [README.md](https://github.com/whosonfirst/whosonfirst-sources/blob/main/sources/README.md) file for complete data source metadata. Refer to our [blog post](https://whosonfirst.org/blog/2023/05/31/shapefiles/) for explanation of field names. Data corrections can be proposed using [Write Field](https://writefield.nextzen.org/), an web app for making quick data edits. You’ll need a Github.com account to login and propose edits, which are then reviewed by the Who's On First community using the Github pull request process. Approved changes are available for download within 24-hours. Please contact WOF admin about bulk edits."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Multiple sources"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "geodata",
+    "populated places-settlements",
+    "population"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "geodata",
+    "populated places-settlements",
+    "population"
+  ],
+  "dct_spatial_sm": [
+    "Isle of Man"
+  ],
+  "dct_temporal_sm": [
+    "2015-2024"
+  ],
+  "gbl_indexYear_im": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-imn\",\"http://schema.org/downloadUrl\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-im-latest.zip\"}"
+}

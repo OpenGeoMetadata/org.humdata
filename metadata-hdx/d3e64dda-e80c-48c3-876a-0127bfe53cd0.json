@@ -17,7 +17,7 @@
   "license_title": "odc-odbl",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2024-11-19T10:20:51.390992",
-  "metadata_modified": "2026-03-02T17:15:23.969909",
+  "metadata_modified": "2026-06-06T10:41:34.048913",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
   "name": "mali-road-surface-data",
@@ -38,7 +38,7 @@
   },
   "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
   "package_creator": "sukanya-randhawa-6497",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 1,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Mali\"]}",
@@ -62,6 +62,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:20:51.394397",
@@ -73,7 +74,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_mli_roadsurface_lines.geojson",
       "id": "e42db182-eee7-4972-ac11-d8fabf3336e8",
       "last_modified": "2024-11-19T10:20:51.364213",
-      "metadata_modified": "2026-03-02T17:15:24.036953",
+      "metadata_modified": "2026-06-06T10:41:34.111000",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -88,6 +89,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:20:51.394401",
@@ -99,7 +101,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_mli_roadsurface_lines.gpkg",
       "id": "06e37501-9ea2-479d-ac92-b5b29328f009",
       "last_modified": "2024-11-19T10:20:51.364466",
-      "metadata_modified": "2026-03-02T17:02:43.807277",
+      "metadata_modified": "2026-06-06T10:41:34.111114",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

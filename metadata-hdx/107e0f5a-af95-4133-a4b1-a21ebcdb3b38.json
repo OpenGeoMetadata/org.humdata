@@ -17,7 +17,7 @@
   "license_title": "odc-odbl",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2024-11-19T10:19:50.949669",
-  "metadata_modified": "2026-03-02T17:08:47.831875",
+  "metadata_modified": "2026-06-06T09:10:38.069627",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
   "name": "kazakhstan-road-surface-data",
@@ -38,7 +38,7 @@
   },
   "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
   "package_creator": "sukanya-randhawa-6497",
-  "pageviews_last_14_days": 1,
+  "pageviews_last_14_days": 0,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Kazakhstan\"]}",
@@ -62,6 +62,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:19:50.953671",
@@ -73,7 +74,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_kaz_roadsurface_lines.geojson",
       "id": "db0e8b3f-fc92-4fae-a8ec-6fc3963f0d6d",
       "last_modified": "2024-11-19T10:19:50.928149",
-      "metadata_modified": "2026-03-02T17:08:47.884103",
+      "metadata_modified": "2026-06-06T09:10:38.117409",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -88,6 +89,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:19:50.953734",
@@ -99,7 +101,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_kaz_roadsurface_lines.gpkg",
       "id": "bbc697f9-5cd9-4e11-b9ff-15d246f8cd28",
       "last_modified": "2024-11-19T10:19:50.928303",
-      "metadata_modified": "2026-03-02T17:01:51.508782",
+      "metadata_modified": "2026-06-06T09:10:38.117569",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

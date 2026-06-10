@@ -1,0 +1,41 @@
+{
+  "id": "hdx-280b11bd-d097-48e0-9c89-fdd09fb09dd0",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-02-02T14:58:33Z",
+  "dct_title_s": "Lebanon - Settlements (villages, towns, cities)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset presents a list of Localities in Lebanon for the use of humanitarian actors. Central Administration of Statistics. The official governmental institutions for statistics. Cadastral Boundaries: Represent the geographic divisions of Lebanon as per the government. In total Lebanon holds 1623 Cadastral Boundaries. Each boundary could includes 1 or more villages or municipalities; or 1 or more cadastral boundaries could represent one municipality. P_code This column illustrates the agreed codes of the villages in Lebanon as per the UNICEF and UNHCR IM joint work. Location_Name_En This column illustrates the agreed names of the villages in Lebanon as per the UNICEF and UNHCR IM joint work. Location_Name_Arabic This column illustrates the name of the location in arabic based on the \"Real estate areas , cities and villages in Lebanon guide\" in 2005 from the ACS for the most of the location Latitude, Longitude Geographical Coordinates in Decimal Degrees. Geographical Projection WGS 1984. Elevation This column has the elevation of the location GPS coordinates. Google Webservices was used to populate this field using location GPS coordinates Governorate This column illustrates the Mohafazas (Governorates) as per the Lebanese Government divisions. In total, the no. of Mohafazas is 8. as per decree \"522 dated 16/7/2003\", in English Governorate_Ar This column illustrates the Mohafazas (Governorates) as per the Lebanese Government divisions. In total, the no. of Mohafazas is 8. as per decree \"522 dated 16/7/2003\", in Arabic UN_Area Of Operation This column illustrates the Mohafazas (Governorates) in Lebanon as per UNHCR operation areas. Noting that Nabatiyeh and South Lebanon Mohafazas were merged into one Mohafaza that is \"South\"also for Bekaa and Baalbek-El Hermel Mohafazas were merged into one Mohafaza that is \"Bekaa\" In total, the no. of Mohafazas as per UNHCR is 5.in English UN_AreaOfOperation_Ar This column illustrates the Mohafazas (Governorates) in Lebanon as per UNHCR divisions. Noting that Nabatiyeh and South Lebanon Mohafazas were merged into one Mohafaza that is \"South\"also for Bekaa and Baalbek-El Hermel Mohafazas were merged into one Mohafaza that is \"Bekaa\" In total, the no. of Mohafazas as per UNHCR is 5.in Arabic District This column illustrates the cazas (Districts) in Lebanon as per Lebanese Government divisions. In total, the no. of Cazas amounts for 26. District_Ar This column illustrates the cazas (Districts) in Lebanon as per Lebanese Government divisions. In total, the no. of Cazas amounts for 26. in Arabic CAS_CODE* This column illustrates the agreed codes of the cadastral boundaries** in Lebanon as per the Lebanese Government. CAS_CODE_UN This column illustrates the agreed codes of the cadastral boundaries in Lebanon as per the Lebanese Government. The codes holds in its beginning the Lebanese acronyme LBN for international use. CAS_NAME This column illustrates the names of the cadastral boundaries in Lebanon as per the Lebanese Government in English. CAS_NAME_Ar This column illustrates the names of the cadastral boundaries in Lebanon as per the Lebanese Government in Arabic. CAS_MaxElevation This column has the elevation of the highest village in the same cadastral zone Municipality Name_EN This column illustrates the names of the Municipalities in Lebanon in English. Data Source: UNHCR Municipality Name_AR This column illustrates the names of the Municipalities in Lebanon in Arabic. Data Source: UNHCR Municipality Phone This column illustrates the Phone number of the Municipalities in Lebanon. Data Source: MoIM website Municipality Address This column illustrates the Available Address of the Municipalities in Lebanon. Data Source: UNDP/Arabia GIS UNION_ID This column illustrates the codes given for to the union of Municipalities in Lebanon. Data Source: UNHABITAT Union_Full This column illustrates the names of the union of Municipalities in Lebanon in English. Data Source: UNHABITAT UOM_Name This column illustrates the abbreviation name of the union of Municipalities in Lebanon in English. Data Source: UNHABITAT"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "The Central Administration of Statistics (CAS) "
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_spatial_sm": [
+    "Lebanon"
+  ],
+  "locn_geometry": "ENVELOPE(35.13, 36.61, 34.64, 33.09)",
+  "dcat_bbox": "ENVELOPE(35.13, 36.61, 34.64, 33.09)",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "gbl_indexYear_im": [
+    2015
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/lebanon-settlements-villages-towns-cities\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/280b11bd-d097-48e0-9c89-fdd09fb09dd0/resource/7580826e-75a2-4cad-9ed4-47989a39511f/download/lebanon_villages.zip\"}"
+}

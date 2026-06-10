@@ -1,0 +1,41 @@
+{
+  "id": "hdx-a3b57464-fa02-49c3-a8a0-3f26e12a7ebf",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2021-09-23T19:56:18Z",
+  "dct_title_s": "Multi-hazard Average Annual Loss",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "GAR 2015 Risk results are presented as a series of probabilistic risk metrics. One of them is the multi-hazard Average Annual Loss (AAL) which is the long-term expected loss per year, averaged over many years. While there may actually be little or no losses, over a short period of time, the AAL accounts much larger losses that may occur more infrequently. AAL is also an indication of the amount of savings a nation need to set aside each year to cover the cost of long term losses from that hazard. As GAR global risk assessment is performed at global scale, the AAL calculated should be read as order of magnitude for the potential recurrent extent of losses in a country."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UNISDR"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "hazards and risk"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "hazards and risk"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "gbl_indexYear_im": [
+    2015
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/multi-hazard-average-annual-loss\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/a3b57464-fa02-49c3-a8a0-3f26e12a7ebf/resource/3d22ff81-7d26-4729-84aa-d4fe692bdc7d/download/gar2015.zip\"}"
+}

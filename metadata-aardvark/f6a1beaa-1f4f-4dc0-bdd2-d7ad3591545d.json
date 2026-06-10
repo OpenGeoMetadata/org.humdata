@@ -1,0 +1,41 @@
+{
+  "id": "hdx-f6a1beaa-1f4f-4dc0-bdd2-d7ad3591545d",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-05-23T17:02:27Z",
+  "dct_title_s": "MapSwipe Results: Myanmar Built Up Areas",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "MapSwipe results focusing on areas with at least one building. This data is collected through the MapSwipe platform, whereby humans visually check for the presence of buildings using satellite imagery (Esri World Imagery for Myanmar). It combines results from several MapSwipe projects listed below. In the download files below the 'results_yes_maybe' are the results and the original input areas are 'aois'. Source MapSwipe Projects - [Myanmar: Find - Buildings - Earthquake Response (2)](https://mapswipe.org/en/projects/-OMTfDy03ThqukWPeBVp/) - [Myanmar: Find - Buildings - Earthquake Response (3)](https://mapswipe.org/en/projects/-OMqANF17XQSJaxob4LN/) - [Myanmar: Find - Buildings - Earthquake Response (4)](https://mapswipe.org/en/projects/-OMunaJmhQt4kOIb2gGH/) - [Myanmar: Find - Buildings - Earthquake Response (5)](https://mapswipe.org/en/projects/-OMutBu0Xcoqv7TNQCsl/) - [Myanmar: Find - Buildings - Earthquake Response (6)](https://mapswipe.org/en/projects/-ONJMQSebtiitGYE3kgQ/) - [Myanmar: Find - Buildings - Earthquake Response (7)](https://mapswipe.org/en/projects/-ONJNeX0h63Pw5jpLp7y/) - [Myanmar: Find - Buildings - Earthquake Response (8)](https://mapswipe.org/en/projects/-ON_t1ETBDR2H4nqVxiA/)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "MapSwipe"
+  ],
+  "dcat_keyword_sm": [
+    "facilities-infrastructure",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "facilities-infrastructure",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mapswipe_myanmar_buildings\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/f6a1beaa-1f4f-4dc0-bdd2-d7ad3591545d/resource/1e1983db-63ad-426e-b63c-7c45260068b2/download/mapswipe_myanmar_buildings_geojson.zip\"}"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hdx-eb868d4a-1885-46e9-a6b3-9d036093e1c6",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-21T16:33:22Z",
+  "dct_title_s": "Damaged structures and related density map in Sarpol-e-Zahab, Kermanshah, Iran",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This map illustrates potentially damaged structures/buildings and related density in Sarpol-e-Zahab, Kermanshah, Iran as detected by a Pleiades satellite image acquired on 16 November 2017. The UNITAR-UNOSAT analysis identified 683 damaged structures. Taking into account the pre-building footprints provided by Humanitarian OpenStreetMap (~9700 structures), this represents about 7 % of the total number of structures within Sarpol-e-Zahab. The damage density highlights that the neighbourhood of Maskane Mahar and the area around the Post Office are amongst the most affected zones. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR - UNOSAT.  "
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UNOSAT"
+  ],
+  "dcat_keyword_sm": [
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Iraq"
+  ],
+  "locn_geometry": "ENVELOPE(38.79, 48.57, 37.39, 29.1)",
+  "dcat_bbox": "ENVELOPE(38.79, 48.57, 37.39, 29.1)",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "gbl_indexYear_im": [
+    2017
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/damaged-structures-and-related-density-map-in-sarpol-e-zahab-kermanshah-iran-2732\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/unosat-maps/IQ/EQ20171112IRQ/EQ20171112IRQ_gdb.zip\"}"
+}

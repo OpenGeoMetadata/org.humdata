@@ -1,0 +1,41 @@
+{
+  "id": "hdx-32e725a8-9f29-4ab3-8903-ba7f10ae581f",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-21T15:23:52Z",
+  "dct_title_s": "Satellite Detected Waters in Central Bangladesh",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This map illustrates satellite-detected surface water extent in the central part of Bangladesh using a Sentinel-1 satellite image acquired on the 12 August 2017 with a total surface of 4,280,650 ha. In this analyzed area; 1,644,983 ha (38%) of lands are likely affected. These lands are are mainly cropland irrigated and rainfed areas and estimated to 1,576,351 ha. The population exposure analysis using WorldPop data shows that ~17,000,000 people are potentially affected by floods in the analysed zone: ~8,400,000 are located in Dhaka Division and ~5,750,000 in Rajshahi Division. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR-UNOSAT."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UNOSAT"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Bangladesh"
+  ],
+  "locn_geometry": "ENVELOPE(88.08, 92.67, 26.45, 20.67)",
+  "dcat_bbox": "ENVELOPE(88.08, 92.67, 26.45, 20.67)",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "gbl_indexYear_im": [
+    2017
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-waters-in-central-bangladesh\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/unosat-maps/BD/FL20170815BGD/FL20170815BGD_gdb.zip\"}"
+}

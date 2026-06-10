@@ -1,0 +1,138 @@
+{
+  "archived": true,
+  "batch": "2b75f925-3982-4bfb-97e9-ccd40615f7b0",
+  "caveats": "**Languages:** EN\r\n",
+  "creator_user_id": "060468e4-2f33-4488-8504-c4b10cc34821",
+  "data_update_frequency": "-1",
+  "dataset_date": "[2013-09-17T00:00:00 TO 2013-09-17T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "Department of Social Welfare and Development",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "c88ecb28-955b-4d0f-a773-1886a9c9d499",
+  "is_requestdata_type": false,
+  "isopen": false,
+  "last_modified": "2018-08-15T14:53:33.205674",
+  "license_id": "hdx-other",
+  "license_other": "See this [terms of use](https://data.humdata.org/about/license/legacy_hrinfo). This does not replace any terms of use information provided with the dataset.",
+  "license_title": "Other",
+  "maintainer": "9189bf65-6a31-47af-bd9c-98b5c914b5da",
+  "metadata_created": "2015-10-16T12:10:24.887981",
+  "metadata_modified": "2023-05-02T11:23:17.135132",
+  "methodology": "Other",
+  "methodology_other": "Other",
+  "name": "philippines-humanitarian-profile-affected-persons-locations",
+  "notes": "Dataset shows the Locations of IDP Evacuation Centres in Zamboanga City  as of 18 Sept 2013\r\n\r\n\r\n\r\n",
+  "num_resources": 1,
+  "num_tags": 6,
+  "organization": {
+    "id": "27fbd3ff-d0f4-4658-8a69-a07f49a7a853",
+    "name": "ocha-philippines",
+    "title": "OCHA Philippines",
+    "type": "organization",
+    "description": "The Philippines is one of the most disaster prone countries in the world. Annually, an average of 22 tropical cyclones enter the Philippine Area of Responsibility of which around 6 to 7 cause significant damage. Conflicts in Mindanao also cause intermittent cycles of forced displacement.\r\n\r\nIn 2007, OCHA established a presence in Manila to complement the Government’s response to natural disasters and to strengthen humanitarian coordination. In September 2009, Tropical Storm Ketsana devastated Metro Manila, prompting the Emergency Relief Coordinator to appoint the Resident Coordinator as also the Humanitarian Coordinator.\r\n\r\nOCHA’s presence in the Philippines was upgraded to a country office in 2010, with a dual focus: emergency response preparedness and response to sudden onset emergencies and the protracted conflict situation in Mindanao. United Nations Office for the Coordination of Humanitarian Affairs office (OCHA) in the Philippines.\r\nIn 2020 OCHA Philippines country office was scaled down to a Humanitarian Advisory Team (HAT).",
+    "image_url": "",
+    "created": "2014-12-11T13:59:33.434968",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "27fbd3ff-d0f4-4658-8a69-a07f49a7a853",
+  "package_creator": "hdx",
+  "pageviews_last_14_days": 1,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Philippines\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Philippines -  Location of IDP Evacuation Centres in Zamboanga City",
+  "total_res_downloads": 38,
+  "type": "dataset",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Philippines",
+      "id": "phl",
+      "image_display_url": "",
+      "name": "phl",
+      "title": "Philippines"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/c88ecb28-955b-4d0f-a773-1886a9c9d499/resource/e41add40-004c-4d93-afa6-468a2d16e5e7/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2015-10-16T12:10:27.840192",
+      "datastore_active": false,
+      "description": "",
+      "download_url": "https://data.humdata.org/dataset/c88ecb28-955b-4d0f-a773-1886a9c9d499/resource/e41add40-004c-4d93-afa6-468a2d16e5e7/download/zambocity_ecs_dromicmap_130918.zip",
+      "format": "SHP",
+      "hash": "",
+      "hdx_rel_url": "/dataset/c88ecb28-955b-4d0f-a773-1886a9c9d499/resource/e41add40-004c-4d93-afa6-468a2d16e5e7/download/zambocity_ecs_dromicmap_130918.zip",
+      "id": "e41add40-004c-4d93-afa6-468a2d16e5e7",
+      "last_modified": "2018-08-15T14:53:33.205674",
+      "metadata_modified": "2022-09-23T07:33:52.059607",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "ZamboCity_ECs_dromicmap_130918.zip",
+      "package_id": "c88ecb28-955b-4d0f-a773-1886a9c9d499",
+      "position": 0,
+      "resource_type": "file.upload",
+      "shape_info": "{\"state\": \"success\", \"error_class\": \"None\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}, {\"field_name\": \"field1\", \"data_type\": \"numeric\"}, {\"field_name\": \"ec_name\", \"data_type\": \"character varying\"}, {\"field_name\": \"brgy_name\", \"data_type\": \"character varying\"}, {\"field_name\": \"no_dispppl\", \"data_type\": \"numeric\"}, {\"field_name\": \"longitude\", \"data_type\": \"character varying\"}, {\"field_name\": \"latitude\", \"data_type\": \"character varying\"}], \"layer_id\": \"pre_e41add40_004c_4d93_afa6_468a2d16e5e7\", \"message\": \"Import successful\", \"error_type\": \"None\", \"bounding_box\": \"BOX(121.948071 6.907255,122.181702 6.965875)\"}",
+      "size": 3046,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/c88ecb28-955b-4d0f-a773-1886a9c9d499/resource/e41add40-004c-4d93-afa6-468a2d16e5e7/download/zambocity_ecs_dromicmap_130918.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "displacement",
+      "id": "3e3f28cd-405e-4706-a20b-74ff3e217af2",
+      "name": "displacement",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "humanitarian needs overview-hno",
+      "id": "4d810352-78d9-453c-a48f-6a17b8e6761a",
+      "name": "humanitarian needs overview-hno",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "internally displaced persons-idp",
+      "id": "4a0f429f-679c-4492-8386-d5cdf2d82ecd",
+      "name": "internally displaced persons-idp",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "populated places-settlements",
+      "id": "c7d3120a-ca01-4bba-b773-53cd7dc608bc",
+      "name": "populated places-settlements",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "refugees",
+      "id": "8af07ef8-0180-4966-9e15-d184b9a2fef1",
+      "name": "refugees",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

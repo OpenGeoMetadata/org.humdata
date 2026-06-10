@@ -17,7 +17,7 @@
   "license_title": "odc-odbl",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2024-11-19T10:21:46.425493",
-  "metadata_modified": "2026-03-02T17:18:39.276898",
+  "metadata_modified": "2026-06-06T09:10:48.290573",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
   "name": "finland-road-surface-data",
@@ -38,7 +38,7 @@
   },
   "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
   "package_creator": "sukanya-randhawa-6497",
-  "pageviews_last_14_days": 3,
+  "pageviews_last_14_days": 2,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Finland\"]}",
@@ -62,6 +62,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:21:46.429537",
@@ -73,7 +74,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_fin_roadsurface_lines.geojson",
       "id": "bcd1e826-592b-4a38-b0d9-e73c19ab7ae0",
       "last_modified": "2024-11-19T10:21:46.405583",
-      "metadata_modified": "2026-03-02T17:18:39.342846",
+      "metadata_modified": "2026-06-06T09:10:48.642987",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -88,6 +89,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:21:46.429540",
@@ -99,7 +101,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_fin_roadsurface_lines.gpkg",
       "id": "ddfa8455-8efe-4d62-9f81-869a2388f9a1",
       "last_modified": "2024-11-19T10:21:46.405852",
-      "metadata_modified": "2025-08-26T11:37:20.887366",
+      "metadata_modified": "2026-06-06T09:10:48.643328",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

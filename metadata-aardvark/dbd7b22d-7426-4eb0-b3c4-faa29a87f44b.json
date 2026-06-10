@@ -1,0 +1,40 @@
+{
+  "id": "hdx-dbd7b22d-7426-4eb0-b3c4-faa29a87f44b",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-19T16:29:34Z",
+  "dct_title_s": "Continent of Africa: High Resolution Population Density Maps",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This zip file contains 28 cloud optimized tiff files that cover the continent of Africa. Each of the 28 files represents a region or area - these are not divided by country. Notes: * The country-by-country files that were previously hosted here have been moved into separate datasets. You can find all of them [here](https://data.humdata.org/search?organization=facebook&q=%22High%20Resolution%20Population%20Density%20Maps%20%2B%20Demographic%20Estimates%22). * South Sudan, Sudan, Somalia and Ethiopia are intentionally omitted from this dataset. However, a country-level dataset for Ethiopia can be found [here](https://data.humdata.org/dataset/ethiopia-high-resolution-population-density-maps-demographic-estimates). * These 28 tiff files represent 2015 population estimates. However, please note that many of the country-level files include 2020 population estimates including: Angola, Benin, Botswana, Burundi, Cameroon, Cabo Verde, Cote d'Ivoire, Djibouti, Eritrea, Eswatini, The Gambia, Ghana, Lesotho, Liberia, Mozambique, Namibia, Sao Tome & Principe, Sierra Leone, South Africa, Togo, Zambia, and Zimbabwe."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Data for Good at Meta"
+  ],
+  "dcat_keyword_sm": [
+    "baseline population"
+  ],
+  "dct_subject_sm": [
+    "baseline population"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2018-2019"
+  ],
+  "gbl_indexYear_im": [
+    2018,
+    2019
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/highresolutionpopulationdensitymaps\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/dbd7b22d-7426-4eb0-b3c4-faa29a87f44b/resource/7b3ef0ae-a37d-4a42-a2c9-6b111e592c2c/download/population_af_2018-10-01.zip\"}"
+}

@@ -1,0 +1,133 @@
+{
+  "archived": true,
+  "batch": "1d27e14c-1c26-4634-9881-8787de2e8e30",
+  "caveats": "**Languages:** EN\r\n",
+  "creator_user_id": "060468e4-2f33-4488-8504-c4b10cc34821",
+  "data_update_frequency": "-1",
+  "dataset_date": "[2012-06-20T00:00:00 TO 2012-06-20T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "UNHCR",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "844cb190-b404-42fa-9fff-557d7c22d09b",
+  "indicator": "0",
+  "is_requestdata_type": false,
+  "isopen": false,
+  "last_modified": "2018-08-16T07:26:22.283946",
+  "license_id": "hdx-other",
+  "license_other": "For humanitarian use only\r\n\r\nSee this [terms of use](https://data.humdata.org/about/license/legacy_hrinfo). This does not replace any terms of use information provided with the dataset.",
+  "license_title": "Other",
+  "maintainer": "b2889c19-712a-4155-8b60-5f7d463c53d6",
+  "metadata_created": "2015-09-01T02:44:53.284380",
+  "metadata_modified": "2024-09-13T12:05:56.199287",
+  "methodology": "Other",
+  "methodology_other": "Other",
+  "name": "burkina-faso-affected-persons-locations",
+  "notes": "Malian refugees sites in Burkina Faso\r\n\r\nThe dataset displays the location of Malian refugees in Burkina Faso.\r\n\r\n1/1,000,000",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "id": "ac91832d-2477-4e1f-8520-9a591a7c3d69",
+    "name": "ocha-rowca",
+    "title": "OCHA West and Central Africa (ROWCA)",
+    "type": "organization",
+    "description": "Dans les pays de l'Afrique de l’Ouest et du Centre, l'insécurité alimentaire et la malnutrition s’aggravent avec l'impact des catastrophes naturelles, le changement climatique, l’évolution démographique, l'urbanisation mal gérée, les épidémies et les conflits violents.",
+    "image_url": "",
+    "created": "2014-09-26T15:15:48.616313",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "ac91832d-2477-4e1f-8520-9a591a7c3d69",
+  "package_creator": "hdx",
+  "pageviews_last_14_days": 1,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Burkina Faso\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Burkina Faso - Malian refugees sites in Burkina Faso",
+  "total_res_downloads": 87,
+  "type": "dataset",
+  "updated_by_script": "hdxinternal:HDXPythonLibrary/6.3.1-hdx-cli-toolkit (2024-09-13T12:05:55.977182)",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Burkina Faso",
+      "id": "bfa",
+      "image_display_url": "",
+      "name": "bfa",
+      "title": "Burkina Faso"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/844cb190-b404-42fa-9fff-557d7c22d09b/resource/9a22d886-91b5-4459-9441-5b2a69ccaf12/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2015-09-01T10:21:30.053005",
+      "datastore_active": false,
+      "description": "",
+      "download_url": "https://data.humdata.org/dataset/844cb190-b404-42fa-9fff-557d7c22d09b/resource/9a22d886-91b5-4459-9441-5b2a69ccaf12/download/bfa_mli_ref.zip",
+      "format": "SHP",
+      "hash": "",
+      "hdx_rel_url": "/dataset/844cb190-b404-42fa-9fff-557d7c22d09b/resource/9a22d886-91b5-4459-9441-5b2a69ccaf12/download/bfa_mli_ref.zip",
+      "id": "9a22d886-91b5-4459-9441-5b2a69ccaf12",
+      "last_modified": "2018-08-16T07:26:22.283946",
+      "metadata_modified": "2023-03-02T22:53:10.204490",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "bfa_mli_ref.zip",
+      "package_id": "844cb190-b404-42fa-9fff-557d7c22d09b",
+      "position": 0,
+      "resource_type": "file.upload",
+      "shape_info": "{\"error_class\": \"None\", \"layer_id\": \"pre_9a22d886_91b5_4459_9441_5b2a69ccaf12\", \"error_type\": \"None\", \"bounding_box\": \"BOX(-4.33825026149752 11.1271667701249,-0.649694666213749 14.8333281133651)\", \"state\": \"success\", \"message\": \"Import successful\"}",
+      "size": 5341,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/844cb190-b404-42fa-9fff-557d7c22d09b/resource/9a22d886-91b5-4459-9441-5b2a69ccaf12/download/bfa_mli_ref.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "displacement",
+      "id": "3e3f28cd-405e-4706-a20b-74ff3e217af2",
+      "name": "displacement",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "internally displaced persons-idp",
+      "id": "4a0f429f-679c-4492-8386-d5cdf2d82ecd",
+      "name": "internally displaced persons-idp",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "populated places-settlements",
+      "id": "c7d3120a-ca01-4bba-b773-53cd7dc608bc",
+      "name": "populated places-settlements",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "refugees",
+      "id": "8af07ef8-0180-4966-9e15-d184b9a2fef1",
+      "name": "refugees",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hdx-c62ad81d-ce24-4e61-90c6-836caeec6766",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-06-25T02:36:21Z",
+  "dct_title_s": "Albania - Subnational Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Albania administrative level 0-3 boundaries (COD-AB) dataset. These administrative boundaries were established in: 2015 NOTE: See COD-AB caveats about a multi-part ADM2 feature. See Caveats about two ADM2 featgure names. The HDX metadata dates are based on the enactment of the most recent administrative structure adjustments on June 21 2015. This COD-AB was most recently reviewed for accuracy and necessary changes in November 2024. The COD-AB does not require any update. Sourced from www.gadm.org and UNHCR Vetting by Information Technology Outreach Services (ITOS) with funding from USAID. This COD-AB is suitable for database or GIS linkage to the Albania [COD-PS](https://data.humdata.org/dataset/cod-ps-alb). No edge-matched (COD-EM) version of this COD-AB has yet been prepared. Please see the [COD Portal](https://cod.unocha.org/). Administrative level 1 contains 12 feature(s). The normal administrative level 1 feature type is 'County'. Administrative level 2 contains 61 feature(s). The normal administrative level 2 feature type is 'Municipality'. Administrative level 3 contains 374 feature(s). The normal administrative level 3 feature type is 'Administrative Unit'. Recommended cartographic projection: Europe Albers Equal Area Conic This metadata was last updated on January 17, 2025."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "www.gadm.org and UNHCR"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer"
+  ],
+  "dct_spatial_sm": [
+    "Albania"
+  ],
+  "locn_geometry": "ENVELOPE(19.3, 21.02, 42.69, 39.62)",
+  "dcat_bbox": "ENVELOPE(19.3, 21.02, 42.69, 39.62)",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "gbl_indexYear_im": [
+    2015
+  ],
+  "dct_format_s": "XLSX",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-alb\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/c62ad81d-ce24-4e61-90c6-836caeec6766/resource/cfd4c958-a5e6-4f71-b267-15c1227d2c60/download/alb_adm_gz_2019_v6.xlsx\"}"
+}

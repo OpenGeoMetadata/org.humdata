@@ -17,7 +17,7 @@
   "license_title": "odc-odbl",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2024-11-19T10:19:29.007576",
-  "metadata_modified": "2026-03-02T17:05:18.409267",
+  "metadata_modified": "2026-06-06T10:44:51.685402",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
   "name": "lithuania-road-surface-data",
@@ -38,7 +38,7 @@
   },
   "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
   "package_creator": "sukanya-randhawa-6497",
-  "pageviews_last_14_days": 1,
+  "pageviews_last_14_days": 0,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Lithuania\"]}",
@@ -62,6 +62,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:19:29.012090",
@@ -73,7 +74,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_ltu_roadsurface_lines.geojson",
       "id": "3d4feaeb-e278-49ff-9605-a6447e2ea119",
       "last_modified": "2024-11-19T10:19:28.988497",
-      "metadata_modified": "2026-03-02T17:05:18.453104",
+      "metadata_modified": "2026-06-06T10:44:51.762708",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -88,6 +89,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:19:29.012094",
@@ -99,7 +101,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_ltu_roadsurface_lines.gpkg",
       "id": "96ded1b9-7830-48d6-a627-c9c1e09610b8",
       "last_modified": "2024-11-19T10:19:28.988656",
-      "metadata_modified": "2025-08-26T16:56:39.808960",
+      "metadata_modified": "2026-06-06T10:44:51.762887",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

@@ -1,0 +1,45 @@
+{
+  "id": "hdx-ee3b87ce-ff6d-433b-89db-faa25337954e",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-04-15T22:21:21Z",
+  "dct_title_s": "Ethiopia - Palmer Drought Severity Index (PDSI)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset provides Palmer Drought Severity Index (PDSI) values for Ethiopia from 2020 to 2024, offering insights into drought conditions across the country. The PDSI is a widely used drought index that measures deviations in soil moisture conditions from the long-term average, helping to identify both drought and wet conditions. Unlike traditional PDSI calculations that rely on the Thornthwaite method for estimating potential evapotranspiration (ET), this dataset utilizes a more physically based Penman-Monteith reference ET, which accounts for: * Solar radiation * Temperature * Humidity * Windspeed ## Interpretation of PDSI Values: * PDSI between -0.5 and 0.5 → Near-normal soil moisture conditions * PDSI < -4 → Extreme drought * PDSI > 4 → Very wet conditions"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Google Earth Engine"
+  ],
+  "dcat_keyword_sm": [
+    "drought",
+    "environment"
+  ],
+  "dct_subject_sm": [
+    "drought",
+    "environment"
+  ],
+  "dct_spatial_sm": [
+    "Ethiopia"
+  ],
+  "locn_geometry": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dcat_bbox": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dct_temporal_sm": [
+    "2020-2024"
+  ],
+  "gbl_indexYear_im": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "dct_format_s": "KML",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/ethiopia-palmer-drought-severity-index-pdsi-2020-2024\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/ee3b87ce-ff6d-433b-89db-faa25337954e/resource/ae275c78-427a-4f38-8dc8-9c4d867f0971/download/admin1.kml\"}"
+}

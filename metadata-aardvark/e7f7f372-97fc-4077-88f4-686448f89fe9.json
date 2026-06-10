@@ -1,0 +1,41 @@
+{
+  "id": "hdx-e7f7f372-97fc-4077-88f4-686448f89fe9",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-21T16:33:17Z",
+  "dct_title_s": "Satellite dected waters extents, as of 13 February 2020 over the Republic of Madagascar",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20200128MDG** This maps illustrates satellite-detected water via VIIRS-NOAA on the center and the northern part of the Republic of Madagascar between the 09 and the 13 February 2020. Within the analysed extent not covered by clouds, a total of about 9,116 km2 appear to be flooded, of which about 2,098 km2, 1,366 km2 and 834 km2 in Boeny, Melaky and Alaotra-Mangoro region respectively. Based on Worldpop population data and the detected surface waters, about 1,300,000 people are potentially exposed or living close to flooded areas. In Boeny, Melaky and Alaotra-Mangoro regions, respectively 170,000; 35,000 and 80,000 people are potentially exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR - UNOSAT."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Madagascar"
+  ],
+  "locn_geometry": "ENVELOPE(43.25, 50.48, -12.04, -25.6)",
+  "dcat_bbox": "ENVELOPE(43.25, 50.48, -12.04, -25.6)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-dected-waters-extents-as-of-13-february-2020-over-the-republic-of-madagascar\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/unosat-maps/MD/FL20200128MDG/FL20200128MDG_gdb.zip\"}"
+}

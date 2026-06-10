@@ -1,0 +1,41 @@
+{
+  "id": "hdx-9a5ee06c-584f-41df-8b45-c3c652cf751e",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-21T16:05:00Z",
+  "dct_title_s": "Satellite detected water extent as of 27 July 2018 over Sanamxay District, Attapeu Province, Lao PDR",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This map illustrates the satellite-detected surface waters extent in Sanamxay district, Attapeu province, as observed from the TerraSar-X and Tandem-X radar imagery acquired on 27 July 2018. Satellite detected water extent analysis was performed by Centro Internazionale In Monitoraggio Ambientale Research (CIMA) & Luxembourg Institute of Science and Technology (LIST). Within the analyzed area, a total of 7,405 ha were detected as inundated, four days after the collapse of the dam. Disclaimer: Flood extent maps are derived from high quality satellite data using a scientifically validated retrieval algorithm. No liability concerning the contents or the use thereof is assumed by the producer. The information has limitations due to the quality and resolution of the original data sources, as well as the uncertainties associated with the retrieval algorithm. Please be aware that the thematic accuracy might be lower in urban and forested areas due to inherent limitations of the SAR analysis technique. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR - UNOSAT."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UNOSAT"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Lao People's Democratic Republic"
+  ],
+  "locn_geometry": "ENVELOPE(100.12, 107.56, 22.46, 13.88)",
+  "dcat_bbox": "ENVELOPE(100.12, 107.56, 22.46, 13.88)",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "gbl_indexYear_im": [
+    2018
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-water-extent-as-\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/unosat-maps/LA/FL20180723LAO/FL20180723LAO_shp.zip\"}"
+}

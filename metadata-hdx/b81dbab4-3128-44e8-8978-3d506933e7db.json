@@ -1,0 +1,122 @@
+{
+  "archived": true,
+  "caveats": "Classification has only been actively applied for main roads.",
+  "creator_user_id": "9511aa12-3ab1-461e-a604-7472334eb599",
+  "data_update_frequency": "-1",
+  "dataset_date": "[2014-11-01T00:00:00 TO 2014-11-01T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "OSM contributors and UK Ministry of Defence JIATF Geo Cell",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "b81dbab4-3128-44e8-8978-3d506933e7db",
+  "is_requestdata_type": false,
+  "isopen": true,
+  "last_modified": "2015-11-24T23:38:59.016635",
+  "license_id": "cc-by-sa",
+  "license_title": "Creative Commons Attribution Share-Alike (CC BY-SA)",
+  "license_url": "http://www.opendefinition.org/licenses/cc-by-sa",
+  "maintainer": "7389fd4e-9c62-4f67-a5ee-a66569ff4791",
+  "metadata_created": "2014-11-11T09:16:47.893646",
+  "metadata_modified": "2024-08-28T09:37:45.590474",
+  "methodology": "Census",
+  "name": "osm-roads-data-attributed-with-road-surface-classification",
+  "notes": "Nov 2014 OSM data with attribute classifying roads by surface material/quality.",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "id": "86deacad-932b-4a37-94e7-8f3c89605434",
+    "name": "mapaction",
+    "title": "MapAction",
+    "type": "organization",
+    "description": "MapAction is a NGO which provide field based GIS and IM services to the humanitarian comunity.",
+    "image_url": "",
+    "created": "2014-10-27T19:10:50.632068",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "86deacad-932b-4a37-94e7-8f3c89605434",
+  "package_creator": "sierraleone-2797",
+  "pageviews_last_14_days": 1,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Sierra Leone\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Sierra Leone OSM Roads data attributed with road surface classification",
+  "total_res_downloads": 55,
+  "type": "dataset",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Sierra Leone",
+      "id": "sle",
+      "image_display_url": "",
+      "name": "sle",
+      "title": "Sierra Leone"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/b81dbab4-3128-44e8-8978-3d506933e7db/resource/0c8522d0-bdce-4db3-b8ae-7b0a15d2edbd/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2014-11-11T09:19:26.187751",
+      "datastore_active": false,
+      "description": "Classifications include tarred, paved, unpaved etc",
+      "download_url": "https://data.humdata.org/dataset/b81dbab4-3128-44e8-8978-3d506933e7db/resource/0c8522d0-bdce-4db3-b8ae-7b0a15d2edbd/download/sle-tran-rds-ln-s0-osm-pp-roads-surface.zip",
+      "format": "SHP",
+      "hash": "",
+      "hdx_rel_url": "/dataset/b81dbab4-3128-44e8-8978-3d506933e7db/resource/0c8522d0-bdce-4db3-b8ae-7b0a15d2edbd/download/sle-tran-rds-ln-s0-osm-pp-roads-surface.zip",
+      "id": "0c8522d0-bdce-4db3-b8ae-7b0a15d2edbd",
+      "last_modified": "2015-11-24T23:38:59.016635",
+      "metadata_modified": "2023-03-02T23:11:22.576039",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "sle_tran_rds_ln_s0_osm_pp_roads_surface.zip",
+      "package_id": "b81dbab4-3128-44e8-8978-3d506933e7db",
+      "position": 0,
+      "resource_type": "file.upload",
+      "resource_uploader": "sierraleone-2797",
+      "size": 8213142,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/b81dbab4-3128-44e8-8978-3d506933e7db/resource/0c8522d0-bdce-4db3-b8ae-7b0a15d2edbd/download/sle-tran-rds-ln-s0-osm-pp-roads-surface.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "disease",
+      "id": "2a4e3877-8487-4a62-b010-8dafdc1ba6d8",
+      "name": "disease",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "roads",
+      "id": "a775d5e5-2168-4b89-b415-87d77e424b0c",
+      "name": "roads",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "transportation",
+      "id": "ee1a5568-91f1-4274-b10a-846a81335975",
+      "name": "transportation",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

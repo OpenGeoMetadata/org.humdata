@@ -1,0 +1,39 @@
+{
+  "id": "hdx-4947f678-4fdd-4b86-ae48-bf278f683462",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-06-25T02:15:15Z",
+  "dct_title_s": "Kuwait - Subnational Edge-matched Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Kuwait administrative level 0-1 edge-matched gazetteer, shapefiles, geodatabase, and geoservice. COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-kwt); however COD-EM datasets may be preferred for cartographic purposes. See caveats. These layers are suitable for database or GIS linkage to the [Kuwait - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-kwt) tables. Vetting by Information Technology Outreach Services (ITOS) with funding from USAID."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "GADM database (www.gadm.org) and ITOS"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions"
+  ],
+  "dct_spatial_sm": [
+    "Kuwait"
+  ],
+  "locn_geometry": "ENVELOPE(46.57, 48.42, 30.06, 28.53)",
+  "dcat_bbox": "ENVELOPE(46.57, 48.42, 30.06, 28.53)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "XLSX",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-em-kwt\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/4947f678-4fdd-4b86-ae48-bf278f683462/resource/fd0752f6-f1b1-4c32-ad02-fdbe20a933af/download/kwt_adminboundaries_tabulardata.xlsx\"}"
+}

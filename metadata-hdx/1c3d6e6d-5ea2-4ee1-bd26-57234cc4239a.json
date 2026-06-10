@@ -17,7 +17,7 @@
   "license_title": "odc-odbl",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2024-11-19T10:23:07.641232",
-  "metadata_modified": "2026-03-02T17:27:28.917654",
+  "metadata_modified": "2026-06-06T09:10:52.100251",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
   "name": "namibia-road-surface-data",
@@ -38,7 +38,7 @@
   },
   "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
   "package_creator": "sukanya-randhawa-6497",
-  "pageviews_last_14_days": 1,
+  "pageviews_last_14_days": 2,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Namibia\"]}",
@@ -62,6 +62,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:23:07.644456",
@@ -73,7 +74,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_nam_roadsurface_lines.geojson",
       "id": "48fcf017-5bff-41eb-9115-7c4cf9aed1ad",
       "last_modified": "2024-11-19T10:23:07.606178",
-      "metadata_modified": "2026-03-02T17:27:28.990777",
+      "metadata_modified": "2026-06-06T09:10:52.142048",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -88,6 +89,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:23:07.644461",
@@ -99,7 +101,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_nam_roadsurface_lines.gpkg",
       "id": "8e2b122b-fa2c-48fb-ae83-848c5d56308c",
       "last_modified": "2024-11-19T10:23:07.606451",
-      "metadata_modified": "2026-03-02T17:04:49.997802",
+      "metadata_modified": "2026-06-06T09:10:52.142157",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

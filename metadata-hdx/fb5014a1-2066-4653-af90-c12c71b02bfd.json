@@ -17,7 +17,7 @@
   "license_title": "odc-odbl",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2024-11-19T10:19:17.613005",
-  "metadata_modified": "2026-03-02T17:05:02.537976",
+  "metadata_modified": "2026-06-06T10:52:49.935005",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
   "name": "japan-road-surface-data",
@@ -38,7 +38,7 @@
   },
   "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
   "package_creator": "sukanya-randhawa-6497",
-  "pageviews_last_14_days": 6,
+  "pageviews_last_14_days": 8,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Japan\"]}",
@@ -62,6 +62,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:19:17.616000",
@@ -73,7 +74,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_jpn_roadsurface_lines.geojson",
       "id": "5f15ae18-dff5-491b-9aea-51d6f774f6f9",
       "last_modified": "2024-11-19T10:19:17.591278",
-      "metadata_modified": "2026-03-02T17:05:02.587907",
+      "metadata_modified": "2026-06-06T10:52:49.970102",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -88,6 +89,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:19:17.616005",
@@ -99,7 +101,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_jpn_roadsurface_lines.gpkg",
       "id": "eae8f4e0-2989-4171-b4d4-43b41be7344a",
       "last_modified": "2024-11-19T10:19:17.591524",
-      "metadata_modified": "2025-08-26T17:17:11.598853",
+      "metadata_modified": "2026-06-06T10:52:49.970202",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

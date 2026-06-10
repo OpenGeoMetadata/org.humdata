@@ -1,0 +1,41 @@
+{
+  "id": "hdx-f7fdf1bc-4d6e-4dc9-9f1b-3a5820d54668",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-24T15:26:37Z",
+  "dct_title_s": "El Fasher Damage Assessment Overview",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: CE20230415SDN** This map illustrates damage to structures in the city of El Fasher, North Darfur, Republic of Sudan. The damage was investigated due to a significant occurrence of fire detections from May 9-20 2024. Fire detections are sourced from multiple US Government scientific satellites utilizing the MODIS and VIIRS sensors. While some fire detections may be non-violent in nature the large majority are firmly within areas of residential structures that show indications of burning in satellite imagery. Damaged areas are visible in satellite imagery from 11 November 2023 - 31 July 2024 and are heavily concentrated in the Eastern half of the city. In total, more than 23,600 structures are estimated to have been damaged or destroyed in these areas. Out of these 23,600 structures, approximately 2,000 were found damaged before 9 May 2024; 9,500 between 9 May and 23 May 2024; over 4,600 between 23 May and 1 June 2024; 3,900 between 1 June and 12 June 2024; 600 between 12 June 2024 and 26 June 2024; and 2,900 between 26 June 2024 and 31 July 2024. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to the United Nations Satellite Centre (UNOSAT)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "complex emergency-conflict-security",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "complex emergency-conflict-security",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Sudan"
+  ],
+  "locn_geometry": "ENVELOPE(21.94, 38.41, 22.0, 8.62)",
+  "dcat_bbox": "ENVELOPE(21.94, 38.41, 22.0, 8.62)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/el-fasher-damage-assessment-overview\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3913/ElFasher_DA_20240731.zip\"}"
+}

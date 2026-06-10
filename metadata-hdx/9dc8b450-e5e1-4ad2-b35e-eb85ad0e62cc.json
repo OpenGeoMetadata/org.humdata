@@ -17,7 +17,7 @@
   "license_title": "odc-odbl",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2024-11-19T10:23:16.052862",
-  "metadata_modified": "2026-03-02T17:25:50.079748",
+  "metadata_modified": "2026-06-06T10:20:30.554223",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
   "name": "united-arab-emirates-road-surface-data",
@@ -38,7 +38,7 @@
   },
   "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
   "package_creator": "sukanya-randhawa-6497",
-  "pageviews_last_14_days": 2,
+  "pageviews_last_14_days": 4,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"United Arab Emirates\"]}",
@@ -62,6 +62,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:23:16.056289",
@@ -73,7 +74,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_are_roadsurface_lines.geojson",
       "id": "ddec00c2-b4ec-45bf-8b62-d4a532dc1103",
       "last_modified": "2024-11-19T10:23:16.032849",
-      "metadata_modified": "2026-03-02T17:25:50.145710",
+      "metadata_modified": "2026-06-06T10:20:30.625825",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -88,6 +89,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:23:16.056293",
@@ -99,7 +101,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_are_roadsurface_lines.gpkg",
       "id": "04f1a53e-fbaf-4a9a-97aa-0fd8978f07d4",
       "last_modified": "2024-11-19T10:23:16.033132",
-      "metadata_modified": "2026-03-02T17:05:00.561042",
+      "metadata_modified": "2026-06-06T10:20:30.625996",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

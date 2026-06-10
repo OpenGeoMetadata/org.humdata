@@ -1,0 +1,41 @@
+{
+  "id": "hdx-b52b78e7-62d6-48cc-818f-8bc2f3e62650",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-10-20T15:06:13Z",
+  "dct_title_s": "Satellite detected water extent in Sindh province, Pakistan, as of 15 August 2022",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20220808PAK** This map illustrates satellite-detected surface waters in Sindh province, Pakistan as observed from a Sentinel-1 image acquired on 15 August 2022 at 18:36 local time. Within the analyzed area of about 30,000 km2, about 1,550 km2 of lands appear to be flooded. Water extent appears to have decreased of about 325 km2 since the 06 August 2022. within the analyzed area. Based on Worldpop population data and the detected surface waters in the analyzed area, about 410,000 are potentially exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Pakistan"
+  ],
+  "locn_geometry": "ENVELOPE(60.87, 77.84, 37.13, 23.69)",
+  "dcat_bbox": "ENVELOPE(60.87, 77.84, 37.13, 23.69)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-water-extent-in-sindh-province-pakistan-as-of-15-august-2022\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/PK/FL20220808PAK/FL20220808PAK_gdb.zip\"}"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "hdx-d528b11c-728f-4d2b-8bad-dbd330b342be",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-04-15T19:40:02Z",
+  "dct_title_s": "Myanmar administrative lines shapefile",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Myanmar administrative level 0-3 lines shapefile derived from the [Myanmar Township Boundaries MIMU v9.3](https://data.humdata.org/dataset/mimu-geonode-myanmar-township-boundaries-mimu) Myanmar Township boundaries (ADM3) provided by Myanmar Information Management Unit (MIMU). The 'admLevel' field indicates each boundary segment administrative level, with '99' representing shorelines. These line segment administrative levels reflect the 18-feature administrative structure. Thus boundaries between \"Bago (West)\" and \"Bago (East)\", for instance, are therefore tagged as admLevel 1."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Myanmar Information Management Unit (MIMU)"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/myanmar-administrative-lines-shapefile\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/d528b11c-728f-4d2b-8bad-dbd330b342be/resource/0de5baf1-d39d-4f54-902f-e2b301d84479/download/mmr_polbndl_adm0123_250k_mimu_v01.zip\"}"
+}

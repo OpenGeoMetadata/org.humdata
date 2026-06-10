@@ -17,7 +17,7 @@
   "license_title": "odc-odbl",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2024-11-19T10:21:09.854482",
-  "metadata_modified": "2026-03-02T17:16:06.105869",
+  "metadata_modified": "2026-06-06T10:44:57.798994",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
   "name": "indonesia-road-surface-data",
@@ -38,7 +38,7 @@
   },
   "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
   "package_creator": "sukanya-randhawa-6497",
-  "pageviews_last_14_days": 2,
+  "pageviews_last_14_days": 4,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Indonesia\"]}",
@@ -62,6 +62,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:21:09.859298",
@@ -73,7 +74,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_idn_roadsurface_lines.geojson",
       "id": "1bd9d7de-8030-49e7-8b78-99011dccdb7e",
       "last_modified": "2024-11-19T10:21:09.828103",
-      "metadata_modified": "2026-03-02T17:16:06.156959",
+      "metadata_modified": "2026-06-06T10:44:57.838167",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -88,6 +89,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:21:09.859304",
@@ -99,7 +101,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_idn_roadsurface_lines.gpkg",
       "id": "399791ed-32a0-41da-a1fd-26eea808ffa9",
       "last_modified": "2024-11-19T10:21:09.828267",
-      "metadata_modified": "2026-03-02T17:03:03.381359",
+      "metadata_modified": "2026-06-06T10:44:57.838268",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

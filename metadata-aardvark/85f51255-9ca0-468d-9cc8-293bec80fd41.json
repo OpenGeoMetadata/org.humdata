@@ -1,0 +1,44 @@
+{
+  "id": "hdx-85f51255-9ca0-468d-9cc8-293bec80fd41",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T19:27:21Z",
+  "dct_title_s": "Gabon - Births",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "The health and survival of women and their new-born babies in low income countries is a key public health priority, but basic and consistent subnational data on the number of live births to support decision making has been lacking. WorldPop integrates small area data on the distribution of women of childbearing age and age-specific fertility rates to map the estimated distributions of births for each 1x1km grid square across all low and middle income countries. Further details on the methods can be found in Tatem et al. and James et al.. Data for earlier dates is available directly from WorldPop. WorldPop (www.worldpop.org - School of Geography and Environmental Science, University of Southampton). 2017. Gabon 1km births. Version 2.0 2015 estimates of numbers of live births per grid square, with national totals adjusted to match UN national estimates on numbers of live births (http://esa.un.org/wpp/). DOI: 10.5258/SOTON/WP00316"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WorldPop, University of Southampton, UK"
+  ],
+  "dcat_keyword_sm": [
+    "births",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "births",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Gabon"
+  ],
+  "locn_geometry": "ENVELOPE(8.8, 14.43, 2.33, -3.98)",
+  "dcat_bbox": "ENVELOPE(8.8, 14.43, 2.33, -3.98)",
+  "dct_temporal_sm": [
+    "2014-2017"
+  ],
+  "gbl_indexYear_im": [
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/worldpop-births-for-gabon\",\"http://schema.org/downloadUrl\":\"https://data.worldpop.org/GIS/Births/Individual_countries/GAB/Gabon_1km_births.7z\"}"
+}

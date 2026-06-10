@@ -1,0 +1,49 @@
+{
+  "id": "hdx-212cd82f-bcb8-445f-8b32-aa194387f6c3",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-06-25T02:55:10Z",
+  "dct_title_s": "Paraguay - Subnational Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Paraguay administrative level 0-2 boundaries (COD-AB) dataset. The date that these administrative boundaries were established is unknown. NOTE: New government boundary sources, including a new ADM3 layer, have been identified and will be incorporated into a future COD-AB update. This COD-AB was most recently reviewed for accuracy and necessary changes in January 2025. The COD-AB requires improvements. Sourced from Dirección General de Estadísticas, Encuestas y Censos (DGEEC) Vetting by Information Technology Outreach Services (ITOS) with funding from USAID. This COD-AB is suitable for database or GIS linkage to the Paraguay [COD-PS](https://data.humdata.org/dataset/cod-ps-pry). No edge-matched (COD-EM) version of this COD-AB has yet been prepared. Please see the [COD Portal](https://cod.unocha.org/). Administrative level 1 contains 18 feature(s). The normal administrative level 1 feature type is 'department (departamento)'. Administrative level 2 contains 250 feature(s). The normal administrative level 2 feature type is 'distrtict (distrito)'. Recommended cartographic projection: South America Albers Equal Area Conic This metadata was last updated on February 03, 2025."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Dirección General de Estadísticas, Encuestas y Censos (DGEEC)"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer"
+  ],
+  "dct_spatial_sm": [
+    "Paraguay"
+  ],
+  "locn_geometry": "ENVELOPE(-62.69, -54.29, -19.34, -27.55)",
+  "dcat_bbox": "ENVELOPE(-62.69, -54.29, -19.34, -27.55)",
+  "dct_temporal_sm": [
+    "2017-2025"
+  ],
+  "gbl_indexYear_im": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "dct_format_s": "XLSX",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-pry\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/212cd82f-bcb8-445f-8b32-aa194387f6c3/resource/8998e96e-549b-4fd0-a238-926e0e2e8936/download/pry_admgz_dgeec_2020.xlsx\"}"
+}

@@ -1,0 +1,142 @@
+{
+  "archived": false,
+  "batch": "04b5e1fd-98a5-4787-9d31-41ebf9a7ee2d",
+  "caveats": "**Languages:** EN\r\n",
+  "creator_user_id": "060468e4-2f33-4488-8504-c4b10cc34821",
+  "data_update_frequency": "-2",
+  "dataset_date": "[2019-07-25T00:00:00 TO 2019-07-25T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "OCHA oPt",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "b8d45c0f-15e6-43ba-af44-e61b3001059e",
+  "is_requestdata_type": false,
+  "isopen": false,
+  "last_modified": "2019-07-25T10:24:25.758912",
+  "license_id": "hdx-other",
+  "license_other": "See this [terms of use](https://data.humdata.org/about/license/legacy_hrinfo). This does not replace any terms of use information provided with the dataset.",
+  "license_title": "Other",
+  "maintainer": "411a0278-1714-4594-9121-42ad36ae8f7d",
+  "metadata_created": "2015-11-18T08:51:34.804703",
+  "metadata_modified": "2025-02-25T20:11:48.752172",
+  "methodology": "Other",
+  "methodology_other": "Other",
+  "name": "state-of-palestine-transportation-network",
+  "notes": "Crossing points into Gaza Strip and from West Bank to Jordan.",
+  "num_resources": 1,
+  "num_tags": 6,
+  "organization": {
+    "id": "1fddc052-2031-4365-8342-49b18f0e3307",
+    "name": "ocha-opt",
+    "title": "OCHA occupied Palestinian territory (oPt)",
+    "type": "organization",
+    "description": "United Nations OCHA occupied Palestinian territory (oPt). Millions of Palestinians in the Gaza Strip and the West Bank struggle to live with dignity under Israeli occupation, facing movement restrictions, Palestinian political divisions and recurrent escalations of hostilities.",
+    "image_url": "",
+    "created": "2015-11-06T17:19:45.125805",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "1fddc052-2031-4365-8342-49b18f0e3307",
+  "package_creator": "hdx",
+  "pageviews_last_14_days": 5,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"State of Palestine\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "State of Palestine - Crossing Points",
+  "total_res_downloads": 349,
+  "type": "dataset",
+  "updated_by_script": "HDXINTERNAL:HDXPythonLibrary/6.2.0-CODs (2024-12-18T17:43:23.379735)",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "State of Palestine",
+      "id": "pse",
+      "image_display_url": "",
+      "name": "pse",
+      "title": "State of Palestine"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/b8d45c0f-15e6-43ba-af44-e61b3001059e/resource/ca0b105a-37c5-4a88-a40d-35389135b79c/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2015-11-20T22:02:23.998571",
+      "datastore_active": false,
+      "description": "Points in zipped shapefile.",
+      "download_url": "https://data.humdata.org/dataset/b8d45c0f-15e6-43ba-af44-e61b3001059e/resource/ca0b105a-37c5-4a88-a40d-35389135b79c/download/crossingpoints.zip",
+      "format": "SHP",
+      "hash": "",
+      "hdx_rel_url": "/dataset/b8d45c0f-15e6-43ba-af44-e61b3001059e/resource/ca0b105a-37c5-4a88-a40d-35389135b79c/download/crossingpoints.zip",
+      "id": "ca0b105a-37c5-4a88-a40d-35389135b79c",
+      "last_modified": "2019-07-25T10:24:25.758912",
+      "metadata_modified": "2025-02-25T20:11:48.788166",
+      "microdata": false,
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "CrossingPoints.zip",
+      "originalHash": "-1937916042",
+      "p_coded": false,
+      "package_id": "b8d45c0f-15e6-43ba-af44-e61b3001059e",
+      "position": 0,
+      "resource_type": "file.upload",
+      "resource_uploader": "ditaanggraeni",
+      "shape_info": "[{\"error_class\": \"None\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}, {\"field_name\": \"name\", \"data_type\": \"character varying\"}, {\"field_name\": \"type\", \"data_type\": \"character varying\"}, {\"field_name\": \"x\", \"data_type\": \"character varying\"}, {\"field_name\": \"y\", \"data_type\": \"character varying\"}], \"layer_id\": \"pre_ca0b105a_37c5_4a88_a40d_35389135b79c\", \"error_type\": \"None\", \"state\": \"success\", \"bounding_box\": \"BOX(34.2574373011242 31.2239838456987,34.5433167917593 31.5583045094861)\", \"message\": \"Import successful\"}, {\"error_class\": \"None\", \"layer_id\": \"None\", \"error_type\": \"None\", \"state\": \"processing\", \"timestamp\": \"2019-07-25T10:24:25.895238\", \"message\": \"The processing of the geo-preview has started\"}, {\"error_class\": \"None\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"name\", \"data_type\": \"character varying\"}, {\"field_name\": \"type\", \"data_type\": \"character varying\"}, {\"field_name\": \"x\", \"data_type\": \"character varying\"}, {\"field_name\": \"y\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"layer_id\": \"pre_ca0b105a_37c5_4a88_a40d_35389135b79c\", \"error_type\": \"None\", \"bounding_box\": \"BOX(34.2574373011241 31.2239838456993,35.540854328915 32.1017085063462)\", \"state\": \"success\", \"timestamp\": \"2019-07-25T10:24:27.505334\", \"message\": \"Import successful\"}]",
+      "size": 5895,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/b8d45c0f-15e6-43ba-af44-e61b3001059e/resource/ca0b105a-37c5-4a88-a40d-35389135b79c/download/crossingpoints.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "border crossings",
+      "id": "0c3a387b-3a97-4b7a-976e-31752145ba21",
+      "name": "border crossings",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "crisis-opt-israel-hostilities",
+      "id": "8a72a066-63ef-47c8-b6bb-176f247e591d",
+      "name": "crisis-opt-israel-hostilities",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "facilities-infrastructure",
+      "id": "e45272d8-6b73-4b8d-bb08-e880f8900df5",
+      "name": "facilities-infrastructure",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "humanitarian access",
+      "id": "be991471-7303-4923-9c75-69e866fab7ae",
+      "name": "humanitarian access",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "transportation",
+      "id": "ee1a5568-91f1-4274-b10a-846a81335975",
+      "name": "transportation",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

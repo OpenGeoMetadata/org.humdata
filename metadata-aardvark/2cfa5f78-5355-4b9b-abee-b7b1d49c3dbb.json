@@ -1,0 +1,39 @@
+{
+  "id": "hdx-2cfa5f78-5355-4b9b-abee-b7b1d49c3dbb",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-21T15:06:23Z",
+  "dct_title_s": "Satellite detected water extent, as of 05 May 2019 over Golestan Province, Iran",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20190321IRN** This map illustrates satellite-detected surface water in western part of Golestan province, Iran as observed from Sentinel-1A imagery acquired on 10 May 2019. Within the analysed area of about 3,000 sq km, a total 76 sq km of lands appear to be flooded as of 10 May 2019. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR - UNOSAT. Important Note: Flood analysis from Sentinel-1A imagery acquired on 10 May 2019 may seriously underestimate presence of standing flood water in built up areas due to backscattering of the radar signal"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Iran (Islamic Republic of)"
+  ],
+  "locn_geometry": "ENVELOPE(44.11, 63.32, 39.71, 25.08)",
+  "dcat_bbox": "ENVELOPE(44.11, 63.32, 39.71, 25.08)",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "gbl_indexYear_im": [
+    2019
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-water-extent-as-of-05-may-2019-over-golestan-province-iran\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/unosat-maps/IR/FL20190321IRN/FL20190321IRN_gdb.zip\"}"
+}

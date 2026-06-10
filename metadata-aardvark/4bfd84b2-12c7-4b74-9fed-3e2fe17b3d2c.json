@@ -1,0 +1,41 @@
+{
+  "id": "hdx-4bfd84b2-12c7-4b74-9fed-3e2fe17b3d2c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T17:47:50Z",
+  "dct_title_s": "Three levels of administrative boundaries in the Northern Nigeria (State, LGAs and Wards)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "A vector based map showing three administrative levels in the Northern Nigeria"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "eHealth Africa "
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Nigeria"
+  ],
+  "locn_geometry": "ENVELOPE(2.69, 14.58, 13.87, 4.24)",
+  "dcat_bbox": "ENVELOPE(2.69, 14.58, 13.87, 4.24)",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "gbl_indexYear_im": [
+    2016
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/three-levels-of-administrative-boundaries-in-the-northern-nigeria-state-lgas-and-wards\",\"http://schema.org/downloadUrl\":\"http://gis-a.ie.ehealthafrica.org:8080/geoserver/nigeria_project/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=nigeria_project:boundary_vaccstates&outputFormat=application%2Fjson\"}"
+}

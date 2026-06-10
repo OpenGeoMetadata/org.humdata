@@ -1,0 +1,51 @@
+{
+  "id": "hdx-708dccdf-c303-447e-8aa0-43ab343fc45c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T18:51:57Z",
+  "dct_title_s": "Food Insecurity Mapping - Southern Africa (July - September 2013)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This Archive contains shapefiles for FEWS NET Food Security Outlook for **Southern Africa**. It was last updated on July 14, 2013. The classification used is [IPC V2.0 Compatible](http://www.fews.net/nosso-trabalho/nosso-trabalho/classifica%C3%A7%C3%A3o-integrada-de-fases), aimed to address acute food insecurity. The two shapefiles represent the two analytic periods: * southernafrica201307_ML1 Most likely food security outcome for July-September 2013 * southernafrica201307_ML2 Most likely food security outcome for October-December 2013 Within the shapefiles, the food security outlook is contained in a field named as ML1 or ML2 according to the outlook period. The code itself is the IPC phase. Two additional codes are used: * 66 = water * 88 = parks, forests, reserves * 99 = missing data (usually urban centers)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "FEWS NET"
+  ],
+  "dcat_keyword_sm": [
+    "agriculture-livestock",
+    "climate-weather",
+    "complex emergency-conflict-security",
+    "food security"
+  ],
+  "dct_subject_sm": [
+    "agriculture-livestock",
+    "climate-weather",
+    "complex emergency-conflict-security",
+    "food security"
+  ],
+  "dct_spatial_sm": [
+    "Angola",
+    "Lesotho",
+    "Madagascar",
+    "Malawi",
+    "Mozambique",
+    "Zambia",
+    "Zimbabwe"
+  ],
+  "locn_geometry": "ENVELOPE(11.64, 50.48, -4.44, -30.65)",
+  "dcat_bbox": "ENVELOPE(11.64, 50.48, -4.44, -30.65)",
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "gbl_indexYear_im": [
+    2013
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/food-insecurity-mapping-southern-africa-africa-july-september-2013\",\"http://schema.org/downloadUrl\":\"http://shapefiles.fews.net/southern-africa201307.zip\"}"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "hdx-91a37f38-19a6-4ab5-a4c2-e8e3571fff81",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2024-06-05T18:51:38Z",
+  "dct_title_s": "Philippines - Typhoon Mangkhut - Priority Index (Estimated damage per municipality)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "## Update 15/09 (POST-EVENT) Now that the typhoon has passed the country, the model is not run with forecasted wind speeds and typhoon track any more, but with actual estimated wind speeds and typhoon track. They come from the same source (Tropical Storm Risk - UCL), and are of the exact same format. All output (map in PDF, data in Excel and in Shapefile) is of the exact same format and interpretation. ## Full methodology ### 1. Based on existing Priority Index model: 510 has previously developed the Priority Index model for typhoons in the Philippines * One day after a typhoon has passed the Philippines .. * .. the model predicts ‘% of completely damaged houses’ per municipality * Based on 12 large typhoons in the last 5 years in the Philippines, for which detailed damage reports were available through NDRRMC (https://www.ndrrmc.gov.ph/) * For these same events, we also collected possible explanatory indicators, such as wind speed (event-specific) and building materials of houses (PH national census). * We built a statistical model, which could explain differences in damage on the basis of differences in wind speed and building materials (etc.) * When dividing all municipalities in 5 equal damage classes (class 1 being the 20% municipalities with lowest damage; class 5 the 20% with highest damage) .. * .. we found that in 73% of the cases we are at most 1 class off. ### 2. Mangkhut methodology: In the case of typhoon Mangkhut, we are dealing with an upcoming typhoon, which is still awaiting landfall on Saturday 15/09. This is a new situation, which requires the following noteworthy changes in methodology. * Our wind speed source (UCL Tropical Storm Risk) has – in addition to post-event wind speed data as used above – also forecast wind speed data for 5 days ahead. * This forecasted wind speed (and typhoon track) are plugged as input into the above-mentioned prediction model, which - still in combination with building materials - lead to the predicted damage class per municipality that can be seen in the map. * Note that the results are strongly dependent on the input of windspeed, which is itself still an unknown. (see accuracy below). ### 3. How to use this product: * The map contains damage classes (1-5) per municipality. As such, we advise to put priority on municipalities in damage class 5, and depending on available resources continue with class 4, etc. * This damage class is based on ‘% of houses that are completely damaged’. As priority might also be based on exposure and vulnerability, we have added to the Excel a couple of relevant indicators, from the [Community Risk Assessment dashboard](https://dashboard.510.global/#!/community_risk). * PRC can decide if and how to combine these various features. If needed, 510 can be asked for assistance of course. ### 4. Important notes: * ACCURACY: it should be realized that during the course of the coming 3 days, the typhoon might change course, or increase/decrease in terms of strength. This will affect the quality of these predictions. The accuracy figure of 73% that is mentioned in the post-event case should be seen as an upper bound. Given the added inaccuracy of wind speed, the overall accuracy will be lower. * This damage prediction is only about completely damaged houses, not about partially damaged houses. * We only included municipalities that are within 100km of the forecasted typhoon track, as we have seen from previous typhoons (with comparable wind speeds) that damage figures outside of this area are low. ### 5. Sources * The wind speed is provided by Tropical Storm Risk (University College London). It is the ‘maximum 1-minute sustained wind speed’. An average of this is calculated per municipality. (Latest forecast date: 2018-09-14 00:00 UT >> 7:00AM Manila time) * Typhoon track (from which ‘distance to typhoon track’ per municipality is calculated), is provided by UCL as well. (Latest forecast date: 2018-09-14 00:00 UT >> 7:00AM Manila time) * Additionally, various wall and roof type categories from the Philippines national census. The model uses 2010 census data, as it was developed using this data (2015 census data on municipality level only became available in 2018). The 2015 census data could not be easily plugged in, because of some differences in roof/wall categories. We believe that this would not change the result much though, as even if there are large differences from 2010 to 2015, these would still be dominated by wind speed effects in the model. * All additional indicators, that are added to the Excel table (population, poverty) are derived from the Community Risk Assessment dashboard (Go to [this link](https://dashboard.510.global/#!/community_risk?country=PHL&admlevel=3&metric=risk_score&parent_code=PH023100000,PH021500000,PH143200000,PH140100000,PH148100000,PH012800000&view=map) and click ‘Export to CSV’ on top-right.) The sources for these indicators can be found in the dashboard itself."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Netherlands Red Cross - 510.global"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata",
+    "logistics"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata",
+    "logistics"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "locn_geometry": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dcat_bbox": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "gbl_indexYear_im": [
+    2018
+  ],
+  "dct_format_s": "XLSX",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/philippines-typhoon-mangkhut-priority-index-forecasted-damage\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/91a37f38-19a6-4ab5-a4c2-e8e3571fff81/resource/f45f111a-52a0-408e-8e87-dc92e7fb9c47/download/post-event_510_mangkhut_damage_estimation_data.xlsx\"}"
+}

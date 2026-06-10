@@ -1,0 +1,45 @@
+{
+  "id": "hdx-3608100a-5119-47e9-8459-07a8d8490192",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T17:28:16Z",
+  "dct_title_s": "Gridded Population Estimates for Ukraine using UN COD-PS Estimates 2020 (version 1.0)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "These data were produced by the [ WorldPop Research Group](https://www.worldpop.org/) at the University of Southampton. These data include gridded estimates of population at approximately 100m and 1km resolution for 2020, along with estimates of the number of people belonging to individual age-gender groups. These results were produced using Subnational Population Statistics 2020 for Ukraine provided in the [Common Operational Dataset](https://data.humdata.org/dataset/cod-ps-ukr) on Population Statistics (COD-PS) and [ORNL LandScan HD](https://landscan.ornl.gov/ukraine-landscan-hd-data) for Ukraine 2022 settlement layer. The datasets are produced using the \"[top-down](https://www.worldpop.org/methods/populations)\" method, with both the unconstrained and constrained top-down disaggregation methods used to produce two different datasets. The differences between constrained and un-constrained methods are described [here](https://www.worldpop.org/methods/top_down_constrained_vs_unconstrained) . **Main data sources** - Subnational Population Statistics for Ukraine provided by Common Operational Dataset on Population Statistics (COD-PS). The subnational population statistics were estimated using baseline information from the 2001 Population Census of Ukraine and annual birth and death registration data since the last census. - Settlement layer ORNL LandScan HD for Ukraine. - Subnational Administrative Boundaries for Ukraine provided by OCHA. - Geospatial covariate layers available at WorldPop. For further details, please, read the [Release Statement](https://data.worldpop.org/repo/wopr/UKR/v1/UKR_population_v1_0_README.pdf). **Release content** 1. ukr_pop_2020_100m_unconstrained_v1_0.zip 2. ukr_pop_2020_100m_constrained_v1_0.zip 3. ukr_pop_2020_1km_unconstrained_v1_0.zip 4. ukr_pop_2020_1km_constrained_v1_0.zip 5. ukr_agegender_2020_100m_unconstrained_v1_0.zip 6. ukr_agegender_2020_100m_constrained_v1_0.zip 7. ukr_agegender_2020_1km_unconstrained_v1_0.zip 8. ukr_agegender_2020_1km_constrained_v1_0.zip 9. ukr_agegender_0_18_2020_1km_unconstrained_v1_0.zip 10. ukr_agegender_0_18_2020_1km_constrained_v1_0.zip **Recommended citations** Bondarenko M., Sorichetta A., Leasure DR. and Tatem AJ. 2022 *Gridded population estimates for Ukraine using UN COD-PS estimates 2020, version 1.0*. WorldPop, University of Southampton. doi:10.5258/SOTON/WP00734 **License** *These data may be distributed using a Creative Commons Attribution 4.0 International (CC BY 4.0) License, specified in legal code. Contact release[at]worldpop.org for more information*. The authors followed rigorous procedures designed to ensure that the used data, the applied method and thus the results are appropriate and of reasonable quality. If users encounter apparent errors or misstatements, they should contact WorldPop at release[at]worldpop.org. [WorldPop](https://www.worldpop.org/), University of Southampton, and their sponsors offer these data on a \"where is, as is\" basis; do not offer an express or implied warranty of any kind; do not guarantee the quality, applicability, accuracy, reliability or completeness of any data provided; and shall not be liable for incidental, consequential, or special damages arising out of the use of any data that they offer."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WorldPop"
+  ],
+  "dcat_keyword_sm": [
+    "baseline population",
+    "children",
+    "demographics",
+    "gender and age disaggregated data-gadd"
+  ],
+  "dct_subject_sm": [
+    "baseline population",
+    "children",
+    "demographics",
+    "gender and age disaggregated data-gadd"
+  ],
+  "dct_spatial_sm": [
+    "Ukraine"
+  ],
+  "locn_geometry": "ENVELOPE(22.09, 40.08, 52.34, 44.36)",
+  "dcat_bbox": "ENVELOPE(22.09, 40.08, 52.34, 44.36)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/gridded-population-estimates-for-ukraine-using-un-cod-ps-estimates-2020-version-1-0\",\"http://schema.org/downloadUrl\":\"https://data.worldpop.org/repo/wopr/UKR/v1/constrained/100m/ukr_population_2020_100m_constrained_v1_0.zip\"}"
+}

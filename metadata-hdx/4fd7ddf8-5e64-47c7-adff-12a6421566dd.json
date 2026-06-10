@@ -17,7 +17,7 @@
   "license_title": "odc-odbl",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2024-11-19T10:19:39.289215",
-  "metadata_modified": "2026-03-02T17:06:15.699662",
+  "metadata_modified": "2026-06-06T09:32:02.177921",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
   "name": "bangladesh-road-surface-data",
@@ -38,7 +38,7 @@
   },
   "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
   "package_creator": "sukanya-randhawa-6497",
-  "pageviews_last_14_days": 2,
+  "pageviews_last_14_days": 3,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Bangladesh\"]}",
@@ -62,6 +62,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:19:39.292706",
@@ -73,7 +74,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_bgd_roadsurface_lines.geojson",
       "id": "2e2c14e4-cf4a-4774-951a-8925c50202e0",
       "last_modified": "2024-11-19T10:19:39.271540",
-      "metadata_modified": "2026-03-02T17:06:15.770557",
+      "metadata_modified": "2026-06-06T09:32:02.662099",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -88,6 +89,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:19:39.292709",
@@ -99,7 +101,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_bgd_roadsurface_lines.gpkg",
       "id": "cf693086-b727-49d3-99ed-d0bc6289770a",
       "last_modified": "2024-11-19T10:19:39.271689",
-      "metadata_modified": "2026-03-02T17:01:41.921100",
+      "metadata_modified": "2026-06-06T09:32:02.672755",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

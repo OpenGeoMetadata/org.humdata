@@ -1,0 +1,39 @@
+{
+  "id": "hdx-0fd186e9-5e47-4c74-8510-4518506db51e",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-01-14T22:54:00Z",
+  "dct_title_s": "LA Fires - Eaton fire January 2025: Building Damage Assessment",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "We ran our damage assessment AI models on images provided by Maxar and Planet and have mapped out the affected buildings. The images cover Eaton fire. Analysis was done on: 1) Maxar imagery captured 01/10 2) Planet imagery captured 1/11 Latest results show the following. 156,102 buildings in study area 8,682 estimated damaged"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Microsoft - AI4G Lab"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment"
+  ],
+  "dct_subject_sm": [
+    "damage assessment"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "locn_geometry": "ENVELOPE(-125.0, -66.96, 49.5, 25.0)",
+  "dcat_bbox": "ENVELOPE(-125.0, -66.96, 49.5, 25.0)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eaton-fire-altadena-damage-assessment-from-1-10\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/0fd186e9-5e47-4c74-8510-4518506db51e/resource/8b69f288-8554-4e79-ba01-076f8dd1189b/download/eaton_planet_1_11_25_damage_predictions.gpkg\"}"
+}

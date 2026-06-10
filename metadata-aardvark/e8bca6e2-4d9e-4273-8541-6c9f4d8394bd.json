@@ -1,0 +1,41 @@
+{
+  "id": "hdx-e8bca6e2-4d9e-4273-8541-6c9f4d8394bd",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-21T16:33:20Z",
+  "dct_title_s": "Satellite detected water extents, as of 18 January 2020 over Chabahar and Konarak County, Sistan Va Baluchestan Province",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20200117IRN** This map illustrates satellite-detected water surface in Chabahar and Konarak County, Sistan Va Baluchestan Province, Islamic Republic of Iran as observed from Sentinel-2 imagery acquired on 18 January 2020. Within the analysed extent of about 730 km2, a total about 63 km2 of land appear to be flooded. Based on Worldpop population data and the detected surface waters, about 5,900 people are potentially exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR - UNOSAT."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Iran (Islamic Republic of)"
+  ],
+  "locn_geometry": "ENVELOPE(44.11, 63.32, 39.71, 25.08)",
+  "dcat_bbox": "ENVELOPE(44.11, 63.32, 39.71, 25.08)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extents-as-of-18-january-2020-over-chabahar-and-konarak-county-sistan-va-baluchestan\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/unosat-maps/IR/FL20200117IRN/FL20200117IRN_gdb.zip\"}"
+}

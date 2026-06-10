@@ -1,0 +1,41 @@
+{
+  "id": "hdx-be15468e-22a1-42df-bc90-68e9b7b7947f",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T20:52:36Z",
+  "dct_title_s": "Satellite detected water extent between 25 and 29 May 2022 over Guyana",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20220526GUY** This map illustrates cumulative satellite-detected water using VIIRS in Guyana between 25 to 29 May 2022 compared with the period from 20 to 24 May 2022. Within the cloud free analyzed areas of about 205,000 km2, a total of about 3,900 km2 of lands appear to be affected with flood waters. Water extent appears to have increased of about 1,200 km2 since the period between 20 to 24 may 2022. Based on Worldpop population data and the maximal flood water coverage, ~22,000 people are potentially exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to the United Nations Satellite Centre (UNOSAT)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Guyana"
+  ],
+  "locn_geometry": "ENVELOPE(-61.41, -56.54, 8.37, 1.27)",
+  "dcat_bbox": "ENVELOPE(-61.41, -56.54, 8.37, 1.27)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-water-extent-between-25-and-29-may-2022-over-guyana\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/GY/FL20220526GUY/FL20220526GUY_gdb.zip\"}"
+}

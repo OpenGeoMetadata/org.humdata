@@ -1,0 +1,207 @@
+{
+  "archived": true,
+  "batch": "1ae51f82-3ef8-4d29-bbbc-94425d33cb56",
+  "caveats": "\t\r\nThis is a preliminary analysis and has not yet been validated in the field.",
+  "creator_user_id": "23b4c749-bd1b-499c-a8f1-8d76240a534d",
+  "data_update_frequency": "-1",
+  "dataset_date": "[2017-09-07T00:00:00 TO 2017-09-07T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "UNOSAT/UNITAR",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "f5a928ff-c23b-4c44-9a48-94d7197b48ba",
+  "is_requestdata_type": false,
+  "isopen": true,
+  "last_modified": "2017-09-09T12:01:09.440720",
+  "license_id": "cc-by",
+  "license_title": "Creative Commons Attribution International (CC BY)",
+  "license_url": "http://www.opendefinition.org/licenses/cc-by",
+  "maintainer": "23b4c749-bd1b-499c-a8f1-8d76240a534d",
+  "metadata_created": "2017-09-09T12:00:04.533800",
+  "metadata_modified": "2023-10-16T22:02:48.128693",
+  "methodology": "Sample Survey",
+  "name": "population-exposure-estimates-based-on-tropical-cyclone-irma-s-path",
+  "notes": "Population exposure estimates based on tropical cyclone IRMA-17 path observed and predicted at 7 September 2017.",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "id": "ba5aacba-0633-4364-9528-bc76a3f6cf95",
+    "name": "unosat",
+    "title": "United Nations Satellite Centre (UNOSAT)",
+    "type": "organization",
+    "description": "The United Nations Satellite Centre (UNOSAT) it is part of the United Nations Institute for Training and Research (UNITAR), with a mandate to provide United Nations funds, programmes and specialized agencies with satellite analysis, training and capacity development, at their request, as well as to support Member States with satellite imagery analysis over their respective territories and to provide training and capacity development in the use of geospatial information technologies.",
+    "image_url": "",
+    "created": "2015-01-09T15:34:40.199033",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "ba5aacba-0633-4364-9528-bc76a3f6cf95",
+  "package_creator": "javier",
+  "pageviews_last_14_days": 0,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Anguilla\", \"Antigua and Barbuda\", \"Bahamas\", \"Bonaire, Sint Eustatius and Saba\", \"Cayman Islands\", \"Cuba\", \"Dominican Republic\", \"Haiti\", \"Puerto Rico\", \"Saint Kitts and Nevis\", \"Saint Lucia\", \"Turks and Caicos Islands\", \"United States\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Tropical Cyclone IRMA-17 : Population Exposure estimates",
+  "total_res_downloads": 59,
+  "type": "dataset",
+  "updated_by_script": "HDXINTERNAL:HDXPythonLibrary/6.1.3-ArchiveOldDatasets (2023-10-16T22:02:47.965746)",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Anguilla",
+      "id": "aia",
+      "image_display_url": "",
+      "name": "aia",
+      "title": "Anguilla"
+    },
+    {
+      "description": "",
+      "display_name": "Antigua and Barbuda",
+      "id": "atg",
+      "image_display_url": "",
+      "name": "atg",
+      "title": "Antigua and Barbuda"
+    },
+    {
+      "description": "",
+      "display_name": "Bahamas",
+      "id": "bhs",
+      "image_display_url": "",
+      "name": "bhs",
+      "title": "Bahamas"
+    },
+    {
+      "description": "",
+      "display_name": "Bonaire, Sint Eustatius and Saba",
+      "id": "8884fec3-c0cf-43fd-ac1a-18116e250f55",
+      "image_display_url": "",
+      "name": "bes",
+      "title": "Bonaire, Sint Eustatius and Saba"
+    },
+    {
+      "description": "",
+      "display_name": "Cayman Islands",
+      "id": "cym",
+      "image_display_url": "",
+      "name": "cym",
+      "title": "Cayman Islands"
+    },
+    {
+      "description": "",
+      "display_name": "Cuba",
+      "id": "cub",
+      "image_display_url": "",
+      "name": "cub",
+      "title": "Cuba"
+    },
+    {
+      "description": "",
+      "display_name": "Dominican Republic",
+      "id": "dom",
+      "image_display_url": "",
+      "name": "dom",
+      "title": "Dominican Republic"
+    },
+    {
+      "description": "",
+      "display_name": "Haiti",
+      "id": "hti",
+      "image_display_url": "",
+      "name": "hti",
+      "title": "Haiti"
+    },
+    {
+      "description": "",
+      "display_name": "Puerto Rico",
+      "id": "pri",
+      "image_display_url": "",
+      "name": "pri",
+      "title": "Puerto Rico"
+    },
+    {
+      "description": "",
+      "display_name": "Saint Kitts and Nevis",
+      "id": "kna",
+      "image_display_url": "",
+      "name": "kna",
+      "title": "Saint Kitts and Nevis"
+    },
+    {
+      "description": "",
+      "display_name": "Saint Lucia",
+      "id": "lca",
+      "image_display_url": "",
+      "name": "lca",
+      "title": "Saint Lucia"
+    },
+    {
+      "description": "",
+      "display_name": "Turks and Caicos Islands",
+      "id": "tca",
+      "image_display_url": "",
+      "name": "tca",
+      "title": "Turks and Caicos Islands"
+    },
+    {
+      "description": "",
+      "display_name": "United States",
+      "id": "usa",
+      "image_display_url": "",
+      "name": "usa",
+      "title": "United States"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/f5a928ff-c23b-4c44-9a48-94d7197b48ba/resource/4dd75d03-5928-4061-91d0-d6481178d5c5/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-09T12:01:11.945406",
+      "datastore_active": false,
+      "description": "Population exposure estimates based on tropical cyclone IRMA-17 path observed and predicted at 7 September 2017. The tropical cyclone path and wind speed zones were derived from Joint Research Centre data (Warning 33 issued the 07 th September 2017 at 09:00 UTC). This is a preliminary analysis and has not yet been validated in the field.",
+      "download_url": "https://data.humdata.org/dataset/f5a928ff-c23b-4c44-9a48-94d7197b48ba/resource/4dd75d03-5928-4061-91d0-d6481178d5c5/download/admin_pop.zip",
+      "format": "SHP",
+      "hash": "",
+      "hdx_rel_url": "/dataset/f5a928ff-c23b-4c44-9a48-94d7197b48ba/resource/4dd75d03-5928-4061-91d0-d6481178d5c5/download/admin_pop.zip",
+      "id": "4dd75d03-5928-4061-91d0-d6481178d5c5",
+      "last_modified": "2017-09-09T12:01:09.440720",
+      "metadata_modified": "2023-03-02T22:37:56.143422",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Admin_Pop.zip",
+      "originalHash": "97196323",
+      "package_id": "f5a928ff-c23b-4c44-9a48-94d7197b48ba",
+      "position": 0,
+      "resource_type": "file.upload",
+      "shape_info": "[{\"error_class\": \"None\", \"layer_id\": \"None\", \"error_type\": \"None\", \"state\": \"processing\", \"timestamp\": \"2017-09-09T12:01:10.391756\", \"message\": \"The processing of the geo-preview has started\"}, {\"error_class\": \"None\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"id_0\", \"data_type\": \"numeric\"}, {\"field_name\": \"iso\", \"data_type\": \"character varying\"}, {\"field_name\": \"name_engli\", \"data_type\": \"character varying\"}, {\"field_name\": \"name_iso\", \"data_type\": \"character varying\"}, {\"field_name\": \"name_fao\", \"data_type\": \"character varying\"}, {\"field_name\": \"name_local\", \"data_type\": \"character varying\"}, {\"field_name\": \"name_obsol\", \"data_type\": \"character varying\"}, {\"field_name\": \"name_varia\", \"data_type\": \"character varying\"}, {\"field_name\": \"name_nonla\", \"data_type\": \"character varying\"}, {\"field_name\": \"name_frenc\", \"data_type\": \"character varying\"}, {\"field_name\": \"name_spani\", \"data_type\": \"character varying\"}, {\"field_name\": \"name_russi\", \"data_type\": \"character varying\"}, {\"field_name\": \"name_arabi\", \"data_type\": \"character varying\"}, {\"field_name\": \"name_chine\", \"data_type\": \"character varying\"}, {\"field_name\": \"waspartof\", \"data_type\": \"character varying\"}, {\"field_name\": \"contains\", \"data_type\": \"character varying\"}, {\"field_name\": \"sovereign\", \"data_type\": \"character varying\"}, {\"field_name\": \"iso2\", \"data_type\": \"character varying\"}, {\"field_name\": \"www\", \"data_type\": \"character varying\"}, {\"field_name\": \"fips\", \"data_type\": \"character varying\"}, {\"field_name\": \"ison\", \"data_type\": \"character varying\"}, {\"field_name\": \"validfr\", \"data_type\": \"character varying\"}, {\"field_name\": \"validto\", \"data_type\": \"character varying\"}, {\"field_name\": \"pop2000\", \"data_type\": \"character varying\"}, {\"field_name\": \"sqkm\", \"data_type\": \"character varying\"}, {\"field_name\": \"popsqkm\", \"data_type\": \"character varying\"}, {\"field_name\": \"unregion1\", \"data_type\": \"character varying\"}, {\"field_name\": \"unregion2\", \"data_type\": \"character varying\"}, {\"field_name\": \"developing\", \"data_type\": \"character varying\"}, {\"field_name\": \"cis\", \"data_type\": \"character varying\"}, {\"field_name\": \"transition\", \"data_type\": \"character varying\"}, {\"field_name\": \"oecd\", \"data_type\": \"character varying\"}, {\"field_name\": \"wbregion\", \"data_type\": \"character varying\"}, {\"field_name\": \"wbincome\", \"data_type\": \"character varying\"}, {\"field_name\": \"wbdebt\", \"data_type\": \"character varying\"}, {\"field_name\": \"wbother\", \"data_type\": \"character varying\"}, {\"field_name\": \"ceeac\", \"data_type\": \"character varying\"}, {\"field_name\": \"cemac\", \"data_type\": \"character varying\"}, {\"field_name\": \"ceplg\", \"data_type\": \"character varying\"}, {\"field_name\": \"comesa\", \"data_type\": \"character varying\"}, {\"field_name\": \"eac\", \"data_type\": \"character varying\"}, {\"field_name\": \"ecowas\", \"data_type\": \"character varying\"}, {\"field_name\": \"igad\", \"data_type\": \"character varying\"}, {\"field_name\": \"ioc\", \"data_type\": \"character varying\"}, {\"field_name\": \"mru\", \"data_type\": \"character varying\"}, {\"field_name\": \"sacu\", \"data_type\": \"character varying\"}, {\"field_name\": \"uemoa\", \"data_type\": \"character varying\"}, {\"field_name\": \"uma\", \"data_type\": \"character varying\"}, {\"field_name\": \"palop\", \"data_type\": \"character varying\"}, {\"field_name\": \"parta\", \"data_type\": \"character varying\"}, {\"field_name\": \"cacm\", \"data_type\": \"character varying\"}, {\"field_name\": \"eurasec\", \"data_type\": \"character varying\"}, {\"field_name\": \"agadir\", \"data_type\": \"character varying\"}, {\"field_name\": \"saarc\", \"data_type\": \"character varying\"}, {\"field_name\": \"asean\", \"data_type\": \"character varying\"}, {\"field_name\": \"nafta\", \"data_type\": \"character varying\"}, {\"field_name\": \"gcc\", \"data_type\": \"character varying\"}, {\"field_name\": \"csn\", \"data_type\": \"character varying\"}, {\"field_name\": \"caricom\", \"data_type\": \"character varying\"}, {\"field_name\": \"eu\", \"data_type\": \"character varying\"}, {\"field_name\": \"can\", \"data_type\": \"character varying\"}, {\"field_name\": \"acp\", \"data_type\": \"character varying\"}, {\"field_name\": \"landlocked\", \"data_type\": \"character varying\"}, {\"field_name\": \"aosis\", \"data_type\": \"character varying\"}, {\"field_name\": \"sids\", \"data_type\": \"character varying\"}, {\"field_name\": \"islands\", \"data_type\": \"character varying\"}, {\"field_name\": \"ldc\", \"data_type\": \"character varying\"}, {\"field_name\": \"pop_60\", \"data_type\": \"numeric\"}, {\"field_name\": \"pop_90\", \"data_type\": \"numeric\"}, {\"field_name\": \"pop_120\", \"data_type\": \"numeric\"}, {\"field_name\": \"total_pop\", \"data_type\": \"numeric\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"layer_id\": \"pre_4dd75d03_5928_4061_91d0_d6481178d5c5\", \"error_type\": \"None\", \"bounding_box\": \"BOX(-63.4295845031738 18.1543064117432,-62.9240264892577 18.5954170227051)\", \"state\": \"success\", \"timestamp\": \"2017-09-09T12:01:54.600136\", \"message\": \"Import successful\"}]",
+      "size": 3209964,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/f5a928ff-c23b-4c44-9a48-94d7197b48ba/resource/4dd75d03-5928-4061-91d0-d6481178d5c5/download/admin_pop.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "cyclones-hurricanes-typhoons",
+      "id": "326e097b-96f2-46e4-8ef4-0a8d4401a646",
+      "name": "cyclones-hurricanes-typhoons",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

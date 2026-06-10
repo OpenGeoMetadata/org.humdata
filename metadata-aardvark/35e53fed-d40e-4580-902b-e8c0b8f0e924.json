@@ -1,0 +1,39 @@
+{
+  "id": "hdx-35e53fed-d40e-4580-902b-e8c0b8f0e924",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T17:27:43Z",
+  "dct_title_s": "Goma , Republic of the Congo Financial Services (OpenStreetMap Export)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "OpenStreetMap exports for use in GIS applications. This theme includes all OpenStreetMap features in this area matching ( Learn what tags means [here](https://wiki.openstreetmap.org/wiki/Tags) ) : tags['amenity'] IN ('mobile_money_agent','bureau_de_change','bank','microfinance','atm','sacco','money_transfer','post_office') Features may have these attributes: - [name](http://wiki.openstreetmap.org/wiki/Key:name) - [name:en](http://wiki.openstreetmap.org/wiki/Key:name:en) - [amenity](http://wiki.openstreetmap.org/wiki/Key:amenity) - [operator](http://wiki.openstreetmap.org/wiki/Key:operator) - [network](http://wiki.openstreetmap.org/wiki/Key:network) - [addr:full](http://wiki.openstreetmap.org/wiki/Key:addr:full) - [addr:city](http://wiki.openstreetmap.org/wiki/Key:addr:city) - [source](http://wiki.openstreetmap.org/wiki/Key:source) This dataset is one of many [OpenStreetMap exports on HDX](https://data.humdata.org/organization/hot). See the [Humanitarian OpenStreetMap Team](http://hotosm.org/) website for more information."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "economics",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "economics",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Congo"
+  ],
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_gmdrc_financial_services\",\"http://schema.org/downloadUrl\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/hotosm_gmdrc/financial_services/points/hotosm_gmdrc_financial_services_points_geojson.zip\"}"
+}

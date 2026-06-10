@@ -1,0 +1,74 @@
+{
+  "id": "hdx-1efb6ee7-051a-440f-a2cf-e652fecccf73",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-09-24T14:24:43Z",
+  "dct_title_s": "WorldRiskIndex",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "The WorldRiskIndex is a statistical model that provides an assessment of the latent risk of 193 countries falling victim to a humanitarian disaster caused by extreme natural events and the negative impacts of climate change. Based on peer-reviewed concepts of risk, hazard and vulnerability, it is assumed that disaster risks are not solely shaped by the occurrence, intensity, and duration of extreme natural events, but that social factors, political conditions, and economic structures are equally responsible for whether disasters occur in the context of extreme natural events. Accordingly, both main spheres of disaster risk, exposure and vulnerability, are treated as equals. The WorldRiskIndex was initially developed in 2011 by the United Nations University Institute for Environment and Human Security (UNU-EHS) for [Bündnis Entwicklung Hilft]( https://weltrisikobericht.de/en/) as a model with 27 indicators to analytically link and relate the two spheres of disaster risks – exposure to natural hazards such as earthquakes, storms or droughts, and societal capacities to respond to these kinds of events. The methodology of the WorldRiskIndex has been continuously revised and developed by the [Institute for International Law of Peace and Armed Conflict (IFHV)]( https://www.ifhv.de/) since 2018. In 2022, a new, fully revised model of the WorldRiskIndex was published, enabling more accurate analyses by incorporating more than 100 high-quality indicators, new data sources, and more robust statistical methods, thus finally replacing the previously used model."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Institute for International Law of Peace and Armed Conflict"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "development",
+    "hazards and risk",
+    "indicators",
+    "natural disasters",
+    "population"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "development",
+    "hazards and risk",
+    "indicators",
+    "natural disasters",
+    "population"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2000-2025"
+  ],
+  "gbl_indexYear_im": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "dct_format_s": "CSV",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/worldriskindex\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/1efb6ee7-051a-440f-a2cf-e652fecccf73/resource/6aca2f09-ab01-4ff7-a17d-8cac9686cbba/download/worldriskindex-meta.xlsx\"}"
+}

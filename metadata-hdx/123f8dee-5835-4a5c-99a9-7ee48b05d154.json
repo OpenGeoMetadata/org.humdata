@@ -17,7 +17,7 @@
   "license_title": "odc-odbl",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2024-11-19T10:19:21.631898",
-  "metadata_modified": "2026-03-02T17:05:09.712398",
+  "metadata_modified": "2026-06-06T09:10:30.232845",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
   "name": "sweden-road-surface-data",
@@ -38,7 +38,7 @@
   },
   "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
   "package_creator": "sukanya-randhawa-6497",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 1,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Sweden\"]}",
@@ -62,6 +62,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:19:21.641827",
@@ -73,7 +74,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_swe_roadsurface_lines.geojson",
       "id": "02402883-3aa1-4f4e-9e35-d264d62089af",
       "last_modified": "2024-11-19T10:19:21.531778",
-      "metadata_modified": "2026-03-02T17:05:09.766597",
+      "metadata_modified": "2026-06-06T09:10:30.268846",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -88,6 +89,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:19:21.641831",
@@ -99,7 +101,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_swe_roadsurface_lines.gpkg",
       "id": "65cbbb01-ce8d-4219-83fa-044e81389850",
       "last_modified": "2024-11-19T10:19:21.531974",
-      "metadata_modified": "2025-08-26T11:36:37.278097",
+      "metadata_modified": "2026-06-06T09:10:30.268958",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

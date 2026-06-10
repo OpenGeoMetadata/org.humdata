@@ -1,0 +1,39 @@
+{
+  "id": "hdx-3c378194-de05-4069-bec0-e6aa5106d11b",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2024-06-05T17:52:21Z",
+  "dct_title_s": "Floods - Southern Malawi - March 2019",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "For the floods in Southern Malawi of March 2019, we have combined flood extent maps (Sentinel) with HRSL settlement/population grid. This results in a calculation of # of affected buildings/people per district. The results is shared through maps and in a shapefile. ### 1. Data sources ## Sentinel 1 Imagery from 7th of March 2017 ## Sentinel 2 Imagery from 10th/12th/14th of March 2017 ## HRSL population data Facebook Connectivity Lab and Center for International Earth Science Information Network - CIESIN - Columbia University. 2016. High Resolution Settlement Layer (HRSL). Source imagery for HRSL © 2016 DigitalGlobe. Accessed 9 March 2019. ### 2. Good to know The flood extent for Nsanje district was separately added on March 14th, to the existing flood extent for the main area from March 12th. ### 3. Methodology ## A. Flood Extent Based on SAR The following steps were used to detect flood extent(water/no water). In SNAP tool the raw data downloaded from sci-hub Copernicus was processed to calibrate image for atmospheric correction, spike filter and terrain correction(This is mainly for Sentinel 1 data). Finally defining water no water based on a threshold applied on the corrected image. Defining a threshold is always a challenge in SAR image analysis for flood detection, we collected data from the field to define this threshold. For Sentinel 2 as a first step cloud filter was calculated by applying a combined threshold on Band 2 and Band 10. The cloud mask shown in the figure below didn’t capture shadows of clouds, these were miss interpreted by the flood algorithm as water/flood. To correct this areas with more cloud cover were clipped out with a polygon. To define water no water based on sentinel data we used NDWI index, the treshold is adjusted based on data collected from the field Validation points were collected by Field team tested different values and check if the threshold identified fits with observation. The complete methodology how to detect flooding based on Sentinel 1 data and SNAP toolbox is documented in ESA website. ## B. Affected People To calculate number of affected people per each admin level, flood extent map is combined with HRSL population data. This is done in two steps: First, in step 1, we calculate a raster, which multiplies the population grid with the flood grid, such that we are left with only \"population in flooded area\". This is done using raster calculator where population density raster was multiplied by flood extent raster, which has a value of 0 for no flood and 1 for flood areas. Note that the flood extent grid was first resampled to match it to the population grid. This whole exercise is repeated for settlement/buildings instead of population. Step 2: We apply zonal statistics per TA to calculate total number of buildings/people affected in each admin level. For each Admin level2 estimated number of affected people and affected houses are plotted in the map. The zonal statistics data used for plotting can be found in the shape file."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Netherlands Red Cross"
+  ],
+  "dcat_keyword_sm": [
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Malawi"
+  ],
+  "locn_geometry": "ENVELOPE(32.69, 35.77, -9.23, -16.8)",
+  "dcat_bbox": "ENVELOPE(32.69, 35.77, -9.23, -16.8)",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "gbl_indexYear_im": [
+    2019
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/floods-malawi-2019\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/3c378194-de05-4069-bec0-e6aa5106d11b/resource/81bebfa6-70d0-4ed2-9c58-d749ee0ea6cb/download/flood_extent_march_2019.geojson\"}"
+}

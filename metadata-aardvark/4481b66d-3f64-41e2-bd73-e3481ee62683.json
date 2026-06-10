@@ -1,0 +1,41 @@
+{
+  "id": "hdx-4481b66d-3f64-41e2-bd73-e3481ee62683",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-24T15:26:31Z",
+  "dct_title_s": "Satellite detected water extent in Gampaha, Colombo and Kalutara Districts, Western Province as of 04 June 2024",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20240603LKA, GDACS ID: 1102660** This map illustrates satellite-detected water extent in Gampaha, Colombo and Kalutara Districts, Western Province, Sri Lanka as observed from a Sentinel-1 image acquired on 04 June 2024 at 00:25 UTC. Within the analysed areas of about 8,000 km², a total of about 124 km² of lands appear to be affected with flood waters. Based on WorldPop population data and the flood extent about 100,000 people are potentially exposed. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to the United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Sri Lanka"
+  ],
+  "locn_geometry": "ENVELOPE(79.7, 81.79, 9.82, 5.97)",
+  "dcat_bbox": "ENVELOPE(79.7, 81.79, 9.82, 5.97)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extent-in-gampaha-colombo-and-kalutara-districts-western-province-as-of-04-june-2024\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3868/FL20240603LKA_gdb.zip\"}"
+}

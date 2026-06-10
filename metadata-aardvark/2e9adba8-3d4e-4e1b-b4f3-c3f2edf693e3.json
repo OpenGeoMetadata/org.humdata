@@ -1,0 +1,41 @@
+{
+  "id": "hdx-2e9adba8-3d4e-4e1b-b4f3-c3f2edf693e3",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T17:03:53Z",
+  "dct_title_s": "Satellite detected  surface water extents in Bangsamoro Autonomous Region in Muslim Mindanao and Region XII, Philippines as of 3 November 2022",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code TC20221028PHL, GDACS Id: 1000942** This map illustrates the extent of surface waters in Bangsamoro Autonomous Region in Muslim Mindanao and Region XII, Philippines as observed from an RCM-3 image acquired on 3 November 2022 at 17:57 local time. Within the analysis extent of about 2,000 km2, approximately 160 km2 of land appear to be flooded. Based on Worldpop population data and detected surface waters, approximately 41,000 people are potentially exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "locn_geometry": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dcat_bbox": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/surface-water-extents-in-bangsamoro-autonomous-region-in-muslim-mindanao-and-region-xii-ph\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3440/TC20221028PHL_gdb.zip\"}"
+}

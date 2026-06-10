@@ -1,0 +1,49 @@
+{
+  "id": "hdx-55b1367e-667a-447b-952d-5bb139835628",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-13T16:02:21Z",
+  "dct_title_s": "Lesotho - Subnational Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Lesotho administrative level 0-2 boundaries (COD-AB) dataset. The date that these administrative boundaries were established is unknown. NOTE: P-codes contain alphabetical ADM1 designator. This COD-AB has NOT been reviewed for accuracy and necessary changes in the last 12 months. Sourced from FAO and the Ministry of Local Government 2016 Vetting by Information Technology Outreach Services (ITOS) with funding from USAID. This COD-AB is suitable for database or GIS linkage to the Lesotho [COD-PS](https://data.humdata.org/dataset/cod-ps-lso). No edge-matched (COD-EM) version of this COD-AB has yet been prepared. Please see the [COD Portal](https://cod.unocha.org/). Administrative level 1 contains 10 feature(s). The normal administrative level 1 feature type is \"\"currently not known\"\". Administrative level 2 contains 78 feature(s). The normal administrative level 2 feature type is \"\"currently not known\"\". Recommended cartographic projection: Africa Albers Equal Area Conic This metadata was last updated on January 9, 2025."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "FAO and the Ministry of Local Government 2016"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Lesotho"
+  ],
+  "locn_geometry": "ENVELOPE(27.0, 29.33, -28.65, -30.65)",
+  "dcat_bbox": "ENVELOPE(27.0, 29.33, -28.65, -30.65)",
+  "dct_temporal_sm": [
+    "2019-2025"
+  ],
+  "gbl_indexYear_im": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "dct_format_s": "XLSX",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-lso\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/55b1367e-667a-447b-952d-5bb139835628/resource/f94ad63f-b7ff-4a85-a1de-e828384a545d/download/lso_adm_fao_mlgca_2019_fis.xls\"}"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "hdx-b637a0ea-bca2-4322-a9b3-e861170380a8",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-21T16:07:20Z",
+  "dct_title_s": "Satellite Detected Surface Waters Extent in Ho Chi Minh City Area, Vietnam",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This map illustrates the satellite-detected surface waters extent in Ho Chi Minh City area and surroundings, as observed from the Radarsat-2 SAR image acquired on 18 December 2017. In the analysed area (~3000 km2) about 5,400 ha of lands, mainly agricultural and paddy fields are likely flooded. In addition, using WorldPop data, we can estimate that ~220,000 people are living within flooded areas. It is likely that flood waters have been systematically underestimated along highly vegetated areas along main river banks and within built-up urban areas because of the special characteristics of the satellite data used. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR - UNOSAT."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UNOSAT"
+  ],
+  "dcat_keyword_sm": [
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Viet Nam"
+  ],
+  "locn_geometry": "ENVELOPE(102.17, 109.34, 23.35, 8.6)",
+  "dcat_bbox": "ENVELOPE(102.17, 109.34, 23.35, 8.6)",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "gbl_indexYear_im": [
+    2017
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-surface-waters-extent-in-ho-chi-minh-city-area-vietnam-2749\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/unosat-maps/VN/FL20171211VNM/FL20171211VNM_gdb.zip\"}"
+}

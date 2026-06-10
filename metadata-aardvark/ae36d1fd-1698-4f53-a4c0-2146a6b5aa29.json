@@ -1,0 +1,48 @@
+{
+  "id": "hdx-ae36d1fd-1698-4f53-a4c0-2146a6b5aa29",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-06-27T15:01:39Z",
+  "dct_title_s": "Fiji - Subnational Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Fiji administrative level 0-3 boundaries (COD-AB) dataset. These administrative boundaries were established in: 2017 This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024. The COD-AB does not require any update. Sourced from POPGIS, Fiji Islands Bureau of Statistics, Pacific Catastrophe Risk Assessment and Financing Initiative (PCRAFI) Vetting by Information Technology Outreach Services (ITOS) with funding from USAID. This COD-AB is suitable for database or GIS linkage to the Fiji [COD-PS](https://data.humdata.org/dataset/cod-ps-fji). As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required. Please see the [COD Portal](https://cod.unocha.org/). Administrative level 1 contains 4 feature(s). The normal administrative level 1 feature type is \"\"Province\"\". Administrative level 2 contains 15 feature(s). The normal administrative level 2 feature type is \"\"District\"\". Administrative level 3 contains 86 feature(s). The normal administrative level 3 feature type is \"\"Tikinia\"\". Recommended cartographic projection: Oceania This metadata was last updated on January 9, 2025."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "POPGIS, Fiji Islands Bureau of Statistics, Pacific Catastrophe Risk Assessment and Financing Initiative (PCRAFI)"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer"
+  ],
+  "dct_spatial_sm": [
+    "Fiji"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, -16.02, -18.29)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, -16.02, -18.29)",
+  "dct_temporal_sm": [
+    "2017-2024"
+  ],
+  "gbl_indexYear_im": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-fji\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/ae36d1fd-1698-4f53-a4c0-2146a6b5aa29/resource/c3dc129d-6434-48c8-bb2b-d14b1c05e9b5/download/fji_polbnda_adm.gdb.zip\"}"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "hdx-9b26bb7d-3e5e-4f67-b953-11bba350ba46",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-03-11T04:38:04Z",
+  "dct_title_s": "Food Insecurity Mapping - East Africa (February - May 2016)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This Archive contains shapefiles for FEWS NET Food Security Outlook for **East Africa**. It was last updated on April 12, 2016. The classification used is [IPC V2.0 Compatible](http://www.fews.net/nosso-trabalho/nosso-trabalho/classifica%C3%A7%C3%A3o-integrada-de-fases), aimed to address acute food insecurity. The two shapefiles represent the two analytic periods: * EA201304_ML1 Most likely food security outcome for January-March 2016 * EA201304_ML2 Most likely food security outcome for April-June 2016 Within the shapefiles, the food security outlook is contained in a field named as ML1 or ML2 according to the outlook period. The code itself is the IPC phase. Two additional codes are used: * 66 = water * 88 = parks, forests, reserves * 99 = missing data (usually urban centers)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "FEWS NET"
+  ],
+  "dcat_keyword_sm": [
+    "agriculture-livestock",
+    "climate-weather",
+    "complex emergency-conflict-security",
+    "food security",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "agriculture-livestock",
+    "climate-weather",
+    "complex emergency-conflict-security",
+    "food security",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Burundi",
+    "Djibouti",
+    "Ethiopia",
+    "Kenya",
+    "Rwanda",
+    "Somalia",
+    "South Sudan",
+    "Sudan",
+    "Uganda",
+    "United Republic of Tanzania",
+    "Yemen"
+  ],
+  "locn_geometry": "ENVELOPE(21.94, 53.11, 22.0, -11.72)",
+  "dcat_bbox": "ENVELOPE(21.94, 53.11, 22.0, -11.72)",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "gbl_indexYear_im": [
+    2016
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/food-insecurity-mapping-east-africa-february-may-2016\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/9b26bb7d-3e5e-4f67-b953-11bba350ba46/resource/94bfd724-1359-4d20-9fad-6a86df37c3a6/download/ea201602_ml1.zip\"}"
+}

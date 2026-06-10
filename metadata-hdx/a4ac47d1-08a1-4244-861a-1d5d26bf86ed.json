@@ -1,0 +1,206 @@
+{
+  "archived": true,
+  "batch": "f1af6114-a233-438f-9956-3c6e38f8127f",
+  "creator_user_id": "0a4621e6-a52e-4a9d-a002-9d9e6c9de705",
+  "data_update_frequency": "-1",
+  "dataset_date": "[2017-09-21T00:00:00 TO 2017-09-21T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "Tropical Storm Risk/UCL",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "a4ac47d1-08a1-4244-861a-1d5d26bf86ed",
+  "is_requestdata_type": false,
+  "isopen": true,
+  "last_modified": "2017-09-21T15:35:52.285759",
+  "license_id": "cc-by",
+  "license_title": "Creative Commons Attribution International (CC BY)",
+  "license_url": "http://www.opendefinition.org/licenses/cc-by",
+  "maintainer": "0a4621e6-a52e-4a9d-a002-9d9e6c9de705",
+  "metadata_created": "2017-09-21T15:35:50.350848",
+  "metadata_modified": "2024-09-13T11:47:39.756420",
+  "methodology": "Direct Observational Data/Anecdotal Data",
+  "name": "hurricane-maria-gust-footprints",
+  "notes": "Hurricane Maria peak 3-sec gust footprints in kml format (through 9UT 21st Sept 2017) \r\nCredit - Tropical Storm Risk/UCL",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "id": "2456bb08-5543-407d-877e-4ce77d95365c",
+    "name": "brcmapsteam",
+    "title": "British Red Cross Maps Team",
+    "type": "organization",
+    "description": "British Red Cross Maps Team",
+    "image_url": "",
+    "created": "2014-09-13T16:01:34.746765",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "2456bb08-5543-407d-877e-4ce77d95365c",
+  "package_creator": "helenc",
+  "pageviews_last_14_days": 0,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Anguilla\", \"Antigua and Barbuda\", \"Barbados\", \"British Virgin Islands\", \"Dominica\", \"Dominican Republic\", \"Guadeloupe\", \"Martinique\", \"Montserrat\", \"Puerto Rico\", \"Saint Lucia\", \"Saint Vincent and the Grenadines\", \"United States Virgin Islands\"]}",
+  "state": "active",
+  "subnational": "0",
+  "title": "Hurricane Maria - gust footprints",
+  "total_res_downloads": 117,
+  "type": "dataset",
+  "updated_by_script": "hdxinternal:HDXPythonLibrary/6.3.1-hdx-cli-toolkit (2024-09-13T11:47:39.386498)",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Anguilla",
+      "id": "aia",
+      "image_display_url": "",
+      "name": "aia",
+      "title": "Anguilla"
+    },
+    {
+      "description": "",
+      "display_name": "Antigua and Barbuda",
+      "id": "atg",
+      "image_display_url": "",
+      "name": "atg",
+      "title": "Antigua and Barbuda"
+    },
+    {
+      "description": "",
+      "display_name": "Barbados",
+      "id": "brb",
+      "image_display_url": "",
+      "name": "brb",
+      "title": "Barbados"
+    },
+    {
+      "description": "",
+      "display_name": "British Virgin Islands",
+      "id": "vgb",
+      "image_display_url": "",
+      "name": "vgb",
+      "title": "British Virgin Islands"
+    },
+    {
+      "description": "",
+      "display_name": "Dominica",
+      "id": "dma",
+      "image_display_url": "",
+      "name": "dma",
+      "title": "Dominica"
+    },
+    {
+      "description": "",
+      "display_name": "Dominican Republic",
+      "id": "dom",
+      "image_display_url": "",
+      "name": "dom",
+      "title": "Dominican Republic"
+    },
+    {
+      "description": "",
+      "display_name": "Guadeloupe",
+      "id": "glp",
+      "image_display_url": "",
+      "name": "glp",
+      "title": "Guadeloupe"
+    },
+    {
+      "description": "",
+      "display_name": "Martinique",
+      "id": "mtq",
+      "image_display_url": "",
+      "name": "mtq",
+      "title": "Martinique"
+    },
+    {
+      "description": "",
+      "display_name": "Montserrat",
+      "id": "msr",
+      "image_display_url": "",
+      "name": "msr",
+      "title": "Montserrat"
+    },
+    {
+      "description": "",
+      "display_name": "Puerto Rico",
+      "id": "pri",
+      "image_display_url": "",
+      "name": "pri",
+      "title": "Puerto Rico"
+    },
+    {
+      "description": "",
+      "display_name": "Saint Lucia",
+      "id": "lca",
+      "image_display_url": "",
+      "name": "lca",
+      "title": "Saint Lucia"
+    },
+    {
+      "description": "",
+      "display_name": "Saint Vincent and the Grenadines",
+      "id": "vct",
+      "image_display_url": "",
+      "name": "vct",
+      "title": "Saint Vincent and the Grenadines"
+    },
+    {
+      "description": "",
+      "display_name": "United States Virgin Islands",
+      "id": "vir",
+      "image_display_url": "",
+      "name": "vir",
+      "title": "United States Virgin Islands"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/a4ac47d1-08a1-4244-861a-1d5d26bf86ed/resource/883f07dd-a9e6-466b-9206-93ea05755b4c/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-09-21T15:35:52.599834",
+      "datastore_active": false,
+      "description": "Hurricane Maria peak 3-sec gust footprints in kml format (through 9UT 21st Sept 2017) ",
+      "download_url": "https://data.humdata.org/dataset/a4ac47d1-08a1-4244-861a-1d5d26bf86ed/resource/883f07dd-a9e6-466b-9206-93ea05755b4c/download/hurricane-maria_3-sec-gust-footprint_tsr_issued-9ut-21st-sept-2017.kml",
+      "format": "KML",
+      "hash": "",
+      "hdx_rel_url": "/dataset/a4ac47d1-08a1-4244-861a-1d5d26bf86ed/resource/883f07dd-a9e6-466b-9206-93ea05755b4c/download/hurricane-maria_3-sec-gust-footprint_tsr_issued-9ut-21st-sept-2017.kml",
+      "id": "883f07dd-a9e6-466b-9206-93ea05755b4c",
+      "last_modified": "2017-09-21T15:35:52.285759",
+      "metadata_modified": "2023-03-02T22:36:41.583466",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Hurricane Maria_3-sec gust footprint_TSR_issued 9UT 21st Sept 2017.kml",
+      "originalHash": "97196323",
+      "package_id": "a4ac47d1-08a1-4244-861a-1d5d26bf86ed",
+      "position": 0,
+      "resource_type": "file.upload",
+      "shape_info": "[{\"error_class\": \"None\", \"layer_id\": \"None\", \"error_type\": \"None\", \"state\": \"processing\", \"timestamp\": \"2017-09-21T15:35:52.376584\", \"message\": \"The processing of the geo-preview has started\"}, {\"error_class\": \"FetchLayerMetadataException\", \"layer_id\": \"pre_883f07dd_a9e6_466b_9206_93ea05755b4c\", \"error_type\": \"None\", \"state\": \"failure\", \"timestamp\": \"2017-09-21T15:35:55.682337\", \"message\": \"Bounding box was not retrieved \", \"type\": \"fetch-bounding-box-problem\"}]",
+      "size": 148502,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/a4ac47d1-08a1-4244-861a-1d5d26bf86ed/resource/883f07dd-a9e6-466b-9206-93ea05755b4c/download/hurricane-maria_3-sec-gust-footprint_tsr_issued-9ut-21st-sept-2017.kml",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "cyclones-hurricanes-typhoons",
+      "id": "326e097b-96f2-46e4-8ef4-0a8d4401a646",
+      "name": "cyclones-hurricanes-typhoons",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

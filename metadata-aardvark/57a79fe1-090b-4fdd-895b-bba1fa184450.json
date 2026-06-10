@@ -1,0 +1,41 @@
+{
+  "id": "hdx-57a79fe1-090b-4fdd-895b-bba1fa184450",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T18:09:31Z",
+  "dct_title_s": "Indonesia Buildings (OpenStreetMap Export)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "OpenStreetMap contains roughly 41.7 million buildings in this region. Based on AI-mapped estimates, this is approximately 56% of the total buildings.The average age of data for this region is 3 years ( Last edited 3 days ago ) and 1% buildings were added or updated in the last 6 months. Read about what this summary means : [indicators](https://github.com/hotosm/raw-data-api/tree/develop/docs/src/stats/indicators.md) , [metrics](https://github.com/hotosm/raw-data-api/tree/develop/docs/src/stats/metrics.md) OpenStreetMap exports for use in GIS applications. This theme includes all OpenStreetMap features in this area matching ( Learn what tags means [here](https://wiki.openstreetmap.org/wiki/Tags) ) : tags['building'] IS NOT NULL Features may have these attributes: - [name](http://wiki.openstreetmap.org/wiki/Key:name) - [name:en](http://wiki.openstreetmap.org/wiki/Key:name:en) - [building](http://wiki.openstreetmap.org/wiki/Key:building) - [building:levels](http://wiki.openstreetmap.org/wiki/Key:building:levels) - [building:materials](http://wiki.openstreetmap.org/wiki/Key:building:materials) - [addr:full](http://wiki.openstreetmap.org/wiki/Key:addr:full) - [addr:housenumber](http://wiki.openstreetmap.org/wiki/Key:addr:housenumber) - [addr:street](http://wiki.openstreetmap.org/wiki/Key:addr:street) - [addr:city](http://wiki.openstreetmap.org/wiki/Key:addr:city) - [office](http://wiki.openstreetmap.org/wiki/Key:office) - [source](http://wiki.openstreetmap.org/wiki/Key:source) - [name:id](http://wiki.openstreetmap.org/wiki/Key:name:id) This dataset is one of many [OpenStreetMap exports on HDX](https://data.humdata.org/organization/hot). See the [Humanitarian OpenStreetMap Team](http://hotosm.org/) website for more information."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "facilities-infrastructure",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "facilities-infrastructure",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Indonesia"
+  ],
+  "locn_geometry": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dcat_bbox": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_idn_buildings\",\"http://schema.org/downloadUrl\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/IDN/buildings/polygons/hotosm_idn_buildings_polygons_geojson.zip\"}"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hdx-dece59ba-c7c9-4c59-8481-abfcf059dddd",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T21:29:22Z",
+  "dct_title_s": "Uganda Energy/Gas Facilities",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "These are point locations of Gas/Petro Stations,Power Stations,Substations and Transformers,which were mapped by Uganda Bureau of Statistics between 2009 to 2012 under the National Census Mapping Programme. More detail about this dataset and more downloadable formats can be found here: http://ubos.geo-solutions.it/layers/geonode:energy_layer"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Uganda Bureau of Statistics "
+  ],
+  "dcat_keyword_sm": [
+    "energy",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "energy",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Uganda"
+  ],
+  "locn_geometry": "ENVELOPE(29.58, 35.04, 4.25, -1.44)",
+  "dcat_bbox": "ENVELOPE(29.58, 35.04, 4.25, -1.44)",
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "gbl_indexYear_im": [
+    2012
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/uganda-energy-gas-facilities\",\"http://schema.org/downloadUrl\":\"http://ubos.geo-solutions.it/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Aenergy_layer&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature&access_token=008a27a4e1d811e8b9c20242ac120003\"}"
+}

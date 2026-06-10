@@ -1,0 +1,41 @@
+{
+  "id": "hdx-659c7ac1-e79f-4145-8467-e08f16729e67",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-25T03:37:41Z",
+  "dct_title_s": "Satellite detected water extent in Kassala and River Nile States, Sudan  as of 3 and 5 September 2024",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20240826SDN, GDACS ID: 1102854** This map illustrates satellite-detected water extents in Kassala and River Nile States, Sudan as observed from Sentinel-2 image acquired on 3 and 5 September 2024. Within the analysed area of about 100,000 km², a total of about 2,500 km² of land appears to be affected by floodwaters. Based on Worldpop population data and the flood extent, approximately 39,000 people are potentially exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to the United Nations Satellite Centre (UNOSAT)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Sudan"
+  ],
+  "locn_geometry": "ENVELOPE(21.94, 38.41, 22.0, 8.62)",
+  "dcat_bbox": "ENVELOPE(21.94, 38.41, 22.0, 8.62)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extent-in-kassala-and-river-nile-states-sudan-as-of-3-and-5-september-2024\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3959/FL20240826SDN_gdb.zip\"}"
+}

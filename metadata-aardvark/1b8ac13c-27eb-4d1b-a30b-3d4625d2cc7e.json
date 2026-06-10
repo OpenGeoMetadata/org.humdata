@@ -1,0 +1,39 @@
+{
+  "id": "hdx-1b8ac13c-27eb-4d1b-a30b-3d4625d2cc7e",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-09-10T14:05:45Z",
+  "dct_title_s": "Preliminary Internal Displacement Updates API",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "The IDMC’s Internal Displacement Updates (IDU) are preliminary estimates of new displacements reported in the last 180 days. The IDU API presents provisional data that is updated on daily basis, according to the availability of data. Curated and validated estimates are published in the Global Internal Displacement Database (GIDD) –See https://www.internaldisplacement.org/database/displacement-data. For a detailed description of methodology please refer to the IDMC GRID methodological annex (https://www.internal-displacement.org/global-report/grid2020/downloads/2020-IDMC-GRID-methodology.pdf) and IDMC’s monitoring guidelines (https://monitoringguidance.wixsite.com/idmc). The IDU dataset contains preliminary estimates of aggregated from diverse publishers or sources. New displacement estimates are provided for three different causes of internal displacement: disasters, conflict and violence, and development projects. The documentation of the API is available at bit.ly/IDU_API_DOC."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Internal Displacement Monitoring Centre (IDMC)"
+  ],
+  "dcat_keyword_sm": [
+    "internally displaced persons-idp"
+  ],
+  "dct_subject_sm": [
+    "internally displaced persons-idp"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "CSV",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/preliminary-internal-displacement-updates\",\"http://schema.org/downloadUrl\":\"https://backend.idmcdb.org/api/idus-view-flat-geojson\"}"
+}

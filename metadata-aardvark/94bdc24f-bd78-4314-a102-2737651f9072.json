@@ -1,0 +1,46 @@
+{
+  "id": "hdx-94bdc24f-bd78-4314-a102-2737651f9072",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T22:13:28Z",
+  "dct_title_s": "Uzbekistan - Subnational Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains the following administrative boundaries: ADM0, ADM1, ADM2. Produced and maintained since 2017, the geoBoundaries Global Database of Political Administrative Boundaries Database [www.geoboundaries.org](https://www.geoboundaries.org) is an open license, standardized resource of boundaries (i.e., state, county) for every country in the world."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OCHA ROCCAOpenStreetMap, WambacherOpenStreetMap, Wambacher"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Uzbekistan"
+  ],
+  "locn_geometry": "ENVELOPE(55.93, 73.06, 45.59, 37.14)",
+  "dcat_bbox": "ENVELOPE(55.93, 73.06, 45.59, 37.14)",
+  "dct_temporal_sm": [
+    "2017-2020"
+  ],
+  "gbl_indexYear_im": [
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/geoboundaries-admin-boundaries-for-uzbekistan\",\"http://schema.org/downloadUrl\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UZB/ADM0/geoBoundaries-UZB-ADM0_simplified.geojson\"}"
+}

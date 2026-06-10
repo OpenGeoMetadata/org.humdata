@@ -1,0 +1,146 @@
+{
+  "archived": false,
+  "batch": "b93f243f-1d44-46ec-8304-ce282d75da74",
+  "creator_user_id": "6b9fbd55-6752-4fd3-a306-49a7f5c1bf48",
+  "data_update_frequency": "-2",
+  "dataset_date": "[2021-10-22T00:00:00 TO 2022-04-01T23:59:59]",
+  "dataset_preview": "resource_id",
+  "dataset_source": "RCRC Climate Centre (2022), OSM (2022)",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "32750ca7-1605-4126-b426-544f70ab468d",
+  "is_requestdata_type": false,
+  "isopen": false,
+  "last_modified": "2022-05-10T14:12:04.894628",
+  "license_id": "hdx-odc-odbl",
+  "license_title": "Open Database License (ODC-ODbL)",
+  "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+  "maintainer": "6b9fbd55-6752-4fd3-a306-49a7f5c1bf48",
+  "metadata_created": "2022-05-10T14:11:42.372320",
+  "metadata_modified": "2025-04-15T13:31:55.366413",
+  "methodology": "Other",
+  "methodology_other": "The data was collected in OSM through an HOT OSM task, led by the Netherland Red Cross' Missing Maps Team. ",
+  "name": "wad-sherifey-refugee-settlement-mapping-data-2022",
+  "notes": "This data sets contains a shapefile with the building footprint of Wad Sherifey Refugee Settlement, Kassala, Sudan. \r\nWad Sherifey is a refugee camp located in the East of Sudan along the Mareb River. During the past year refugees fleeing from conflict have arrived and settled in the area, partly within flood prone areas of the Mareb River. Already vulnerable and displaced, now additionally facing the risk of floods. Actors like the Red Cross Red Crescent Climate Centre and MFS manage projects in this region, and OSM data sets like this support the expansion of  anticipatory action (acting before a disaster happens www.anticipation-hub.org/) to those most affected by conflict and climate. The area was selected for OSM mapping through a methodology to identify & prioritize high-risk and unmapped areas within a country for OSM mapping (StoryMap: https://arcg.is/1eqOXj) \r\nThe data was collected through an HOT OSM task (https://tasks.hotosm.org/projects/11685), which was created in collaboration with MFS and led by the Netherland Red Cross’ Missing Maps Team. The task was completed (mapped & validated) in April 2022. The satellite imagery used for the mapping was from late August 2021 and provided by MFS. ",
+  "num_resources": 1,
+  "num_tags": 6,
+  "organization": {
+    "id": "a232eecc-acc7-475d-b316-de9e7f794567",
+    "name": "rccc",
+    "title": "RCRC Climate Centre",
+    "type": "organization",
+    "description": "The Climate Centre’s mission is to help the Red Cross and Red Crescent Movement and its partners reduce the impacts of climate change and extreme-weather events on vulnerable people.",
+    "image_url": "",
+    "created": "2022-05-10T12:21:50.514953",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "a232eecc-acc7-475d-b316-de9e7f794567",
+  "package_creator": "climate_centre",
+  "pageviews_last_14_days": 3,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Sudan\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Wad Sherifey Refugee Settlement, Sudan",
+  "total_res_downloads": 85,
+  "type": "dataset",
+  "url": null,
+  "version": null,
+  "customviz": [
+    {
+      "url": "https://arcg.is/1eqOXj"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Sudan",
+      "id": "sdn",
+      "image_display_url": "",
+      "name": "sdn",
+      "title": "Sudan"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/32750ca7-1605-4126-b426-544f70ab468d/resource/71792429-2ad0-4648-bb2a-438f7ac6438b/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2022-05-10T14:12:05.353150",
+      "dataset_preview_enabled": true,
+      "datastore_active": false,
+      "description": "OSM building footprint 2022",
+      "download_url": "https://data.humdata.org/dataset/32750ca7-1605-4126-b426-544f70ab468d/resource/71792429-2ad0-4648-bb2a-438f7ac6438b/download/wad_sherifey_refugee_settlement.zip",
+      "format": "SHP",
+      "hash": "",
+      "hdx_rel_url": "/dataset/32750ca7-1605-4126-b426-544f70ab468d/resource/71792429-2ad0-4648-bb2a-438f7ac6438b/download/wad_sherifey_refugee_settlement.zip",
+      "id": "71792429-2ad0-4648-bb2a-438f7ac6438b",
+      "last_modified": "2022-05-10T14:12:04.894628",
+      "metadata_modified": "2025-04-15T13:31:55.403159",
+      "microdata": false,
+      "mimetype": "application/x-zip-compressed",
+      "mimetype_inner": null,
+      "name": "Wad_Sherifey_Refugee_Settlement.zip",
+      "originalHash": "-988266717",
+      "p_coded": false,
+      "package_id": "32750ca7-1605-4126-b426-544f70ab468d",
+      "pii": "false",
+      "position": 0,
+      "resource_type": "file.upload",
+      "shape_info": "[{\"error_class\": \"None\", \"layer_id\": \"None\", \"error_type\": \"None\", \"state\": \"processing\", \"timestamp\": \"2022-05-10T14:12:05.029875\", \"message\": \"The processing of the geo-preview has started\"}, {\"error_class\": \"None\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"full_id\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_id\", \"data_type\": \"character varying\"}, {\"field_name\": \"osm_type\", \"data_type\": \"character varying\"}, {\"field_name\": \"layer\", \"data_type\": \"character varying\"}, {\"field_name\": \"type\", \"data_type\": \"character varying\"}, {\"field_name\": \"building\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"layer_id\": \"pre_71792429_2ad0_4648_bb2a_438f7ac6438b\", \"error_type\": \"None\", \"bounding_box\": \"BOX(36.4058712 15.2472393,36.6081904 15.4134424)\", \"state\": \"success\", \"timestamp\": \"2022-05-10T14:12:47.516632\", \"message\": \"Import successful\"}]",
+      "size": 3908238,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/32750ca7-1605-4126-b426-544f70ab468d/resource/71792429-2ad0-4648-bb2a-438f7ac6438b/download/wad_sherifey_refugee_settlement.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "complex emergency-conflict-security",
+      "id": "964a4ed8-0527-4b90-b929-ccea14fc2851",
+      "name": "complex emergency-conflict-security",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "disaster risk reduction-drr",
+      "id": "4f186471-d358-4f37-b9ab-2743abd61fbd",
+      "name": "disaster risk reduction-drr",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "flooding",
+      "id": "532eacf2-7b8c-4dd5-baf7-c25720cadb38",
+      "name": "flooding",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "hazards and risk",
+      "id": "7173a61f-84fd-45ca-856a-3aa2b0372869",
+      "name": "hazards and risk",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "internally displaced persons-idp",
+      "id": "4a0f429f-679c-4492-8386-d5cdf2d82ecd",
+      "name": "internally displaced persons-idp",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "refugees",
+      "id": "8af07ef8-0180-4966-9e15-d184b9a2fef1",
+      "name": "refugees",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

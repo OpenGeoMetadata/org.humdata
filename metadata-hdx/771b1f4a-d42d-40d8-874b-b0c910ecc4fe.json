@@ -1,0 +1,131 @@
+{
+  "archived": true,
+  "batch": "04810454-f7b8-49e9-8d55-a6bc2df068e7",
+  "caveats": "The RBR analysis does not distinguish whether burned land was before or after the harvest of the specific cropland.",
+  "creator_user_id": "297c1bd2-6f44-4615-afad-e51961530b27",
+  "data_update_frequency": "-1",
+  "dataset_date": "[2019-06-30T00:00:00 TO 2019-06-30T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "REACH Initiative",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "771b1f4a-d42d-40d8-874b-b0c910ecc4fe",
+  "is_requestdata_type": false,
+  "isopen": false,
+  "last_modified": "2019-07-18T10:00:07.054017",
+  "license_id": "hdx-odc-by",
+  "license_title": "Open Data Commons Attribution License (ODC-BY)",
+  "license_url": "https://opendatacommons.org/licenses/by/1-0/",
+  "maintainer": "b5e46b7d-c868-4b5e-bc1f-d4cfdd2170c8",
+  "metadata_created": "2019-07-18T09:59:37.457827",
+  "metadata_modified": "2024-10-08T17:26:27.145638",
+  "methodology": "Direct Observational Data/Anecdotal Data",
+  "name": "northern-syria-burned-land-analysis-dataset-may-june-2019",
+  "notes": "Using 10m resolution multispectral imagery from the Sentinel-2A satellite, a relativized burn ratio (RBR) was calculated and used for burned land classification to assess and quantify areas which have been burned between 4 May and 30 June 2019 in the governorates of Al-Hasakeh, Deir-ez-Zor, Ar-Raqqa, Aleppo, Idleb and Northern Hama. The before and after images are composites ranging from 6 April to 3 May 2019 and 27 to 30 June 2019.",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "id": "8e8911ab-f35c-4189-9dce-8715002f723e",
+    "name": "reach-initiative",
+    "title": "REACH Initiative",
+    "type": "organization",
+    "description": "REACH facilitates the development of information tools and products that enhance the capacity of aid actors to make evidence-based decisions in emergency, recovery and development contexts. All REACH activities are conducted through inter-agency aid coordination mechanisms. For more information, you can write to our global office: geneva@reach-initiative.org.  Visit www.reach-intiative.org and follow us @REACH_info.",
+    "image_url": "",
+    "created": "2015-01-15T15:24:21.862565",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "8e8911ab-f35c-4189-9dce-8715002f723e",
+  "package_creator": "jrmcarth",
+  "pageviews_last_14_days": 0,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Syrian Arab Republic\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Northern Syria Burned Land Analysis Dataset - May June 2019",
+  "total_res_downloads": 35,
+  "type": "dataset",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Syrian Arab Republic",
+      "id": "syr",
+      "image_display_url": "",
+      "name": "syr",
+      "title": "Syrian Arab Republic"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/771b1f4a-d42d-40d8-874b-b0c910ecc4fe/resource/cb81ef5c-dbf8-4e0d-9923-7925b6906d2a/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-18T10:00:07.475113",
+      "datastore_active": false,
+      "description": "",
+      "download_url": "https://data.humdata.org/dataset/771b1f4a-d42d-40d8-874b-b0c910ecc4fe/resource/cb81ef5c-dbf8-4e0d-9923-7925b6906d2a/download/northsyria_burnedland_mayjune2019.zip",
+      "format": "SHP",
+      "hash": "",
+      "hdx_rel_url": "/dataset/771b1f4a-d42d-40d8-874b-b0c910ecc4fe/resource/cb81ef5c-dbf8-4e0d-9923-7925b6906d2a/download/northsyria_burnedland_mayjune2019.zip",
+      "id": "cb81ef5c-dbf8-4e0d-9923-7925b6906d2a",
+      "last_modified": "2019-07-18T10:00:07.054017",
+      "metadata_modified": "2023-03-02T20:53:08.369668",
+      "microdata": false,
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "NorthSyria_BurnedLand_MayJune2019.zip",
+      "originalHash": "1116936704",
+      "package_id": "771b1f4a-d42d-40d8-874b-b0c910ecc4fe",
+      "position": 0,
+      "resource_type": "file.upload",
+      "shape_info": "[{\"error_class\": \"None\", \"layer_id\": \"None\", \"error_type\": \"None\", \"state\": \"processing\", \"timestamp\": \"2019-07-18T10:00:07.242348\", \"message\": \"The processing of the geo-preview has started\"}, {\"error_class\": \"None\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"id\", \"data_type\": \"numeric\"}, {\"field_name\": \"gridcode\", \"data_type\": \"numeric\"}, {\"field_name\": \"area\", \"data_type\": \"numeric\"}, {\"field_name\": \"shape_leng\", \"data_type\": \"character varying\"}, {\"field_name\": \"shape_area\", \"data_type\": \"character varying\"}, {\"field_name\": \"acres\", \"data_type\": \"numeric\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"layer_id\": \"pre_cb81ef5c_dbf8_4e0d_9923_7925b6906d2a\", \"error_type\": \"None\", \"bounding_box\": \"BOX(36.16000181 34.1918477070001,42.381885481 37.3155696310001)\", \"state\": \"success\", \"timestamp\": \"2019-07-18T10:02:26.282203\", \"message\": \"Import successful\"}]",
+      "size": 74299127,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/771b1f4a-d42d-40d8-874b-b0c910ecc4fe/resource/cb81ef5c-dbf8-4e0d-9923-7925b6906d2a/download/northsyria_burnedland_mayjune2019.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "agriculture-livestock",
+      "id": "e6b84407-4b14-4b0a-95c5-314da049f64c",
+      "name": "agriculture-livestock",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "climate hazards",
+      "id": "ba8322b6-72e7-4475-b015-72d200bf5957",
+      "name": "climate hazards",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "complex emergency-conflict-security",
+      "id": "964a4ed8-0527-4b90-b929-ccea14fc2851",
+      "name": "complex emergency-conflict-security",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "livelihoods",
+      "id": "a396d995-bebc-4f57-b0c1-c58317e8f7cf",
+      "name": "livelihoods",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

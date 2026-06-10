@@ -1,0 +1,41 @@
+{
+  "id": "hdx-3a243930-a383-4606-8566-77bc8836585b",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-21T15:23:50Z",
+  "dct_title_s": "Geodata of Minkaman IDP Site, Awerial County, Lakes State, South Sudan",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This map illustrates satellite-detected shelters and other buildings at the Minkaman IDP site in Lake State, South Sudan, as seen by WorldView-1 satellite on 8 February and 12 February 2015. UNOSAT analyzed these images and located 12,349 shelters and 611 administrative buildings in the IDP site area. A previous UNOSAT analysis using an image from 24 November 2014 indicated 18,636 IDPs shelters, and thus the updated analysis represents a decrease of approximatively 33% in the number of shelters. Note that IDPs sheltering under trees are not detected by this analysis. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR / UNOSAT."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UNOSAT"
+  ],
+  "dcat_keyword_sm": [
+    "complex emergency-conflict-security",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "complex emergency-conflict-security",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "South Sudan"
+  ],
+  "locn_geometry": "ENVELOPE(23.89, 35.3, 12.25, 3.51)",
+  "dcat_bbox": "ENVELOPE(23.89, 35.3, 12.25, 3.51)",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "gbl_indexYear_im": [
+    2015
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/geodata-of-minkaman-idp-site-awerial-county-lakes-state-south-sudan-march-11-2015\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_MinkamanFEB2015_shp.zip\"}"
+}

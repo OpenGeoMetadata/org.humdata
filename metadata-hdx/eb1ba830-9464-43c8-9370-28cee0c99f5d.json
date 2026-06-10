@@ -1,0 +1,523 @@
+{
+  "archived": false,
+  "batch": "72a78a2f-50f5-4678-afb7-7c671c349c84",
+  "caveats": "The research was conducted by The Population Health Unit, Kenya Medical Research Institute - Wellcome Trust Research Programme. Please refer to the nature article [\"A spatial database of health facilities managed by the public health sector in sub Saharan Africa\"](https://www.nature.com/articles/s41597-019-0142-2) for specific information about the methods, data records, technical validation, usage notes and code availability of the data",
+  "creator_user_id": "7d7f5f8d-7e3b-483a-8de1-2b122010c1eb",
+  "data_update_frequency": "365",
+  "dataset_date": "[2019-07-25T00:00:00 TO 2019-07-25T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "Multiple sources ",
+  "due_date": "2020-07-24T23:59:59",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "eb1ba830-9464-43c8-9370-28cee0c99f5d",
+  "is_requestdata_type": false,
+  "isopen": true,
+  "last_modified": "2022-12-13T12:38:29",
+  "license_id": "cc-by",
+  "license_title": "Creative Commons Attribution International (CC BY)",
+  "license_url": "http://www.opendefinition.org/licenses/cc-by",
+  "maintainer": "7d7f5f8d-7e3b-483a-8de1-2b122010c1eb",
+  "metadata_created": "2020-02-10T16:10:10.710718",
+  "metadata_modified": "2025-05-05T11:07:32.602087",
+  "methodology": "Direct Observational Data/Anecdotal Data",
+  "name": "health-facilities-in-sub-saharan-africa",
+  "notes": "This master list of health facilities was developed from a variety of government and non-government sources from 50 countries in sub-Saharan Africa. It uses multiple geocoding methods to provide a comprehensive spatial inventory of 98 745 public health facilities. Each data record represents a health facility and has 8 descriptive variables – Location identifiers including: country, first level administrative division, latitude, longitude and LL source (source of the coordinates). Coordinates are rounded off to four decimal places for uniformity, allowing an accuracy of 5–10 metres in decimal degrees coordinate format. \r\n\r\nThis geocoded master facility list has been made publicly and freely available through both the [figshare repository](https://ndownloader.figshare.com/files/14379593) and through the [World Health Organization’s Global Malaria Programme](https://www.who.int/teams/global-malaria-programme) in Microsoft Excel format.\r\n\r\n",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "id": "hdx",
+    "name": "hdx",
+    "title": "HDX",
+    "type": "organization",
+    "description": "The Humanitarian Data Exchange (HDX) is an open data sharing platform managed by the United Nations Office for the Coordination of Humanitarian Affairs. The HDX organization is managed by the HDX data team and is used to share data on behalf of a number of partners",
+    "image_url": "http://labs.reliefweb.int/img/rw-thumbnail-hdx.png",
+    "created": "2014-04-02T12:19:44.486326",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "hdx",
+  "package_creator": "godfrey",
+  "pageviews_last_14_days": 87,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Angola\", \"Benin\", \"Botswana\", \"Burkina Faso\", \"Burundi\", \"Cameroon\", \"Central African Republic\", \"Chad\", \"Comoros\", \"Congo\", \"C\\u00f4te d'Ivoire\", \"Democratic Republic of the Congo\", \"Djibouti\", \"Equatorial Guinea\", \"Eritrea\", \"Eswatini\", \"Ethiopia\", \"Gabon\", \"Gambia\", \"Ghana\", \"Guinea\", \"Guinea-Bissau\", \"Kenya\", \"Lesotho\", \"Liberia\", \"Madagascar\", \"Malawi\", \"Mali\", \"Mauritania\", \"Mauritius\", \"Namibia\", \"Niger\", \"Nigeria\", \"Rwanda\", \"Sao Tome and Principe\", \"Senegal\", \"Seychelles\", \"Sierra Leone\", \"Somalia\", \"South Africa\", \"South Sudan\", \"Sudan\", \"Togo\", \"Uganda\", \"United Republic of Tanzania\", \"Zambia\", \"Zimbabwe\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Health Facilities in Sub-Saharan Africa",
+  "total_res_downloads": 4108,
+  "type": "dataset",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Angola",
+      "id": "ago",
+      "image_display_url": "",
+      "name": "ago",
+      "title": "Angola"
+    },
+    {
+      "description": "",
+      "display_name": "Benin",
+      "id": "ben",
+      "image_display_url": "",
+      "name": "ben",
+      "title": "Benin"
+    },
+    {
+      "description": "",
+      "display_name": "Botswana",
+      "id": "bwa",
+      "image_display_url": "",
+      "name": "bwa",
+      "title": "Botswana"
+    },
+    {
+      "description": "",
+      "display_name": "Burkina Faso",
+      "id": "bfa",
+      "image_display_url": "",
+      "name": "bfa",
+      "title": "Burkina Faso"
+    },
+    {
+      "description": "",
+      "display_name": "Burundi",
+      "id": "bdi",
+      "image_display_url": "",
+      "name": "bdi",
+      "title": "Burundi"
+    },
+    {
+      "description": "",
+      "display_name": "Cameroon",
+      "id": "cmr",
+      "image_display_url": "",
+      "name": "cmr",
+      "title": "Cameroon"
+    },
+    {
+      "description": "",
+      "display_name": "Central African Republic",
+      "id": "caf",
+      "image_display_url": "",
+      "name": "caf",
+      "title": "Central African Republic"
+    },
+    {
+      "description": "",
+      "display_name": "Chad",
+      "id": "tcd",
+      "image_display_url": "",
+      "name": "tcd",
+      "title": "Chad"
+    },
+    {
+      "description": "",
+      "display_name": "Comoros",
+      "id": "com",
+      "image_display_url": "",
+      "name": "com",
+      "title": "Comoros"
+    },
+    {
+      "description": "",
+      "display_name": "Congo",
+      "id": "cog",
+      "image_display_url": "",
+      "name": "cog",
+      "title": "Congo"
+    },
+    {
+      "description": "",
+      "display_name": "Côte d'Ivoire",
+      "id": "civ",
+      "image_display_url": "",
+      "name": "civ",
+      "title": "Côte d'Ivoire"
+    },
+    {
+      "description": "",
+      "display_name": "Democratic Republic of the Congo",
+      "id": "cod",
+      "image_display_url": "",
+      "name": "cod",
+      "title": "Democratic Republic of the Congo"
+    },
+    {
+      "description": "",
+      "display_name": "Djibouti",
+      "id": "dji",
+      "image_display_url": "",
+      "name": "dji",
+      "title": "Djibouti"
+    },
+    {
+      "description": "",
+      "display_name": "Equatorial Guinea",
+      "id": "gnq",
+      "image_display_url": "",
+      "name": "gnq",
+      "title": "Equatorial Guinea"
+    },
+    {
+      "description": "",
+      "display_name": "Eritrea",
+      "id": "eri",
+      "image_display_url": "",
+      "name": "eri",
+      "title": "Eritrea"
+    },
+    {
+      "description": "",
+      "display_name": "Eswatini",
+      "id": "swz",
+      "image_display_url": "",
+      "name": "swz",
+      "title": "Eswatini"
+    },
+    {
+      "description": "",
+      "display_name": "Ethiopia",
+      "id": "eth",
+      "image_display_url": "",
+      "name": "eth",
+      "title": "Ethiopia"
+    },
+    {
+      "description": "",
+      "display_name": "Gabon",
+      "id": "gab",
+      "image_display_url": "",
+      "name": "gab",
+      "title": "Gabon"
+    },
+    {
+      "description": "",
+      "display_name": "Gambia",
+      "id": "gmb",
+      "image_display_url": "",
+      "name": "gmb",
+      "title": "Gambia"
+    },
+    {
+      "description": "",
+      "display_name": "Ghana",
+      "id": "gha",
+      "image_display_url": "",
+      "name": "gha",
+      "title": "Ghana"
+    },
+    {
+      "description": "",
+      "display_name": "Guinea",
+      "id": "gin",
+      "image_display_url": "",
+      "name": "gin",
+      "title": "Guinea"
+    },
+    {
+      "description": "",
+      "display_name": "Guinea-Bissau",
+      "id": "gnb",
+      "image_display_url": "",
+      "name": "gnb",
+      "title": "Guinea-Bissau"
+    },
+    {
+      "description": "",
+      "display_name": "Kenya",
+      "id": "ken",
+      "image_display_url": "",
+      "name": "ken",
+      "title": "Kenya"
+    },
+    {
+      "description": "",
+      "display_name": "Lesotho",
+      "id": "lso",
+      "image_display_url": "",
+      "name": "lso",
+      "title": "Lesotho"
+    },
+    {
+      "description": "",
+      "display_name": "Liberia",
+      "id": "lbr",
+      "image_display_url": "",
+      "name": "lbr",
+      "title": "Liberia"
+    },
+    {
+      "description": "",
+      "display_name": "Madagascar",
+      "id": "mdg",
+      "image_display_url": "",
+      "name": "mdg",
+      "title": "Madagascar"
+    },
+    {
+      "description": "",
+      "display_name": "Malawi",
+      "id": "mwi",
+      "image_display_url": "",
+      "name": "mwi",
+      "title": "Malawi"
+    },
+    {
+      "description": "",
+      "display_name": "Mali",
+      "id": "mli",
+      "image_display_url": "",
+      "name": "mli",
+      "title": "Mali"
+    },
+    {
+      "description": "",
+      "display_name": "Mauritania",
+      "id": "mrt",
+      "image_display_url": "",
+      "name": "mrt",
+      "title": "Mauritania"
+    },
+    {
+      "description": "",
+      "display_name": "Mauritius",
+      "id": "mus",
+      "image_display_url": "",
+      "name": "mus",
+      "title": "Mauritius"
+    },
+    {
+      "description": "",
+      "display_name": "Namibia",
+      "id": "nam",
+      "image_display_url": "",
+      "name": "nam",
+      "title": "Namibia"
+    },
+    {
+      "description": "",
+      "display_name": "Niger",
+      "id": "ner",
+      "image_display_url": "",
+      "name": "ner",
+      "title": "Niger"
+    },
+    {
+      "description": "",
+      "display_name": "Nigeria",
+      "id": "nga",
+      "image_display_url": "",
+      "name": "nga",
+      "title": "Nigeria"
+    },
+    {
+      "description": "",
+      "display_name": "Rwanda",
+      "id": "rwa",
+      "image_display_url": "",
+      "name": "rwa",
+      "title": "Rwanda"
+    },
+    {
+      "description": "",
+      "display_name": "Sao Tome and Principe",
+      "id": "stp",
+      "image_display_url": "",
+      "name": "stp",
+      "title": "Sao Tome and Principe"
+    },
+    {
+      "description": "",
+      "display_name": "Senegal",
+      "id": "sen",
+      "image_display_url": "",
+      "name": "sen",
+      "title": "Senegal"
+    },
+    {
+      "description": "",
+      "display_name": "Seychelles",
+      "id": "syc",
+      "image_display_url": "",
+      "name": "syc",
+      "title": "Seychelles"
+    },
+    {
+      "description": "",
+      "display_name": "Sierra Leone",
+      "id": "sle",
+      "image_display_url": "",
+      "name": "sle",
+      "title": "Sierra Leone"
+    },
+    {
+      "description": "",
+      "display_name": "Somalia",
+      "id": "som",
+      "image_display_url": "",
+      "name": "som",
+      "title": "Somalia"
+    },
+    {
+      "description": "",
+      "display_name": "South Africa",
+      "id": "zaf",
+      "image_display_url": "",
+      "name": "zaf",
+      "title": "South Africa"
+    },
+    {
+      "description": "",
+      "display_name": "South Sudan",
+      "id": "ssd",
+      "image_display_url": "",
+      "name": "ssd",
+      "title": "South Sudan"
+    },
+    {
+      "description": "",
+      "display_name": "Sudan",
+      "id": "sdn",
+      "image_display_url": "",
+      "name": "sdn",
+      "title": "Sudan"
+    },
+    {
+      "description": "",
+      "display_name": "Togo",
+      "id": "tgo",
+      "image_display_url": "",
+      "name": "tgo",
+      "title": "Togo"
+    },
+    {
+      "description": "",
+      "display_name": "Uganda",
+      "id": "uga",
+      "image_display_url": "",
+      "name": "uga",
+      "title": "Uganda"
+    },
+    {
+      "description": "",
+      "display_name": "United Republic of Tanzania",
+      "id": "tza",
+      "image_display_url": "",
+      "name": "tza",
+      "title": "United Republic of Tanzania"
+    },
+    {
+      "description": "",
+      "display_name": "Zambia",
+      "id": "zmb",
+      "image_display_url": "",
+      "name": "zmb",
+      "title": "Zambia"
+    },
+    {
+      "description": "",
+      "display_name": "Zimbabwe",
+      "id": "zwe",
+      "image_display_url": "",
+      "name": "zwe",
+      "title": "Zimbabwe"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/eb1ba830-9464-43c8-9370-28cee0c99f5d/resource/341668a3-7066-46e4-aca0-fe09c57f9314/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-02-20T11:25:41.460117",
+      "datastore_active": false,
+      "description": "Master list of health facilities in sub-Saharan Africa.",
+      "download_url": "https://data.humdata.org/dataset/eb1ba830-9464-43c8-9370-28cee0c99f5d/resource/341668a3-7066-46e4-aca0-fe09c57f9314/download/suhsharan_health_facilities.zip",
+      "format": "SHP",
+      "hash": "\"7678fc6aabc87583e8face0febc1ced6\"",
+      "hdx_rel_url": "/dataset/eb1ba830-9464-43c8-9370-28cee0c99f5d/resource/341668a3-7066-46e4-aca0-fe09c57f9314/download/suhsharan_health_facilities.zip",
+      "id": "341668a3-7066-46e4-aca0-fe09c57f9314",
+      "last_modified": "2021-03-25T13:14:59",
+      "metadata_modified": "2025-03-10T23:40:11.810297",
+      "microdata": false,
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "Sub-Saharan_health_facilities.zip",
+      "originalHash": -658362866,
+      "p_coded": false,
+      "package_id": "eb1ba830-9464-43c8-9370-28cee0c99f5d",
+      "position": 0,
+      "resource_type": "file.upload",
+      "shape_info": "[{\"error_class\": \"None\", \"layer_id\": \"None\", \"error_type\": \"None\", \"state\": \"processing\", \"timestamp\": \"2020-11-24T20:00:11.377882\", \"message\": \"The processing of the geo-preview has started\"}, {\"error_class\": \"None\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"country\", \"data_type\": \"character varying\"}, {\"field_name\": \"admin1\", \"data_type\": \"character varying\"}, {\"field_name\": \"facility n\", \"data_type\": \"character varying\"}, {\"field_name\": \"facility t\", \"data_type\": \"character varying\"}, {\"field_name\": \"ownership\", \"data_type\": \"character varying\"}, {\"field_name\": \"lat\", \"data_type\": \"character varying\"}, {\"field_name\": \"long\", \"data_type\": \"character varying\"}, {\"field_name\": \"ll source\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"layer_id\": \"pre_341668a3_7066_46e4_aca0_fe09c57f9314\", \"error_type\": \"None\", \"bounding_box\": \"BOX(-25.3108 -34.7828,63.4801 25.2491)\", \"state\": \"success\", \"timestamp\": \"2021-05-11T21:46:31.930766\", \"message\": \"Import successful\"}, {\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2022-11-28T08:56:24.034935\"}, {\"state\": \"success\", \"message\": \"Import successful\", \"layer_id\": \"pre_341668a3_7066_46e4_aca0_fe09c57f9314\", \"error_type\": \"None\", \"error_class\": \"None\", \"bounding_box\": \"BOX(-25.3108 -34.7828,63.4801 25.2491)\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"country\", \"data_type\": \"character varying\"}, {\"field_name\": \"admin1\", \"data_type\": \"character varying\"}, {\"field_name\": \"facility n\", \"data_type\": \"character varying\"}, {\"field_name\": \"facility t\", \"data_type\": \"character varying\"}, {\"field_name\": \"ownership\", \"data_type\": \"character varying\"}, {\"field_name\": \"lat\", \"data_type\": \"character varying\"}, {\"field_name\": \"long\", \"data_type\": \"character varying\"}, {\"field_name\": \"ll source\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"timestamp\": \"2022-11-28T08:58:06.540741\"}]",
+      "size": 4280166,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/eb1ba830-9464-43c8-9370-28cee0c99f5d/resource/341668a3-7066-46e4-aca0-fe09c57f9314/download/suhsharan_health_facilities.zip",
+      "url_type": "upload"
+    },
+    {
+      "alt_url": "https://data.humdata.org/dataset/eb1ba830-9464-43c8-9370-28cee0c99f5d/resource/758d5c17-88f4-42b2-9d4b-4bfe32d4acf7/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2022-12-13T12:38:27.858667",
+      "datastore_active": false,
+      "description": "Master list of health facilities in sub-Saharan Africa.",
+      "download_url": "https://data.humdata.org/dataset/eb1ba830-9464-43c8-9370-28cee0c99f5d/resource/758d5c17-88f4-42b2-9d4b-4bfe32d4acf7/download/sub-saharan_health_facilities.xlsx",
+      "format": "XLSX",
+      "hash": "\"f6575aefb1116858432a060bb8a102fc\"",
+      "hdx_rel_url": "/dataset/eb1ba830-9464-43c8-9370-28cee0c99f5d/resource/758d5c17-88f4-42b2-9d4b-4bfe32d4acf7/download/sub-saharan_health_facilities.xlsx",
+      "id": "758d5c17-88f4-42b2-9d4b-4bfe32d4acf7",
+      "last_modified": "2022-12-13T12:38:29",
+      "metadata_modified": "2025-03-10T23:40:12.610643",
+      "microdata": false,
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "name": "Sub-Saharan_health_facilities.xlsx",
+      "originalHash": "-988266717",
+      "p_coded": false,
+      "package_id": "eb1ba830-9464-43c8-9370-28cee0c99f5d",
+      "pii": "false",
+      "position": 1,
+      "resource_type": "file.upload",
+      "size": 5160166,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/eb1ba830-9464-43c8-9370-28cee0c99f5d/resource/758d5c17-88f4-42b2-9d4b-4bfe32d4acf7/download/sub-saharan_health_facilities.xlsx",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "facilities-infrastructure",
+      "id": "e45272d8-6b73-4b8d-bb08-e880f8900df5",
+      "name": "facilities-infrastructure",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "health",
+      "id": "26fe3d20-9de7-436b-b47a-4f7f2e4547d0",
+      "name": "health",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "health facilities",
+      "id": "056666b8-0c90-46a7-9dda-47d27fa7ebf8",
+      "name": "health facilities",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hdx-0a7c15cd-9112-4c79-b5f9-959088f332d4",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T16:10:23Z",
+  "dct_title_s": "Satellite detected water extent over Matutuine District, Maputo Provinces, Mozambique as of 14 Mar. 2023",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code TC20230221MOZ, GDACS Id: 1000961** This map illustrates satellite-detected surface waters in Matutuine District, Maputo Province, Mozambique as observed from a Sentinel-1 image acquired on 14 Mar. 2023 at 18:30 local time and using an automated analysis with a machine learning method. Within the analyzed area of about 2,800 km2, about 30 km2 of land appear to be flooded. Water extent appears to have decreased by about 33 km2 since 2 Mar. 2023. Based on Worldpop population data and the detected surface waters in the analyzed area, the potentially exposed population is mainly located in the Bela Vista district, with ~300 people. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to the backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Mozambique"
+  ],
+  "locn_geometry": "ENVELOPE(30.18, 40.78, -10.32, -26.74)",
+  "dcat_bbox": "ENVELOPE(30.18, 40.78, -10.32, -26.74)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extent-over-matutuine-district-maputo-provinces-mozambique-as-of-14-mar-2023\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3533/TC20230221MOZ.gdb.zip\"}"
+}

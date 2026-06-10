@@ -1,0 +1,52 @@
+{
+  "id": "hdx-6a84f3b8-41cd-4769-a61f-6dbd5f61bd05",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-07-01T14:22:53Z",
+  "dct_title_s": "Qatar - Subnational Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Qatar administrative level 0-3 boundaries (COD-AB) dataset. The date that these administrative boundaries were established is unknown. This COD-AB was most recently reviewed for accuracy and necessary changes in April 2024. The COD-AB does not require any update. Sourced from Qatar planning and statistics authority Vetting by Information Technology Outreach Services (ITOS) with funding from USAID. This COD-AB is suitable for database or GIS linkage to the Qatar [COD-PS](https://data.humdata.org/dataset/cod-ps-qat). An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https://data.humdata.org/dataset/cod-em-qat). Please see the [COD Portal](https://cod.unocha.org/). Administrative level 1 contains 8 feature(s). The normal administrative level 1 feature type is \"\"Municipality\"\". Administrative level 2 contains 91 feature(s). The normal administrative level 2 feature type is \"\"Zone\"\". Administrative level 3 contains 781 feature(s). The normal administrative level 3 feature type is \"\"District\"\". Recommended cartographic projection: Asia South Albers Equal Area Conic This metadata was last updated on January 9, 2025."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Qatar planning and statistics authority"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_spatial_sm": [
+    "Qatar"
+  ],
+  "locn_geometry": "ENVELOPE(50.74, 51.61, 26.11, 24.56)",
+  "dcat_bbox": "ENVELOPE(50.74, 51.61, 26.11, 24.56)",
+  "dct_temporal_sm": [
+    "2015-2024"
+  ],
+  "gbl_indexYear_im": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "dct_format_s": "XLSX",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-qat\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/6a84f3b8-41cd-4769-a61f-6dbd5f61bd05/resource/0e8f139a-7324-41a8-9f24-54d4f8313c3c/download/qat_admgz_2024.xlsx\"}"
+}

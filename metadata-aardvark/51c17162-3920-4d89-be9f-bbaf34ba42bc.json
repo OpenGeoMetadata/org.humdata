@@ -1,0 +1,45 @@
+{
+  "id": "hdx-51c17162-3920-4d89-be9f-bbaf34ba42bc",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2022-06-30T20:11:19Z",
+  "dct_title_s": "Spatialized 100m school age population grid for Haiti, by educational level and sex, 2020",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This GeoTIFF file contains 12 bands presenting the school age population for Haiti in 2020. It was constructed using constrained UN-adjusted spatialized age and sex population estimates for 2020 by [WorldPop](https://hub.worldpop.org/geodata/summary?id=50431 \"Haiti 100m Age structures in 2020 with country total adjusted to match the corresponding UNDP estimate\"), by applying the methodology published by [IIEP-UNESCO](https://unesdoc.unesco.org/ark:/48223/pf0000379198 \"Estimating school-age populations by applying Sprague multipliers to raster data\") (2021). The bands contain information for Female, Male, and Total, for Pre-primary, Primary, Lower Secondary, and Upper secondary, reconstructed from single years of age using ISCED information on starting age and duration included in [UIS](http://data.uis.unesco.org/ \"UIS.Stat\"). The correspondence is included below: * Band 1: Pre-primary Female * Band 2: Pre-primary Male * Band 3: Pre-primary Total * Band 4: Primary Female * Band 5: Primary Male * Band 6: Primary Total * Band 7: Lower secondary Female * Band 8: Lower secondary Male * Band 9: Lower secondary Total * Band 10: Upper secondary Female * Band 11: Upper secondary Male * Band 12: Upper secondary Total The boundaries used for the clipping of the resulting calculations came from the [United Nations Second Administrative Level Boundary program](https://www.unsalb.org/data/hti \"Haiti\"). Disclaimer: The designations employed and the presentation of the material in this publication do not imply the expression of any opinion whatsoever on the part of UNESCO or IIEP concerning the legal status of any country, territory, city or area, or of its authorities, or concerning the delimitation of its frontiers or boundaries. UNESCO or IIEP are not responsible for the use given to this information."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "IIEP-UNESCO"
+  ],
+  "dcat_keyword_sm": [
+    "baseline population",
+    "demographics",
+    "education",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "baseline population",
+    "demographics",
+    "education",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Haiti"
+  ],
+  "locn_geometry": "ENVELOPE(-74.46, -71.62, 19.92, 18.03)",
+  "dcat_bbox": "ENVELOPE(-74.46, -71.62, 19.92, 18.03)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/spatialized-100m-school-age-population-grid-for-haiti-by-educational-level-and-sex\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/51c17162-3920-4d89-be9f-bbaf34ba42bc/resource/adb8c71d-1d51-4456-8d17-87171976634a/download/haiti-school-age-population.tif\"}"
+}

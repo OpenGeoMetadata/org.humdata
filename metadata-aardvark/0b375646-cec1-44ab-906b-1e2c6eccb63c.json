@@ -1,0 +1,43 @@
+{
+  "id": "hdx-0b375646-cec1-44ab-906b-1e2c6eccb63c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-09-24T20:48:53Z",
+  "dct_title_s": "Global Edge-matched Subnational Boundaries - Humanitarian",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Original site: https://fieldmaps.io/data Uses Common Operational Datasets (COD) when available, falling back to geoBoundaries for regions without coverage of subnational administrative geodata. Represents the latest available data for humanitarian operational use. Polygons contain only data for the most detailed admin level available, which may not be ADM4 depending on the source. Higher admin levels can be obtained by dissolving by attributes. Lines and points are intended for cartographic applications."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "FieldMaps, OCHA, geoBoundaries, U.S. Department of State, OpenStreetMap"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/global-edge-matched-subnational-boundaries-humanitarian\",\"http://schema.org/downloadUrl\":\"https://data.fieldmaps.io/edge-matched/humanitarian/intl/adm4_polygons.gpkg.zip\"}"
+}

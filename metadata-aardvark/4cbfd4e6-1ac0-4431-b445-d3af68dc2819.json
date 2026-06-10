@@ -1,0 +1,41 @@
+{
+  "id": "hdx-4cbfd4e6-1ac0-4431-b445-d3af68dc2819",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T17:49:52Z",
+  "dct_title_s": "Satellite detected water extent over Sylhet, Mymensingh, Dhaka, and Chattogram Divisions, Bangladesh as of 19 June 2022.",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20220525BGD** This map illustrates satellite-detected surface waters in Sylhet, Mymensingh, Dhaka, and Chattogram Divisions, Bangladesh as observed from a RCM-1 images acquired on 19 Jun. 2022 at 18:02 local time. Within the analyzed area of about 22,300 km2, about 9,500 km2 of lands appear to be flooded. Water extent appears to have increased of about 2,150 km2 since the period between 25 to 28 May 2022. Based on Worldpop population data and the detected surface waters in the analyzed area, the potentially exposed population is mainly located in the district of Sunamganj with ~1,822,000 people and Sylhet with ~1,550,000 people. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Bangladesh"
+  ],
+  "locn_geometry": "ENVELOPE(88.08, 92.67, 26.45, 20.67)",
+  "dcat_bbox": "ENVELOPE(88.08, 92.67, 26.45, 20.67)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extent-over-sylhet-mymensingh-dhaka-and-chattogram-divisions-bangladesh-as-of-19-jun\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/BD/FL20220525BGD/FL20220525BGD_gdb.zip\"}"
+}

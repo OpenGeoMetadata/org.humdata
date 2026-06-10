@@ -1,0 +1,41 @@
+{
+  "id": "hdx-39f0bf0e-98e3-42ea-929d-947bf7f7f30c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T17:25:57Z",
+  "dct_title_s": "Satellite detected water extent in Cibao Nordeste and Cibao Sur Regions, Dominican Republic as of 18 November 2023",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20231120DOM, GDACS ID: 1102342** This map illustrates cumulative satellite-detected water extent in CIbao Nordeste and Cibao Sur Regions, Dominican Republic as observed from a Sentinel-1 image acquired on the 18 November 2023 at 18:53 local time. Within the extent of this map, about 55 km² of land appears to be affected with flood waters and about 10,500 people are potentially exposed to flood waters This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to the United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Dominican Republic"
+  ],
+  "locn_geometry": "ENVELOPE(-71.95, -68.32, 19.88, 17.6)",
+  "dcat_bbox": "ENVELOPE(-71.95, -68.32, 19.88, 17.6)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extent-in-cibao-nordeste-and-cibao-sur-regions-dominican-republic-as-of-18-november-\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3747/FL20231120DOM_gdb.zip\"}"
+}

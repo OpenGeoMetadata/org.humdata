@@ -1,0 +1,41 @@
+{
+  "id": "hdx-69d4820c-c1bd-4938-9409-877e06c284dc",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T18:28:34Z",
+  "dct_title_s": "Satellite detected water extents over Lambayeque and Piura Province Provinces, Peru  as of 1 April 2023",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code FL20230321PER, GDACS Id: 1365556** This map illustrates satellite-detected water using Sentinel-2 acquired on 1 April 2023, 10:36 local time over Lambayeque and Piura Provinces, Peru. Within the cloud free analyzed areas of about 13,000 km², a total of about 1,000 km² of lands appear to be affected with flood waters. Based on Worldpop population data and the flood water extent, ~13,000 people are potentially exposed or living close to flooded areas mainly located in District of Piura with ~3,800 people, Piura District with ~3,800 people, Sechura with ~3,800 people, and Lambayeque ~3,600 people This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to the United Nations Satellite Centre (UNOSAT)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Peru"
+  ],
+  "locn_geometry": "ENVELOPE(-81.41, -68.67, -0.06, -18.35)",
+  "dcat_bbox": "ENVELOPE(-81.41, -68.67, -0.06, -18.35)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extents-over-lambayeque-and-piura-province-provinces-peru-as-of-1-april-2023\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3555/FL20230321PER_gdb.zip\"}"
+}

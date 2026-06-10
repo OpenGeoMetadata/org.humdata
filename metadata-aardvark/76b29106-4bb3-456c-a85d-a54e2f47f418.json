@@ -1,0 +1,41 @@
+{
+  "id": "hdx-76b29106-4bb3-456c-a85d-a54e2f47f418",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-10-20T14:46:15Z",
+  "dct_title_s": "Geodata of Elevation Map of Kalobeyei, Turkana County, Kenya",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This map illustrates topographic features in the planned Kalobeyei site, Turkana County, Kenya using a Digital Elevation Model derived from imagery with 1m resolution. UNITAR-UNOSAT built water levels scenarios that represents the potentially affected areas along the modelled stream network assuming a static raising of waters of 1 meter, 2 meters and 3 meters. Streamlines and static water levels has been extracted from a Hydrologically Conditioned version of the DEM derived from WorldView-2 Imagery with 5 m resolution. The model shows spatial distribution of potential water levels in the basin based on the elevation extracted from the DEM but does not represent a current flood scenario. This is a preliminary analysis & has not yet been validated in the field. Please send ground feedback to UNITAR - UNOSAT."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UNOSAT"
+  ],
+  "dcat_keyword_sm": [
+    "complex emergency-conflict-security",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "complex emergency-conflict-security",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "South Sudan"
+  ],
+  "locn_geometry": "ENVELOPE(23.89, 35.3, 12.25, 3.51)",
+  "dcat_bbox": "ENVELOPE(23.89, 35.3, 12.25, 3.51)",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "gbl_indexYear_im": [
+    2015
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/geodata-of-elevation-map-of-kalobeyei-turkana-county-kenya-july-01-2015\",\"http://schema.org/downloadUrl\":\"https://cern.ch/unosat-maps/SS/CE20131218SSD/Static_Water_Levels_Kalobeyei_Kenya_shp.zip\"}"
+}

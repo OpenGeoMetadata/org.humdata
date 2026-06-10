@@ -1,0 +1,41 @@
+{
+  "id": "hdx-f199c049-2845-421b-81c8-f16eb522e689",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2024-05-17T13:29:43Z",
+  "dct_title_s": "Global LSIB Polygons Detailed",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "The Office of the Geographer’s Global Large Scale International Boundary Detailed Polygons file combines two datasets, the Office of the Geographer’s Large Scale International Boundary Lines and NGA shoreline data. The LSIB is believed to be the most accurate worldwide (non- W. Europe) international boundary vector line file available. The lines reflect U.S. government (USG) policy and thus not necessarily de facto control. The 1:250,000 scale World Vector Shoreline (WVS) coastline data was used in places and is generally shifted by several hundred meters to over a km. There are no restrictions on use of this public domain data. The Tesla Government PiX team performed topology checks and other GIS processing while merging data sets, created more accurate island shoreline in numerous cases, and worked closely with the US Dept. of State Office of the Geographer on quality control checks. Methodology: Tesla Government’s Protected Internet Exchange (PiX) GIS team converted the LSIB linework and the island data provided by the State Department to polygons. The LSIB Admin 0 world polygons (Admin 0 polygons) were created by conflating the following datasets: Eurasia_Oceania_LSIB7a_gen_polygons, Africa_Americas_LSIB7a_gen_polygons, Africa_Americas_LSIB7a, Eurasia_LSIB7a, additional updates from LSIB8, WVS shoreline data, and other shoreline data from United States Government (USG) sources. The two simplified polygon shapefiles were merged, dissolved, and converted to lines to create a single global coastline dataset. The two detailed line shapefiles (Eurasia_LSIB7a and Africa_Americas_LSIB7a) were merged with each other and the coastlines to create an international boundary shapefile with coastlines. The dataset was reviewed for the following topological errors: must not self overlap, must not overlap, and must not have dangles. Once all topological errors were fixed, the lines were converted to polygons. Attribution was assigned by exploding the simplified polygons into multipart features, converting to centroids, and spatially joining with the newly created dataset. The polygons were then dissolved by country name. Another round of QC was performed on the dataset through the data reviewer tool to ensure that the conversion worked correctly. Additional errors identified during this process consisted of islands shifted from their true locations and not representing their true shape; these were adjusted using high resolution imagery whereupon a second round of QC was applied with SRTM digital elevation model data downloaded from USGS. The same procedure was performed for every individual island contained in the islands from other USG sources. After the island dataset went through another round of QC, it was then merged with the Admin 0 polygon shapefile to form a comprehensive world dataset. The entire dataset was then evaluated, including for proper attribution for all of the islands, by the Office of the Geographer."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "U.S. Department of State - Humanitarian Information Unit"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "gbl_indexYear_im": [
+    2017
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/global-lsib-polygons-detailed\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/f199c049-2845-421b-81c8-f16eb522e689/resource/f0c6084f-7856-43c4-b56d-3f288b6e3ea5/download/global_lsib_polygons_detailed.zip\"}"
+}

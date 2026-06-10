@@ -1,0 +1,41 @@
+{
+  "id": "hdx-1c9cf1eb-c20a-4a06-8309-9416464af746",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-09-04T14:36:13Z",
+  "dct_title_s": "Global exposed economic stock",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "The Global Exposure Database for GAR: A Global exposure database was developed for GAR15 by UNEP-GRID with close collaboration and inputs from WAPMERR (World Agency of Planetary Monitoring and Earthquake Risk Reduction), EU Joint Research Center (JRC), and Kokusai Kogyo. This database includes estimation on the economic value of the exposed assets, as well as their physical characteristics in urban and rural agglomerations. This information is key to assess the potential damages from different hazards to each of the exposed elements. The global exposure database is developed at 1km spatial resolution at coastal areas and at 5km spatial resolution everywhere else on the globe. It includes economic value, number of residents, and construction type of residential, commercial and industrial buildings, as well as hospitals and schools (De Bono et al., 2015)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "United Nations Environment Programme (UNEP)"
+  ],
+  "dcat_keyword_sm": [
+    "economics",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "economics",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "gbl_indexYear_im": [
+    2015
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/exposed-economic-stock\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/1c9cf1eb-c20a-4a06-8309-9416464af746/resource/e321d56d-022e-4070-80ac-f7860646408d/download/gar-exp.zip\"}"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hdx-e72c805d-40e1-4fa1-b32d-0bc77c2bf903",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2023-05-16T06:31:59Z",
+  "dct_title_s": "Colombia Subnational Population and Housing Data Tables with Administrative Boundaries, Based on National Census and Surveys",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "The geodatabase contains boundaries for the national and first-, second-, and third-order administrative divisions, aligned to the Large Scale International Boundaries dataset from the U.S. Department of State. The feature classes are suitable for linking to the attribute data provided. The tabular data contain total population for 2018 (census), as well as five-year age group and sex, and information relating to individuals, indigenous groups, households, housing, poverty, health, and agriculture. An additional table contains subnational population estimates and projections by 5-year age group and sex for the years 2015 to 2030, based on trends between Colombia’s 2005 and 2018 populations censuses."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "U.S. Census Bureau"
+  ],
+  "dct_spatial_sm": [
+    "Colombia"
+  ],
+  "locn_geometry": "ENVELOPE(-78.99, -66.88, 12.44, -4.3)",
+  "dcat_bbox": "ENVELOPE(-78.99, -66.88, 12.44, -4.3)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/colombia-subnational-boundaries-and-tabular-data\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/e72c805d-40e1-4fa1-b32d-0bc77c2bf903/resource/10108ba6-2229-421a-ba5f-e974751dbc31/download/colombia.gdb.zip\"}"
+}

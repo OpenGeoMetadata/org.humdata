@@ -1,0 +1,41 @@
+{
+  "id": "hdx-54f54199-155f-48e6-ae5b-8d012aadc80c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-21T15:26:59Z",
+  "dct_title_s": "Satellite detected waters extents, as of 23 October 2019 over Unity, Jonglei and Lakes State of South Sudan",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20191023SSD** This map illustrates satellite-detected surface water in Unity, Jonglei and Lakes State of South Sudan as observed from Sentinel-1 imagery acquired on 23 October 2019. Within the analysed extent of about 85,000 km2, a total about 1,180 km2 of land appear to be flooded. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR - UNOSAT. Important Note: Flood analysis from Sentinel-1 imagery acquired on 23 October 2019 may seriously underestimate the presence of standing floodwater in built-up areas due to backscattering of the radar signal"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "South Sudan"
+  ],
+  "locn_geometry": "ENVELOPE(23.89, 35.3, 12.25, 3.51)",
+  "dcat_bbox": "ENVELOPE(23.89, 35.3, 12.25, 3.51)",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "gbl_indexYear_im": [
+    2019
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/waters-extents-as-of-23-october-2019-over-unity-jonglei-and-lakes-state-of-south-sudan\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/unosat-maps/SS/FL20191023SSD/FL20191023SSD_gdb.zip\"}"
+}

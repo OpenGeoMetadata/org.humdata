@@ -1,0 +1,41 @@
+{
+  "id": "hdx-38653ca8-d681-4761-9712-b263b90e01de",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-24T15:26:32Z",
+  "dct_title_s": "Satellite detected water extent over Barisal, Dhaka and Khulna Divisions, Bangladesh as of 1 June 2024",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20240502BGD, GDACS ID: 1001064** This map illustrates satellite-detected surface waters in Barisal, Dhaka and Khulna Divisions, Bangladesh as observed from a Sentinel-1 images acquired on 1 June 2024 at 05:56 local time and using an automated analysis with machine learning method. Within the analyzed area of about 52,000 km2, about 1,000 km2 of land appears to be flooded. Based on Worldpop population data and the detected surface waters in the analyzed area, the potentially exposed population is mainly located in the district of Bagerhat, Khulna Division with ~96,000 people, and Barguna, Barisal Division with ~74,000 people. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to the United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Bangladesh"
+  ],
+  "locn_geometry": "ENVELOPE(88.08, 92.67, 26.45, 20.67)",
+  "dcat_bbox": "ENVELOPE(88.08, 92.67, 26.45, 20.67)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extent-over-barisal-dhaka-and-khulna-divisions-bangladesh-as-of-1-june-2024\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3865/FL20240502BGD_SHP.zip\"}"
+}

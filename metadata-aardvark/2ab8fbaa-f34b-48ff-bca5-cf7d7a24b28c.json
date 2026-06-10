@@ -1,0 +1,39 @@
+{
+  "id": "hdx-2ab8fbaa-f34b-48ff-bca5-cf7d7a24b28c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-06-25T01:58:24Z",
+  "dct_title_s": "Central African Republic - Subnational Edge-matched Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Central African Republic administrative level 0-3 and Bangui level 4 gazetteer, shapefiles, geodatabase, and geoservice. COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-caf); however COD-EM datasets may be preferred for cartographic purposes. See caveats. These layers are suitable for database or GIS linkage to the [Central African Republic - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-caf) tables using the ADM0, ADM1, ADM2, and ADM3_PCODE fields. Vetting by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Agency for Technical Cooperation and Development (ACTED) and ITOS"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions"
+  ],
+  "dct_spatial_sm": [
+    "Central African Republic"
+  ],
+  "locn_geometry": "ENVELOPE(14.46, 27.37, 11.14, 2.27)",
+  "dcat_bbox": "ENVELOPE(14.46, 27.37, 11.14, 2.27)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "XLSX",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-em-caf\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/2ab8fbaa-f34b-48ff-bca5-cf7d7a24b28c/resource/49796ee7-58b6-42c8-9b77-6682cefbb2f1/download/caf_adminboundaries_tabulardata.xlsx\"}"
+}

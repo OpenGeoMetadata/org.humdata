@@ -1,0 +1,39 @@
+{
+  "id": "hdx-065a4231-355b-495f-8c43-e2e99cbc824a",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T16:11:54Z",
+  "dct_title_s": "ICA Sudan, 2018 - Estimated Numbers of Food Insecure People, 2014-2017",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This layer contains information about the numbers of food insecure people - by first-level administrative unit - estimated for the purposes of the Integrated Context Analysis (ICA) run in Mali in 2017. It should be noted that estimates of food insecure people were available only starting from 2014 onwards and, due to access constraints, some of the states were not covered by the survey. Data source: Integrated Phase Classification (IPC), 2014-2017. The main indicators used for the analysis were the percentage of food insecure population for long-term planning and the additional population figures in case of a major shock."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP GeoNode"
+  ],
+  "dcat_keyword_sm": [
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Sudan"
+  ],
+  "locn_geometry": "ENVELOPE(21.94, 38.41, 22.0, 8.62)",
+  "dcat_bbox": "ENVELOPE(21.94, 38.41, 22.0, 8.62)",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "gbl_indexYear_im": [
+    2018
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/ica-sudan-2018-estimated-numbers-of-food-insecure-people-2014-2017\",\"http://schema.org/downloadUrl\":\"https://geonode.wfp.org/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Asdn_ica_adm1_estimatedfipeople_geonode_20180201&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature\"}"
+}

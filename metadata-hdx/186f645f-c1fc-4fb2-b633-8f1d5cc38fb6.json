@@ -17,7 +17,7 @@
   "license_title": "odc-odbl",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2024-11-19T10:20:42.061983",
-  "metadata_modified": "2026-03-02T17:13:35.148339",
+  "metadata_modified": "2026-06-06T09:10:41.676402",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
   "name": "denmark-road-surface-data",
@@ -38,7 +38,7 @@
   },
   "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
   "package_creator": "sukanya-randhawa-6497",
-  "pageviews_last_14_days": 1,
+  "pageviews_last_14_days": 0,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Denmark\"]}",
@@ -62,6 +62,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:20:42.075277",
@@ -73,7 +74,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_dnk_roadsurface_lines.geojson",
       "id": "cb23e58a-1d46-4fb3-a3a2-04d1c5a28520",
       "last_modified": "2024-11-19T10:20:42.041742",
-      "metadata_modified": "2026-03-02T17:13:35.272526",
+      "metadata_modified": "2026-06-06T09:10:42.241031",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -88,6 +89,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:20:42.075283",
@@ -99,7 +101,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_dnk_roadsurface_lines.gpkg",
       "id": "eaa0eca1-f978-4ea1-afc3-0a2eece36fdb",
       "last_modified": "2024-11-19T10:20:42.041961",
-      "metadata_modified": "2025-08-26T11:37:08.545925",
+      "metadata_modified": "2026-06-06T09:10:42.241339",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

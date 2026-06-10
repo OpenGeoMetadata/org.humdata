@@ -1,0 +1,50 @@
+{
+  "id": "hdx-55865adf-fb21-40b9-b6af-4e99f3f2d55a",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T18:09:08Z",
+  "dct_title_s": "Haiti - UNHAS landing sites",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains the locations of the Helicopter landing sites currently served by UNHAS in Haiti."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP, GLC, GeoNames, UNHAS and Openstreetmap "
+  ],
+  "dcat_keyword_sm": [
+    "aviation",
+    "cyclones-hurricanes-typhoons",
+    "geodata",
+    "logistics"
+  ],
+  "dct_subject_sm": [
+    "aviation",
+    "cyclones-hurricanes-typhoons",
+    "geodata",
+    "logistics"
+  ],
+  "dct_spatial_sm": [
+    "Haiti"
+  ],
+  "locn_geometry": "ENVELOPE(-74.46, -71.62, 19.92, 18.03)",
+  "dcat_bbox": "ENVELOPE(-74.46, -71.62, 19.92, 18.03)",
+  "dct_temporal_sm": [
+    "2016-2021"
+  ],
+  "gbl_indexYear_im": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "dct_format_s": "KML",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/haiti-unhas-helicopter-landing-zones\",\"http://schema.org/downloadUrl\":\"http://geonode.wfp.org/geoserver/wms/kml?layers=geonode%3Awld_trs_airports_wfp&mode=download&CQL_FILTER=(iso3_op=%27HTI%27%20AND%20humuse%3C%3E%27Connection%27)\"}"
+}

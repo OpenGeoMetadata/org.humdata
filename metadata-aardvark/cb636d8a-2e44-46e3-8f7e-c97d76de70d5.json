@@ -1,0 +1,41 @@
+{
+  "id": "hdx-cb636d8a-2e44-46e3-8f7e-c97d76de70d5",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-04-28T13:57:39Z",
+  "dct_title_s": "Burkina Faso: Roads",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains roads data from OpenStreetMap for which attributes and classifications have been enhanced using maps from the government. The new classifications added based on the government maps are using the attribute igb_class: - Igb_class = 2: for Major roads - Igb_class = 1 or 3 : for Minor roads"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors and other partners "
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "roads"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "roads"
+  ],
+  "dct_spatial_sm": [
+    "Burkina Faso"
+  ],
+  "locn_geometry": "ENVELOPE(-5.47, 2.18, 15.12, 9.61)",
+  "dcat_bbox": "ENVELOPE(-5.47, 2.18, 15.12, 9.61)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/burkina-faso-roads\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/cb636d8a-2e44-46e3-8f7e-c97d76de70d5/resource/d579b75d-58d5-46f9-af8f-4211b49cac5f/download/bfa_trs_roads_osm-hdx.zip\"}"
+}

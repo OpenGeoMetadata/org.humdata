@@ -1,0 +1,39 @@
+{
+  "id": "hdx-78876a1f-d02e-4bff-bb2b-16b66888074d",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-05-23T18:09:40Z",
+  "dct_title_s": "South Georgia and the South Sandwich Islands: IBTrACS Storm Tracks",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "The International Best Track Archive for Climate Stewardship (IBTrACS) project is the most complete global collection of tropical cyclones available. It merges recent and historical tropical cyclone data from multiple agencies to create a unified, publicly available, best-track dataset that improves inter-agency comparisons. Fields available: SID: A unique storm identifier (SID) assigned by IBTrACS algorithm. ISO_TIME: Time of the observation in ISO format (YYYY-MM-DD hh:mm:ss) BASIN: Basin of the current storm position SUBBASIN: Sub-basin of the current storm position NATURE: Type of storm (a combination of the various types from the available sources) NUMBER: Number of the storm for the year (restarts at 1 for each year LAT: Mean position - latitude (a combination of the available positions) LON: Mean position - longitude (a combination of the available positions) WMO_WIND: Maximum sustained wind speed assigned by the responsible WMO agency WMO_PRES: Minimum central pressure assigned by the responsible WMO agency."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "National Oceanic and Atmospheric Administration (NOAA) / National Centers for Environmental Information (NCEI)"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "hxl"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "hxl"
+  ],
+  "dct_spatial_sm": [
+    "South Georgia and the South Sandwich Islands"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "gbl_indexYear_im": [
+    2010
+  ],
+  "dct_format_s": "CSV",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/sgs-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/78876a1f-d02e-4bff-bb2b-16b66888074d/resource/03941f9d-8881-4f99-b807-89ff2421c0b4/download/ibtracs_all_list_v04r01_lines_sgs.geojson\"}"
+}

@@ -1,0 +1,251 @@
+{
+  "archived": true,
+  "creator_user_id": "6ed76a77-b225-4149-a8fb-4961af3269ad",
+  "data_update_frequency": "-1",
+  "dataset_date": "[1998-01-01T00:00:00 TO 2014-12-31T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "ECOWAS Centre for Renewable Energy and Energy Efficiency (ECREEE)",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "b8c6efd8-1da7-4206-a9b9-b025ac218efe",
+  "is_requestdata_type": false,
+  "isopen": true,
+  "last_modified": "2017-06-20T17:55:15.642043",
+  "license_id": "cc-by-sa",
+  "license_title": "Creative Commons Attribution Share-Alike (CC BY-SA)",
+  "license_url": "http://www.opendefinition.org/licenses/cc-by-sa",
+  "maintainer": "e32d5afb-cc7e-4715-85b7-5a3b849443f5",
+  "metadata_created": "2017-06-20T17:52:03.386838",
+  "metadata_modified": "2024-03-29T04:45:47.761435",
+  "methodology": "Other",
+  "methodology_other": "1. A climatic zones classification was determined based on an existing classification by L’Hôte et al. 1996 that has been developed with a special focus on West Africa and applicability for hydrological purposes, summarizing and consolidating many previous attempts of classifying West African climate. The classification is widely used in regional studies, as e.g. in the Andersen et al. 2005 study on the Niger River Basin, from which the English denominations of the originally French climatic zone names were derived. Climatic zone limits are based on mean annual and seasonal precipitation:\r\n1) Desert: Mean Annual Precipitation (MAP) < 100 mm\r\n2) Semiarid desert: MAP < 400 mm\r\n3) Semiarid tropical: MAP < 700 mm\r\n4) Pure tropical: MAP < 1000 mm\r\n5) Transitional tropical: MAP > 1000 mm, one wet season\r\n6) Transitional equatorial: MAP > 1000 mm, two wet seasons\r\n\r\n2. The geographical location of the climatic zone boundaries was derived from the long-term annual mean of daily precipitation data for 1998-2014 of the Tropical Rainfall Measuring Mission (TRMM, a joint U.S.-Japan satellite mission to monitor tropical and subtropical precipitation). Limits between zone 5, transitional tropical climate, and zone 6, transitional equatorial climate, were adopted from the map of L`Hôte et al. 1996. Their limits are based on seasonal precipitation and on previous climate zone classification limits.\r\n\r\n3. The resulting polygons were generalized (smoothing of polygon boundaries, removal of islands).\r\n\r\nThe climate change projections were extracted from 30 Regional Climate Model (RCM) runs included in the CORDEX-Africa ensemble for the representative concentration pathways RCP4.5 and RCP8.5. Future change in potential evapotranspiration was estimated using an empirical relationship between air temperature and potential evapotranspiration",
+  "name": "climatic-zones-in-west-africa",
+  "notes": "This dataset shows the extent of six climatic zones for West Africa.It is not intended for local studies but only for regional comparison. The dataset is one of the outputs of a complete GIS mapping study to calculate the hydropower potential of all West African rivers. The project was developed by ECREEE, the ECOWAS Regional Centre for Renewable Energy and Energy Efficiency, under the Small Scale Hydropower Program. For more information please go here:  http://www.ecowrex.org/smallhydro",
+  "num_resources": 1,
+  "num_tags": 3,
+  "organization": {
+    "id": "b4705e24-9c23-4bd1-ba2f-7b02b0b4ecb5",
+    "name": "ecreee",
+    "title": "ECOWAS Centre for Renewable Energy and Energy Efficiency (ECREEE) (inactive)",
+    "type": "organization",
+    "description": "The ECOWAS Centre for Renewable Energy and Energy Efficiency (ECREEE) aims at the establishment of an enabling environment for renewable energy and energy efficiency investments and markets within the ECOWAS region. It is a specialized agency based in Cabo Verde which coordinates and executes regional programs, projects and activities in the areas of capacity and policy development, information and data sharing, as well as investment and business promotion. The ECOWAS Observatory for Renewable Energy and Energy Efficiency (ECOWREX) is a web-based information platform established by ECREEE to address poor data quality and information pertaining to the energy sector in the ECOWAS region at the same time providing decision makers, project developers, investors and other stakeholders with tailored energy information and energy planning tool.",
+    "image_url": "",
+    "created": "2017-06-06T19:55:02.666027",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "b4705e24-9c23-4bd1-ba2f-7b02b0b4ecb5",
+  "package_creator": "ecowrex",
+  "pageviews_last_14_days": 6,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Benin\", \"Burkina Faso\", \"Cameroon\", \"Chad\", \"C\\u00f4te d'Ivoire\", \"Gambia\", \"Ghana\", \"Guinea\", \"Guinea-Bissau\", \"Liberia\", \"Mali\", \"Mauritania\", \"Niger\", \"Nigeria\", \"Senegal\", \"Sierra Leone\", \"Togo\", \"Western Sahara\"]}",
+  "state": "active",
+  "subnational": "0",
+  "title": "Climatic zones in West Africa",
+  "total_res_downloads": 424,
+  "type": "dataset",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Benin",
+      "id": "ben",
+      "image_display_url": "",
+      "name": "ben",
+      "title": "Benin"
+    },
+    {
+      "description": "",
+      "display_name": "Burkina Faso",
+      "id": "bfa",
+      "image_display_url": "",
+      "name": "bfa",
+      "title": "Burkina Faso"
+    },
+    {
+      "description": "",
+      "display_name": "Cameroon",
+      "id": "cmr",
+      "image_display_url": "",
+      "name": "cmr",
+      "title": "Cameroon"
+    },
+    {
+      "description": "",
+      "display_name": "Chad",
+      "id": "tcd",
+      "image_display_url": "",
+      "name": "tcd",
+      "title": "Chad"
+    },
+    {
+      "description": "",
+      "display_name": "Côte d'Ivoire",
+      "id": "civ",
+      "image_display_url": "",
+      "name": "civ",
+      "title": "Côte d'Ivoire"
+    },
+    {
+      "description": "",
+      "display_name": "Gambia",
+      "id": "gmb",
+      "image_display_url": "",
+      "name": "gmb",
+      "title": "Gambia"
+    },
+    {
+      "description": "",
+      "display_name": "Ghana",
+      "id": "gha",
+      "image_display_url": "",
+      "name": "gha",
+      "title": "Ghana"
+    },
+    {
+      "description": "",
+      "display_name": "Guinea",
+      "id": "gin",
+      "image_display_url": "",
+      "name": "gin",
+      "title": "Guinea"
+    },
+    {
+      "description": "",
+      "display_name": "Guinea-Bissau",
+      "id": "gnb",
+      "image_display_url": "",
+      "name": "gnb",
+      "title": "Guinea-Bissau"
+    },
+    {
+      "description": "",
+      "display_name": "Liberia",
+      "id": "lbr",
+      "image_display_url": "",
+      "name": "lbr",
+      "title": "Liberia"
+    },
+    {
+      "description": "",
+      "display_name": "Mali",
+      "id": "mli",
+      "image_display_url": "",
+      "name": "mli",
+      "title": "Mali"
+    },
+    {
+      "description": "",
+      "display_name": "Mauritania",
+      "id": "mrt",
+      "image_display_url": "",
+      "name": "mrt",
+      "title": "Mauritania"
+    },
+    {
+      "description": "",
+      "display_name": "Niger",
+      "id": "ner",
+      "image_display_url": "",
+      "name": "ner",
+      "title": "Niger"
+    },
+    {
+      "description": "",
+      "display_name": "Nigeria",
+      "id": "nga",
+      "image_display_url": "",
+      "name": "nga",
+      "title": "Nigeria"
+    },
+    {
+      "description": "",
+      "display_name": "Senegal",
+      "id": "sen",
+      "image_display_url": "",
+      "name": "sen",
+      "title": "Senegal"
+    },
+    {
+      "description": "",
+      "display_name": "Sierra Leone",
+      "id": "sle",
+      "image_display_url": "",
+      "name": "sle",
+      "title": "Sierra Leone"
+    },
+    {
+      "description": "",
+      "display_name": "Togo",
+      "id": "tgo",
+      "image_display_url": "",
+      "name": "tgo",
+      "title": "Togo"
+    },
+    {
+      "description": "",
+      "display_name": "Western Sahara",
+      "id": "esh",
+      "image_display_url": "",
+      "name": "esh",
+      "title": "Western Sahara"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/b8c6efd8-1da7-4206-a9b9-b025ac218efe/resource/dc9778d3-bee4-4103-95e4-dd7debbd6d6f/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-06-20T17:52:15.764731",
+      "datastore_active": false,
+      "description": "This dataset shows the extent of six climatic zones for West Africa.It is not intended for local studies but only for regional comparison. The dataset is one of the outputs of a complete GIS mapping study to calculate the hydropower potential of all West African rivers. The project was developed by ECREEE, the ECOWAS Regional Centre for Renewable Energy and Energy Efficiency, under the Small Scale Hydropower Program. For more information please go here:  http://www.ecowrex.org/smallhydro",
+      "download_url": "https://data.humdata.org/dataset/b8c6efd8-1da7-4206-a9b9-b025ac218efe/resource/dc9778d3-bee4-4103-95e4-dd7debbd6d6f/download/climatic_zones_west_africa.gpkg",
+      "format": "Geopackage",
+      "hash": "",
+      "hdx_rel_url": "/dataset/b8c6efd8-1da7-4206-a9b9-b025ac218efe/resource/dc9778d3-bee4-4103-95e4-dd7debbd6d6f/download/climatic_zones_west_africa.gpkg",
+      "id": "dc9778d3-bee4-4103-95e4-dd7debbd6d6f",
+      "last_modified": "2017-06-20T17:55:15.642043",
+      "metadata_modified": "2023-03-03T03:29:31.479843",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "climatic_zones_west_africa.gpkg",
+      "originalHash": "1790936735",
+      "package_id": "b8c6efd8-1da7-4206-a9b9-b025ac218efe",
+      "position": 0,
+      "resource_type": "file.upload",
+      "size": 479232,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/b8c6efd8-1da7-4206-a9b9-b025ac218efe/resource/dc9778d3-bee4-4103-95e4-dd7debbd6d6f/download/climatic_zones_west_africa.gpkg",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "climate-weather",
+      "id": "6f0a101d-5c57-408b-aa2a-61c078d32713",
+      "name": "climate-weather",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "west africa",
+      "id": "d52b96b0-0246-4c14-9544-f7f8fc4d94d0",
+      "name": "west africa",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

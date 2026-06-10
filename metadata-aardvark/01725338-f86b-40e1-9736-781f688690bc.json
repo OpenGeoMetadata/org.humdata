@@ -1,0 +1,41 @@
+{
+  "id": "hdx-01725338-f86b-40e1-9736-781f688690bc",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-21T15:10:28Z",
+  "dct_title_s": "Damage Assessment in Ambae Island, Penama Province, Vanuatu",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: TC20200403VUT** This map illustrates potentially damaged structures and buildings in Ambae Island, Penama Province, Vanuatu as detected by satellite image acquired after landfall of the Tropical Cyclone Harold-20 on 6 April 2020. UNITAR-UNOSAT analysis used a WorldView-2 image acquired on 20 April 2020 and Pleiades image acquired on 21 April 2020 as post event images, Within the Island extent, UNITAR-UNOSAT identified in the cloud free zones about 60 potentially damaged structures. Taking into account the pre-building footprints provided by Humanitarian OpenStreetMap, this represents about 1% of the total number of structures within the analyzed cloud free areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR-UNOSAT."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Vanuatu"
+  ],
+  "locn_geometry": "ENVELOPE(166.63, 167.84, -14.63, -16.6)",
+  "dcat_bbox": "ENVELOPE(166.63, 167.84, -14.63, -16.6)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/damage-assessment-in-ambae-island-penama-province-vanuatu\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/unosat-maps/VU/TC20200403VUT/TC20200403VUT_gdb.zip\"}"
+}

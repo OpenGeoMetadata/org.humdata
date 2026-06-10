@@ -1,0 +1,133 @@
+{
+  "archived": false,
+  "batch": "6813a46d-39db-4ab4-baa7-b8e729885912",
+  "caveats": "This data was created by the World Bank and should be credited as follows:\r\nPlan d’Élaboration propre basée sur les données de la Banque Mondiale: Inondation de Récurrence (5 ans / 25 ans / 100 ans)",
+  "creator_user_id": "58a33847-7d68-4095-8242-34fd15ca648c",
+  "data_update_frequency": "-1",
+  "dataset_date": "[2022-02-01T00:00:00 TO 2022-02-01T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "World Bank",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "5deac5b5-f135-45e2-9994-bf555c38ed22",
+  "is_requestdata_type": false,
+  "isopen": true,
+  "last_modified": "2023-02-23T14:39:53.707912",
+  "license_id": "cc-by",
+  "license_title": "Creative Commons Attribution International (CC BY)",
+  "license_url": "http://www.opendefinition.org/licenses/cc-by",
+  "maintainer": "58a33847-7d68-4095-8242-34fd15ca648c",
+  "metadata_created": "2023-02-23T14:39:27.470489",
+  "metadata_modified": "2025-04-15T14:28:52.867734",
+  "methodology": "Direct Observational Data/Anecdotal Data",
+  "name": "cap-haitien-haiti-flood-event-extents",
+  "notes": "This file contains shapefiles depicting the extent of 5-, 25-, and 100- year flood recurrence events. This data was created by the World Bank and should be credited as follows:\r\nPlan d’Élaboration propre basée sur les données de la Banque Mondiale: Inondation de Récurrence (5 ans / 25 ans / 100 ans)",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "id": "1df03031-db4f-4860-8f34-e256cdb215c5",
+    "name": "soil",
+    "title": "Sustainable Organic Integrated Livelihoods",
+    "type": "organization",
+    "description": "SOIL is a non-profit research and development organization working in Haiti to design, test, and implement sustainable and cost-effective solutions to the sanitation crisis. SOIL focuses on pioneering approaches to sustainable sanitation service delivery that combine innovative service delivery models and new technologies with a strategic, catalytic approach to financial sustainability.",
+    "image_url": "",
+    "created": "2023-02-08T04:11:45.928977",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "1df03031-db4f-4860-8f34-e256cdb215c5",
+  "package_creator": "mayalubecks",
+  "pageviews_last_14_days": 0,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Haiti\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Haiti - Cap Haitien Flood Event Extents",
+  "total_res_downloads": 106,
+  "type": "dataset",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Haiti",
+      "id": "hti",
+      "image_display_url": "",
+      "name": "hti",
+      "title": "Haiti"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/5deac5b5-f135-45e2-9994-bf555c38ed22/resource/0cb67376-e085-4862-b3c8-86f0dded3cd3/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2023-02-23T14:39:53.983516",
+      "datastore_active": false,
+      "description": "Flood extent data in Cap Haitien, Haiti for 5 year/ 25 year/ and 100 year flood recurrence events.",
+      "download_url": "https://data.humdata.org/dataset/5deac5b5-f135-45e2-9994-bf555c38ed22/resource/0cb67376-e085-4862-b3c8-86f0dded3cd3/download/world_bank_flood_extents_caphaitien.zip",
+      "format": "SHP",
+      "hash": "",
+      "hdx_rel_url": "/dataset/5deac5b5-f135-45e2-9994-bf555c38ed22/resource/0cb67376-e085-4862-b3c8-86f0dded3cd3/download/world_bank_flood_extents_caphaitien.zip",
+      "id": "0cb67376-e085-4862-b3c8-86f0dded3cd3",
+      "last_modified": "2023-02-23T14:39:53.707912",
+      "metadata_modified": "2025-04-15T14:28:52.903185",
+      "microdata": false,
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "World_Bank_Flood_Extents_CapHaitien.zip",
+      "originalHash": -356290802,
+      "p_coded": false,
+      "package_id": "5deac5b5-f135-45e2-9994-bf555c38ed22",
+      "pii": "false",
+      "position": 0,
+      "resource_type": "file.upload",
+      "shape_info": "[{\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2023-02-23T14:39:53.380047\"}, {\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2023-02-23T14:43:26.331854\"}, {\"state\": \"success\", \"message\": \"Import successful\", \"layer_id\": \"pre_0cb67376_e085_4862_b3c8_86f0dded3cd3\", \"error_type\": \"None\", \"error_class\": \"None\", \"bounding_box\": \"BOX(-72.2673967226786 19.5707644884383,-72.0361288679999 19.7887668560001)\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"layer\", \"data_type\": \"character varying\"}, {\"field_name\": \"elevation\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"timestamp\": \"2023-02-23T14:43:41.819146\"}]",
+      "size": 28129588,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/5deac5b5-f135-45e2-9994-bf555c38ed22/resource/0cb67376-e085-4862-b3c8-86f0dded3cd3/download/world_bank_flood_extents_caphaitien.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "cyclones-hurricanes-typhoons",
+      "id": "326e097b-96f2-46e4-8ef4-0a8d4401a646",
+      "name": "cyclones-hurricanes-typhoons",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "flooding",
+      "id": "532eacf2-7b8c-4dd5-baf7-c25720cadb38",
+      "name": "flooding",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "hazards and risk",
+      "id": "7173a61f-84fd-45ca-856a-3aa2b0372869",
+      "name": "hazards and risk",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "urban",
+      "id": "a859a0b3-7b16-4ee6-8994-d9b1ac38bea8",
+      "name": "urban",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

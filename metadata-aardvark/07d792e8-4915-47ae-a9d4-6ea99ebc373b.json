@@ -1,0 +1,47 @@
+{
+  "id": "hdx-07d792e8-4915-47ae-a9d4-6ea99ebc373b",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T16:11:53Z",
+  "dct_title_s": "Ecuador, Road Access Constraints",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset shows road access constraints in Ecuador after the earthquake that occurred on 17 April 2016"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP - World Food Programme, Logistics Cluster"
+  ],
+  "dcat_keyword_sm": [
+    "earthquake-tsunami",
+    "geodata",
+    "humanitarian access",
+    "logistics",
+    "roads"
+  ],
+  "dct_subject_sm": [
+    "earthquake-tsunami",
+    "geodata",
+    "humanitarian access",
+    "logistics",
+    "roads"
+  ],
+  "dct_spatial_sm": [
+    "Ecuador"
+  ],
+  "locn_geometry": "ENVELOPE(-80.97, -75.23, 1.38, -4.96)",
+  "dcat_bbox": "ENVELOPE(-80.97, -75.23, 1.38, -4.96)",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "gbl_indexYear_im": [
+    2016
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/ecuador-road-access-constraints\",\"http://schema.org/downloadUrl\":\"http://geonode.wfp.org/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Aecu_trs_roadaccess_wfp_1&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature\"}"
+}

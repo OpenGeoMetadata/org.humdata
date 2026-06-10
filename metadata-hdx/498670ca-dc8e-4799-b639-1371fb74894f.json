@@ -1,0 +1,131 @@
+{
+  "archived": true,
+  "batch": "2f17fd38-6679-4480-bae2-57823111056d",
+  "creator_user_id": "1d9fd567-3f24-484f-87a4-7e96b8a5e672",
+  "data_update_frequency": "-1",
+  "dataset_date": "[2015-04-29T00:00:00 TO 2015-04-29T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "NGA",
+  "has_geodata": true,
+  "has_showcases": true,
+  "id": "498670ca-dc8e-4799-b639-1371fb74894f",
+  "is_requestdata_type": false,
+  "isopen": false,
+  "last_modified": "2015-04-30T03:42:48.499180",
+  "license_id": "other-pd-nr",
+  "license_title": "Public Domain / No restrictions (CC0)",
+  "maintainer": "e32d5afb-cc7e-4715-85b7-5a3b849443f5",
+  "metadata_created": "2015-04-30T03:39:32.742053",
+  "metadata_modified": "2023-08-29T13:31:56.563503",
+  "methodology": "Direct Observational Data/Anecdotal Data",
+  "name": "http-nepal-nga-opendata-arcgis-com-datasets-eb0bba9bbb0d46c69b4bdf541ea2300e-0",
+  "notes": "NGA Damage Assessment Centroids, IDP Camps, Coverd Roads Nepal Earthquake",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "id": "4c019235-3749-4b21-adea-6fc995b5502b",
+    "name": "national-geospatial-intelligence-agency",
+    "title": "US National Geospatial-Intelligence Agency (inactive)",
+    "type": "organization",
+    "description": "NGA provides timely, relevant, and accurate geospatial intelligence in support of national security.",
+    "image_url": "",
+    "created": "2015-04-29T20:59:50.167399",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "4c019235-3749-4b21-adea-6fc995b5502b",
+  "package_creator": "terp49",
+  "pageviews_last_14_days": 1,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Nepal\", \"Nepal Earthquake\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Latest NGA Damage Assessments Points",
+  "total_res_downloads": 5,
+  "type": "dataset",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Nepal",
+      "id": "npl",
+      "image_display_url": "",
+      "name": "npl",
+      "title": "Nepal"
+    },
+    {
+      "description": "This will be a placeholder for all information related to the earthquake in Nepal.",
+      "display_name": "Nepal Earthquake",
+      "id": "fba94eb6-a73b-407d-8acd-c16e61e4f0dc",
+      "image_display_url": "",
+      "name": "nepal-earthquake",
+      "title": "Nepal Earthquake"
+    }
+  ],
+  "resources": [
+    {
+      "broken_link": true,
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2015-04-30T03:42:48.543934",
+      "datastore_active": false,
+      "description": "NGA Damage Assessment Centroids, IDP Camps, Coverd Roads Nepal Earthquake",
+      "download_url": "http://nepal.nga.opendata.arcgis.com/datasets/eb0bba9bbb0d46c69b4bdf541ea2300e_0.geojson",
+      "format": "GeoJSON",
+      "hash": "",
+      "hdx_rel_url": "http://nepal.nga.opendata.arcgis.com/datasets/eb0bba9bbb0d46c69b4bdf541ea2300e_0.geojson",
+      "id": "5265b11a-78fa-4f26-bb6f-f30ceb8e04b3",
+      "last_modified": "2015-04-30T03:42:48.499180",
+      "metadata_modified": "2023-05-29T12:46:33.874140",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Latest NGA Damage Assessments Points",
+      "originalHash": "2027224328",
+      "package_id": "498670ca-dc8e-4799-b639-1371fb74894f",
+      "position": 0,
+      "resource_type": "api",
+      "resource_uploader": "terp49",
+      "shape_info": "[{\"error_class\": \"None\", \"layer_id\": \"None\", \"error_type\": \"None\", \"state\": \"processing\", \"timestamp\": \"2020-06-19T08:58:38.959289\", \"message\": \"The processing of the geo-preview has started\"}, {\"error_class\": \"HTTPError\", \"layer_id\": \"pre_5265b11a_78fa_4f26_bb6f_f30ceb8e04b3\", \"error_type\": \"None\", \"state\": \"failure\", \"timestamp\": \"2020-06-19T08:58:40.851790\", \"message\": \"500 Server Error: Internal Server Error for url: http://nepal-nga.opendata.arcgis.com/datasets/eb0bba9bbb0d46c69b4bdf541ea2300e_0.geojson\", \"type\": \"unknown\"}]",
+      "size": null,
+      "state": "active",
+      "url": "http://nepal.nga.opendata.arcgis.com/datasets/eb0bba9bbb0d46c69b4bdf541ea2300e_0.geojson",
+      "url_type": "api"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "damage assessment",
+      "id": "3c5bab40-4c0f-40bc-a2dd-12cd7f945037",
+      "name": "damage assessment",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "earthquake-tsunami",
+      "id": "ec3e650b-06d4-410d-915f-213d6156b1b6",
+      "name": "earthquake-tsunami",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "internally displaced persons-idp",
+      "id": "4a0f429f-679c-4492-8386-d5cdf2d82ecd",
+      "name": "internally displaced persons-idp",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

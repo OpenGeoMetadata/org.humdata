@@ -1,0 +1,41 @@
+{
+  "id": "hdx-542ca4e7-8156-4eda-b85b-ea6d403a8312",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T18:07:26Z",
+  "dct_title_s": "Satellite detected water extent over Greater Accra & Volta Region, Ghana as of 23 October 2023",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code FL20231018GHA** This map illustrates cumulative satellite-detected water extent as observed from a Sentinel-1 imagery acquired on the 23 October 2023 at 18:10 local time. Within the analysed area of about 4,300 km², a total of about 53 km² of lands appear to be affected with flood waters. Based on Worldpop population data and the detected surface waters, about 12,000 people are potentially exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to the United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to the backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Ghana"
+  ],
+  "locn_geometry": "ENVELOPE(-3.24, 1.06, 11.1, 4.71)",
+  "dcat_bbox": "ENVELOPE(-3.24, 1.06, 11.1, 4.71)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extent-over-greater-accra-volta-region-ghana-as-of-23-october-2023\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3705/FL20231018GHA_gdb.zip\"}"
+}

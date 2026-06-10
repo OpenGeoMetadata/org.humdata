@@ -1,0 +1,133 @@
+{
+  "archived": true,
+  "batch": "41224d32-b64d-4a1c-846a-688957d4a796",
+  "caveats": "The categorization of the road type does not imply official endorsement or acceptance by the data contributors.",
+  "creator_user_id": "64c091b0-b746-4d21-8045-c58216ab11de",
+  "data_update_frequency": "-1",
+  "dataset_date": "[2019-01-21T00:00:00 TO 2019-01-21T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "Site Management Sector - Cox's Bazar, Site planning and development, ISCG, IOM, UNHCR, OSM",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "297b9f8a-ca19-4ae1-aa25-fe8c88d0d210",
+  "is_requestdata_type": false,
+  "isopen": false,
+  "last_modified": "2019-02-14T10:48:11.705796",
+  "license_id": "other-pd-nr",
+  "license_title": "Public Domain / No restrictions (CC0)",
+  "maintainer": "64c091b0-b746-4d21-8045-c58216ab11de",
+  "metadata_created": "2019-02-14T10:48:00.909825",
+  "metadata_modified": "2025-04-25T15:03:44.859032",
+  "methodology": "Other",
+  "methodology_other": "These roads are digitized through a combination of different sources, including Site Planning and development taskforce, UAV satellite imagery, GPS track collected in the field and OpenStreetMap.",
+  "name": "cox-s-bazar-existing-and-planned-access-road-network-of-all-rohingya-refugee-camps",
+  "notes": "This shapefile (GIS) contains the existing and planned access road network  of  all Rohingya refugee camps including vehicle road, main path, footpath, military constructed Road and Planned roads.",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "id": "554d7270-8e04-499e-a32c-f1709591b77e",
+    "name": "inter-sector-coordination-group",
+    "title": "Inter Sector Coordination Group",
+    "type": "organization",
+    "description": "The Inter-Sector Coordination Group (ISCG) is the central coordination body for humanitarian agencies serving Rohingya refugees in Cox’s Bazar, Bangladesh. These agencies are organized into 10 thematic Sectors and Sub-Sectors (e.g. Protection, Health, WASH) as well as Working Groups that focus on cross-cutting issues (e.g. Protection, Gender in Humanitarian Action, Communicating with Communities).  ISCG’s HDX portal features the latest data on the response.  More information is also available on ISCG’s website: https://rohingyaresponse.org/",
+    "image_url": "",
+    "created": "2017-09-21T09:57:49.986353",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "554d7270-8e04-499e-a32c-f1709591b77e",
+  "package_creator": "sshossain",
+  "pageviews_last_14_days": 3,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Bangladesh\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Bangladesh: Cox's Bazar Existing and planned access road network  of  all Rohingya refugee camps",
+  "total_res_downloads": 171,
+  "type": "dataset",
+  "updated_by_script": "hdx:HDXPythonLibrary/6.3.1-hdx_cli_toolkit_cjh (2025-04-25T15:03:44.676586)",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "test",
+      "display_name": "Bangladesh",
+      "id": "bgd",
+      "image_display_url": "",
+      "name": "bgd",
+      "title": "Bangladesh"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/297b9f8a-ca19-4ae1-aa25-fe8c88d0d210/resource/b74915fc-aa92-4f49-b8d4-6305050ce179/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-02-14T10:48:12.242658",
+      "datastore_active": false,
+      "description": "This shapefile (GIS) contains the existing and planned access road network  of  all Rohingya refugee camps.",
+      "download_url": "https://data.humdata.org/dataset/297b9f8a-ca19-4ae1-aa25-fe8c88d0d210/resource/b74915fc-aa92-4f49-b8d4-6305050ce179/download/190121_access_road_footpath_all_camps.zip",
+      "format": "SHP",
+      "hash": "",
+      "hdx_rel_url": "/dataset/297b9f8a-ca19-4ae1-aa25-fe8c88d0d210/resource/b74915fc-aa92-4f49-b8d4-6305050ce179/download/190121_access_road_footpath_all_camps.zip",
+      "id": "b74915fc-aa92-4f49-b8d4-6305050ce179",
+      "last_modified": "2019-02-14T10:48:11.705796",
+      "metadata_modified": "2025-04-08T17:23:30.237578",
+      "microdata": false,
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "190121_Access_Road_Footpath_all_camps.zip",
+      "originalHash": "1116936704",
+      "p_coded": false,
+      "package_id": "297b9f8a-ca19-4ae1-aa25-fe8c88d0d210",
+      "position": 0,
+      "resource_type": "file.upload",
+      "shape_info": "[{\"error_class\": \"None\", \"layer_id\": \"None\", \"error_type\": \"None\", \"state\": \"processing\", \"timestamp\": \"2019-02-14T10:48:11.946376\", \"message\": \"The processing of the geo-preview has started\"}, {\"error_class\": \"None\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"objectid_1\", \"data_type\": \"numeric\"}, {\"field_name\": \"fid_1\", \"data_type\": \"numeric\"}, {\"field_name\": \"layer\", \"data_type\": \"character varying\"}, {\"field_name\": \"name\", \"data_type\": \"character varying\"}, {\"field_name\": \"source\", \"data_type\": \"character varying\"}, {\"field_name\": \"road_type\", \"data_type\": \"character varying\"}, {\"field_name\": \"shape_leng\", \"data_type\": \"character varying\"}, {\"field_name\": \"highway\", \"data_type\": \"character varying\"}, {\"field_name\": \"rid\", \"data_type\": \"character varying\"}, {\"field_name\": \"fid_12\", \"data_type\": \"numeric\"}, {\"field_name\": \"adb_ref_no\", \"data_type\": \"character varying\"}, {\"field_name\": \"road_old_n\", \"data_type\": \"character varying\"}, {\"field_name\": \"road_new_n\", \"data_type\": \"character varying\"}, {\"field_name\": \"scope\", \"data_type\": \"character varying\"}, {\"field_name\": \"camp\", \"data_type\": \"character varying\"}, {\"field_name\": \"donor_1\", \"data_type\": \"character varying\"}, {\"field_name\": \"hierarchy\", \"data_type\": \"character varying\"}, {\"field_name\": \"priority_1\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"layer_id\": \"pre_b74915fc_aa92_4f49_b8d4_6305050ce179\", \"error_type\": \"None\", \"bounding_box\": \"BOX(92.1102190000001 20.7671070000002,92.3416204 21.243942389)\", \"state\": \"success\", \"timestamp\": \"2019-02-14T10:52:23.434006\", \"message\": \"Import successful\"}]",
+      "size": 820915,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/297b9f8a-ca19-4ae1-aa25-fe8c88d0d210/resource/b74915fc-aa92-4f49-b8d4-6305050ce179/download/190121_access_road_footpath_all_camps.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "refugee crisis",
+      "id": "8d1398ae-56af-4396-aa94-bef7d99da754",
+      "name": "refugee crisis",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "refugees",
+      "id": "8af07ef8-0180-4966-9e15-d184b9a2fef1",
+      "name": "refugees",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "roads",
+      "id": "a775d5e5-2168-4b89-b415-87d77e424b0c",
+      "name": "roads",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "transportation",
+      "id": "ee1a5568-91f1-4274-b10a-846a81335975",
+      "name": "transportation",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

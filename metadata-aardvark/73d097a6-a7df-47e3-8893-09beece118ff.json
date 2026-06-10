@@ -1,0 +1,41 @@
+{
+  "id": "hdx-73d097a6-a7df-47e3-8893-09beece118ff",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-10-20T14:46:17Z",
+  "dct_title_s": "Satellite detected water extent as of 05 August 2021 in Aderbissinat & Tchirozerine departments, Agadez Region, Niger",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20210908NER** This map illustrates the extent of surface waters in Aderbissinat, Ingall & Tchirozerine departments, Agadez Region as observed from a Sentinel-2 acquired on 05 August 2021. Within the analyzed area of about 16,000 km2, 150 km2 of lands appear to be flooded. Based on Worldpop population data and the detected surface waters, about 1,800 people are potentially exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to United Nations Satellite Centre (UNOSAT)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Niger"
+  ],
+  "locn_geometry": "ENVELOPE(0.3, 15.9, 23.47, 11.66)",
+  "dcat_bbox": "ENVELOPE(0.3, 15.9, 23.47, 11.66)",
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extent-as-of-05-august-2021-in-aderbissinat-tchirozerine-departments-agadez-region-n\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/NE/FL20210908NER/FL20210908NER_gdb.zip\"}"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hdx-3adcffe8-f243-4e2d-802b-fa5703630bd9",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-21T15:23:57Z",
+  "dct_title_s": "Geodata of Inundation Near Sar-E Pol, Sar-E Pol Province, Afghanistan",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This map illustrates potential satellite-detected inundated areas and water south of Sar-E Pol city, Afghanistan. UNOSAT analyzed imagery from the KOMPSAT2 satellite collected 05 May 2014 in response to heavy rainfall occurring on 23-24 April 2014. UNOSAT extracted areas of water and inundated soils to indicate likely flood affected lands. This map includes both permanent water bodies, such as streams, and potential flood waters together due to limitations in source data. It is likely that flood waters and inundation have been systematically underestimated along highly vegetated areas and within built-up urban areas because of the special characteristics of the satellite data used. This analysis has not yet been validated in the field. Please send ground feedback to UNITAR /UNOSAT."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UNOSAT"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Afghanistan"
+  ],
+  "locn_geometry": "ENVELOPE(60.53, 75.16, 38.49, 29.32)",
+  "dcat_bbox": "ENVELOPE(60.53, 75.16, 38.49, 29.32)",
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "gbl_indexYear_im": [
+    2014
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/geodata-of-inundation-near-sar-e-pol-sar-e-pol-province-afghanistan-may-07-2014\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/unosat-maps/AF/FL20140430AFG/FL20140430AFG_shp.zip\"}"
+}

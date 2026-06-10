@@ -1,0 +1,41 @@
+{
+  "id": "hdx-09806feb-d200-46ae-8306-296a5275999c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-10-03T15:29:36Z",
+  "dct_title_s": "Rwanda Gridded Population Dataset",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Using the same methods applied to Pakistan (methods described in the journal Remote Sensing of Environment), the Census Bureau mapped Rwanda, a country with a substantial, dense rural population. Satellite imagery was combined with data from the 2002 Census of Rwanda to produce a geospatial distributed population layer."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "U.S. Census Bureau"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "population"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "population"
+  ],
+  "dct_spatial_sm": [
+    "Rwanda"
+  ],
+  "locn_geometry": "ENVELOPE(29.02, 30.82, -1.13, -2.92)",
+  "dcat_bbox": "ENVELOPE(29.02, 30.82, -1.13, -2.92)",
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "gbl_indexYear_im": [
+    2002
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/rwanda-gridded-population-dataset\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/09806feb-d200-46ae-8306-296a5275999c/resource/36840b26-43f7-453f-8bd8-ab5d22d5fa4a/download/rwanda_gridded_2002.zip\"}"
+}

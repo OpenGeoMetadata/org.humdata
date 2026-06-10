@@ -1,0 +1,43 @@
+{
+  "id": "hdx-4b05abad-410b-4323-b906-e8808146b5d5",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2024-12-02T16:11:25Z",
+  "dct_title_s": "Cyclone Amphan flood detected water for Bangladesh and India",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This data combines satellite detected water (flooding) for Bangladesh and north-east India during cyclone AMPHAN. This flood raster includes data from ESA Sentinel-1, JAXA ALOS PALSAR 2, TerraSAR-X, MODIS, Landsat and Sentinel 1. The organisations involved in the processing of the data are WASDI Fadeout, Sentinel-ASIA Asian Institute of Technology, DLR German Aerospace Agency, Earth Observatory of Singapore (EOS), NASA Disaster and Bob Adler from University of Colorado."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "ESA, NASA, JAXA, DLR"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Bangladesh"
+  ],
+  "locn_geometry": "ENVELOPE(88.08, 92.67, 26.45, 20.67)",
+  "dcat_bbox": "ENVELOPE(88.08, 92.67, 26.45, 20.67)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cyclone-amphan-flood-detected-water-for-bangladesh-and-india\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/4b05abad-410b-4323-b906-e8808146b5d5/resource/407e70ce-5a5f-40a5-b418-967e846f5e06/download/amphan_flood_total_all.tif\"}"
+}

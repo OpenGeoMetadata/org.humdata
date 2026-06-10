@@ -17,7 +17,7 @@
   "license_title": "odc-odbl",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2024-11-19T10:20:17.338171",
-  "metadata_modified": "2026-03-02T17:09:40.341034",
+  "metadata_modified": "2026-06-06T09:10:26.130173",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
   "name": "colombia-road-surface-data",
@@ -38,7 +38,7 @@
   },
   "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
   "package_creator": "sukanya-randhawa-6497",
-  "pageviews_last_14_days": 3,
+  "pageviews_last_14_days": 0,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Colombia\"]}",
@@ -62,6 +62,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:20:17.340443",
@@ -73,7 +74,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_col_roadsurface_lines.geojson",
       "id": "015a2de6-7d74-46fc-967b-a129db2fba01",
       "last_modified": "2024-11-19T10:20:17.320399",
-      "metadata_modified": "2026-03-02T17:09:40.435476",
+      "metadata_modified": "2026-06-06T09:10:26.353592",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -88,6 +89,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:20:17.340447",
@@ -99,7 +101,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_col_roadsurface_lines.gpkg",
       "id": "b69867d4-cda6-490e-9350-ccb997d6466c",
       "last_modified": "2024-11-19T10:20:17.320569",
-      "metadata_modified": "2026-03-02T17:02:13.858264",
+      "metadata_modified": "2026-06-06T09:10:26.353933",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

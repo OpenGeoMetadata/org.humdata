@@ -17,7 +17,7 @@
   "license_title": "odc-odbl",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2024-11-19T10:22:35.053281",
-  "metadata_modified": "2026-03-02T17:22:11.822459",
+  "metadata_modified": "2026-06-06T10:52:58.396099",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
   "name": "algeria-road-surface-data",
@@ -38,7 +38,7 @@
   },
   "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
   "package_creator": "sukanya-randhawa-6497",
-  "pageviews_last_14_days": 3,
+  "pageviews_last_14_days": 2,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Algeria\"]}",
@@ -62,6 +62,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:22:35.058972",
@@ -73,7 +74,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_dza_roadsurface_lines.geojson",
       "id": "3f276e4f-7e54-4875-a949-2fc1a5a44416",
       "last_modified": "2024-11-19T10:22:35.020208",
-      "metadata_modified": "2026-03-02T17:22:11.879149",
+      "metadata_modified": "2026-06-06T10:52:58.475922",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -88,6 +89,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:22:35.058976",
@@ -99,7 +101,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_dza_roadsurface_lines.gpkg",
       "id": "d00afa54-8e2e-49be-b68c-00aa0927d352",
       "last_modified": "2024-11-19T10:22:35.020386",
-      "metadata_modified": "2026-03-02T17:04:18.628576",
+      "metadata_modified": "2026-06-06T10:52:58.476076",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

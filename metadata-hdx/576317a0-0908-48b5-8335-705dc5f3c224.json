@@ -17,7 +17,7 @@
   "license_title": "odc-odbl",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2024-11-19T10:22:06.261327",
-  "metadata_modified": "2026-03-02T17:20:11.862929",
+  "metadata_modified": "2026-06-06T09:32:35.418988",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
   "name": "ghana-road-surface-data",
@@ -38,7 +38,7 @@
   },
   "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
   "package_creator": "sukanya-randhawa-6497",
-  "pageviews_last_14_days": 3,
+  "pageviews_last_14_days": 2,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Ghana\"]}",
@@ -62,6 +62,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:22:06.265302",
@@ -73,7 +74,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_gha_roadsurface_lines.geojson",
       "id": "cb00decd-805b-4c24-a804-b1c47ed528b3",
       "last_modified": "2024-11-19T10:22:06.241789",
-      "metadata_modified": "2026-03-02T17:20:11.969037",
+      "metadata_modified": "2026-06-06T09:32:35.464666",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -88,6 +89,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:22:06.265305",
@@ -99,7 +101,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_gha_roadsurface_lines.gpkg",
       "id": "0af4ce23-a162-4387-ab08-5a1dec5c5c1b",
       "last_modified": "2024-11-19T10:22:06.242028",
-      "metadata_modified": "2026-03-02T17:03:56.607813",
+      "metadata_modified": "2026-06-06T09:32:35.464768",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

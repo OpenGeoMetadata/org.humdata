@@ -17,7 +17,7 @@
   "license_title": "odc-odbl",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2024-11-19T10:20:07.644438",
-  "metadata_modified": "2026-03-02T17:12:13.665099",
+  "metadata_modified": "2026-06-06T09:32:29.817403",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
   "name": "benin-road-surface-data",
@@ -38,7 +38,7 @@
   },
   "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
   "package_creator": "sukanya-randhawa-6497",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 1,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Benin\"]}",
@@ -62,6 +62,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:20:07.648029",
@@ -73,7 +74,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_ben_roadsurface_lines.geojson",
       "id": "72bd7495-8f16-40a8-b476-1a901630de50",
       "last_modified": "2024-11-19T10:20:07.621243",
-      "metadata_modified": "2026-03-02T17:12:13.721818",
+      "metadata_modified": "2026-06-06T09:32:29.868567",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -88,6 +89,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:20:07.648032",
@@ -99,7 +101,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_ben_roadsurface_lines.gpkg",
       "id": "d5d2f4d9-6e0f-4ace-bc10-08546cbf2df1",
       "last_modified": "2024-11-19T10:20:07.621399",
-      "metadata_modified": "2026-03-02T17:02:04.723971",
+      "metadata_modified": "2026-06-06T09:32:29.868716",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

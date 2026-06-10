@@ -1,0 +1,45 @@
+{
+  "id": "hdx-6c506dcf-1bcd-44bf-a970-708833f246b0",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-12-21T15:44:41Z",
+  "dct_title_s": "Census-cartography-based gridded population estimates for Mali (2020), version 1.0",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "These data consist of modelled gridded population estimates produced at a spatial resolution of approximately 100m across Mali. The estimates comprise a combination of total population counts at enumeration area level collected by the census cartography team of the Mali Statistics Office and modelled population counts created using a Bayesian statistical model for areas that could not be covered by the cartography team because of security issues. The main input data for the model are the cartography data collected in the safe part of the country in 2019-2020 (628 out of 714 Communes –administrative level 3–, that is 87% of the country territory). Other essential input data include metrics derived from building footprints, which were automatically delineated by Ecopia.AI in 2021 using satellite imagery collected by Maxar Technologies between 2010 and 2021. The modelled population estimates represent the period of the census cartography, but their consistency may be impacted by the accuracy of the building footprints. These data were produced by the [ WorldPop Research Group](https://www.worldpop.org/) at the University of Southampton as part of the GRID3 Project, GRID3 (Geo-Referenced Infrastructure and Demographic Data for Development) programme funded by the Bill and Melinda Gates Foundation (BMGF) and the United Kingdom’s Foreign, Commonwealth & Development Office (INV 009579, formerly OPP 1182425). The study was approved by the Faculty Ethics Committee of the University of Southampton (ERGO II 64957). The project was led by the Center for International Earth Science Information Network (CIESIN) at Columbia University, in collaboration with the WorldPop Research Group at the University of Southampton, the United Nations Fund for Population (UNFPA) and the Malian Institut National de la Statistique (INSTAT). The production of these data was led by Edith Darin (WorldPop) with support from Matthias Kuépié and Jean Wakam (UNFPA), Abdoul Karim Diawara, Assa Gakou and Siaka Cissé (Institut National de la Statistique), and Attila N Lazar (WorldPop) and Andrew J Tatem (WorldPop). The authors acknowledge the support of their respective institutions in the completion of this work. **Recommended citations** WorldPop and Institut National de la Statistique du Mali. 2022. *Census-cartography-based gridded population estimates for Mali (2020), version 1.0.* WorldPop, University of Southampton. doi:10.5258/SOTON/WP00745 **License** These data may be redistributed following the terms of a Creative Commons Share-Alike Attribution 4.0 International (CC BY SA 4.0) license"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WorldPop"
+  ],
+  "dcat_keyword_sm": [
+    "baseline population",
+    "demographics",
+    "geodata",
+    "population"
+  ],
+  "dct_subject_sm": [
+    "baseline population",
+    "demographics",
+    "geodata",
+    "population"
+  ],
+  "dct_spatial_sm": [
+    "Mali"
+  ],
+  "locn_geometry": "ENVELOPE(-12.17, 4.27, 24.97, 10.1)",
+  "dcat_bbox": "ENVELOPE(-12.17, 4.27, 24.97, 10.1)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/census-cartography-based-gridded-population-estimates-for-mali-2020-version-1-0\",\"http://schema.org/downloadUrl\":\"https://wopr.worldpop.org/download/519\"}"
+}

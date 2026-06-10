@@ -1,0 +1,58 @@
+{
+  "id": "hdx-f069706c-b7c8-47d8-a1d8-27b93c0832d2",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-10-22T15:39:30Z",
+  "dct_title_s": "Harmonized Food Insecurity Dataset (HFID)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "The Harmonized Food Insecurity Dataset (HFID) is an open-source resource consolidating four key data sources: the Integrated Food Security Phase Classification (IPC)/Cadre Harmonisé (CH) phases, the Famine Early Warning Systems Network (FEWS NET) IPC-compatible phases, and the World Food Program’s (WFP) Food Consumption Score (FCS) and reduced Coping Strategy Index (rCSI). Updated monthly and using a common reference system for administrative units, the HFID provides comprehensive spatial and temporal coverage to the extent permitted by the available data. It serves as a vital tool for food insecurity experts and humanitarian agencies, providing a unified resource for analyzing food insecurity conditions and highlighting global data disparities and gaps. The scientific community can also leverage the HFID to develop data-driven predictive models, enhancing the capacity to forecast and prevent future food crises. This dataset is the first static version created and openly shared to accompany the publication of the paper [\"A monthly sub-national Harmonized Food Insecurity Dataset for comprehensive analysis and predictive modeling\"](https://doi.org/10.1038/s41597-025-05034-4). It includes data from 2007 until 2024. A dynamic dataset, updated monthly with all of the above indicators will be shared on HDX as medium-term objective."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Machefer, M., Ronco, M., Thomas, AC. et al. A monthly sub-national Harmonized Food Insecurity Dataset for comprehensive analysis and predictive modeling. Sci Data 12, 741 (2025)"
+  ],
+  "dcat_keyword_sm": [
+    "food security",
+    "integrated food security phase classification-ipc"
+  ],
+  "dct_subject_sm": [
+    "food security",
+    "integrated food security phase classification-ipc"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2007-2024"
+  ],
+  "gbl_indexYear_im": [
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "dct_format_s": "CSV",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/harmonized-food-insecurity-dataset-hfid\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/f069706c-b7c8-47d8-a1d8-27b93c0832d2/resource/afc6e37c-185e-4e8f-ad96-e790f37a92c0/download/hfid_hv1.csv\"}"
+}

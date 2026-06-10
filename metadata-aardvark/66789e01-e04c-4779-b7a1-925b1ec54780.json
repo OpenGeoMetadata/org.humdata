@@ -1,0 +1,41 @@
+{
+  "id": "hdx-66789e01-e04c-4779-b7a1-925b1ec54780",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-21T15:39:37Z",
+  "dct_title_s": "Fire Detections in Buthidaung, Maungdaw, and Rathedaung Townships of Rakhine State in Myanmar",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This map illustrates areas of satellite detected fires in Buthindaung, Maungdaw, and Rathedaung Townships in the Maungdaw and Sittwe Districts of Rakhine State in Myanmar. Analysis used satellite- fire detections collected by the Moderate Resolution Imaging Spectroradiometer (MODIS) and the Visible Infrared Imaging Radiometer Suite (VIIRS) on multiple dates from 25 August to 25 November 2017. A total of 171 fires were detected in different areas across Rathedaung, Buthindaung and Maungdaw townships during this period. While fire detections were spread out across the entire period analyzed, some notable clusters occurred on 28 August, 29 August, 3 September, 15 September, 25 September, 9 October, and 6 November, as indicated in the map. Days of peak fire detection occurred on 28 August and 15 September as indicated in the chart. Note that due to cloud cover and satellite overpass times many fires occurring in the area during this period would not have been detected, and are generally only detected if the satellites are overhead while the fire is sufficiently active and clouds are not interfering. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR - UNOSAT."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UNOSAT"
+  ],
+  "dcat_keyword_sm": [
+    "complex emergency-conflict-security",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "complex emergency-conflict-security",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "gbl_indexYear_im": [
+    2017
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/fire-detections-in-buthidaung-maungdaw-and-rathedaung-townships-of-rakhine-state-in-myanmar-2746\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/unosat-maps/MM/CE20130326MMR/Damage_Analysis_Rakhine_20171011.gdb.zip\"}"
+}

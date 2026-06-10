@@ -1,0 +1,41 @@
+{
+  "id": "hdx-4da920dc-c1dc-4889-b06c-66ecb65e2b94",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-12-02T19:11:12Z",
+  "dct_title_s": "Kenya Admin Boundaries - Election Polling stations",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Polling station locations **Abstract:** This data comes from [http://vote.iebc.or.ke](http://vote.iebc.or.ke) Use the _sphericalmercator versions with TileMill, will be much faster. Otherwise, you're probably fine with the unprojected versions. There are simple endpoints for requesting json encoded data. download.py iterates, caches, and builds the output **Instructions:** Polling station location Shapefile can be downloaded from [https://github.com/mikelmaron/kenya-election-data/tree/master/output](https://github.com/mikelmaron/kenya-election-data/tree/master/output)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "IEBC"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "governance and civil society"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "governance and civil society"
+  ],
+  "dct_spatial_sm": [
+    "Kenya"
+  ],
+  "locn_geometry": "ENVELOPE(33.89, 41.86, 5.51, -4.68)",
+  "dcat_bbox": "ENVELOPE(33.89, 41.86, 5.51, -4.68)",
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "gbl_indexYear_im": [
+    2012
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kenya-elections\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/4da920dc-c1dc-4889-b06c-66ecb65e2b94/resource/0d7c191e-35b4-42cd-9df6-bb3b9add3467/download/counties.zip\"}"
+}

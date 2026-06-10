@@ -1,0 +1,41 @@
+{
+  "id": "hdx-1adb9497-3564-4b7e-8c76-54847a1165f3",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T16:39:36Z",
+  "dct_title_s": "France Buildings (OpenStreetMap Export)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "OpenStreetMap contains roughly 49.0 million buildings in this region. Based on AI-mapped estimates, this is approximately 100% of the total buildings.The average age of data for this region is 1 year, 6 months ( Last edited a day ago ) and 1% buildings were added or updated in the last 6 months. Read about what this summary means : [indicators](https://github.com/hotosm/raw-data-api/tree/develop/docs/src/stats/indicators.md) , [metrics](https://github.com/hotosm/raw-data-api/tree/develop/docs/src/stats/metrics.md) OpenStreetMap exports for use in GIS applications. This theme includes all OpenStreetMap features in this area matching ( Learn what tags means [here](https://wiki.openstreetmap.org/wiki/Tags) ) : tags['building'] IS NOT NULL Features may have these attributes: - [name](http://wiki.openstreetmap.org/wiki/Key:name) - [building](http://wiki.openstreetmap.org/wiki/Key:building) - [building:levels](http://wiki.openstreetmap.org/wiki/Key:building:levels) - [building:materials](http://wiki.openstreetmap.org/wiki/Key:building:materials) - [addr:full](http://wiki.openstreetmap.org/wiki/Key:addr:full) - [addr:housenumber](http://wiki.openstreetmap.org/wiki/Key:addr:housenumber) - [addr:street](http://wiki.openstreetmap.org/wiki/Key:addr:street) - [addr:city](http://wiki.openstreetmap.org/wiki/Key:addr:city) - [office](http://wiki.openstreetmap.org/wiki/Key:office) - [source](http://wiki.openstreetmap.org/wiki/Key:source) This dataset is one of many [OpenStreetMap exports on HDX](https://data.humdata.org/organization/hot). See the [Humanitarian OpenStreetMap Team](http://hotosm.org/) website for more information."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "facilities-infrastructure",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "facilities-infrastructure",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "locn_geometry": "ENVELOPE(-5.0, 9.56, 51.15, 42.5)",
+  "dcat_bbox": "ENVELOPE(-5.0, 9.56, 51.15, 42.5)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_fra_buildings\",\"http://schema.org/downloadUrl\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/FRA/buildings/polygons/hotosm_fra_buildings_polygons_geojson.zip\"}"
+}

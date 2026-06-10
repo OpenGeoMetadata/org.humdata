@@ -1,0 +1,41 @@
+{
+  "id": "hdx-dfca769f-f305-4106-afcc-c4f78d399d6c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-11T11:53:57Z",
+  "dct_title_s": "Myanmar Damaged Buildings (OpenStreetMap Export)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Humanitarian OpenStreetMap Team (HOT) conducted a pilot of Crowdsourced Damage Assessment (CDA) with local mappers from the Myanmar OpenStreetMap Community (myOSM) to identify and map damaged buildings in priority affected townships from the March 2025 Myanmar earthquake. Through the CDA, mappers will review damaged buildings by comparing pre- and post-disaster satellite imageries (from Maxar and Planet) to identify signs of damages. These were reviewed, mapped, and validated with open-source tools MapSwipe, HOT Tasking Manager, and MapRoulette. Damage assessments were conducted in 20 townships, including: Bago, Magway, Aungmyaythazan, Chanayethazan, Mahaaungmyay, Chanmyathazi, Pyigyitagon, Amarapura, Sintgaing, Kyaukse, Meiktila, Thazi, Patheingyi, Za Bu Thi Ri, Det Khi Na Thi Ri, Pyinmana, Poke Ba Thi Ri, Oke Ta Ra Thi Ri, Lewe, and Sagaing. This dataset includes all OpenStreetMap features (nodes, ways, and relations) within Myanmar that contain any tag key [related to “damage”.](https://overpass-turbo.eu/s/26co)) Features may have these attributes: - [name](http://wiki.openstreetmap.org/wiki/Key:name) - [building](http://wiki.openstreetmap.org/wiki/Key:building) - [damage](http://wiki.openstreetmap.org/wiki/Key:damage) - [damage:event](http://wiki.openstreetmap.org/wiki/Key:damage:event) - [source:damage](http://wiki.openstreetmap.org/wiki/Key:source:damage) - [source:damage:date ](http://wiki.openstreetmap.org/wiki/Key:source:damage:date ) - [addr:street](http://wiki.openstreetmap.org/wiki/Key:addr:street) - [addr:city](http://wiki.openstreetmap.org/wiki/Key:addr:city) - [source](http://wiki.openstreetmap.org/wiki/Key:source) This dataset is one of many [OpenStreetMap exports on HDX](https://data.humdata.org/organization/hot). See the [Humanitarian OpenStreetMap Team](http://hotosm.org/) website for more information."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "facilities-infrastructure",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "facilities-infrastructure",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_mmr_damaged_buildings\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/dfca769f-f305-4106-afcc-c4f78d399d6c/resource/52f23b1e-1835-4df7-94e3-f085a9d8bf28/download/hotosm_mmr_damaged_buildings.geojson\"}"
+}

@@ -17,7 +17,7 @@
   "license_title": "odc-odbl",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2024-11-19T10:21:23.556529",
-  "metadata_modified": "2026-03-02T17:21:02.822775",
+  "metadata_modified": "2026-06-06T10:22:20.389228",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
   "name": "dominican-republic-road-surface-data",
@@ -38,7 +38,7 @@
   },
   "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
   "package_creator": "sukanya-randhawa-6497",
-  "pageviews_last_14_days": 1,
+  "pageviews_last_14_days": 2,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Dominican Republic\"]}",
@@ -62,6 +62,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:21:23.559388",
@@ -73,7 +74,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_dom_roadsurface_lines.geojson",
       "id": "1c1eb6a5-0a3c-4785-a59f-37699068a71a",
       "last_modified": "2024-11-19T10:21:23.537840",
-      "metadata_modified": "2026-03-02T17:21:02.916495",
+      "metadata_modified": "2026-06-06T10:22:20.724611",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -88,6 +89,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:21:23.559392",
@@ -99,7 +101,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_dom_roadsurface_lines.gpkg",
       "id": "6fa03687-0d46-491b-a5b9-f100c0e8b303",
       "last_modified": "2024-11-19T10:21:23.537992",
-      "metadata_modified": "2026-03-02T17:03:17.164067",
+      "metadata_modified": "2026-06-06T10:22:20.725003",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

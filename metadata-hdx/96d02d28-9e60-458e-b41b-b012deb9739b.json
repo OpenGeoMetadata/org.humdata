@@ -17,7 +17,7 @@
   "license_title": "odc-odbl",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2024-11-19T10:20:27.350978",
-  "metadata_modified": "2026-03-02T17:12:19.954454",
+  "metadata_modified": "2026-06-06T10:19:55.173192",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
   "name": "cameroon-road-surface-data",
@@ -38,7 +38,7 @@
   },
   "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
   "package_creator": "sukanya-randhawa-6497",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 1,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Cameroon\"]}",
@@ -62,6 +62,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:20:27.356008",
@@ -73,7 +74,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_cmr_roadsurface_lines.geojson",
       "id": "7f77c77d-3b43-4b67-b3c4-cab1fb389f1f",
       "last_modified": "2024-11-19T10:20:27.329211",
-      "metadata_modified": "2026-03-02T17:12:20.039657",
+      "metadata_modified": "2026-06-06T10:19:55.214516",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -88,6 +89,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:20:27.356070",
@@ -99,7 +101,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_cmr_roadsurface_lines.gpkg",
       "id": "144f0090-f2ed-41d8-9478-742ff7efdb9f",
       "last_modified": "2024-11-19T10:20:27.329483",
-      "metadata_modified": "2026-03-02T17:02:22.681454",
+      "metadata_modified": "2026-06-06T10:19:55.214612",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

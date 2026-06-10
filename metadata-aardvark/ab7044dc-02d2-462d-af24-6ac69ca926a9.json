@@ -1,0 +1,39 @@
+{
+  "id": "hdx-ab7044dc-02d2-462d-af24-6ac69ca926a9",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T20:27:52Z",
+  "dct_title_s": "ICA Sudan, 2018 - Drought Risk, 1982-2017",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This layer contains information about the drought risk - by second-level administrative area - estimated during the Integrated Context Analysis (ICA) run in Sudan in 2018. Data source: HQ VAM Analysis of Chirps Rainfall Estimates (RFE), 1982-2017. The main indicators used for the analysis were the number of poor growing seasons observed in the time window of interest and the inter-annual rainfall variability."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP GeoNode"
+  ],
+  "dcat_keyword_sm": [
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Sudan"
+  ],
+  "locn_geometry": "ENVELOPE(21.94, 38.41, 22.0, 8.62)",
+  "dcat_bbox": "ENVELOPE(21.94, 38.41, 22.0, 8.62)",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "gbl_indexYear_im": [
+    2018
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/ica-sudan-2018-drought-risk-1982-2017\",\"http://schema.org/downloadUrl\":\"https://geonode.wfp.org/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Asdn_ica_droughtrisk_geonode_20180201&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature\"}"
+}

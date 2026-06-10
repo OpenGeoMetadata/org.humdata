@@ -1,0 +1,39 @@
+{
+  "id": "hdx-1b604491-04f9-4d1e-bb10-781a8b3f05a3",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-06-25T02:33:09Z",
+  "dct_title_s": "Ukraine - Subnational Edge-matched Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Ukraine administrative level 0-4 boundaries (COD-AB) dataset. NOTE: The population statistics common operatioanl dataset (COD-PS-UKR) is only available vis special request. See [Ukraine - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-ukr). Users should use the 'Request Data' button. This COD-AB was most recently reviewed for accuracy and necessary changes in April 2024. The COD-AB does not require any update. Sourced from State Scientific Production Enterprise “Kartographia” Vetting by Information Technology Outreach Services (ITOS) with funding from USAID. This COD-AB is suitable for database or GIS linkage to the Ukraine [COD-PS](https://data.humdata.org/dataset/cod-ps-ukr). An edge-matched (COD-EM) version of this COD-AB is available on [HDX here:](https://data.humdata.org/dataset/cod-em-ukr) Please see the [COD Portal](https://cod.unocha.org/). Administrative level 1 contains 27 feature(s). Administrative level 2 contains 139 feature(s). Administrative level 3 contains 1769 feature(s). Administrative level 4 contains 29707 feature(s)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "State Scientific Production Enterprise “Kartographia” and ITOS"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions"
+  ],
+  "dct_spatial_sm": [
+    "Ukraine"
+  ],
+  "locn_geometry": "ENVELOPE(22.09, 40.08, 52.34, 44.36)",
+  "dcat_bbox": "ENVELOPE(22.09, 40.08, 52.34, 44.36)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "XLSX",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-em-ukr\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/1b604491-04f9-4d1e-bb10-781a8b3f05a3/resource/a6f0804b-9c14-4d8f-8249-a668a747488d/download/ukr_admgz_sspe_20240415.xlsx\"}"
+}

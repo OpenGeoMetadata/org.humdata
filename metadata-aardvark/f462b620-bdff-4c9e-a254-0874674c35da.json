@@ -1,0 +1,41 @@
+{
+  "id": "hdx-f462b620-bdff-4c9e-a254-0874674c35da",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-12-27T16:45:03Z",
+  "dct_title_s": "Satellite detected water extent over Chittagong division, Bangladesh as of 8 August 2021",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20210729BGD** This map illustrates satellite-detected surface waters in Chittagong division, Bangladesh as observed from a Sentinel-1 image acquired on 8 August 2021 at 17:55 local time. Within the analyzed area of about 18,700 km2 and, about 873 km2 of lands appear to be flooded. The water extent appears to have increased of about 21 km2 since 30 July 2021. Based on Worldpop population data and the detected surface waters in the analyzed area, the potentially exposed population is mainly located in the district of Cox's Bazar with ~393,240 people, Chittagong with ~358,320 people. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Bangladesh"
+  ],
+  "locn_geometry": "ENVELOPE(88.08, 92.67, 26.45, 20.67)",
+  "dcat_bbox": "ENVELOPE(88.08, 92.67, 26.45, 20.67)",
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-water-extent-over-chittagong-division-bangladesh-as-of-8-august-2021\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/BD/FL20210729BGD/FL20210729BGD_gdb.zip\"}"
+}

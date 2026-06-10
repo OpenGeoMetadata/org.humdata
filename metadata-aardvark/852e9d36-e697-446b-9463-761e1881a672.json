@@ -1,7 +1,7 @@
 {
   "id": "hdx-852e9d36-e697-446b-9463-761e1881a672",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-10T16:43:30Z",
+  "gbl_mdModified_dt": "2026-06-09T17:31:06Z",
   "dct_title_s": "Mexico: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -29,7 +29,7 @@
   "locn_geometry": "ENVELOPE(-117.13, -86.81, 32.72, 14.54)",
   "dcat_bbox": "ENVELOPE(-117.13, -86.81, 32.72, 14.54)",
   "dct_temporal_sm": [
-    "1851-2025"
+    "1851-2026"
   ],
   "gbl_indexYear_im": [
     1851,
@@ -206,7 +206,8 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mex-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/852e9d36-e697-446b-9463-761e1881a672/resource/9f0cc359-cbca-4a27-8b41-3d9890f79e0d/download/ibtracs_all_list_v04r01_lines_mex.geojson\"}"

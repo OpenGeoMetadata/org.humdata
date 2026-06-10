@@ -1,0 +1,41 @@
+{
+  "id": "hdx-a1f2ca82-a7e6-461d-9ac2-ae65ca114667",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T20:29:45Z",
+  "dct_title_s": "Satellite detected water extents between 15 and 19 January 2022 over South Sudan",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20220119SSD** This map illustrates cumulative satellite-detected water using VIIRS in South Sudan between 15 to 19 Jan. 2022 compared with the period between 10 to 14 Jan. 2022. Within the cloud free analyzed areas of about 625,000 km2, a total of about 31,500 km2 of lands appear to be affected with flood waters. Water extent appears to have decreased of about 1,300 km2 since the period between 10 to 14 Jan. 2022. Based on Worldpop population data and the maximal flood water coverage, ~755,000 people are potentially exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to the United Nations Satellite Centre (UNOSAT)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "South Sudan"
+  ],
+  "locn_geometry": "ENVELOPE(23.89, 35.3, 12.25, 3.51)",
+  "dcat_bbox": "ENVELOPE(23.89, 35.3, 12.25, 3.51)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-water-extents-between-15-and-19-january-2022-over-south-sudan\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/SS/FL20220119SSD/FL20220119SSD_gdb.zip\"}"
+}

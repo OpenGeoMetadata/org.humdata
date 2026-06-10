@@ -1,0 +1,47 @@
+{
+  "id": "hdx-5d75ef75-e57a-45a3-8992-84af62db0b3c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2024-06-05T18:53:03Z",
+  "dct_title_s": "Typhoon Nina - windspeed, rainfall and priority index",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains: * windspeeds of Typhoon Nina * rainfall of Typhoon Nina * Priority Index of Typhoon Nina The predicted priority index of Typhoon Nina is produced by a machine learning algorithm that was trained on five past typhoons: Haiyan, Melor, Hagupit and Rammasun and Haima, It uses base line data for the whole country, combined with impact data of windspeeds and rains, and trained on counts by the Philippine government on houses damaged and completely destroyed. The output is a weighted index between partially damaged and completely damaged, where partially damaged is counted as 25% of the completely damaged. This has proven to give he highest accuracy. The absolute number of houses damaged / people affected is insufficiently validated at the moment, and should just be used for further trainng and ground-truthing. Scoring The model has an best r2 score of 0.794933727 and an accuracy of 0.699470899 Data sources: Administrative boundaries (P_Codes) - Philippines Government; Published by GADM and UN OCHA (HDX) Census 2015 (population) - Philippine Statistics Authority; received from UN OCHA (HDX) Avg. wind speed (mph) - University College London Typhoon path - University College London Houses damaged - NDRRMC Rainfall - GPM Poverty - Pantawid pamilyang pilipino program (aggregated) Roof and wall materials New geographical features All the columns with feat_ indicates the importance of that feature, if not present that feature was not used. learn_matrix name of the learning matrix with the 5 typhoons run_name unique run name (pickle files and csv files have this name for this model) typhoon_to_predict name of a new typhoon to predict val_accuracy accuracy based on 10 categories of damage 0% 10% 20% … val_perc_down perc of underpredicted categories val_perc_up perc of overpredicted categories Val_best_score best r2 score Val_stdev_best_score error on best score based on the CV Val_score_test r2 score on the test set (this should be around +- 5% of the previus number to not overfit Val_mean_error_num_houses average error on the number of houses val_median_error_num_houses median val_std_error_num_houses std deviation of the errors (lower is better) Algorithm developed by 510.global the data innovation initiative of the Netherlands Red Cross."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Netherlands Red Cross"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "geodata",
+    "logistics",
+    "severity"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "geodata",
+    "logistics",
+    "severity"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "locn_geometry": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dcat_bbox": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "gbl_indexYear_im": [
+    2016
+  ],
+  "dct_format_s": "CSV",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/typhoon-nina-windspeed-rainfall-and-priority-index\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/5d75ef75-e57a-45a3-8992-84af62db0b3c/resource/0e11586a-5549-4df3-a999-7cd9df7f8848/download/typhoon-nina-windspeed.zip\"}"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "hdx-5665da77-dc27-4421-a640-9ff07effe1e2",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-07-17T05:10:26Z",
+  "dct_title_s": "Suez Canal, Bosporus Strait, Bab el-Mandeb Strait: Transits During Disruptions",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains the daily count of transits on select maritime passageways during the following events of disruption: i) Suez Canal blockage, ii) Russian Invasion of Ukraine for Bosporus Strait, and iii) the Houthi attacks for Bab el-Mandeb Strait. The counts are derived from Automatic Identification System (AIS) data--high frequency ship signals during navigation--using the framework developed in the publication [Analyzing anomalous events in passageways with high-frequency ship signals](https://doi.org/10.1371/journal.pone.0320129). Data to validate the transits and other supplementary dataof the publication are also included."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Asian Development Bank"
+  ],
+  "dcat_keyword_sm": [
+    "logistics",
+    "transportation"
+  ],
+  "dct_subject_sm": [
+    "logistics",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "Djibouti",
+    "Egypt",
+    "Eritrea",
+    "Türkiye",
+    "Yemen"
+  ],
+  "locn_geometry": "ENVELOPE(24.7, 53.11, 31.59, 10.93)",
+  "dcat_bbox": "ENVELOPE(24.7, 53.11, 31.59, 10.93)",
+  "dct_temporal_sm": [
+    "2019-2024"
+  ],
+  "gbl_indexYear_im": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "dct_format_s": "CSV",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/maritime-passageway-transits-during-disruptions\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/5665da77-dc27-4421-a640-9ff07effe1e2/resource/201438fb-54ce-44d6-a6f2-3f74d8cb0f4d/download/suez-canal.geojson\"}"
+}

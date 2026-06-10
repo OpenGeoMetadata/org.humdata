@@ -17,7 +17,7 @@
   "license_title": "odc-odbl",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2024-11-19T10:22:16.493959",
-  "metadata_modified": "2026-03-02T17:20:57.509603",
+  "metadata_modified": "2026-06-06T09:53:36.982993",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
   "name": "sudan-road-surface-data",
@@ -38,7 +38,7 @@
   },
   "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
   "package_creator": "sukanya-randhawa-6497",
-  "pageviews_last_14_days": 2,
+  "pageviews_last_14_days": 1,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Sudan\"]}",
@@ -62,6 +62,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:22:16.502319",
@@ -73,7 +74,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_sdn_roadsurface_lines.geojson",
       "id": "ddffaadc-11f2-419a-824e-a849af716745",
       "last_modified": "2024-11-19T10:22:16.460942",
-      "metadata_modified": "2026-03-02T17:20:57.587982",
+      "metadata_modified": "2026-06-06T09:53:37.066168",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -88,6 +89,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:22:16.502324",
@@ -99,7 +101,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_sdn_roadsurface_lines.gpkg",
       "id": "e270a53d-7e75-4e48-9987-78cc8bc23884",
       "last_modified": "2024-11-19T10:22:16.461111",
-      "metadata_modified": "2026-03-02T17:04:04.087878",
+      "metadata_modified": "2026-06-06T09:53:37.066350",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

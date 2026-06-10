@@ -17,7 +17,7 @@
   "license_title": "odc-odbl",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2024-11-19T10:22:23.697141",
-  "metadata_modified": "2026-03-02T17:21:05.889596",
+  "metadata_modified": "2026-06-06T09:53:59.919763",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
   "name": "australia-road-surface-data",
@@ -38,7 +38,7 @@
   },
   "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
   "package_creator": "sukanya-randhawa-6497",
-  "pageviews_last_14_days": 4,
+  "pageviews_last_14_days": 3,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Australia\"]}",
@@ -62,6 +62,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:22:23.703134",
@@ -73,7 +74,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_aus_roadsurface_lines.geojson",
       "id": "7f59c7d9-0867-4b1e-80fa-4c3f40db5769",
       "last_modified": "2024-11-19T10:22:23.666906",
-      "metadata_modified": "2026-03-02T17:21:05.984159",
+      "metadata_modified": "2026-06-06T09:54:00.072453",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -88,6 +89,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:22:23.703141",
@@ -99,7 +101,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_aus_roadsurface_lines.gpkg",
       "id": "615a4b4c-6068-43c8-ac0e-01a5e83e79ad",
       "last_modified": "2024-11-19T10:22:23.667078",
-      "metadata_modified": "2025-08-26T13:28:19.187969",
+      "metadata_modified": "2026-06-06T09:54:00.072634",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

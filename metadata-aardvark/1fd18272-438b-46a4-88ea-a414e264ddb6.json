@@ -1,0 +1,47 @@
+{
+  "id": "hdx-1fd18272-438b-46a4-88ea-a414e264ddb6",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T16:38:57Z",
+  "dct_title_s": "Mozambique, Road Access Constraints, Cyclone Idai",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset is based on an extract from OpenStreetMap. In addition, it contains access constraints status in the column \"status\" and is edited regularly with information received by partners of the Logistics cluster in Mozambique. This dataset is the same as used on the Logistics Cluster Access Constraints map published here: https://logcluster.org/sector/cyclone-idai19"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Logistics Cluster Mozambique"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata",
+    "humanitarian access",
+    "logistics",
+    "roads"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata",
+    "humanitarian access",
+    "logistics",
+    "roads"
+  ],
+  "dct_spatial_sm": [
+    "Mozambique"
+  ],
+  "locn_geometry": "ENVELOPE(30.18, 40.78, -10.32, -26.74)",
+  "dcat_bbox": "ENVELOPE(30.18, 40.78, -10.32, -26.74)",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "gbl_indexYear_im": [
+    2019
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mozambique-road-access-constraints-cyclone-idai\",\"http://schema.org/downloadUrl\":\"https://geonode.wfp.org/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Amoz_trs_roadaccessconstraints_wfp&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature&hdx=hdx\"}"
+}

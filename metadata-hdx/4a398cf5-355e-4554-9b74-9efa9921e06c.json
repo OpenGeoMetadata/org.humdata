@@ -17,7 +17,7 @@
   "license_title": "odc-odbl",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2024-11-19T10:24:05.520347",
-  "metadata_modified": "2026-03-02T17:30:46.369163",
+  "metadata_modified": "2026-06-06T09:32:29.460215",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
   "name": "seychelles-road-surface-data",
@@ -38,7 +38,7 @@
   },
   "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
   "package_creator": "sukanya-randhawa-6497",
-  "pageviews_last_14_days": 3,
+  "pageviews_last_14_days": 4,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Seychelles\"]}",
@@ -62,6 +62,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:24:05.525364",
@@ -73,7 +74,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_syc_roadsurface_lines.geojson",
       "id": "96ee21cf-75b0-43b8-8c41-206ed6eae708",
       "last_modified": "2024-11-19T10:24:05.461787",
-      "metadata_modified": "2026-03-02T17:30:46.448509",
+      "metadata_modified": "2026-06-06T09:32:29.523369",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -88,6 +89,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:24:05.525369",
@@ -99,7 +101,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_syc_roadsurface_lines.gpkg",
       "id": "b44d6b1a-126e-444f-9d8c-dae07326aacf",
       "last_modified": "2024-11-19T10:24:05.462092",
-      "metadata_modified": "2026-03-02T17:05:49.091398",
+      "metadata_modified": "2026-06-06T09:32:29.523483",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

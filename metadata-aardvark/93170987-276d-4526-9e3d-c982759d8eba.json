@@ -1,0 +1,43 @@
+{
+  "id": "hdx-93170987-276d-4526-9e3d-c982759d8eba",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-02-02T14:58:47Z",
+  "dct_title_s": "Iraq - Populated Places (Cities, Villages, Towns)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Settlement locations representing cities, towns, villages, and neighborhoods P-coded in accordance with [Iraq - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-irq) (COD-AB). The \"Iraq populated places 2021 P-coded.xlsx\" spreadsheet contains two tables . Table \"IRQ populated places master\" contains all 12,494 available records. Table '\"RQ populated places filter\" excludes 338 master records that have blank English (ADM3_EN) and blank Arabic (ADM4_AR) names, and is the basis for the shapefile. The \"IRQ populated places V04\" contains the 12,156 points of the \"IRQ populated places filter\" table. When names are verified for the 338 excluded records the spreadsheet and shapefile will be updated. The [Iraq - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-irq) (COD-AB) administrative level 0-3 gazetteer is also included."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OSM, IOM-DTM, DIVA"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "hxl",
+    "populated places-settlements"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "hxl",
+    "populated places-settlements"
+  ],
+  "dct_spatial_sm": [
+    "Iraq"
+  ],
+  "locn_geometry": "ENVELOPE(38.79, 48.57, 37.39, 29.1)",
+  "dcat_bbox": "ENVELOPE(38.79, 48.57, 37.39, 29.1)",
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "dct_format_s": "XLSX",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/iraq-populated-places-2021\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/93170987-276d-4526-9e3d-c982759d8eba/resource/cf461e2e-4ae2-439d-a6c6-ec0c5e2f5bad/download/iraq-populated-places-2021-p-coded.xlsx\"}"
+}

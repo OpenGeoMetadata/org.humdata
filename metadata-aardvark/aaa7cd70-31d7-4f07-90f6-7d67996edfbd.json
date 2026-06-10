@@ -1,0 +1,39 @@
+{
+  "id": "hdx-aaa7cd70-31d7-4f07-90f6-7d67996edfbd",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-06-25T02:02:47Z",
+  "dct_title_s": "Ghana - Subnational Edge-matched Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Ghana administrative level 0-2 edge-matched gazetteer, shapefiles, geodatabase, and geoservice. COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-gha); however COD-EM datasets may be preferred for cartographic purposes. See caveats. These layers are suitable for database or GIS linkage to the [Ghana - Subnational Population Statistics tables](https://data.humdata.org/dataset/cod-ps-gha) using the ADM0, ADM1, or ADM2_PCODE fields. Vetting by Information Technology Outreach Services (ITOS) with funding from USAID."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Ghana Statistical Services (GSS) and ITOS"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions"
+  ],
+  "dct_spatial_sm": [
+    "Ghana"
+  ],
+  "locn_geometry": "ENVELOPE(-3.24, 1.06, 11.1, 4.71)",
+  "dcat_bbox": "ENVELOPE(-3.24, 1.06, 11.1, 4.71)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "XLSX",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-em-gha\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/aaa7cd70-31d7-4f07-90f6-7d67996edfbd/resource/dac37d81-d942-4993-9ee4-d78717c89b4a/download/gha_adminboundaries_tabulardata.xlsx\"}"
+}

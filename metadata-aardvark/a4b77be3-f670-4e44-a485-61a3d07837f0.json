@@ -1,0 +1,43 @@
+{
+  "id": "hdx-a4b77be3-f670-4e44-a485-61a3d07837f0",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T20:29:13Z",
+  "dct_title_s": "Gridded Disaggregated Population Estimates for Kenya (version 1.0)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "These data were produced by the [ WorldPop](https://www.worldpop.org/) Research Group at the University of Southampton. This work was part of the GRID3 project with funding from the United Nations Children's Fund ([ UNICEF ](https://www.unicef.org/)) - Population Modelling for use in Routine Health Planning and Monitoring project (contract no. 43335861). Projects partners included the Kenya Unicef Regional and Country Offices, WorldPop research group at the University of Southampton and the Center for International Earth Science Information Network [ CIESIN](http://www.ciesin.org/) in the Columbia Climate School at Columbia University. Assane Gadiaga (WorldPop) led the input processing and the modelling work following the Random Forest (RF)-based dasymetric mapping approach developed by Stevens et al. (2015). Thomas Abbott supported the covariates processing work, as well as Christopher Lloyd, particularly for the processing of residential/non-residential building footprints. In-country engagements were done by Benard Mitto, Justine Dowden (CIESIN) and Maria Muniz (Unicef). Using the 2009 and 2019 census data from the Kenya’s National Bureau of Statistics (KNBS), the US Census Bureau released the census-based total population projections, population by age and gender and digital sub-counties boundaries. Duygu Cihan helped in the preparation of these input population data. Attila N Lazar, Edith Darin and Heather Chamberlain advised on the modelling procedure. The work was overseen by Attila N Lazar and Andy J Tatem. For further details, please, read the [Release Statement](https://data.worldpop.org/repo/wopr/KEN/population/v1.0/KEN_population_v1_0_README.pdf). **Release content** 1. KEN_population_v1_0_gridded.tif 2. KEN_population_v1_0_agesex.zip 3. KEN_population_v1_0_mastergrid.tif **Recommended citations** Gadiaga A. N., Abbott T. J., Chamberlain H., Lloyd C. T., Lazar A. N., Darin E., Tatem A. J. 2022. *Census disaggregated gridded population estimates for Kenya (2021), version 1.0* University of Southampton. doi:10.5258/SOTON/WP00747 **License** *These data may be distributed using a Creative Commons Attribution 4.0 International (CC BY 4.0) License, specified in legal code. Contact release[at]worldpop.org for more information*. The authors followed rigorous procedures designed to ensure that the used data, the applied method and thus the results are appropriate and of reasonable quality. If users encounter apparent errors or misstatements, they should contact WorldPop at release[at]worldpop.org. [WorldPop](https://www.worldpop.org/), University of Southampton, and their sponsors offer these data on a \"where is, as is\" basis; do not offer an express or implied warranty of any kind; do not guarantee the quality, applicability, accuracy, reliability or completeness of any data provided; and shall not be liable for incidental, consequential, or special damages arising out of the use of any data that they offer."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WorldPop"
+  ],
+  "dcat_keyword_sm": [
+    "demographics",
+    "gender and age disaggregated data-gadd",
+    "population"
+  ],
+  "dct_subject_sm": [
+    "demographics",
+    "gender and age disaggregated data-gadd",
+    "population"
+  ],
+  "dct_spatial_sm": [
+    "Kenya"
+  ],
+  "locn_geometry": "ENVELOPE(33.89, 41.86, 5.51, -4.68)",
+  "dcat_bbox": "ENVELOPE(33.89, 41.86, 5.51, -4.68)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/gridded-disaggregated-population-estimates-for-kenya-2021-version-1-0\",\"http://schema.org/downloadUrl\":\"https://data.worldpop.org/repo/wopr/KEN/population/v1.0/KEN_population_v1_0_gridded.tif\"}"
+}

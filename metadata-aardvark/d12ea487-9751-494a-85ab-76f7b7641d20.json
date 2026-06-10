@@ -1,0 +1,43 @@
+{
+  "id": "hdx-d12ea487-9751-494a-85ab-76f7b7641d20",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T21:31:47Z",
+  "dct_title_s": "Global obstacles (WFP SDI-T - Logistics Database)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This layer contains information about obstacles in different countries where WFP operates"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP, Logistics Cluster"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "logistics",
+    "transportation"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "logistics",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "gbl_indexYear_im": [
+    2014
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/global-obstacles\",\"http://schema.org/downloadUrl\":\"http://geonode.wfp.org/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Awld_trs_obstacles_wfp&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature\"}"
+}

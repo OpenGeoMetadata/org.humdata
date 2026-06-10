@@ -1,0 +1,41 @@
+{
+  "id": "hdx-81234d60-7601-4fae-ba55-066aaaeedf54",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T19:23:43Z",
+  "dct_title_s": "Satellite detected water extents over Sofala, Tete and Zambezia Provinces, Mozambique as of 26 March 2023",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code TC20230221MOZ, GDACS Id: 1000961** This map illustrates satellite-detected water using Sentinel-2 acquired on 26 March 2023, 09:55 local time over the intersection between Shire river and Zambezi rivers in Sofala, Tete and Zambezia Provinces of Mozambique. Within the cloud-free analyzed areas of about 20,000 km², a total of about 1,800 km² of land appear to be affected by flood waters. Water extent appears to have decreased of about 600 km2 since 21 March 2023. Based on Worldpop population data and flood water extent, ~120,000 people are potentially exposed or living close to flooded areas mainly located in Mutarara district, Tete province with ~46,000 people, Mopeia district, Zambezia province with ~22,000 people, and Caia district, Sofala province with ~20,00 people. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to the United Nations Satellite Centre (UNOSAT)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Mozambique"
+  ],
+  "locn_geometry": "ENVELOPE(30.18, 40.78, -10.32, -26.74)",
+  "dcat_bbox": "ENVELOPE(30.18, 40.78, -10.32, -26.74)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extents-over-sofala-tete-and-zambezia-provinces-mozambique-as-of-26-march-2023\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3549/TC20230221MOZ.gdb.zip\"}"
+}

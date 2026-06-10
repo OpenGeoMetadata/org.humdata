@@ -1,0 +1,39 @@
+{
+  "id": "hdx-3dd7c273-3fb2-4b41-80b1-55df10efe1c1",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-09-05T06:54:42Z",
+  "dct_title_s": "COD Admin 2 geojson simplified geometries from gistmaps live service source",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset is of simplified geometries from COD live services deployed June 2019. Simplification methods applied from ESRI libraries using Python, Node.js and Mapshaper.js and based on adapted procedures for best outcomes preserving shape, topology and attributes. These data are not a substitute for the original COD data sets used in GIS applications. No warranties of any kind are made for any purpose and this dataset is offered as-is. Versions of topojson, kml and csv are also available. For a list of other simplified CODs see the address list: https://github.com/UGA-ITOSHumanitarianGIS/mapservicedoc/raw/master/Data/AWSDeploymentURLlist.xlsx"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "ITOS"
+  ],
+  "dcat_keyword_sm": [
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Mozambique"
+  ],
+  "locn_geometry": "ENVELOPE(30.18, 40.78, -10.32, -26.74)",
+  "dcat_bbox": "ENVELOPE(30.18, 40.78, -10.32, -26.74)",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "gbl_indexYear_im": [
+    2019
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-admin-2-geojson-simplified-geometries-from-gistmaps-live-service-source\",\"http://schema.org/downloadUrl\":\"https://s3.amazonaws.com/itos-humanitarian/MOZ/COD_MOZ_Admin2.geojson\"}"
+}

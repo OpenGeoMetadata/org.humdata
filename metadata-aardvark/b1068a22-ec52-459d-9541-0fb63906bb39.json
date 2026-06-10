@@ -1,0 +1,55 @@
+{
+  "id": "hdx-b1068a22-ec52-459d-9541-0fb63906bb39",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-04-25T20:02:43Z",
+  "dct_title_s": "Asia Pacific: Storm tracks 1956 to 2018",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This shape file consists of consolidated history of tropical storm paths over the past 50 years in the West Pacific, South Pacific, South Indian and North Indian basin. Attributes provides details such as storm Name, Date, Time, wind speed and GPS points for each advisory point. Wind speeds are in knots for more details on speeds conversion and storm categories please visit the original source of data: UNISYS (http://weather.unisys.com/hurricane/index.php), NOAA (http://rammb.cira.colostate.edu/products/tc_realtime/index.asp)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OCHA ROAP, UNISYS"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Bangladesh",
+    "Democratic People's Republic of Korea",
+    "Fiji",
+    "India",
+    "Indonesia",
+    "Japan",
+    "Malaysia",
+    "Myanmar",
+    "Papua New Guinea",
+    "Philippines",
+    "Republic of Korea",
+    "Solomon Islands",
+    "Sri Lanka",
+    "Thailand",
+    "Viet Nam"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 45.55, -18.29)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 45.55, -18.29)",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "gbl_indexYear_im": [
+    2018
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/asia-pacific-storm-tracks-1956-to-2018\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/b1068a22-ec52-459d-9541-0fb63906bb39/resource/85fe1efc-e737-4b9a-ae87-b0365a1cced3/download/unisys_tracks_1956_2018dec31.zip\"}"
+}

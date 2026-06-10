@@ -1,0 +1,41 @@
+{
+  "id": "hdx-497a3ddc-0b8f-4c2a-ac36-3d76843c99f8",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T17:46:11Z",
+  "dct_title_s": "Satellite detected water extents over Pinar del Río province, Cuba as of 28 September 2022",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code TC20221001CUB, GDACS Id: 1000923** This map illustrates satellite-detected surface waters in Pinar del Río province, Cuba as observed from a Sentinel-1 imagery acquired on 28 September 2022 at 07:27 local time. Within the analyzed area of about 1,300 km², a total of about 27 km² of lands appear to be affected with flood waters amongst which 13 km² are flooded croplands. Based on Worldpop population data and the detected surface waters, about 4,200 people are potentially exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Cuba"
+  ],
+  "locn_geometry": "ENVELOPE(-84.97, -74.18, 23.19, 19.86)",
+  "dcat_bbox": "ENVELOPE(-84.97, -74.18, 23.19, 19.86)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-water-extents-over-pinar-del-rio-province-cuba-as-of-28-september-2022\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3392/TC20221001CUB_gdb.zip\"}"
+}

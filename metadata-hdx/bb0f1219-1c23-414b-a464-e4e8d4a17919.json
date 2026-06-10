@@ -18,7 +18,7 @@
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "ec60abc6-22cf-426d-9bc4-de3873043339",
   "metadata_created": "2021-01-27T22:31:09.434451",
-  "metadata_modified": "2026-02-19T10:48:36.986216",
+  "metadata_modified": "2026-06-10T10:15:45.160882",
   "methodology": "Census",
   "name": "gridded-population-estimates-for-mozambique-2017-census-v1-1",
   "notes": "These data were produced by the [WorldPop](https://www.worldpop.org/) Research Group at the University of Southampton. This work is part of the [GRID3 ](https://grid3.org/) (Geo-Referenced Infrastructure and Demographic Data for Development) project funded by the Bill and Melinda Gates Foundation (BMGF) and the United Kingdom Foreign, Commonwealth & Development Office (OPP1182425). Project partners include WorldPop at the University of Southampton, the United Nations Population Fund ([UNFPA](https://www.unfpa.org)), Center for International Earth Science Information Network ([CIESIN](http://www.ciesin.org/)) in the Earth Institute at Columbia University, and the [Flowminder](https://www.flowminder.org) Foundation. \r\n\r\nThis work provides an estimate of the geographic distribution of the population of Mozambique in 2017. The outputs are intended as an interim population product to support ongoing development and operations work until such time as the official 2017 Population and Housing Census results are available in a spatial gridded format. At that time, this interim gridded population layer will be superseded and users will be advised to use the official gridded population release from [INE](http://www.ine.gov.mz/iv-rgph-2017).\r\n\r\nFor further details, please, read MOZ_population_v1_1_README.pdf\r\n\r\n__Recommended citation__\r\n_Bondarenko M, Jones P, Leasure D, Lazar AN, Tatem AJ. 2020. Census disaggregated gridded population estimates for Mozambique (2017), version 1.1. WorldPop, University of Southampton. doi:10.5258/SOTON/WP00672_\r\n\r\n\r\n\r\n",
@@ -143,6 +143,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2021-01-27T22:31:17.873018",
@@ -154,7 +155,7 @@
       "hdx_rel_url": "https://wopr.worldpop.org/download/242",
       "id": "423179ce-eb5b-4bf6-b9ab-0d6dfa7393e7",
       "last_modified": "2025-08-26T10:43:53.995853",
-      "metadata_modified": "2025-08-26T15:52:28.633284",
+      "metadata_modified": "2026-06-10T10:15:45.181979",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

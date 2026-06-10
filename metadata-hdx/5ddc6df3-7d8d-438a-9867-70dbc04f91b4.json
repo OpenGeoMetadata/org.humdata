@@ -1,0 +1,123 @@
+{
+  "archived": false,
+  "creator_user_id": "89ec5f96-e8f1-40e8-8e49-edb05246a33e",
+  "data_update_frequency": "-1",
+  "dataset_date": "[2020-01-01T00:00:00 TO 2020-12-31T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "IIEP-UNESCO",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "5ddc6df3-7d8d-438a-9867-70dbc04f91b4",
+  "is_requestdata_type": false,
+  "isopen": true,
+  "last_modified": "2022-06-22T14:30:10.324037",
+  "license_id": "cc-by-sa",
+  "license_title": "Creative Commons Attribution Share-Alike (CC BY-SA)",
+  "license_url": "http://www.opendefinition.org/licenses/cc-by-sa",
+  "maintainer": "89ec5f96-e8f1-40e8-8e49-edb05246a33e",
+  "metadata_created": "2022-06-15T13:57:51.160784",
+  "metadata_modified": "2022-06-30T15:10:34.774707",
+  "methodology": "Other",
+  "methodology_other": "This methodology takes 5-year age group by sex and disaggregates them using Sprague multipliers to obtain single years of age by sex. It then uses starting age and duration by educational cycle to reconstruct the corresponding school age groups by level, by males, females, and total. It works entirely with rasters, so the native 100m resolution from WorldPop remains as the final data granularity.",
+  "name": "spatialized-100m-school-age-population-grid-for-togo-by-educational-level-and-sex-2020",
+  "notes": "This GeoTIFF file contains 12 bands presenting the school age population for Togo in 2020. It was constructed using constrained UN-adjusted spatialized age and sex population estimates for 2020 by [WorldPop](https://hub.worldpop.org/geodata/summary?id=50548\"Togo 100m Age structures in 2020 with country total adjusted to match the corresponding UNDP estimate\"), by applying the methodology published by [IIEP-UNESCO](https://unesdoc.unesco.org/ark:/48223/pf0000379198 \"Estimating school-age populations by applying Sprague multipliers to raster data\") (2021). The bands contain information for Female, Male, and Total, for Pre-primary, Primary, Lower Secondary, and Upper secondary, reconstructed from single years of age using ISCED information on starting age and duration included in [UIS](http://data.uis.unesco.org/ \"UIS.Stat\"). The correspondence is included below:\r\n\r\n* Band 1: Pre-primary Female\r\n* Band 2: Pre-primary Male\r\n* Band 3: Pre-primary Total\r\n* Band 4: Primary Female\r\n* Band 5: Primary Male\r\n* Band 6: Primary Total\r\n* Band 7: Lower secondary Female \r\n* Band 8: Lower secondary Male\r\n* Band 9: Lower secondary Total\r\n* Band 10: Upper secondary Female\r\n* Band 11: Upper secondary Male\r\n* Band 12: Upper secondary Total\r\n\r\nThe boundaries used for the clipping of the resulting calculations came from the [United Nations Second Administrative Level Boundary program](https://www.unsalb.org/data/tgo \"Togo\").\r\n\r\nDisclaimer: The designations employed and the presentation of the material in this publication do not imply the expression of any opinion whatsoever on the part of UNESCO or IIEP concerning the legal status of any country, territory, city or area, or of its authorities, or concerning the delimitation of its frontiers or boundaries. UNESCO or IIEP are not responsible for the use given to this information.\r\n",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "id": "18f2d467-dcf8-4b7e-bffa-b3c338ba3a7c",
+    "name": "unesco",
+    "title": "UNESCO",
+    "type": "organization",
+    "description": "UNESCO is the United Nations agency that promotes education, science, culture, and communication to foster peace and equality worldwide.\r\n\r\nThe Organization sets standards, develops tools, and supports international cooperation to address global challenges. UNESCO also plays a key role in crisis response, ensuring access to education and safeguarding cultural heritage.",
+    "image_url": "",
+    "created": "2017-09-13T08:52:39.416691",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "18f2d467-dcf8-4b7e-bffa-b3c338ba3a7c",
+  "package_creator": "development",
+  "pageviews_last_14_days": 2,
+  "private": false,
+  "qa_completed": true,
+  "solr_additions": "{\"countries\": [\"Togo\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Spatialized 100m school age population grid for Togo, by educational level and sex, 2020",
+  "total_res_downloads": 32,
+  "type": "dataset",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Togo",
+      "id": "tgo",
+      "image_display_url": "",
+      "name": "tgo",
+      "title": "Togo"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/5ddc6df3-7d8d-438a-9867-70dbc04f91b4/resource/5f6501d6-03a5-4e36-bc54-0637e0d15fe4/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2022-06-22T14:30:10.618368",
+      "datastore_active": false,
+      "description": "",
+      "download_url": "https://data.humdata.org/dataset/5ddc6df3-7d8d-438a-9867-70dbc04f91b4/resource/5f6501d6-03a5-4e36-bc54-0637e0d15fe4/download/togo-school-age-population.tif",
+      "format": "GeoTIFF",
+      "hash": "",
+      "hdx_rel_url": "/dataset/5ddc6df3-7d8d-438a-9867-70dbc04f91b4/resource/5f6501d6-03a5-4e36-bc54-0637e0d15fe4/download/togo-school-age-population.tif",
+      "id": "5f6501d6-03a5-4e36-bc54-0637e0d15fe4",
+      "last_modified": "2022-06-22T14:30:10.324037",
+      "metadata_modified": "2022-06-30T15:10:34.812927",
+      "microdata": false,
+      "mimetype": "image/tiff",
+      "mimetype_inner": null,
+      "name": "school-age-population-togo",
+      "originalHash": "-988266717",
+      "package_id": "5ddc6df3-7d8d-438a-9867-70dbc04f91b4",
+      "pii": "false",
+      "position": 0,
+      "resource_type": "file.upload",
+      "size": 673979452,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/5ddc6df3-7d8d-438a-9867-70dbc04f91b4/resource/5f6501d6-03a5-4e36-bc54-0637e0d15fe4/download/togo-school-age-population.tif",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "baseline population",
+      "id": "db8205e9-b61c-4df7-a987-1a2658ed8666",
+      "name": "baseline population",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "demographics",
+      "id": "7aa60d26-5c83-4c50-80d2-0b944fe80122",
+      "name": "demographics",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "education",
+      "id": "111f9068-6270-4dbd-a2a9-b4d69ee1735b",
+      "name": "education",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

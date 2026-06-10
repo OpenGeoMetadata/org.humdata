@@ -1,0 +1,41 @@
+{
+  "id": "hdx-e2e6c967-d830-4a21-a25e-65557f836356",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T21:56:28Z",
+  "dct_title_s": "Satellite detected surface water extents in Bulacan, Nueva Ecija, Pampanga, and Tarlac Provinces, Region III, Philippines  as of 3 November 2022",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code TC20221028PHL, GDACS Id: 1000942** This map illustrates the extent of surface waters in Bulacan, Nueva Ecija, Pampanga, and Tarlac Provinces, Region III, Philippines as observed from a TerraSAR-X image acquired on 3 November 2022 at 05:59 local time. Within the analysis extent of about 1,800 km2, approximately 160 km2 of land appears to be inundated and 140 km2 of croplands appear to be likely affected by the flood waters. Based on Worldpop population data and detected surface waters, approximately 84,000 people are potentially exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "locn_geometry": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dcat_bbox": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/surface-water-extents-in-bulacan-nueva-ecija-pampanga-and-tarlac-provinces-region-iii-phil\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3438/TC20221028PHL_gdb.zip\"}"
+}

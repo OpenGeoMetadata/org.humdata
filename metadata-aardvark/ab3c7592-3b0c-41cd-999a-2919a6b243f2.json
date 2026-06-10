@@ -1,0 +1,50 @@
+{
+  "id": "hdx-ab3c7592-3b0c-41cd-999a-2919a6b243f2",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-07-01T13:44:28Z",
+  "dct_title_s": "Ecuador - Subnational Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Ecuador administrative level 0-3 boundaries (COD-AB) dataset. These administrative boundaries were established in: 2017 NOTE: ADM4 feature names are not yet availalble. (Currently ADM4_PCODE is copied into ADM4_ES as a proxy.) No lines layer is yet availalbe. The live geoservices do not reflect the new ADM4 level. This COD-AB was most recently reviewed for accuracy and necessary changes in December 2024. The COD-AB does not require any update. Sourced from INEC - Instituto Nacional de Estadística y Censos Vetting by Information Technology Outreach Services (ITOS) with funding from USAID. This COD-AB is suitable for database or GIS linkage to the Ecuador [COD-PS](https://data.humdata.org/dataset/cod-ps-ecu). No edge-matched (COD-EM) version of this COD-AB has yet been prepared. Please see the [COD Portal](https://cod.unocha.org/). Administrative level 1 contains 26 feature(s). The normal administrative level 1 feature type is \"\"currently not known\"\". Administrative level 2 contains 223 feature(s). The normal administrative level 2 feature type is \"\"currently not known\"\". Administrative level 3 contains 1,044 feature(s). The normal administrative level 3 feature type is \"\"currently not known\"\". Recommended cartographic projection: South America Albers Equal Area Conic This metadata was last updated on January 9, 2025."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "INEC - Instituto Nacional de Estadística y Censos"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Ecuador"
+  ],
+  "locn_geometry": "ENVELOPE(-80.97, -75.23, 1.38, -4.96)",
+  "dcat_bbox": "ENVELOPE(-80.97, -75.23, 1.38, -4.96)",
+  "dct_temporal_sm": [
+    "2017-2024"
+  ],
+  "gbl_indexYear_im": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-ecu\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/ab3c7592-3b0c-41cd-999a-2919a6b243f2/resource/d00145f6-141c-4bf2-a881-c32341ddec75/download/ecu_adm_2024.zip\"}"
+}

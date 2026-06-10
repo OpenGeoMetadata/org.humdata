@@ -1,0 +1,43 @@
+{
+  "id": "hdx-a399908a-e5d5-4cd8-9900-a0a0ec87fdb1",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2023-03-03T09:44:58Z",
+  "dct_title_s": "LSIB - Simplified Shoreline",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Data as of March 8, 2013. These boundary lines were derived from the World Vector Shoreline dataset and match up with the [2013 detailed LSIB polygons](https://hiu.state.gov/data/data.aspx). The 1:250,000 scale World Vector Shoreline (WVS) coastline data is generally shifted by several hundred meters to over a km. To simplify the polygons, the [ArcGIS Simplify Polygon tool](http://resources.arcgis.com/en/help/main/10.1/index.html#/Simplify_Line_Or_Polygon/00130000003w000000/) was used, using the Bend Simplify algorithm with a maximum allowable offset of 3 miles. Topology was then corrected for any errors produced by the simplification process. For convenience, the dataset is broken out into regions: (1) Africa, (2) Asia and Russia, (3) Europe and Southwest Asia, (4) North America, (5) Oceania, and (6) South America. In the zip file, there is also a global dataset (approximately 24 MBs) that includes all the data. There are no restrictions on use of this public domain data. This dataset will be updated as needed and is current as of March 08, 2013."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "US Dept. of State Office of the Geographer"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "geodata",
+    "hydrology"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "geodata",
+    "hydrology"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "gbl_indexYear_im": [
+    2013
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/lsib-simplified-shoreline\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/a399908a-e5d5-4cd8-9900-a0a0ec87fdb1/resource/d20c3101-7585-4145-a579-6acec7aadf61/download/global-simplifiedshoreline-2013march08-hiu-usdos.zip\"}"
+}

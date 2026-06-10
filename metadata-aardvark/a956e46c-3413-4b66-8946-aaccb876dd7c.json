@@ -1,0 +1,41 @@
+{
+  "id": "hdx-a956e46c-3413-4b66-8946-aaccb876dd7c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T20:26:48Z",
+  "dct_title_s": "Satellite detected water extent in Dosso Region, Niger as of 05 October 2022",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code FL20221004NER** This map illustrates satellite-detected surface waters in Dosso Region, Niger as observed from a Sentinel-2 image acquired on 05 October 2022 at 11:27 local time. Within the extent of this map of about 12,500 km2, about 225 km2 of lands appear to be flooded. Based on Worldpop population data and the detected surface waters within the map extent, about 35,000 people are potentially exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to United Nations Satellite Centre (UNOSAT)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Niger"
+  ],
+  "locn_geometry": "ENVELOPE(0.3, 15.9, 23.47, 11.66)",
+  "dcat_bbox": "ENVELOPE(0.3, 15.9, 23.47, 11.66)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-water-extent-in-dosso-region-niger-as-of-05-october-2022\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3396/FL20221004NER_gdb.zip\"}"
+}

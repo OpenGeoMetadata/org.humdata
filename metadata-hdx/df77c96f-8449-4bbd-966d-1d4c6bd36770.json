@@ -1,0 +1,150 @@
+{
+  "archived": true,
+  "batch": "defe61fd-c011-4c31-a9b2-050c093cb309",
+  "creator_user_id": "b2a10001-ae91-4e5e-b6e2-1fe1e1177610",
+  "data_update_frequency": "-1",
+  "dataset_date": "[2017-03-30T00:00:00 TO 2017-03-30T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "CGIAR Consortium for Spatial Information (CGIAR-CSI)",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "df77c96f-8449-4bbd-966d-1d4c6bd36770",
+  "is_requestdata_type": false,
+  "isopen": false,
+  "last_modified": "2017-03-30T09:32:10.930522",
+  "license_id": "hdx-odc-by",
+  "license_title": "Open Data Commons Attribution License (ODC-BY)",
+  "license_url": "https://opendatacommons.org/licenses/by/1-0/",
+  "maintainer": "3b7b0518-4458-4296-88c4-6f4f30c78b88",
+  "metadata_created": "2017-03-29T11:25:50.273575",
+  "metadata_modified": "2025-02-24T18:51:19.281364",
+  "methodology": "Other",
+  "methodology_other": "See this [link](http://srtm.csi.cgiar.org/)",
+  "name": "gulf-countries-elevation-model",
+  "notes": "Digital Elevation Model (DEM) of Gulf Countries, The NASA Shuttle Radar Topographic Mission (SRTM). Resolution: 250 m. Source: USGS/NASA-SRTM",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "id": "ae50792c-b87d-46bb-b42f-3887264ce019",
+    "name": "ocha-romena",
+    "title": "OCHA Middle East and North Africa (ROMENA)",
+    "type": "organization",
+    "description": "The OCHA Regional Office for Middle East and North Africa (ROMENA) based in Cairo and Amman and covers 21 countries and territories spread across the region.",
+    "image_url": "",
+    "created": "2015-10-26T20:29:05.820249",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "ae50792c-b87d-46bb-b42f-3887264ce019",
+  "package_creator": "shaimaa_amin",
+  "pageviews_last_14_days": 14,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Bahrain\", \"Kuwait\", \"Oman\", \"Qatar\", \"Saudi Arabia\", \"United Arab Emirates\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Gulf Countries- Elevation Model",
+  "total_res_downloads": 513,
+  "type": "dataset",
+  "updated_by_script": "HDXINTERNAL:HDXPythonLibrary/6.2.0-CODs (2025-02-24T18:51:19.127117)",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Bahrain",
+      "id": "bhr",
+      "image_display_url": "",
+      "name": "bhr",
+      "title": "Bahrain"
+    },
+    {
+      "description": "",
+      "display_name": "Kuwait",
+      "id": "kwt",
+      "image_display_url": "",
+      "name": "kwt",
+      "title": "Kuwait"
+    },
+    {
+      "description": "",
+      "display_name": "Oman",
+      "id": "omn",
+      "image_display_url": "",
+      "name": "omn",
+      "title": "Oman"
+    },
+    {
+      "description": "",
+      "display_name": "Qatar",
+      "id": "qat",
+      "image_display_url": "",
+      "name": "qat",
+      "title": "Qatar"
+    },
+    {
+      "description": "",
+      "display_name": "Saudi Arabia",
+      "id": "sau",
+      "image_display_url": "",
+      "name": "sau",
+      "title": "Saudi Arabia"
+    },
+    {
+      "description": "",
+      "display_name": "United Arab Emirates",
+      "id": "are",
+      "image_display_url": "",
+      "name": "are",
+      "title": "United Arab Emirates"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/df77c96f-8449-4bbd-966d-1d4c6bd36770/resource/e9149f60-10bd-44c1-9043-7d7d6c7aa743/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2017-03-29T11:27:35.025171",
+      "datastore_active": false,
+      "description": "Digital Elevation Model (DEM) of Gulf Countries, The NASA Shuttle Radar Topographic Mission (SRTM). Resolution: 250 m. Source: USGS/NASA-SRTM",
+      "download_url": "https://data.humdata.org/dataset/df77c96f-8449-4bbd-966d-1d4c6bd36770/resource/e9149f60-10bd-44c1-9043-7d7d6c7aa743/download/dem.zip",
+      "format": "GeoTIFF",
+      "hash": "",
+      "hdx_rel_url": "/dataset/df77c96f-8449-4bbd-966d-1d4c6bd36770/resource/e9149f60-10bd-44c1-9043-7d7d6c7aa743/download/dem.zip",
+      "id": "e9149f60-10bd-44c1-9043-7d7d6c7aa743",
+      "last_modified": "2017-03-30T09:32:10.930522",
+      "metadata_modified": "2022-10-17T17:37:55.431600",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "DEM.zip",
+      "originalHash": "1770980622",
+      "package_id": "df77c96f-8449-4bbd-966d-1d4c6bd36770",
+      "position": 0,
+      "resource_type": "file.upload",
+      "size": 52664589,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/df77c96f-8449-4bbd-966d-1d4c6bd36770/resource/e9149f60-10bd-44c1-9043-7d7d6c7aa743/download/dem.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "topography",
+      "id": "bc80e9b0-5bcc-416a-a4c1-e28757465f9c",
+      "name": "topography",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

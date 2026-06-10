@@ -17,7 +17,7 @@
   "license_title": "odc-odbl",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2024-11-19T10:23:44.493132",
-  "metadata_modified": "2026-03-02T17:28:11.857753",
+  "metadata_modified": "2026-06-06T09:10:04.277162",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
   "name": "pakistan-road-surface-data",
@@ -38,7 +38,7 @@
   },
   "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
   "package_creator": "sukanya-randhawa-6497",
-  "pageviews_last_14_days": 1,
+  "pageviews_last_14_days": 2,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Pakistan\"]}",
@@ -62,6 +62,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:23:44.496107",
@@ -73,7 +74,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_pak_roadsurface_lines.geojson",
       "id": "bb4c9a4a-256d-4c2c-86b4-a12822b1dc72",
       "last_modified": "2024-11-19T10:23:44.470706",
-      "metadata_modified": "2026-03-02T17:28:11.920359",
+      "metadata_modified": "2026-06-06T09:10:04.359485",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -88,6 +89,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:23:44.496112",
@@ -99,7 +101,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_pak_roadsurface_lines.gpkg",
       "id": "564fcd8f-4e90-4fcf-b5fd-6599023f5174",
       "last_modified": "2024-11-19T10:23:44.470956",
-      "metadata_modified": "2026-03-02T17:05:32.492160",
+      "metadata_modified": "2026-06-06T09:10:04.359667",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

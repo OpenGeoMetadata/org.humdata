@@ -1,0 +1,41 @@
+{
+  "id": "hdx-69a97d02-a738-4d64-a89d-32d985e6b317",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-21T15:39:43Z",
+  "dct_title_s": "Análisis de edificaciones visualmente dañadas en la ciudad de Mocoa, Colombia",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Posterior al deslizamiento de tierra que sembró el caos en la ciudad de Mocoa (Departamento de Putumayo, Colombia) el 31 de marzo de 2017 como consecuencia de las fuertes lluvias, el International Charter Space & Major Disasters fue activado bajo la petición de la Unidad Nacional para la Gestión del Riesgo de Desastres, IDEAM. En respuesta a la emergencia, UNITAR-UNOSAT ha llevado a cabo análisis visible de daño en las edificaciones causado por el deslizamiento de tierra, usando imágenes satelitales de alta resolución. Este mapa ilustra edificaciones dañadas detectadas en imágenes satelitales y la densidad de daño asociada en la ciudad de Mocoa y sus alrededores. El análisis ha sido conducido utilizando como imágenes post emergencia las adquiridas por los satélites Pleiades y GeoEye-1 el 7 y el 10 de abril de 2017 y como imágenes pre emergencia las adquiridas por los satélites WorldView-2 y WorldView-1 en las fechas del 21 de diciembre de 2016 y 26 de diciembre de 2013. El resultado del análisis conducido por UNOSAT revela un total de 1,082 edificaciones dañadas, de las cuales 736 aparecen como destruidas en la imagen o arrastradas por el deslizamiento de tierra y 346 presentan daño severo. Debido al acusado ángulo y la cobertura de nubes de las imágenes satelitales, UNITAR-UNOSAT ha utilizado orthophotos colectadas por Corpoamazonia como fuente auxiliar de validación del análisis realizado con las imágenes satélites. Las orthophotos y otros datos secundarios fueron provistos por OpenStreetMap & la Unidad de Mapeo Humanitario y UMAIC (Unidad de Manejo y Análisis de Información de Colombia), quienes también han provisto apoyo en la coordinación y gestión de la información durante esta emergencia. Por favor, note que el número de estructuras dañadas ha podido ser infra-estimado como consecuencia de los parámetros de las imágenes satelitales utilizadas. Este es un análisis preliminar que aún no ha sido validado en el terreno. Por favor, envíen sus comentarios a UNITAR-UNOSAT."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UNOSAT"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Colombia"
+  ],
+  "locn_geometry": "ENVELOPE(-78.99, -66.88, 12.44, -4.3)",
+  "dcat_bbox": "ENVELOPE(-78.99, -66.88, 12.44, -4.3)",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "gbl_indexYear_im": [
+    2017
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/analisis-de-edificaciones-visualmente-danadas-en-la-ciudad-de-mocoa-colombia\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/unosat-maps/CO/LS20170403COL/LS20170403COL.gdb.zip\"}"
+}

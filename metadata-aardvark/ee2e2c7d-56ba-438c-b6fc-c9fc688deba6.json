@@ -1,0 +1,41 @@
+{
+  "id": "hdx-ee2e2c7d-56ba-438c-b6fc-c9fc688deba6",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T21:57:49Z",
+  "dct_title_s": "Kremenchuk Damage Assessment Overview",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code CE20220223UKR** This map illustrates a satellite imagery based building damage assessment in the city of Kremenchuk, Ukraine. Based on imagery collected on 29 June 2022, the analysis showed 26 structures with visible damage. Out of these, 1 is destroyed, 7 severely damaged, 3 moderately damaged and 15 possibly damaged. Inset 1 shows a building identified as severely damaged on 29 June 2022. While no complete count of buildings for Kremenchuk is available, an open source dataset, which is visibly incomplete, indicates at least 19,209 structures in the area. This analysis is based on visibly damaged structures as of 29 June 2022, as seen in marginally degraded satellite imagery affected by light clouds and other limiting factors. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to United Nations Satellite Centre (UNOSAT)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "complex emergency-conflict-security",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "complex emergency-conflict-security",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Ukraine"
+  ],
+  "locn_geometry": "ENVELOPE(22.09, 40.08, 52.34, 44.36)",
+  "dcat_bbox": "ENVELOPE(22.09, 40.08, 52.34, 44.36)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kremenchuk-damage-assessment-overview\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3483/Kremenchuk_CDA_20220629.gdb.zip\"}"
+}

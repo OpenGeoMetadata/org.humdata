@@ -1,0 +1,225 @@
+{
+  "archived": true,
+  "batch": "44ad7ce9-697f-4096-9b82-51dcf8b59227",
+  "caveats": "Updated as of 31 December 2018.",
+  "creator_user_id": "d62fb207-80da-445d-9e9e-1fd58c6c089f",
+  "data_update_frequency": "-1",
+  "dataset_date": "[2018-12-31T00:00:00 TO 2018-12-31T23:59:59]",
+  "dataset_preview": "no_preview",
+  "dataset_source": "OCHA ROAP, UNISYS",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "b1068a22-ec52-459d-9541-0fb63906bb39",
+  "is_requestdata_type": false,
+  "isopen": false,
+  "last_modified": "2019-03-14T04:26:10.729847",
+  "license_id": "other-pd-nr",
+  "license_title": "Public Domain / No restrictions (CC0)",
+  "maintainer": "bfeeb369-fb53-4ecd-b8d2-e98b8020a1f9",
+  "metadata_created": "2016-11-17T07:17:20.884286",
+  "metadata_modified": "2025-04-25T15:02:43.863440",
+  "methodology": "Registry",
+  "name": "asia-pacific-storm-tracks-1956-to-2018",
+  "notes": "This shape file consists of consolidated history of tropical storm paths over the past 50 years in the West Pacific, South Pacific, South Indian and North Indian basin. Attributes provides details such as storm Name, Date, Time, wind speed and GPS points for each advisory point. Wind speeds are in knots for more details on speeds conversion and storm categories please visit the original source of data: UNISYS (http://weather.unisys.com/hurricane/index.php), NOAA (http://rammb.cira.colostate.edu/products/tc_realtime/index.asp)",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "id": "ed366c60-6fc7-43b5-afca-288075bcc4d2",
+    "name": "ocha-roap",
+    "title": "OCHA Regional Office for Asia and the Pacific (ROAP)",
+    "type": "organization",
+    "description": "United Nations OCHA Regional Office for Asia and the Pacific (ROAP). Every year, millions of people in Asia and the Pacific region are affected by conflict and natural disasters such as earthquakes, tropical storms, tsunamis, drought, and volcanic eruptions.",
+    "image_url": "",
+    "created": "2015-03-04T22:55:29.366235",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "ed366c60-6fc7-43b5-afca-288075bcc4d2",
+  "package_creator": "waksanjeewa",
+  "pageviews_last_14_days": 4,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Bangladesh\", \"Democratic People's Republic of Korea\", \"Fiji\", \"India\", \"Indonesia\", \"Japan\", \"Malaysia\", \"Myanmar\", \"Papua New Guinea\", \"Philippines\", \"Republic of Korea\", \"Solomon Islands\", \"Sri Lanka\", \"Thailand\", \"Viet Nam\"]}",
+  "state": "active",
+  "subnational": "0",
+  "title": "Asia Pacific: Storm tracks 1956 to 2018",
+  "total_res_downloads": 790,
+  "type": "dataset",
+  "updated_by_script": "hdx:HDXPythonLibrary/6.3.1-hdx_cli_toolkit_cjh (2025-04-25T15:02:43.806979)",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "test",
+      "display_name": "Bangladesh",
+      "id": "bgd",
+      "image_display_url": "",
+      "name": "bgd",
+      "title": "Bangladesh"
+    },
+    {
+      "description": "",
+      "display_name": "Democratic People's Republic of Korea",
+      "id": "prk",
+      "image_display_url": "",
+      "name": "prk",
+      "title": "Democratic People's Republic of Korea"
+    },
+    {
+      "description": "",
+      "display_name": "Fiji",
+      "id": "fji",
+      "image_display_url": "",
+      "name": "fji",
+      "title": "Fiji"
+    },
+    {
+      "description": "",
+      "display_name": "India",
+      "id": "ind",
+      "image_display_url": "",
+      "name": "ind",
+      "title": "India"
+    },
+    {
+      "description": "",
+      "display_name": "Indonesia",
+      "id": "idn",
+      "image_display_url": "",
+      "name": "idn",
+      "title": "Indonesia"
+    },
+    {
+      "description": "",
+      "display_name": "Japan",
+      "id": "jpn",
+      "image_display_url": "",
+      "name": "jpn",
+      "title": "Japan"
+    },
+    {
+      "description": "",
+      "display_name": "Malaysia",
+      "id": "mys",
+      "image_display_url": "",
+      "name": "mys",
+      "title": "Malaysia"
+    },
+    {
+      "description": "",
+      "display_name": "Myanmar",
+      "id": "mmr",
+      "image_display_url": "",
+      "name": "mmr",
+      "title": "Myanmar"
+    },
+    {
+      "description": "",
+      "display_name": "Papua New Guinea",
+      "id": "png",
+      "image_display_url": "",
+      "name": "png",
+      "title": "Papua New Guinea"
+    },
+    {
+      "description": "",
+      "display_name": "Philippines",
+      "id": "phl",
+      "image_display_url": "",
+      "name": "phl",
+      "title": "Philippines"
+    },
+    {
+      "description": "",
+      "display_name": "Republic of Korea",
+      "id": "kor",
+      "image_display_url": "",
+      "name": "kor",
+      "title": "Republic of Korea"
+    },
+    {
+      "description": "",
+      "display_name": "Solomon Islands",
+      "id": "slb",
+      "image_display_url": "",
+      "name": "slb",
+      "title": "Solomon Islands"
+    },
+    {
+      "description": "",
+      "display_name": "Sri Lanka",
+      "id": "lka",
+      "image_display_url": "",
+      "name": "lka",
+      "title": "Sri Lanka"
+    },
+    {
+      "description": "",
+      "display_name": "Thailand",
+      "id": "tha",
+      "image_display_url": "",
+      "name": "tha",
+      "title": "Thailand"
+    },
+    {
+      "description": "",
+      "display_name": "Viet Nam",
+      "id": "vnm",
+      "image_display_url": "",
+      "name": "vnm",
+      "title": "Viet Nam"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/b1068a22-ec52-459d-9541-0fb63906bb39/resource/85fe1efc-e737-4b9a-ae87-b0365a1cced3/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2016-11-17T07:18:33.654304",
+      "datastore_active": false,
+      "description": "This shape file consists of consolidated history of tropical storm paths over the past 50 years in the West Pacific, South Pacific, South Indian and North Indian basin. Attributes provides details such as storm Name, Date, Time, wind speed and GPS points for each advisory point. Wind speeds are in knots for more details on speeds conversion and storm categories please visit the original source of data:  UNISYS, NOAA (http://rammb.cira.colostate.edu/products/tc_realtime/index.asp)",
+      "download_url": "https://data.humdata.org/dataset/b1068a22-ec52-459d-9541-0fb63906bb39/resource/85fe1efc-e737-4b9a-ae87-b0365a1cced3/download/unisys_tracks_1956_2018dec31.zip",
+      "format": "SHP",
+      "hash": "",
+      "hdx_rel_url": "/dataset/b1068a22-ec52-459d-9541-0fb63906bb39/resource/85fe1efc-e737-4b9a-ae87-b0365a1cced3/download/unisys_tracks_1956_2018dec31.zip",
+      "id": "85fe1efc-e737-4b9a-ae87-b0365a1cced3",
+      "last_modified": "2019-03-14T04:26:10.729847",
+      "metadata_modified": "2025-02-25T20:19:07.160470",
+      "microdata": false,
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "UNISYS_tracks_1956_2018Dec31.zip",
+      "originalHash": "1416114238",
+      "p_coded": false,
+      "package_id": "b1068a22-ec52-459d-9541-0fb63906bb39",
+      "position": 0,
+      "resource_type": "file.upload",
+      "shape_info": "[{\"error_class\": \"None\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}, {\"field_name\": \"objectid\", \"data_type\": \"numeric\"}, {\"field_name\": \"region\", \"data_type\": \"character varying\"}, {\"field_name\": \"storm_no\", \"data_type\": \"numeric\"}, {\"field_name\": \"name\", \"data_type\": \"character varying\"}, {\"field_name\": \"advisory\", \"data_type\": \"numeric\"}, {\"field_name\": \"adv_date\", \"data_type\": \"date\"}, {\"field_name\": \"adv_hour\", \"data_type\": \"numeric\"}, {\"field_name\": \"speed\", \"data_type\": \"numeric\"}, {\"field_name\": \"pressure\", \"data_type\": \"numeric\"}, {\"field_name\": \"type\", \"data_type\": \"character varying\"}, {\"field_name\": \"lat\", \"data_type\": \"character varying\"}, {\"field_name\": \"long_\", \"data_type\": \"character varying\"}, {\"field_name\": \"len\", \"data_type\": \"character varying\"}], \"layer_id\": \"pre_85fe1efc_e737_4b9a_ae87_b0365a1cced3\", \"error_type\": \"None\", \"bounding_box\": \"BOX(-179.999988541187 -47.6999998580215,179.999988541187 70.6999999978908)\", \"state\": \"success\", \"message\": \"Import successful\"}, {\"error_class\": \"None\", \"layer_id\": \"None\", \"error_type\": \"None\", \"state\": \"processing\", \"timestamp\": \"2018-01-17T08:01:05.177263\", \"message\": \"The processing of the geo-preview has started\"}, {\"error_class\": \"None\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"region\", \"data_type\": \"character varying\"}, {\"field_name\": \"storm_no\", \"data_type\": \"numeric\"}, {\"field_name\": \"name\", \"data_type\": \"character varying\"}, {\"field_name\": \"advisory\", \"data_type\": \"numeric\"}, {\"field_name\": \"adv_date\", \"data_type\": \"date\"}, {\"field_name\": \"adv_hour\", \"data_type\": \"numeric\"}, {\"field_name\": \"speed\", \"data_type\": \"numeric\"}, {\"field_name\": \"pressure\", \"data_type\": \"numeric\"}, {\"field_name\": \"type\", \"data_type\": \"character varying\"}, {\"field_name\": \"lat\", \"data_type\": \"character varying\"}, {\"field_name\": \"long_\", \"data_type\": \"character varying\"}, {\"field_name\": \"len\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"layer_id\": \"pre_85fe1efc_e737_4b9a_ae87_b0365a1cced3\", \"error_type\": \"None\", \"state\": \"success\", \"bounding_box\": \"BOX(-179.999988541187 -47.6999998580215,179.999988541187 70.6999999978908)\", \"timestamp\": \"2018-01-17T08:03:09.075448\", \"message\": \"Import successful\"}, {\"error_class\": \"None\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"region\", \"data_type\": \"character varying\"}, {\"field_name\": \"storm_no\", \"data_type\": \"numeric\"}, {\"field_name\": \"name\", \"data_type\": \"character varying\"}, {\"field_name\": \"advisory\", \"data_type\": \"numeric\"}, {\"field_name\": \"adv_date\", \"data_type\": \"date\"}, {\"field_name\": \"adv_hour\", \"data_type\": \"numeric\"}, {\"field_name\": \"speed\", \"data_type\": \"numeric\"}, {\"field_name\": \"pressure\", \"data_type\": \"numeric\"}, {\"field_name\": \"type\", \"data_type\": \"character varying\"}, {\"field_name\": \"lat\", \"data_type\": \"character varying\"}, {\"field_name\": \"long_\", \"data_type\": \"character varying\"}, {\"field_name\": \"len\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"layer_id\": \"pre_85fe1efc_e737_4b9a_ae87_b0365a1cced3\", \"error_type\": \"None\", \"bounding_box\": \"BOX(-179.999988541187 -47.6999998580215,179.999988541187 70.6999999978908)\", \"state\": \"success\", \"timestamp\": \"2018-01-17T08:05:18.401766\", \"message\": \"Import successful\"}, {\"error_class\": \"None\", \"layer_id\": \"None\", \"error_type\": \"None\", \"state\": \"processing\", \"timestamp\": \"2019-03-14T04:26:10.880915\", \"message\": \"The processing of the geo-preview has started\"}, {\"error_class\": \"None\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"region\", \"data_type\": \"character varying\"}, {\"field_name\": \"storm_no\", \"data_type\": \"numeric\"}, {\"field_name\": \"name\", \"data_type\": \"character varying\"}, {\"field_name\": \"advisory\", \"data_type\": \"numeric\"}, {\"field_name\": \"adv_date\", \"data_type\": \"date\"}, {\"field_name\": \"adv_hour\", \"data_type\": \"numeric\"}, {\"field_name\": \"speed\", \"data_type\": \"numeric\"}, {\"field_name\": \"pressure\", \"data_type\": \"numeric\"}, {\"field_name\": \"type\", \"data_type\": \"character varying\"}, {\"field_name\": \"lat\", \"data_type\": \"character varying\"}, {\"field_name\": \"long_\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"layer_id\": \"pre_85fe1efc_e737_4b9a_ae87_b0365a1cced3\", \"error_type\": \"None\", \"bounding_box\": \"BOX(-179.999988541187 -47.6999998580215,179.999988541187 70.6999999978908)\", \"state\": \"success\", \"timestamp\": \"2019-03-14T04:28:35.543766\", \"message\": \"Import successful\"}]",
+      "size": 28520471,
+      "state": "active",
+      "tracking_summary[recent]": "0",
+      "tracking_summary[total]": "0",
+      "url": "https://data.humdata.org/dataset/b1068a22-ec52-459d-9541-0fb63906bb39/resource/85fe1efc-e737-4b9a-ae87-b0365a1cced3/download/unisys_tracks_1956_2018dec31.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "cyclones-hurricanes-typhoons",
+      "id": "326e097b-96f2-46e4-8ef4-0a8d4401a646",
+      "name": "cyclones-hurricanes-typhoons",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

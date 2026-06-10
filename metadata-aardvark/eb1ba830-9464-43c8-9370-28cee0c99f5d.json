@@ -1,0 +1,91 @@
+{
+  "id": "hdx-eb1ba830-9464-43c8-9370-28cee0c99f5d",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-05-05T16:07:32Z",
+  "dct_title_s": "Health Facilities in Sub-Saharan Africa",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This master list of health facilities was developed from a variety of government and non-government sources from 50 countries in sub-Saharan Africa. It uses multiple geocoding methods to provide a comprehensive spatial inventory of 98 745 public health facilities. Each data record represents a health facility and has 8 descriptive variables – Location identifiers including: country, first level administrative division, latitude, longitude and LL source (source of the coordinates). Coordinates are rounded off to four decimal places for uniformity, allowing an accuracy of 5–10 metres in decimal degrees coordinate format. This geocoded master facility list has been made publicly and freely available through both the [figshare repository](https://ndownloader.figshare.com/files/14379593) and through the [World Health Organization’s Global Malaria Programme](https://www.who.int/teams/global-malaria-programme) in Microsoft Excel format."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Multiple sources "
+  ],
+  "dcat_keyword_sm": [
+    "facilities-infrastructure",
+    "geodata",
+    "health",
+    "health facilities"
+  ],
+  "dct_subject_sm": [
+    "facilities-infrastructure",
+    "geodata",
+    "health",
+    "health facilities"
+  ],
+  "dct_spatial_sm": [
+    "Angola",
+    "Benin",
+    "Botswana",
+    "Burkina Faso",
+    "Burundi",
+    "Cameroon",
+    "Central African Republic",
+    "Chad",
+    "Comoros",
+    "Congo",
+    "Côte d'Ivoire",
+    "Democratic Republic of the Congo",
+    "Djibouti",
+    "Equatorial Guinea",
+    "Eritrea",
+    "Eswatini",
+    "Ethiopia",
+    "Gabon",
+    "Gambia",
+    "Ghana",
+    "Guinea",
+    "Guinea-Bissau",
+    "Kenya",
+    "Lesotho",
+    "Liberia",
+    "Madagascar",
+    "Malawi",
+    "Mali",
+    "Mauritania",
+    "Mauritius",
+    "Namibia",
+    "Niger",
+    "Nigeria",
+    "Rwanda",
+    "Sao Tome and Principe",
+    "Senegal",
+    "Seychelles",
+    "Sierra Leone",
+    "Somalia",
+    "South Africa",
+    "South Sudan",
+    "Sudan",
+    "Togo",
+    "Uganda",
+    "United Republic of Tanzania",
+    "Zambia",
+    "Zimbabwe"
+  ],
+  "locn_geometry": "ENVELOPE(-17.63, 51.13, 27.4, -34.82)",
+  "dcat_bbox": "ENVELOPE(-17.63, 51.13, 27.4, -34.82)",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "gbl_indexYear_im": [
+    2019
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/health-facilities-in-sub-saharan-africa\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/eb1ba830-9464-43c8-9370-28cee0c99f5d/resource/341668a3-7066-46e4-aca0-fe09c57f9314/download/suhsharan_health_facilities.zip\"}"
+}

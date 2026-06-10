@@ -1,0 +1,33 @@
+{
+  "id": "hdx-ad94096c-a254-4953-92b5-f56ff53a7dbf",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-06-25T03:08:53Z",
+  "dct_title_s": "El Salvador - Subnational Edge-matched Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "El Salvador administrative level 0-3 edge-matched gazetteer, shapefiles, and geodatabase. COD-EM datasets do not replace the authoritative COD-AB available here; however COD-EM datasets may be preferred for cartographic purposes. See caveats. These layers are suitable for database or GIS linkage to the El Salvador- Subnational Population Statistics administrative level 0-3 tables using the ADM0, ADM1, ADM2, and ADM3_PCODE fields. Vetting by Information Technology Outreach Services (ITOS) with funding from USAID."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "www.gadm.org and ITOS"
+  ],
+  "dct_spatial_sm": [
+    "El Salvador"
+  ],
+  "locn_geometry": "ENVELOPE(-90.1, -87.72, 14.42, 13.15)",
+  "dcat_bbox": "ENVELOPE(-90.1, -87.72, 14.42, 13.15)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-em-slv\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/ad94096c-a254-4953-92b5-f56ff53a7dbf/resource/9fab05bc-1486-4ee9-88a7-a446f683745e/download/slv_adm_gadm_20240819_em_shp.zip\"}"
+}

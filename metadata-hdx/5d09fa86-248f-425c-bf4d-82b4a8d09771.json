@@ -1,0 +1,138 @@
+{
+  "archived": true,
+  "caveats": "This is a rapid analysis which has not yet been validated in the field. It is important to consider the characteristics of the source imagery used in the analyses when interpreting results. Users with specific questions or concerns should contact reach.mapping@impact-initiatives.org to seek clarification.",
+  "creator_user_id": "bc69175d-2299-4428-b78b-425fadf2e01f",
+  "data_update_frequency": "-1",
+  "dataset_date": "[2018-03-09T00:00:00 TO 2018-03-09T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "REACH Initiative",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "5d09fa86-248f-425c-bf4d-82b4a8d09771",
+  "is_requestdata_type": false,
+  "isopen": false,
+  "last_modified": "2018-03-09T09:12:37.911356",
+  "license_id": "cc-by-igo",
+  "license_title": "Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO)",
+  "license_url": "http://creativecommons.org/licenses/by/3.0/igo/legalcode",
+  "maintainer": "db400d7b-853b-439e-9f4a-d68e2b250eed",
+  "metadata_created": "2018-03-09T09:12:29.348854",
+  "metadata_modified": "2024-05-09T13:09:32.130320",
+  "methodology": "Other",
+  "methodology_other": "REACH / UNOSAT datasets and maps are produced using a variety of methods. In general, analysts closely review satellite imagery, often comparing two or more images together, and determine notable changes between the images. In this instance, analysts review best available imagery and manually digitize the footprints of individual refugee shelters.",
+  "name": "cox-s-bazar-refugee-settlement-shelter-footprints-kutupalong-area",
+  "notes": "Satellite imagery derived shelter footprints of Rohingya refugee settlements in Cox's Bazar District, Bangladesh. Based on best available imagery acquired in February 2018.",
+  "num_resources": 1,
+  "num_tags": 6,
+  "organization": {
+    "id": "8e8911ab-f35c-4189-9dce-8715002f723e",
+    "name": "reach-initiative",
+    "title": "REACH Initiative",
+    "type": "organization",
+    "description": "REACH facilitates the development of information tools and products that enhance the capacity of aid actors to make evidence-based decisions in emergency, recovery and development contexts. All REACH activities are conducted through inter-agency aid coordination mechanisms. For more information, you can write to our global office: geneva@reach-initiative.org.  Visit www.reach-intiative.org and follow us @REACH_info.",
+    "image_url": "",
+    "created": "2015-01-15T15:24:21.862565",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "8e8911ab-f35c-4189-9dce-8715002f723e",
+  "package_creator": "svenlsl",
+  "pageviews_last_14_days": 0,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Bangladesh\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Cox's Bazar Refugee Settlement Shelter Footprints (Kutupalong Area)",
+  "total_res_downloads": 64,
+  "type": "dataset",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "test",
+      "display_name": "Bangladesh",
+      "id": "bgd",
+      "image_display_url": "",
+      "name": "bgd",
+      "title": "Bangladesh"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/5d09fa86-248f-425c-bf4d-82b4a8d09771/resource/f95802db-ed4a-4ba4-b2fa-3175b9e813a5/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-03-09T09:12:38.297167",
+      "datastore_active": false,
+      "description": "",
+      "download_url": "https://data.humdata.org/dataset/5d09fa86-248f-425c-bf4d-82b4a8d09771/resource/f95802db-ed4a-4ba4-b2fa-3175b9e813a5/download/reach_bgd_coxsbazar_kutupalong_shelters_v5.zip",
+      "format": "SHP",
+      "hash": "",
+      "hdx_rel_url": "/dataset/5d09fa86-248f-425c-bf4d-82b4a8d09771/resource/f95802db-ed4a-4ba4-b2fa-3175b9e813a5/download/reach_bgd_coxsbazar_kutupalong_shelters_v5.zip",
+      "id": "f95802db-ed4a-4ba4-b2fa-3175b9e813a5",
+      "last_modified": "2018-03-09T09:12:37.911356",
+      "metadata_modified": "2023-03-02T21:37:46.736832",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "reach_bgd_coxsbazar_kutupalong_shelters_v5.zip",
+      "originalHash": "97196323",
+      "package_id": "5d09fa86-248f-425c-bf4d-82b4a8d09771",
+      "position": 0,
+      "resource_type": "file.upload",
+      "shape_info": "[{\"error_class\": \"None\", \"layer_id\": \"None\", \"error_type\": \"None\", \"state\": \"processing\", \"timestamp\": \"2018-03-09T09:12:38.060803\", \"message\": \"The processing of the geo-preview has started\"}, {\"error_class\": \"None\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"objectid\", \"data_type\": \"numeric\"}, {\"field_name\": \"sat_image\", \"data_type\": \"character varying\"}, {\"field_name\": \"image_date\", \"data_type\": \"date\"}, {\"field_name\": \"type\", \"data_type\": \"character varying\"}, {\"field_name\": \"version\", \"data_type\": \"numeric\"}, {\"field_name\": \"camp_id\", \"data_type\": \"character varying\"}, {\"field_name\": \"cic_camp\", \"data_type\": \"character varying\"}, {\"field_name\": \"new_camp_n\", \"data_type\": \"character varying\"}, {\"field_name\": \"new_camp_s\", \"data_type\": \"character varying\"}, {\"field_name\": \"district\", \"data_type\": \"character varying\"}, {\"field_name\": \"upazila\", \"data_type\": \"character varying\"}, {\"field_name\": \"union_1\", \"data_type\": \"character varying\"}, {\"field_name\": \"settlement\", \"data_type\": \"character varying\"}, {\"field_name\": \"shape_leng\", \"data_type\": \"character varying\"}, {\"field_name\": \"shape_area\", \"data_type\": \"character varying\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}], \"layer_id\": \"pre_f95802db_ed4a_4ba4_b2fa_3175b9e813a5\", \"error_type\": \"None\", \"bounding_box\": \"BOX(92.1343644930671 21.1732488812588,92.1718164801348 21.2227592755135)\", \"state\": \"success\", \"timestamp\": \"2018-03-09T09:17:01.941201\", \"message\": \"Import successful\"}]",
+      "size": 8217594,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/5d09fa86-248f-425c-bf4d-82b4a8d09771/resource/f95802db-ed4a-4ba4-b2fa-3175b9e813a5/download/reach_bgd_coxsbazar_kutupalong_shelters_v5.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "displacement",
+      "id": "3e3f28cd-405e-4706-a20b-74ff3e217af2",
+      "name": "displacement",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "populated places-settlements",
+      "id": "c7d3120a-ca01-4bba-b773-53cd7dc608bc",
+      "name": "populated places-settlements",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "refugee crisis",
+      "id": "8d1398ae-56af-4396-aa94-bef7d99da754",
+      "name": "refugee crisis",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "refugees",
+      "id": "8af07ef8-0180-4966-9e15-d184b9a2fef1",
+      "name": "refugees",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "shelter",
+      "id": "6c8eda16-cb14-4a65-a5de-4a5808da0b12",
+      "name": "shelter",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

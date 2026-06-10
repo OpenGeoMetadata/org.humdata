@@ -1,0 +1,41 @@
+{
+  "id": "hdx-9e8ca939-4a8b-4ddc-81c1-64c1f692b851",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T19:54:36Z",
+  "dct_title_s": "Satellite detected water extent over Shabelle Zone, Somali Region, Ethiopia and Beledweyne District, Hiraan Region of Somalia as of 29 April 2023",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code FL20230327SOM** This map illustrates satellite-detected surface waters in Shabelle Zone, Somali Region of Ethiopia and Beledweyne District, Hiraan Region of Somalia as observed from a Sentinel-2 image acquired on 29 April 2023 at 07:06 UTC. Within the analyzed area of about 5,300 km², about 180 km² of land appear to be flooded. Water extent appears to have increased by about 60 km² since 19 April 2023. Based on Worldpop population data and the detected surface waters in the analyzed area, 7,500 people are potentially exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to United Nations Satellite Centre (UNOSAT)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Ethiopia"
+  ],
+  "locn_geometry": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dcat_bbox": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extent-over-shabelle-zone-somali-region-ethiopia-and-beledweyne-district-hiraan-regi\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3569/FL20230327SOM_gdb.zip\"}"
+}

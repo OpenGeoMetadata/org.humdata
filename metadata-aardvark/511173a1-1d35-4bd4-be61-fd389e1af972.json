@@ -1,0 +1,43 @@
+{
+  "id": "hdx-511173a1-1d35-4bd4-be61-fd389e1af972",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-12-17T15:26:28Z",
+  "dct_title_s": "Bottom-up gridded population estimates for Nigeria, version 2.0",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This data release provides gridded population estimates (spatial resolution of 3 arc-seconds, approximately 100 m grid cells) with national coverage for Nigeria, along with estimates of the number of people belonging to various age-sex groups. Version 2.0 is an update to the previous version 1.2 gridded population estimates and is based on more recent and detailed settlement information and a different regional boundary definition. These model-based population estimates most likely represent the time period around 2019, corresponding to the period when the satellite imagery was processed to generate building footprints. Populations are mapped only into areas where residential settlements are predicted. These data were produced by the [WorldPop](https://www.worldpop.org/) Research Group at the University of Southampton in collaboration with the National Population Commission of Nigeria. This work was part of the Geo-Referenced Infrastructure and Demographic Data for Development ([GRID3 ](https://grid3.org/)) programme with funding from the Bill and Melinda Gates Foundation and the United Kingdom’s Foreign, Commonwealth & Development Office (INV 009579, formerly OPP 1182425). Project partners included the United Nations Population Fund, Center for International Earth Science Information Network ([CIESIN](http://www.ciesin.org/)), a center within the Columbia Climate School at Columbia University, and the [Flowminder](https://www.flowminder.org/) Foundation. Statistical modelling was led by Chris Jochem and Doug Leasure additional support and oversight from Attila Lazar and Andy Tatem. Chris Lloyd provided the residential building classification. The microcensus data were originally collected by eHealth Africa and Oak Ridge National Laboratory with support from the Bill and Melinda Gates Foundation. The WorldPop grou and GRID3 partners are acknowledged for their project support. __RELEASE CONTENT__ 1. NGA_population_v2_0_gridded.zip 2. NGA_population_v2_0_admin.zip 3. NGA_population_v2_0_sql.sql 4. NGA_population_v2_0_mastergrid.tif 5. NGA_population_v2_0_tiles.zip 6. NGA_population_v2_0_agesex.zip __LICENSE__ These data (1-6) may be redistributed using a [Creative Commons Attribution 4.0 International (CC BY 4.0) ](https://creativecommons.org/licenses/by/4.0/) License. __Recommended citations__ _WorldPop and National Population Commission of Nigeria. 2021. Bottom-up gridded population estimates for Nigeria, version 2.0. WorldPop, University of Southampton. doi: 10.5258/SOTON/WP00729._ For further details, please, read NGA_population_v2_0_README.pdf"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "GRID3 (Geo-Referenced Infrastructure and Demographic Data for Development)"
+  ],
+  "dcat_keyword_sm": [
+    "baseline population",
+    "demographics",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "baseline population",
+    "demographics",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Nigeria"
+  ],
+  "locn_geometry": "ENVELOPE(2.69, 14.58, 13.87, 4.24)",
+  "dcat_bbox": "ENVELOPE(2.69, 14.58, 13.87, 4.24)",
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/bottom-up-gridded-population-estimates-for-nigeria-version-2-0\",\"http://schema.org/downloadUrl\":\"https://wopr.worldpop.org/download/495\"}"
+}

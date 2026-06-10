@@ -1,0 +1,132 @@
+{
+  "archived": true,
+  "batch": "fc2724cd-b965-4884-84f2-bd43b0c6c2b2",
+  "caveats": "IOM continues to monitor and track the situation in order to verify the numbers of the displaced population.\r\n",
+  "creator_user_id": "060468e4-2f33-4488-8504-c4b10cc34821",
+  "data_update_frequency": "-1",
+  "dataset_date": "[2014-09-14T00:00:00 TO 2014-09-14T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "IOM Iraq ",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "a9395169-2e92-4de2-b182-b8eeb8921577",
+  "indicator": "0",
+  "is_requestdata_type": false,
+  "isopen": false,
+  "last_modified": "2018-08-15T15:06:33.490462",
+  "license_id": "hdx-other",
+  "license_other": "See this [terms of use](https://data.humdata.org/about/license/legacy_hrinfo). This does not replace any terms of use information provided with the dataset.",
+  "license_title": "Other",
+  "maintainer": "0c3b0ac1-47a5-457b-b07b-bff8e8fdf64f",
+  "metadata_created": "2015-11-18T09:02:54.962574",
+  "metadata_modified": "2023-05-02T11:22:34.121202",
+  "methodology": "Other",
+  "methodology_other": "Other",
+  "name": "iraq-affected-persons-locations-0-0",
+  "notes": "IOM IRAQ Displacement Tracking Matrix (DTM) 14 September 2014\r\nFor the time period January to September 2014 the DTM identified 1,725,432 internally displaced individuals dispersed across 1,715 distinct locations in Iraq. HCT projected estimates state that approximately 1.8 million individuals have been displaced nationwide through 2014.  \r\n\r\n\r\n\r\n\r\n\r\n",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "id": "2d7b8822-0493-4d57-b27d-6b9662095937",
+    "name": "ocha-iraq",
+    "title": "OCHA Iraq (inactive)",
+    "type": "organization",
+    "description": "UN Office for the Coordination of Humanitarian Affairs (OCHA) country office in Iraq.",
+    "image_url": "",
+    "created": "2015-11-11T16:45:19.465796",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "2d7b8822-0493-4d57-b27d-6b9662095937",
+  "package_creator": "hdx",
+  "pageviews_last_14_days": 0,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Iraq\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Iraq -  Displacement Tracking Matrix (DTM) 14 Sept 2014",
+  "total_res_downloads": 50,
+  "type": "dataset",
+  "url": null,
+  "version": null,
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Iraq",
+      "id": "irq",
+      "image_display_url": "",
+      "name": "irq",
+      "title": "Iraq"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/a9395169-2e92-4de2-b182-b8eeb8921577/resource/b3fcab27-5b71-40b7-be46-b8a912b0af50/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2015-11-18T09:02:58.711015",
+      "datastore_active": false,
+      "description": "",
+      "download_url": "https://data.humdata.org/dataset/a9395169-2e92-4de2-b182-b8eeb8921577/resource/b3fcab27-5b71-40b7-be46-b8a912b0af50/download/irq_idp-dtm_14sep.zip",
+      "format": "SHP",
+      "hash": "",
+      "hdx_rel_url": "/dataset/a9395169-2e92-4de2-b182-b8eeb8921577/resource/b3fcab27-5b71-40b7-be46-b8a912b0af50/download/irq_idp-dtm_14sep.zip",
+      "id": "b3fcab27-5b71-40b7-be46-b8a912b0af50",
+      "last_modified": "2018-08-15T15:06:33.490462",
+      "metadata_modified": "2023-03-02T22:53:44.998466",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Irq_idp-dtm_14Sep.zip",
+      "package_id": "a9395169-2e92-4de2-b182-b8eeb8921577",
+      "position": 0,
+      "resource_type": "file.upload",
+      "shape_info": "{\"state\": \"success\", \"error_class\": \"None\", \"layer_fields\": [{\"field_name\": \"ogc_fid\", \"data_type\": \"integer\"}, {\"field_name\": \"wkb_geometry\", \"data_type\": \"USER-DEFINED\"}, {\"field_name\": \"seq__\", \"data_type\": \"character varying\"}, {\"field_name\": \"dtm_master\", \"data_type\": \"character varying\"}, {\"field_name\": \"dtm_id\", \"data_type\": \"character varying\"}, {\"field_name\": \"master_fam\", \"data_type\": \"character varying\"}, {\"field_name\": \"origin_gov\", \"data_type\": \"character varying\"}, {\"field_name\": \"displaceme\", \"data_type\": \"character varying\"}, {\"field_name\": \"governorat\", \"data_type\": \"character varying\"}, {\"field_name\": \"district\", \"data_type\": \"character varying\"}, {\"field_name\": \"sub_distri\", \"data_type\": \"character varying\"}, {\"field_name\": \"area\", \"data_type\": \"character varying\"}, {\"field_name\": \"place\", \"data_type\": \"character varying\"}, {\"field_name\": \"place__ara\", \"data_type\": \"character varying\"}, {\"field_name\": \"place_id\", \"data_type\": \"character varying\"}, {\"field_name\": \"longitude\", \"data_type\": \"character varying\"}, {\"field_name\": \"latitude\", \"data_type\": \"character varying\"}, {\"field_name\": \"last_asst_\", \"data_type\": \"character varying\"}, {\"field_name\": \"current_ro\", \"data_type\": \"character varying\"}, {\"field_name\": \"current__1\", \"data_type\": \"character varying\"}, {\"field_name\": \"beneficiar\", \"data_type\": \"character varying\"}, {\"field_name\": \"idps_in_ca\", \"data_type\": \"character varying\"}, {\"field_name\": \"rented_hot\", \"data_type\": \"character varying\"}, {\"field_name\": \"rented_hou\", \"data_type\": \"character varying\"}, {\"field_name\": \"idp_owned_\", \"data_type\": \"character varying\"}, {\"field_name\": \"with_relat\", \"data_type\": \"character varying\"}, {\"field_name\": \"with_hc___\", \"data_type\": \"character varying\"}, {\"field_name\": \"school_bui\", \"data_type\": \"character varying\"}, {\"field_name\": \"mosques__h\", \"data_type\": \"character varying\"}, {\"field_name\": \"abandoned_\", \"data_type\": \"character varying\"}, {\"field_name\": \"collective\", \"data_type\": \"character varying\"}, {\"field_name\": \"informal_s\", \"data_type\": \"character varying\"}, {\"field_name\": \"military_c\", \"data_type\": \"character varying\"}, {\"field_name\": \"unknown_or\", \"data_type\": \"character varying\"}, {\"field_name\": \"does_the_d\", \"data_type\": \"character varying\"}, {\"field_name\": \"does_the_1\", \"data_type\": \"character varying\"}, {\"field_name\": \"are_the_di\", \"data_type\": \"character varying\"}, {\"field_name\": \"does_the_2\", \"data_type\": \"character varying\"}, {\"field_name\": \"does_the_3\", \"data_type\": \"character varying\"}, {\"field_name\": \"what_is_th\", \"data_type\": \"character varying\"}, {\"field_name\": \"has_the_lo\", \"data_type\": \"character varying\"}, {\"field_name\": \"what_assis\", \"data_type\": \"character varying\"}, {\"field_name\": \"note\", \"data_type\": \"character varying\"}, {\"field_name\": \"event_type\", \"data_type\": \"character varying\"}, {\"field_name\": \"date_of_di\", \"data_type\": \"character varying\"}, {\"field_name\": \"displace_1\", \"data_type\": \"character varying\"}, {\"field_name\": \"entry_date\", \"data_type\": \"character varying\"}], \"layer_id\": \"pre_b3fcab27_5b71_40b7_be46_b8a912b0af50\", \"message\": \"Import successful\", \"error_type\": \"None\", \"bounding_box\": \"BOX(40.27598 29.9786,48.4655 37.209)\"}",
+      "size": 273392,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/a9395169-2e92-4de2-b182-b8eeb8921577/resource/b3fcab27-5b71-40b7-be46-b8a912b0af50/download/irq_idp-dtm_14sep.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "displacement",
+      "id": "3e3f28cd-405e-4706-a20b-74ff3e217af2",
+      "name": "displacement",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "internally displaced persons-idp",
+      "id": "4a0f429f-679c-4492-8386-d5cdf2d82ecd",
+      "name": "internally displaced persons-idp",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "populated places-settlements",
+      "id": "c7d3120a-ca01-4bba-b773-53cd7dc608bc",
+      "name": "populated places-settlements",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "refugees",
+      "id": "8af07ef8-0180-4966-9e15-d184b9a2fef1",
+      "name": "refugees",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

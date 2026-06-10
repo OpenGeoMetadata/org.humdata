@@ -1,0 +1,41 @@
+{
+  "id": "hdx-d0e90210-f207-4b96-9b40-dffc506387c4",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2024-06-06T07:38:01Z",
+  "dct_title_s": "Bangladesh Floods - August 2017 - Flooding levels & Vulnerability",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "In this analysis we have combined several data sources around the floods in Bangladesh in August 2017. ## Visualization * See attached map for a map visualization of this analysis. * See http://bit.ly/2uFezkY for a more interactive visualization in Carto. ## Situation Currently, in Bangladesh many water level measuring stations measure water levels that are above danger levels. This sets in triggers in motion for the partnership of the 510 Data Intitiative and the Red Cross Climate Centre to get into action. ## Indicators and sources In the attached map, we combined several sources: * Locations of waterlevel stations and their respective excess water levels (cms above danger level) at 14/08/2017 (Source: http://www.ffwc.gov.bd/index.php/googlemap?id=20) * Population density in Bangladesh to quickly see where many people live in comaprison to these higher water-level stations. (Source: http://www.worldpop.org.uk/data/summary/?doi=10.5258/SOTON/WP00018 >> the People per hectare 2015 UN-adjusted totals file is used.) * Vulnerability Index: we constructed a Vulnerability Index (0-10) based on two sources. First poverty incidence was collected from Worldpop (Source: http://www.worldpop.org.uk/data/summary/?doi=10.5258/SOTON/WP00020 >> The estimated likelihood of living below $2.50/day). Second, we used a Deprivation Index which is estimated in the report Lagging District Reports 2015 (Source: http://www.plancomm.gov.bd/wp-content/uploads/2015/02/15_Lagging-Regions-Study.pdf > Appendices > Table 20), which combines many socio-economic variables into one Deprivation Index through PCA analysis. ## Detailed methodology Vulnerability * The above-mentioned poverty source file is on a raster level. This raster level poverty was transformed to admin-4 level geographic areas (source: https://data.humdata.org/dataset/bangladesh-admin-level-4-boundaries), by taking a population-weighted average. (Source population also Worldpop). * The district-level PCA components from abovementioned reports were matched to the geodata based on district names, and thus joined to the admin-4 level areas, which now contain a poverty value as well as Deprivation Index value. Note that all admin-4 areas within one district (admin-2) obviously all have the same value. The poverty rates do differ between all admin-4 areas. * Lastly, both variables were transformed to a 0-10 score (linearly), and a geomean was taken to calculate the final index of the two. A geomean (as opposed to an arithmetic mean) is often used in calculating composite risk indices, for example in the widely used INFORM-framework (www.inform-index.org)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Netherlands Red Cross"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "population"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "population"
+  ],
+  "dct_spatial_sm": [
+    "Bangladesh"
+  ],
+  "locn_geometry": "ENVELOPE(88.08, 92.67, 26.45, 20.67)",
+  "dcat_bbox": "ENVELOPE(88.08, 92.67, 26.45, 20.67)",
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "gbl_indexYear_im": [
+    2017
+  ],
+  "dct_format_s": "CSV",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/bangladesh-floods-august-2017-vulnerability-population-density\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/d0e90210-f207-4b96-9b40-dffc506387c4/resource/f8234ae9-5a39-4819-95ef-ef27f2c2daff/download/bangladesh_floods_adm4.zip\"}"
+}

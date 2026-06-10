@@ -1,0 +1,43 @@
+{
+  "id": "hdx-58bd325e-8ca4-4e43-b5e2-107d296a50c1",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-09-24T14:26:30Z",
+  "dct_title_s": "Syria IDP Sites",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Data as of early 2016. The \"Syria IDP Sites\" dataset is compiled by the U.S. Department of State, Humanitarian Information Unit (INR/GGI/HIU). This dataset contains open source derived data about the geographic locations (point geometry) of identified tent camps and other locations, such as collective centers, schools, mosques, sports facilities, host families, etc. in towns inside Syria where displacement has taken place. Sources of this information include the United Nations, the Assistance Coordination Unit, the Syria Needs Assessment Project, NGOs, and media reports. Location coordinates are at the city level and are plotted using the Syria P-Code system (http://www.mapaction.org/map-catalogue/mapdetail/2753.html) and NGA GEOnet Names Server (http://earth-info.nga.mil/gns/html) datasets. The field \"PCode\" is a combination of the all the administrative level and community level P-Codes for a specific location. Camp locations are verified using high-resolutions commercial satellite imagery. In the \"Designation\" field \"IDP Site\" refers to informal or formal settlements for specific IDP use. This dataset will be updated as needed and is current as of late June 2015. This [dataset](http://geonode.state.gov/layers/geonode%3ASyria_IDPSites_2015LateJun_HIU_DoS) is primarily hosted on the [State GeoNode](http:geonode.state.gov), the open geographic data platform of the U.S. Department of State."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "U.S. Department of State, Humanitarian Information Unit"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "internally displaced persons-idp",
+    "populated places-settlements"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "internally displaced persons-idp",
+    "populated places-settlements"
+  ],
+  "dct_spatial_sm": [
+    "Syrian Arab Republic"
+  ],
+  "locn_geometry": "ENVELOPE(35.7, 42.35, 37.23, 32.31)",
+  "dcat_bbox": "ENVELOPE(35.7, 42.35, 37.23, 32.31)",
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "gbl_indexYear_im": [
+    2015
+  ],
+  "dct_format_s": "CSV",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/syria-idp-sites\",\"http://schema.org/downloadUrl\":\"http://geonode.state.gov/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3ASyria_IDPSites_2016EarlyJan_HIU_USDoS&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature\"}"
+}

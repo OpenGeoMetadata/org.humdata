@@ -17,7 +17,7 @@
   "license_title": "odc-odbl",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2024-11-19T10:21:19.211316",
-  "metadata_modified": "2026-03-02T17:17:06.814483",
+  "metadata_modified": "2026-06-06T09:09:51.612892",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
   "name": "bhutan-road-surface-data",
@@ -38,7 +38,7 @@
   },
   "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
   "package_creator": "sukanya-randhawa-6497",
-  "pageviews_last_14_days": 2,
+  "pageviews_last_14_days": 0,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Bhutan\"]}",
@@ -62,6 +62,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:21:19.213888",
@@ -73,7 +74,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_btn_roadsurface_lines.geojson",
       "id": "b70ae3b2-ba6a-408c-a9a1-e7c7b54fcfc5",
       "last_modified": "2024-11-19T10:21:19.191650",
-      "metadata_modified": "2026-03-02T17:17:06.865714",
+      "metadata_modified": "2026-06-06T09:09:51.671396",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -88,6 +89,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:21:19.213891",
@@ -99,7 +101,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_btn_roadsurface_lines.gpkg",
       "id": "b8fed3bf-3aef-4e89-93c7-bdf69526b357",
       "last_modified": "2024-11-19T10:21:19.191808",
-      "metadata_modified": "2026-03-02T17:03:13.275298",
+      "metadata_modified": "2026-06-06T09:09:51.671545",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

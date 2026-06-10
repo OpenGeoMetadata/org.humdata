@@ -1,0 +1,43 @@
+{
+  "id": "hdx-335743dd-f27f-4382-9586-c5bfdf281aa0",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-04-15T21:37:55Z",
+  "dct_title_s": "GRID3 COD - Settlement Extents v3.1",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "The GRID3 COD - Settlement Extents v3.1 consists of a geographic representation of settlements in the Democratic Republic of the Congo, in two forms: 1) settlement polygons, and 2) spatial points depicting the centroids of settled grid cells at 3-arc seconds (or ~100 meters) contained within settlement polygons. Both layers include attributes as described in the codebooks. Data inputs and methodology to derive the 2 layers are described in this document. The current version supersedes GRID3 COD - Settlement Extents v3.0; the following changes were made: ● Corrections on imputed values for building count and building areas. ● Corrections on probability values from field-collected data ● Edits in the Data Release Notes"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Center for International Earth Science Information Network (CIESIN)"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_spatial_sm": [
+    "Democratic Republic of the Congo"
+  ],
+  "dct_temporal_sm": [
+    "2019-2023"
+  ],
+  "gbl_indexYear_im": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-cod-settlement-extents-v3-1\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/335743dd-f27f-4382-9586-c5bfdf281aa0/resource/c87b6a5a-7a80-4ccb-85b3-c995a659e2f8/download/grid3_cod_settlement_grid_v3_1_gpkg.zip\"}"
+}

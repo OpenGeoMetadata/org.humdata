@@ -1,0 +1,39 @@
+{
+  "id": "hdx-79cad2d1-db5b-46fc-a9ee-4c6824f3a9f8",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-06-25T02:17:55Z",
+  "dct_title_s": "Mali - Subnational Edge-matched Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Mali administrative level 0-2 edge-matched gazetteer, shapefiles, geodatabase, and geoservice. COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-mli); however COD-EM datasets may be preferred for cartographic purposes. See caveats. These layers are suitable for database or GIS linkage to the [Mali - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-mli) tables. Vetting by Information Technology Outreach Services (ITOS) with funding from USAID."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "DNCT - Direction Nationale des Collectivités Territoriales and ITOS"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions"
+  ],
+  "dct_spatial_sm": [
+    "Mali"
+  ],
+  "locn_geometry": "ENVELOPE(-12.17, 4.27, 24.97, 10.1)",
+  "dcat_bbox": "ENVELOPE(-12.17, 4.27, 24.97, 10.1)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "XLSX",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-em-mli\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/79cad2d1-db5b-46fc-a9ee-4c6824f3a9f8/resource/38fe56be-8ca9-440c-a461-d4f6cb7852c7/download/mli_adminboundaries_tabulardata.xlsx\"}"
+}

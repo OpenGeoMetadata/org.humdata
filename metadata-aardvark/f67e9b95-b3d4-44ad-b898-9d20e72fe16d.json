@@ -1,0 +1,41 @@
+{
+  "id": "hdx-f67e9b95-b3d4-44ad-b898-9d20e72fe16d",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-09-10T15:38:13Z",
+  "dct_title_s": "Satellite detected water extent over Zambezia Province, Mozambique as of 28 January 2022",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: TC20220124MOZ** This map illustrates satellite-detected surface waters in Zambezia Province, Mozambique as observed from a Sentinel-1 image acquired on 28 January 2021 at 05:00 local time and using an automated analysis with Artificial Intelligence based methods. Within the analyzed area of about 44,000 km2, about 860 km2 of lands appear to be flooded. Based on Worldpop population data and the detected surface waters in the analyzed area, the potentially exposed population are mainly located in the districts of Maganja Da Costa with ~22,500 people, Namacurra with ~17,000 people and Pebane with ~7,000 people. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR-UNOSAT. Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Mozambique"
+  ],
+  "locn_geometry": "ENVELOPE(30.18, 40.78, -10.32, -26.74)",
+  "dcat_bbox": "ENVELOPE(30.18, 40.78, -10.32, -26.74)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/satellite-detected-water-extent-over-zambezia-province-mozambique-as-of-28-january-2022\",\"http://schema.org/downloadUrl\":\"https://unosat-maps.web.cern.ch/MZ/TC20220124MOZ/TC20220124MOZ_gdb.zip\"}"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "hdx-acab847f-5c1a-462e-9c0e-ddd508525dcb",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-04-02T13:36:34Z",
+  "dct_title_s": "Google Open Buildings 2.5D Temporal",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Source: https://sites.research.google/gr/open-buildings/temporal/ The Open Buildings 2.5D Temporal Dataset contains annual data spanning eight years (2016-2023) with building presence, fractional building counts, and building heights covering approximately 58 million square kilometers. This dataset requires some knowledge with using scripts. The ZIP contains .txt files for over 130 countries and territories. The primary purpose of the data is to support comparison of building footprints across multiple years."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Google Research, Sentinel-2"
+  ],
+  "dcat_keyword_sm": [
+    "facilities-infrastructure",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "facilities-infrastructure",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2016-2023"
+  ],
+  "gbl_indexYear_im": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/google-open-buildings-temporal\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/acab847f-5c1a-462e-9c0e-ddd508525dcb/resource/1a7e9ba0-3fca-4c95-9f5a-a0a1f3bd393d/download/google-open-buildings-temporal.zip\"}"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hdx-7559f5d2-ceac-4829-9c9f-60f84e3cf52b",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T18:52:44Z",
+  "dct_title_s": "Satellite detected water extents over Sukhuma District, Champasak Province, LAO PDR as of 1 October 2022",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code TC20220928LAO, GDACS Id: 1000922** This map illustrates satellite-detected surface waters in Sukhuma District, Champasak Province, Lao PDR as observed from a Sentinel-1 image acquired on 1 October 2022 at 05:45 local time. Within the extent of this map of 360 km2 , about 12 km2 of lands appear to be flooded. Based on Worldpop population data and the detected surface waters in the map extent, about 2,500 people are potentially exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to United Nations Satellite Centre (UNOSAT). Important note: Flood analysis from radar images may underestimate the presence of standing waters in built-up areas and densely vegetated areas due to backscattering properties of the radar signal."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Lao People's Democratic Republic"
+  ],
+  "locn_geometry": "ENVELOPE(100.12, 107.56, 22.46, 13.88)",
+  "dcat_bbox": "ENVELOPE(100.12, 107.56, 22.46, 13.88)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extents-over-sukhuma-district-champasak-province-lao-pdr-as-of-1-october-2022\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3387/TC20220928LAO_gdb.zip\"}"
+}

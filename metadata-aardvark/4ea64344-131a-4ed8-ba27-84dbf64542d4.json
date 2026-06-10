@@ -1,0 +1,44 @@
+{
+  "id": "hdx-4ea64344-131a-4ed8-ba27-84dbf64542d4",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-08-26T17:48:44Z",
+  "dct_title_s": "RUWA: Water Access in Rural Niger (OpenStreetMap Export)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains data about water points in Fakara and Ngonga District in Niger. The field data was collected as part of the open map grant to support mapping water infrastructure and functionality in the Sahel Region. The data contains information about water usage, location of water points, types of water points, cost of accessing water (with a fee or not), operational status and operator. This theme includes all OpenStreetMap features in this area matching ( Learn what tags means [here](https://wiki.openstreetmap.org/wiki/Tags) ) : tags['amenity'] = 'drinking_water' Features may have these attributes: - [access](http://wiki.openstreetmap.org/wiki/Key:access) - [addr:city](http://wiki.openstreetmap.org/wiki/Key:addr:city) - [addr:district](http://wiki.openstreetmap.org/wiki/Key:addr:district) - [addr:place](http://wiki.openstreetmap.org/wiki/Key:addr:place) - [amenity](http://wiki.openstreetmap.org/wiki/Key:amenity) - [description](http://wiki.openstreetmap.org/wiki/Key:description) - [fee](http://wiki.openstreetmap.org/wiki/Key:fee) - [man_made](http://wiki.openstreetmap.org/wiki/Key:man_made) - [opening_hours](http://wiki.openstreetmap.org/wiki/Key:opening_hours) - [operational_status](http://wiki.openstreetmap.org/wiki/Key:operational_status) - [operator:type](http://wiki.openstreetmap.org/wiki/Key:operator:type) - [ownership](http://wiki.openstreetmap.org/wiki/Key:ownership) - [seasonal](http://wiki.openstreetmap.org/wiki/Key:seasonal) - [source](http://wiki.openstreetmap.org/wiki/Key:source) - [usage](http://wiki.openstreetmap.org/wiki/Key:usage) - [water:condition](http://wiki.openstreetmap.org/wiki/Key:water:condition) This dataset is one of many [OpenStreetMap exports on HDX](https://data.humdata.org/organization/hot). See the [Humanitarian OpenStreetMap Team](http://hotosm.org/) website for more information."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "hydrology",
+    "water sanitation and hygiene-wash"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "hydrology",
+    "water sanitation and hygiene-wash"
+  ],
+  "dct_spatial_sm": [
+    "Niger"
+  ],
+  "locn_geometry": "ENVELOPE(0.3, 15.9, 23.47, 11.66)",
+  "dcat_bbox": "ENVELOPE(0.3, 15.9, 23.47, 11.66)",
+  "dct_temporal_sm": [
+    "2022-2023"
+  ],
+  "gbl_indexYear_im": [
+    2022,
+    2023
+  ],
+  "dct_format_s": "KML",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_ner_ruwa_water\",\"http://schema.org/downloadUrl\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/hotosm_ner_ruwa/water/points/hotosm_ner_ruwa_water_points_kml.zip\"}"
+}

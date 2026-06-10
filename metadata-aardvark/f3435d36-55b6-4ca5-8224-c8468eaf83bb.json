@@ -1,0 +1,41 @@
+{
+  "id": "hdx-f3435d36-55b6-4ca5-8224-c8468eaf83bb",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2023-03-16T08:22:42Z",
+  "dct_title_s": "Kyrgyzstan - Elevation Model",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "SRTM DEM Data: Resolution 90m; There are five 5 x 5 deg tiles to cover the whole country. Version 3 of the CSI-SRTM data (srtm.csi.cgiar.org) with improved hole-filling algorithms which make use of ancilliary data sources where they are available. The data originate in the NASA Shuttle Radar Topographic Mission (SRTM) data held at the National Map Seamless Data Distribution System . The data have been processed by Dr. Andrew Jarvis of the CIAT Land Use project , in collaboration with H.I. Reuter, A. Nelson and E. Guevara to fill in data voids and produce a seamless mosaic."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "SRTM processed by the CIAT Land Use Project"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "topography"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "topography"
+  ],
+  "dct_spatial_sm": [
+    "Kyrgyzstan"
+  ],
+  "locn_geometry": "ENVELOPE(69.46, 80.26, 43.3, 39.28)",
+  "dcat_bbox": "ENVELOPE(69.46, 80.26, 43.3, 39.28)",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "gbl_indexYear_im": [
+    2000
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kyrgyzstan-elevation-model\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/f3435d36-55b6-4ca5-8224-c8468eaf83bb/resource/1d99d265-fb6b-4703-b5a5-26d233e40e55/download/srtm_50_04.zip\"}"
+}

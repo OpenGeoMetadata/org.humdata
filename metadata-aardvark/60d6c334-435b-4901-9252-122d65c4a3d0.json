@@ -1,0 +1,41 @@
+{
+  "id": "hdx-60d6c334-435b-4901-9252-122d65c4a3d0",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2025-11-25T03:37:29Z",
+  "dct_title_s": "Satellite detected water extent in Tawkar Locality, Red Sea State, Sudan as of 26 August 2024",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20240826SDN, GDACS ID: 1102854** This map illustrates satellite-detected water extent in Tawkar Locality, Red Sea State, Sudan as observed from a Sentinel-2 satellite image acquired on 26 August 2024 at 10:06 local time (09:56 UTC). Within analysed area of about 4,600 km², a total of about 783 km² of land appears to be affected by floodwaters. Based on Worldpop population data and the flood extent, approximately 33,400 people are potentially exposed or living close to flooded areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to the United Nations Satellite Centre (UNOSAT)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Sudan"
+  ],
+  "locn_geometry": "ENVELOPE(21.94, 38.41, 22.0, 8.62)",
+  "dcat_bbox": "ENVELOPE(21.94, 38.41, 22.0, 8.62)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/water-extent-in-tawkar-locality-red-sea-state-sudan-as-of-26-august-2024\",\"http://schema.org/downloadUrl\":\"https://unosat.org/static/unosat_filesystem/3933/FL20240826SDN_gdb.zip\"}"
+}

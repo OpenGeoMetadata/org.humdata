@@ -17,7 +17,7 @@
   "license_title": "odc-odbl",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2024-11-19T10:20:18.699592",
-  "metadata_modified": "2026-03-02T17:09:42.071508",
+  "metadata_modified": "2026-06-06T10:52:54.494073",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning algorithms to classify road surfaces.",
   "name": "spain-road-surface-data",
@@ -38,7 +38,7 @@
   },
   "owner_org": "14bd839d-9011-44cd-9097-efb38bf7fea6",
   "package_creator": "sukanya-randhawa-6497",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 1,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Spain\"]}",
@@ -62,6 +62,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:20:18.707643",
@@ -73,7 +74,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_esp_roadsurface_lines.geojson",
       "id": "f0ae95b5-412d-4538-97d0-7ece56dd43f7",
       "last_modified": "2024-11-19T10:20:18.669166",
-      "metadata_modified": "2026-03-02T17:09:42.122616",
+      "metadata_modified": "2026-06-06T10:52:54.549467",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -88,6 +89,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-11-19T10:20:18.707648",
@@ -99,7 +101,7 @@
       "hdx_rel_url": "https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_esp_roadsurface_lines.gpkg",
       "id": "1b5531ac-daef-4890-8329-fc56a1c7a2ad",
       "last_modified": "2024-11-19T10:20:18.669347",
-      "metadata_modified": "2025-08-26T17:17:36.076576",
+      "metadata_modified": "2026-06-06T10:52:54.549671",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

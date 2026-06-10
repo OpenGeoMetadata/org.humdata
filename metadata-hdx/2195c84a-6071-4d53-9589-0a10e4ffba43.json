@@ -1,0 +1,117 @@
+{
+  "archived": false,
+  "batch": "a3e003d3-484f-4fed-aded-388d4e5ec3e7",
+  "caveats": "This limited public release covers the country of Syria for the year 2021, showing the extent of human settlements. This geospatial data is a machine-learning inference-based product that meets stringent model quality tests but has not been physically ground-truthed in the field.",
+  "creator_user_id": "676979bc-6183-41d3-a9ea-4925eaff5039",
+  "data_update_frequency": "-2",
+  "dataset_date": "[2021-01-01T00:00:00 TO 2021-12-31T23:59:59]",
+  "dataset_preview": "resource_id",
+  "dataset_source": "Atlas of Human Settlements",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "2195c84a-6071-4d53-9589-0a10e4ffba43",
+  "is_requestdata_type": false,
+  "isopen": false,
+  "last_modified": "2023-02-23T10:52:20.965377",
+  "license_id": "hdx-other",
+  "license_other": "Data disseminated by Atlas AI, P.B.C. (“Atlas AI”) under its Open Data Humanitarian policy are licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) and governed by the [Atlas AI Terms of Use](https://www.atlasai.co/legal/terms-of-use). Where the License and the Terms of Use conflict, the terms of this license shall prevail.\r\n\r\nAs a summary of key terms under CC BY-NC-SA 4.0, open datasets and the related documentation (the “Licensed Material”) are made freely available to registered and unregistered users (the “Licensee”) under the following basic conditions:\r\n\r\n- The Licensed Material provided by Atlas AI will be used solely by the user, institution or organization and shall not be published, redistributed or sold for commercial use (i.e., for commercial advantage or monetary compensation or gain).\r\n\r\n- The Licensed Material will be used for humanitarian, development and/or scientific research purposes only. They will be used solely for generating and perhaps reporting, aggregated information and not for investigations into specific individuals or organizations. In other words, the Licensed Material shall be treated as a finished product - they may be used as a foundation for further work, but no reverse engineering or \"upstream research\" into the sources of the data itself will be permitted.\r\n\r\n- No attempt will be made to identify respondents or microdata providers, and no use will be made of the identity of any person, facility or establishment discovered inadvertently. Any such discovery would immediately be reported to Atlas AI, to allow us to evaluate further use, apply further statistical disclosure control methods, impose further restrictions on access, or appropriately re-classify the data.\r\n\r\n- No attempt will be made to create links among datasets provided by Atlas AI, or among data from Atlas AI and other datasets that could identify individuals or organizations.\r\n\r\n- You must not claim or imply that Atlas AI endorses your use of the Licensed Material, or use Atlas AI logo(s) or trademark(s) in conjunction with such use.\r\n\r\n- Any books, articles, conference papers, theses, dissertations, reports, or other publications that employ data obtained from Atlas AI will cite Atlas AI as the creator.\r\n\r\n- The original collector of the data, Atlas AI, and the relevant funding agencies bear no responsibility for any use of the Licensed Material or for interpretations or inferences based upon such uses.\r\n\r\n- Atlas AI offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to the Licensee.\r\n\r\n- To the extent possible, in no event will Atlas AI be liable to the Licensee on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this License or use of the Licensed Material, even if Atlas AI has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to Licensee.\r\n\r\n- The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.\r\n\r\nWhen downloading Licensed Material published under this Open Data Humanitarian license, users shall signify their agreement to comply with the above-stated terms and conditions and agree that the use of statistical data obtained from Atlas AI will conform to these widely-accepted standards of practice and any other legal restrictions to protect the confidentiality of respondents.\r\n\r\nTo contact Atlas AI about this License or the Licensed Material please send an email to [hello@atlasai.co](mailto:hello@atlasai.co) with the subject “Open Data Humanitarian License.”",
+  "license_title": "Other",
+  "maintainer": "676979bc-6183-41d3-a9ea-4925eaff5039",
+  "metadata_created": "2023-02-23T10:47:08.256258",
+  "metadata_modified": "2023-05-16T04:24:52.220995",
+  "methodology": "Other",
+  "methodology_other": "Satellite image analysis using encoder-decoder type deep convolutional neural networks and advanced computer vision techniques.",
+  "name": "syria-built-up-index",
+  "notes": "A scaled estimate of the extent of built-up presence in each 100 square meter unit area, inferred from buildings. Denoted by a decimal percentage between 0 and 1 indicating how much of the 10m x 10m grid cell is covered by buildings. From the Atlas of Human Settlements 2021 @ Syria.",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "id": "8991b291-4588-4d3c-a55a-51bc2ae57813",
+    "name": "atlas-ai",
+    "title": "Atlas AI",
+    "type": "organization",
+    "description": "Atlas AI's inclusive growth platform analyzes, monitors, and forecasts regions of growth, vulnerability, and opportunity around the world. The platform offers insight into where organizations can grow most successfully, and where investment can boost historically under-served communities. Atlas AI's platform has been used around the world to expand infrastructure access, inform economic policy, optimize logistics networks, power commercial growth activities and monitor the sustainability of supply chains. Atlas AI was founded by a team of Stanford University scientists in partnership with The Rockefeller Foundation and with support from Airbus Ventures and Micron Technologies Inc. For more information, please contact Atlas AI at hello@atlasai.us",
+    "image_url": "",
+    "created": "2023-02-18T06:13:08.447685",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "8991b291-4588-4d3c-a55a-51bc2ae57813",
+  "package_creator": "georgiosouzounis",
+  "pageviews_last_14_days": 3,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Syrian Arab Republic\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Syria: Built-up Index",
+  "total_res_downloads": 77,
+  "type": "dataset",
+  "url": null,
+  "version": null,
+  "customviz": [
+    {
+      "url": "https://turkeyeq2023.atlasai.co/images/syria-bui.png"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Syrian Arab Republic",
+      "id": "syr",
+      "image_display_url": "",
+      "name": "syr",
+      "title": "Syrian Arab Republic"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/2195c84a-6071-4d53-9589-0a10e4ffba43/resource/e27952be-cf96-4cc8-90d7-8180055a4448/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2023-02-23T10:52:21.171356",
+      "dataset_preview_enabled": true,
+      "datastore_active": false,
+      "description": "the built-up index of Syria in 2021",
+      "download_url": "https://data.humdata.org/dataset/2195c84a-6071-4d53-9589-0a10e4ffba43/resource/e27952be-cf96-4cc8-90d7-8180055a4448/download/atlasai_ahs_turkey_2021_built_up_index.tif",
+      "format": "GeoTIFF",
+      "hash": "",
+      "hdx_rel_url": "/dataset/2195c84a-6071-4d53-9589-0a10e4ffba43/resource/e27952be-cf96-4cc8-90d7-8180055a4448/download/atlasai_ahs_turkey_2021_built_up_index.tif",
+      "id": "e27952be-cf96-4cc8-90d7-8180055a4448",
+      "last_modified": "2023-02-23T10:52:20.965377",
+      "metadata_modified": "2023-02-23T16:50:57.933410",
+      "microdata": false,
+      "mimetype": "image/tiff",
+      "mimetype_inner": null,
+      "name": "AtlasAI_AHS_Turkey_2021_Built_Up_Index.tif",
+      "originalHash": "-988266717",
+      "package_id": "2195c84a-6071-4d53-9589-0a10e4ffba43",
+      "pii": "false",
+      "position": 0,
+      "resource_type": "file.upload",
+      "size": 542903091,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/2195c84a-6071-4d53-9589-0a10e4ffba43/resource/e27952be-cf96-4cc8-90d7-8180055a4448/download/atlasai_ahs_turkey_2021_built_up_index.tif",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "facilities-infrastructure",
+      "id": "e45272d8-6b73-4b8d-bb08-e880f8900df5",
+      "name": "facilities-infrastructure",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "populated places-settlements",
+      "id": "c7d3120a-ca01-4bba-b773-53cd7dc608bc",
+      "name": "populated places-settlements",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

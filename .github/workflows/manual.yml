@@ -2,8 +2,8 @@ name: Weekly Harvest
 
 on:
   schedule:
-    # Runs at 00:00 UTC every Monday
-    - cron: "0 0 * * 1"
+    # Runs at 02:00 UTC every day
+    - cron: "0 2 * * *"
   workflow_dispatch: # Allows manual triggering
 
 jobs:
@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -21,7 +21,7 @@ jobs:
         with:
           ruby-version: "4.0"
 
-      - name: Run rake task
+      - name: Run harvester
         run: gem install nokogiri && ruby harvester.rb
 
       - name: Commit and push changes

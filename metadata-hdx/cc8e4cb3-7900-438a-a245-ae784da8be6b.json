@@ -17,11 +17,11 @@
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "8f9b58d8-7cf2-4761-a665-60edc2911db0",
   "metadata_created": "2026-06-03T15:39:06.654530",
-  "metadata_modified": "2026-06-10T15:05:17.800207",
+  "metadata_modified": "2026-06-10T15:07:58.757680",
   "methodology": "Other",
   "methodology_other": "Population from census data has been disaggregated to locations that have buildings in the Overture building footprint dataset or were identified as having buildings in version 1.5 of the HRSL. The population was weighted by the log plus one (log(x + 1)) of building counts from the overture building data. Seven maps/datasets for the distribution of various populations: \r\n(1) Overall population density (total)\r\n(2) Women \r\n(3) Men \r\n(4) Children (ages 0-5) \r\n(5) Youth (ages 15-24)\r\n(6) Elderly (ages 60+) \r\n(7) Women of reproductive age (ages 15-49)\r\n\r\nThe GeoTIFF files contain estimates in persons per pixel (floating point numbers are used to minimize rounding errors). The CSV files contain the same estimates along with columns containing latitude and longitude. Only areas with population are included in the CSV files (locations with a value of 0 are areas that were not enumerated in a census that have buildings). ",
   "name": "india-high-resolution-population-density-maps-v2",
-  "notes": "Meta and Columbia University - CIESIN provide the High Resolution Settlement Layer as the world's most accurate population datasets. https://ai.meta.com/ai-for-good/datasets/high-resolution-population-density-maps/\r\n\r\nThese maps are the distribution of human population spanning India. Each of the 7 TIFF files is a 10 x 10 degree tile (the lower latitude coordinate and longitude coordinates are in the file name). A VRT file is also included.",
+  "notes": "Meta and Columbia University - CIESIN provide the High Resolution Settlement Layer as the world's most accurate population datasets. https://ai.meta.com/ai-for-good/datasets/high-resolution-population-density-maps/. This dataset for India, updated in 2026, relies on an updated methodology that uses the Overture Building Footprint dataset. \r\n\r\nThese maps are the distribution of human population spanning India. Each of the 7 TIFF files is a 10 x 10 degree tile (the lower latitude coordinate and longitude coordinates are in the file name). A VRT file is also included.",
   "num_resources": 5,
   "num_tags": 5,
   "organization": {

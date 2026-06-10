@@ -53,28 +53,7 @@ class Harvester
       puts "Fetching page #{page_number} of #{total_count}"
 
       total_fetched_count += batch.size
-
-      batch.each do |dataset|
-        # Filter by modified date
-        modified_date_str = dataset['metadata_modified']
-        next unless modified_date_str
-
-        modified_date = Time.parse(modified_date_str).utc
-        next unless modified_date > last_run
-
-        # Use the ID for file naming
-        id = dataset['id'] || dataset['name'] || "unknown_#{SecureRandom.hex(4)}"
-
-        # Save original
-        save_metadata(@hdx_metadata_dir, id, dataset)
-
-        # Map and save Aardvark
-        aardvark_data = Mapper.map(dataset)
-        save_metadata(@aardvark_metadata_dir, id, aardvark_data)
-
-        processed_count += 1
-        puts "Processed #{id}"
-      end
+      processed_count += process_batch(batch, last_run)
 
       start += BATCH_SIZE
       break if start >= total_count
@@ -88,6 +67,38 @@ class Harvester
   end
 
   private
+
+  # Process a batch of datasets and return the count of successfully processed new datasets
+  def process_batch(batch, last_run)
+    processed = 0
+    batch.each do |dataset|
+      processed += 1 if process_dataset(dataset, last_run)
+    end
+    processed
+  end
+
+  # Process, map, and save a single dataset if it was modified since the last run
+  def process_dataset(dataset, last_run)
+    # Filter by modified date
+    modified_date_str = dataset['metadata_modified']
+    return false unless modified_date_str
+
+    modified_date = Time.parse(modified_date_str).utc
+    return false unless modified_date > last_run
+
+    # Use the ID for file naming
+    id = dataset['id'] || dataset['name'] || "unknown_#{SecureRandom.hex(4)}"
+
+    # Save original
+    save_metadata(@hdx_metadata_dir, id, dataset)
+
+    # Map and save Aardvark
+    aardvark_data = Mapper.map(dataset)
+    save_metadata(@aardvark_metadata_dir, id, aardvark_data)
+
+    puts "Processed #{id}"
+    true
+  end
 
   def load_last_run
     if File.exist?(@state_file)

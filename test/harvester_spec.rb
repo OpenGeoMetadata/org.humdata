@@ -2,7 +2,7 @@ require 'minitest/autorun'
 require 'fileutils'
 require 'tmpdir'
 require 'json'
-require_relative 'harvester'
+require_relative '../harvester'
 
 # Define a manual stubbing helper on Net::HTTP to bypass Gem/Minitest version conflicts
 class << Net::HTTP

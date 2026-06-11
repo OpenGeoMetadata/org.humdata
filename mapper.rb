@@ -219,6 +219,12 @@ class Mapper
       refs['http://schema.org/downloadUrl'] = spatial_resource['download_url']
     end
 
+    # Add GeoJSON reference if a valid GeoJSON URL exists
+    geojson_resource = resources.find { |r| r['format'].to_s.casecmp?('geojson') && r['download_url'].present? }
+    if geojson_resource
+      refs['http://geojson.org/geojson-spec.html'] = geojson_resource['download_url']
+    end
+
     refs
   end
 end

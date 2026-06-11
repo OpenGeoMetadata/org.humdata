@@ -44,5 +44,9 @@ Output files are written to `metadata-aardvark/` with the same filename as the c
 To run the test suite:
 
 ```bash
-ruby harvester_spec.rb
+# Run the harvester tests
+ruby test/harvester_spec.rb
+
+# Run the mapper tests
+ruby test/mapper_test.rb
 ```

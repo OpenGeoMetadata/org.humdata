@@ -220,7 +220,7 @@ class Mapper
     end
 
     # Add GeoJSON reference if a valid GeoJSON URL exists
-    geojson_resource = resources.find { |r| r['format'].to_s.casecmp?('geojson') && r['download_url'].present? }
+    geojson_resource = resources.find { |r| r['format'].to_s.casecmp?('geojson') && r['download_url'].present? && r['download_url'].to_s.downcase =~ /\.(geo)?json$/ }
     if geojson_resource
       refs['http://geojson.org/geojson-spec.html'] = geojson_resource['download_url']
     end

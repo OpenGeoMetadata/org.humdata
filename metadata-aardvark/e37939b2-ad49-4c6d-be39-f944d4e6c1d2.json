@@ -1,0 +1,43 @@
+{
+  "id": "hdx-e37939b2-ad49-4c6d-be39-f944d4e6c1d2",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-11T21:49:34Z",
+  "dct_title_s": "Philippines - Earthquake on Jun 11 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000ss57](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000ss57) Magnitude 5.5 earthquake at 49.891 depth occurred on Jun 11 2026 59km S of Sarangani. The epicentre of the earthquake was located at latitude 4.8778 longitude 125.4356. It impacted 2 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "locn_geometry": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dcat_bbox": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/phl-earthquake-sm-us7000ss57\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/e37939b2-ad49-4c6d-be39-f944d4e6c1d2/resource/dee4460c-dd66-4428-bdb4-ca56fcae328f/download/phl_wfpadam_earthquake_202606111.geojson\",\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/e37939b2-ad49-4c6d-be39-f944d4e6c1d2/resource/dee4460c-dd66-4428-bdb4-ca56fcae328f/download/phl_wfpadam_earthquake_202606111.geojson\"}"
+}

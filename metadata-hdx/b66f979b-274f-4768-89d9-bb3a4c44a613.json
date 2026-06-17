@@ -17,7 +17,7 @@
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "e32d5afb-cc7e-4715-85b7-5a3b849443f5",
   "metadata_created": "2022-08-26T05:28:34.017341",
-  "metadata_modified": "2026-04-05T10:10:02.088734",
+  "metadata_modified": "2026-06-16T10:16:04.548458",
   "methodology": "IPC Classification spatial data in different IPC scenarios collected by FEWS NET enumerators on a regular schedule (typically monthly).",
   "name": "madagascar_medium_term_projection__fewsnet_ipc_shapefile_for_2019",
   "notes": "The FEWS NET Data Warehouse is **currently unavailable**. Datasets on HDX that refer to the Data Warehouse have been archived.\n\nMadagascar Medium Term Projection  FEWS NET Acute Food Insecurity Classifications Geographic data for 2019",
@@ -270,6 +270,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-08-26T05:29:05.272125",
@@ -281,7 +282,7 @@
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/?country=MG&scenario=ML2&collection_date=2019-07-01&format=geojson",
       "id": "236f3cb4-a424-40f7-ab73-b5711fe88c23",
       "last_modified": "2025-02-01T01:02:13.735468",
-      "metadata_modified": "2025-08-26T15:49:56.802297",
+      "metadata_modified": "2026-06-16T10:16:04.566959",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

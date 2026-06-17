@@ -1,7 +1,7 @@
 {
   "id": "hdx-b8567a2e-d9fa-4ff5-af8c-362749528468",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-10T16:32:28Z",
+  "gbl_mdModified_dt": "2026-06-16T12:54:05Z",
   "dct_title_s": "Ecuador: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -29,7 +29,7 @@
   "locn_geometry": "ENVELOPE(-80.97, -75.23, 1.38, -4.96)",
   "dcat_bbox": "ENVELOPE(-80.97, -75.23, 1.38, -4.96)",
   "dct_temporal_sm": [
-    "1851-2025"
+    "1851-2026"
   ],
   "gbl_indexYear_im": [
     1851,
@@ -206,7 +206,8 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/ecu-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/b8567a2e-d9fa-4ff5-af8c-362749528468/resource/c25edb2e-a16c-42cc-8a08-2690facf0b29/download/ibtracs_all_list_v04r01_lines_ecu.geojson\",\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/b8567a2e-d9fa-4ff5-af8c-362749528468/resource/c25edb2e-a16c-42cc-8a08-2690facf0b29/download/ibtracs_all_list_v04r01_lines_ecu.geojson\"}"

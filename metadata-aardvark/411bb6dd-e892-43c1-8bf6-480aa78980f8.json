@@ -1,7 +1,7 @@
 {
   "id": "hdx-411bb6dd-e892-43c1-8bf6-480aa78980f8",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-10T16:47:29Z",
+  "gbl_mdModified_dt": "2026-06-16T13:04:48Z",
   "dct_title_s": "Peru: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -29,7 +29,7 @@
   "locn_geometry": "ENVELOPE(-81.41, -68.67, -0.06, -18.35)",
   "dcat_bbox": "ENVELOPE(-81.41, -68.67, -0.06, -18.35)",
   "dct_temporal_sm": [
-    "1852-2025"
+    "1852-2026"
   ],
   "gbl_indexYear_im": [
     1852,
@@ -205,7 +205,8 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/per-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/411bb6dd-e892-43c1-8bf6-480aa78980f8/resource/18b0df53-a6cf-4cd1-8378-3ad71d349726/download/ibtracs_all_list_v04r01_lines_per.geojson\",\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/411bb6dd-e892-43c1-8bf6-480aa78980f8/resource/18b0df53-a6cf-4cd1-8378-3ad71d349726/download/ibtracs_all_list_v04r01_lines_per.geojson\"}"

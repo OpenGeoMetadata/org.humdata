@@ -1,7 +1,7 @@
 {
   "id": "hdx-99914ca4-1d23-4212-9afd-e480bda10eb9",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-10T16:31:39Z",
+  "gbl_mdModified_dt": "2026-06-16T12:54:17Z",
   "dct_title_s": "Cuba: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -29,7 +29,7 @@
   "locn_geometry": "ENVELOPE(-84.97, -74.18, 23.19, 19.86)",
   "dcat_bbox": "ENVELOPE(-84.97, -74.18, 23.19, 19.86)",
   "dct_temporal_sm": [
-    "1851-2025"
+    "1851-2026"
   ],
   "gbl_indexYear_im": [
     1851,
@@ -206,7 +206,8 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cub-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/99914ca4-1d23-4212-9afd-e480bda10eb9/resource/a7dda002-0644-4903-b340-1644b1efbd4c/download/ibtracs_all_list_v04r01_lines_cub.geojson\",\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/99914ca4-1d23-4212-9afd-e480bda10eb9/resource/a7dda002-0644-4903-b340-1644b1efbd4c/download/ibtracs_all_list_v04r01_lines_cub.geojson\"}"

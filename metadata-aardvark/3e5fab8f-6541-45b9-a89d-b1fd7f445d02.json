@@ -1,7 +1,7 @@
 {
   "id": "hdx-3e5fab8f-6541-45b9-a89d-b1fd7f445d02",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-10T16:33:30Z",
+  "gbl_mdModified_dt": "2026-06-16T12:54:06Z",
   "dct_title_s": "Dominican Republic: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -29,7 +29,7 @@
   "locn_geometry": "ENVELOPE(-71.95, -68.32, 19.88, 17.6)",
   "dcat_bbox": "ENVELOPE(-71.95, -68.32, 19.88, 17.6)",
   "dct_temporal_sm": [
-    "1851-2025"
+    "1851-2026"
   ],
   "gbl_indexYear_im": [
     1851,
@@ -206,7 +206,8 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/dom-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/3e5fab8f-6541-45b9-a89d-b1fd7f445d02/resource/94f6c626-1561-4771-993d-dfd52314d478/download/ibtracs_all_list_v04r01_lines_dom.geojson\",\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/3e5fab8f-6541-45b9-a89d-b1fd7f445d02/resource/94f6c626-1561-4771-993d-dfd52314d478/download/ibtracs_all_list_v04r01_lines_dom.geojson\"}"

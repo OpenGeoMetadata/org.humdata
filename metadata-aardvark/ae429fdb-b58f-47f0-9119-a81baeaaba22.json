@@ -1,7 +1,7 @@
 {
   "id": "hdx-ae429fdb-b58f-47f0-9119-a81baeaaba22",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-10T16:30:38Z",
+  "gbl_mdModified_dt": "2026-06-16T12:53:34Z",
   "dct_title_s": "Costa Rica: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -29,7 +29,7 @@
   "locn_geometry": "ENVELOPE(-85.94, -82.55, 11.22, 8.23)",
   "dcat_bbox": "ENVELOPE(-85.94, -82.55, 11.22, 8.23)",
   "dct_temporal_sm": [
-    "1851-2025"
+    "1851-2026"
   ],
   "gbl_indexYear_im": [
     1851,
@@ -206,7 +206,8 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cri-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":\"https://data.humdata.org/dataset/ae429fdb-b58f-47f0-9119-a81baeaaba22/resource/929e106a-f30d-4632-9cc8-a0828b29d526/download/ibtracs_all_list_v04r01_lines_cri.geojson\",\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/ae429fdb-b58f-47f0-9119-a81baeaaba22/resource/929e106a-f30d-4632-9cc8-a0828b29d526/download/ibtracs_all_list_v04r01_lines_cri.geojson\"}"

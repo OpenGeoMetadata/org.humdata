@@ -1,7 +1,7 @@
 {
   "id": "hdx-b72e2fb7-7be2-49a1-a70a-7abed0d2b8f7",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-16T10:16:12Z",
+  "gbl_mdModified_dt": "2026-06-16T15:16:12Z",
   "dct_title_s": "Hard to Reach Village Tract",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2019
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-hard-to-reach-village-tract\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:hard_to_reach_vt_may2019\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-hard-to-reach-village-tract\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:hard_to_reach_vt_may2019\",\"label\":\"GeoJSON\"}]}"
 }

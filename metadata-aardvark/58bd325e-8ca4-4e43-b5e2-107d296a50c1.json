@@ -39,5 +39,5 @@
     2015
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/syria-idp-sites\",\"http://schema.org/downloadUrl\":\"http://geonode.state.gov/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3ASyria_IDPSites_2016EarlyJan_HIU_USDoS&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/syria-idp-sites\",\"http://schema.org/downloadUrl\":[{\"url\":\"http://geonode.state.gov/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3ASyria_IDPSites_2016EarlyJan_HIU_USDoS&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature\",\"label\":\"GeoJSON\"}]}"
 }

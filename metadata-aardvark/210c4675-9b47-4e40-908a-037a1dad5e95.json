@@ -1,7 +1,7 @@
 {
   "id": "hdx-210c4675-9b47-4e40-908a-037a1dad5e95",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-16T09:07:07Z",
+  "gbl_mdModified_dt": "2026-06-16T14:07:07Z",
   "dct_title_s": "Malawi Current Situation FEWS NET Acute Food Insecurity Classifications Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -49,5 +49,5 @@
     2025
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/malawi_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":\"https://fdw.fews.net/api/ipcphasemap/?country=MW&scenario=CS&collection_date=2022-06-01&format=geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/malawi_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=MW&scenario=CS&collection_date=2022-06-01&format=geojson\",\"label\":\"GeoJSON\"}]}"
 }

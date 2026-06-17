@@ -1,7 +1,7 @@
 {
   "id": "hdx-4270c61a-ba20-434f-9b8c-521a35882f2b",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-16T09:35:42Z",
+  "gbl_mdModified_dt": "2026-06-16T14:35:42Z",
   "dct_title_s": "Chad Current Situation FEWS NET Acute Food Insecurity Classifications Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -49,5 +49,5 @@
     2025
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/chad_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":\"https://fdw.fews.net/api/ipcphasemap/?country=TD&scenario=CS&collection_date=2022-06-01&format=geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/chad_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=TD&scenario=CS&collection_date=2022-06-01&format=geojson\",\"label\":\"GeoJSON\"}]}"
 }

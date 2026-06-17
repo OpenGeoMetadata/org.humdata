@@ -1,7 +1,7 @@
 {
   "id": "hdx-0ce8063e-f59c-49aa-ad34-a26a480f9f42",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-16T09:10:26Z",
+  "gbl_mdModified_dt": "2026-06-16T14:10:26Z",
   "dct_title_s": "Canada - MODIS Active Fire Detections",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -43,5 +43,5 @@
     2000
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/nasa-firms-active-fire-canada-modis\",\"http://schema.org/downloadUrl\":\"https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/kml/MODIS_C6_1_Canada_24h.kml\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/nasa-firms-active-fire-canada-modis\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/kml/MODIS_C6_1_Canada_24h.kml\",\"label\":\"KML\"}]}"
 }

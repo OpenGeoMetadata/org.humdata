@@ -1,7 +1,7 @@
 {
   "id": "hdx-68d4c823-161d-42e5-bdf4-0f265a430360",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-16T09:55:18Z",
+  "gbl_mdModified_dt": "2026-06-16T14:55:18Z",
   "dct_title_s": "Congo, The Democratic Republic of the Current Situation FEWS NET Acute Food Insecurity Classifications Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -40,5 +40,5 @@
     2025
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/congo__the_democratic_republic_of_the_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":\"https://fdw.fews.net/api/ipcphasemap/?country=CD&scenario=CS&collection_date=2022-06-01&format=geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/congo__the_democratic_republic_of_the_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=CD&scenario=CS&collection_date=2022-06-01&format=geojson\",\"label\":\"GeoJSON\"}]}"
 }

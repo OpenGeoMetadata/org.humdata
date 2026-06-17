@@ -1,7 +1,7 @@
 {
   "id": "hdx-b35cd323-7662-47e9-b615-b631b2fc774d",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-16T10:16:08Z",
+  "gbl_mdModified_dt": "2026-06-16T15:16:08Z",
   "dct_title_s": "Bago Region Village Tract Boundaries MIMU v9.4",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2023
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-bago-region-village-tract-boundaries-mimu\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_bgo_polbnda_adm4_mimu_250k_1\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-bago-region-village-tract-boundaries-mimu\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_bgo_polbnda_adm4_mimu_250k_1\",\"label\":\"GeoJSON\"}]}"
 }

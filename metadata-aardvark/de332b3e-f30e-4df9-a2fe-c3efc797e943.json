@@ -1,7 +1,7 @@
 {
   "id": "hdx-de332b3e-f30e-4df9-a2fe-c3efc797e943",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-16T10:45:59Z",
+  "gbl_mdModified_dt": "2026-06-16T15:45:59Z",
   "dct_title_s": "Myanmar: Airports",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -41,5 +41,5 @@
     2022
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/myanmar-airport\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Ammr_airports_mimu&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/myanmar-airport\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geonode.themimu.info/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Ammr_airports_mimu&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature\",\"label\":\"GeoJSON\"}]}"
 }

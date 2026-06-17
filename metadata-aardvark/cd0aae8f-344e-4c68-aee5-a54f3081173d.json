@@ -1,7 +1,7 @@
 {
   "id": "hdx-cd0aae8f-344e-4c68-aee5-a54f3081173d",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-16T10:33:14Z",
+  "gbl_mdModified_dt": "2026-06-16T15:33:14Z",
   "dct_title_s": "Myanmar Town Points PCode v9.4",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2023
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-myanmar-town-points-pcode\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_pplp1_mimu250k\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-myanmar-town-points-pcode\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_pplp1_mimu250k\",\"label\":\"GeoJSON\"}]}"
 }

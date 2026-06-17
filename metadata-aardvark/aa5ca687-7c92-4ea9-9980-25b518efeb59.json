@@ -1,7 +1,7 @@
 {
   "id": "hdx-aa5ca687-7c92-4ea9-9980-25b518efeb59",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-16T10:26:44Z",
+  "gbl_mdModified_dt": "2026-06-16T15:26:44Z",
   "dct_title_s": "Myanmar Self Administered Regions Boundaries MIMU v9.4",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2023
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-myanmar-self-administered-regions-boundaries-mimu\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_polbnda_self_administered_zones_1\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-myanmar-self-administered-regions-boundaries-mimu\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_polbnda_self_administered_zones_1\",\"label\":\"GeoJSON\"}]}"
 }

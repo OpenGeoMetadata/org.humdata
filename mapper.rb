@@ -216,7 +216,9 @@ class Mapper
     spatial_resource = resources.find { |r| spatial_formats.include?(r['format']) } || resources.first
 
     if spatial_resource && spatial_resource['download_url'].present?
-      refs['http://schema.org/downloadUrl'] = spatial_resource['download_url']
+      refs['http://schema.org/downloadUrl'] = [
+        {url: spatial_resource['download_url'], label: spatial_resource['format']}
+      ]
     end
 
     # Add GeoJSON reference if a valid GeoJSON URL exists

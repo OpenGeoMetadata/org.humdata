@@ -1,7 +1,7 @@
 {
   "id": "hdx-00efa43d-081d-4580-a918-658b8a7c688b",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-16T09:10:44Z",
+  "gbl_mdModified_dt": "2026-06-16T14:10:44Z",
   "dct_title_s": "Myanmar State and Region Boundaries with Sub-regions MIMU  v9.4",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2023
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-myanmar-state-and-region-boundaries-with-sub-regions-mimu\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_polbnda2_adm1_250k_mimu_1\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-myanmar-state-and-region-boundaries-with-sub-regions-mimu\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_polbnda2_adm1_250k_mimu_1\",\"label\":\"GeoJSON\"}]}"
 }

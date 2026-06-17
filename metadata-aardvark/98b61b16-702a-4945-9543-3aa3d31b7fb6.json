@@ -1,7 +1,7 @@
 {
   "id": "hdx-98b61b16-702a-4945-9543-3aa3d31b7fb6",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-16T10:24:58Z",
+  "gbl_mdModified_dt": "2026-06-16T15:24:58Z",
   "dct_title_s": "UNHCR Population Reference Areas",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2021
   ],
   "dct_format_s": "KMZ",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/unhcr-population-reference-areas\",\"http://schema.org/downloadUrl\":\"https://gis.unhcr.org/arcgis/rest/services/core_v2/wrl_prp_a_unhcr/MapServer/kml/mapImage.kmz\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/unhcr-population-reference-areas\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://gis.unhcr.org/arcgis/rest/services/core_v2/wrl_prp_a_unhcr/MapServer/kml/mapImage.kmz\",\"label\":\"KMZ\"}]}"
 }

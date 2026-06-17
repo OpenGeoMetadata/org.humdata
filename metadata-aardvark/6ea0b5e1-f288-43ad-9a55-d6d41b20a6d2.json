@@ -1,7 +1,7 @@
 {
   "id": "hdx-6ea0b5e1-f288-43ad-9a55-d6d41b20a6d2",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-16T09:55:16Z",
+  "gbl_mdModified_dt": "2026-06-16T14:55:16Z",
   "dct_title_s": "USA (Contiguous & Hawaii) - MODIS Active Fire Detections",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -43,5 +43,5 @@
     2000
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/nasa-firms-active-fire-usa-contiguous-and-hawaii-modis\",\"http://schema.org/downloadUrl\":\"https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/kml/MODIS_C6_1_USA_contiguous_and_Hawaii_24h.kml\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/nasa-firms-active-fire-usa-contiguous-and-hawaii-modis\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/kml/MODIS_C6_1_USA_contiguous_and_Hawaii_24h.kml\",\"label\":\"KML\"}]}"
 }

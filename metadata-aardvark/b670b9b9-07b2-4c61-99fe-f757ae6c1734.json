@@ -1,7 +1,7 @@
 {
   "id": "hdx-b670b9b9-07b2-4c61-99fe-f757ae6c1734",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-16T10:16:11Z",
+  "gbl_mdModified_dt": "2026-06-16T15:16:11Z",
   "dct_title_s": "Myanmar District Boundaries MIMU v9.4",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2023
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-myanmar-district-boundaries-mimu\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_polbnda_adm2_250k_mimu\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-myanmar-district-boundaries-mimu\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_polbnda_adm2_250k_mimu\",\"label\":\"GeoJSON\"}]}"
 }

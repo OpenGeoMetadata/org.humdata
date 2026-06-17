@@ -1,7 +1,7 @@
 {
   "id": "hdx-9b8709e2-0d19-42d8-ad69-dead6b1d4df8",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-16T10:25:16Z",
+  "gbl_mdModified_dt": "2026-06-16T15:25:16Z",
   "dct_title_s": "USA (Contiguous & Hawaii) - Landsat Active Fire Detections",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -43,5 +43,5 @@
     2013
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/nasa-firms-active-fire-usa-contiguous-and-hawaii-landsat\",\"http://schema.org/downloadUrl\":\"https://firms.modaps.eosdis.nasa.gov/data/active_fire/landsat/kml/LANDSAT_USA_contiguous_and_Hawaii_24h.kml\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/nasa-firms-active-fire-usa-contiguous-and-hawaii-landsat\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://firms.modaps.eosdis.nasa.gov/data/active_fire/landsat/kml/LANDSAT_USA_contiguous_and_Hawaii_24h.kml\",\"label\":\"KML\"}]}"
 }

@@ -41,5 +41,5 @@
     2017
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/somalia-road-network-and-access-constraints\",\"http://schema.org/downloadUrl\":\"https://ogcserver.gis.wfp.org/geoserver/ows?&version=1.0.0&service=WFS&request=GetFeature&typename=geonode:som_trs_roads_osm&outputFormat=SHAPE-ZIP\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/somalia-road-network-and-access-constraints\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://ogcserver.gis.wfp.org/geoserver/ows?&version=1.0.0&service=WFS&request=GetFeature&typename=geonode:som_trs_roads_osm&outputFormat=SHAPE-ZIP\",\"label\":\"SHP\"}]}"
 }

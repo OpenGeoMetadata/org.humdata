@@ -1,7 +1,7 @@
 {
   "id": "hdx-2e92cadd-304c-4743-8c72-917c9d2b7036",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-14T09:09:28Z",
+  "gbl_mdModified_dt": "2026-06-14T14:09:28Z",
   "dct_title_s": "Kontur Boundaries: Global administrative division with aggregated population",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2022
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries\",\"http://schema.org/downloadUrl\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_20230628.gpkg.gz\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_20230628.gpkg.gz\",\"label\":\"Geopackage\"}]}"
 }

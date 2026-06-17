@@ -37,5 +37,5 @@
     2014
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/global-border-crossing-points\",\"http://schema.org/downloadUrl\":\"http://geonode.wfp.org/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Awld_poi_bcp_wfp&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/global-border-crossing-points\",\"http://schema.org/downloadUrl\":[{\"url\":\"http://geonode.wfp.org/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Awld_poi_bcp_wfp&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature\",\"label\":\"GeoJSON\"}]}"
 }

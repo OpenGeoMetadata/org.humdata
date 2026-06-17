@@ -1,7 +1,7 @@
 {
   "id": "hdx-420b2b43-c3b2-46e5-9064-3227cfe18e79",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-16T09:35:40Z",
+  "gbl_mdModified_dt": "2026-06-16T14:35:40Z",
   "dct_title_s": "Djibouti Current Situation FEWS NET Acute Food Insecurity Classifications Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2015
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/djibouti_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":\"https://fdw.fews.net/api/ipcphasemap/?country=DJ&scenario=CS&collection_date=2015-04-01&format=geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/djibouti_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=DJ&scenario=CS&collection_date=2015-04-01&format=geojson\",\"label\":\"GeoJSON\"}]}"
 }

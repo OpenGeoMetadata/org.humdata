@@ -1,7 +1,7 @@
 {
   "id": "hdx-b66f979b-274f-4768-89d9-bb3a4c44a613",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-16T10:16:04Z",
+  "gbl_mdModified_dt": "2026-06-16T15:16:04Z",
   "dct_title_s": "Madagascar Medium Term Projection  FEWS NET Acute Food Insecurity Classifications Geographic Data for 2019",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2019
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/madagascar_medium_term_projection__fewsnet_ipc_shapefile_for_2019\",\"http://schema.org/downloadUrl\":\"https://fdw.fews.net/api/ipcphasemap/?country=MG&scenario=ML2&collection_date=2019-02-01&format=geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/madagascar_medium_term_projection__fewsnet_ipc_shapefile_for_2019\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=MG&scenario=ML2&collection_date=2019-02-01&format=geojson\",\"label\":\"GeoJSON\"}]}"
 }

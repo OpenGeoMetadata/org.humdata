@@ -1,7 +1,7 @@
 {
   "id": "hdx-3a126703-b335-4e16-b2c4-0a753c204682",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-16T09:34:16Z",
+  "gbl_mdModified_dt": "2026-06-16T14:34:16Z",
   "dct_title_s": "Lakes and Dams in Myanmar",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2022
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-lakes-and-dams-in-myanmar\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_dam_lake_2021\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-lakes-and-dams-in-myanmar\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_dam_lake_2021\",\"label\":\"GeoJSON\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-782bbea4-431f-49b2-9ddb-a4e790062190",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-16T09:55:25Z",
+  "gbl_mdModified_dt": "2026-06-16T14:55:25Z",
   "dct_title_s": "Power Plant Locations in Myanmar",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2025
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-power-plant-locations-in-myanmar\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mm_powerplants_pt_v20250812\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-power-plant-locations-in-myanmar\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mm_powerplants_pt_v20250812\",\"label\":\"GeoJSON\"}]}"
 }

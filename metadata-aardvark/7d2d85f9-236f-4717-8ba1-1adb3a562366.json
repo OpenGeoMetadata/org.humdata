@@ -1,7 +1,7 @@
 {
   "id": "hdx-7d2d85f9-236f-4717-8ba1-1adb3a562366",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-14T09:52:48Z",
+  "gbl_mdModified_dt": "2026-06-14T14:52:48Z",
   "dct_title_s": "South Sudan Current Situation FEWS NET Acute Food Insecurity Classifications Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -49,5 +49,5 @@
     2025
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/south_sudan_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":\"https://fdw.fews.net/api/ipcphasemap/?country=SS&scenario=CS&collection_date=2022-02-01&format=geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/south_sudan_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=SS&scenario=CS&collection_date=2022-02-01&format=geojson\",\"label\":\"GeoJSON\"}]}"
 }

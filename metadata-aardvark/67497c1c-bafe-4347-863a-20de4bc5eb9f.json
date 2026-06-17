@@ -1,7 +1,7 @@
 {
   "id": "hdx-67497c1c-bafe-4347-863a-20de4bc5eb9f",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-16T09:55:24Z",
+  "gbl_mdModified_dt": "2026-06-16T14:55:24Z",
   "dct_title_s": "Chin State Village Tract Boundaries MIMU v9.4",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2023
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-chin-state-village-tract-boundaries-mimu\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_chn_polbnda_adm4_mimu_250k\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-chin-state-village-tract-boundaries-mimu\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_chn_polbnda_adm4_mimu_250k\",\"label\":\"GeoJSON\"}]}"
 }

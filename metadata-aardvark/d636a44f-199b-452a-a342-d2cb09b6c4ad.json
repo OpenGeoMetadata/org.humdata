@@ -1,7 +1,7 @@
 {
   "id": "hdx-d636a44f-199b-452a-a342-d2cb09b6c4ad",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-16T10:45:48Z",
+  "gbl_mdModified_dt": "2026-06-16T15:45:48Z",
   "dct_title_s": "Uganda Current Situation FEWS NET Acute Food Insecurity Classifications Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -48,5 +48,5 @@
     2024
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/uganda_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":\"https://fdw.fews.net/api/ipcphasemap/?country=UG&scenario=CS&collection_date=2022-06-01&format=geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/uganda_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=UG&scenario=CS&collection_date=2022-06-01&format=geojson\",\"label\":\"GeoJSON\"}]}"
 }

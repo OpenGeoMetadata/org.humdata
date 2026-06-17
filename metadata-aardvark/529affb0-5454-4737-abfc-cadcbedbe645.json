@@ -1,7 +1,7 @@
 {
   "id": "hdx-529affb0-5454-4737-abfc-cadcbedbe645",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-16T09:34:03Z",
+  "gbl_mdModified_dt": "2026-06-16T14:34:03Z",
   "dct_title_s": "Global - VIIRS Active Fire Detections",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -43,5 +43,5 @@
     2012
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/nasa-firms-active-fire-global-viirs\",\"http://schema.org/downloadUrl\":\"https://firms.modaps.eosdis.nasa.gov/data/active_fire/suomi-npp-viirs-c2/kml/SUOMI_VIIRS_C2_Global_24h.kml\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/nasa-firms-active-fire-global-viirs\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://firms.modaps.eosdis.nasa.gov/data/active_fire/suomi-npp-viirs-c2/kml/SUOMI_VIIRS_C2_Global_24h.kml\",\"label\":\"KML\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-a5372702-a702-412f-aad3-8b84c3e2ca7e",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-16T10:26:42Z",
+  "gbl_mdModified_dt": "2026-06-16T15:26:42Z",
   "dct_title_s": "Electric Power Substations in Myanmar",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2025
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-electric-power-substations-in-myanmar\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mm_substations_pt_v20250812\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-electric-power-substations-in-myanmar\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mm_substations_pt_v20250812\",\"label\":\"GeoJSON\"}]}"
 }

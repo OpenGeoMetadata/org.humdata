@@ -1,7 +1,7 @@
 {
   "id": "hdx-2b5d7118-96ff-4921-9d2d-98b7557f5b80",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-16T09:06:56Z",
+  "gbl_mdModified_dt": "2026-06-16T14:06:56Z",
   "dct_title_s": "Global - MODIS Active Fire Detections",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -43,5 +43,5 @@
     2000
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/nasa-firms-active-fire-global-modis\",\"http://schema.org/downloadUrl\":\"https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/kml/MODIS_C6_1_Global_24h.kml\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/nasa-firms-active-fire-global-modis\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/kml/MODIS_C6_1_Global_24h.kml\",\"label\":\"KML\"}]}"
 }

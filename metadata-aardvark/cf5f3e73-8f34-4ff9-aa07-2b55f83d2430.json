@@ -1,7 +1,7 @@
 {
   "id": "hdx-cf5f3e73-8f34-4ff9-aa07-2b55f83d2430",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-16T10:33:07Z",
+  "gbl_mdModified_dt": "2026-06-16T15:33:07Z",
   "dct_title_s": "Mauritania Current Situation FEWS NET Acute Food Insecurity Classifications Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -42,5 +42,5 @@
     2018
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mauritania_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":\"https://fdw.fews.net/api/ipcphasemap/?country=MR&scenario=CS&collection_date=2018-06-01&format=geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mauritania_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=MR&scenario=CS&collection_date=2018-06-01&format=geojson\",\"label\":\"GeoJSON\"}]}"
 }

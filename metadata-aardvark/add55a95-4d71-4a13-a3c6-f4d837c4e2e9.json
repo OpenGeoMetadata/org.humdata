@@ -1,7 +1,7 @@
 {
   "id": "hdx-add55a95-4d71-4a13-a3c6-f4d837c4e2e9",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-16T10:26:41Z",
+  "gbl_mdModified_dt": "2026-06-16T15:26:41Z",
   "dct_title_s": "Sagaing Region Village Tract Boundaries MIMU v9.4",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2023
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-sagaing-region-village-tract-boundaries-mimu\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_sag_polbnda_adm4_250k_mimu_1\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-sagaing-region-village-tract-boundaries-mimu\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_sag_polbnda_adm4_250k_mimu_1\",\"label\":\"GeoJSON\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-80bed191-e9c9-4274-8378-2ad927ec08ac",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-16T09:57:12Z",
+  "gbl_mdModified_dt": "2026-06-16T14:57:12Z",
   "dct_title_s": "Myanmar Railway Network",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2022
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-myanmar-railway-network\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_rlwl_250k_mimu_1\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-myanmar-railway-network\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_rlwl_250k_mimu_1\",\"label\":\"GeoJSON\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-49a398c6-e77a-4baf-8dcf-72e2c4026fe9",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-16T09:35:43Z",
+  "gbl_mdModified_dt": "2026-06-16T14:35:43Z",
   "dct_title_s": "Somalia Current Situation FEWS NET Acute Food Insecurity Classifications Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -49,5 +49,5 @@
     2025
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/somalia_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":\"https://fdw.fews.net/api/ipcphasemap/?country=SO&scenario=CS&collection_date=2022-02-01&format=geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/somalia_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=SO&scenario=CS&collection_date=2022-02-01&format=geojson\",\"label\":\"GeoJSON\"}]}"
 }

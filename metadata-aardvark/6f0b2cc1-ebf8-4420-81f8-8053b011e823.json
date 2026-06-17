@@ -1,7 +1,7 @@
 {
   "id": "hdx-6f0b2cc1-ebf8-4420-81f8-8053b011e823",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-16T09:55:23Z",
+  "gbl_mdModified_dt": "2026-06-16T14:55:23Z",
   "dct_title_s": "Kachin State Village Tract Boundaries MIMU v9.4",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2023
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-kachin-state-village-tract-boundaries-mimu\",\"http://schema.org/downloadUrl\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_kch_polbnda_adm4_mimu_250k\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-kachin-state-village-tract-boundaries-mimu\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_kch_polbnda_adm4_mimu_250k\",\"label\":\"GeoJSON\"}]}"
 }

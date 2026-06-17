@@ -1,7 +1,7 @@
 {
   "id": "hdx-a47722dc-0db6-4274-b3e4-dbf3853281a3",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-14T10:20:29Z",
+  "gbl_mdModified_dt": "2026-06-14T15:20:29Z",
   "dct_title_s": "Yemen Current Situation FEWS NET Acute Food Insecurity Classifications Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -46,5 +46,5 @@
     2025
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/yemen_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":\"https://fdw.fews.net/api/ipcphasemap/?country=YE&scenario=CS&collection_date=2022-06-01&format=geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/yemen_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=YE&scenario=CS&collection_date=2022-06-01&format=geojson\",\"label\":\"GeoJSON\"}]}"
 }

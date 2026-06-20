@@ -1,14 +1,14 @@
 {
   "id": "hdx-7431ac46-8c0b-4538-b890-dda04906e33b",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T14:49:22Z",
-  "dct_title_s": "Kenya Buildings (OpenStreetMap Export)",
+  "gbl_mdModified_dt": "2026-06-19T11:02:01Z",
+  "dct_title_s": "Buildings of Kenya",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "This theme includes all OpenStreetMap features in this area matching ( Learn what tags means [here](https://wiki.openstreetmap.org/wiki/Tags) ) : tags['building'] IS NOT NULL Features may have these attributes: - [name](http://wiki.openstreetmap.org/wiki/Key:name) - [name:en](http://wiki.openstreetmap.org/wiki/Key:name:en) - [building](http://wiki.openstreetmap.org/wiki/Key:building) - [building:levels](http://wiki.openstreetmap.org/wiki/Key:building:levels) - [building:materials](http://wiki.openstreetmap.org/wiki/Key:building:materials) - [addr:full](http://wiki.openstreetmap.org/wiki/Key:addr:full) - [addr:housenumber](http://wiki.openstreetmap.org/wiki/Key:addr:housenumber) - [addr:street](http://wiki.openstreetmap.org/wiki/Key:addr:street) - [addr:city](http://wiki.openstreetmap.org/wiki/Key:addr:city) - [office](http://wiki.openstreetmap.org/wiki/Key:office) - [source](http://wiki.openstreetmap.org/wiki/Key:source) - [name:sw](http://wiki.openstreetmap.org/wiki/Key:name:sw) This dataset is one of many [OpenStreetMap exports on HDX](https://data.humdata.org/organization/hot). See the [Humanitarian OpenStreetMap Team](http://hotosm.org/) website for more information."
+    "Building footprints across the region: every feature tagged `building=*`, from residential homes to hospitals, schools, and places of worship. Useful for population estimation, damage assessment, and urban planning. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [building](https://wiki.openstreetmap.org/wiki/Key:building) - Part of the [exports grid on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
   ],
   "dct_language_sm": [
     "eng"
@@ -36,6 +36,6 @@
   "gbl_indexYear_im": [
     2026
   ],
-  "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_ken_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/KEN/buildings/polygons/hotosm_ken_buildings_polygons_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_ken_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/KEN/buildings/hotosm_ken_buildings_osm_gpkg.zip\",\"label\":\"Geopackage\"}]}"
 }

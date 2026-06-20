@@ -1,14 +1,14 @@
 {
   "id": "hdx-03ee9182-e385-472e-ba89-f5626d7781b4",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T14:10:57Z",
-  "dct_title_s": "Kenya Waterways (OpenStreetMap Export)",
+  "gbl_mdModified_dt": "2026-06-19T11:05:02Z",
+  "dct_title_s": "Waterways of Kenya",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "This theme includes all OpenStreetMap features in this area matching ( Learn what tags means [here](https://wiki.openstreetmap.org/wiki/Tags) ) : tags['waterway'] IS NOT NULL OR tags['water'] IS NOT NULL OR tags['natural'] IN ('water','wetland','bay') Features may have these attributes: - [name](http://wiki.openstreetmap.org/wiki/Key:name) - [name:en](http://wiki.openstreetmap.org/wiki/Key:name:en) - [waterway](http://wiki.openstreetmap.org/wiki/Key:waterway) - [covered](http://wiki.openstreetmap.org/wiki/Key:covered) - [width](http://wiki.openstreetmap.org/wiki/Key:width) - [depth](http://wiki.openstreetmap.org/wiki/Key:depth) - [layer](http://wiki.openstreetmap.org/wiki/Key:layer) - [blockage](http://wiki.openstreetmap.org/wiki/Key:blockage) - [tunnel](http://wiki.openstreetmap.org/wiki/Key:tunnel) - [natural](http://wiki.openstreetmap.org/wiki/Key:natural) - [water](http://wiki.openstreetmap.org/wiki/Key:water) - [source](http://wiki.openstreetmap.org/wiki/Key:source) - [name:sw](http://wiki.openstreetmap.org/wiki/Key:name:sw) This dataset is one of many [OpenStreetMap exports on HDX](https://data.humdata.org/organization/hot). See the [Humanitarian OpenStreetMap Team](http://hotosm.org/) website for more information."
+    "Water features across the region: rivers, streams, canals, lakes, ponds, and water bodies tagged with `waterway`, `water`, or `natural=water`. Useful for flood-risk modelling, watershed analysis, and environmental basemap context. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [waterway](https://wiki.openstreetmap.org/wiki/Key:waterway), [water](https://wiki.openstreetmap.org/wiki/Key:water), [natural](https://wiki.openstreetmap.org/wiki/Key:natural) - Part of the [exports grid on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
   ],
   "dct_language_sm": [
     "eng"
@@ -38,6 +38,6 @@
   "gbl_indexYear_im": [
     2026
   ],
-  "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_ken_waterways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/KEN/waterways/lines/hotosm_ken_waterways_lines_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_ken_waterways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/KEN/waterways/hotosm_ken_waterways_osm_geojson.zip\",\"label\":\"GeoJSON\"}]}"
 }

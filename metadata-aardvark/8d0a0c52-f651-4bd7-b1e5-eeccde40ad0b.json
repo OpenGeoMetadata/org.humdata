@@ -1,14 +1,14 @@
 {
   "id": "hdx-8d0a0c52-f651-4bd7-b1e5-eeccde40ad0b",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T14:53:44Z",
-  "dct_title_s": "Colombia Airports (OpenStreetMap Export)",
+  "gbl_mdModified_dt": "2026-06-19T10:16:17Z",
+  "dct_title_s": "Airports of Colombia",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "This theme includes all OpenStreetMap features in this area matching ( Learn what tags means [here](https://wiki.openstreetmap.org/wiki/Tags) ) : tags['aeroway'] IS NOT NULL OR tags['building'] = 'aerodrome' OR tags['emergency:helipad'] IS NOT NULL OR tags['emergency'] = 'landing_site' Features may have these attributes: - [name](http://wiki.openstreetmap.org/wiki/Key:name) - [name:en](http://wiki.openstreetmap.org/wiki/Key:name:en) - [aeroway](http://wiki.openstreetmap.org/wiki/Key:aeroway) - [building](http://wiki.openstreetmap.org/wiki/Key:building) - [emergency](http://wiki.openstreetmap.org/wiki/Key:emergency) - [emergency:helipad](http://wiki.openstreetmap.org/wiki/Key:emergency:helipad) - [operator:type](http://wiki.openstreetmap.org/wiki/Key:operator:type) - [capacity:persons](http://wiki.openstreetmap.org/wiki/Key:capacity:persons) - [addr:full](http://wiki.openstreetmap.org/wiki/Key:addr:full) - [addr:city](http://wiki.openstreetmap.org/wiki/Key:addr:city) - [source](http://wiki.openstreetmap.org/wiki/Key:source) - [name:es](http://wiki.openstreetmap.org/wiki/Key:name:es) This dataset is one of many [OpenStreetMap exports on HDX](https://data.humdata.org/organization/hot). See the [Humanitarian OpenStreetMap Team](http://hotosm.org/) website for more information."
+    "Airports and aviation infrastructure: airports, heliports, helipads, runways, terminals, and emergency landing sites tagged via `aeroway`, `building`, or `emergency`. Useful for logistics, evacuation routing, and aerial-response planning. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [aeroway](https://wiki.openstreetmap.org/wiki/Key:aeroway), [building](https://wiki.openstreetmap.org/wiki/Key:building), [emergency](https://wiki.openstreetmap.org/wiki/Key:emergency) - Part of the [exports grid on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
   ],
   "dct_language_sm": [
     "eng"
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_col_airports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/COL/airports/points/hotosm_col_airports_points_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_col_airports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/COL/airports/hotosm_col_airports_osm_kml.zip\",\"label\":\"KML\"}]}"
 }

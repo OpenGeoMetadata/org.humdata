@@ -1,14 +1,14 @@
 {
   "id": "hdx-a6a7e5d0-2a4b-4b5d-9281-bd57f64960bf",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T15:17:39Z",
-  "dct_title_s": "Ethiopia Education Facilities (OpenStreetMap Export)",
+  "gbl_mdModified_dt": "2026-06-19T10:33:35Z",
+  "dct_title_s": "Education Facilities of Ethiopia",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "This theme includes all OpenStreetMap features in this area matching ( Learn what tags means [here](https://wiki.openstreetmap.org/wiki/Tags) ) : tags['amenity'] IN ('kindergarten', 'school', 'college', 'university') OR tags['building'] IN ('kindergarten', 'school', 'college', 'university') Features may have these attributes: - [name](http://wiki.openstreetmap.org/wiki/Key:name) - [name:en](http://wiki.openstreetmap.org/wiki/Key:name:en) - [amenity](http://wiki.openstreetmap.org/wiki/Key:amenity) - [building](http://wiki.openstreetmap.org/wiki/Key:building) - [operator:type](http://wiki.openstreetmap.org/wiki/Key:operator:type) - [capacity:persons](http://wiki.openstreetmap.org/wiki/Key:capacity:persons) - [addr:full](http://wiki.openstreetmap.org/wiki/Key:addr:full) - [addr:city](http://wiki.openstreetmap.org/wiki/Key:addr:city) - [source](http://wiki.openstreetmap.org/wiki/Key:source) - [name:aa](http://wiki.openstreetmap.org/wiki/Key:name:aa) - [name:am](http://wiki.openstreetmap.org/wiki/Key:name:am) - [name:om](http://wiki.openstreetmap.org/wiki/Key:name:om) - [name:so](http://wiki.openstreetmap.org/wiki/Key:name:so) - [name:ti](http://wiki.openstreetmap.org/wiki/Key:name:ti) This dataset is one of many [OpenStreetMap exports on HDX](https://data.humdata.org/organization/hot). See the [Humanitarian OpenStreetMap Team](http://hotosm.org/) website for more information."
+    "Education facilities: schools, kindergartens, colleges, and universities tagged via `amenity` or `building`. Useful for school-access mapping, education planning, and resource allocation. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [amenity](https://wiki.openstreetmap.org/wiki/Key:amenity), [building](https://wiki.openstreetmap.org/wiki/Key:building) - Part of the [exports grid on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
   ],
   "dct_language_sm": [
     "eng"
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_eth_education_facilities\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ETH/education_facilities/points/hotosm_eth_education_facilities_points_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_eth_education_facilities\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ETH/education_facilities/hotosm_eth_education_facilities_osm_kml.zip\",\"label\":\"KML\"}]}"
 }

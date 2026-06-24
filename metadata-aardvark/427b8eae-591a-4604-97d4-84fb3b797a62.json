@@ -1,0 +1,88 @@
+{
+  "id": "hdx-427b8eae-591a-4604-97d4-84fb3b797a62",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-23T23:55:48Z",
+  "dct_title_s": "Peru - GLIDE Disaster Events",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "GLIDEnumbers are GLobal unique IDEntifiers for Disasters. Each disaster is registered in a record that contains a GLIDEnumber that uniquely identifies it and allows information to be interoperable across multiple disaster information sources, both structured and textual. Accessing disaster information can be a time consuming and laborious task. Not only is data scattered but frequently identification of the disaster can be confusing in countries with many disaster events and across borders. To address both of these issues, Asian Disaster Reduction Center (ADRC) proposed a globally common Unique ID code for disasters. Among the institutions using actively GLIDEnumbers are UN-OCHA (ReliefWeb, FSCC, HDX), UNDRR, UNDP, WMO, IFRC, FAO, the European Commission and the Centre for Research on the Epidemiology of Disasters (CRED), among many others."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "GLIDE Initiative"
+  ],
+  "dcat_keyword_sm": [
+    "agriculture-livestock",
+    "climate hazards",
+    "disease",
+    "drought",
+    "earthquake-tsunami",
+    "epidemics-outbreaks",
+    "flooding",
+    "food security",
+    "hazards and risk",
+    "health",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "agriculture-livestock",
+    "climate hazards",
+    "disease",
+    "drought",
+    "earthquake-tsunami",
+    "epidemics-outbreaks",
+    "flooding",
+    "food security",
+    "hazards and risk",
+    "health",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Peru"
+  ],
+  "locn_geometry": "ENVELOPE(-81.41, -68.67, -0.06, -18.35)",
+  "dcat_bbox": "ENVELOPE(-81.41, -68.67, -0.06, -18.35)",
+  "dct_temporal_sm": [
+    "1997-2026"
+  ],
+  "gbl_indexYear_im": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "dct_format_s": "CSV",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/per-glide-events\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/427b8eae-591a-4604-97d4-84fb3b797a62/resource/6efbad99-9184-4854-8169-71d5f3bc6ef4/download/per_glide_events.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/427b8eae-591a-4604-97d4-84fb3b797a62/resource/6efbad99-9184-4854-8169-71d5f3bc6ef4/download/per_glide_events.geojson\"}"
+}

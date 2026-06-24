@@ -1,14 +1,14 @@
 {
   "id": "hdx-84a1d98a-790b-4d66-9d14-bbfa48500802",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-11-13T16:02:11Z",
+  "gbl_mdModified_dt": "2026-06-23T17:18:41Z",
   "dct_title_s": "Indonesia - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "Indonesia administrative level 0-3 boundaries (COD-AB) dataset. These administrative boundaries were established in: 2020 NOTE: COD-AB includes 17 uninhabited features that are excluded from COD-PS. See COD-PS caveats for further details. This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024. The COD-AB does not require any update. Sourced from Badan Pusat Statistik (BPS - Statistics Indonesia) Vetting by Information Technology Outreach Services (ITOS) with funding from USAID. This COD-AB is suitable for database or GIS linkage to the Indonesia [COD-PS](https://data.humdata.org/dataset/cod-ps-idn). No edge-matched (COD-EM) version of this COD-AB has yet been prepared. Please see the [COD Portal](https://cod.unocha.org/). Administrative level 1 contains 34 feature(s). The normal administrative level 1 feature type is \"\"province (provinsi)\"\". Administrative level 2 contains 522 feature(s). The normal administrative level 2 feature type is \"\"city, district, regency (kota, kabupaten)\"\". Administrative level 3 contains 7,069 feature(s). The normal administrative level 3 feature type is \"\"currently not known\"\". Recommended cartographic projection: Asia South Albers Equal Area Conic This metadata was last updated on January 13, 2025."
+    "Indonesia administrative level 0-4 boundaries (COD-AB) dataset version 01. This dataset is structured into 4 levels: - Admin 1: 34 province (provinsi) - Admin 2: 522 city, district, regency (kota, kabupaten) - Admin 3: 7069 - Admin 4: 81912 Dates associated with this dataset: - 30 October 2025: dataset reviewed for accuracy and completeness - 01 April 2020: valid for use by the humanitarian community - 08 April 2020: last edit to the dataset before publishing - 08 April 2020: boundaries created by the source Contributed by [OCHA Regional Office for Asia and the Pacific (ROAP)](https://data.humdata.org/organization/ocha-roap). Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx). Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)"
   ],
   "dct_language_sm": [
     "eng"
@@ -19,11 +19,13 @@
   ],
   "dcat_keyword_sm": [
     "administrative boundaries-divisions",
-    "gazetteer"
+    "gazetteer",
+    "geodata"
   ],
   "dct_subject_sm": [
     "administrative boundaries-divisions",
-    "gazetteer"
+    "gazetteer",
+    "geodata"
   ],
   "dct_spatial_sm": [
     "Indonesia"
@@ -41,6 +43,6 @@
     2024,
     2025
   ],
-  "dct_format_s": "XLSX",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-idn\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/84a1d98a-790b-4d66-9d14-bbfa48500802/resource/9f9a4843-2491-4aa3-b50f-945ea3a8d879/download/idn_adminboundaries_tabulardata.xlsx\",\"label\":\"XLSX\"}]}"
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-idn\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/84a1d98a-790b-4d66-9d14-bbfa48500802/resource/e1421da4-8f48-47d2-ac49-79ff5bfa4d24/download/idn_admin_boundaries.geojson.zip\",\"label\":\"GeoJSON\"}]}"
 }

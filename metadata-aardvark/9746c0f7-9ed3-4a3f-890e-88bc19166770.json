@@ -1,43 +1,41 @@
 {
   "id": "hdx-9746c0f7-9ed3-4a3f-890e-88bc19166770",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-06-27T12:24:58Z",
+  "gbl_mdModified_dt": "2026-06-23T17:22:16Z",
   "dct_title_s": "Sao Tome and Principe - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "Sao Tome and Principe administrative level 0-2 boundaries (COD-AB) dataset. The date that these administrative boundaries were established is unknown. This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024. The COD-AB does not require any update. Sourced from www.gadm.org Vetting by Information Technology Outreach Services (ITOS) with funding from USAID. This COD-AB is suitable for database or GIS linkage to the Sao Tome and Principe [COD-PS](https://data.humdata.org/dataset/cod-ps-stp). As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required. Please see the [COD Portal](https://cod.unocha.org/). Administrative level 1 contains 2 feature(s). The normal administrative level 1 feature type is \"\"Province\"\". Administrative level 2 contains 8 feature(s). The normal administrative level 2 feature type is \"\"District\"\". Recommended cartographic projection: Africa Albers Equal Area Conic This metadata was last updated on January 13, 2025."
+    "Sao Tome and Principe administrative level 0-1 boundaries (COD-AB) dataset version 01. This dataset is structured into 1 level: - Admin 1: 7 Province Note: São Tomé and Príncipe comprises two provinces (São Tomé and Príncipe) at Admin 1, subdivided into 7 districts at Admin 2. Six districts are located on São Tomé island (Água Grande, Cantagalo, Caué, Lembá, Lobata, Mé-Zóchi) and one (Pagué) covers Príncipe island. The island of Príncipe has held autonomous region status since 1995. Dates associated with this dataset: - 01 June 2026: dataset reviewed for accuracy and completeness - 01 June 2026: valid for use by the humanitarian community - 01 June 2026: last edit to the dataset before publishing - 17 August 2020: boundaries created by the source Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx). Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "schema_provider_s": "Humanitarian Data Exchange",
   "dct_publisher_sm": [
-    "www.gadm.org"
+    "GADM (Global Administrative Areas) - gadm.org"
   ],
   "dcat_keyword_sm": [
     "administrative boundaries-divisions",
-    "gazetteer"
+    "gazetteer",
+    "geodata"
   ],
   "dct_subject_sm": [
     "administrative boundaries-divisions",
-    "gazetteer"
+    "gazetteer",
+    "geodata"
   ],
   "dct_spatial_sm": [
     "Sao Tome and Principe"
   ],
   "dct_temporal_sm": [
-    "2020-2024"
+    "2026"
   ],
   "gbl_indexYear_im": [
-    2020,
-    2021,
-    2022,
-    2023,
-    2024
+    2026
   ],
-  "dct_format_s": "XLSX",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-stp\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/9746c0f7-9ed3-4a3f-890e-88bc19166770/resource/f6d0dfd8-1c99-4103-9c51-f88ea34313c2/download/stp_admgaz_2020.xlsx\",\"label\":\"XLSX\"}]}"
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-stp\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/9746c0f7-9ed3-4a3f-890e-88bc19166770/resource/24ee3f91-5ac1-4ec2-9974-c967fd9e52ef/download/stp_admin_boundaries.geojson.zip\",\"label\":\"GeoJSON\"}]}"
 }

@@ -1,0 +1,81 @@
+{
+  "id": "hdx-2d59158e-141c-49cd-ac0c-99aa85fe7624",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-23T23:54:22Z",
+  "dct_title_s": "Lesotho - GLIDE Disaster Events",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "GLIDEnumbers are GLobal unique IDEntifiers for Disasters. Each disaster is registered in a record that contains a GLIDEnumber that uniquely identifies it and allows information to be interoperable across multiple disaster information sources, both structured and textual. Accessing disaster information can be a time consuming and laborious task. Not only is data scattered but frequently identification of the disaster can be confusing in countries with many disaster events and across borders. To address both of these issues, Asian Disaster Reduction Center (ADRC) proposed a globally common Unique ID code for disasters. Among the institutions using actively GLIDEnumbers are UN-OCHA (ReliefWeb, FSCC, HDX), UNDRR, UNDP, WMO, IFRC, FAO, the European Commission and the Centre for Research on the Epidemiology of Disasters (CRED), among many others."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "GLIDE Initiative"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "disease",
+    "drought",
+    "epidemics-outbreaks",
+    "flooding",
+    "food security",
+    "hazards and risk",
+    "health",
+    "malnutrition",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "disease",
+    "drought",
+    "epidemics-outbreaks",
+    "flooding",
+    "food security",
+    "hazards and risk",
+    "health",
+    "malnutrition",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Lesotho"
+  ],
+  "locn_geometry": "ENVELOPE(27.0, 29.33, -28.65, -30.65)",
+  "dcat_bbox": "ENVELOPE(27.0, 29.33, -28.65, -30.65)",
+  "dct_temporal_sm": [
+    "2000-2024"
+  ],
+  "gbl_indexYear_im": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "dct_format_s": "CSV",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/lso-glide-events\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/2d59158e-141c-49cd-ac0c-99aa85fe7624/resource/7e756ba3-6d58-43cf-8173-f57843dc8656/download/lso_glide_events.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/2d59158e-141c-49cd-ac0c-99aa85fe7624/resource/7e756ba3-6d58-43cf-8173-f57843dc8656/download/lso_glide_events.geojson\"}"
+}

@@ -7,7 +7,6 @@
   "dataset_preview": "first_resource",
   "dataset_source": "SPC Statistics for Development Division (SDD)",
   "has_geodata": true,
-  "has_quickcharts": false,
   "has_showcases": false,
   "id": "f6e83afe-03f8-4775-aa3f-9e12ccc0a1a8",
   "is_requestdata_type": false,
@@ -18,7 +17,7 @@
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "7c7cdf72-1e5b-479d-89c1-d96833e7940a",
   "metadata_created": "2023-01-31T21:51:19.485817",
-  "metadata_modified": "2025-08-26T17:17:23.300694",
+  "metadata_modified": "2026-06-24T10:48:01.398020",
   "methodology": "Census",
   "name": "pdh-coastal-proximity-of-populations-in-22-pacific-island-countries-and-territories-dataset-marshall",
   "notes": "Spatial datasets utilized to conduct the spatial analysis and additional information from the research article: Coastal proximity of populations in 22 Pacific Island Countries and Territories. \r\n\r\nhttps://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223249\r\nhttps://sdd.spc.int/mapping-coastal\r\n\n\n_Access this dataset from the [Pacific Data Hub](https://pacificdata.org/data/dataset/coastal-population-dataset-mhl)_",
@@ -61,6 +60,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:00:21.114678",
@@ -72,7 +72,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/91634d6a-71f4-4a6b-9d01-0c75cbbd1587/resource/e82a2a36-d9af-4a9c-ae4e-84e9eb1302c9/download/rmi_ea_4326.geojson",
       "id": "b049d019-f36f-4d2a-aa4f-1a74ee004184",
       "last_modified": "2024-02-06T04:00:21.101589",
-      "metadata_modified": "2025-08-26T17:17:23.309602",
+      "metadata_modified": "2026-06-24T10:48:01.405618",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -87,6 +87,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:00:21.114682",
@@ -98,7 +99,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/91634d6a-71f4-4a6b-9d01-0c75cbbd1587/resource/5ec51302-736d-4ec9-a232-af49d2d79e7b/download/readme.txt",
       "id": "95aeac4f-794f-4f50-942c-63b3661a11ee",
       "last_modified": "2024-02-06T04:00:21.101750",
-      "metadata_modified": "2025-08-26T17:17:23.309819",
+      "metadata_modified": "2026-06-24T10:48:01.405704",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

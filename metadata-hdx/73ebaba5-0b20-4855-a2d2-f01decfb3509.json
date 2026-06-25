@@ -17,7 +17,7 @@
   "license_title": "Other",
   "maintainer": "7c7cdf72-1e5b-479d-89c1-d96833e7940a",
   "metadata_created": "2023-01-31T21:51:53.328743",
-  "metadata_modified": "2025-08-26T13:52:17.248864",
+  "metadata_modified": "2026-06-24T09:50:52.338760",
   "methodology": "Census",
   "name": "pdh-percentage-of-population-within-1-5-10km-coastal-buffers",
   "notes": "A collaborative project between SPC, the World Fish Centre and the University of Wollongong has produced the first detailed population estimates of people living close to the coast in the 22 Pacific Island Countries and Territories (PICTs). These estimates are stratified into 1, 5, and 10km zones.\r\nMore information about this dataset: https://sdd.spc.int/mapping-coastal\n\n_Access this dataset from the [Pacific Data Hub](https://pacificdata.org/data/dataset/percentage-of-population-within-1-5-10km-coastal-buffers)_",
@@ -37,14 +37,14 @@
   },
   "owner_org": "572657e0-2ac0-41d7-aea9-785ad273bcf0",
   "package_creator": "pacificdatahub",
-  "pageviews_last_14_days": 2,
+  "pageviews_last_14_days": 1,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"American Samoa\", \"Cook Islands\", \"Fiji\", \"French Polynesia\", \"Guam\", \"Kiribati\", \"Marshall Islands\", \"Micronesia (Federated States of)\", \"Nauru\", \"New Caledonia\", \"Niue\", \"Northern Mariana Islands\", \"Palau\", \"Papua New Guinea\", \"Pitcairn\", \"Samoa\", \"Solomon Islands\", \"Tokelau\", \"Tonga\", \"Tuvalu\", \"Vanuatu\", \"Wallis and Futuna Islands\"]}",
   "state": "active",
   "subnational": "0",
   "title": "Percentage of Population within 1 5 & 10km Coastal Buffers",
-  "total_res_downloads": 124,
+  "total_res_downloads": 125,
   "type": "dataset",
   "url": null,
   "version": null,
@@ -228,6 +228,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:00:52.791499",
@@ -239,7 +240,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/fc458679-979b-4676-9b7b-c69698909719/resource/70ec321c-0c3a-443f-ad93-4536d2267c13/download/coastpopper_1_5_10km_buffer.gpkg",
       "id": "45ce90bf-dccd-49cd-a78f-7907669991bc",
       "last_modified": "2024-02-06T04:00:52.760097",
-      "metadata_modified": "2025-08-26T13:52:17.257793",
+      "metadata_modified": "2026-06-24T09:50:52.348511",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -254,6 +255,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:00:52.791503",
@@ -265,7 +267,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/fc458679-979b-4676-9b7b-c69698909719/resource/a7248775-68c4-44e7-92a8-5d2e554103e9/download/coastpopper_1_5_10km_buffer.zip",
       "id": "700ccd9e-8672-4ee0-81a8-32e7995ebd62",
       "last_modified": "2024-02-06T04:00:52.760258",
-      "metadata_modified": "2025-08-26T13:52:17.257934",
+      "metadata_modified": "2026-06-24T09:50:52.348603",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -280,6 +282,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:00:52.791505",
@@ -291,7 +294,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/fc458679-979b-4676-9b7b-c69698909719/resource/3a0134ff-ccaa-41bc-afe8-d0214fbe422a/download/coastpopper_1km_buffer.gpkg",
       "id": "55e96821-8a27-4184-8cd3-220ed1eed1f4",
       "last_modified": "2024-02-06T04:00:52.760380",
-      "metadata_modified": "2025-08-26T13:52:17.258008",
+      "metadata_modified": "2026-06-24T09:50:52.348667",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -306,6 +309,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:00:52.791507",
@@ -317,7 +321,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/fc458679-979b-4676-9b7b-c69698909719/resource/aad94d83-2cfc-42ed-922b-b481932467ca/download/coastpopper_5km_buffer.gpkg",
       "id": "1b96e3e3-1a05-4560-b0a3-aee8b2102d71",
       "last_modified": "2024-02-06T04:00:52.760497",
-      "metadata_modified": "2025-08-26T13:52:17.258074",
+      "metadata_modified": "2026-06-24T09:50:52.348728",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -332,6 +336,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:00:52.791509",
@@ -343,7 +348,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/fc458679-979b-4676-9b7b-c69698909719/resource/896ca7e7-b3aa-4d11-a7a9-59efa73c021c/download/coastpopper_10km_buffer.gpkg",
       "id": "09a6dce3-3798-488c-abe7-1c4a4beb1390",
       "last_modified": "2024-02-06T04:00:52.760613",
-      "metadata_modified": "2025-08-26T13:52:17.258195",
+      "metadata_modified": "2026-06-24T09:50:52.348785",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -358,6 +363,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:00:52.791510",
@@ -369,7 +375,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/fc458679-979b-4676-9b7b-c69698909719/resource/e9e83263-3c0b-4696-9785-ff60d1125b57/download/pacific-coastal-populations-1-5-and-10km-from-coast.csv",
       "id": "8cee8cd1-ee8f-4133-bf1b-998e0dc317e6",
       "last_modified": "2024-02-06T04:00:52.760727",
-      "metadata_modified": "2025-08-26T13:52:17.258330",
+      "metadata_modified": "2026-06-24T09:50:52.348857",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

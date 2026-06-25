@@ -17,7 +17,7 @@
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "7c7cdf72-1e5b-479d-89c1-d96833e7940a",
   "metadata_created": "2022-11-28T23:12:43.690382",
-  "metadata_modified": "2025-08-26T16:56:45.269928",
+  "metadata_modified": "2026-06-24T10:41:23.684223",
   "methodology": "Census",
   "name": "pdh-guam_population_grid_2020",
   "notes": "Population Raster Guam 2020 Data Input: \r\nSettlement footprint from Facebook's High-Resolution Population Density Maps https://data.humdata.org/dataset/guam-high-resolution-population-density-maps-demographic-estimates Population allocated proportionally using 2011 census population counts at district level. Year Population Growth Rate of 1.64% has been applied to update population up to 2020\r\nThe human settlement footprint with census population allocated has been converted into a 100 m resolution raster.\r\n\n\n_Access this dataset from the [Pacific Data Hub](https://pacificdata.org/data/dataset/gum_population_grid_2020)_",
@@ -60,6 +60,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:06.009326",
@@ -71,7 +72,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/e8f78001-4585-49e7-b4d7-04e549fa9e35/resource/bd2407f0-1813-49c4-8977-507009a7769c/download/gum_pop_grid_2020.tif",
       "id": "54de7db7-12c2-401b-a635-42863645bb91",
       "last_modified": "2024-02-06T04:01:05.999463",
-      "metadata_modified": "2025-08-26T16:56:45.290379",
+      "metadata_modified": "2026-06-24T10:41:23.708202",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -85,6 +86,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:06.009332",
@@ -96,7 +98,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/e8f78001-4585-49e7-b4d7-04e549fa9e35/resource/03710e76-2ef4-4167-8600-2f94b692a105/download/gum_pop_grid_2020_readme.txt",
       "id": "d5ffaa68-191a-4f54-a096-2388a5490472",
       "last_modified": "2024-02-06T04:01:05.999758",
-      "metadata_modified": "2025-08-26T16:56:45.290538",
+      "metadata_modified": "2026-06-24T10:41:23.708394",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

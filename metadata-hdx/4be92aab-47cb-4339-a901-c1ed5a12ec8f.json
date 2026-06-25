@@ -17,7 +17,7 @@
   "license_url": "https://opendatacommons.org/licenses/by/1-0/",
   "maintainer": "7c7cdf72-1e5b-479d-89c1-d96833e7940a",
   "metadata_created": "2022-11-28T23:12:33.527177",
-  "metadata_modified": "2026-05-01T09:26:44.210538",
+  "metadata_modified": "2026-06-24T09:30:11.225975",
   "methodology": "Census",
   "name": "pdh-vanuatu_population_grid_2020",
   "notes": "Population Raster Vanuatu 2020\r\n\r\nData Input: Household locations from 2016 Population and Housing Census conducted using Survey Solutions CAPI (Computer Assisted Personal Interview). \r\nYear Population Growth Rate of 2.3% has been applied to update population up to 2020\r\n\r\nHousehold locations vector layer has been transformed into a 100m resolution raster.\r\n\r\n\n\n_Access this dataset from the [Pacific Data Hub](https://pacificdata.org/data/dataset/vut_population_grid_2020)_",
@@ -37,7 +37,7 @@
   },
   "owner_org": "572657e0-2ac0-41d7-aea9-785ad273bcf0",
   "package_creator": "pacificdatahub",
-  "pageviews_last_14_days": 1,
+  "pageviews_last_14_days": 0,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Vanuatu\"]}",
@@ -60,6 +60,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:00:55.455861",
@@ -71,7 +72,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/1cb668eb-e915-4970-8b87-89aead626d39/resource/08748669-bfb9-404a-9ca4-bd1b49f337ef/download/rastpop2020rps_100m.tif",
       "id": "3c089412-471b-435f-84a6-d4e47ce14d8b",
       "last_modified": "2024-02-06T04:00:55.432680",
-      "metadata_modified": "2025-08-26T12:45:10.661638",
+      "metadata_modified": "2026-06-24T09:30:11.232232",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -85,6 +86,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:00:55.455867",
@@ -96,7 +98,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/1cb668eb-e915-4970-8b87-89aead626d39/resource/4dc1ace6-b011-44f9-8262-6e4b7a0cd698/download/vut_popgrid_2020_readme.txt",
       "id": "049e84bb-b78a-4850-aae2-6a67e36a3020",
       "last_modified": "2024-02-06T04:00:55.432989",
-      "metadata_modified": "2025-08-26T12:45:10.661732",
+      "metadata_modified": "2026-06-24T09:30:11.232340",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -110,6 +112,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:00:55.455870",
@@ -121,7 +124,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/1cb668eb-e915-4970-8b87-89aead626d39/resource/c0737a05-4e52-41f7-bfbb-be8077468542/download/vut_popgrid_atlas.zip",
       "id": "a30ba26a-d74a-412a-944e-568d755bb43e",
       "last_modified": "2024-02-06T04:00:55.433258",
-      "metadata_modified": "2025-08-26T12:45:10.661803",
+      "metadata_modified": "2026-06-24T09:30:11.232408",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

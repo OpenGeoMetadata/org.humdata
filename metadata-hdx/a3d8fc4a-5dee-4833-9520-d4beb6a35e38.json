@@ -7,7 +7,6 @@
   "dataset_preview": "first_resource",
   "dataset_source": "SPC Statistics for Development Division (SDD)",
   "has_geodata": true,
-  "has_quickcharts": false,
   "has_showcases": false,
   "id": "a3d8fc4a-5dee-4833-9520-d4beb6a35e38",
   "is_requestdata_type": false,
@@ -18,7 +17,7 @@
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "7c7cdf72-1e5b-479d-89c1-d96833e7940a",
   "metadata_created": "2022-11-28T23:12:46.857663",
-  "metadata_modified": "2025-08-26T15:25:35.342303",
+  "metadata_modified": "2026-06-24T10:18:43.597909",
   "methodology": "Census",
   "name": "pdh-american_samoa_population_grid_2020",
   "notes": "Population Raster American Samoa 2020\r\nData Input: Settlement footprint from Facebook's High-Resolution Population Density Maps (https://data.humdata.org/dataset/american-samoa-high-resolution-population-density-maps-demographic-estimates)\r\nPopulation allocated proportionally using 2011 census population counts at enumeration area level.\r\nYear Population Growth Rate of 0.23% has been applied to update population up to 2020\r\n\r\n\n\n_Access this dataset from the [Pacific Data Hub](https://pacificdata.org/data/dataset/asm_population_grid_2020)_",
@@ -61,6 +60,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:08.396976",
@@ -72,7 +72,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/88eb6392-c134-4736-b204-6de34a775166/resource/f03ee67f-8d8a-4cb6-a05b-f0f09b898577/download/asm_pop_grid_2020.tif",
       "id": "91eba695-3a32-4ef5-9251-4e6919b407d9",
       "last_modified": "2024-02-06T04:01:08.382410",
-      "metadata_modified": "2025-08-26T15:25:35.538547",
+      "metadata_modified": "2026-06-24T10:18:43.605200",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -86,6 +86,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:08.397012",
@@ -97,7 +98,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/88eb6392-c134-4736-b204-6de34a775166/resource/63081e26-bc81-44d4-b8a6-6c3c1df9a41f/download/asm_pop_grid_2020_readme.txt",
       "id": "d1c72acf-f5a2-4a3d-94ea-fe3c8d91e3b9",
       "last_modified": "2024-02-06T04:01:08.382573",
-      "metadata_modified": "2025-08-26T15:25:35.538729",
+      "metadata_modified": "2026-06-24T10:18:43.605290",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -111,6 +112,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:08.397014",
@@ -122,7 +124,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/88eb6392-c134-4736-b204-6de34a775166/resource/d231b639-8259-427f-8ae4-d7705dafba9c/download/asm_popgrid_2020_atlas.zip",
       "id": "dfa5bca9-b717-4abb-841b-6aba9e1c45d3",
       "last_modified": "2024-02-06T04:01:08.382701",
-      "metadata_modified": "2025-08-26T15:25:35.538850",
+      "metadata_modified": "2026-06-24T10:18:43.605353",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

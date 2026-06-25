@@ -17,7 +17,7 @@
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "7c7cdf72-1e5b-479d-89c1-d96833e7940a",
   "metadata_created": "2022-11-28T23:12:57.413015",
-  "metadata_modified": "2025-08-26T11:09:41.150740",
+  "metadata_modified": "2026-06-24T09:10:49.404429",
   "methodology": "Census",
   "name": "pdh-cook_islands_population_grid_2020",
   "notes": "Population Raster Cook Islands 2020\r\nData Input: Settlement footprint from Facebook's High-Resolution Population Density Maps https://data.humdata.org/dataset/cook-islands-high-resolution-population-density-maps-demographic-estimates\r\nPopulation allocated proportionally using 2011 census population counts at enumeration area level.\r\nYear Population Growth Rate of 0.23% has been applied to update population up to 2020\r\nThe human settlement footprint with census population allocated has been converted into a 100 m resolution raster.\r\n\n\n_Access this dataset from the [Pacific Data Hub](https://pacificdata.org/data/dataset/cok_population_grid_2020)_",
@@ -60,6 +60,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:15.522802",
@@ -71,7 +72,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/313e08cc-aa54-48d1-b40b-e2d165c6f1c8/resource/663491e3-4e32-4e62-a4b4-c4f71660103e/download/cok_pop_grid_2020.tif",
       "id": "c964ba3d-3e06-44e3-8dfe-2593eb723187",
       "last_modified": "2024-02-06T04:01:15.513618",
-      "metadata_modified": "2025-08-26T11:09:41.170991",
+      "metadata_modified": "2026-06-24T09:10:49.421007",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -85,6 +86,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:15.522806",
@@ -96,7 +98,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/313e08cc-aa54-48d1-b40b-e2d165c6f1c8/resource/339aceaa-9f47-4a72-b199-718aa76c2ed1/download/cok_pop_grid_2020_readme.txt",
       "id": "29da29fa-fc8f-408e-b865-1e89f1210b60",
       "last_modified": "2024-02-06T04:01:15.513794",
-      "metadata_modified": "2025-08-26T11:09:41.171161",
+      "metadata_modified": "2026-06-24T09:10:49.421153",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -110,6 +112,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:15.522808",
@@ -121,7 +124,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/313e08cc-aa54-48d1-b40b-e2d165c6f1c8/resource/55a3930c-5800-4dea-bbe1-9452bfc915b6/download/cok_popgrid_2020_atlas.zip",
       "id": "e1ead111-424b-4fd7-91e5-4799e4dfede1",
       "last_modified": "2024-02-06T04:01:15.513922",
-      "metadata_modified": "2025-08-26T11:09:41.171278",
+      "metadata_modified": "2026-06-24T09:10:49.421268",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

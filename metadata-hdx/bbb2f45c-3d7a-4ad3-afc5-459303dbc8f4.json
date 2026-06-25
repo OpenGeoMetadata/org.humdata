@@ -1,6 +1,6 @@
 {
   "archived": false,
-  "batch": "6080aca4-0b70-4647-a99f-0ddde8ee9ab8",
+  "batch": "65e4efda-da44-41c1-a22c-ab95df1f7777",
   "caveats": "The edge-matched layers are subject to the following potential limitations:\n\nWhere countries border each other, one or even both boundaries may be less accurate than the original, definitive boundaries. The UN Geospatial Hub boundary is generally of lower quality than the definitive COD-AB layers.\n\nPeripheral polygon feature shapes and the relationship of their areas to those of their internal neighbouring features may be distorted, while internal features are untouched.\n\nPeripheral polygon features may artificially appear to touch different, incorrect features belonging the same country.\n\n*In theory, peripheral polygon features may be eliminated. This is monitored and will be specially treated if it occurs.",
   "cod_level": "cod-enhanced",
   "creator_user_id": "060468e4-2f33-4488-8504-c4b10cc34821",
@@ -20,7 +20,7 @@
   "license_url": "http://creativecommons.org/licenses/by/3.0/igo/legalcode",
   "maintainer": "0ad0784a-b5e1-45d4-bf2d-5530f5d1d239",
   "metadata_created": "2015-09-01T02:12:34.193924",
-  "metadata_modified": "2026-06-23T17:19:00.033086",
+  "metadata_modified": "2026-06-24T09:14:12.372391",
   "methodology": "Other",
   "methodology_other": "Dataset: acquired from UNMIL; enhanced by OCHA  \n  \nP-codes: nan",
   "name": "cod-ab-lbr",
@@ -48,9 +48,9 @@
   "state": "active",
   "subnational": "1",
   "title": "Liberia - Subnational Administrative Boundaries",
-  "total_res_downloads": 3389,
+  "total_res_downloads": 3391,
   "type": "dataset",
-  "updated_by_script": "HDX Scraper: COD-AB Country (2026-06-23T17:18:59.874969)",
+  "updated_by_script": "HDX Scraper: COD-AB Country (2026-06-24T09:14:12.125798)",
   "url": null,
   "version": null,
   "groups": [

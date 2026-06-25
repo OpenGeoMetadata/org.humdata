@@ -17,7 +17,7 @@
   "license_url": "https://opendatacommons.org/licenses/by/1-0/",
   "maintainer": "7c7cdf72-1e5b-479d-89c1-d96833e7940a",
   "metadata_created": "2022-11-28T23:12:40.322417",
-  "metadata_modified": "2026-05-01T10:11:28.070423",
+  "metadata_modified": "2026-06-24T10:14:09.025474",
   "methodology": "Census",
   "name": "pdh-nauru_population_grid_2020",
   "notes": "Population Raster Nauru 2020\r\n\r\nData Input: Household locations from 2019 Population and Housing Census conducted using Survey Solutions CAPI (Computer Assisted Personal Interview). \r\nYear Population Growth Rate of 0.8% has been applied to update population up to 2020\r\n\r\nHousehold locations vector layer has been transformed into a 100m resolution raster.\r\n\n\n_Access this dataset from the [Pacific Data Hub](https://pacificdata.org/data/dataset/nru_population_grid_2020)_",
@@ -37,7 +37,7 @@
   },
   "owner_org": "572657e0-2ac0-41d7-aea9-785ad273bcf0",
   "package_creator": "pacificdatahub",
-  "pageviews_last_14_days": 3,
+  "pageviews_last_14_days": 0,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Nauru\"]}",
@@ -60,6 +60,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:00.198715",
@@ -71,7 +72,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/4d516c3f-e19c-40c0-9b00-5c434e578cc0/resource/4ae0314a-a5f4-46e0-ac06-718054bf69f6/download/nru_rastpop2020rps_100m.tif",
       "id": "0e40ab45-bbec-4391-b110-71abbbadc7cf",
       "last_modified": "2024-02-06T04:01:00.189379",
-      "metadata_modified": "2025-08-26T15:48:17.878849",
+      "metadata_modified": "2026-06-24T10:14:09.039892",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -85,6 +86,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:00.198719",
@@ -96,7 +98,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/4d516c3f-e19c-40c0-9b00-5c434e578cc0/resource/d840c712-3bc7-4ee2-9573-38924b6cf429/download/nru_rastpop2020rps_100m.txt",
       "id": "93ed3152-3e0f-4079-8337-5b8c54767137",
       "last_modified": "2024-02-06T04:01:00.189586",
-      "metadata_modified": "2025-08-26T15:48:17.878940",
+      "metadata_modified": "2026-06-24T10:14:09.040070",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -110,6 +112,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:00.198721",
@@ -121,7 +124,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/4d516c3f-e19c-40c0-9b00-5c434e578cc0/resource/da56c333-28ee-4ed0-b332-853a6f9e1e2f/download/nru_popgrid_2020_map.jpg",
       "id": "d1306737-a2da-45b8-978e-f4608ebbc827",
       "last_modified": "2024-02-06T04:01:00.189720",
-      "metadata_modified": "2025-08-26T15:48:17.879011",
+      "metadata_modified": "2026-06-24T10:14:09.040192",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

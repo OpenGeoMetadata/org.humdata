@@ -17,7 +17,7 @@
   "license_url": "https://opendatacommons.org/licenses/by/1-0/",
   "maintainer": "7c7cdf72-1e5b-479d-89c1-d96833e7940a",
   "metadata_created": "2022-11-28T23:12:36.966649",
-  "metadata_modified": "2026-05-01T09:23:49.547471",
+  "metadata_modified": "2026-06-24T09:28:47.274636",
   "methodology": "Census",
   "name": "pdh-palau_population_grid_2020",
   "notes": "Population Raster Palau  2020\r\n\r\nData Input: Household locations from 2015 Household listing and population at Enumeration Area level extracted from 2015 Population and Housing Census conducted by Palau's Bureau of Budget & Planning\r\nYear Population Growth Rate of 0.6 % has been applied to update population up to 2020\r\n\r\nHousehold locations vector layer transformed into a 100m resolution raster.\r\n\n\n_Access this dataset from the [Pacific Data Hub](https://pacificdata.org/data/dataset/plw_population_grid_2020)_",
@@ -37,7 +37,7 @@
   },
   "owner_org": "572657e0-2ac0-41d7-aea9-785ad273bcf0",
   "package_creator": "pacificdatahub",
-  "pageviews_last_14_days": 1,
+  "pageviews_last_14_days": 0,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Palau\"]}",
@@ -60,6 +60,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:00:57.895105",
@@ -71,7 +72,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/b3c609bf-10a7-47ce-9dfd-5eda86770bd4/resource/7de46192-6b1f-4604-95c4-92887d787234/download/plw_rastpop2020rps_100m.tif",
       "id": "bc503b41-d1d1-4d05-aed7-464cab9a5c8e",
       "last_modified": "2024-02-06T04:00:57.879173",
-      "metadata_modified": "2025-08-26T12:24:19.384016",
+      "metadata_modified": "2026-06-24T09:28:47.290294",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -85,6 +86,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:00:57.895112",
@@ -96,7 +98,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/b3c609bf-10a7-47ce-9dfd-5eda86770bd4/resource/c93f3767-9aa8-4321-936e-f04dd2130895/download/plw_rastpop2020rps_100m.txt",
       "id": "4ae1c31a-dc78-4b52-bcd4-bc4a322819d7",
       "last_modified": "2024-02-06T04:00:57.879515",
-      "metadata_modified": "2025-08-26T12:24:19.384103",
+      "metadata_modified": "2026-06-24T09:28:47.290449",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -110,6 +112,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:00:57.895115",
@@ -121,7 +124,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/b3c609bf-10a7-47ce-9dfd-5eda86770bd4/resource/a2c3844e-c1be-41d7-bcce-7b4ce421c3be/download/plw_pg_maps.zip",
       "id": "1201549a-c81f-4725-b997-ad98c72c629a",
       "last_modified": "2024-02-06T04:00:57.879761",
-      "metadata_modified": "2025-08-26T12:24:19.384172",
+      "metadata_modified": "2026-06-24T09:28:47.290530",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

@@ -1,14 +1,14 @@
 {
   "id": "hdx-9b274dbb-c991-48db-894e-751d62f4a2e6",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-15T15:22:51Z",
-  "dct_title_s": "Switzerland : Railways (OpenStreetMap Export)",
+  "gbl_mdModified_dt": "2026-06-26T05:05:25Z",
+  "dct_title_s": "Railways of Switzerland",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "Railway lines and stations from OSM, tagged with `railway`. Includes rail lines, tram tracks, and stations. Useful for transport accessibility analysis and basemap context. OpenStreetMap is a free, collaborative world map built by volunteers. Completeness varies by region: urban areas are usually well-mapped, remote areas may be incomplete. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org) - OSM tags: [Key:railway](https://wiki.openstreetmap.org/wiki/Key:railway) - Part of many [exports grid on HDX](https://data.humdata.org/organization/hot) by the [HOT](https://www.hotosm.org/en/)"
+    "Railway lines and stations tagged `railway=*`: rail lines, tram tracks, and stations. Useful for transport accessibility analysis and basemap context. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [railway](https://wiki.openstreetmap.org/wiki/Key:railway) - Part of the [exports grid on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
   ],
   "dct_language_sm": [
     "eng"

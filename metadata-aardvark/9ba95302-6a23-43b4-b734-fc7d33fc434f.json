@@ -1,0 +1,45 @@
+{
+  "id": "hdx-9ba95302-6a23-43b4-b734-fc7d33fc434f",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-25T14:05:54Z",
+  "dct_title_s": "Buildings - Venezuela Caracas (Overture)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Building footprints for the Caracas area of Venezuela (bounding box 67.09W-66.65W, 10.28N-10.64N), Sourced from Overture Maps (buildings theme: OpenStreetMap, Microsoft, Google, Esri). Event: M 7.5 Earthquake, west of Caracas. - Source: [Overture Maps](https://overturemaps.org/) - Part of HOT disaster response exports on HDX by [HOT](https://www.hotosm.org/)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Overture Maps (buildings theme)"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "facilities-infrastructure",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "facilities-infrastructure",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Venezuela (Bolivarian Republic of)"
+  ],
+  "locn_geometry": "ENVELOPE(-73.3, -59.76, 12.16, 0.72)",
+  "dcat_bbox": "ENVELOPE(-73.3, -59.76, 12.16, 0.72)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "KML",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hot_overture_ven_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VEN/buildings/hot_overture_ven_buildings_overture_kml.zip\",\"label\":\"KML\"}]}"
+}

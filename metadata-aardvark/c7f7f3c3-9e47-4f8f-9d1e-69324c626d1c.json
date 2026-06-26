@@ -1,14 +1,14 @@
 {
   "id": "hdx-c7f7f3c3-9e47-4f8f-9d1e-69324c626d1c",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-15T15:55:39Z",
-  "dct_title_s": "Azerbaijan : Roads (OpenStreetMap Export)",
+  "gbl_mdModified_dt": "2026-06-26T01:23:32Z",
+  "dct_title_s": "Roads of Azerbaijan",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "Road network across the region from OSM. Includes everything tagged with `highway`: motorways, residential streets, service roads, footways, and trails. Useful for routing, accessibility analysis, and evacuation planning. OpenStreetMap is a free, collaborative world map built by volunteers. Completeness varies by region: urban areas are usually well-mapped, remote areas may be incomplete. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org) - OSM tags: [Key:highway](https://wiki.openstreetmap.org/wiki/Key:highway) - Part of many [exports grid on HDX](https://data.humdata.org/organization/hot) by the [HOT](https://www.hotosm.org/en/)"
+    "Road network across the region tagged `highway=*`: motorways, residential streets, service roads, footways, and trails. Useful for routing, accessibility analysis, and evacuation planning. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [highway](https://wiki.openstreetmap.org/wiki/Key:highway) - Part of the [exports grid on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
   ],
   "dct_language_sm": [
     "eng"

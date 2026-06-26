@@ -1,14 +1,14 @@
 {
   "id": "hdx-b8f9c11b-5bb9-474f-a4bd-5bf3b352cf3a",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T15:13:52Z",
-  "dct_title_s": "Nigeria Financial Services (OpenStreetMap Export)",
+  "gbl_mdModified_dt": "2026-06-25T22:55:32Z",
+  "dct_title_s": "Financial Services of Nigeria",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "This theme includes all OpenStreetMap features in this area matching ( Learn what tags means [here](https://wiki.openstreetmap.org/wiki/Tags) ) : tags['amenity'] IN ('mobile_money_agent','bureau_de_change','bank','microfinance','atm','sacco','money_transfer','post_office') Features may have these attributes: - [name](http://wiki.openstreetmap.org/wiki/Key:name) - [name:en](http://wiki.openstreetmap.org/wiki/Key:name:en) - [amenity](http://wiki.openstreetmap.org/wiki/Key:amenity) - [operator](http://wiki.openstreetmap.org/wiki/Key:operator) - [network](http://wiki.openstreetmap.org/wiki/Key:network) - [addr:full](http://wiki.openstreetmap.org/wiki/Key:addr:full) - [addr:city](http://wiki.openstreetmap.org/wiki/Key:addr:city) - [source](http://wiki.openstreetmap.org/wiki/Key:source) This dataset is one of many [OpenStreetMap exports on HDX](https://data.humdata.org/organization/hot). See the [Humanitarian OpenStreetMap Team](http://hotosm.org/) website for more information."
+    "Financial services: banks, ATMs, post offices, money transfer agents, and microfinance branches tagged via `amenity`. Useful for financial-inclusion mapping, cash-distribution planning, and economic analysis. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [amenity](https://wiki.openstreetmap.org/wiki/Key:amenity) - Part of the [exports grid on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
   ],
   "dct_language_sm": [
     "eng"
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_nga_financial_services\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/NGA/financial_services/points/hotosm_nga_financial_services_points_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_nga_financial_services\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/NGA/financial_services/hotosm_nga_financial_services_osm_kml.zip\",\"label\":\"KML\"}]}"
 }

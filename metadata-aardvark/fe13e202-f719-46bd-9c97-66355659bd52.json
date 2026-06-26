@@ -1,14 +1,14 @@
 {
   "id": "hdx-fe13e202-f719-46bd-9c97-66355659bd52",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-11T15:48:38Z",
-  "dct_title_s": "Sudan Railways (OpenStreetMap Export)",
+  "gbl_mdModified_dt": "2026-06-25T09:53:21Z",
+  "dct_title_s": "Railways of Sudan",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "Railway lines and stations from OpenStreetMap, tagged with `railway`. Includes rail lines, tram tracks, and stations. Useful for transport accessibility analysis and basemap context. OpenStreetMap is a free, collaborative world map built by volunteers. Completeness varies by region: urban areas are usually well-mapped, remote areas may be incomplete. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org) - OSM tags: [Key:railway](https://wiki.openstreetmap.org/wiki/Key:railway) - Part of: [HOT exports on HDX](https://data.humdata.org/organization/hot) by the [Humanitarian OpenStreetMap Team](https://www.hotosm.org/en/)"
+    "Railway lines and stations tagged `railway=*`: rail lines, tram tracks, and stations. Useful for transport accessibility analysis and basemap context. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [railway](https://wiki.openstreetmap.org/wiki/Key:railway) - Part of the [exports grid on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
   ],
   "dct_language_sm": [
     "eng"

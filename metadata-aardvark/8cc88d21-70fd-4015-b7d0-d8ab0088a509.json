@@ -1,14 +1,14 @@
 {
   "id": "hdx-8cc88d21-70fd-4015-b7d0-d8ab0088a509",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T14:53:37Z",
-  "dct_title_s": "Nigeria Sea Ports (OpenStreetMap Export)",
+  "gbl_mdModified_dt": "2026-06-25T22:56:19Z",
+  "dct_title_s": "Sea Ports of Nigeria",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "This theme includes all OpenStreetMap features in this area matching ( Learn what tags means [here](https://wiki.openstreetmap.org/wiki/Tags) ) : tags['amenity'] = 'ferry_terminal' OR tags['building'] = 'ferry_terminal' OR tags['port'] IS NOT NULL Features may have these attributes: - [name](http://wiki.openstreetmap.org/wiki/Key:name) - [name:en](http://wiki.openstreetmap.org/wiki/Key:name:en) - [amenity](http://wiki.openstreetmap.org/wiki/Key:amenity) - [building](http://wiki.openstreetmap.org/wiki/Key:building) - [port](http://wiki.openstreetmap.org/wiki/Key:port) - [operator:type](http://wiki.openstreetmap.org/wiki/Key:operator:type) - [addr:full](http://wiki.openstreetmap.org/wiki/Key:addr:full) - [addr:city](http://wiki.openstreetmap.org/wiki/Key:addr:city) - [source](http://wiki.openstreetmap.org/wiki/Key:source) This dataset is one of many [OpenStreetMap exports on HDX](https://data.humdata.org/organization/hot). See the [Humanitarian OpenStreetMap Team](http://hotosm.org/) website for more information."
+    "Sea ports and ferry terminals tagged via `amenity`, `building`, or `port`. Useful for maritime logistics, supply-chain analysis, and coastal access planning. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [amenity](https://wiki.openstreetmap.org/wiki/Key:amenity), [building](https://wiki.openstreetmap.org/wiki/Key:building), [port](https://wiki.openstreetmap.org/wiki/Key:port) - Part of the [exports grid on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
   ],
   "dct_language_sm": [
     "eng"
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_nga_sea_ports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/NGA/sea_ports/points/hotosm_nga_sea_ports_points_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_nga_sea_ports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/NGA/sea_ports/hotosm_nga_sea_ports_osm_kml.zip\",\"label\":\"KML\"}]}"
 }

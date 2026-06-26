@@ -1,14 +1,14 @@
 {
   "id": "hdx-473d7284-b4e8-4866-bd76-934408ef9b5d",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T14:26:52Z",
-  "dct_title_s": "Nigeria Health Facilities (OpenStreetMap Export)",
+  "gbl_mdModified_dt": "2026-06-25T22:53:54Z",
+  "dct_title_s": "Health Facilities of Nigeria",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "This theme includes all OpenStreetMap features in this area matching ( Learn what tags means [here](https://wiki.openstreetmap.org/wiki/Tags) ) : tags['healthcare'] IS NOT NULL OR tags['amenity'] IN ('doctors', 'dentist', 'clinic', 'hospital', 'pharmacy') Features may have these attributes: - [name](http://wiki.openstreetmap.org/wiki/Key:name) - [name:en](http://wiki.openstreetmap.org/wiki/Key:name:en) - [amenity](http://wiki.openstreetmap.org/wiki/Key:amenity) - [building](http://wiki.openstreetmap.org/wiki/Key:building) - [healthcare](http://wiki.openstreetmap.org/wiki/Key:healthcare) - [healthcare:speciality](http://wiki.openstreetmap.org/wiki/Key:healthcare:speciality) - [operator:type](http://wiki.openstreetmap.org/wiki/Key:operator:type) - [capacity:persons](http://wiki.openstreetmap.org/wiki/Key:capacity:persons) - [addr:full](http://wiki.openstreetmap.org/wiki/Key:addr:full) - [addr:city](http://wiki.openstreetmap.org/wiki/Key:addr:city) - [source](http://wiki.openstreetmap.org/wiki/Key:source) This dataset is one of many [OpenStreetMap exports on HDX](https://data.humdata.org/organization/hot). See the [Humanitarian OpenStreetMap Team](http://hotosm.org/) website for more information."
+    "Health facilities: hospitals, clinics, pharmacies, doctors, and dentists tagged via `amenity` or `healthcare`. Useful for service-access analysis, emergency response, and healthcare gap mapping. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [amenity](https://wiki.openstreetmap.org/wiki/Key:amenity), [healthcare](https://wiki.openstreetmap.org/wiki/Key:healthcare) - Part of the [exports grid on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
   ],
   "dct_language_sm": [
     "eng"
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_nga_health_facilities\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/NGA/health_facilities/points/hotosm_nga_health_facilities_points_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_nga_health_facilities\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/NGA/health_facilities/hotosm_nga_health_facilities_osm_kml.zip\",\"label\":\"KML\"}]}"
 }

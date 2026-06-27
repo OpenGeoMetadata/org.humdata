@@ -1,6 +1,5 @@
 {
   "archived": false,
-  "batch": "6841fdb4-355d-4a31-a337-a05d1e7b3c61",
   "creator_user_id": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "data_update_frequency": "365",
   "dataset_date": "[2020-06-01T00:00:00 TO 2024-12-31T23:59:59]",
@@ -18,13 +17,13 @@
   "license_title": "Other",
   "maintainer": "96dbacfc-5560-4510-994b-423ddc0e2cb7",
   "metadata_created": "2025-11-18T16:44:36.408248",
-  "metadata_modified": "2026-03-03T10:44:16.668731",
+  "metadata_modified": "2026-06-26T06:53:23.876816",
   "methodology": "Other",
   "methodology_other": "Dataset generated using deep learning on PlanetScope imagery to classify road surface, width, and humanitarian passability.",
   "name": "venezuela-bolivarian-republic-of-planet-road-surface-data",
-  "notes": "This dataset provides AI-derived road surface type, road width, road surface change\n(unpaved to paved), and a Humanitarian Passability Index (HPI) using\nPlanetScope satellite imagery (2020 and 2024).\n\nThe analysis focuses on arterial roads classified in OSM as motorway, trunk,\nprimary, and secondary, including their link classes. These road types form\nthe backbone of long-distance, high-capacity transportation and national connectivity.\n\nFor more details on methods:\nhttps://arxiv.org/abs/2512.04092\n\n\nRelationship to the Previous Mapillary-Based Dataset\n\nHeiGIT previously released a global dataset based on Mapillary street-level imagery.\n\n- The Mapillary dataset provides detailed ground-level information but has uneven coverage.\n- The PlanetScope-based dataset provides near-complete and globally consistent coverage along arterial roads.\n\n\nAccuracy and Data Quality\n\nThe PlanetScope surface model achieved 89.2% accuracy, outperforming OSM surface tags (64.7%).\n\n\nSummary of Road Statistics\n\nApproximately 0.0274 million km of arterial roads are mapped in OSM.\n\nBased on AI-derived estimates:\n- Paved roads: 0.0248 million km (90.5907%)\n- Unpaved roads: 0.0008 million km (2.9575%)\n\nA total of 0.0059 million km (21.4178%)\nlack OSM surface tags.\n\nPlanetScope-derived predictions provide surface information for\n0.0256 million km\n(436.7774%) of this missing data.\n\n\nAI-Derived Attributes Included\n\n- DL Surface Prediction 2020 – Paved / Unpaved / Unknown\n- DL Surface Prediction 2024 – Paved / Unpaved / Unknown\n- Road Surface Change (2020-2024) – Indicator of transitions from unpaved to paved\n- Road Width Class (1-3):\n  Class 1 (<3.5 m): light vehicles only; high blockage risk\n  Class 2 (3.5-5.5 m): single-lane heavy truck; alternating flow\n  Class 3 (>5.5 m): two-lane heavy truck; unimpeded flow\n\n- Humanitarian Passability Index (HPI)\n  Combines road surface and width into a logistical accessibility class:\n  Score 1 (highest passability) to Score 6 (lowest passability)\n\n\nIncluded OSM Attributes\n\n- Road Segment ID\n- highway classification\n- surface tag\n- OSM road length (meters)\n\n\nGeographic Attributes\n\n- country_iso_a2\n- continent\n\n\nThis dataset integrates OSM attributes with deep-learning predictions generated\nfrom PlanetScope imagery (2020 and 2024).\n\nExplore more HeiGIT datasets on HDX:\nhttps://data.humdata.org/organization/heidelberg-institute-for-geoinformation-technology\n\nMore information:\nhttps://heigit.org/\n\nContact: communications@heigit.org",
+  "notes": "This dataset provides AI-derived road surface type, road width, road surface change\r\n(unpaved to paved), and a Humanitarian Passability Index (HPI) using\r\nPlanetScope satellite imagery (2020 and 2024).\r\n\r\nThe analysis focuses on arterial roads classified in OSM as motorway, trunk,\r\nprimary, and secondary, including their link classes. These road types form\r\nthe backbone of long-distance, high-capacity transportation and national connectivity.\r\n\r\nFor more details on methods:\r\nhttps://arxiv.org/abs/2512.04092\r\n\r\n\r\nRelationship to the Previous Mapillary-Based Dataset\r\n\r\nHeiGIT previously released a global dataset based on Mapillary street-level imagery.\r\n\r\n- The Mapillary dataset provides detailed ground-level information but has uneven coverage.\r\n- The PlanetScope-based dataset provides near-complete and globally consistent coverage along arterial roads.\r\n\r\n\r\nAccuracy and Data Quality\r\n\r\nThe PlanetScope surface model achieved 89.2% accuracy, outperforming OSM surface tags (64.7%).\r\n\r\n\r\nSummary of Road Statistics\r\n\r\nApproximately 0.0274 million km of arterial roads are mapped in OSM.\r\n\r\nBased on AI-derived estimates:\r\n- Paved roads: 0.0248 million km (90.5907%)\r\n- Unpaved roads: 0.0008 million km (2.9575%)\r\n\r\nA total of 0.0059 million km (21.4178%)\r\nlack OSM surface tags.\r\n\r\nPlanetScope-derived predictions provide surface information for\r\n0.0256 million km\r\n(436.7774%) of this missing data.\r\n\r\n\r\nAI-Derived Attributes Included\r\n\r\n- DL Surface Prediction 2020 – Paved / Unpaved / Unknown\r\n- DL Surface Prediction 2024 – Paved / Unpaved / Unknown\r\n- Road Surface Change (2020-2024) – Indicator of transitions from unpaved to paved\r\n- Road Width Class (1-3):\r\n  Class 1 (<3.5 m): light vehicles only; high blockage risk\r\n  Class 2 (3.5-5.5 m): single-lane heavy truck; alternating flow\r\n  Class 3 (>5.5 m): two-lane heavy truck; unimpeded flow\r\n\r\n- Humanitarian Passability Index (HPI)\r\n  Combines road surface and width into a logistical accessibility class:\r\n  Score 1 (highest passability) to Score 6 (lowest passability)\r\n\r\n\r\nIncluded OSM Attributes\r\n\r\n- Road Segment ID\r\n- highway classification\r\n- surface tag\r\n- OSM road length (meters)\r\n\r\n\r\nGeographic Attributes\r\n\r\n- country_iso_a2\r\n- continent\r\n\r\n\r\nThis dataset integrates OSM attributes with deep-learning predictions generated\r\nfrom PlanetScope imagery (2020 and 2024).\r\n\r\nExplore more HeiGIT datasets on HDX:\r\nhttps://data.humdata.org/organization/heidelberg-institute-for-geoinformation-technology\r\n\r\nMore information:\r\nhttps://heigit.org/\r\n\r\nContact: communications@heigit.org",
   "num_resources": 2,
-  "num_tags": 14,
+  "num_tags": 15,
   "organization": {
     "id": "14bd839d-9011-44cd-9097-efb38bf7fea6",
     "name": "heidelberg-institute-for-geoinformation-technology",
@@ -46,7 +45,7 @@
   "state": "active",
   "subnational": "0",
   "title": "Venezuela (Bolivarian Republic of): Planet Road Surface, Width, and Passability Data",
-  "total_res_downloads": 5,
+  "total_res_downloads": 6,
   "type": "dataset",
   "updated_by_script": "HDXPythonLibrary/6.6.5-HeiGIT (2026-03-02T11:27:23.163129)",
   "url": null,
@@ -115,6 +114,13 @@
     }
   ],
   "tags": [
+    {
+      "display_name": "crisis-venezuela-earthquake",
+      "id": "f4860aa3-6d54-441c-b8f4-8b4ca68b56b0",
+      "name": "crisis-venezuela-earthquake",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
     {
       "display_name": "development",
       "id": "3be50db2-69e2-406f-83b8-195598d0c0d5",

@@ -1,0 +1,109 @@
+{
+  "archived": false,
+  "caveats": "Declared data",
+  "creator_user_id": "8cb3ea3c-8d4e-4bfc-9972-dd85a99d96fa",
+  "data_update_frequency": "-2",
+  "dataset_date": "[2014-01-01T00:00:00 TO *]",
+  "dataset_preview": "resource_id",
+  "dataset_source": "Brazilian Institute of Environment and Renewable Natural Resources",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "ca857efe-6f05-4cd4-818d-e4605432f860",
+  "is_requestdata_type": false,
+  "isopen": true,
+  "last_modified": "2026-02-13T08:44:07.914842",
+  "license_id": "cc-by",
+  "license_title": "Creative Commons Attribution International (CC BY)",
+  "license_url": "http://www.opendefinition.org/licenses/cc-by",
+  "maintainer": "8cb3ea3c-8d4e-4bfc-9972-dd85a99d96fa",
+  "metadata_created": "2024-07-18T20:21:38.108218",
+  "metadata_modified": "2026-06-26T17:46:10.342450",
+  "methodology": "Registry",
+  "name": "environmental-accident",
+  "notes": "Environmental accident is an unplanned and unwanted event that can directly or indirectly cause damage to the environment and public health, as well as social and economic losses",
+  "num_resources": 1,
+  "num_tags": 1,
+  "organization": {
+    "id": "7ba4e2f6-db25-48c5-a72b-c5be8fa67638",
+    "name": "ibama",
+    "title": "Brazilian Institute of Environment and Renewable Natural Resources",
+    "type": "organization",
+    "description": "The Brazilian Institute of the Environment and Renewable Natural Resources (Ibama) is a federal agency with legal personality under public law, administrative and financial autonomy, linked to the Ministry of the Environment (MMA), according to Art. 2 of  Law No. 7,735, of February 22, 1989 .",
+    "image_url": "",
+    "created": "2024-06-28T12:42:19.517634",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "7ba4e2f6-db25-48c5-a72b-c5be8fa67638",
+  "package_creator": "georgepf",
+  "pageviews_last_14_days": 0,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Brazil\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Brazil - Environmental Accident",
+  "total_res_downloads": 28,
+  "type": "dataset",
+  "url": null,
+  "version": null,
+  "customviz": [
+    {
+      "url": "https://pamgia.ibama.gov.br/portal/apps/dashboards/84850ff1213041c08a3bfe5a44ab00ab"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Brazil",
+      "id": "bra",
+      "image_display_url": "",
+      "name": "bra",
+      "title": "Brazil"
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2024-07-18T20:21:39.012322",
+      "dataset_preview_enabled": true,
+      "datastore_active": false,
+      "description": "TO DOWNLOAD, RIGHT-CLICK ON THE \"DOWNLOAD\" BUTTON AND SAVE LINK AS... query.geojson \n The National Environmental Emergencies System (Siema from the Brazilian acronym) is a tool for reporting environmental accidents, visualizing interactive maps and generating statistical data on environmental accidents registered by IBAMA.",
+      "download_url": "https://pamgia.ibama.gov.br/server/rest/services/01_Publicacoes/emergencias_ambientais/FeatureServer/0/query?where=1=1&geometryType=esriGeometryPoint&outFields=*&f=geojson",
+      "format": "GeoJSON",
+      "hash": "47c8c21e9c99afb43c050fe8a87731e1",
+      "hdx_rel_url": "https://pamgia.ibama.gov.br/server/rest/services/01_Publicacoes/emergencias_ambientais/FeatureServer/0/query?where=1=1&geometryType=esriGeometryPoint&outFields=*&f=geojson",
+      "id": "91ca994f-e8ab-4f5f-8f62-ce35dc477576",
+      "last_modified": "2026-02-13T08:44:07.914842",
+      "metadata_modified": "2026-02-13T10:31:01.865605",
+      "microdata": false,
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "EnvironmentalAccident",
+      "originalHash": 990841224,
+      "package_id": "ca857efe-6f05-4cd4-818d-e4605432f860",
+      "pii": false,
+      "position": 0,
+      "resource_type": "api",
+      "shape_info": "[{\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2025-09-30T10:21:09.701101\"}, {\"state\": \"failure\", \"message\": \"HTTPSConnectionPool(host='pamgia.ibama.gov.br', port=443): Read timed out. (read timeout=12)\", \"layer_id\": \"pre_91ca994f_e8ab_4f5f_8f62_ce35dc477576\", \"error_type\": \"None\", \"error_class\": \"ReadTimeout\", \"type\": \"unknown\", \"timestamp\": \"2025-09-30T10:21:22.973379\"}, {\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2025-10-02T11:50:18.970478\"}, {\"state\": \"failure\", \"message\": \"HTTPSConnectionPool(host='pamgia.ibama.gov.br', port=443): Read timed out. (read timeout=12)\", \"layer_id\": \"pre_91ca994f_e8ab_4f5f_8f62_ce35dc477576\", \"error_type\": \"None\", \"error_class\": \"ReadTimeout\", \"type\": \"unknown\", \"timestamp\": \"2025-10-02T11:53:37.805364\"}, {\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2026-02-12T20:52:28.156958\"}, {\"state\": \"failure\", \"message\": \"CKAN resource filename could not be deduced\", \"layer_id\": \"pre_91ca994f_e8ab_4f5f_8f62_ce35dc477576\", \"error_type\": \"None\", \"error_class\": \"ValueError\", \"type\": \"unknown\", \"timestamp\": \"2026-02-12T20:52:29.757868\"}, {\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2026-02-12T20:59:47.717159\"}, {\"state\": \"failure\", \"message\": \"CKAN resource filename could not be deduced\", \"layer_id\": \"pre_91ca994f_e8ab_4f5f_8f62_ce35dc477576\", \"error_type\": \"None\", \"error_class\": \"ValueError\", \"type\": \"unknown\", \"timestamp\": \"2026-02-12T20:59:49.181902\"}, {\"state\": \"processing\", \"message\": \"The processing of the geo-preview has started\", \"layer_id\": \"None\", \"error_type\": \"None\", \"error_class\": \"None\", \"timestamp\": \"2026-02-13T10:31:00.190760\"}, {\"state\": \"failure\", \"message\": \"CKAN resource filename could not be deduced\", \"layer_id\": \"pre_91ca994f_e8ab_4f5f_8f62_ce35dc477576\", \"error_type\": \"None\", \"error_class\": \"ValueError\", \"type\": \"unknown\", \"timestamp\": \"2026-02-13T10:31:01.755233\"}]",
+      "size": 1372760,
+      "state": "active",
+      "upload": null,
+      "url": "https://pamgia.ibama.gov.br/server/rest/services/01_Publicacoes/emergencias_ambientais/FeatureServer/0/query?where=1=1&geometryType=esriGeometryPoint&outFields=*&f=geojson",
+      "url_type": "api"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "environment",
+      "id": "71e54185-e2ea-4dd0-b67d-8316abefe82b",
+      "name": "environment",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

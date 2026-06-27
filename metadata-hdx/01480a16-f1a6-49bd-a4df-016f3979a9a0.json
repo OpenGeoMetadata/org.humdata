@@ -1,7 +1,6 @@
 {
   "archived": false,
-  "batch": "33d8d089-3d49-49b1-89ba-e1b5cf499da8",
-  "caveats": "Despite having a diverse set of training data, some scenarios are challenging for the building detection pipeline, including:  \n  \n\n1) geological or vegetation features which can be confused with built structures;  \n 2) settlements with many contiguous buildings not having clear delineations;  \n 3) areas characterised by small buildings, which can appear only a few pixels wide at the given image resolution;  \n 4) rural or desert areas, where buildings constructed with natural materials tend to visually blend into the surrounding area;  \n 5) areas with high-rise buildings: our model is trained to detect building rooftop rather than base and as a result, depending on satellite image's viewing angle, roofs of high rise buildings jump around which makes it challenging to track buildings across a stack of imagery in a given location.  \n  \n\nSee the [technical report](https://arxiv.org/abs/2107.12283) for more details.",
+  "caveats": "Despite having a diverse set of training data, some scenarios are challenging for the building detection pipeline, including:  \r\n  \r\n\r\n1) geological or vegetation features which can be confused with built structures;  \r\n 2) settlements with many contiguous buildings not having clear delineations;  \r\n 3) areas characterised by small buildings, which can appear only a few pixels wide at the given image resolution;  \r\n 4) rural or desert areas, where buildings constructed with natural materials tend to visually blend into the surrounding area;  \r\n 5) areas with high-rise buildings: our model is trained to detect building rooftop rather than base and as a result, depending on satellite image's viewing angle, roofs of high rise buildings jump around which makes it challenging to track buildings across a stack of imagery in a given location.  \r\n  \r\n\r\nSee the [technical report](https://arxiv.org/abs/2107.12283) for more details.",
   "creator_user_id": "0ad0784a-b5e1-45d4-bf2d-5530f5d1d239",
   "data_update_frequency": "-2",
   "dataset_date": "[2023-05-30T00:00:00 TO 2023-05-30T23:59:59]",
@@ -18,13 +17,13 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "0ad0784a-b5e1-45d4-bf2d-5530f5d1d239",
   "metadata_created": "2026-02-17T01:29:34.865416",
-  "metadata_modified": "2026-02-26T01:07:04.537303",
+  "metadata_modified": "2026-06-26T07:21:20.127567",
   "methodology": "Other",
   "methodology_other": "A deep learning model was trained to determine the footprints of buildings from high resolution satellite imagery. An accompanying [technical report](https://arxiv.org/abs/2107.12283) describes the methodology used to generate the first version of the dataset. Further improvements were made for the subsequent versions, v2 and v3.",
   "name": "buildings-google-ven",
-  "notes": "This large-scale open dataset consists of outlines of buildings derived from high-resolution 50 cm satellite imagery. It contains 1.8B building detections in Africa, Latin America, Caribbean, South Asia and Southeast Asia. The inference spanned an area of 58M km² and was carried out during May 2023.  \n  \n\nEach building in this dataset includes a polygon describing its footprint size on the ground and a confidence score indicating how sure this is a building. There is no information about the type of building, its street address, or any details other than its geometry.  \n  \n\nThe HDX team curates these datasets at [Google Open Buildings (by HDX)](https://data.humdata.org/organization/google-open-buildings) using international boundaries from the UN Geospatial Hub.  \n  \n\nFor more details, see the official website of the [Open Buildings dataset](https://sites.research.google/gr/open-buildings/).",
+  "notes": "This large-scale open dataset consists of outlines of buildings derived from high-resolution 50 cm satellite imagery. It contains 1.8B building detections in Africa, Latin America, Caribbean, South Asia and Southeast Asia. The inference spanned an area of 58M km² and was carried out during May 2023.  \r\n  \r\n\r\nEach building in this dataset includes a polygon describing its footprint size on the ground and a confidence score indicating how sure this is a building. There is no information about the type of building, its street address, or any details other than its geometry.  \r\n  \r\n\r\nThe HDX team curates these datasets at [Google Open Buildings (by HDX)](https://data.humdata.org/organization/google-open-buildings) using international boundaries from the UN Geospatial Hub.  \r\n  \r\n\r\nFor more details, see the official website of the [Open Buildings dataset](https://sites.research.google/gr/open-buildings/).",
   "num_resources": 1,
-  "num_tags": 2,
+  "num_tags": 3,
   "organization": {
     "id": "4a70680c-9fa2-4947-b20e-5d2c4b9a1bd7",
     "name": "google-open-buildings",
@@ -39,14 +38,14 @@
   },
   "owner_org": "4a70680c-9fa2-4947-b20e-5d2c4b9a1bd7",
   "package_creator": "HDX Data Systems Team",
-  "pageviews_last_14_days": 1,
+  "pageviews_last_14_days": 0,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Venezuela (Bolivarian Republic of)\"]}",
   "state": "active",
   "subnational": "1",
   "title": "Venezuela (Bolivarian Republic of): Google Building Footprints",
-  "total_res_downloads": 8,
+  "total_res_downloads": 27,
   "type": "dataset",
   "updated_by_script": "HDXINTERNAL:HDXPythonLibrary/6.6.5-MakePublic (2026-02-26T01:07:04.348685)",
   "url": null,
@@ -90,6 +89,13 @@
     }
   ],
   "tags": [
+    {
+      "display_name": "crisis-venezuela-earthquake",
+      "id": "f4860aa3-6d54-441c-b8f4-8b4ca68b56b0",
+      "name": "crisis-venezuela-earthquake",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
     {
       "display_name": "facilities-infrastructure",
       "id": "e45272d8-6b73-4b8d-bb08-e880f8900df5",

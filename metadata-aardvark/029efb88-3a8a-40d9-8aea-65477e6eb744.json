@@ -1,7 +1,7 @@
 {
   "id": "hdx-029efb88-3a8a-40d9-8aea-65477e6eb744",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-26T05:16:30Z",
+  "gbl_mdModified_dt": "2026-06-27T00:11:26Z",
   "dct_title_s": "Venezuela Earthquakes: Building Damage Assessment in Catia La Mar",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,9 +18,11 @@
     "Microsoft AI for Good Lab"
   ],
   "dcat_keyword_sm": [
+    "crisis-venezuela-earthquake",
     "damage assessment"
   ],
   "dct_subject_sm": [
+    "crisis-venezuela-earthquake",
     "damage assessment"
   ],
   "dct_spatial_sm": [
@@ -34,6 +36,6 @@
   "gbl_indexYear_im": [
     2026
   ],
-  "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/venezuela-earthquakes-catia-la-mar\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/029efb88-3a8a-40d9-8aea-65477e6eb744/resource/684fdeab-e4ac-4029-9ec9-891676b2ebfc/download/predicted_damage_catia_la_mar_footprints.gpkg\",\"label\":\"Geopackage\"}]}"
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/venezuela-earthquakes-catia-la-mar\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/029efb88-3a8a-40d9-8aea-65477e6eb744/resource/d7c889f0-4a3f-4f93-b35c-55b539e11b95/download/valid_area_mask_be30d955-2b80-4354-9418-5b9123117843_39cc9d50-43cb-4384-92c3-ce40455392aa.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/029efb88-3a8a-40d9-8aea-65477e6eb744/resource/d7c889f0-4a3f-4f93-b35c-55b539e11b95/download/valid_area_mask_be30d955-2b80-4354-9418-5b9123117843_39cc9d50-43cb-4384-92c3-ce40455392aa.geojson\"}"
 }

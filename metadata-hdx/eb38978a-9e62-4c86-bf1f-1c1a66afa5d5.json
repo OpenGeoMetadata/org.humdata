@@ -1,6 +1,5 @@
 {
   "archived": false,
-  "batch": "c4c32a30-38e4-45d3-b625-cad8f355191a",
   "caveats": "Pesaresi M., Politis P. (2023): GHS-BUILT-S R2023A - GHS built-up surface grid, derived from Sentinel2 composite and Landsat, multitemporal (1975-2030). European Commission, Joint Research Centre (JRC)\r\nPID: http://data.europa.eu/89h/9f06f36f-4b11-47ec-abb0-4f8b7b1d72ea\r\ndoi:10.2905/9F06F36F-4B11-47EC-ABB0-4F8B7B1D72EA \r\n\r\nSchiavina M., Freire S., Carioli A., MacManus K. (2023): GHS-POP R2023A - GHS population grid multitemporal (1975-2030). European Commission, Joint Research Centre (JRC)\r\nPID: http://data.europa.eu/89h/2ff68a52-5b5b-4a22-8f40-c41da8332cfe\r\ndoi:10.2905/2FF68A52-5B5B-4A22-8F40-C41DA8332CFE \r\n",
   "creator_user_id": "1a008a13-52b1-4326-a9ea-aa541372577c",
   "data_update_frequency": "365",
@@ -19,13 +18,13 @@
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "aa13de36-28c5-47a7-8d0b-6d7c754ba8c8",
   "metadata_created": "2025-01-09T18:57:57.924904",
-  "metadata_modified": "2025-01-09T18:58:00.792639",
+  "metadata_modified": "2026-06-26T06:56:13.563739",
   "methodology": "Other",
   "methodology_other": "The GHSL relies on the design and implementation of spatial data processing technologies that allow automatic data analytics and information extraction from large amounts of heterogeneous geospatial data including global, fine-scale satellite image data streams, census data, and crowd sourced or volunteered geographic information sources.  \r\n\r\nMethodology [link](https://human-settlement.emergency.copernicus.eu/documents/GHSL_Data_Package_2023.pdf?t=1727170839).",
   "name": "ven-ghsl",
-  "notes": "Open and free data for assessing the human presence on the planet.\r  \nThe Global Human Settlement Layer (GHSL) project produces global spatial information, evidence-based analytics, and knowledge describing the human presence on the planet. The GHSL relies on the design and implementation of spatial data processing technologies that allow automatic data analytics and information extraction from large amounts of heterogeneous geospatial data including global, fine-scale satellite image data streams, census data, and crowd sourced or volunteered geographic information sources.  \r  \nThe JRC, together with the Directorate-General for Regional and Urban Policy (DG REGIO) and Directorate-General for Defence Industry and Space (DG DEFIS) are working towards a regular and operational monitoring of global built-up and population based on the processing of Sentinel Earth Observation data produced by European Copernicus space program. In addition, the EU Agency for the Space Programme (EUSPA) undertakes activities related to user uptake of data, information and services.",
+  "notes": "Open and free data for assessing the human presence on the planet.\r\n  \r\nThe Global Human Settlement Layer (GHSL) project produces global spatial information, evidence-based analytics, and knowledge describing the human presence on the planet. The GHSL relies on the design and implementation of spatial data processing technologies that allow automatic data analytics and information extraction from large amounts of heterogeneous geospatial data including global, fine-scale satellite image data streams, census data, and crowd sourced or volunteered geographic information sources.  \r\n  \r\nThe JRC, together with the Directorate-General for Regional and Urban Policy (DG REGIO) and Directorate-General for Defence Industry and Space (DG DEFIS) are working towards a regular and operational monitoring of global built-up and population based on the processing of Sentinel Earth Observation data produced by European Copernicus space program. In addition, the EU Agency for the Space Programme (EUSPA) undertakes activities related to user uptake of data, information and services.",
   "num_resources": 2,
-  "num_tags": 3,
+  "num_tags": 4,
   "organization": {
     "id": "47677055-92e2-4f68-bf1b-5d570f27e791",
     "name": "copernicus",
@@ -47,7 +46,7 @@
   "state": "active",
   "subnational": "1",
   "title": "Venezuela (Bolivarian Republic of): Copernicus Global Human Settlement Layer (GHSL)",
-  "total_res_downloads": 31,
+  "total_res_downloads": 34,
   "type": "dataset",
   "updated_by_script": "HDX Scraper: copernicus (2025-01-09T18:57:57.767415)",
   "url": null,
@@ -117,6 +116,13 @@
     }
   ],
   "tags": [
+    {
+      "display_name": "crisis-venezuela-earthquake",
+      "id": "f4860aa3-6d54-441c-b8f4-8b4ca68b56b0",
+      "name": "crisis-venezuela-earthquake",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
     {
       "display_name": "facilities-infrastructure",
       "id": "e45272d8-6b73-4b8d-bb08-e880f8900df5",

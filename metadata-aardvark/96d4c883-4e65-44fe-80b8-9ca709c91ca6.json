@@ -1,0 +1,39 @@
+{
+  "id": "hdx-96d4c883-4e65-44fe-80b8-9ca709c91ca6",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-06-27T15:46:21Z",
+  "dct_title_s": "Venezuela - M 7.5 Earthquake - Building Damage Assessment ( fAIr )",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains AI-generated data exported from fAIr (fair.hotosm.org) by HOTOSM in response to the magnitude 7.5 earthquake that struck Venezuela in June 2026. GLIDE: EQ-2026-000093-VEN. On Wednesday, 24 June 2026, Venezuela was struck by two of the most powerful earthquakes the country has seen in over a century. The back-to-back tremors caused widespread damage, particularly in La Guaira and the capital, Caracas, and along the northern coast. Building damage assessment data is available for La Guaira. Building-level damage assessment produced by the damage assessment AI model developed by HOTOSM on the fAIr platform. Each point flags an area where possibly damaged buildings are located, with a predicted damage level and a confidence score. Categories: - 🔴 Red - destroyed - 🟠 Orange - major damage - 🟡 Yellow - minor damage Data - Post-disaster imagery: Vantor WorldView-3, 0.34 m, acquired 2026-06-26, via OpenAerialMap ([TMS](https://tiles.openaerialmap.org/6a3f2d9090cf21f32ffb619c/0/6a3f2d9090cf21f32ffb619d/{z}/{x}/{y})). - Building footprints: fAIr predictions run on the post-event imagery at its native 0.34 m resolution. How to use - Treat every point as a candidate for human review, not a confirmed result. A validation project is being set up. - Obvious false positives have been removed; anything with a trace of damage is kept."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Humanitarian OpenStreetMap Team (HOT)"
+  ],
+  "dcat_keyword_sm": [
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Venezuela (Bolivarian Republic of)"
+  ],
+  "locn_geometry": "ENVELOPE(-73.3, -59.76, 12.16, 0.72)",
+  "dcat_bbox": "ENVELOPE(-73.3, -59.76, 12.16, 0.72)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/venezuela-m-7-5-earthquake-building-damage-assessment\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/96d4c883-4e65-44fe-80b8-9ca709c91ca6/resource/58c8f34f-f1a3-4e5e-94b8-b3c123d8ad16/download/fair_damage_points.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/96d4c883-4e65-44fe-80b8-9ca709c91ca6/resource/58c8f34f-f1a3-4e5e-94b8-b3c123d8ad16/download/fair_damage_points.geojson\"}"
+}

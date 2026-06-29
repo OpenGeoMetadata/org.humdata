@@ -1,7 +1,7 @@
 {
   "id": "hdx-93c87e2a-a5b2-460c-95a9-be826830a303",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-27T14:39:15Z",
+  "gbl_mdModified_dt": "2026-06-28T14:41:09Z",
   "dct_title_s": "Spain - GLIDE Disaster Events",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -45,7 +45,7 @@
   "locn_geometry": "ENVELOPE(-9.39, 3.04, 43.75, 35.95)",
   "dcat_bbox": "ENVELOPE(-9.39, 3.04, 43.75, 35.95)",
   "dct_temporal_sm": [
-    "2000-2025"
+    "2000-2026"
   ],
   "gbl_indexYear_im": [
     2000,
@@ -73,7 +73,8 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/esp-glide-events\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/93c87e2a-a5b2-460c-95a9-be826830a303/resource/644a7ac7-c970-4b57-8b1c-0574ed994d32/download/esp_glide_events.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/93c87e2a-a5b2-460c-95a9-be826830a303/resource/644a7ac7-c970-4b57-8b1c-0574ed994d32/download/esp_glide_events.geojson\"}"

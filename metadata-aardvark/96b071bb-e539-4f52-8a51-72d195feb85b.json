@@ -1,7 +1,7 @@
 {
   "id": "hdx-96b071bb-e539-4f52-8a51-72d195feb85b",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-27T14:39:13Z",
+  "gbl_mdModified_dt": "2026-06-28T14:41:01Z",
   "dct_title_s": "Germany - GLIDE Disaster Events",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -41,7 +41,7 @@
   "locn_geometry": "ENVELOPE(5.99, 15.02, 54.98, 47.3)",
   "dcat_bbox": "ENVELOPE(5.99, 15.02, 54.98, 47.3)",
   "dct_temporal_sm": [
-    "2000-2024"
+    "2000-2026"
   ],
   "gbl_indexYear_im": [
     2000,
@@ -68,7 +68,9 @@
     2021,
     2022,
     2023,
-    2024
+    2024,
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/deu-glide-events\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/96b071bb-e539-4f52-8a51-72d195feb85b/resource/8aa47638-343a-4dbb-8977-129a7b0a43a2/download/deu_glide_events.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/96b071bb-e539-4f52-8a51-72d195feb85b/resource/8aa47638-343a-4dbb-8977-129a7b0a43a2/download/deu_glide_events.geojson\"}"

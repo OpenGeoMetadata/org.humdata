@@ -16,13 +16,13 @@
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "5a49d848-84b1-4090-a18d-dc484844b98a",
   "metadata_created": "2026-06-28T04:10:10.342589",
-  "metadata_modified": "2026-06-28T15:07:29.007904",
+  "metadata_modified": "2026-06-29T06:47:28.991615",
   "methodology": "Other",
   "methodology_other": "Microsoft AI4G Lab ran their damage assessment AI models on satellite images taken 26 June 2026 and have mapped out the affected buildings.\r\n\r\nWe create building level damage assessments by training and then running an AI model on the post-disaster imagery. The AI model predicts whether each pixel in the imagery is “building”, “damaged”, “cloud”, or “other” (i.e. “background”). We join these predictions to Overture Maps building footprints which represent the state on the ground pre-event and distribute the resulting data as a vector file GeoPackage with the following per-footprint attributes:\r\nid – the Overture Maps unique ID for each footprint\r\ndamage_pct_0m – the percentage area of the footprint classified as “damage”\r\ndamage_pct_10m – the percentage area classified as “damage” in a 10-meter buffer around the footprint (denominator is the area of the footprint, capped at 1)\r\ndamage_pct_20m – the percentage area classified as “damage” in a 20-meter buffer around the footprint (denominator is the area of the footprint, capped at 1)\r\nbuilt_pct_0m – the percentage area of the footprint classified as “building”\r\ndamaged – 1 if damage_pct_0m > 0, else 0\r\nunknown_pct – 1 if the building was covered by clouds, else 0",
   "name": "building-damage-assessment-la-guaira-coastline-building-damage-assessment",
   "notes": "Microsoft AI for Good Lab ran their damage assessment AI models for the La Guiara Coastline - 26,142.",
   "num_resources": 2,
-  "num_tags": 1,
+  "num_tags": 2,
   "organization": {
     "id": "e7b426aa-85ac-491d-b54f-b4ab17c6ad51",
     "name": "microsoft-ai4g-lab",
@@ -37,14 +37,14 @@
   },
   "owner_org": "e7b426aa-85ac-491d-b54f-b4ab17c6ad51",
   "package_creator": "airshiner",
-  "pageviews_last_14_days": 48,
+  "pageviews_last_14_days": 185,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Venezuela (Bolivarian Republic of)\"]}",
   "state": "active",
   "subnational": "1",
   "title": "Building Damage Assessment - La Guaira / Surrounding Area Building Damage Assessment",
-  "total_res_downloads": 15,
+  "total_res_downloads": 72,
   "type": "dataset",
   "url": null,
   "version": null,
@@ -125,6 +125,13 @@
     }
   ],
   "tags": [
+    {
+      "display_name": "crisis-venezuela-earthquake",
+      "id": "f4860aa3-6d54-441c-b8f4-8b4ca68b56b0",
+      "name": "crisis-venezuela-earthquake",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
     {
       "display_name": "damage assessment",
       "id": "3c5bab40-4c0f-40bc-a2dd-12cd7f945037",

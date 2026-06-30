@@ -1,6 +1,5 @@
 {
   "archived": false,
-  "batch": "1cfef687-7ea0-4951-9671-ef886fbe9ec6",
   "caveats": "This is AI-generated data. The destroyed and major-damage classes are high confidence. The data needs to be validated and checked; please review the model confidence score.",
   "creator_user_id": "6a0688ce-8521-46e2-8edd-8e26c0851ebd",
   "data_update_frequency": "-2",
@@ -18,13 +17,13 @@
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "6a0688ce-8521-46e2-8edd-8e26c0851ebd",
   "metadata_created": "2026-06-27T15:20:48.376775",
-  "metadata_modified": "2026-06-27T15:46:21.882311",
+  "metadata_modified": "2026-06-29T06:33:16.132157",
   "methodology": "Other",
   "methodology_other": "AI",
   "name": "venezuela-m-7-5-earthquake-building-damage-assessment",
-  "notes": "This dataset contains AI-generated data exported from fAIr (fair.hotosm.org) by HOTOSM in response to the magnitude 7.5 earthquake that struck Venezuela in June 2026. GLIDE: EQ-2026-000093-VEN.\n\nOn Wednesday, 24 June 2026, Venezuela was struck by two of the most powerful earthquakes the country has seen in over a century. The back-to-back tremors caused widespread damage, particularly in La Guaira and the capital, Caracas, and along the northern coast.\n\nBuilding damage assessment data is available for La Guaira.\n\nBuilding-level damage assessment produced by the damage assessment AI model developed by HOTOSM on the fAIr platform. Each point flags an area where possibly damaged buildings are located, with a predicted damage level and a confidence score.\n\nCategories:\n\n- 🔴 Red - destroyed\n- 🟠 Orange - major damage\n- 🟡 Yellow - minor damage\n\nData\n- Post-disaster imagery: Vantor WorldView-3, 0.34 m, acquired 2026-06-26, via OpenAerialMap ([TMS](https://tiles.openaerialmap.org/6a3f2d9090cf21f32ffb619c/0/6a3f2d9090cf21f32ffb619d/{z}/{x}/{y})).\n- Building footprints: fAIr predictions run on the post-event imagery at its native 0.34 m resolution.\n\nHow to use\n- Treat every point as a candidate for human review, not a confirmed result. A validation project is being set up.\n- Obvious false positives have been removed; anything with a trace of damage is kept.",
+  "notes": "This dataset contains AI-generated data exported from fAIr (fair.hotosm.org) by HOTOSM in response to the magnitude 7.5 earthquake that struck Venezuela in June 2026. GLIDE: EQ-2026-000093-VEN.\r\n\r\nOn Wednesday, 24 June 2026, Venezuela was struck by two of the most powerful earthquakes the country has seen in over a century. The back-to-back tremors caused widespread damage, particularly in La Guaira and the capital, Caracas, and along the northern coast.\r\n\r\nBuilding damage assessment data is available for La Guaira.\r\n\r\nBuilding-level damage assessment produced by the damage assessment AI model developed by HOTOSM on the fAIr platform. Each point flags an area where possibly damaged buildings are located, with a predicted damage level and a confidence score.\r\n\r\nCategories:\r\n\r\n- 🔴 Red - destroyed\r\n- 🟠 Orange - major damage\r\n- 🟡 Yellow - minor damage\r\n\r\nData\r\n- Post-disaster imagery: Vantor WorldView-3, 0.34 m, acquired 2026-06-26, via OpenAerialMap ([TMS](https://tiles.openaerialmap.org/6a3f2d9090cf21f32ffb619c/0/6a3f2d9090cf21f32ffb619d/{z}/{x}/{y})).\r\n- Building footprints: fAIr predictions run on the post-event imagery at its native 0.34 m resolution.\r\n\r\nHow to use\r\n- Treat every point as a candidate for human review, not a confirmed result. A validation project is being set up.\r\n- Obvious false positives have been removed; anything with a trace of damage is kept.",
   "num_resources": 1,
-  "num_tags": 1,
+  "num_tags": 2,
   "organization": {
     "id": "225b9f7d-e7cb-4156-96a6-44c9c58d31e3",
     "name": "hot",
@@ -39,14 +38,14 @@
   },
   "owner_org": "225b9f7d-e7cb-4156-96a6-44c9c58d31e3",
   "package_creator": "osm2hdx",
-  "pageviews_last_14_days": 1,
+  "pageviews_last_14_days": 119,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Venezuela (Bolivarian Republic of)\"]}",
   "state": "active",
   "subnational": "1",
   "title": "Venezuela - M 7.5 Earthquake - Building Damage Assessment ( fAIr )",
-  "total_res_downloads": 1,
+  "total_res_downloads": 42,
   "type": "dataset",
   "updated_by_script": "HDXPythonLibrary/6.6.7-osm-country-exports/0.1 (2026-06-27T15:46:18.466912)",
   "url": null,
@@ -99,6 +98,13 @@
     }
   ],
   "tags": [
+    {
+      "display_name": "crisis-venezuela-earthquake",
+      "id": "f4860aa3-6d54-441c-b8f4-8b4ca68b56b0",
+      "name": "crisis-venezuela-earthquake",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
     {
       "display_name": "natural disasters",
       "id": "48520851-7df8-418b-aa00-7fa276d7fd88",

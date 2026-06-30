@@ -1,8 +1,8 @@
 {
   "id": "hdx-0f7a292b-4f98-4492-a874-0a2edcc4ceda",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-26T15:15:20Z",
-  "dct_title_s": "GRID3 COD - Ituri - Geospatial Data Layers 20260611",
+  "gbl_mdModified_dt": "2026-06-29T08:37:37Z",
+  "dct_title_s": "GRID3 COD - Ituri - Geospatial Data Layers",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
@@ -18,11 +18,13 @@
     "Center for Integrated Earth System Information (CIESIN), Columbia University; Ministère de la Santé Publique, Hygiène et Prévention, Democratic Republic of the Congo; and GRID3"
   ],
   "dcat_keyword_sm": [
+    "crisis-ebola-bundibugyo-virus-disease",
     "geodata",
     "health facilities",
     "populated places-settlements"
   ],
   "dct_subject_sm": [
+    "crisis-ebola-bundibugyo-virus-disease",
     "geodata",
     "health facilities",
     "populated places-settlements"
@@ -68,6 +70,6 @@
     2025,
     2026
   ],
-  "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-cod-ituri-geospatial-data-layers-20260611\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/0f7a292b-4f98-4492-a874-0a2edcc4ceda/resource/be34b5f5-d31b-4da0-a2d0-8f430c3ee14f/download/grid3-cod-ituri-geospatial-data-layers-20260611-readme.pdf\",\"label\":\"PDF\"}]}"
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-cod-ituri-geospatial-data-layers-20260611\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/0f7a292b-4f98-4492-a874-0a2edcc4ceda/resource/6ce0c5ff-9111-483b-91fa-478d647a823a/download/grid3_cod_it_geospatial_data_layers_20260611.gpkg\",\"label\":\"Geopackage\"}]}"
 }

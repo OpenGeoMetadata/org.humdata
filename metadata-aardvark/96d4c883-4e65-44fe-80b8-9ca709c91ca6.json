@@ -1,28 +1,32 @@
 {
   "id": "hdx-96d4c883-4e65-44fe-80b8-9ca709c91ca6",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-29T06:33:16Z",
-  "dct_title_s": "Venezuela - M 7.5 Earthquake - Building Damage Assessment ( fAIr )",
+  "gbl_mdModified_dt": "2026-06-30T21:36:29Z",
+  "dct_title_s": "Venezuela - M 7.5 Earthquake - Damage Assessment Area (Validated)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "This dataset contains AI-generated data exported from fAIr (fair.hotosm.org) by HOTOSM in response to the magnitude 7.5 earthquake that struck Venezuela in June 2026. GLIDE: EQ-2026-000093-VEN. On Wednesday, 24 June 2026, Venezuela was struck by two of the most powerful earthquakes the country has seen in over a century. The back-to-back tremors caused widespread damage, particularly in La Guaira and the capital, Caracas, and along the northern coast. Building damage assessment data is available for La Guaira. Building-level damage assessment produced by the damage assessment AI model developed by HOTOSM on the fAIr platform. Each point flags an area where possibly damaged buildings are located, with a predicted damage level and a confidence score. Categories: - 🔴 Red - destroyed - 🟠 Orange - major damage - 🟡 Yellow - minor damage Data - Post-disaster imagery: Vantor WorldView-3, 0.34 m, acquired 2026-06-26, via OpenAerialMap ([TMS](https://tiles.openaerialmap.org/6a3f2d9090cf21f32ffb619c/0/6a3f2d9090cf21f32ffb619d/{z}/{x}/{y})). - Building footprints: fAIr predictions run on the post-event imagery at its native 0.34 m resolution. How to use - Treat every point as a candidate for human review, not a confirmed result. A validation project is being set up. - Obvious false positives have been removed; anything with a trace of damage is kept."
+    "Building damage areas for the M7.5 earthquake that struck Venezuela on 24 June 2026 (GLIDE EQ-2026-000093-VEN), reviewed and graded by the community. **Method:** AI detected candidate damage areas on pre- and post-event very-high-resolution imagery (HOTOSM fAIr and Microsoft AI for Good Lab), combined on an H3 grid, then MapSwipe volunteers reviewed each area. Note: the SAR (Sentinel-1 radar) source shown in the methodology figure is not part of this validation, as radar change is hard to confirm by visual inspection. **Scoring:** each area's verdict is the majority crowd decision at a 50% threshold. If more than half the votes agree on one answer it becomes the verdict (confirmed damage or no damage); otherwise the area is uncertain. Every area carries its full vote breakdown, so you can re-assess with your own threshold (default 50%). **Coverage:** Caraballeda, La Guaira and Caracas. Catia La Mar and Naiguata are in process of validation; the dataset stays updated as areas are completed. **Sources:** - AI detection: HOTOSM fAIr (graded damage, ODbL) and Microsoft AI for Good Lab (binary damaged, CC-BY 4.0) - Validation: MapSwipe volunteers - Imagery: Vantor Inc. 2026 (Caracas, La Guaira) and Planet Labs PBC 2026 (Caraballeda), via OpenAerialMap **Explore:** per-city counts in the Quick Charts, and each area on the interactive viewer (see Showcase). **Full data:** https://huggingface.co/datasets/hotosm/venezuela_eq_2026"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "schema_provider_s": "Humanitarian Data Exchange",
   "dct_publisher_sm": [
-    "Humanitarian OpenStreetMap Team (HOT)"
+    "Humanitarian OpenStreetMap Team (HOT); MapSwipe volunteers"
   ],
   "dcat_keyword_sm": [
     "crisis-venezuela-earthquake",
+    "damage assessment",
+    "geodata",
     "natural disasters"
   ],
   "dct_subject_sm": [
     "crisis-venezuela-earthquake",
+    "damage assessment",
+    "geodata",
     "natural disasters"
   ],
   "dct_spatial_sm": [
@@ -37,5 +41,5 @@
     2026
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/venezuela-m-7-5-earthquake-building-damage-assessment\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/96d4c883-4e65-44fe-80b8-9ca709c91ca6/resource/58c8f34f-f1a3-4e5e-94b8-b3c123d8ad16/download/fair_damage_points.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/96d4c883-4e65-44fe-80b8-9ca709c91ca6/resource/58c8f34f-f1a3-4e5e-94b8-b3c123d8ad16/download/fair_damage_points.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/venezuela-m-7-5-earthquake-building-damage-assessment\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/96d4c883-4e65-44fe-80b8-9ca709c91ca6/resource/b4c3e1da-d6de-4d69-9204-ccce44674164/download/venezuela_validated_damage.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/96d4c883-4e65-44fe-80b8-9ca709c91ca6/resource/b4c3e1da-d6de-4d69-9204-ccce44674164/download/venezuela_validated_damage.geojson\"}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-ca857efe-6f05-4cd4-818d-e4605432f860",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-28T10:32:53Z",
+  "gbl_mdModified_dt": "2026-06-30T19:44:25Z",
   "dct_title_s": "Brazil - Environmental Accident",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -34,6 +34,6 @@
   "gbl_indexYear_im": [
     2014
   ],
-  "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/environmental-accident\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://pamgia.ibama.gov.br/server/rest/services/01_Publicacoes/emergencias_ambientais/FeatureServer/0/query?where=1=1&geometryType=esriGeometryPoint&outFields=*&f=geojson\",\"label\":\"GeoJSON\"}]}"
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/environmental-accident\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://pamgia.ibama.gov.br/geoservicos/arquivos/loc_emergencias_ambientais_p.zip\",\"label\":\"SHP\"}]}"
 }

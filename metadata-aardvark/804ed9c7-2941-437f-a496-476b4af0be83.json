@@ -1,0 +1,43 @@
+{
+  "id": "hdx-804ed9c7-2941-437f-a496-476b4af0be83",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-07-02T02:36:09Z",
+  "dct_title_s": "Afghanistan - Earthquake on Jul 01 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000t9gg](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000t9gg) Magnitude 5.5 earthquake at 216.694 depth occurred on Jul 01 2026 39km W of Yamgan. The epicentre of the earthquake was located at latitude 36.5317 longitude 70.4468. It impacted 251950 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Afghanistan"
+  ],
+  "locn_geometry": "ENVELOPE(60.53, 75.16, 38.49, 29.32)",
+  "dcat_bbox": "ENVELOPE(60.53, 75.16, 38.49, 29.32)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/afg-earthquake-sm-us6000t9gg\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/804ed9c7-2941-437f-a496-476b4af0be83/resource/6d0ca874-c8cc-4ac4-9f64-6e0e4c6750d1/download/afg_wfpadam_earthquake_20260701.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/804ed9c7-2941-437f-a496-476b4af0be83/resource/6d0ca874-c8cc-4ac4-9f64-6e0e4c6750d1/download/afg_wfpadam_earthquake_20260701.geojson\"}"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "hdx-0b707cfd-f4b8-440f-8cbd-049bd43cb64b",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-07-06T14:33:39Z",
+  "dct_title_s": "Venezuela Earthquakes: Damage Assessment using Sentinel-1 radar data",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset provides a rapid experimental Sentinel-1-based damage assessment product for the broader impacted area from the 24 June 2026 Venezuelan earthquakes. It includes both the entire analyzed area of the SAR analysis and the Overture Maps building footprints identified as likely damaged. This SAR product estimates 81,437 likely damaged buildings across the analyzed impacted area. This preliminary damage proxy product is intended to support rapid screening and prioritization, targeting of follow-up assessment, triangulation with VHR optical and radar images, and other damage assessments and products."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "IMPACT Initiatives"
+  ],
+  "dcat_keyword_sm": [
+    "crisis-venezuela-earthquake",
+    "damage assessment",
+    "earthquake-tsunami"
+  ],
+  "dct_subject_sm": [
+    "crisis-venezuela-earthquake",
+    "damage assessment",
+    "earthquake-tsunami"
+  ],
+  "dct_spatial_sm": [
+    "Venezuela (Bolivarian Republic of)"
+  ],
+  "locn_geometry": "ENVELOPE(-73.3, -59.76, 12.16, 0.72)",
+  "dcat_bbox": "ENVELOPE(-73.3, -59.76, 12.16, 0.72)",
+  "dct_temporal_sm": [
+    "2025-2026"
+  ],
+  "gbl_indexYear_im": [
+    2025,
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/venezuela-earthquakes-damage-assessment-using-sentinel-1-radar-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/0b707cfd-f4b8-440f-8cbd-049bd43cb64b/resource/fe7c50d2-385a-415b-864e-2277ec0868d2/download/impact_ven_earthquake_sentinel1_damaged_20260625_v3.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/0b707cfd-f4b8-440f-8cbd-049bd43cb64b/resource/fe7c50d2-385a-415b-864e-2277ec0868d2/download/impact_ven_earthquake_sentinel1_damaged_20260625_v3.geojson\"}"
+}

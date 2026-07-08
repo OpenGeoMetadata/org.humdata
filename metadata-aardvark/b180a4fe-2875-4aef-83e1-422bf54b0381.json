@@ -1,7 +1,7 @@
 {
   "id": "hdx-b180a4fe-2875-4aef-83e1-422bf54b0381",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-12-09T17:31:10Z",
+  "gbl_mdModified_dt": "2026-07-07T12:29:21Z",
   "dct_title_s": "Myanmar: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,12 +18,10 @@
     "National Oceanic and Atmospheric Administration (NOAA) / National Centers for Environmental Information (NCEI)"
   ],
   "dcat_keyword_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_subject_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_spatial_sm": [
     "Myanmar"
@@ -31,7 +29,7 @@
   "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
   "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
   "dct_temporal_sm": [
-    "1842-2025"
+    "1842-2026"
   ],
   "gbl_indexYear_im": [
     1842,
@@ -217,7 +215,8 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mmr-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/b180a4fe-2875-4aef-83e1-422bf54b0381/resource/22022a68-c467-430d-81e2-81269fbcfd2c/download/ibtracs_all_list_v04r01_lines_mmr.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/b180a4fe-2875-4aef-83e1-422bf54b0381/resource/22022a68-c467-430d-81e2-81269fbcfd2c/download/ibtracs_all_list_v04r01_lines_mmr.geojson\"}"

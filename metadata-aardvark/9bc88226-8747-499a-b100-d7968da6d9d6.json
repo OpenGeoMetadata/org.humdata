@@ -1,7 +1,7 @@
 {
   "id": "hdx-9bc88226-8747-499a-b100-d7968da6d9d6",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-12-23T17:27:35Z",
+  "gbl_mdModified_dt": "2026-07-07T12:24:04Z",
   "dct_title_s": "India: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,12 +18,10 @@
     "National Oceanic and Atmospheric Administration (NOAA) / National Centers for Environmental Information (NCEI)"
   ],
   "dcat_keyword_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_subject_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_spatial_sm": [
     "India"
@@ -31,7 +29,7 @@
   "locn_geometry": "ENVELOPE(68.18, 97.4, 35.49, 7.97)",
   "dcat_bbox": "ENVELOPE(68.18, 97.4, 35.49, 7.97)",
   "dct_temporal_sm": [
-    "1842-2025"
+    "1842-2026"
   ],
   "gbl_indexYear_im": [
     1842,
@@ -217,7 +215,8 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/ind-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/9bc88226-8747-499a-b100-d7968da6d9d6/resource/a2bf34cb-01ae-47ae-b7a7-07eb58d9f656/download/ibtracs_all_list_v04r01_lines_ind.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/9bc88226-8747-499a-b100-d7968da6d9d6/resource/a2bf34cb-01ae-47ae-b7a7-07eb58d9f656/download/ibtracs_all_list_v04r01_lines_ind.geojson\"}"

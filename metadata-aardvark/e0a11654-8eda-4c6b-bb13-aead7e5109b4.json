@@ -1,7 +1,7 @@
 {
   "id": "hdx-e0a11654-8eda-4c6b-bb13-aead7e5109b4",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-12-09T17:19:00Z",
+  "gbl_mdModified_dt": "2026-07-07T12:13:35Z",
   "dct_title_s": "Bangladesh: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,12 +18,10 @@
     "National Oceanic and Atmospheric Administration (NOAA) / National Centers for Environmental Information (NCEI)"
   ],
   "dcat_keyword_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_subject_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_spatial_sm": [
     "Bangladesh"
@@ -31,7 +29,7 @@
   "locn_geometry": "ENVELOPE(88.08, 92.67, 26.45, 20.67)",
   "dcat_bbox": "ENVELOPE(88.08, 92.67, 26.45, 20.67)",
   "dct_temporal_sm": [
-    "1842-2025"
+    "1842-2026"
   ],
   "gbl_indexYear_im": [
     1842,
@@ -217,7 +215,8 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/bgd-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e0a11654-8eda-4c6b-bb13-aead7e5109b4/resource/1563b8e5-305e-47d6-ae83-1279b7ebb2da/download/ibtracs_all_list_v04r01_lines_bgd.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/e0a11654-8eda-4c6b-bb13-aead7e5109b4/resource/1563b8e5-305e-47d6-ae83-1279b7ebb2da/download/ibtracs_all_list_v04r01_lines_bgd.geojson\"}"

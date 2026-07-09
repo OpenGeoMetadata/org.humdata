@@ -17,7 +17,7 @@
   "license_title": "Other",
   "maintainer": "37023db4-a571-4f28-8d1f-15f0353586af",
   "metadata_created": "2019-05-27T13:04:07.521992",
-  "metadata_modified": "2025-08-26T11:39:17.378643",
+  "metadata_modified": "2026-07-08T09:10:48.435145",
   "methodology": "Other",
   "methodology_other": "Estimates of total number of people per grid square broken down by gender and age groupings (including 0-1 and by 5-year up to 80+) in 2020 for Marshall IslandsThe dataset is available to download in Geotiff format at a resolution of 3 arc (approximately 100m at the equator) . The projection is Geographic Coordinate System, WGS84. The units are estimated number of male/female in each age group per grid square.The mapping approach is Pezzulo, C. et al. Sub-national mapping of population pyramids and dependency ratios in Africa and Asia. Sci. Data 4:170089 doi:10.1038/sdata.2017.89 (2017)Filenames: Example - afg_f_05_2000.tif People per pixel (PPP) for female age group 5 to 9 years (f_05) in Afghanistan for year 2000.For other datasets, m = male, 00 = age group 0 to 12months, 01 = age group 1 to 4 years, 80 = age 80 years and over",
   "name": "worldpop-age-and-gender-structures-for-marshall-islands",
@@ -38,7 +38,7 @@
   },
   "owner_org": "3f077dff-1d05-484d-a7c2-4cb620f22689",
   "package_creator": "mcarans",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 1,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Marshall Islands\"]}",
@@ -2137,6 +2137,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-06-29T07:30:17.418310",
@@ -2148,7 +2149,7 @@
       "hdx_rel_url": "https://data.worldpop.org/GIS/AgeSex_structures/Global_2000_2020/2018/MHL/mhl_m_30_2018.tif",
       "id": "24d68205-16ae-4933-aafa-68468b43e840",
       "last_modified": "2018-11-19T05:26:13",
-      "metadata_modified": "2025-08-26T11:39:17.401583",
+      "metadata_modified": "2026-07-08T09:10:48.468991",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -2187,6 +2188,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-06-29T07:30:17.418314",
@@ -2198,7 +2200,7 @@
       "hdx_rel_url": "https://data.worldpop.org/GIS/AgeSex_structures/Global_2000_2020/2018/MHL/mhl_m_20_2018.tif",
       "id": "3a986efb-35c5-41ea-83be-e73cb28f8deb",
       "last_modified": "2018-11-19T05:26:11",
-      "metadata_modified": "2025-08-26T11:39:17.401742",
+      "metadata_modified": "2026-07-08T09:10:48.469181",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

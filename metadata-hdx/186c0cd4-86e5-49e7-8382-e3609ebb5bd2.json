@@ -7,7 +7,6 @@
   "dataset_preview": "first_resource",
   "dataset_source": "WorldPop, University of Southampton, UK",
   "has_geodata": true,
-  "has_quickcharts": false,
   "has_showcases": true,
   "id": "186c0cd4-86e5-49e7-8382-e3609ebb5bd2",
   "is_requestdata_type": false,
@@ -18,7 +17,7 @@
   "license_title": "Other",
   "maintainer": "37023db4-a571-4f28-8d1f-15f0353586af",
   "metadata_created": "2019-05-27T13:04:36.845765",
-  "metadata_modified": "2025-08-26T11:39:56.607055",
+  "metadata_modified": "2026-07-08T09:10:50.830635",
   "methodology": "Other",
   "methodology_other": "Estimates of total number of people per grid square broken down by gender and age groupings (including 0-1 and by 5-year up to 80+) in 2020 for Saint Helena, Ascension and Tristan da CunhaThe dataset is available to download in Geotiff format at a resolution of 3 arc (approximately 100m at the equator) . The projection is Geographic Coordinate System, WGS84. The units are estimated number of male/female in each age group per grid square.The mapping approach is Pezzulo, C. et al. Sub-national mapping of population pyramids and dependency ratios in Africa and Asia. Sci. Data 4:170089 doi:10.1038/sdata.2017.89 (2017)Filenames: Example - afg_f_05_2000.tif People per pixel (PPP) for female age group 5 to 9 years (f_05) in Afghanistan for year 2000.For other datasets, m = male, 00 = age group 0 to 12months, 01 = age group 1 to 4 years, 80 = age 80 years and over",
   "name": "worldpop-age-and-gender-structures-for-saint-helena",
@@ -3113,6 +3112,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-06-29T08:27:16.962861",
@@ -3124,7 +3124,7 @@
       "hdx_rel_url": "https://data.worldpop.org/GIS/AgeSex_structures/Global_2000_2020/2017/SHN/shn_m_1_2017.tif",
       "id": "1b29f603-c6b1-42d0-af1d-29dce3333e2e",
       "last_modified": "2018-11-15T21:59:42",
-      "metadata_modified": "2025-08-26T11:39:56.632639",
+      "metadata_modified": "2026-07-08T09:10:50.868360",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -3138,6 +3138,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-06-29T08:27:16.962863",
@@ -3149,7 +3150,7 @@
       "hdx_rel_url": "https://data.worldpop.org/GIS/AgeSex_structures/Global_2000_2020/2017/SHN/shn_m_15_2017.tif",
       "id": "97838ac3-4e7d-47b7-9428-f88c7de2ff28",
       "last_modified": "2018-11-15T21:59:46",
-      "metadata_modified": "2025-08-26T11:39:56.632745",
+      "metadata_modified": "2026-07-08T09:10:50.868482",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

@@ -210,15 +210,21 @@ class Mapper
       refs['http://schema.org/url'] = "https://data.humdata.org/dataset/#{name_or_id}"
     end
 
-    # Look for the primary download link
+    # Add a labelled entry to downloadUrl for every downloadable resource
     resources = @dataset['resources'] || []
-    spatial_formats = %w[GeoTIFF Shapefile GeoJSON KML KMZ GML GPX]
-    spatial_resource = resources.find { |r| spatial_formats.include?(r['format']) } || resources.first
+    downloadable_resources = resources.select { |r| r['download_url'].present? }
 
-    if spatial_resource && spatial_resource['download_url'].present?
-      refs['http://schema.org/downloadUrl'] = [
-        {url: spatial_resource['download_url'], label: spatial_resource['format']}
-      ]
+    if downloadable_resources.any?
+      refs['http://schema.org/downloadUrl'] = downloadable_resources.map do |r|
+        label = if r['name'].present? && r['format'].present?
+                  "#{r['name']} (#{r['format']})"
+                elsif r['name'].present?
+                  r['name']
+                else
+                  r['format']
+                end
+        { url: r['download_url'], label: label }
+      end
     end
 
     # Add GeoJSON reference if a valid GeoJSON URL exists

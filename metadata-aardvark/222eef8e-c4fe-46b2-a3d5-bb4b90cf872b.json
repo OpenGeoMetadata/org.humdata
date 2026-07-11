@@ -1,0 +1,39 @@
+{
+  "id": "hdx-222eef8e-c4fe-46b2-a3d5-bb4b90cf872b",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-07-11T00:53:09Z",
+  "dct_title_s": "Sentinel-1 Likelihood of Damaged Structures (Experimental) for the Venezuela Earthquake June 2026 (v1)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Venezuela Earthquake — Sentinel-1 Radar Building Damage Assessment (Delivery v1) A rapid assessment of building damage from the 24 June 2026 Venezuela earthquake (M7.5 mainshock, M7.2 foreshock), centered near San Felipe and Yumare in north-central Venezuela, with strong shaking along the central coast and into greater Caracas. A preliminary version (v0) of this product was released on 27 June 2026 via the NASA Disaster Response and Coordination System. This second iteration (v1) expands area coverage: post-event Sentinel-1 acquisitions that were not available at the first release (v0) filled the coverage gaps within the Copernicus EMS / USGS ShakeMap Modified Mercalli Intensity ≥ VI (strong-shaking) area, raising coverage of that hazard-provenanced, damage-onset zone to 100% and increasing the number of Overture building footprints under monitoring by 26.5% (from 2,133,587 to 2,699,969, an increase of 566,382 footprints). We extended the Copernicus EMSR884 area of interest to a latitude of approximately 11.04°N to include all areas with strong shaking. Using Sentinel-1 satellite radar coherent change detection, we estimate **69,431 buildings were likely damaged or destroyed**, as of the most recent analyzed satellite pass on 1 July 2026 (10:16 UTC). The assessment covers the entire area activated under Copernicus EMS activation EMSR884 (USGS event us6000t7zp) and is a preliminary product. These data reflect abrupt surface change consistent with damage — a damage indicator, not a confirmation of damage for any individual building. Each building footprint carries a confidence tier (**possible / probable / high_confidence**) instead of the numeric damage probability score used in the previous delivery. The confidence tier **does not represent individual building-level damage severity**. Instead, it represents how anomalous the post-earthquake interferometric coherence was compared to roughly one year prior to the earthquake. This is described in more detail in the README and slide deck PDFs included below. ## Coverage and dates - **Post-event:** Sentinel-1 swaths from 24 June 2026 (22:49 UTC) to 1 July 2026 (10:16 UTC), spanning eight post-earthquake acquisitions. - **Pre-event:** 260 reference coherence images — per-scene matched-baseline stacks — from 24 April 2025 to 23 June 2026. - **Monitored universe:** 2,699,969 Overture Maps Foundation building footprints; post-earthquake acquisitions cover 100% of the USGS ShakeMap MMI ≥ VI area. ## What's in this dataset - `EMSR884_damage_confidence_20260701_v1.geojson` / `.gpkg` — confidence-tier quick-look layer: the 123,633 buildings flagged at any confidence tier, with `overture_id`, `damage_confidence` (possible 54,202 / probable 43,511 / high_confidence 25,920), and the binary `damage` flag (1 = probable or high_confidence; the 69,431 buildings with `damage` = 1). - `EMSR884_analyzed_area_20260701_v1.geojson` / `.gpkg` — outline of where usable satellite coverage existed, so unassessed ground is not mistaken for undamaged. - `EMSR884_adm2_damage_pct_20260701_v1.gpkg` — percent of assessed buildings damaged, by second-level administrative unit. All layers are EPSG:4326 (WGS84) and open in QGIS, ArcGIS, geopandas, or R. ## README and Presentation We have included a detailed README file and PowerPoint presentation in both English and Spanish below. - `EMSR884_damage_20260701_v1_README.pdf` — detailed README: data description, methods, and agreement analyses (English). - `EMSR884_damage_20260701_v1_README_ES.pdf` — the same README in Spanish. - `EMSR884_damage_20260701_v1_slide_deck.pdf` — 32-slide briefing deck (English). - `EMSR884_damage_20260701_v1_slide_deck_ES.pdf` — the same deck in Spanish. Additionally, we have recorded a video presentation available in our mirrored directory. ## Citation Cite as: Damage analysis of Copernicus Sentinel-1 data by Corey Scher and Jamon Van Den Hoek, Oregon State University. Overture Maps Foundation building footprints. ## Mirror https://oregonstate.app.box.com/folder/394695539753?s=yrgtsbwmpqpajuhzioq0k13ihfluuneg ## NASA Disasters Portal Interactive Map https://gis.earthdata.nasa.gov/portal/apps/mapviewer/index.html?webmap=0c3d77dd5aae46e4829d9a282477615c"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Conflict Ecology"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment"
+  ],
+  "dct_subject_sm": [
+    "damage assessment"
+  ],
+  "dct_spatial_sm": [
+    "Venezuela (Bolivarian Republic of)"
+  ],
+  "locn_geometry": "ENVELOPE(-73.3, -59.76, 12.16, 0.72)",
+  "dcat_bbox": "ENVELOPE(-73.3, -59.76, 12.16, 0.72)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/sentinel-1-likelihood-of-damaged-structures-experimental-for-the-venezuela-earthquake-june-2026\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/222eef8e-c4fe-46b2-a3d5-bb4b90cf872b/resource/31b7bc3d-8579-4ee3-a7ce-018129d31189/download/emsr884_damage_confidence_20260701_v1.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/222eef8e-c4fe-46b2-a3d5-bb4b90cf872b/resource/31b7bc3d-8579-4ee3-a7ce-018129d31189/download/emsr884_damage_confidence_20260701_v1.geojson\"}"
+}

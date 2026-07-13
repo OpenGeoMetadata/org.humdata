@@ -18,7 +18,10 @@ class MapperTest < Minitest::Test
     refs = JSON.parse(mapped['dct_references_s'])
 
     assert_equal "https://example.com/data.geojson", refs['http://geojson.org/geojson-spec.html']
-    assert_equal "https://example.com/data.geojson", refs['http://schema.org/downloadUrl']
+    expected_download = [
+      { "url" => "https://example.com/data.geojson", "label" => "GeoJSON" }
+    ]
+    assert_equal expected_download, refs['http://schema.org/downloadUrl']
   end
 
   def test_mapper_does_not_add_geojson_reference_without_geojson_resource
@@ -36,7 +39,10 @@ class MapperTest < Minitest::Test
     refs = JSON.parse(mapped['dct_references_s'])
 
     refute refs.key?('http://geojson.org/geojson-spec.html')
-    assert_equal "https://example.com/data.zip", refs['http://schema.org/downloadUrl']
+    expected_download = [
+      { "url" => "https://example.com/data.zip", "label" => "Shapefile" }
+    ]
+    assert_equal expected_download, refs['http://schema.org/downloadUrl']
   end
 
   def test_mapper_adds_geojson_reference_when_mixed_resources
@@ -58,7 +64,32 @@ class MapperTest < Minitest::Test
     refs = JSON.parse(mapped['dct_references_s'])
 
     assert_equal "https://example.com/data.geojson", refs['http://geojson.org/geojson-spec.html']
-    assert_equal "https://example.com/data.zip", refs['http://schema.org/downloadUrl']
+    expected_download = [
+      { "url" => "https://example.com/data.zip", "label" => "Shapefile" },
+      { "url" => "https://example.com/data.geojson", "label" => "GeoJSON" }
+    ]
+    assert_equal expected_download, refs['http://schema.org/downloadUrl']
+  end
+
+  def test_mapper_concatenates_name_and_format_for_download_url_labels
+    dataset = {
+      "id" => "test-dataset-concat",
+      "title" => "Test Concat Labels",
+      "resources" => [
+        {
+          "name" => "hti_AccessConstraintSeverity_Jan-Sep2024.xls",
+          "format" => "XLS",
+          "download_url" => "https://example.com/hti_AccessConstraintSeverity_Jan-Sep2024.xls"
+        }
+      ]
+    }
+    mapped = Mapper.map(dataset)
+    refs = JSON.parse(mapped['dct_references_s'])
+
+    expected_download = [
+      { "url" => "https://example.com/hti_AccessConstraintSeverity_Jan-Sep2024.xls", "label" => "hti_AccessConstraintSeverity_Jan-Sep2024.xls (XLS)" }
+    ]
+    assert_equal expected_download, refs['http://schema.org/downloadUrl']
   end
 
   def test_mapper_does_not_add_geojson_reference_zipped_geojson

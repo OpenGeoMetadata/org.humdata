@@ -1,7 +1,7 @@
 {
   "id": "hdx-e2d935de-e7cb-41ab-827f-95495fadde0a",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-12T10:40:58Z",
+  "gbl_mdModified_dt": "2026-07-14T10:47:58Z",
   "dct_title_s": "Somalia Regions hit by 2012 Tropical Cyclone Murjan",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2012
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/icpac-geonode-somalia-regions-hit-by-2012-tropical-cyclone-murjan\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aa__2012_TC_Murjan&outputFormat=json&srs=EPSG%3A4326&srsName=EPSG%3A4326\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/icpac-geonode-somalia-regions-hit-by-2012-tropical-cyclone-murjan\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aa__2012_TC_Murjan&outputFormat=csv&srs=EPSG%3A4326\",\"label\":\"Somalia Regions hit by 2012 Tropical Cyclone Murjan CSV (CSV)\"},{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aa__2012_TC_Murjan&outputFormat=excel&srs=EPSG%3A4326\",\"label\":\"Somalia Regions hit by 2012 Tropical Cyclone Murjan Excel (XLSX)\"},{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aa__2012_TC_Murjan&outputFormat=json&srs=EPSG%3A4326&srsName=EPSG%3A4326\",\"label\":\"Somalia Regions hit by 2012 Tropical Cyclone Murjan GeoJSON (GeoJSON)\"},{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aa__2012_TC_Murjan&outputFormat=SHAPE-ZIP&srs=EPSG%3A4326&format_options=charset%3AUTF-8\",\"label\":\"Somalia Regions hit by 2012 Tropical Cyclone Murjan Zipped Shapefile (SHP)\"}]}"
 }

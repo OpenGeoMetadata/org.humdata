@@ -1,7 +1,7 @@
 {
   "id": "hdx-23c6c259-2d90-4730-9ba3-7dcf0ea7931a",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-12T09:08:42Z",
+  "gbl_mdModified_dt": "2026-07-14T09:06:38Z",
   "dct_title_s": "Myanmar Low-Lying Areas",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2019
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-myanmar-low-lying-areas\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:below5m_shp\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-myanmar-low-lying-areas\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?format_options=charset%3AUTF-8&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature&typename=geonode:below5m_shp\",\"label\":\"Myanmar Low-Lying Areas shapefile (SHP)\"},{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:below5m_shp\",\"label\":\"Myanmar Low-Lying Areas geojson (GeoJSON)\"}]}"
 }

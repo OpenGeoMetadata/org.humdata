@@ -1,7 +1,7 @@
 {
   "id": "hdx-3c758d10-53c6-4dc3-b430-aa9bfd3fcea4",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-12T09:25:02Z",
+  "gbl_mdModified_dt": "2026-07-14T09:25:07Z",
   "dct_title_s": "Historical Hurricane Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     1842
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-historical-hurricane-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:historical_harricane_tracks\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-historical-hurricane-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?format_options=charset%3AUTF-8&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature&typename=geonode:historical_harricane_tracks\",\"label\":\"Historical Hurricane Tracks shapefile (SHP)\"},{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:historical_harricane_tracks\",\"label\":\"Historical Hurricane Tracks geojson (GeoJSON)\"}]}"
 }

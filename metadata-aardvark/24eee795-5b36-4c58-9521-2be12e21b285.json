@@ -1,0 +1,48 @@
+{
+  "id": "hdx-24eee795-5b36-4c58-9521-2be12e21b285",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-07-14T17:12:34Z",
+  "dct_title_s": "GRID3 COD - Settlement Extents v4.0",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "The GRID3 COD - Settlement Extents v4.0 dataset consists of a geographic representation of settlements in the Democratic Republic of the Congo. Settlement extents are further delineated into settlement blocks nested within urban and small settlement areas, generated from integrated road, railway, river, settlement extents, building footprints, and remote-sensing inputs. Each block is enriched with morphological, environmental, and building metrics. This version supersedes GRID3 COD - Settlement Extents v3.1. The following changes were made: Creation of blocks in urban and semi-urban areas; Removal of hamlets and edge-blocks with zero-building count unless settlement has been confirmed through fieldwork; and Change of data schema Dataset citation Center for Integrated Earth System Information (CIESIN), Columbia University. 2026. GRID3 COD - Settlement Extents v4.0. New York: Columbia University. [downlod URL] . Accessed [DAY MONTH YEAR]. Contacts and data queries The authors of this dataset appreciate feedback regarding the data, including suggestions, discovery of errors, difficulties in using the data, and format preferences. For dataset-related questions, please send an email to: info@ciesin.columbia.edu"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Center for Integrated Earth System Information (CIESIN), Columbia University"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_spatial_sm": [
+    "Democratic Republic of the Congo"
+  ],
+  "dct_temporal_sm": [
+    "2016-2025"
+  ],
+  "gbl_indexYear_im": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "dct_format_s": "PDF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-cod-settlement-extents-v4-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/24eee795-5b36-4c58-9521-2be12e21b285/resource/ec5fcef9-5699-4450-9be7-d9a659775efc/download/grid3-cod-settlement-extents-v4.0-data-release-notes.pdf\",\"label\":\"GRID3 COD - Settlement Extents v4.0 - Data Release Notes.pdf (PDF)\"},{\"url\":\"https://data.humdata.org/dataset/24eee795-5b36-4c58-9521-2be12e21b285/resource/6bd78568-9e58-4e99-8495-da9d26142c19/download/grid3_cod_settlement_extents_v4.gpkg\",\"label\":\"grid3_cod_settlement_extents_v4.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/24eee795-5b36-4c58-9521-2be12e21b285/resource/1dfb714a-f6c9-4aab-8e45-8f1f406ef35a/download/grid3_cod_settlement_extents_v4.xml\",\"label\":\"grid3_cod_settlement_extents_v4.xml (XML)\"}]}"
+}

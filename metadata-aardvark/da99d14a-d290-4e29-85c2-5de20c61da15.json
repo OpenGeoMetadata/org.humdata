@@ -1,7 +1,7 @@
 {
   "id": "hdx-da99d14a-d290-4e29-85c2-5de20c61da15",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-12T10:38:15Z",
+  "gbl_mdModified_dt": "2026-07-14T10:30:13Z",
   "dct_title_s": "Zambia Current Situation FEWS NET Acute Food Insecurity Classifications Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -41,5 +41,5 @@
     2017
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/zambia_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=ZM&scenario=CS&collection_date=2017-10-01&format=geojson\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/zambia_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=ZM&scenario=CS&format=xlsx\",\"label\":\"Zambia Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011 (XLSX)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=ZM&scenario=CS&format=csv\",\"label\":\"Zambia Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011 (CSV)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=ZM&scenario=CS&format=json\",\"label\":\"Zambia Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011 (JSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=ZM&scenario=CS&collection_date=2017-10-01&format=geojson\",\"label\":\"Zambia Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011 (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=ZM&scenario=CS&collection_date=2017-10-01&format=kml\",\"label\":\"Zambia Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011 (KML)\"}]}"
 }

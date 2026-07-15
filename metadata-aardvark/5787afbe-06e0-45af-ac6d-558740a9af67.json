@@ -1,7 +1,7 @@
 {
   "id": "hdx-5787afbe-06e0-45af-ac6d-558740a9af67",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-12T09:35:37Z",
+  "gbl_mdModified_dt": "2026-07-14T09:30:40Z",
   "dct_title_s": "UNHCR Presence",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -35,5 +35,5 @@
     2020
   ],
   "dct_format_s": "KMZ",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/unhcr-presence\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://gis.unhcr.org/arcgis/rest/services/core_v2/wrl_marker_presence_p_unhcr/MapServer/kml/mapImage.kmz\",\"label\":\"KMZ\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/unhcr-presence\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://gis.unhcr.org/arcgis/rest/services/core_v2/wrl_marker_presence_p_unhcr/FeatureServer\",\"label\":\"UNHCR Presence REST API (API)\"},{\"url\":\"https://gis.unhcr.org/arcgis/rest/services/core_v2/wrl_marker_presence_p_unhcr/MapServer/kml/mapImage.kmz\",\"label\":\"UNHCR Presence Google Earth (KMZ)\"},{\"url\":\"https://gis.unhcr.org/arcgis/rest/directories/arcgisoutput/qgis_layers/wrl_marker_presence_p_unhcr.qlr\",\"label\":\"UNHCR Presence QGIS (QGIS)\"},{\"url\":\"https://unhcr.maps.arcgis.com/sharing/rest/content/items/7d567cb94c10451980f839ae4ad0a221/item.pitem\",\"label\":\"UNHCR Presence ArcMap (ESRI ArcMap Project File)\"},{\"url\":\"https://arcgis.com/home/item.html?id=7d567cb94c10451980f839ae4ad0a221\",\"label\":\"UNHCR Presence ArcGIS Online (HTML)\"},{\"url\":\"https://unhcr.maps.arcgis.com/sharing/rest/content/items/7d567cb94c10451980f839ae4ad0a221/item.pitemx\",\"label\":\"UNHCR Presence ArcGIS Pro (Web App)\"}]}"
 }

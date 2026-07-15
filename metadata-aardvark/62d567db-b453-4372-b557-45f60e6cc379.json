@@ -1,0 +1,43 @@
+{
+  "id": "hdx-62d567db-b453-4372-b557-45f60e6cc379",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-07-14T21:22:38Z",
+  "dct_title_s": "Peru - Earthquake on Jul 14 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000t0a3](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000t0a3) Magnitude 5.6 earthquake at 140.088 depth occurred on Jul 14 2026 12km NW of Santa Lucia De Pichigua. The epicentre of the earthquake was located at latitude -14.5779 longitude -71.4358. It impacted 132777 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Peru"
+  ],
+  "locn_geometry": "ENVELOPE(-81.41, -68.67, -0.06, -18.35)",
+  "dcat_bbox": "ENVELOPE(-81.41, -68.67, -0.06, -18.35)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/per-earthquake-sm-us7000t0a3\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/62d567db-b453-4372-b557-45f60e6cc379/resource/6444b936-82ae-4469-b3db-36a60281362b/download/per_wfpadam_earthquake_20260714.geojson\",\"label\":\"per_wfpadam_earthquake_20260714.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/62d567db-b453-4372-b557-45f60e6cc379/resource/3ac6eadb-84d5-49a5-adcb-56f46a91fc3a/download/per_wfpadam_earthquake_20260714.csv\",\"label\":\"per_wfpadam_earthquake_20260714.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/62d567db-b453-4372-b557-45f60e6cc379/resource/be2202f7-b256-4a37-a751-a44ad28f03c1/download/per_wfpadam_earthquake_20260714.xlsx\",\"label\":\"per_wfpadam_earthquake_20260714.xlsx (XLSX)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/62d567db-b453-4372-b557-45f60e6cc379/resource/6444b936-82ae-4469-b3db-36a60281362b/download/per_wfpadam_earthquake_20260714.geojson\"}"
+}

@@ -1,7 +1,7 @@
 {
   "id": "hdx-c41b0ba9-f4f5-4301-a0ef-6d223b053bb7",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-12T10:33:20Z",
+  "gbl_mdModified_dt": "2026-07-14T10:30:28Z",
   "dct_title_s": "Tropical Cyclones hitting Somali Districts for the period(1984-2020)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -73,5 +73,5 @@
     2020
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/icpac-geonode-tropical-cyclones-hitting-somali-districts-for-the-period-1984-2020\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3ASOM_TCmergedADMIN2_UNSOS_OCT2016_27012022&outputFormat=json&srs=EPSG%3A4326&srsName=EPSG%3A4326\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/icpac-geonode-tropical-cyclones-hitting-somali-districts-for-the-period-1984-2020\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3ASOM_TCmergedADMIN2_UNSOS_OCT2016_27012022&outputFormat=csv&srs=EPSG%3A4326\",\"label\":\"Tropical Cyclones hitting Somali Districts for the period(1984-2020) CSV (CSV)\"},{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3ASOM_TCmergedADMIN2_UNSOS_OCT2016_27012022&outputFormat=excel&srs=EPSG%3A4326\",\"label\":\"Tropical Cyclones hitting Somali Districts for the period(1984-2020) Excel (XLSX)\"},{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3ASOM_TCmergedADMIN2_UNSOS_OCT2016_27012022&outputFormat=json&srs=EPSG%3A4326&srsName=EPSG%3A4326\",\"label\":\"Tropical Cyclones hitting Somali Districts for the period(1984-2020) GeoJSON (GeoJSON)\"},{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3ASOM_TCmergedADMIN2_UNSOS_OCT2016_27012022&outputFormat=SHAPE-ZIP&srs=EPSG%3A4326&format_options=charset%3AUTF-8\",\"label\":\"Tropical Cyclones hitting Somali Districts for the period(1984-2020) Zipped Shapefile (SHP)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-1dbc27dc-0214-43ed-a706-c9ace1261711",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-12T09:06:49Z",
+  "gbl_mdModified_dt": "2026-07-14T09:11:14Z",
   "dct_title_s": "Somalia Regions hit by 2018 Tropical Cyclone Sagar",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2022
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/icpac-geonode-somalia-regions-hit-by-2018-tropical-cyclone-sagar\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aa__2018_TC_Sagar&outputFormat=json&srs=EPSG%3A4326&srsName=EPSG%3A4326\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/icpac-geonode-somalia-regions-hit-by-2018-tropical-cyclone-sagar\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aa__2018_TC_Sagar&outputFormat=csv&srs=EPSG%3A4326\",\"label\":\"Somalia Regions hit by 2018 Tropical Cyclone Sagar CSV (CSV)\"},{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aa__2018_TC_Sagar&outputFormat=excel&srs=EPSG%3A4326\",\"label\":\"Somalia Regions hit by 2018 Tropical Cyclone Sagar Excel (XLSX)\"},{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aa__2018_TC_Sagar&outputFormat=json&srs=EPSG%3A4326&srsName=EPSG%3A4326\",\"label\":\"Somalia Regions hit by 2018 Tropical Cyclone Sagar GeoJSON (GeoJSON)\"},{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aa__2018_TC_Sagar&outputFormat=SHAPE-ZIP&srs=EPSG%3A4326&format_options=charset%3AUTF-8\",\"label\":\"Somalia Regions hit by 2018 Tropical Cyclone Sagar Zipped Shapefile (SHP)\"}]}"
 }

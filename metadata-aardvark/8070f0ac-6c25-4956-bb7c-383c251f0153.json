@@ -1,7 +1,7 @@
 {
   "id": "hdx-8070f0ac-6c25-4956-bb7c-383c251f0153",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-12T09:57:33Z",
+  "gbl_mdModified_dt": "2026-07-14T09:53:42Z",
   "dct_title_s": "Border Crossing Points",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -35,5 +35,5 @@
     2021
   ],
   "dct_format_s": "KMZ",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/border-crossing-points\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://gis.unhcr.org/arcgis/rest/services/core_v2/wrl_marker_crossing_p_unhcr/MapServer/kml/mapImage.kmz\",\"label\":\"KMZ\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/border-crossing-points\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://gis.unhcr.org/arcgis/rest/services/core_v2/wrl_marker_crossing_p_unhcr/MapServer\",\"label\":\"Border Crossing Points REST API (API)\"},{\"url\":\"https://gis.unhcr.org/arcgis/rest/services/core_v2/wrl_marker_crossing_p_unhcr/MapServer/kml/mapImage.kmz\",\"label\":\"Border Crossing Points Google Earth (KMZ)\"},{\"url\":\"https://gis.unhcr.org/arcgis/rest/directories/arcgisoutput/qgis_layers/wrl_marker_crossing_p_unhcr.qlr\",\"label\":\"Border Crossing Points QGIS (QGIS)\"},{\"url\":\"https://unhcr.maps.arcgis.com/sharing/rest/content/items/3d00a76764c64d358670fda76fe9b33d/item.pitem\",\"label\":\"Border Crossing Points ArcMap (ESRI ArcMap Project File)\"},{\"url\":\"https://arcgis.com/home/item.html?id=3d00a76764c64d358670fda76fe9b33d\",\"label\":\"Border Crossing Points ArcGIS Online (HTML)\"},{\"url\":\"https://unhcr.maps.arcgis.com/sharing/rest/content/items/3d00a76764c64d358670fda76fe9b33d/item.pitemx\",\"label\":\"Border Crossing Points ArcGIS Pro (Web App)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-310f5bd8-0727-441e-9fc9-bb4505d6a19c",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-12T09:29:58Z",
+  "gbl_mdModified_dt": "2026-07-14T09:25:15Z",
   "dct_title_s": "USGS Magnitude 2.5+ Earthquakes",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -41,5 +41,5 @@
     2023
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/usgs-magnitude-2-5-earthquakes\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/usgs-magnitude-2-5-earthquakes\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.geojson\",\"label\":\"USGS Magnitude 2.5+ Earthquakes, Past Day (geojson) (GeoJSON)\"},{\"url\":\"https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.csv\",\"label\":\"USGS Magnitude 2.5+ Earthquakes, Past Day (csv) (CSV)\"},{\"url\":\"https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_week.geojson\",\"label\":\"USGS Magnitude 2.5+ Earthquakes, Past Week (geojson) (GeoJSON)\"},{\"url\":\"https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_week.csv\",\"label\":\"USGS Magnitude 2.5+ Earthquakes, Past Week (csv) (CSV)\"}],\"http://geojson.org/geojson-spec.html\":\"https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.geojson\"}"
 }

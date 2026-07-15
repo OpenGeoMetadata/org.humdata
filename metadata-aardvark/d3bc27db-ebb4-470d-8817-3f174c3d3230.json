@@ -1,7 +1,7 @@
 {
   "id": "hdx-d3bc27db-ebb4-470d-8817-3f174c3d3230",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-12T10:38:25Z",
+  "gbl_mdModified_dt": "2026-07-14T10:30:25Z",
   "dct_title_s": "Somalia Regions hit by 1994 Tropical Cyclone 05A",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     1994
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/icpac-geonode-somalia-regions-hit-by-1994-tropical-cyclone-05a\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aa__1994_TC_05A&outputFormat=json&srs=EPSG%3A4326&srsName=EPSG%3A4326\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/icpac-geonode-somalia-regions-hit-by-1994-tropical-cyclone-05a\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aa__1994_TC_05A&outputFormat=csv&srs=EPSG%3A4326\",\"label\":\"Somalia Regions hit by 1994 Tropical Cyclone 05A CSV (CSV)\"},{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aa__1994_TC_05A&outputFormat=excel&srs=EPSG%3A4326\",\"label\":\"Somalia Regions hit by 1994 Tropical Cyclone 05A Excel (XLSX)\"},{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aa__1994_TC_05A&outputFormat=json&srs=EPSG%3A4326&srsName=EPSG%3A4326\",\"label\":\"Somalia Regions hit by 1994 Tropical Cyclone 05A GeoJSON (GeoJSON)\"},{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aa__1994_TC_05A&outputFormat=SHAPE-ZIP&srs=EPSG%3A4326&format_options=charset%3AUTF-8\",\"label\":\"Somalia Regions hit by 1994 Tropical Cyclone 05A Zipped Shapefile (SHP)\"}]}"
 }

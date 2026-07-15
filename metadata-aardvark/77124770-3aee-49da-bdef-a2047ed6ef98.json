@@ -1,7 +1,7 @@
 {
   "id": "hdx-77124770-3aee-49da-bdef-a2047ed6ef98",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-12T09:50:45Z",
+  "gbl_mdModified_dt": "2026-07-14T09:52:26Z",
   "dct_title_s": "Tropical Cyclones hitting Somali Regions for the period(1984-2020)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -73,5 +73,5 @@
     2020
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/icpac-geonode-tropical-cyclones-hitting-somali-regions-for-the-period-1984-2020\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3ASOM_TCmergedADMIN1_UNSOS_OCT2016_27012022&outputFormat=json&srs=EPSG%3A4326&srsName=EPSG%3A4326\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/icpac-geonode-tropical-cyclones-hitting-somali-regions-for-the-period-1984-2020\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3ASOM_TCmergedADMIN1_UNSOS_OCT2016_27012022&outputFormat=SHAPE-ZIP&srs=EPSG%3A4326&format_options=charset%3AUTF-8\",\"label\":\"Tropical Cyclones hitting Somali Regions for the period(1984-2020) Zipped Shapefile (SHP)\"},{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3ASOM_TCmergedADMIN1_UNSOS_OCT2016_27012022&outputFormat=csv&srs=EPSG%3A4326\",\"label\":\"Tropical Cyclones hitting Somali Regions for the period(1984-2020) CSV (CSV)\"},{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3ASOM_TCmergedADMIN1_UNSOS_OCT2016_27012022&outputFormat=excel&srs=EPSG%3A4326\",\"label\":\"Tropical Cyclones hitting Somali Regions for the period(1984-2020) Excel (XLSX)\"},{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3ASOM_TCmergedADMIN1_UNSOS_OCT2016_27012022&outputFormat=json&srs=EPSG%3A4326&srsName=EPSG%3A4326\",\"label\":\"Tropical Cyclones hitting Somali Regions for the period(1984-2020) GeoJSON (GeoJSON)\"}]}"
 }

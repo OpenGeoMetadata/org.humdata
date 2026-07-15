@@ -1,7 +1,7 @@
 {
   "id": "hdx-d1a266bd-485a-4894-aa15-cfbd84e70731",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-12T10:38:20Z",
+  "gbl_mdModified_dt": "2026-07-14T10:30:21Z",
   "dct_title_s": "Tanintharyi Region Village Tract Boundaries MIMU v9.4",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2023
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-tanintharyi-region-village-tract-boundaries-mimu\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_tni_polbnda_adm4_unhcr_mimu_250k\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-tanintharyi-region-village-tract-boundaries-mimu\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?format_options=charset%3AUTF-8&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature&typename=geonode:mmr_tni_polbnda_adm4_unhcr_mimu_250k\",\"label\":\"Tanintharyi Region Village Tract Boundaries MIMU v9.4 shapefile (SHP)\"},{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_tni_polbnda_adm4_unhcr_mimu_250k\",\"label\":\"Tanintharyi Region Village Tract Boundaries MIMU v9.4 geojson (GeoJSON)\"}]}"
 }

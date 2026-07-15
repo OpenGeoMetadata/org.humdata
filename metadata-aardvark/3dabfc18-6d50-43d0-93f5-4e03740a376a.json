@@ -1,7 +1,7 @@
 {
   "id": "hdx-3dabfc18-6d50-43d0-93f5-4e03740a376a",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-12T09:24:53Z",
+  "gbl_mdModified_dt": "2026-07-14T09:24:56Z",
   "dct_title_s": "2015 Tropical Cyclone Megh Path",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2015
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/icpac-geonode-2015-tropical-cyclone-megh-path\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aa__2015_TC_Megh&outputFormat=json&srs=EPSG%3A4326&srsName=EPSG%3A4326\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/icpac-geonode-2015-tropical-cyclone-megh-path\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aa__2015_TC_Megh&outputFormat=SHAPE-ZIP&srs=EPSG%3A4326&format_options=charset%3AUTF-8\",\"label\":\"2015 Tropical Cyclone Megh Path Zipped Shapefile (SHP)\"},{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aa__2015_TC_Megh&outputFormat=csv&srs=EPSG%3A4326\",\"label\":\"2015 Tropical Cyclone Megh Path CSV (CSV)\"},{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aa__2015_TC_Megh&outputFormat=excel&srs=EPSG%3A4326\",\"label\":\"2015 Tropical Cyclone Megh Path Excel (XLSX)\"},{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aa__2015_TC_Megh&outputFormat=json&srs=EPSG%3A4326&srsName=EPSG%3A4326\",\"label\":\"2015 Tropical Cyclone Megh Path GeoJSON (GeoJSON)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-4b35710d-b744-4f89-ae95-71866f57cae4",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-12T09:30:14Z",
+  "gbl_mdModified_dt": "2026-07-14T09:32:39Z",
   "dct_title_s": "Shan State Village Tract Boundaries MIMU v9.4",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2023
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-shan-state-village-tract-boundaries-mimu\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_shn_polbnda_adm4_250k_mimu_1\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-shan-state-village-tract-boundaries-mimu\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?format_options=charset%3AUTF-8&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature&typename=geonode:mmr_shn_polbnda_adm4_250k_mimu_1\",\"label\":\"Shan State Village Tract Boundaries MIMU v9.4 shapefile (SHP)\"},{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_shn_polbnda_adm4_250k_mimu_1\",\"label\":\"Shan State Village Tract Boundaries MIMU v9.4 geojson (GeoJSON)\"}]}"
 }

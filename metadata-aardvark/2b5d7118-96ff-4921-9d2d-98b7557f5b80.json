@@ -1,7 +1,7 @@
 {
   "id": "hdx-2b5d7118-96ff-4921-9d2d-98b7557f5b80",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-12T09:08:26Z",
+  "gbl_mdModified_dt": "2026-07-14T09:08:16Z",
   "dct_title_s": "Global - MODIS Active Fire Detections",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -43,5 +43,5 @@
     2000
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/nasa-firms-active-fire-global-modis\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/kml/MODIS_C6_1_Global_24h.kml\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/nasa-firms-active-fire-global-modis\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/shapes/zips/MODIS_C6_1_Global_24h.zip\",\"label\":\"MODIS C6.1 (Terra/Aqua) - 24h (SHP) (SHP)\"},{\"url\":\"https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/shapes/zips/MODIS_C6_1_Global_48h.zip\",\"label\":\"MODIS C6.1 (Terra/Aqua) - 48h (SHP) (SHP)\"},{\"url\":\"https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/shapes/zips/MODIS_C6_1_Global_7d.zip\",\"label\":\"MODIS C6.1 (Terra/Aqua) - 7d (SHP) (SHP)\"},{\"url\":\"https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/kml/MODIS_C6_1_Global_24h.kml\",\"label\":\"MODIS C6.1 (Terra/Aqua) - 24h (KML) (KML)\"},{\"url\":\"https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/kml/MODIS_C6_1_Global_48h.kml\",\"label\":\"MODIS C6.1 (Terra/Aqua) - 48h (KML) (KML)\"},{\"url\":\"https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/kml/MODIS_C6_1_Global_7d.kml\",\"label\":\"MODIS C6.1 (Terra/Aqua) - 7d (KML) (KML)\"},{\"url\":\"https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/csv/MODIS_C6_1_Global_24h.csv\",\"label\":\"MODIS C6.1 (Terra/Aqua) - 24h (CSV) (CSV)\"},{\"url\":\"https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/csv/MODIS_C6_1_Global_48h.csv\",\"label\":\"MODIS C6.1 (Terra/Aqua) - 48h (CSV) (CSV)\"},{\"url\":\"https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/csv/MODIS_C6_1_Global_7d.csv\",\"label\":\"MODIS C6.1 (Terra/Aqua) - 7d (CSV) (CSV)\"}]}"
 }

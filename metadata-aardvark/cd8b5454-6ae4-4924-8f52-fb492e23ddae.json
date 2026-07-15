@@ -1,7 +1,7 @@
 {
   "id": "hdx-cd8b5454-6ae4-4924-8f52-fb492e23ddae",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-12T10:33:13Z",
+  "gbl_mdModified_dt": "2026-07-14T10:30:23Z",
   "dct_title_s": "Kayin State Village Tract Boundaries MIMU v9.4",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2023
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-kayin-state-village-tract-boundaries-mimu\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_kyn_polbnda_adm4_unhcr_mimu_250k\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-kayin-state-village-tract-boundaries-mimu\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?format_options=charset%3AUTF-8&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature&typename=geonode:mmr_kyn_polbnda_adm4_unhcr_mimu_250k\",\"label\":\"Kayin State Village Tract Boundaries MIMU v9.4 shapefile (SHP)\"},{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_kyn_polbnda_adm4_unhcr_mimu_250k\",\"label\":\"Kayin State Village Tract Boundaries MIMU v9.4 geojson (GeoJSON)\"}]}"
 }

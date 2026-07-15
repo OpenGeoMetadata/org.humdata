@@ -1,7 +1,7 @@
 {
   "id": "hdx-a8d71376-1dad-4783-8b63-6d477e805e14",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-12T10:18:23Z",
+  "gbl_mdModified_dt": "2026-07-14T10:20:37Z",
   "dct_title_s": "Yangon Region Village Tract Boundaries MIMU v9.4",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2023
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-yangon-region-village-tract-boundaries-mimu\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_ygn_polbnda_adm4_mimu_250k_1\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-yangon-region-village-tract-boundaries-mimu\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?format_options=charset%3AUTF-8&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature&typename=geonode:mmr_ygn_polbnda_adm4_mimu_250k_1\",\"label\":\"Yangon Region Village Tract Boundaries MIMU v9.4 shapefile (SHP)\"},{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:mmr_ygn_polbnda_adm4_mimu_250k_1\",\"label\":\"Yangon Region Village Tract Boundaries MIMU v9.4 geojson (GeoJSON)\"}]}"
 }

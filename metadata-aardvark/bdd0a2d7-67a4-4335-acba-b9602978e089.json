@@ -1,7 +1,7 @@
 {
   "id": "hdx-bdd0a2d7-67a4-4335-acba-b9602978e089",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-12T10:17:32Z",
+  "gbl_mdModified_dt": "2026-07-14T10:13:18Z",
   "dct_title_s": "UNHCR Population Reference Points (PRP)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2021
   ],
   "dct_format_s": "KMZ",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/unhcr-population-reference-points-prp\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://gis.unhcr.org/arcgis/rest/services/core_v2/wrl_prp_p_unhcr_ALL/MapServer/kml/mapImage.kmz\",\"label\":\"KMZ\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/unhcr-population-reference-points-prp\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://gis.unhcr.org/arcgis/rest/directories/arcgisoutput/qgis_layers/wrl_prp_p_unhcr_ALL.qlr\",\"label\":\"UNHCR Population Reference Points (PRP)  QGIS (QGIS)\"},{\"url\":\"https://unhcr.maps.arcgis.com/sharing/rest/content/items/9776c546d0e6474e9d04aa2ac9873ed1/item.pitemx\",\"label\":\"UNHCR Population Reference Points (PRP) ArcGIS Pro (ESRI ArcMap Project File)\"},{\"url\":\"https://unhcr.maps.arcgis.com/sharing/rest/content/items/9776c546d0e6474e9d04aa2ac9873ed1/item.pitem\",\"label\":\"UNHCR Population Reference Points (PRP) ArcMap (ESRI ArcMap Project File)\"},{\"url\":\"https://arcgis.com/home/item.html?id=9776c546d0e6474e9d04aa2ac9873ed1\",\"label\":\"UNHCR Population Reference Points (PRP) ArcGIS Online | (HTML)\"},{\"url\":\"https://gis.unhcr.org/arcgis/rest/services/core_v2/wrl_prp_p_unhcr_ALL/MapServer/kml/mapImage.kmz\",\"label\":\"UNHCR Population Reference Points (PRP) Google Earth (KMZ)\"},{\"url\":\"https://gis.unhcr.org/arcgis/rest/services/core_v2/wrl_prp_p_unhcr_ALL/MapServer\",\"label\":\"UNHCR Population Reference Points (PRP) REST API (API)\"}]}"
 }

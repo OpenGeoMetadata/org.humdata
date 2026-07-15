@@ -1,7 +1,7 @@
 {
   "id": "hdx-7d2d85f9-236f-4717-8ba1-1adb3a562366",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-10T09:48:39Z",
+  "gbl_mdModified_dt": "2026-07-14T09:52:12Z",
   "dct_title_s": "South Sudan Current Situation FEWS NET Acute Food Insecurity Classifications Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -49,5 +49,5 @@
     2025
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/south_sudan_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=SS&scenario=CS&collection_date=2022-02-01&format=geojson\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/south_sudan_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=SS&scenario=CS&format=xlsx\",\"label\":\"South Sudan Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011 (XLSX)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=SS&scenario=CS&format=csv\",\"label\":\"South Sudan Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011 (CSV)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=SS&scenario=CS&format=json\",\"label\":\"South Sudan Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011 (JSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=SS&scenario=CS&collection_date=2022-02-01&format=geojson\",\"label\":\"South Sudan Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011 (GeoJSON)\"}]}"
 }

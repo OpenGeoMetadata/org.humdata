@@ -1,0 +1,43 @@
+{
+  "id": "hdx-22df8c5c-e78f-4524-97e9-fa69480dec04",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-07-14T21:22:31Z",
+  "dct_title_s": "Philippines - Earthquake on Jul 14 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000t0d0](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000t0d0) Magnitude 6.2 earthquake at 67.854 depth occurred on Jul 14 2026 30km W of Sarangani. The epicentre of the earthquake was located at latitude 5.3269 longitude 125.1655. It impacted 92971 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "locn_geometry": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dcat_bbox": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/phl-earthquake-sm-us7000t0d0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/22df8c5c-e78f-4524-97e9-fa69480dec04/resource/a60857f4-42c0-4b8a-82f9-e8b2355d1a84/download/phl_wfpadam_earthquake_20260714.geojson\",\"label\":\"phl_wfpadam_earthquake_20260714.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/22df8c5c-e78f-4524-97e9-fa69480dec04/resource/32bd5bfd-d43f-4996-afc9-16f80fb35573/download/phl_wfpadam_earthquake_20260714.csv\",\"label\":\"phl_wfpadam_earthquake_20260714.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/22df8c5c-e78f-4524-97e9-fa69480dec04/resource/bbdd12a2-dd20-43f4-b1b7-39b163b07d5f/download/phl_wfpadam_earthquake_20260714.xlsx\",\"label\":\"phl_wfpadam_earthquake_20260714.xlsx (XLSX)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/22df8c5c-e78f-4524-97e9-fa69480dec04/resource/a60857f4-42c0-4b8a-82f9-e8b2355d1a84/download/phl_wfpadam_earthquake_20260714.geojson\"}"
+}

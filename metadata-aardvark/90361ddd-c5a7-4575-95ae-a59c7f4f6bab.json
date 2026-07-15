@@ -1,7 +1,7 @@
 {
   "id": "hdx-90361ddd-c5a7-4575-95ae-a59c7f4f6bab",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-12T10:11:56Z",
+  "gbl_mdModified_dt": "2026-07-14T10:13:14Z",
   "dct_title_s": "Somalia Regions hit by 1992 Tropical Cyclone 12A",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     1992
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/icpac-geonode-somalia-regions-hit-by-1992-tropical-cyclone-12a\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aa__1992_TC_12A&outputFormat=json&srs=EPSG%3A4326&srsName=EPSG%3A4326\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/icpac-geonode-somalia-regions-hit-by-1992-tropical-cyclone-12a\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aa__1992_TC_12A&outputFormat=SHAPE-ZIP&srs=EPSG%3A4326&format_options=charset%3AUTF-8\",\"label\":\"Somalia Regions hit by 1992 Tropical Cyclone 12A Zipped Shapefile (SHP)\"},{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aa__1992_TC_12A&outputFormat=csv&srs=EPSG%3A4326\",\"label\":\"Somalia Regions hit by 1992 Tropical Cyclone 12A CSV (CSV)\"},{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aa__1992_TC_12A&outputFormat=excel&srs=EPSG%3A4326\",\"label\":\"Somalia Regions hit by 1992 Tropical Cyclone 12A Excel (XLSX)\"},{\"url\":\"https://geoportal.icpac.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aa__1992_TC_12A&outputFormat=json&srs=EPSG%3A4326&srsName=EPSG%3A4326\",\"label\":\"Somalia Regions hit by 1992 Tropical Cyclone 12A GeoJSON (GeoJSON)\"}]}"
 }

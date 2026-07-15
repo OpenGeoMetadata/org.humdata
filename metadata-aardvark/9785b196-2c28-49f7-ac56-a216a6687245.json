@@ -1,7 +1,7 @@
 {
   "id": "hdx-9785b196-2c28-49f7-ac56-a216a6687245",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-12T10:11:52Z",
+  "gbl_mdModified_dt": "2026-07-14T10:13:11Z",
   "dct_title_s": "Non-authoritative zones of Myanmar inscribed UNESCO World Heritage Sites",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -35,5 +35,5 @@
     2020
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-non-authoritative-zones-of-myanmar-inscribed-unesco-world-heritage-sites\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:unesco_world_heritage_sites_myanmar_2020\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mimu-geonode-non-authoritative-zones-of-myanmar-inscribed-unesco-world-heritage-sites\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?format_options=charset%3AUTF-8&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature&typename=geonode:unesco_world_heritage_sites_myanmar_2020\",\"label\":\"Non-authoritative zones of Myanmar inscribed UNESCO World Heritage Sites shapefile (SHP)\"},{\"url\":\"https://geonode.themimu.info/geoserver/geonode/ows?service=WFS&version=1.0.0&request=GetFeature&outputFormat=application%2Fjson&typeName=geonode:unesco_world_heritage_sites_myanmar_2020\",\"label\":\"Non-authoritative zones of Myanmar inscribed UNESCO World Heritage Sites geojson (GeoJSON)\"}]}"
 }

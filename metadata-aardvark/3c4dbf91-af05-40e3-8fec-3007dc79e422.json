@@ -1,0 +1,41 @@
+{
+  "id": "hdx-3c4dbf91-af05-40e3-8fec-3007dc79e422",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-07-15T21:23:05Z",
+  "dct_title_s": "Fiji - Earthquake on Jul 14 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000t0hk](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000t0hk) Magnitude 5.5 earthquake at 574.304 depth occurred on Jul 14 2026 25km E of Ono-I-Lau. The epicentre of the earthquake was located at latitude -20.748 longitude -178.5092. It impacted 16 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Fiji"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, -16.02, -18.29)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, -16.02, -18.29)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/fji-earthquake-sm-us7000t0hk\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/3c4dbf91-af05-40e3-8fec-3007dc79e422/resource/db62abf8-37c5-4ae4-be78-59e7140fc4e9/download/fji_wfpadam_earthquake_20260714.geojson\",\"label\":\"fji_wfpadam_earthquake_20260714.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/3c4dbf91-af05-40e3-8fec-3007dc79e422/resource/db62abf8-37c5-4ae4-be78-59e7140fc4e9/download/fji_wfpadam_earthquake_20260714.geojson\"}"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "hdx-49163b17-c6e6-4f99-a5da-95b8c7bc130e",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-07-16T15:23:52Z",
+  "dct_title_s": "Large Scale International Boundaries (LSIB) dataset",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "The Office of the Geographer and Global Issues at the U.S. Department of State produces the Large Scale International Boundaries (LSIB) dataset. The current edition is version 11.4 (published 24 February 2025). These data and generalized derivatives are the only international boundary lines approved for U.S. Government use. The contents of this dataset reflect U.S. Government policy on international boundary alignment, political recognition, and dispute status. They do not necessarily reflect de facto limits of control. Sources for these data include treaties, relevant maps, and data from boundary commissions and national mapping agencies. Where available and applicable, the dataset incorporates information from courts, tribunals, and international arbitrations. The research and recovery process involves analysis of satellite imagery and elevation data. Due to the limitations of source materials and processing techniques, most lines are within 100 meters of their true position on the ground. For more information please see: https://geodata.state.gov/geonetwork/srv/eng/catalog.search#/metadata/3bdb81a0-c1b9-439a-a0b1-85dac30c59b2"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "U.S. Department of State "
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2020-2025"
+  ],
+  "gbl_indexYear_im": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/large-scale-international-boundaries-lsib-dataset\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/49163b17-c6e6-4f99-a5da-95b8c7bc130e/resource/898feb8a-a128-48ba-bfb9-3df1a2efcf3b/download/lsib.zip\",\"label\":\"LSIB.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/49163b17-c6e6-4f99-a5da-95b8c7bc130e/resource/1bd7cdac-f04a-4690-b851-fcea88d5d3c2/download/lsib.txt\",\"label\":\"LSIB.txt (TXT)\"},{\"url\":\"https://data.humdata.org/dataset/49163b17-c6e6-4f99-a5da-95b8c7bc130e/resource/e933231d-7459-4308-8537-b9eea8522cf3/download/lsib.zip\",\"label\":\"LSIB.zip (SHP)\"}]}"
+}

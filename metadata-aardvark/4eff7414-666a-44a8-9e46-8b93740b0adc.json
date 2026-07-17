@@ -1,7 +1,7 @@
 {
   "id": "hdx-4eff7414-666a-44a8-9e46-8b93740b0adc",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-12T09:30:07Z",
+  "gbl_mdModified_dt": "2026-07-16T09:32:29Z",
   "dct_title_s": "Zimbabwe Current Situation FEWS NET Acute Food Insecurity Classifications Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -49,5 +49,5 @@
     2025
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/zimbabwe_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=ZW&scenario=CS&collection_date=2022-06-01&format=geojson\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/zimbabwe_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=ZW&scenario=CS&format=xlsx\",\"label\":\"Zimbabwe Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011 (XLSX)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=ZW&scenario=CS&format=csv\",\"label\":\"Zimbabwe Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011 (CSV)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=ZW&scenario=CS&format=json\",\"label\":\"Zimbabwe Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011 (JSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=ZW&scenario=CS&collection_date=2022-06-01&format=geojson\",\"label\":\"Zimbabwe Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011 (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=ZW&scenario=CS&collection_date=2022-06-01&format=kml\",\"label\":\"Zimbabwe Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011 (KML)\"}]}"
 }

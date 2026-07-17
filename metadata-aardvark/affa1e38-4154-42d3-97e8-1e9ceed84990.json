@@ -1,7 +1,7 @@
 {
   "id": "hdx-affa1e38-4154-42d3-97e8-1e9ceed84990",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-12T10:18:21Z",
+  "gbl_mdModified_dt": "2026-07-16T10:21:10Z",
   "dct_title_s": "Nigeria Current Situation FEWS NET Acute Food Insecurity Classifications Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -49,5 +49,5 @@
     2025
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/nigeria_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=NG&scenario=CS&collection_date=2022-02-01&format=geojson\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/nigeria_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=NG&scenario=CS&format=xlsx\",\"label\":\"Nigeria Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011 (XLSX)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=NG&scenario=CS&format=csv\",\"label\":\"Nigeria Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011 (CSV)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=NG&scenario=CS&format=json\",\"label\":\"Nigeria Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011 (JSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=NG&scenario=CS&collection_date=2022-02-01&format=geojson\",\"label\":\"Nigeria Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011 (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=NG&scenario=CS&collection_date=2022-02-01&format=kml\",\"label\":\"Nigeria Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011 (KML)\"}]}"
 }

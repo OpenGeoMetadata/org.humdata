@@ -1,7 +1,7 @@
 {
   "id": "hdx-f79255a2-c225-4a03-b8bb-2b36f5466cb6",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-12T10:53:41Z",
+  "gbl_mdModified_dt": "2026-07-16T10:53:35Z",
   "dct_title_s": "Sudan Current Situation FEWS NET Acute Food Insecurity Classifications Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -41,5 +41,5 @@
     2024
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/sudan_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=SD&scenario=CS&collection_date=2022-06-01&format=geojson\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/sudan_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=SD&scenario=CS&format=xlsx\",\"label\":\"Sudan Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2018 (XLSX)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=SD&scenario=CS&format=csv\",\"label\":\"Sudan Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2018 (CSV)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=SD&scenario=CS&format=json\",\"label\":\"Sudan Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2018 (JSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=SD&scenario=CS&collection_date=2022-06-01&format=geojson\",\"label\":\"Sudan Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2018 (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=SD&scenario=CS&collection_date=2022-06-01&format=kml\",\"label\":\"Sudan Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2018 (KML)\"}]}"
 }

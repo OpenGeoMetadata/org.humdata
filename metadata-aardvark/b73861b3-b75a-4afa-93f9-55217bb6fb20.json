@@ -1,7 +1,7 @@
 {
   "id": "hdx-b73861b3-b75a-4afa-93f9-55217bb6fb20",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-12T10:17:46Z",
+  "gbl_mdModified_dt": "2026-07-16T10:15:31Z",
   "dct_title_s": "Liberia Current Situation FEWS NET Acute Food Insecurity Classifications Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2017
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/liberia_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=LR&scenario=CS&collection_date=2017-02-01&format=geojson\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/liberia_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=LR&scenario=CS&format=xlsx\",\"label\":\"Liberia Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2015 (XLSX)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=LR&scenario=CS&format=csv\",\"label\":\"Liberia Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2015 (CSV)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=LR&scenario=CS&format=json\",\"label\":\"Liberia Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2015 (JSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=LR&scenario=CS&collection_date=2017-02-01&format=geojson\",\"label\":\"Liberia Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2015 (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=LR&scenario=CS&collection_date=2017-02-01&format=kml\",\"label\":\"Liberia Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2015 (KML)\"}]}"
 }

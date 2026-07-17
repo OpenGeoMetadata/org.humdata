@@ -1,7 +1,7 @@
 {
   "id": "hdx-5997ff07-0f86-48b3-bc2b-c9f7319fd7cd",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-12T09:36:14Z",
+  "gbl_mdModified_dt": "2026-07-16T09:32:33Z",
   "dct_title_s": "Burkina Faso Current Situation FEWS NET Acute Food Insecurity Classifications Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -49,5 +49,5 @@
     2025
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/burkina_faso_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=BF&scenario=CS&collection_date=2022-06-01&format=geojson\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/burkina_faso_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=BF&scenario=CS&format=xlsx\",\"label\":\"Burkina Faso Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011 (XLSX)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=BF&scenario=CS&format=csv\",\"label\":\"Burkina Faso Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011 (CSV)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=BF&scenario=CS&format=json\",\"label\":\"Burkina Faso Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011 (JSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=BF&scenario=CS&collection_date=2022-06-01&format=geojson\",\"label\":\"Burkina Faso Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011 (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=BF&scenario=CS&collection_date=2022-06-01&format=kml\",\"label\":\"Burkina Faso Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011 (KML)\"}]}"
 }

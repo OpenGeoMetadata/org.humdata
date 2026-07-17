@@ -1,7 +1,7 @@
 {
   "id": "hdx-0a0781a7-1749-463b-9439-793c33e405e3",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-12T09:14:46Z",
+  "gbl_mdModified_dt": "2026-07-16T09:10:40Z",
   "dct_title_s": "Haiti Current Situation FEWS NET Acute Food Insecurity Classifications Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -49,5 +49,5 @@
     2025
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/haiti_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=HT&scenario=CS&collection_date=2022-06-01&format=geojson\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/haiti_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=HT&scenario=CS&format=xlsx\",\"label\":\"Haiti Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011 (XLSX)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=HT&scenario=CS&format=csv\",\"label\":\"Haiti Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011 (CSV)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=HT&scenario=CS&format=json\",\"label\":\"Haiti Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011 (JSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=HT&scenario=CS&collection_date=2022-06-01&format=geojson\",\"label\":\"Haiti Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011 (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=HT&scenario=CS&collection_date=2022-06-01&format=kml\",\"label\":\"Haiti Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2011 (KML)\"}]}"
 }

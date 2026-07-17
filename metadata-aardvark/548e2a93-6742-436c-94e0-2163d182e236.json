@@ -1,7 +1,7 @@
 {
   "id": "hdx-548e2a93-6742-436c-94e0-2163d182e236",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-12T09:36:13Z",
+  "gbl_mdModified_dt": "2026-07-16T09:32:38Z",
   "dct_title_s": "Cameroon Current Situation FEWS NET Acute Food Insecurity Classifications Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -40,5 +40,5 @@
     2025
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cameroon_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=CM&scenario=CS&collection_date=2022-06-01&format=geojson\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cameroon_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=CM&scenario=CS&format=xlsx\",\"label\":\"Cameroon Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2020 (XLSX)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=CM&scenario=CS&format=csv\",\"label\":\"Cameroon Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2020 (CSV)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=CM&scenario=CS&format=json\",\"label\":\"Cameroon Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2020 (JSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=CM&scenario=CS&collection_date=2022-06-01&format=geojson\",\"label\":\"Cameroon Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2020 (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=CM&scenario=CS&collection_date=2022-06-01&format=kml\",\"label\":\"Cameroon Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2020 (KML)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-a47722dc-0db6-4274-b3e4-dbf3853281a3",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-12T10:18:20Z",
+  "gbl_mdModified_dt": "2026-07-16T10:21:10Z",
   "dct_title_s": "Yemen Current Situation FEWS NET Acute Food Insecurity Classifications Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -46,5 +46,5 @@
     2025
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/yemen_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=YE&scenario=CS&collection_date=2022-06-01&format=geojson\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/yemen_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=YE&scenario=CS&format=xlsx\",\"label\":\"Yemen Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2014 (XLSX)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=YE&scenario=CS&format=csv\",\"label\":\"Yemen Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2014 (CSV)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=YE&scenario=CS&format=json\",\"label\":\"Yemen Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2014 (JSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=YE&scenario=CS&collection_date=2022-06-01&format=geojson\",\"label\":\"Yemen Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2014 (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=YE&scenario=CS&collection_date=2022-06-01&format=kml\",\"label\":\"Yemen Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2014 (KML)\"}]}"
 }

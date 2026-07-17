@@ -1,7 +1,7 @@
 {
   "id": "hdx-5a561f2d-4556-4666-a8cb-c942820520a5",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-12T09:36:13Z",
+  "gbl_mdModified_dt": "2026-07-16T09:32:38Z",
   "dct_title_s": "Sierra Leone Current Situation FEWS NET Acute Food Insecurity Classifications Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -36,5 +36,5 @@
     2016
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/sierra_leone_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=SL&scenario=CS&collection_date=2016-10-01&format=geojson\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/sierra_leone_current_situation_fewsnet_ipc_classification\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=SL&scenario=CS&format=xlsx\",\"label\":\"Sierra Leone Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2015 (XLSX)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=SL&scenario=CS&format=csv\",\"label\":\"Sierra Leone Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2015 (CSV)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase/?preference=best&country=SL&scenario=CS&format=json\",\"label\":\"Sierra Leone Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2015 (JSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/?country=SL&scenario=CS&collection_date=2016-10-01&format=geojson\",\"label\":\"Sierra Leone Current Situation FEWS NET Acute Food Insecurity Classifications Data from 2015 (GeoJSON)\"}]}"
 }

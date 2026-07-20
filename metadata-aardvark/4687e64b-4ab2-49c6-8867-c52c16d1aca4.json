@@ -1,0 +1,43 @@
+{
+  "id": "hdx-4687e64b-4ab2-49c6-8867-c52c16d1aca4",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-07-20T01:56:22Z",
+  "dct_title_s": "Peru - Earthquake on Jul 19 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000t1q7](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000t1q7) Magnitude 5.5 earthquake at 10.0 depth occurred on Jul 19 2026 3km NW of Chupaca. The epicentre of the earthquake was located at latitude -12.0429 longitude -75.3013. It impacted 93228 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Peru"
+  ],
+  "locn_geometry": "ENVELOPE(-81.41, -68.67, -0.06, -18.35)",
+  "dcat_bbox": "ENVELOPE(-81.41, -68.67, -0.06, -18.35)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/per-earthquake-sm-us7000t1q7\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/4687e64b-4ab2-49c6-8867-c52c16d1aca4/resource/2b91b30a-924d-452b-a650-8cb3644c65af/download/per_wfpadam_earthquake_20260719.geojson\",\"label\":\"per_wfpadam_earthquake_20260719.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/4687e64b-4ab2-49c6-8867-c52c16d1aca4/resource/b9e4c81d-0eb1-4d42-af26-8c5af4915373/download/per_wfpadam_earthquake_20260719.csv\",\"label\":\"per_wfpadam_earthquake_20260719.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/4687e64b-4ab2-49c6-8867-c52c16d1aca4/resource/34c3b37f-230e-4ab4-9aec-74a4517f5665/download/per_wfpadam_earthquake_20260719.xlsx\",\"label\":\"per_wfpadam_earthquake_20260719.xlsx (XLSX)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/4687e64b-4ab2-49c6-8867-c52c16d1aca4/resource/2b91b30a-924d-452b-a650-8cb3644c65af/download/per_wfpadam_earthquake_20260719.geojson\"}"
+}

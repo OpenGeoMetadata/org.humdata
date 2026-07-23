@@ -1,10 +1,11 @@
 {
   "archived": true,
+  "batch": "23f5e6e6-0d62-4d5e-9ed9-66c4fb67fd5d",
   "caveats": "**Recommended citations**\r\n\r\nBondarenko M., Priyatikanto R., Sorichetta A., and Tatem A.J.. 2023 *Gridded population estimates for Turkey using UN COD-PS estimates 2021, version 1.0*. WorldPop  University of Southampton. doi:10.5258/SOTON/WP00758\r\n",
   "creator_user_id": "ec60abc6-22cf-426d-9bc4-de3873043339",
   "data_update_frequency": "-1",
   "dataset_date": "[2021-01-01T00:00:00 TO 2021-12-31T23:59:59]",
-  "dataset_preview": "first_resource",
+  "dataset_preview": "no_preview",
   "dataset_source": "WorldPop",
   "has_geodata": true,
   "has_showcases": false,
@@ -17,7 +18,7 @@
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "ec60abc6-22cf-426d-9bc4-de3873043339",
   "metadata_created": "2023-02-24T15:31:07.887775",
-  "metadata_modified": "2025-08-26T15:52:10.741502",
+  "metadata_modified": "2026-07-22T08:05:22.085611",
   "methodology": "Other",
   "methodology_other": "These results were produced using subnational population estimates for Turkey in 2021 provided in the Common Operational Dataset on Population Statistics ([COD-PS](https://data.humdata.org/dataset/cod-ps-tur))",
   "name": "gridded-population-estimates-for-turkey-using-un-cod-ps-estimates-2021-version-1-0",
@@ -38,7 +39,7 @@
   },
   "owner_org": "3f077dff-1d05-484d-a7c2-4cb620f22689",
   "package_creator": "bondarenkom",
-  "pageviews_last_14_days": 6,
+  "pageviews_last_14_days": 1,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"T\\u00fcrkiye\"]}",
@@ -50,11 +51,6 @@
   "updated_by_script": "HDXINTERNAL:HDXPythonLibrary/6.3.2-RenameDatasets (2025-07-30T14:27:42.863512)",
   "url": null,
   "version": null,
-  "customviz": [
-    {
-      "url": "https://data.worldpop.org/repo/lf/visual/tur_v1/"
-    }
-  ],
   "groups": [
     {
       "description": "",

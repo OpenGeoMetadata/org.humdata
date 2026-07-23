@@ -1,5 +1,6 @@
 {
   "archived": true,
+  "batch": "23f5e6e6-0d62-4d5e-9ed9-66c4fb67fd5d",
   "creator_user_id": "ec60abc6-22cf-426d-9bc4-de3873043339",
   "data_update_frequency": "-1",
   "dataset_date": "[2022-03-28T00:00:00 TO *]",
@@ -16,7 +17,7 @@
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "ec60abc6-22cf-426d-9bc4-de3873043339",
   "metadata_created": "2022-03-30T16:12:26.133944",
-  "metadata_modified": "2025-08-26T14:27:39.728714",
+  "metadata_modified": "2026-07-22T08:02:58.670631",
   "methodology": "Census",
   "name": "gridded-population-estimates-for-ukraine-using-un-cod-ps-estimates-2020-version-2-0",
   "notes": "These data were produced by [ WorldPop](https://www.worldpop.org/) at the University of Southampton and the ‘Smart Cities and Spatial Development’ team at the German Remote Sensing Data Center (DFD) of the [German Aerospace Center](https://www.dlr.de/) (DLR). These data include gridded estimates of population at approximately 100m and 1km resolution for 2020, along with estimates of the number of people belonging to individual age-gender groups. These results were produced using subnational population estimates for Ukraine in 2020 provided in the Common Operational Dataset on Population Statistics ([COD-PS](https://data.humdata.org/dataset/cod-ps-ukr))  and building height/area/fraction/volume covariates extracted from the World Settlement Footprint (WSF) imperviousness and WSF-3D by [DLR](https://www.dlr.de/). The constrained [top-down](https://www.worldpop.org/methods/populations) disaggregation method was used to produce the datasets. The modelling work and geospatial data processing was led by Bondarenko M., Palacios-Lopez D., Sorichetta A., Leasure D.R., ,Zeidler J., Marconcini M., and Esch T.. Oversight was provided by Tatem A.J. Internal WorldPop peer reviews that helped to improve the results and documentation was provided by Lazar A.N.. \r\n\r\n**Main data sources**\r\n\r\n - The German Aerospace Centre’s (DLR) WSF imperviousness and WSF 3D products (WSF-3D). \r\n - Subnational population estimates for Ukraine in 2020 provided in the Common Operational Dataset on Population Statistics (COD-PS). The subnational population estimates were produced using baseline information from the 2001 Population Census of Ukraine and annual birth and death registration data since then.\r\n - Subnational Administrative Boundaries for Ukraine provided by OCHA .\r\n - Geospatial covariate layers available at WorldPop.\r\n\r\nFor further details, please, read the [Release Statement](https://data.worldpop.org/repo/wopr/UKR/v2/constrained/UKR_population_v2_0_README.pdf).\r\n\r\n**Release content**\r\n\r\n1.\tukr_pop_2020_100m_constrained_v2.zip \r\n2.\tukr_pop_2020_1km_constrained_v2.zip \r\n3.\tukr_agegender_2020_100m_constrained_v2.zip \r\n4.\tukr_agegender_2020_1km_constrained_v2.zip \r\n5.\tukr_agegender_0_18_2020_100m_constrained_v2.zip\r\n6.\tukr_agegender_0_18_2020_1km_constrained_v2.zip\r\n\r\n**Recommended citations**\r\n\r\nBondarenko M., Palacios-Lopez D., Sorichetta A., Leasure D.R., Zeidler J., Marconcini, M., Esch T., and Tatem A.J. 2022 *Gridded population estimates for Ukraine using UN COD-PS estimates 2020, version 2.0*. WorldPop and DLR, University of Southampton. doi:10.5258/SOTON/WP00735\r\n\r\n**License**\r\n\r\n*These data may be distributed using a Creative Commons Attribution 4.0 International (CC BY 4.0) License, specified in legal code. Contact release[at]worldpop.org for more information*.\r\n\r\nThe authors followed rigorous procedures designed to ensure that the used data, the applied method and thus the results are appropriate and of reasonable quality. If users encounter apparent errors or misstatements, they should contact WorldPop at release[at]worldpop.org.\r\n\r\n[WorldPop](https://www.worldpop.org/), University of Southampton, and their sponsors offer these data on a \"where is, as is\" basis; do not offer an express or implied warranty of any kind; do not guarantee the quality, applicability, accuracy, reliability or completeness of any data provided; and shall not be liable for incidental, consequential, or special damages arising out of the use of any data that they offer.\r\n\r\n\r\n",
@@ -36,7 +37,7 @@
   },
   "owner_org": "3f077dff-1d05-484d-a7c2-4cb620f22689",
   "package_creator": "bondarenkom",
-  "pageviews_last_14_days": 3,
+  "pageviews_last_14_days": 1,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Ukraine\"]}",
@@ -48,11 +49,6 @@
   "updated_by_script": "HDXINTERNAL:HDXPythonLibrary/6.3.2-RenameDatasets (2025-07-30T14:27:39.118346)",
   "url": null,
   "version": null,
-  "customviz": [
-    {
-      "url": "https://data.worldpop.org/repo/lf/visual/ukr_v2/"
-    }
-  ],
   "groups": [
     {
       "description": "",

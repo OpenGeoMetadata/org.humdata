@@ -1,10 +1,11 @@
 {
   "archived": true,
+  "batch": "23f5e6e6-0d62-4d5e-9ed9-66c4fb67fd5d",
   "caveats": "CITATION\r\nBondarenko M., Leasure D.R., and Tatem A.J. 2023 Gridded population estimates for Sudan using UN COD-PS estimates 2022, version 2.0. WorldPop, University of Southampton. doi:10.5258/SOTON/WP00761",
   "creator_user_id": "ec60abc6-22cf-426d-9bc4-de3873043339",
   "data_update_frequency": "-1",
   "dataset_date": "[2023-05-08T00:00:00 TO *]",
-  "dataset_preview": "first_resource",
+  "dataset_preview": "no_preview",
   "dataset_source": "WorldPop",
   "has_geodata": true,
   "has_showcases": false,
@@ -17,7 +18,7 @@
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "ec60abc6-22cf-426d-9bc4-de3873043339",
   "metadata_created": "2023-05-08T20:33:43.049189",
-  "metadata_modified": "2025-08-26T13:10:05.587100",
+  "metadata_modified": "2026-07-22T08:00:38.851788",
   "methodology": "Other",
   "methodology_other": "These results were produced using subnational population estimates for Sudan in 2022 provided in the Common Operational Dataset on Population Statistics ([COD-PS](https://data.humdata.org/dataset/cod-ps-sdn))  and built-up surfaces/volumes covariates extracted from [GHSL datasets](https://ghsl.jrc.ec.europa.eu/download.php); GHS-BUILT-Surface epoch 2020 layer , combined with  [Digitize Africa building footprints](http://digitizeafrica.ai/), were used to delineate settled areas. The constrained top-down disaggregation method was used to produce the datasets, i.e. population was only estimated within areas classified as containing built settlement. ",
   "name": "gridded-population-estimates-for-sudan-using-un-cod-ps-estimates-2022-v2",
@@ -38,7 +39,7 @@
   },
   "owner_org": "3f077dff-1d05-484d-a7c2-4cb620f22689",
   "package_creator": "bondarenkom",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 1,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Sudan\"]}",
@@ -50,11 +51,6 @@
   "updated_by_script": "HDXINTERNAL:HDXPythonLibrary/6.3.2-RenameDatasets (2025-07-30T14:27:43.467677)",
   "url": null,
   "version": null,
-  "customviz": [
-    {
-      "url": "https://data.worldpop.org/repo/lf/visual/sdn_v2/"
-    }
-  ],
   "groups": [
     {
       "description": "",

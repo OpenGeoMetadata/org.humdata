@@ -1,10 +1,10 @@
 {
   "archived": true,
-  "batch": "0dd7391f-9bc3-42c1-bba1-d8322d3d1d28",
+  "batch": "0d43284c-8115-49b7-b0d5-6499c647e115",
   "creator_user_id": "33c6fc24-c087-4d95-be56-8fd4dc6a24fe",
   "data_update_frequency": "-1",
   "dataset_date": "[2018-10-20T00:00:00 TO 2019-02-28T23:59:59]",
-  "dataset_preview": "resource_id",
+  "dataset_preview": "no_preview",
   "dataset_source": "International Organization for Migration",
   "has_geodata": true,
   "has_showcases": true,
@@ -17,7 +17,7 @@
   "license_title": "Other",
   "maintainer": "33c6fc24-c087-4d95-be56-8fd4dc6a24fe",
   "metadata_created": "2018-12-04T20:18:00.538577",
-  "metadata_modified": "2025-05-05T11:16:51.767770",
+  "metadata_modified": "2026-07-22T07:57:44.516999",
   "methodology": "Other",
   "methodology_other": "Mixed methodology: census, key informant interviews, registration.",
   "name": "vanuatu-displacement-data-manaro-2018-iom-dtm",
@@ -45,16 +45,11 @@
   "state": "active",
   "subnational": "1",
   "title": "Vanuatu Displacement Data - Manaro 2018-2019 [IOM DTM]",
-  "total_res_downloads": 393,
+  "total_res_downloads": 423,
   "type": "dataset",
   "updated_by_script": "hdxinternal:HDXPythonLibrary/6.3.1-hdx-cli-toolkit (2024-09-13T11:50:08.957896)",
   "url": null,
   "version": null,
-  "customviz": [
-    {
-      "url": "https://tools.humdata.org/quickcharts/app/show;url=https:%2F%2Fdata.humdata.org%2Fdataset%2F2fb4c164-7312-44c2-9850-009efae2f620%2Fresource%2F66ecc982-bc91-45bb-b400-49295fd7f1e8%2Fdownload%2Fdtm-vanuatu-manaro-round-4-displacement-return-dataset-2019-02.xlsx;embeddedSource=undefined;embeddedUrl=undefined;embeddedDate=undefined;embeddedConfig=%7B%22configVersion%22:5,%22bites%22:%5B%7B%22tempShowSaveCancelButtons%22:false,%22ingredient%22:%7B%22aggregateColumn%22:null,%22valueColumn%22:%22%23affected%2Bind%22,%22aggregateFunction%22:%22sum%22,%22dateColumn%22:null,%22comparisonValueColumn%22:null,%22comparisonOperator%22:null,%22filters%22:%7B%7D,%22description%22:%22%22%7D,%22type%22:%22key%20figure%22,%22errorMsg%22:null,%22computedProperties%22:%7B%22explainedFiltersMap%22:%7B%7D,%22title%22:%22Sum%20of%20individuals%22,%22dataTitle%22:%22individuals%22,%22unit%22:%22k%22%7D,%22uiProperties%22:%7B%22internalColorPattern%22:%5B%22%231ebfb3%22,%22%230077ce%22,%22%23f2645a%22,%22%239C27B0%22%5D,%22title%22:%22Total%20Affected%22%7D,%22dataProperties%22:%7B%7D,%22displayCategory%22:%22Key%20Figures%22,%22hashCode%22:-1075286970%7D,%7B%22tempShowSaveCancelButtons%22:false,%22ingredient%22:%7B%22aggregateColumn%22:%22%23adm1%2Bname%22,%22valueColumn%22:%22%23affected%2Bind%22,%22aggregateFunction%22:%22sum%22,%22dateColumn%22:null,%22comparisonValueColumn%22:null,%22comparisonOperator%22:null,%22filters%22:%7B%7D,%22description%22:%22%22%7D,%22type%22:%22chart%22,%22errorMsg%22:null,%22computedProperties%22:%7B%22explainedFiltersMap%22:%7B%7D,%22pieChart%22:true,%22title%22:%22Sum%20of%20individuals%20by%20province%22,%22dataTitle%22:%22individuals%22%7D,%22uiProperties%22:%7B%22swapAxis%22:true,%22showGrid%22:false,%22color%22:%22%231ebfb3%22,%22sortingByValue1%22:%22DESC%22,%22sortingByCategory1%22:null,%22internalColorPattern%22:%5B%22%231ebfb3%22,%22%230077ce%22,%22%23f2645a%22,%22%239C27B0%22%5D,%22title%22:%22Affected%20By%20Province%22%7D,%22dataProperties%22:%7B%7D,%22displayCategory%22:%22Charts%22,%22hashCode%22:-1512025959%7D,%7B%22tempShowSaveCancelButtons%22:false,%22ingredient%22:%7B%22aggregateColumn%22:%22%23adm2%2Bname%22,%22valueColumn%22:%22%23affected%2Bind%22,%22aggregateFunction%22:%22sum%22,%22dateColumn%22:null,%22comparisonValueColumn%22:null,%22comparisonOperator%22:null,%22filters%22:%7B%7D,%22description%22:%22%22%7D,%22type%22:%22chart%22,%22errorMsg%22:null,%22computedProperties%22:%7B%22explainedFiltersMap%22:%7B%7D,%22pieChart%22:false,%22title%22:%22Sum%20of%20individuals%20by%20area%22,%22dataTitle%22:%22individuals%22%7D,%22uiProperties%22:%7B%22swapAxis%22:true,%22showGrid%22:false,%22color%22:%22%230062B2%22,%22sortingByValue1%22:%22DESC%22,%22sortingByCategory1%22:null,%22internalColorPattern%22:%5B%22%231ebfb3%22,%22%230077ce%22,%22%23f2645a%22,%22%239C27B0%22%5D,%22title%22:%22Affected%20By%20Area%22%7D,%22dataProperties%22:%7B%7D,%22displayCategory%22:%22Charts%22,%22hashCode%22:-1483396808%7D%5D,%22cookbookName%22:%22generic%22%7D;embeddedTitle=Quick%20Charts;recipeUrl=https:%2F%2Fraw.githubusercontent.com%2FOCHA-DAP%2Fhxl-recipes%2F1.0.7%2Fcookbook-library.json;sample=false;externalCss=https:%2F%2Focha-dap.github.io%2Fcustom-styles%2Fquickcharts%2Fhide-blue-header.css"
-    }
-  ],
   "groups": [
     {
       "description": "",

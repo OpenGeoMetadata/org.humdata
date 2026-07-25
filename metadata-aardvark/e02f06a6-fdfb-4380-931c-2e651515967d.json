@@ -1,0 +1,43 @@
+{
+  "id": "hdx-e02f06a6-fdfb-4380-931c-2e651515967d",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-07-24T21:23:28Z",
+  "dct_title_s": "Indonesia - Earthquake on Jul 24 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000t30r](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000t30r) Magnitude 5.4 earthquake at 10.0 depth occurred on Jul 24 2026 26km SE of Waff. The epicentre of the earthquake was located at latitude -2.5572 longitude 138.8159. It impacted 7206 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Indonesia"
+  ],
+  "locn_geometry": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dcat_bbox": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/idn-earthquake-sm-us7000t30r\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e02f06a6-fdfb-4380-931c-2e651515967d/resource/f21c2fcd-39e8-41c0-ac29-579f69c3b539/download/idn_wfpadam_earthquake_20260724.geojson\",\"label\":\"idn_wfpadam_earthquake_20260724.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/e02f06a6-fdfb-4380-931c-2e651515967d/resource/60f48729-2072-4dc4-8110-38f224f6c5ec/download/idn_wfpadam_earthquake_20260724.csv\",\"label\":\"idn_wfpadam_earthquake_20260724.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/e02f06a6-fdfb-4380-931c-2e651515967d/resource/2abfa842-b720-4e6c-b8ac-b8f96ae83eca/download/idn_wfpadam_earthquake_20260724.xlsx\",\"label\":\"idn_wfpadam_earthquake_20260724.xlsx (XLSX)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/e02f06a6-fdfb-4380-931c-2e651515967d/resource/f21c2fcd-39e8-41c0-ac29-579f69c3b539/download/idn_wfpadam_earthquake_20260724.geojson\"}"
+}

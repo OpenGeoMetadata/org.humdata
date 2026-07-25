@@ -1,7 +1,7 @@
 {
   "id": "hdx-541982db-4fd9-4bd5-95b3-6cdf06d12e0a",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-23T15:24:07Z",
+  "gbl_mdModified_dt": "2026-07-24T15:00:13Z",
   "dct_title_s": "United States of America - GLIDE Disaster Events",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -47,7 +47,7 @@
   "locn_geometry": "ENVELOPE(-125.0, -66.96, 49.5, 25.0)",
   "dcat_bbox": "ENVELOPE(-125.0, -66.96, 49.5, 25.0)",
   "dct_temporal_sm": [
-    "1965-2025"
+    "1965-2026"
   ],
   "gbl_indexYear_im": [
     1965,
@@ -110,7 +110,8 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/usa-glide-events\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/541982db-4fd9-4bd5-95b3-6cdf06d12e0a/resource/d7b0d9b1-5800-4868-b49b-3452b776ba62/download/usa_glide_events.csv\",\"label\":\"usa_glide_events.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/541982db-4fd9-4bd5-95b3-6cdf06d12e0a/resource/7a138cea-fbc7-496a-a811-9b5c52e5fd8f/download/usa_glide_events.geojson\",\"label\":\"usa_glide_events.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/541982db-4fd9-4bd5-95b3-6cdf06d12e0a/resource/7a138cea-fbc7-496a-a811-9b5c52e5fd8f/download/usa_glide_events.geojson\"}"

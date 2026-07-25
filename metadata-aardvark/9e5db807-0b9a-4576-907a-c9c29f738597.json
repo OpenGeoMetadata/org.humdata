@@ -1,0 +1,43 @@
+{
+  "id": "hdx-9e5db807-0b9a-4576-907a-c9c29f738597",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-07-24T21:23:22Z",
+  "dct_title_s": "Argentina - Earthquake on Jul 24 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000t36n](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000t36n) Magnitude 5.4 earthquake at 197.18 depth occurred on Jul 24 2026 47 km WNW of San Antonio de los Cobres, Argentina. The epicentre of the earthquake was located at latitude -24.0121 longitude -66.7282. It impacted 1938 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Argentina"
+  ],
+  "locn_geometry": "ENVELOPE(-73.42, -53.63, -21.83, -55.25)",
+  "dcat_bbox": "ENVELOPE(-73.42, -53.63, -21.83, -55.25)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/arg-earthquake-sm-us7000t36n\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/9e5db807-0b9a-4576-907a-c9c29f738597/resource/80ad6882-92b6-4065-babf-640243dd3a58/download/arg_wfpadam_earthquake_20260724.geojson\",\"label\":\"arg_wfpadam_earthquake_20260724.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/9e5db807-0b9a-4576-907a-c9c29f738597/resource/608b87ac-5ca5-416c-8514-a4b45c13f2c9/download/arg_wfpadam_earthquake_20260724.csv\",\"label\":\"arg_wfpadam_earthquake_20260724.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/9e5db807-0b9a-4576-907a-c9c29f738597/resource/a5de5ab7-22da-41b5-b93d-1c1d7feb6474/download/arg_wfpadam_earthquake_20260724.xlsx\",\"label\":\"arg_wfpadam_earthquake_20260724.xlsx (XLSX)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/9e5db807-0b9a-4576-907a-c9c29f738597/resource/80ad6882-92b6-4065-babf-640243dd3a58/download/arg_wfpadam_earthquake_20260724.geojson\"}"
+}

@@ -18,7 +18,7 @@
   "license_url": "http://www.opendefinition.org/licenses/cc-by-sa",
   "maintainer": "83fa9515-3ba4-4f1d-9860-f38b20f80442",
   "metadata_created": "2022-03-30T10:36:14.882777",
-  "metadata_modified": "2026-02-20T09:07:46.805147",
+  "metadata_modified": "2026-07-25T09:10:48.773227",
   "methodology": "Other",
   "methodology_other": "UNOSAT datasets and maps are produced using a variety of methods. In general, analysts closely review satellite imagery, often comparing two or more images together, and determine notable changes between the images. For damage assessments, refugee or IDP assessments, and similar analyses, these changes are then manually documented in the vector data by the analyst. For flood extractions, landcover mapping and similar analyses, a variety of automated remote sensing techniques are used to extract the relevant information which is then reviewed and revised as necessary by the analyst. In all cases, resulting data is then loaded into a standardized UNOSAT geodatabase and exported asshapefiles for dissemination.",
   "name": "water-extents-in-maganja-da-costa-namacurra-nicoadala-districts-mozambique-as-of-22-march-",
@@ -63,6 +63,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-03-30T10:36:14.906286",
@@ -74,7 +75,7 @@
       "hdx_rel_url": "https://unosat-maps.web.cern.ch/MZ/TC20220311MOZ/TC20220311MOZ_gdb.zip",
       "id": "fe61a0f7-0c63-402e-afe2-4fe6120a6a47",
       "last_modified": "2025-08-26T10:43:53.995853",
-      "metadata_modified": "2025-08-26T11:40:50.332670",
+      "metadata_modified": "2026-07-25T09:10:48.782056",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

@@ -8,7 +8,6 @@
   "dataset_preview": "first_resource",
   "dataset_source": "UN Operational Satellite Applications Programme (UNOSAT)",
   "has_geodata": true,
-  "has_quickcharts": false,
   "has_showcases": true,
   "id": "d13573a8-eb03-45ff-8f6e-9add10e4609a",
   "is_requestdata_type": false,
@@ -19,7 +18,7 @@
   "license_url": "http://www.opendefinition.org/licenses/cc-by-sa",
   "maintainer": "83fa9515-3ba4-4f1d-9860-f38b20f80442",
   "metadata_created": "2022-08-02T09:52:05.823337",
-  "metadata_modified": "2025-08-26T16:33:45.549747",
+  "metadata_modified": "2026-07-27T10:37:12.948068",
   "methodology": "Other",
   "methodology_other": "UNOSAT datasets and maps are produced using a variety of methods. In general, analysts closely review satellite imagery, often comparing two or more images together, and determine notable changes between the images. For damage assessments, refugee or IDP assessments, and similar analyses, these changes are then manually documented in the vector data by the analyst. For flood extractions, landcover mapping and similar analyses, a variety of automated remote sensing techniques are used to extract the relevant information which is then reviewed and revised as necessary by the analyst. In all cases, resulting data is then loaded into a standardized UNOSAT geodatabase and exported asshapefiles for dissemination.",
   "name": "damage-assessment-in-gyan-district-pakteka-province-as-of-24-june-2022",
@@ -64,6 +63,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-08-02T09:52:05.837033",
@@ -75,7 +75,7 @@
       "hdx_rel_url": "https://unosat-maps.web.cern.ch/AF/EQ20220622AFG/EQ20220622AFG_gdb.zip",
       "id": "d3a15028-599e-4a7b-8e14-b9162d49df73",
       "last_modified": "2025-08-26T10:43:53.995853",
-      "metadata_modified": "2025-08-26T16:33:45.563775",
+      "metadata_modified": "2026-07-27T10:37:12.963973",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

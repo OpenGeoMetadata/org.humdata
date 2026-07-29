@@ -1,7 +1,7 @@
 {
   "id": "hdx-250f4887-00f8-48b4-8c99-44c6541c5105",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-10T16:40:23Z",
+  "gbl_mdModified_dt": "2026-07-28T12:12:15Z",
   "dct_title_s": "Saint Kitts and Nevis: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -27,7 +27,7 @@
     "Saint Kitts and Nevis"
   ],
   "dct_temporal_sm": [
-    "1851-2025"
+    "1851-2026"
   ],
   "gbl_indexYear_im": [
     1851,
@@ -204,8 +204,9 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kna-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/250f4887-00f8-48b4-8c99-44c6541c5105/resource/19a40d6e-a615-419d-bf4e-f6856e1fe1a0/download/ibtracs_all_list_v04r01_lines_kna.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/250f4887-00f8-48b4-8c99-44c6541c5105/resource/19a40d6e-a615-419d-bf4e-f6856e1fe1a0/download/ibtracs_all_list_v04r01_lines_kna.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kna-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/250f4887-00f8-48b4-8c99-44c6541c5105/resource/adb37270-d788-4269-869b-683208227e71/download/ibtracs_all_list_v04r01_kna.csv\",\"label\":\"ibtracs_ALL_list_v04r01_KNA.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/250f4887-00f8-48b4-8c99-44c6541c5105/resource/19a40d6e-a615-419d-bf4e-f6856e1fe1a0/download/ibtracs_all_list_v04r01_lines_kna.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_KNA.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/250f4887-00f8-48b4-8c99-44c6541c5105/resource/19a40d6e-a615-419d-bf4e-f6856e1fe1a0/download/ibtracs_all_list_v04r01_lines_kna.geojson\"}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-94437b48-d4b1-4133-a6e0-1625c01f7c7b",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-27T02:39:55Z",
+  "gbl_mdModified_dt": "2026-07-28T14:59:14Z",
   "dct_title_s": "Chad - GLIDE Disaster Events",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -45,7 +45,7 @@
   "locn_geometry": "ENVELOPE(13.54, 23.89, 23.41, 7.42)",
   "dcat_bbox": "ENVELOPE(13.54, 23.89, 23.41, 7.42)",
   "dct_temporal_sm": [
-    "1999-2025"
+    "1999-2026"
   ],
   "gbl_indexYear_im": [
     1999,
@@ -74,7 +74,8 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/tcd-glide-events\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/94437b48-d4b1-4133-a6e0-1625c01f7c7b/resource/5d5b6e2c-ce15-4a9a-b8c8-f04dc91a035a/download/tcd_glide_events.csv\",\"label\":\"tcd_glide_events.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/94437b48-d4b1-4133-a6e0-1625c01f7c7b/resource/b48ba7b4-e4f0-4683-95bd-07e940fbf792/download/tcd_glide_events.geojson\",\"label\":\"tcd_glide_events.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/94437b48-d4b1-4133-a6e0-1625c01f7c7b/resource/b48ba7b4-e4f0-4683-95bd-07e940fbf792/download/tcd_glide_events.geojson\"}"

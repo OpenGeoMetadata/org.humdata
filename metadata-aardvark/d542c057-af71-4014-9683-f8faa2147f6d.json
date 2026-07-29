@@ -1,7 +1,7 @@
 {
   "id": "hdx-d542c057-af71-4014-9683-f8faa2147f6d",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-10T16:55:41Z",
+  "gbl_mdModified_dt": "2026-07-28T12:29:47Z",
   "dct_title_s": "British Virgin Islands: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -27,7 +27,7 @@
     "British Virgin Islands"
   ],
   "dct_temporal_sm": [
-    "1851-2025"
+    "1851-2026"
   ],
   "gbl_indexYear_im": [
     1851,
@@ -204,8 +204,9 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/vgb-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/d542c057-af71-4014-9683-f8faa2147f6d/resource/28ba1890-bfdb-402e-a9d4-8158f3d92ba7/download/ibtracs_all_list_v04r01_lines_vgb.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/d542c057-af71-4014-9683-f8faa2147f6d/resource/28ba1890-bfdb-402e-a9d4-8158f3d92ba7/download/ibtracs_all_list_v04r01_lines_vgb.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/vgb-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/d542c057-af71-4014-9683-f8faa2147f6d/resource/8ae30451-50b9-4cee-8e36-f4d08360d4d3/download/ibtracs_all_list_v04r01_vgb.csv\",\"label\":\"ibtracs_ALL_list_v04r01_VGB.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/d542c057-af71-4014-9683-f8faa2147f6d/resource/28ba1890-bfdb-402e-a9d4-8158f3d92ba7/download/ibtracs_all_list_v04r01_lines_vgb.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_VGB.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/d542c057-af71-4014-9683-f8faa2147f6d/resource/28ba1890-bfdb-402e-a9d4-8158f3d92ba7/download/ibtracs_all_list_v04r01_lines_vgb.geojson\"}"
 }

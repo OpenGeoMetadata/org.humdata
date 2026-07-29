@@ -1,0 +1,43 @@
+{
+  "id": "hdx-ffa3c7c6-1fe6-48b6-b999-204764db8f3d",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-07-28T21:23:21Z",
+  "dct_title_s": "China - Earthquake on Jul 28 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000tga6](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000tga6) Magnitude 5.8 earthquake at 10.0 depth occurred on Jul 28 2026 14km E of Huang Zhong. The epicentre of the earthquake was located at latitude 35.3745 longitude 99.5602. It impacted 12581 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "locn_geometry": "ENVELOPE(73.68, 135.03, 53.46, 18.2)",
+  "dcat_bbox": "ENVELOPE(73.68, 135.03, 53.46, 18.2)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/chn-earthquake-sm-us6000tga6\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/ffa3c7c6-1fe6-48b6-b999-204764db8f3d/resource/331118b4-7598-4981-8d44-6ba96306b03c/download/chn_wfpadam_earthquake_20260728.geojson\",\"label\":\"chn_wfpadam_earthquake_20260728.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/ffa3c7c6-1fe6-48b6-b999-204764db8f3d/resource/c8ae22f7-21ad-4c2a-875a-e577456ff0b2/download/chn_wfpadam_earthquake_20260728.csv\",\"label\":\"chn_wfpadam_earthquake_20260728.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/ffa3c7c6-1fe6-48b6-b999-204764db8f3d/resource/daa2c302-6506-46ec-875f-5c3b6da0b887/download/chn_wfpadam_earthquake_20260728.xlsx\",\"label\":\"chn_wfpadam_earthquake_20260728.xlsx (XLSX)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/ffa3c7c6-1fe6-48b6-b999-204764db8f3d/resource/331118b4-7598-4981-8d44-6ba96306b03c/download/chn_wfpadam_earthquake_20260728.geojson\"}"
+}

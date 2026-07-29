@@ -1,0 +1,53 @@
+{
+  "id": "hdx-db8702fe-7d11-484e-aed5-31b3fc32850c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-07-28T18:12:53Z",
+  "dct_title_s": "GRID3 NGA - Operational Wards v3.0",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "The GRID3 NGA - Operational Wards v3.0 dataset provides operational ward boundary polygons for 24 states in Nigeria: Abia, Adamawa, Bauchi, Bayelsa, Borno, Delta, Enugu, FCT Abuja, Gombe, Jigawa, Kaduna, Kano, Katsina, Kebbi, Kogi, Kwara, Nasarawa, Niger, Ogun, Osun, Oyo, Sokoto, Yobe, and Zamfara. This release includes both newly added states and revisions to states previously published in GRID3 NGA - Operational Wards v2.0. Version 3.0 supersedes v2.0 for Adamawa, Bauchi, Bayelsa, Borno, Delta, Gombe, Jigawa, Kano, Katsina, Kwara, Ogun, Osun, Oyo, and Yobe. For all 24 states included in Version 3.0, ward geometries were updated and ward names were harmonized to support improved spatial consistency and standardized attribution. Newly included states in this release are Abia, Enugu, FCT Abuja, Kaduna, Kebbi, Kogi, Nasarawa, Niger, Sokoto, and Zamfara. These boundaries are intended for operational use and have not yet undergone full validation by relevant government authorities."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Center for Integrated Earth System Information (CIESIN), Columbia University"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Nigeria"
+  ],
+  "locn_geometry": "ENVELOPE(2.69, 14.58, 13.87, 4.24)",
+  "dcat_bbox": "ENVELOPE(2.69, 14.58, 13.87, 4.24)",
+  "dct_temporal_sm": [
+    "2013-2025"
+  ],
+  "gbl_indexYear_im": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-nga-operational-wards-v3-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/db8702fe-7d11-484e-aed5-31b3fc32850c/resource/37e5f2c6-ec94-4060-932d-755b99dd963e/download/grid3_nga_operational_wards_v3_0.gpkg\",\"label\":\"GRID3_NGA_operational_wards_v3_0.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/db8702fe-7d11-484e-aed5-31b3fc32850c/resource/7a6fcb15-d82e-4c0f-80a9-74ac3410adb3/download/grid3-nga-operational-wards-v3.0-data-release-notes.pdf\",\"label\":\"GRID3 NGA - Operational Wards v3.0 - Data Release Notes.pdf (PDF)\"},{\"url\":\"https://data.humdata.org/dataset/db8702fe-7d11-484e-aed5-31b3fc32850c/resource/e9091660-b7ef-4262-abae-e67673446bce/download/grid3_nga_operational_wards_v3.xml\",\"label\":\"GRID3_NGA_operational_wards_v3.xml (XML)\"}]}"
+}

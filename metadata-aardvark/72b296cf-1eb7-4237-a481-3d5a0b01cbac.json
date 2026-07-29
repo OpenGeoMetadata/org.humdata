@@ -1,7 +1,7 @@
 {
   "id": "hdx-72b296cf-1eb7-4237-a481-3d5a0b01cbac",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-10T16:25:45Z",
+  "gbl_mdModified_dt": "2026-07-28T11:56:46Z",
   "dct_title_s": "Anguilla: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -27,7 +27,7 @@
     "Anguilla"
   ],
   "dct_temporal_sm": [
-    "1851-2025"
+    "1851-2026"
   ],
   "gbl_indexYear_im": [
     1851,
@@ -204,8 +204,9 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/aia-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/72b296cf-1eb7-4237-a481-3d5a0b01cbac/resource/7d48d629-2097-427a-af44-99cbbd6e5a1f/download/ibtracs_all_list_v04r01_lines_aia.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/72b296cf-1eb7-4237-a481-3d5a0b01cbac/resource/7d48d629-2097-427a-af44-99cbbd6e5a1f/download/ibtracs_all_list_v04r01_lines_aia.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/aia-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/72b296cf-1eb7-4237-a481-3d5a0b01cbac/resource/61237a79-83d7-4afd-939d-2fab00d3e3b2/download/ibtracs_all_list_v04r01_aia.csv\",\"label\":\"ibtracs_ALL_list_v04r01_AIA.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/72b296cf-1eb7-4237-a481-3d5a0b01cbac/resource/7d48d629-2097-427a-af44-99cbbd6e5a1f/download/ibtracs_all_list_v04r01_lines_aia.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_AIA.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/72b296cf-1eb7-4237-a481-3d5a0b01cbac/resource/7d48d629-2097-427a-af44-99cbbd6e5a1f/download/ibtracs_all_list_v04r01_lines_aia.geojson\"}"
 }

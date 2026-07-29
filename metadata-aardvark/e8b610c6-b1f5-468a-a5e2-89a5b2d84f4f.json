@@ -1,7 +1,7 @@
 {
   "id": "hdx-e8b610c6-b1f5-468a-a5e2-89a5b2d84f4f",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-10T16:50:06Z",
+  "gbl_mdModified_dt": "2026-07-28T12:24:22Z",
   "dct_title_s": "Puerto Rico: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -29,7 +29,7 @@
   "locn_geometry": "ENVELOPE(-67.24, -65.59, 18.52, 17.95)",
   "dcat_bbox": "ENVELOPE(-67.24, -65.59, 18.52, 17.95)",
   "dct_temporal_sm": [
-    "1851-2025"
+    "1851-2026"
   ],
   "gbl_indexYear_im": [
     1851,
@@ -206,8 +206,9 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/pri-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e8b610c6-b1f5-468a-a5e2-89a5b2d84f4f/resource/ae0fd0c4-ece1-4745-a2a4-9a8268b04388/download/ibtracs_all_list_v04r01_lines_pri.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/e8b610c6-b1f5-468a-a5e2-89a5b2d84f4f/resource/ae0fd0c4-ece1-4745-a2a4-9a8268b04388/download/ibtracs_all_list_v04r01_lines_pri.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/pri-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e8b610c6-b1f5-468a-a5e2-89a5b2d84f4f/resource/aca41995-a59c-438b-a048-ea4f0263044d/download/ibtracs_all_list_v04r01_pri.csv\",\"label\":\"ibtracs_ALL_list_v04r01_PRI.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/e8b610c6-b1f5-468a-a5e2-89a5b2d84f4f/resource/ae0fd0c4-ece1-4745-a2a4-9a8268b04388/download/ibtracs_all_list_v04r01_lines_pri.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_PRI.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/e8b610c6-b1f5-468a-a5e2-89a5b2d84f4f/resource/ae0fd0c4-ece1-4745-a2a4-9a8268b04388/download/ibtracs_all_list_v04r01_lines_pri.geojson\"}"
 }

@@ -1,0 +1,39 @@
+{
+  "id": "hdx-c3fe7c96-01a8-48fd-969c-243551d01c82",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-07-30T20:25:44Z",
+  "dct_title_s": "France Wildfires 2026 - Bordeaux",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Microsoft AI for Good Lab ran their damage assessment AI model for the Saumos fire."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Microsoft AI for Good Lab"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment"
+  ],
+  "dct_subject_sm": [
+    "damage assessment"
+  ],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "locn_geometry": "ENVELOPE(-5.0, 9.56, 51.15, 42.5)",
+  "dcat_bbox": "ENVELOPE(-5.0, 9.56, 51.15, 42.5)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/france-wildfires-2026-bordeaux\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/c3fe7c96-01a8-48fd-969c-243551d01c82/resource/9d576175-5211-492c-b7da-0c3504aaeaf3/download/valid_area_mask.geojson\",\"label\":\"valid_area_mask.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/c3fe7c96-01a8-48fd-969c-243551d01c82/resource/aa863a71-59fe-404e-adf2-a47e8a578655/download/building_predictions.gpkg\",\"label\":\"building_predictions.gpkg (Geopackage)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/c3fe7c96-01a8-48fd-969c-243551d01c82/resource/9d576175-5211-492c-b7da-0c3504aaeaf3/download/valid_area_mask.geojson\"}"
+}

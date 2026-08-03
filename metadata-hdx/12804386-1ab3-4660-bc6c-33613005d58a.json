@@ -7,7 +7,6 @@
   "dataset_preview": "first_resource",
   "dataset_source": "FEWS NET",
   "has_geodata": true,
-  "has_quickcharts": false,
   "has_showcases": false,
   "id": "12804386-1ab3-4660-bc6c-33613005d58a",
   "is_requestdata_type": false,
@@ -18,7 +17,7 @@
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "e32d5afb-cc7e-4715-85b7-5a3b849443f5",
   "metadata_created": "2022-08-26T06:46:20.739979",
-  "metadata_modified": "2025-08-26T11:38:55.701190",
+  "metadata_modified": "2026-08-02T09:10:37.972862",
   "methodology": "IPC Classification spatial data in different IPC scenarios collected by FEWS NET enumerators on a regular schedule (typically monthly).",
   "name": "guatemala_medium_term_projection__fewsnet_ipc_shapefile_for_2014",
   "notes": "The FEWS NET Data Warehouse is **currently unavailable**. Datasets on HDX that refer to the Data Warehouse have been archived.\n\nGuatemala Medium Term Projection  FEWS NET Acute Food Insecurity Classifications Geographic data for 2014",
@@ -88,6 +87,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-08-26T06:46:24.906190",
@@ -99,7 +99,7 @@
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/?country=GT&scenario=ML2&collection_date=2014-01-01&format=kml",
       "id": "b79b9e55-5c2a-4411-9aac-eaebf07c386b",
       "last_modified": "2025-02-01T01:02:13.735468",
-      "metadata_modified": "2025-08-26T11:38:55.712960",
+      "metadata_modified": "2026-08-02T09:10:37.991869",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

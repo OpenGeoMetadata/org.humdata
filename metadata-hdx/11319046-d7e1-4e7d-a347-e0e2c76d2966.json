@@ -17,7 +17,7 @@
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "e32d5afb-cc7e-4715-85b7-5a3b849443f5",
   "metadata_created": "2022-08-26T04:17:22.062609",
-  "metadata_modified": "2025-09-02T09:06:15.225755",
+  "metadata_modified": "2026-08-02T09:10:37.177498",
   "methodology": "IPC Classification spatial data in different IPC scenarios collected by FEWS NET enumerators on a regular schedule (typically monthly).",
   "name": "malawi_current_situation_fewsnet_ipc_shapefile_for_2015",
   "notes": "The FEWS NET Data Warehouse is **currently unavailable**. Datasets on HDX that refer to the Data Warehouse have been archived.\n\nMalawi Current Situation FEWS NET Acute Food Insecurity Classifications Geographic data for 2015",
@@ -113,6 +113,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-08-26T04:17:27.702914",
@@ -124,7 +125,7 @@
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/?country=MW&scenario=CS&collection_date=2015-04-01&format=geojson",
       "id": "9cc137cf-eaec-476e-bb1b-6a776fc594d5",
       "last_modified": "2025-02-01T01:02:13.735468",
-      "metadata_modified": "2025-08-26T11:38:17.001057",
+      "metadata_modified": "2026-08-02T09:10:37.191682",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

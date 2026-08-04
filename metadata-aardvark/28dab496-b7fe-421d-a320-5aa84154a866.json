@@ -1,7 +1,7 @@
 {
   "id": "hdx-28dab496-b7fe-421d-a320-5aa84154a866",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-08-02T14:46:06Z",
+  "gbl_mdModified_dt": "2026-08-03T18:44:35Z",
   "dct_title_s": "Greece - GLIDE Disaster Events",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -45,7 +45,7 @@
   "locn_geometry": "ENVELOPE(20.15, 26.6, 41.83, 34.92)",
   "dcat_bbox": "ENVELOPE(20.15, 26.6, 41.83, 34.92)",
   "dct_temporal_sm": [
-    "1999-2025"
+    "1999-2026"
   ],
   "gbl_indexYear_im": [
     1999,
@@ -74,7 +74,8 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grc-glide-events\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/28dab496-b7fe-421d-a320-5aa84154a866/resource/944820fc-c1dd-4bf2-b446-fea0c6a00f8f/download/grc_glide_events.csv\",\"label\":\"grc_glide_events.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/28dab496-b7fe-421d-a320-5aa84154a866/resource/1c8f559e-fe82-4b66-a2cb-283213b2f1a7/download/grc_glide_events.geojson\",\"label\":\"grc_glide_events.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/28dab496-b7fe-421d-a320-5aa84154a866/resource/1c8f559e-fe82-4b66-a2cb-283213b2f1a7/download/grc_glide_events.geojson\"}"

@@ -1,7 +1,7 @@
 {
   "id": "hdx-1cdf5b2e-9da1-48b1-925c-5ed3628806b5",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-14T16:09:54Z",
+  "gbl_mdModified_dt": "2026-08-04T11:11:40Z",
   "dct_title_s": "Lesotho: Acute Food Insecurity Country Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -31,20 +31,17 @@
   "locn_geometry": "ENVELOPE(27.0, 29.33, -28.65, -30.65)",
   "dcat_bbox": "ENVELOPE(27.0, 29.33, -28.65, -30.65)",
   "dct_temporal_sm": [
-    "2017-2026"
+    "2021-2027"
   ],
   "gbl_indexYear_im": [
-    2017,
-    2018,
-    2019,
-    2020,
     2021,
     2022,
     2023,
     2024,
     2025,
-    2026
+    2026,
+    2027
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/lesotho-acute-food-insecurity-country-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/1cdf5b2e-9da1-48b1-925c-5ed3628806b5/resource/ab671adc-b8d1-483f-8f6b-e42a78ab952c/download/ipc_lso.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/1cdf5b2e-9da1-48b1-925c-5ed3628806b5/resource/ab671adc-b8d1-483f-8f6b-e42a78ab952c/download/ipc_lso.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/lesotho-acute-food-insecurity-country-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/1cdf5b2e-9da1-48b1-925c-5ed3628806b5/resource/ab671adc-b8d1-483f-8f6b-e42a78ab952c/download/ipc_lso.geojson\",\"label\":\"ipc_lso.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/1cdf5b2e-9da1-48b1-925c-5ed3628806b5/resource/913cfd11-fe4c-4c7b-b4b0-b09e9b68329a/download/ipc_lso_national_long_latest.csv\",\"label\":\"ipc_lso_national_long_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/1cdf5b2e-9da1-48b1-925c-5ed3628806b5/resource/e25aadbc-4d43-4dff-9be2-d1a05af0eda9/download/ipc_lso_area_long_latest.csv\",\"label\":\"ipc_lso_area_long_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/1cdf5b2e-9da1-48b1-925c-5ed3628806b5/resource/b0715e13-e458-409a-8084-8223f6474b87/download/ipc_lso_area_wide_latest.csv\",\"label\":\"ipc_lso_area_wide_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/1cdf5b2e-9da1-48b1-925c-5ed3628806b5/resource/57869933-3355-4fa3-ac80-0cea1eabbdba/download/ipc_lso_national_long.csv\",\"label\":\"ipc_lso_national_long.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/1cdf5b2e-9da1-48b1-925c-5ed3628806b5/resource/13767236-7302-4b35-aa67-11c29491a97f/download/ipc_lso_national_wide.csv\",\"label\":\"ipc_lso_national_wide.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/1cdf5b2e-9da1-48b1-925c-5ed3628806b5/resource/6664511b-d42e-4f61-a19d-af2c9e1ce33d/download/ipc_lso_area_long.csv\",\"label\":\"ipc_lso_area_long.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/1cdf5b2e-9da1-48b1-925c-5ed3628806b5/resource/9c0720d9-c690-4c3d-9e70-d7f7e36c074a/download/ipc_lso_area_wide.csv\",\"label\":\"ipc_lso_area_wide.csv (CSV)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/1cdf5b2e-9da1-48b1-925c-5ed3628806b5/resource/ab671adc-b8d1-483f-8f6b-e42a78ab952c/download/ipc_lso.geojson\"}"
 }

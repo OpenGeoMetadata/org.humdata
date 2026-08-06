@@ -16,13 +16,13 @@
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "5a49d848-84b1-4090-a18d-dc484844b98a",
   "metadata_created": "2026-08-04T22:21:05.002294",
-  "metadata_modified": "2026-08-05T04:30:10.718302",
+  "metadata_modified": "2026-08-05T07:09:53.876002",
   "methodology": "Other",
   "methodology_other": "The Microsoft AI4G Lab ran their damage assessment pipeline on a Planet Pelican scene captured on Aug 2 at 11:54am PT then updated it with a Vantor scene captured Aug 4 at 1:04pm PT to map burned buildings.\r\n\r\nWe create building level damage assessments by training and then running an AI model on the post-disaster imagery. The AI model predicts whether each footprint in the imagery is \"building\", \"damaged\", or \"unknown\" (i.e. cloudy). We use Overture Maps building footprints which represent the state on the ground pre-event and distribute the resulting data as a vector file GeoPackage with the following per-footprint attributes:\r\nid – the Overture Maps unique ID for each footprint\r\ndamaged – 1 if the building is damaged, else 0\r\nunknown – 1 if the building was covered by clouds/haze/smoke or otherwise unable to be classified, else 0\r\narea – area of the building in sq meters\r\n\r\n ",
   "name": "2026-usa-washington-state-spokane-fires",
   "notes": "Building damage analysis of the Spokane wildfires in August 2026. ",
   "num_resources": 2,
-  "num_tags": 1,
+  "num_tags": 2,
   "organization": {
     "id": "e7b426aa-85ac-491d-b54f-b4ab17c6ad51",
     "name": "microsoft-ai4g-lab",
@@ -37,14 +37,14 @@
   },
   "owner_org": "e7b426aa-85ac-491d-b54f-b4ab17c6ad51",
   "package_creator": "airshiner",
-  "pageviews_last_14_days": 4,
+  "pageviews_last_14_days": 86,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"United States\"]}",
   "state": "active",
   "subnational": "1",
-  "title": "2026 USA Washington State Spokane Fires",
-  "total_res_downloads": 0,
+  "title": "United States Wildfires 2026 - Washington State",
+  "total_res_downloads": 12,
   "type": "dataset",
   "url": null,
   "version": null,
@@ -125,6 +125,13 @@
     }
   ],
   "tags": [
+    {
+      "display_name": "climate hazards",
+      "id": "ba8322b6-72e7-4475-b015-72d200bf5957",
+      "name": "climate hazards",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
     {
       "display_name": "damage assessment",
       "id": "3c5bab40-4c0f-40bc-a2dd-12cd7f945037",

@@ -1,7 +1,7 @@
 {
   "id": "hdx-5e16fabb-eb7d-415d-b47a-a5c2691ac075",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-26T09:30:07Z",
+  "gbl_mdModified_dt": "2026-08-07T02:00:51Z",
   "dct_title_s": "Buildings of Bulgaria",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_bgr_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BGR/buildings/hotosm_bgr_buildings_osm_shp.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_bgr_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BGR/buildings/hotosm_bgr_buildings_osm_shp.zip\",\"label\":\"hotosm_bgr_buildings_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BGR/buildings/hotosm_bgr_buildings_osm_gpkg.zip\",\"label\":\"hotosm_bgr_buildings_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BGR/buildings/hotosm_bgr_buildings_osm_metadata.json\",\"label\":\"hotosm_bgr_buildings_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BGR/buildings/hotosm_bgr_buildings_report.html\",\"label\":\"hotosm_bgr_buildings_report.html (HTML)\"}]}"
 }

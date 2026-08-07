@@ -1,7 +1,7 @@
 {
   "id": "hdx-097b3d6f-6b65-4405-8502-346207ab1ad7",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-26T09:11:58Z",
+  "gbl_mdModified_dt": "2026-08-07T01:08:26Z",
   "dct_title_s": "Airports of Andorra",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_and_airports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AND/airports/hotosm_and_airports_osm_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_and_airports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AND/airports/hotosm_and_airports_osm_gpkg.zip\",\"label\":\"hotosm_and_airports_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AND/airports/hotosm_and_airports_osm_shp.zip\",\"label\":\"hotosm_and_airports_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AND/airports/hotosm_and_airports_osm_kml.zip\",\"label\":\"hotosm_and_airports_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AND/airports/hotosm_and_airports_osm_geojson.zip\",\"label\":\"hotosm_and_airports_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AND/airports/hotosm_and_airports_osm_metadata.json\",\"label\":\"hotosm_and_airports_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AND/airports/hotosm_and_airports_report.html\",\"label\":\"hotosm_and_airports_report.html (HTML)\"}]}"
 }

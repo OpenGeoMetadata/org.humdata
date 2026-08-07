@@ -1,7 +1,7 @@
 {
   "id": "hdx-04220d2e-d883-412f-b56a-36b101a7d409",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-26T09:11:53Z",
+  "gbl_mdModified_dt": "2026-08-07T02:05:03Z",
   "dct_title_s": "Populated Places of Bahamas",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_bhs_populated_places\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BHS/populated_places/hotosm_bhs_populated_places_osm_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_bhs_populated_places\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BHS/populated_places/hotosm_bhs_populated_places_osm_gpkg.zip\",\"label\":\"hotosm_bhs_populated_places_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BHS/populated_places/hotosm_bhs_populated_places_osm_shp.zip\",\"label\":\"hotosm_bhs_populated_places_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BHS/populated_places/hotosm_bhs_populated_places_osm_kml.zip\",\"label\":\"hotosm_bhs_populated_places_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BHS/populated_places/hotosm_bhs_populated_places_osm_geojson.zip\",\"label\":\"hotosm_bhs_populated_places_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BHS/populated_places/hotosm_bhs_populated_places_osm_metadata.json\",\"label\":\"hotosm_bhs_populated_places_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BHS/populated_places/hotosm_bhs_populated_places_report.html\",\"label\":\"hotosm_bhs_populated_places_report.html (HTML)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-47a1b88d-a28a-4771-a2c5-13a4d7b8eb67",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-24T09:30:01Z",
+  "gbl_mdModified_dt": "2026-08-06T23:16:29Z",
   "dct_title_s": "Roads of Haiti",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_hti_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/HTI/roads/hotosm_hti_roads_osm_gpkg.zip\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_hti_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/HTI/roads/hotosm_hti_roads_osm_gpkg.zip\",\"label\":\"hotosm_hti_roads_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/HTI/roads/hotosm_hti_roads_osm_shp.zip\",\"label\":\"hotosm_hti_roads_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/HTI/roads/hotosm_hti_roads_osm_metadata.json\",\"label\":\"hotosm_hti_roads_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/HTI/roads/hotosm_hti_roads_report.html\",\"label\":\"hotosm_hti_roads_report.html (HTML)\"}]}"
 }

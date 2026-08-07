@@ -1,7 +1,7 @@
 {
   "id": "hdx-2e2794fa-145b-42f1-902c-7fd3d72a794b",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-24T09:06:23Z",
+  "gbl_mdModified_dt": "2026-08-06T23:13:54Z",
   "dct_title_s": "Buildings of Ethiopia",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_eth_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ETH/buildings/hotosm_eth_buildings_osm_shp.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_eth_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ETH/buildings/hotosm_eth_buildings_osm_shp.zip\",\"label\":\"hotosm_eth_buildings_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ETH/buildings/hotosm_eth_buildings_osm_gpkg.zip\",\"label\":\"hotosm_eth_buildings_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ETH/buildings/hotosm_eth_buildings_osm_metadata.json\",\"label\":\"hotosm_eth_buildings_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ETH/buildings/hotosm_eth_buildings_report.html\",\"label\":\"hotosm_eth_buildings_report.html (HTML)\"}]}"
 }

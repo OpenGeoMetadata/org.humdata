@@ -1,7 +1,7 @@
 {
   "id": "hdx-98d716b0-41d3-4fe9-b7d3-bf3b3d547f97",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-24T10:17:36Z",
+  "gbl_mdModified_dt": "2026-08-06T23:41:02Z",
   "dct_title_s": "Points of Interest of Myanmar",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_mmr_points_of_interest\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MMR/points_of_interest/hotosm_mmr_points_of_interest_osm_geojson.zip\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_mmr_points_of_interest\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MMR/points_of_interest/hotosm_mmr_points_of_interest_osm_shp.zip\",\"label\":\"hotosm_mmr_points_of_interest_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MMR/points_of_interest/hotosm_mmr_points_of_interest_osm_gpkg.zip\",\"label\":\"hotosm_mmr_points_of_interest_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MMR/points_of_interest/hotosm_mmr_points_of_interest_osm_geojson.zip\",\"label\":\"hotosm_mmr_points_of_interest_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MMR/points_of_interest/hotosm_mmr_points_of_interest_osm_metadata.json\",\"label\":\"hotosm_mmr_points_of_interest_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MMR/points_of_interest/hotosm_mmr_points_of_interest_report.html\",\"label\":\"hotosm_mmr_points_of_interest_report.html (HTML)\"}]}"
 }

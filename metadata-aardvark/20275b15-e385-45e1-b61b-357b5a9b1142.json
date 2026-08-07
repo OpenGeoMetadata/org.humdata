@@ -1,7 +1,7 @@
 {
   "id": "hdx-20275b15-e385-45e1-b61b-357b5a9b1142",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-24T09:06:24Z",
+  "gbl_mdModified_dt": "2026-08-06T22:32:40Z",
   "dct_title_s": "Roads of Burkina Faso",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_bfa_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BFA/roads/hotosm_bfa_roads_osm_gpkg.zip\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_bfa_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BFA/roads/hotosm_bfa_roads_osm_gpkg.zip\",\"label\":\"hotosm_bfa_roads_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BFA/roads/hotosm_bfa_roads_osm_shp.zip\",\"label\":\"hotosm_bfa_roads_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BFA/roads/hotosm_bfa_roads_osm_metadata.json\",\"label\":\"hotosm_bfa_roads_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BFA/roads/hotosm_bfa_roads_report.html\",\"label\":\"hotosm_bfa_roads_report.html (HTML)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-0b34f1a3-7325-4ae1-b85a-418d0d702b17",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-24T09:10:45Z",
+  "gbl_mdModified_dt": "2026-08-06T22:33:10Z",
   "dct_title_s": "Waterways of Burkina Faso",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_bfa_waterways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BFA/waterways/hotosm_bfa_waterways_osm_geojson.zip\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_bfa_waterways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BFA/waterways/hotosm_bfa_waterways_osm_gpkg.zip\",\"label\":\"hotosm_bfa_waterways_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BFA/waterways/hotosm_bfa_waterways_osm_shp.zip\",\"label\":\"hotosm_bfa_waterways_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BFA/waterways/hotosm_bfa_waterways_osm_geojson.zip\",\"label\":\"hotosm_bfa_waterways_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BFA/waterways/hotosm_bfa_waterways_osm_kml.zip\",\"label\":\"hotosm_bfa_waterways_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BFA/waterways/hotosm_bfa_waterways_osm_metadata.json\",\"label\":\"hotosm_bfa_waterways_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BFA/waterways/hotosm_bfa_waterways_report.html\",\"label\":\"hotosm_bfa_waterways_report.html (HTML)\"}]}"
 }

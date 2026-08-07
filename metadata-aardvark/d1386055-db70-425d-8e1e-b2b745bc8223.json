@@ -1,7 +1,7 @@
 {
   "id": "hdx-d1386055-db70-425d-8e1e-b2b745bc8223",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-24T10:34:46Z",
+  "gbl_mdModified_dt": "2026-08-06T22:30:12Z",
   "dct_title_s": "Railways of Afghanistan",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -41,5 +41,5 @@
     2026
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_afg_railways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AFG/railways/hotosm_afg_railways_osm_geojson.zip\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_afg_railways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AFG/railways/hotosm_afg_railways_osm_gpkg.zip\",\"label\":\"hotosm_afg_railways_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AFG/railways/hotosm_afg_railways_osm_shp.zip\",\"label\":\"hotosm_afg_railways_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AFG/railways/hotosm_afg_railways_osm_geojson.zip\",\"label\":\"hotosm_afg_railways_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AFG/railways/hotosm_afg_railways_osm_kml.zip\",\"label\":\"hotosm_afg_railways_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AFG/railways/hotosm_afg_railways_osm_metadata.json\",\"label\":\"hotosm_afg_railways_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AFG/railways/hotosm_afg_railways_report.html\",\"label\":\"hotosm_afg_railways_report.html (HTML)\"}]}"
 }

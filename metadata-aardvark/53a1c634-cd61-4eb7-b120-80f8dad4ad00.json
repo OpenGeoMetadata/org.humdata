@@ -1,7 +1,7 @@
 {
   "id": "hdx-53a1c634-cd61-4eb7-b120-80f8dad4ad00",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-24T09:32:34Z",
+  "gbl_mdModified_dt": "2026-08-06T23:03:18Z",
   "dct_title_s": "Sea Ports of Congo, The Democratic Republic of the",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_cod_sea_ports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/COD/sea_ports/hotosm_cod_sea_ports_osm_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_cod_sea_ports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/COD/sea_ports/hotosm_cod_sea_ports_osm_gpkg.zip\",\"label\":\"hotosm_cod_sea_ports_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/COD/sea_ports/hotosm_cod_sea_ports_osm_shp.zip\",\"label\":\"hotosm_cod_sea_ports_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/COD/sea_ports/hotosm_cod_sea_ports_osm_kml.zip\",\"label\":\"hotosm_cod_sea_ports_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/COD/sea_ports/hotosm_cod_sea_ports_osm_geojson.zip\",\"label\":\"hotosm_cod_sea_ports_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/COD/sea_ports/hotosm_cod_sea_ports_osm_metadata.json\",\"label\":\"hotosm_cod_sea_ports_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/COD/sea_ports/hotosm_cod_sea_ports_report.html\",\"label\":\"hotosm_cod_sea_ports_report.html (HTML)\"}]}"
 }

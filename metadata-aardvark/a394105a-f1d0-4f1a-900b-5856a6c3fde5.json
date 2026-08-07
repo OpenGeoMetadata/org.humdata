@@ -1,7 +1,7 @@
 {
   "id": "hdx-a394105a-f1d0-4f1a-900b-5856a6c3fde5",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-26T10:18:03Z",
+  "gbl_mdModified_dt": "2026-08-07T00:18:42Z",
   "dct_title_s": "Railways of Ukraine",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -41,5 +41,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_ukr_railways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/UKR/railways/hotosm_ukr_railways_osm_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_ukr_railways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/UKR/railways/hotosm_ukr_railways_osm_gpkg.zip\",\"label\":\"hotosm_ukr_railways_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/UKR/railways/hotosm_ukr_railways_osm_shp.zip\",\"label\":\"hotosm_ukr_railways_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/UKR/railways/hotosm_ukr_railways_osm_kml.zip\",\"label\":\"hotosm_ukr_railways_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/UKR/railways/hotosm_ukr_railways_osm_geojson.zip\",\"label\":\"hotosm_ukr_railways_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/UKR/railways/hotosm_ukr_railways_osm_metadata.json\",\"label\":\"hotosm_ukr_railways_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/UKR/railways/hotosm_ukr_railways_report.html\",\"label\":\"hotosm_ukr_railways_report.html (HTML)\"}]}"
 }

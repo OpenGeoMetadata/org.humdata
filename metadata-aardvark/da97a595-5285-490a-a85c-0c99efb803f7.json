@@ -1,7 +1,7 @@
 {
   "id": "hdx-da97a595-5285-490a-a85c-0c99efb803f7",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-26T10:31:45Z",
+  "gbl_mdModified_dt": "2026-08-07T00:29:13Z",
   "dct_title_s": "Roads of Venezuela",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -40,6 +40,6 @@
   "gbl_indexYear_im": [
     2026
   ],
-  "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_ven_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VEN/roads/hotosm_ven_roads_osm_gpkg.zip\",\"label\":\"Geopackage\"}]}"
+  "dct_format_s": "KML",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_ven_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VEN/roads/hotosm_ven_roads_osm_gpkg.zip\",\"label\":\"hotosm_ven_roads_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VEN/roads/hotosm_ven_roads_osm_shp.zip\",\"label\":\"hotosm_ven_roads_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VEN/roads/hotosm_ven_roads_osm_metadata.json\",\"label\":\"hotosm_ven_roads_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VEN/roads/hotosm_ven_roads_report.html\",\"label\":\"hotosm_ven_roads_report.html (HTML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VEN/roads/hot_eq_osm_ven_roads_osm_gpkg.zip\",\"label\":\"hot_eq_osm_ven_roads_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VEN/roads/hot_eq_osm_ven_roads_osm_shp.zip\",\"label\":\"hot_eq_osm_ven_roads_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VEN/roads/hot_eq_osm_ven_roads_osm_kml.zip\",\"label\":\"hot_eq_osm_ven_roads_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VEN/roads/hot_eq_osm_ven_roads_osm_metadata.json\",\"label\":\"hot_eq_osm_ven_roads_osm_metadata.json (JSON)\"}]}"
 }

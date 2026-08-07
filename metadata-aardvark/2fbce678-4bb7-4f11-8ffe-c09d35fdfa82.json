@@ -1,7 +1,7 @@
 {
   "id": "hdx-2fbce678-4bb7-4f11-8ffe-c09d35fdfa82",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-26T09:06:26Z",
+  "gbl_mdModified_dt": "2026-08-07T00:01:03Z",
   "dct_title_s": "Airports of Chad",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_tcd_airports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TCD/airports/hotosm_tcd_airports_osm_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_tcd_airports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TCD/airports/hotosm_tcd_airports_osm_gpkg.zip\",\"label\":\"hotosm_tcd_airports_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TCD/airports/hotosm_tcd_airports_osm_shp.zip\",\"label\":\"hotosm_tcd_airports_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TCD/airports/hotosm_tcd_airports_osm_kml.zip\",\"label\":\"hotosm_tcd_airports_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TCD/airports/hotosm_tcd_airports_osm_geojson.zip\",\"label\":\"hotosm_tcd_airports_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TCD/airports/hotosm_tcd_airports_osm_metadata.json\",\"label\":\"hotosm_tcd_airports_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TCD/airports/hotosm_tcd_airports_report.html\",\"label\":\"hotosm_tcd_airports_report.html (HTML)\"}]}"
 }

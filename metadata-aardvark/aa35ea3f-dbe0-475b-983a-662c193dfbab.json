@@ -1,7 +1,7 @@
 {
   "id": "hdx-aa35ea3f-dbe0-475b-983a-662c193dfbab",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-26T10:17:52Z",
+  "gbl_mdModified_dt": "2026-08-07T01:41:40Z",
   "dct_title_s": "Airports of Burundi",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_bdi_airports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BDI/airports/hotosm_bdi_airports_osm_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_bdi_airports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BDI/airports/hotosm_bdi_airports_osm_gpkg.zip\",\"label\":\"hotosm_bdi_airports_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BDI/airports/hotosm_bdi_airports_osm_shp.zip\",\"label\":\"hotosm_bdi_airports_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BDI/airports/hotosm_bdi_airports_osm_kml.zip\",\"label\":\"hotosm_bdi_airports_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BDI/airports/hotosm_bdi_airports_osm_geojson.zip\",\"label\":\"hotosm_bdi_airports_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BDI/airports/hotosm_bdi_airports_osm_metadata.json\",\"label\":\"hotosm_bdi_airports_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BDI/airports/hotosm_bdi_airports_report.html\",\"label\":\"hotosm_bdi_airports_report.html (HTML)\"}]}"
 }

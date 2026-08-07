@@ -1,7 +1,7 @@
 {
   "id": "hdx-6a9877f5-a3b3-429f-8b4c-60b03b48da62",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-24T09:49:58Z",
+  "gbl_mdModified_dt": "2026-08-06T23:28:54Z",
   "dct_title_s": "Buildings of Madagascar",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_mdg_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MDG/buildings/hotosm_mdg_buildings_osm_shp.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_mdg_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MDG/buildings/hotosm_mdg_buildings_osm_shp.zip\",\"label\":\"hotosm_mdg_buildings_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MDG/buildings/hotosm_mdg_buildings_osm_gpkg.zip\",\"label\":\"hotosm_mdg_buildings_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MDG/buildings/hotosm_mdg_buildings_osm_metadata.json\",\"label\":\"hotosm_mdg_buildings_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MDG/buildings/hotosm_mdg_buildings_report.html\",\"label\":\"hotosm_mdg_buildings_report.html (HTML)\"}]}"
 }

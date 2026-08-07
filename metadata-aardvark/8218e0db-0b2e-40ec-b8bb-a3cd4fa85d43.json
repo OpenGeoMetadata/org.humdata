@@ -1,7 +1,7 @@
 {
   "id": "hdx-8218e0db-0b2e-40ec-b8bb-a3cd4fa85d43",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-24T09:54:07Z",
+  "gbl_mdModified_dt": "2026-08-06T23:56:44Z",
   "dct_title_s": "Roads of Syria",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_syr_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/SYR/roads/hotosm_syr_roads_osm_gpkg.zip\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_syr_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/SYR/roads/hotosm_syr_roads_osm_gpkg.zip\",\"label\":\"hotosm_syr_roads_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/SYR/roads/hotosm_syr_roads_osm_shp.zip\",\"label\":\"hotosm_syr_roads_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/SYR/roads/hotosm_syr_roads_osm_metadata.json\",\"label\":\"hotosm_syr_roads_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/SYR/roads/hotosm_syr_roads_report.html\",\"label\":\"hotosm_syr_roads_report.html (HTML)\"}]}"
 }

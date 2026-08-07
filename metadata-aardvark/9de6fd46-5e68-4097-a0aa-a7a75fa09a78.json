@@ -1,7 +1,7 @@
 {
   "id": "hdx-9de6fd46-5e68-4097-a0aa-a7a75fa09a78",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-26T10:09:31Z",
+  "gbl_mdModified_dt": "2026-08-07T01:08:38Z",
   "dct_title_s": "Points of Interest of Andorra",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_and_points_of_interest\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AND/points_of_interest/hotosm_and_points_of_interest_osm_geojson.zip\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_and_points_of_interest\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AND/points_of_interest/hotosm_and_points_of_interest_osm_gpkg.zip\",\"label\":\"hotosm_and_points_of_interest_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AND/points_of_interest/hotosm_and_points_of_interest_osm_shp.zip\",\"label\":\"hotosm_and_points_of_interest_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AND/points_of_interest/hotosm_and_points_of_interest_osm_geojson.zip\",\"label\":\"hotosm_and_points_of_interest_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AND/points_of_interest/hotosm_and_points_of_interest_osm_kml.zip\",\"label\":\"hotosm_and_points_of_interest_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AND/points_of_interest/hotosm_and_points_of_interest_osm_metadata.json\",\"label\":\"hotosm_and_points_of_interest_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AND/points_of_interest/hotosm_and_points_of_interest_report.html\",\"label\":\"hotosm_and_points_of_interest_report.html (HTML)\"}]}"
 }

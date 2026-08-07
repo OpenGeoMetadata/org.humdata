@@ -1,7 +1,7 @@
 {
   "id": "hdx-0b8940ee-d2fd-4f1a-9a8f-a4d3a5d423f1",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-24T09:10:29Z",
+  "gbl_mdModified_dt": "2026-08-06T23:23:36Z",
   "dct_title_s": "Roads of Lebanon",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -41,5 +41,5 @@
     2026
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_lbn_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/LBN/roads/hotosm_lbn_roads_osm_gpkg.zip\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_lbn_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/LBN/roads/hotosm_lbn_roads_osm_gpkg.zip\",\"label\":\"hotosm_lbn_roads_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/LBN/roads/hotosm_lbn_roads_osm_shp.zip\",\"label\":\"hotosm_lbn_roads_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/LBN/roads/hotosm_lbn_roads_osm_metadata.json\",\"label\":\"hotosm_lbn_roads_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/LBN/roads/hotosm_lbn_roads_report.html\",\"label\":\"hotosm_lbn_roads_report.html (HTML)\"}]}"
 }

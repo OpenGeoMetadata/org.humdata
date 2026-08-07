@@ -1,7 +1,7 @@
 {
   "id": "hdx-84a5ee81-ed43-453f-b2b7-4135c95d0cf5",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-24T09:54:09Z",
+  "gbl_mdModified_dt": "2026-08-06T23:44:40Z",
   "dct_title_s": "Airports of Mozambique",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_moz_airports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MOZ/airports/hotosm_moz_airports_osm_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_moz_airports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MOZ/airports/hotosm_moz_airports_osm_gpkg.zip\",\"label\":\"hotosm_moz_airports_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MOZ/airports/hotosm_moz_airports_osm_shp.zip\",\"label\":\"hotosm_moz_airports_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MOZ/airports/hotosm_moz_airports_osm_kml.zip\",\"label\":\"hotosm_moz_airports_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MOZ/airports/hotosm_moz_airports_osm_geojson.zip\",\"label\":\"hotosm_moz_airports_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MOZ/airports/hotosm_moz_airports_osm_metadata.json\",\"label\":\"hotosm_moz_airports_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MOZ/airports/hotosm_moz_airports_report.html\",\"label\":\"hotosm_moz_airports_report.html (HTML)\"}]}"
 }

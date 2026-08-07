@@ -1,7 +1,7 @@
 {
   "id": "hdx-41d8598b-e3b4-4c03-9dc7-3a108469cb18",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-26T09:29:22Z",
+  "gbl_mdModified_dt": "2026-08-07T02:06:39Z",
   "dct_title_s": "Roads of Bosnia and Herzegovina",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_bih_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BIH/roads/hotosm_bih_roads_osm_gpkg.zip\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_bih_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BIH/roads/hotosm_bih_roads_osm_gpkg.zip\",\"label\":\"hotosm_bih_roads_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BIH/roads/hotosm_bih_roads_osm_shp.zip\",\"label\":\"hotosm_bih_roads_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BIH/roads/hotosm_bih_roads_osm_metadata.json\",\"label\":\"hotosm_bih_roads_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BIH/roads/hotosm_bih_roads_report.html\",\"label\":\"hotosm_bih_roads_report.html (HTML)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-8e2a3e65-ea4f-415a-8d64-89a18815f369",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-26T09:51:35Z",
+  "gbl_mdModified_dt": "2026-08-07T00:29:10Z",
   "dct_title_s": "Buildings of Venezuela",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -38,6 +38,6 @@
   "gbl_indexYear_im": [
     2026
   ],
-  "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_ven_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VEN/buildings/hotosm_ven_buildings_osm_gpkg.zip\",\"label\":\"Geopackage\"}]}"
+  "dct_format_s": "KML",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_ven_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VEN/buildings/hotosm_ven_buildings_osm_gpkg.zip\",\"label\":\"hotosm_ven_buildings_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VEN/buildings/hotosm_ven_buildings_osm_shp.zip\",\"label\":\"hotosm_ven_buildings_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VEN/buildings/hotosm_ven_buildings_osm_metadata.json\",\"label\":\"hotosm_ven_buildings_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VEN/buildings/hotosm_ven_buildings_report.html\",\"label\":\"hotosm_ven_buildings_report.html (HTML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VEN/buildings/hot_eq_osm_ven_buildings_osm_gpkg.zip\",\"label\":\"hot_eq_osm_ven_buildings_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VEN/buildings/hot_eq_osm_ven_buildings_osm_shp.zip\",\"label\":\"hot_eq_osm_ven_buildings_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VEN/buildings/hot_eq_osm_ven_buildings_osm_kml.zip\",\"label\":\"hot_eq_osm_ven_buildings_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VEN/buildings/hot_eq_osm_ven_buildings_osm_metadata.json\",\"label\":\"hot_eq_osm_ven_buildings_osm_metadata.json (JSON)\"}]}"
 }

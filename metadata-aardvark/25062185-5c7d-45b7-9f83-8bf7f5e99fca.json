@@ -1,7 +1,7 @@
 {
   "id": "hdx-25062185-5c7d-45b7-9f83-8bf7f5e99fca",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-28T09:06:28Z",
+  "gbl_mdModified_dt": "2026-08-07T04:13:44Z",
   "dct_title_s": "Railways of Chile",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -41,5 +41,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_chl_railways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CHL/railways/hotosm_chl_railways_osm_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_chl_railways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CHL/railways/hotosm_chl_railways_osm_gpkg.zip\",\"label\":\"hotosm_chl_railways_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CHL/railways/hotosm_chl_railways_osm_shp.zip\",\"label\":\"hotosm_chl_railways_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CHL/railways/hotosm_chl_railways_osm_kml.zip\",\"label\":\"hotosm_chl_railways_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CHL/railways/hotosm_chl_railways_osm_geojson.zip\",\"label\":\"hotosm_chl_railways_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CHL/railways/hotosm_chl_railways_osm_metadata.json\",\"label\":\"hotosm_chl_railways_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CHL/railways/hotosm_chl_railways_report.html\",\"label\":\"hotosm_chl_railways_report.html (HTML)\"}]}"
 }

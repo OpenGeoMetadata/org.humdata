@@ -1,7 +1,7 @@
 {
   "id": "hdx-e15b7389-f32c-4af3-a1b7-c18944f0357b",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-26T10:41:01Z",
+  "gbl_mdModified_dt": "2026-08-07T01:39:54Z",
   "dct_title_s": "Sea Ports of Azerbaijan",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_aze_sea_ports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AZE/sea_ports/hotosm_aze_sea_ports_osm_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_aze_sea_ports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AZE/sea_ports/hotosm_aze_sea_ports_osm_gpkg.zip\",\"label\":\"hotosm_aze_sea_ports_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AZE/sea_ports/hotosm_aze_sea_ports_osm_shp.zip\",\"label\":\"hotosm_aze_sea_ports_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AZE/sea_ports/hotosm_aze_sea_ports_osm_kml.zip\",\"label\":\"hotosm_aze_sea_ports_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AZE/sea_ports/hotosm_aze_sea_ports_osm_geojson.zip\",\"label\":\"hotosm_aze_sea_ports_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AZE/sea_ports/hotosm_aze_sea_ports_osm_metadata.json\",\"label\":\"hotosm_aze_sea_ports_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AZE/sea_ports/hotosm_aze_sea_ports_report.html\",\"label\":\"hotosm_aze_sea_ports_report.html (HTML)\"}]}"
 }

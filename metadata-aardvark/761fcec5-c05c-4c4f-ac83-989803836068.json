@@ -1,7 +1,7 @@
 {
   "id": "hdx-761fcec5-c05c-4c4f-ac83-989803836068",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-14T16:08:47Z",
+  "gbl_mdModified_dt": "2026-08-06T05:45:43Z",
   "dct_title_s": "Burundi: Acute Food Insecurity Country Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -31,13 +31,9 @@
   "locn_geometry": "ENVELOPE(29.02, 30.75, -2.35, -4.5)",
   "dcat_bbox": "ENVELOPE(29.02, 30.75, -2.35, -4.5)",
   "dct_temporal_sm": [
-    "2017-2026"
+    "2021-2026"
   ],
   "gbl_indexYear_im": [
-    2017,
-    2018,
-    2019,
-    2020,
     2021,
     2022,
     2023,
@@ -46,5 +42,5 @@
     2026
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/burundi-acute-food-insecurity-country-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/761fcec5-c05c-4c4f-ac83-989803836068/resource/78f94bbc-5fc9-4668-9c8e-420da397f9fd/download/ipc_bdi.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/761fcec5-c05c-4c4f-ac83-989803836068/resource/78f94bbc-5fc9-4668-9c8e-420da397f9fd/download/ipc_bdi.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/burundi-acute-food-insecurity-country-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/761fcec5-c05c-4c4f-ac83-989803836068/resource/78f94bbc-5fc9-4668-9c8e-420da397f9fd/download/ipc_bdi.geojson\",\"label\":\"ipc_bdi.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/761fcec5-c05c-4c4f-ac83-989803836068/resource/a8e98ca5-bae8-4647-95a8-e3e7cabbfac2/download/ipc_bdi_national_long_latest.csv\",\"label\":\"ipc_bdi_national_long_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/761fcec5-c05c-4c4f-ac83-989803836068/resource/057f0347-9e6e-4077-b940-7d56aff47a5e/download/ipc_bdi_area_long_latest.csv\",\"label\":\"ipc_bdi_area_long_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/761fcec5-c05c-4c4f-ac83-989803836068/resource/6f9bc74d-d41e-4389-8a08-157e95a1f1f8/download/ipc_bdi_area_wide_latest.csv\",\"label\":\"ipc_bdi_area_wide_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/761fcec5-c05c-4c4f-ac83-989803836068/resource/319fd913-4ad8-4116-bc5d-c26ee8ee0767/download/ipc_bdi_national_long.csv\",\"label\":\"ipc_bdi_national_long.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/761fcec5-c05c-4c4f-ac83-989803836068/resource/4fa6c44a-d6ea-42e8-8cb8-a96379d583f6/download/ipc_bdi_national_wide.csv\",\"label\":\"ipc_bdi_national_wide.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/761fcec5-c05c-4c4f-ac83-989803836068/resource/60013c46-2988-457c-a65b-47751c4270a1/download/ipc_bdi_area_long.csv\",\"label\":\"ipc_bdi_area_long.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/761fcec5-c05c-4c4f-ac83-989803836068/resource/5b9b951f-66a0-4727-ab93-7862f211d50b/download/ipc_bdi_area_wide.csv\",\"label\":\"ipc_bdi_area_wide.csv (CSV)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/761fcec5-c05c-4c4f-ac83-989803836068/resource/78f94bbc-5fc9-4668-9c8e-420da397f9fd/download/ipc_bdi.geojson\"}"
 }

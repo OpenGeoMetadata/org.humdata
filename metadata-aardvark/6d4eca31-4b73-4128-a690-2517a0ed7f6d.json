@@ -1,7 +1,7 @@
 {
   "id": "hdx-6d4eca31-4b73-4128-a690-2517a0ed7f6d",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-26T09:41:24Z",
+  "gbl_mdModified_dt": "2026-08-07T01:12:58Z",
   "dct_title_s": "Airports of Armenia",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_arm_airports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ARM/airports/hotosm_arm_airports_osm_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_arm_airports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ARM/airports/hotosm_arm_airports_osm_gpkg.zip\",\"label\":\"hotosm_arm_airports_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ARM/airports/hotosm_arm_airports_osm_shp.zip\",\"label\":\"hotosm_arm_airports_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ARM/airports/hotosm_arm_airports_osm_kml.zip\",\"label\":\"hotosm_arm_airports_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ARM/airports/hotosm_arm_airports_osm_geojson.zip\",\"label\":\"hotosm_arm_airports_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ARM/airports/hotosm_arm_airports_osm_metadata.json\",\"label\":\"hotosm_arm_airports_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ARM/airports/hotosm_arm_airports_report.html\",\"label\":\"hotosm_arm_airports_report.html (HTML)\"}]}"
 }

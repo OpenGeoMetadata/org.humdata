@@ -1,7 +1,7 @@
 {
   "id": "hdx-8b7d12a2-2e05-437a-ba4c-781287ef3fdc",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-24T09:54:07Z",
+  "gbl_mdModified_dt": "2026-08-06T23:38:42Z",
   "dct_title_s": "Buildings of Myanmar",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_mmr_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MMR/buildings/hotosm_mmr_buildings_osm_shp.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_mmr_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MMR/buildings/hotosm_mmr_buildings_osm_shp.zip\",\"label\":\"hotosm_mmr_buildings_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MMR/buildings/hotosm_mmr_buildings_osm_gpkg.zip\",\"label\":\"hotosm_mmr_buildings_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MMR/buildings/hotosm_mmr_buildings_osm_metadata.json\",\"label\":\"hotosm_mmr_buildings_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MMR/buildings/hotosm_mmr_buildings_report.html\",\"label\":\"hotosm_mmr_buildings_report.html (HTML)\"}]}"
 }

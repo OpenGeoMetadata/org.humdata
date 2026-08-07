@@ -1,7 +1,7 @@
 {
   "id": "hdx-be96e0d2-1eb1-411c-9164-df6c9f54a8ef",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-26T10:11:05Z",
+  "gbl_mdModified_dt": "2026-08-07T01:12:59Z",
   "dct_title_s": "Sea Ports of Armenia",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_arm_sea_ports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ARM/sea_ports/hotosm_arm_sea_ports_osm_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_arm_sea_ports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ARM/sea_ports/hotosm_arm_sea_ports_osm_gpkg.zip\",\"label\":\"hotosm_arm_sea_ports_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ARM/sea_ports/hotosm_arm_sea_ports_osm_shp.zip\",\"label\":\"hotosm_arm_sea_ports_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ARM/sea_ports/hotosm_arm_sea_ports_osm_kml.zip\",\"label\":\"hotosm_arm_sea_ports_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ARM/sea_ports/hotosm_arm_sea_ports_osm_geojson.zip\",\"label\":\"hotosm_arm_sea_ports_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ARM/sea_ports/hotosm_arm_sea_ports_osm_metadata.json\",\"label\":\"hotosm_arm_sea_ports_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ARM/sea_ports/hotosm_arm_sea_ports_report.html\",\"label\":\"hotosm_arm_sea_ports_report.html (HTML)\"}]}"
 }

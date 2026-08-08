@@ -1,14 +1,14 @@
 {
   "id": "hdx-13cc32d1-fc28-49ff-97e9-ab4f972daf56",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-15T14:07:03Z",
-  "dct_title_s": "Uzbekistan : Roads (OpenStreetMap Export)",
+  "gbl_mdModified_dt": "2026-08-07T18:03:32Z",
+  "dct_title_s": "Roads of Uzbekistan",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "Road network across the region from OSM. Includes everything tagged with `highway`: motorways, residential streets, service roads, footways, and trails. Useful for routing, accessibility analysis, and evacuation planning. OpenStreetMap is a free, collaborative world map built by volunteers. Completeness varies by region: urban areas are usually well-mapped, remote areas may be incomplete. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org) - OSM tags: [Key:highway](https://wiki.openstreetmap.org/wiki/Key:highway) - Part of many [exports grid on HDX](https://data.humdata.org/organization/hot) by the [HOT](https://www.hotosm.org/en/)"
+    "Road network across the region tagged `highway=*`: motorways, residential streets, service roads, footways, and trails. Useful for routing, accessibility analysis, and evacuation planning. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [highway](https://wiki.openstreetmap.org/wiki/Key:highway) - Part of the [exports grid on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
   ],
   "dct_language_sm": [
     "eng"
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_uzb_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/UZB/roads/hotosm_uzb_roads_osm_gpkg.zip\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_uzb_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/UZB/roads/hotosm_uzb_roads_osm_gpkg.zip\",\"label\":\"hotosm_uzb_roads_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/UZB/roads/hotosm_uzb_roads_osm_shp.zip\",\"label\":\"hotosm_uzb_roads_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/UZB/roads/hotosm_uzb_roads_osm_metadata.json\",\"label\":\"hotosm_uzb_roads_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/UZB/roads/hotosm_uzb_roads_report.html\",\"label\":\"hotosm_uzb_roads_report.html (HTML)\"}]}"
 }

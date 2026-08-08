@@ -1,14 +1,14 @@
 {
   "id": "hdx-95ee90a3-e89d-4a46-b2af-b1c5d65bdf85",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T15:15:47Z",
-  "dct_title_s": "Puerto Rico Buildings (OpenStreetMap Export)",
+  "gbl_mdModified_dt": "2026-08-07T22:10:09Z",
+  "dct_title_s": "Buildings of Puerto Rico",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "This theme includes all OpenStreetMap features in this area matching ( Learn what tags means [here](https://wiki.openstreetmap.org/wiki/Tags) ) : tags['building'] IS NOT NULL Features may have these attributes: - [name](http://wiki.openstreetmap.org/wiki/Key:name) - [name:en](http://wiki.openstreetmap.org/wiki/Key:name:en) - [building](http://wiki.openstreetmap.org/wiki/Key:building) - [building:levels](http://wiki.openstreetmap.org/wiki/Key:building:levels) - [building:materials](http://wiki.openstreetmap.org/wiki/Key:building:materials) - [addr:full](http://wiki.openstreetmap.org/wiki/Key:addr:full) - [addr:housenumber](http://wiki.openstreetmap.org/wiki/Key:addr:housenumber) - [addr:street](http://wiki.openstreetmap.org/wiki/Key:addr:street) - [addr:city](http://wiki.openstreetmap.org/wiki/Key:addr:city) - [office](http://wiki.openstreetmap.org/wiki/Key:office) - [source](http://wiki.openstreetmap.org/wiki/Key:source) - [name:es](http://wiki.openstreetmap.org/wiki/Key:name:es) This dataset is one of many [OpenStreetMap exports on HDX](https://data.humdata.org/organization/hot). See the [Humanitarian OpenStreetMap Team](http://hotosm.org/) website for more information."
+    "Building footprints across the region: every feature tagged `building=*`, from residential homes to hospitals, schools, and places of worship. Useful for population estimation, damage assessment, and urban planning. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [building](https://wiki.openstreetmap.org/wiki/Key:building) - Part of the [exports grid on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
   ],
   "dct_language_sm": [
     "eng"
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_pri_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/PRI/buildings/polygons/hotosm_pri_buildings_polygons_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_pri_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/PRI/buildings/polygons/hotosm_pri_buildings_polygons_shp.zip\",\"label\":\"hotosm_pri_buildings_polygons_shp.zip (SHP)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/PRI/buildings/polygons/hotosm_pri_buildings_polygons_kml.zip\",\"label\":\"hotosm_pri_buildings_polygons_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/PRI/buildings/polygons/hotosm_pri_buildings_polygons_geojson.zip\",\"label\":\"hotosm_pri_buildings_polygons_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/PRI/buildings/polygons/hotosm_pri_buildings_polygons_gpkg.zip\",\"label\":\"hotosm_pri_buildings_polygons_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PRI/buildings/hotosm_pri_buildings_osm_gpkg.zip\",\"label\":\"hotosm_pri_buildings_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PRI/buildings/hotosm_pri_buildings_osm_shp.zip\",\"label\":\"hotosm_pri_buildings_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PRI/buildings/hotosm_pri_buildings_osm_metadata.json\",\"label\":\"hotosm_pri_buildings_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PRI/buildings/hotosm_pri_buildings_report.html\",\"label\":\"hotosm_pri_buildings_report.html (HTML)\"}]}"
 }

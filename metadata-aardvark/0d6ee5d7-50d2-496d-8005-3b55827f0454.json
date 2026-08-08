@@ -1,7 +1,7 @@
 {
   "id": "hdx-0d6ee5d7-50d2-496d-8005-3b55827f0454",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-28T09:11:26Z",
+  "gbl_mdModified_dt": "2026-08-07T07:53:12Z",
   "dct_title_s": "Financial Services of Ecuador",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_ecu_financial_services\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ECU/financial_services/hotosm_ecu_financial_services_osm_geojson.zip\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_ecu_financial_services\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ECU/financial_services/hotosm_ecu_financial_services_osm_gpkg.zip\",\"label\":\"hotosm_ecu_financial_services_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ECU/financial_services/hotosm_ecu_financial_services_osm_shp.zip\",\"label\":\"hotosm_ecu_financial_services_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ECU/financial_services/hotosm_ecu_financial_services_osm_geojson.zip\",\"label\":\"hotosm_ecu_financial_services_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ECU/financial_services/hotosm_ecu_financial_services_osm_metadata.json\",\"label\":\"hotosm_ecu_financial_services_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ECU/financial_services/hotosm_ecu_financial_services_report.html\",\"label\":\"hotosm_ecu_financial_services_report.html (HTML)\"}]}"
 }

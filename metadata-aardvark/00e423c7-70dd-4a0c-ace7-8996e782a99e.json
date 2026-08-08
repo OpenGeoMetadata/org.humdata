@@ -1,14 +1,14 @@
 {
   "id": "hdx-00e423c7-70dd-4a0c-ace7-8996e782a99e",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-15T14:10:48Z",
-  "dct_title_s": "Libya : Waterways (OpenStreetMap Export)",
+  "gbl_mdModified_dt": "2026-08-07T11:28:47Z",
+  "dct_title_s": "Waterways of Libya",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "Water features across the region from OSM. Includes rivers, streams, canals, lakes, ponds, and water bodies tagged with `waterway`, `water`, or `natural=water`. Useful for flood-risk modelling, watershed analysis, and environmental basemap context. OpenStreetMap is a free, collaborative world map built by volunteers. Completeness varies by region: urban areas are usually well-mapped, remote areas may be incomplete. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org) - OSM tags: [Key:waterway](https://wiki.openstreetmap.org/wiki/Key:waterway), [Key:water](https://wiki.openstreetmap.org/wiki/Key:water), [Key:natural](https://wiki.openstreetmap.org/wiki/Key:natural) - Part of many [exports grid on HDX](https://data.humdata.org/organization/hot) by the [HOT](https://www.hotosm.org/en/)"
+    "Water features across the region: rivers, streams, canals, lakes, ponds, and water bodies tagged with `waterway`, `water`, or `natural=water`. Useful for flood-risk modelling, watershed analysis, and environmental basemap context. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [waterway](https://wiki.openstreetmap.org/wiki/Key:waterway), [water](https://wiki.openstreetmap.org/wiki/Key:water), [natural](https://wiki.openstreetmap.org/wiki/Key:natural) - Part of the [exports grid on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
   ],
   "dct_language_sm": [
     "eng"
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_lby_waterways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/LBY/waterways/hotosm_lby_waterways_osm_geojson.zip\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_lby_waterways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/LBY/waterways/hotosm_lby_waterways_osm_gpkg.zip\",\"label\":\"hotosm_lby_waterways_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/LBY/waterways/hotosm_lby_waterways_osm_shp.zip\",\"label\":\"hotosm_lby_waterways_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/LBY/waterways/hotosm_lby_waterways_osm_geojson.zip\",\"label\":\"hotosm_lby_waterways_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/LBY/waterways/hotosm_lby_waterways_osm_kml.zip\",\"label\":\"hotosm_lby_waterways_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/LBY/waterways/hotosm_lby_waterways_osm_metadata.json\",\"label\":\"hotosm_lby_waterways_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/LBY/waterways/hotosm_lby_waterways_report.html\",\"label\":\"hotosm_lby_waterways_report.html (HTML)\"}]}"
 }

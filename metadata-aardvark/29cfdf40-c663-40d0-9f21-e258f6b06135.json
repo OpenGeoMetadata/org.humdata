@@ -1,7 +1,7 @@
 {
   "id": "hdx-29cfdf40-c663-40d0-9f21-e258f6b06135",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-28T09:06:39Z",
+  "gbl_mdModified_dt": "2026-08-07T07:34:03Z",
   "dct_title_s": "Roads of Djibouti",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_dji_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DJI/roads/hotosm_dji_roads_osm_gpkg.zip\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_dji_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DJI/roads/hotosm_dji_roads_osm_gpkg.zip\",\"label\":\"hotosm_dji_roads_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DJI/roads/hotosm_dji_roads_osm_shp.zip\",\"label\":\"hotosm_dji_roads_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DJI/roads/hotosm_dji_roads_osm_metadata.json\",\"label\":\"hotosm_dji_roads_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DJI/roads/hotosm_dji_roads_report.html\",\"label\":\"hotosm_dji_roads_report.html (HTML)\"}]}"
 }

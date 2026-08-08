@@ -1,14 +1,14 @@
 {
   "id": "hdx-1ac70c58-cac0-474b-95fb-e2c90cd2dc37",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-15T14:07:16Z",
-  "dct_title_s": "Honduras : Railways (OpenStreetMap Export)",
+  "gbl_mdModified_dt": "2026-08-07T10:31:10Z",
+  "dct_title_s": "Railways of Honduras",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "Railway lines and stations from OSM, tagged with `railway`. Includes rail lines, tram tracks, and stations. Useful for transport accessibility analysis and basemap context. OpenStreetMap is a free, collaborative world map built by volunteers. Completeness varies by region: urban areas are usually well-mapped, remote areas may be incomplete. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org) - OSM tags: [Key:railway](https://wiki.openstreetmap.org/wiki/Key:railway) - Part of many [exports grid on HDX](https://data.humdata.org/organization/hot) by the [HOT](https://www.hotosm.org/en/)"
+    "Railway lines and stations tagged `railway=*`: rail lines, tram tracks, and stations. Useful for transport accessibility analysis and basemap context. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [railway](https://wiki.openstreetmap.org/wiki/Key:railway) - Part of the [exports grid on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
   ],
   "dct_language_sm": [
     "eng"
@@ -41,5 +41,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_hnd_railways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/HND/railways/hotosm_hnd_railways_osm_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_hnd_railways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/HND/railways/hotosm_hnd_railways_osm_gpkg.zip\",\"label\":\"hotosm_hnd_railways_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/HND/railways/hotosm_hnd_railways_osm_shp.zip\",\"label\":\"hotosm_hnd_railways_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/HND/railways/hotosm_hnd_railways_osm_kml.zip\",\"label\":\"hotosm_hnd_railways_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/HND/railways/hotosm_hnd_railways_osm_geojson.zip\",\"label\":\"hotosm_hnd_railways_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/HND/railways/hotosm_hnd_railways_osm_metadata.json\",\"label\":\"hotosm_hnd_railways_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/HND/railways/hotosm_hnd_railways_report.html\",\"label\":\"hotosm_hnd_railways_report.html (HTML)\"}]}"
 }

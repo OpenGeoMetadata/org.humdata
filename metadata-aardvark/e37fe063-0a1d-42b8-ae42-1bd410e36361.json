@@ -1,0 +1,41 @@
+{
+  "id": "hdx-e37fe063-0a1d-42b8-ae42-1bd410e36361",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-08-07T21:07:06Z",
+  "dct_title_s": "Waterways of Western Sahara",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Water features across the region: rivers, streams, canals, lakes, ponds, and water bodies tagged with `waterway`, `water`, or `natural=water`. Useful for flood-risk modelling, watershed analysis, and environmental basemap context. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [waterway](https://wiki.openstreetmap.org/wiki/Key:waterway), [water](https://wiki.openstreetmap.org/wiki/Key:water), [natural](https://wiki.openstreetmap.org/wiki/Key:natural) - Part of the [exports grid on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "hydrology",
+    "rivers"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "hydrology",
+    "rivers"
+  ],
+  "dct_spatial_sm": [
+    "Western Sahara"
+  ],
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_esh_waterways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ESH/waterways/hotosm_esh_waterways_osm_gpkg.zip\",\"label\":\"hotosm_esh_waterways_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ESH/waterways/hotosm_esh_waterways_osm_shp.zip\",\"label\":\"hotosm_esh_waterways_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ESH/waterways/hotosm_esh_waterways_osm_geojson.zip\",\"label\":\"hotosm_esh_waterways_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ESH/waterways/hotosm_esh_waterways_osm_kml.zip\",\"label\":\"hotosm_esh_waterways_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ESH/waterways/hotosm_esh_waterways_osm_metadata.json\",\"label\":\"hotosm_esh_waterways_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ESH/waterways/hotosm_esh_waterways_report.html\",\"label\":\"hotosm_esh_waterways_report.html (HTML)\"}]}"
+}

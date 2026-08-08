@@ -1,7 +1,7 @@
 {
   "id": "hdx-97c13dd6-70f2-4204-b446-8c11e54f6ca6",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-28T10:14:04Z",
+  "gbl_mdModified_dt": "2026-08-07T07:54:50Z",
   "dct_title_s": "Cultural Places of Ecuador",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_ecu_cultural_places\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ECU/cultural_places/hotosm_ecu_cultural_places_osm_geojson.zip\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_ecu_cultural_places\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ECU/cultural_places/hotosm_ecu_cultural_places_osm_gpkg.zip\",\"label\":\"hotosm_ecu_cultural_places_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ECU/cultural_places/hotosm_ecu_cultural_places_osm_shp.zip\",\"label\":\"hotosm_ecu_cultural_places_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ECU/cultural_places/hotosm_ecu_cultural_places_osm_geojson.zip\",\"label\":\"hotosm_ecu_cultural_places_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ECU/cultural_places/hotosm_ecu_cultural_places_osm_metadata.json\",\"label\":\"hotosm_ecu_cultural_places_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ECU/cultural_places/hotosm_ecu_cultural_places_report.html\",\"label\":\"hotosm_ecu_cultural_places_report.html (HTML)\"}]}"
 }

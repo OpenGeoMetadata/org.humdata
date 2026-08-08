@@ -1,7 +1,7 @@
 {
   "id": "hdx-17f6d37f-74ae-429d-8804-f83f76a51925",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-28T09:08:00Z",
+  "gbl_mdModified_dt": "2026-08-07T05:32:24Z",
   "dct_title_s": "Financial Services of Chile",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_chl_financial_services\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CHL/financial_services/hotosm_chl_financial_services_osm_geojson.zip\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_chl_financial_services\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CHL/financial_services/hotosm_chl_financial_services_osm_gpkg.zip\",\"label\":\"hotosm_chl_financial_services_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CHL/financial_services/hotosm_chl_financial_services_osm_shp.zip\",\"label\":\"hotosm_chl_financial_services_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CHL/financial_services/hotosm_chl_financial_services_osm_geojson.zip\",\"label\":\"hotosm_chl_financial_services_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CHL/financial_services/hotosm_chl_financial_services_osm_metadata.json\",\"label\":\"hotosm_chl_financial_services_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CHL/financial_services/hotosm_chl_financial_services_report.html\",\"label\":\"hotosm_chl_financial_services_report.html (HTML)\"}]}"
 }

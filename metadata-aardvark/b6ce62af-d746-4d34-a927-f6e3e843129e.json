@@ -1,14 +1,14 @@
 {
   "id": "hdx-b6ce62af-d746-4d34-a927-f6e3e843129e",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-15T15:42:57Z",
-  "dct_title_s": "Mayotte : Buildings (OpenStreetMap Export)",
+  "gbl_mdModified_dt": "2026-08-07T12:46:20Z",
+  "dct_title_s": "Buildings of Mayotte",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "Building footprints across the region from OSM. Includes every feature tagged as a building (`building=*`), from residential homes through hospitals, schools, and places of worship. Useful for population estimation, damage assessment, and urban planning. OpenStreetMap is a free, collaborative world map built by volunteers. Completeness varies by region: urban areas are usually well-mapped, remote areas may be incomplete. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org) - OSM tags: [Key:building](https://wiki.openstreetmap.org/wiki/Key:building) - Part of many [exports grid on HDX](https://data.humdata.org/organization/hot) by the [HOT](https://www.hotosm.org/en/)"
+    "Building footprints across the region: every feature tagged `building=*`, from residential homes to hospitals, schools, and places of worship. Useful for population estimation, damage assessment, and urban planning. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [building](https://wiki.openstreetmap.org/wiki/Key:building) - Part of the [exports grid on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
   ],
   "dct_language_sm": [
     "eng"
@@ -35,5 +35,5 @@
     2026
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_myt_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MYT/buildings/hotosm_myt_buildings_osm_gpkg.zip\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_myt_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MYT/buildings/hotosm_myt_buildings_osm_gpkg.zip\",\"label\":\"hotosm_myt_buildings_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MYT/buildings/hotosm_myt_buildings_osm_shp.zip\",\"label\":\"hotosm_myt_buildings_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MYT/buildings/hotosm_myt_buildings_osm_metadata.json\",\"label\":\"hotosm_myt_buildings_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MYT/buildings/hotosm_myt_buildings_report.html\",\"label\":\"hotosm_myt_buildings_report.html (HTML)\"}]}"
 }

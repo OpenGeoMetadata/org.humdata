@@ -1,7 +1,7 @@
 {
   "id": "hdx-5b6444f0-b5cb-4b1f-b498-9f0b2c0d4b4d",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-28T09:29:52Z",
+  "gbl_mdModified_dt": "2026-08-07T06:10:52Z",
   "dct_title_s": "Sea Ports of Chile",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_chl_sea_ports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CHL/sea_ports/hotosm_chl_sea_ports_osm_geojson.zip\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_chl_sea_ports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CHL/sea_ports/hotosm_chl_sea_ports_osm_gpkg.zip\",\"label\":\"hotosm_chl_sea_ports_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CHL/sea_ports/hotosm_chl_sea_ports_osm_shp.zip\",\"label\":\"hotosm_chl_sea_ports_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CHL/sea_ports/hotosm_chl_sea_ports_osm_geojson.zip\",\"label\":\"hotosm_chl_sea_ports_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CHL/sea_ports/hotosm_chl_sea_ports_osm_metadata.json\",\"label\":\"hotosm_chl_sea_ports_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CHL/sea_ports/hotosm_chl_sea_ports_report.html\",\"label\":\"hotosm_chl_sea_ports_report.html (HTML)\"}]}"
 }

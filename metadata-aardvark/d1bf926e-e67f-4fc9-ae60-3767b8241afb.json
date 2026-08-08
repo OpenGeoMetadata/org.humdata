@@ -1,7 +1,7 @@
 {
   "id": "hdx-d1bf926e-e67f-4fc9-ae60-3767b8241afb",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-28T10:34:35Z",
+  "gbl_mdModified_dt": "2026-08-07T07:47:58Z",
   "dct_title_s": "Waterways of Dominican Republic",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_dom_waterways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DOM/waterways/hotosm_dom_waterways_osm_geojson.zip\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_dom_waterways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DOM/waterways/hotosm_dom_waterways_osm_gpkg.zip\",\"label\":\"hotosm_dom_waterways_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DOM/waterways/hotosm_dom_waterways_osm_shp.zip\",\"label\":\"hotosm_dom_waterways_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DOM/waterways/hotosm_dom_waterways_osm_geojson.zip\",\"label\":\"hotosm_dom_waterways_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DOM/waterways/hotosm_dom_waterways_osm_kml.zip\",\"label\":\"hotosm_dom_waterways_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DOM/waterways/hotosm_dom_waterways_osm_metadata.json\",\"label\":\"hotosm_dom_waterways_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DOM/waterways/hotosm_dom_waterways_report.html\",\"label\":\"hotosm_dom_waterways_report.html (HTML)\"}]}"
 }

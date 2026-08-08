@@ -1,14 +1,14 @@
 {
   "id": "hdx-e4ca88ae-1072-4f64-9b5a-311db45c2eb2",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-15T16:19:38Z",
-  "dct_title_s": "Togo : Cultural Places (OpenStreetMap Export)",
+  "gbl_mdModified_dt": "2026-08-07T17:18:51Z",
+  "dct_title_s": "Cultural Places of Togo",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "Cultural and historic places from OSM. Includes museums, galleries, theatres, places of worship, monuments, and historic sites tagged via `tourism`, `amenity`, `historic`, or `heritage`. Useful for heritage protection, cultural mapping, and tourism context. OpenStreetMap is a free, collaborative world map built by volunteers. Completeness varies by region: urban areas are usually well-mapped, remote areas may be incomplete. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org) - OSM tags: [Key:tourism](https://wiki.openstreetmap.org/wiki/Key:tourism), [Key:amenity](https://wiki.openstreetmap.org/wiki/Key:amenity), [Key:historic](https://wiki.openstreetmap.org/wiki/Key:historic), [Key:heritage](https://wiki.openstreetmap.org/wiki/Key:heritage) - Part of many [exports grid on HDX](https://data.humdata.org/organization/hot) by the [HOT](https://www.hotosm.org/en/)"
+    "Cultural and historic places: museums, galleries, theatres, places of worship, monuments, and historic sites tagged via `tourism`, `amenity`, `historic`, or `heritage`. Useful for heritage protection, cultural mapping, and tourism context. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [tourism](https://wiki.openstreetmap.org/wiki/Key:tourism), [amenity](https://wiki.openstreetmap.org/wiki/Key:amenity), [historic](https://wiki.openstreetmap.org/wiki/Key:historic), [heritage](https://wiki.openstreetmap.org/wiki/Key:heritage) - Part of the [exports grid on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
   ],
   "dct_language_sm": [
     "eng"
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_tgo_cultural_places\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TGO/cultural_places/hotosm_tgo_cultural_places_osm_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_tgo_cultural_places\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TGO/cultural_places/hotosm_tgo_cultural_places_osm_gpkg.zip\",\"label\":\"hotosm_tgo_cultural_places_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TGO/cultural_places/hotosm_tgo_cultural_places_osm_shp.zip\",\"label\":\"hotosm_tgo_cultural_places_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TGO/cultural_places/hotosm_tgo_cultural_places_osm_kml.zip\",\"label\":\"hotosm_tgo_cultural_places_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TGO/cultural_places/hotosm_tgo_cultural_places_osm_geojson.zip\",\"label\":\"hotosm_tgo_cultural_places_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TGO/cultural_places/hotosm_tgo_cultural_places_osm_metadata.json\",\"label\":\"hotosm_tgo_cultural_places_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TGO/cultural_places/hotosm_tgo_cultural_places_report.html\",\"label\":\"hotosm_tgo_cultural_places_report.html (HTML)\"}]}"
 }

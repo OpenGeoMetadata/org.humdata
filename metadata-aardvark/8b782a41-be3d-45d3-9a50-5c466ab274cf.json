@@ -1,14 +1,14 @@
 {
   "id": "hdx-8b782a41-be3d-45d3-9a50-5c466ab274cf",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-15T15:10:37Z",
-  "dct_title_s": "Palau : Airports (OpenStreetMap Export)",
+  "gbl_mdModified_dt": "2026-08-07T14:59:41Z",
+  "dct_title_s": "Airports of Palau",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "Airports and aviation infrastructure from OSM. Includes airports, heliports, helipads, runways, terminals, and emergency landing sites tagged via `aeroway`, `building`, or `emergency`. Useful for logistics, evacuation routing, and aerial-response planning. OpenStreetMap is a free, collaborative world map built by volunteers. Completeness varies by region: urban areas are usually well-mapped, remote areas may be incomplete. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org) - OSM tags: [Key:aeroway](https://wiki.openstreetmap.org/wiki/Key:aeroway), [Key:building](https://wiki.openstreetmap.org/wiki/Key:building), [Key:emergency](https://wiki.openstreetmap.org/wiki/Key:emergency) - Part of many [exports grid on HDX](https://data.humdata.org/organization/hot) by the [HOT](https://www.hotosm.org/en/)"
+    "Airports and aviation infrastructure: airports, heliports, helipads, runways, terminals, and emergency landing sites tagged via `aeroway`, `building`, or `emergency`. Useful for logistics, evacuation routing, and aerial-response planning. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [aeroway](https://wiki.openstreetmap.org/wiki/Key:aeroway), [building](https://wiki.openstreetmap.org/wiki/Key:building), [emergency](https://wiki.openstreetmap.org/wiki/Key:emergency) - Part of the [exports grid on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
   ],
   "dct_language_sm": [
     "eng"
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_plw_airports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PLW/airports/hotosm_plw_airports_osm_geojson.zip\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_plw_airports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PLW/airports/hotosm_plw_airports_osm_gpkg.zip\",\"label\":\"hotosm_plw_airports_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PLW/airports/hotosm_plw_airports_osm_shp.zip\",\"label\":\"hotosm_plw_airports_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PLW/airports/hotosm_plw_airports_osm_geojson.zip\",\"label\":\"hotosm_plw_airports_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PLW/airports/hotosm_plw_airports_osm_metadata.json\",\"label\":\"hotosm_plw_airports_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PLW/airports/hotosm_plw_airports_report.html\",\"label\":\"hotosm_plw_airports_report.html (HTML)\"}]}"
 }

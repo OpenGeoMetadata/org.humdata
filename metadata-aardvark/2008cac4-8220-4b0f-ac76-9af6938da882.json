@@ -1,14 +1,14 @@
 {
   "id": "hdx-2008cac4-8220-4b0f-ac76-9af6938da882",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-15T14:06:46Z",
-  "dct_title_s": "Guyana : Health Facilities (OpenStreetMap Export)",
+  "gbl_mdModified_dt": "2026-08-07T10:28:54Z",
+  "dct_title_s": "Health Facilities of Guyana",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "Health facilities from OSM. Includes hospitals, clinics, pharmacies, doctors, and dentists tagged via `amenity` or `healthcare`. Useful for service-access analysis, emergency response, and healthcare gap mapping. OpenStreetMap is a free, collaborative world map built by volunteers. Completeness varies by region: urban areas are usually well-mapped, remote areas may be incomplete. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org) - OSM tags: [Key:amenity](https://wiki.openstreetmap.org/wiki/Key:amenity), [Key:healthcare](https://wiki.openstreetmap.org/wiki/Key:healthcare) - Part of many [exports grid on HDX](https://data.humdata.org/organization/hot) by the [HOT](https://www.hotosm.org/en/)"
+    "Health facilities: hospitals, clinics, pharmacies, doctors, and dentists tagged via `amenity` or `healthcare`. Useful for service-access analysis, emergency response, and healthcare gap mapping. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [amenity](https://wiki.openstreetmap.org/wiki/Key:amenity), [healthcare](https://wiki.openstreetmap.org/wiki/Key:healthcare) - Part of the [exports grid on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
   ],
   "dct_language_sm": [
     "eng"
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_guy_health_facilities\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/GUY/health_facilities/hotosm_guy_health_facilities_osm_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_guy_health_facilities\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/GUY/health_facilities/hotosm_guy_health_facilities_osm_gpkg.zip\",\"label\":\"hotosm_guy_health_facilities_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/GUY/health_facilities/hotosm_guy_health_facilities_osm_shp.zip\",\"label\":\"hotosm_guy_health_facilities_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/GUY/health_facilities/hotosm_guy_health_facilities_osm_kml.zip\",\"label\":\"hotosm_guy_health_facilities_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/GUY/health_facilities/hotosm_guy_health_facilities_osm_geojson.zip\",\"label\":\"hotosm_guy_health_facilities_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/GUY/health_facilities/hotosm_guy_health_facilities_osm_metadata.json\",\"label\":\"hotosm_guy_health_facilities_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/GUY/health_facilities/hotosm_guy_health_facilities_report.html\",\"label\":\"hotosm_guy_health_facilities_report.html (HTML)\"}]}"
 }

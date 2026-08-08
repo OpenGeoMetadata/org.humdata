@@ -1,7 +1,7 @@
 {
   "id": "hdx-2a22e894-04e6-4831-b726-2b6e596df2af",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-14T16:10:09Z",
+  "gbl_mdModified_dt": "2026-08-07T11:13:40Z",
   "dct_title_s": "Malawi: Acute Food Insecurity Country Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -31,20 +31,17 @@
   "locn_geometry": "ENVELOPE(32.69, 35.77, -9.23, -16.8)",
   "dcat_bbox": "ENVELOPE(32.69, 35.77, -9.23, -16.8)",
   "dct_temporal_sm": [
-    "2017-2026"
+    "2021-2027"
   ],
   "gbl_indexYear_im": [
-    2017,
-    2018,
-    2019,
-    2020,
     2021,
     2022,
     2023,
     2024,
     2025,
-    2026
+    2026,
+    2027
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/malawi-acute-food-insecurity-country-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/2a22e894-04e6-4831-b726-2b6e596df2af/resource/13a6ca39-eb5a-42f2-ac1b-b9826537e1d2/download/ipc_mwi.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/2a22e894-04e6-4831-b726-2b6e596df2af/resource/13a6ca39-eb5a-42f2-ac1b-b9826537e1d2/download/ipc_mwi.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/malawi-acute-food-insecurity-country-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/2a22e894-04e6-4831-b726-2b6e596df2af/resource/13a6ca39-eb5a-42f2-ac1b-b9826537e1d2/download/ipc_mwi.geojson\",\"label\":\"ipc_mwi.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/2a22e894-04e6-4831-b726-2b6e596df2af/resource/cbada0f8-430c-4fed-a080-83844b09f388/download/ipc_mwi_national_long_latest.csv\",\"label\":\"ipc_mwi_national_long_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/2a22e894-04e6-4831-b726-2b6e596df2af/resource/f6616874-0176-4610-a9e5-10a4e38da66e/download/ipc_mwi_area_long_latest.csv\",\"label\":\"ipc_mwi_area_long_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/2a22e894-04e6-4831-b726-2b6e596df2af/resource/3cc01128-8d2b-4c77-9e0b-6078d6938c18/download/ipc_mwi_area_wide_latest.csv\",\"label\":\"ipc_mwi_area_wide_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/2a22e894-04e6-4831-b726-2b6e596df2af/resource/6b4f6da5-0842-4e97-b28c-54046bdded9d/download/ipc_mwi_national_long.csv\",\"label\":\"ipc_mwi_national_long.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/2a22e894-04e6-4831-b726-2b6e596df2af/resource/bb60a5ec-c664-408a-9448-b6462293f6b9/download/ipc_mwi_national_wide.csv\",\"label\":\"ipc_mwi_national_wide.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/2a22e894-04e6-4831-b726-2b6e596df2af/resource/54dfffdb-0112-43d9-81e7-8a089dbc90d2/download/ipc_mwi_area_long.csv\",\"label\":\"ipc_mwi_area_long.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/2a22e894-04e6-4831-b726-2b6e596df2af/resource/71d78077-af71-46a2-bfc8-15365038e456/download/ipc_mwi_area_wide.csv\",\"label\":\"ipc_mwi_area_wide.csv (CSV)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/2a22e894-04e6-4831-b726-2b6e596df2af/resource/13a6ca39-eb5a-42f2-ac1b-b9826537e1d2/download/ipc_mwi.geojson\"}"
 }

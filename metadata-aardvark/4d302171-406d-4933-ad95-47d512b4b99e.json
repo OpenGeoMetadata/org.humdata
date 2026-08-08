@@ -1,14 +1,14 @@
 {
   "id": "hdx-4d302171-406d-4933-ad95-47d512b4b99e",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-17T14:28:02Z",
-  "dct_title_s": "Virgin Islands, U.S. : Financial Services (OpenStreetMap Export)",
+  "gbl_mdModified_dt": "2026-08-07T18:29:20Z",
+  "dct_title_s": "Financial Services of Virgin Islands, U.S.",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "Financial services from OSM. Includes banks, ATMs, post offices, money transfer agents, and microfinance branches tagged via `amenity`. Useful for financial-inclusion mapping, cash-distribution planning, and economic analysis. OpenStreetMap is a free, collaborative world map built by volunteers. Completeness varies by region: urban areas are usually well-mapped, remote areas may be incomplete. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org) - OSM tags: [Key:amenity](https://wiki.openstreetmap.org/wiki/Key:amenity) - Part of many [exports grid on HDX](https://data.humdata.org/organization/hot) by the [HOT](https://www.hotosm.org/en/)"
+    "Financial services: banks, ATMs, post offices, money transfer agents, and microfinance branches tagged via `amenity`. Useful for financial-inclusion mapping, cash-distribution planning, and economic analysis. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [amenity](https://wiki.openstreetmap.org/wiki/Key:amenity) - Part of the [exports grid on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
   ],
   "dct_language_sm": [
     "eng"
@@ -35,5 +35,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_vir_financial_services\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VIR/financial_services/hotosm_vir_financial_services_osm_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_vir_financial_services\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VIR/financial_services/hotosm_vir_financial_services_osm_gpkg.zip\",\"label\":\"hotosm_vir_financial_services_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VIR/financial_services/hotosm_vir_financial_services_osm_shp.zip\",\"label\":\"hotosm_vir_financial_services_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VIR/financial_services/hotosm_vir_financial_services_osm_kml.zip\",\"label\":\"hotosm_vir_financial_services_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VIR/financial_services/hotosm_vir_financial_services_osm_geojson.zip\",\"label\":\"hotosm_vir_financial_services_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VIR/financial_services/hotosm_vir_financial_services_osm_metadata.json\",\"label\":\"hotosm_vir_financial_services_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VIR/financial_services/hotosm_vir_financial_services_report.html\",\"label\":\"hotosm_vir_financial_services_report.html (HTML)\"}]}"
 }

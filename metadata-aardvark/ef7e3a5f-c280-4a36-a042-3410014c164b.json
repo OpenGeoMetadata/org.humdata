@@ -1,14 +1,14 @@
 {
   "id": "hdx-ef7e3a5f-c280-4a36-a042-3410014c164b",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-15T16:18:54Z",
-  "dct_title_s": "Portugal : Education Facilities (OpenStreetMap Export)",
+  "gbl_mdModified_dt": "2026-08-07T15:11:53Z",
+  "dct_title_s": "Education Facilities of Portugal",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "Education facilities from OSM. Includes schools, kindergartens, colleges, and universities tagged via `amenity` or `building`. Useful for school-access mapping, education planning, and resource allocation. OpenStreetMap is a free, collaborative world map built by volunteers. Completeness varies by region: urban areas are usually well-mapped, remote areas may be incomplete. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org) - OSM tags: [Key:amenity](https://wiki.openstreetmap.org/wiki/Key:amenity), [Key:building](https://wiki.openstreetmap.org/wiki/Key:building) - Part of many [exports grid on HDX](https://data.humdata.org/organization/hot) by the [HOT](https://www.hotosm.org/en/)"
+    "Education facilities: schools, kindergartens, colleges, and universities tagged via `amenity` or `building`. Useful for school-access mapping, education planning, and resource allocation. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [amenity](https://wiki.openstreetmap.org/wiki/Key:amenity), [building](https://wiki.openstreetmap.org/wiki/Key:building) - Part of the [exports grid on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
   ],
   "dct_language_sm": [
     "eng"
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_prt_education_facilities\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PRT/education_facilities/hotosm_prt_education_facilities_osm_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_prt_education_facilities\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PRT/education_facilities/hotosm_prt_education_facilities_osm_gpkg.zip\",\"label\":\"hotosm_prt_education_facilities_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PRT/education_facilities/hotosm_prt_education_facilities_osm_shp.zip\",\"label\":\"hotosm_prt_education_facilities_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PRT/education_facilities/hotosm_prt_education_facilities_osm_kml.zip\",\"label\":\"hotosm_prt_education_facilities_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PRT/education_facilities/hotosm_prt_education_facilities_osm_geojson.zip\",\"label\":\"hotosm_prt_education_facilities_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PRT/education_facilities/hotosm_prt_education_facilities_osm_metadata.json\",\"label\":\"hotosm_prt_education_facilities_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PRT/education_facilities/hotosm_prt_education_facilities_report.html\",\"label\":\"hotosm_prt_education_facilities_report.html (HTML)\"}]}"
 }

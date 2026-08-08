@@ -1,14 +1,14 @@
 {
   "id": "hdx-1a5cb365-fc90-4712-ac2e-bdad7621c820",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-15T14:07:00Z",
-  "dct_title_s": "Honduras : Points of Interest (OpenStreetMap Export)",
+  "gbl_mdModified_dt": "2026-08-07T10:32:19Z",
+  "dct_title_s": "Points of Interest of Honduras",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "Points of interest from OSM. Includes public-facing amenities, shops, tourist attractions, and landmarks tagged via `amenity`, `shop`, `tourism`, or `man_made`. Useful for general POI reference, urban analysis, and basemap detail. OpenStreetMap is a free, collaborative world map built by volunteers. Completeness varies by region: urban areas are usually well-mapped, remote areas may be incomplete. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org) - OSM tags: [Key:amenity](https://wiki.openstreetmap.org/wiki/Key:amenity), [Key:shop](https://wiki.openstreetmap.org/wiki/Key:shop), [Key:tourism](https://wiki.openstreetmap.org/wiki/Key:tourism), [Key:man_made](https://wiki.openstreetmap.org/wiki/Key:man_made) - Part of many [exports grid on HDX](https://data.humdata.org/organization/hot) by the [HOT](https://www.hotosm.org/en/)"
+    "Points of interest: public-facing amenities, shops, tourist attractions, and landmarks tagged via `amenity`, `shop`, `tourism`, or `man_made`. Useful for general POI reference, urban analysis, and basemap detail. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [amenity](https://wiki.openstreetmap.org/wiki/Key:amenity), [shop](https://wiki.openstreetmap.org/wiki/Key:shop), [tourism](https://wiki.openstreetmap.org/wiki/Key:tourism), [man_made](https://wiki.openstreetmap.org/wiki/Key:man_made) - Part of the [exports grid on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
   ],
   "dct_language_sm": [
     "eng"
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_hnd_points_of_interest\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/HND/points_of_interest/hotosm_hnd_points_of_interest_osm_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_hnd_points_of_interest\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/HND/points_of_interest/hotosm_hnd_points_of_interest_osm_gpkg.zip\",\"label\":\"hotosm_hnd_points_of_interest_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/HND/points_of_interest/hotosm_hnd_points_of_interest_osm_shp.zip\",\"label\":\"hotosm_hnd_points_of_interest_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/HND/points_of_interest/hotosm_hnd_points_of_interest_osm_kml.zip\",\"label\":\"hotosm_hnd_points_of_interest_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/HND/points_of_interest/hotosm_hnd_points_of_interest_osm_geojson.zip\",\"label\":\"hotosm_hnd_points_of_interest_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/HND/points_of_interest/hotosm_hnd_points_of_interest_osm_metadata.json\",\"label\":\"hotosm_hnd_points_of_interest_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/HND/points_of_interest/hotosm_hnd_points_of_interest_report.html\",\"label\":\"hotosm_hnd_points_of_interest_report.html (HTML)\"}]}"
 }

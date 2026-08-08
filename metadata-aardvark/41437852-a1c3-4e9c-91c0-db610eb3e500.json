@@ -1,7 +1,7 @@
 {
   "id": "hdx-41437852-a1c3-4e9c-91c0-db610eb3e500",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-28T09:26:24Z",
+  "gbl_mdModified_dt": "2026-08-07T07:07:44Z",
   "dct_title_s": "Sea Ports of Cuba",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_cub_sea_ports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CUB/sea_ports/hotosm_cub_sea_ports_osm_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_cub_sea_ports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CUB/sea_ports/hotosm_cub_sea_ports_osm_gpkg.zip\",\"label\":\"hotosm_cub_sea_ports_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CUB/sea_ports/hotosm_cub_sea_ports_osm_shp.zip\",\"label\":\"hotosm_cub_sea_ports_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CUB/sea_ports/hotosm_cub_sea_ports_osm_kml.zip\",\"label\":\"hotosm_cub_sea_ports_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CUB/sea_ports/hotosm_cub_sea_ports_osm_geojson.zip\",\"label\":\"hotosm_cub_sea_ports_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CUB/sea_ports/hotosm_cub_sea_ports_osm_metadata.json\",\"label\":\"hotosm_cub_sea_ports_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CUB/sea_ports/hotosm_cub_sea_ports_report.html\",\"label\":\"hotosm_cub_sea_ports_report.html (HTML)\"}]}"
 }

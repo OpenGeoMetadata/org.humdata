@@ -1,7 +1,7 @@
 {
   "id": "hdx-e4d55e0b-1417-4b45-8e1b-e958b0f7752c",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-28T10:39:14Z",
+  "gbl_mdModified_dt": "2026-08-07T04:34:07Z",
   "dct_title_s": "Education Facilities of Chile",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_chl_education_facilities\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CHL/education_facilities/hotosm_chl_education_facilities_osm_geojson.zip\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_chl_education_facilities\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CHL/education_facilities/hotosm_chl_education_facilities_osm_gpkg.zip\",\"label\":\"hotosm_chl_education_facilities_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CHL/education_facilities/hotosm_chl_education_facilities_osm_shp.zip\",\"label\":\"hotosm_chl_education_facilities_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CHL/education_facilities/hotosm_chl_education_facilities_osm_geojson.zip\",\"label\":\"hotosm_chl_education_facilities_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CHL/education_facilities/hotosm_chl_education_facilities_osm_metadata.json\",\"label\":\"hotosm_chl_education_facilities_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CHL/education_facilities/hotosm_chl_education_facilities_report.html\",\"label\":\"hotosm_chl_education_facilities_report.html (HTML)\"}]}"
 }

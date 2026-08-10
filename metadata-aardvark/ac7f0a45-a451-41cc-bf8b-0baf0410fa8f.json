@@ -1,7 +1,7 @@
 {
   "id": "hdx-ac7f0a45-a451-41cc-bf8b-0baf0410fa8f",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T15:17:23Z",
+  "gbl_mdModified_dt": "2026-08-09T10:10:54Z",
   "dct_title_s": "Morocco Buildings (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_mar_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/MAR/buildings/polygons/hotosm_mar_buildings_polygons_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_mar_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/MAR/buildings/polygons/hotosm_mar_buildings_polygons_shp.zip\",\"label\":\"hotosm_mar_buildings_polygons_shp.zip (SHP)\"},{\"url\":\"https://export.hotosm.org/downloads/1e95db86-a36b-44d9-b0fc-3d6853b4fe15/hotosm_mar_buildings_gpkg.zip\",\"label\":\"hotosm_mar_buildings_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/MAR/buildings/polygons/hotosm_mar_buildings_polygons_kml.zip\",\"label\":\"hotosm_mar_buildings_polygons_kml.zip (KML)\"},{\"url\":\"https://export.hotosm.org/downloads/1e95db86-a36b-44d9-b0fc-3d6853b4fe15/hotosm_mar_gmapsupp_img.zip\",\"label\":\"hotosm_mar_gmapsupp_img.zip (Garmin IMG)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/MAR/buildings/polygons/hotosm_mar_buildings_polygons_geojson.zip\",\"label\":\"hotosm_mar_buildings_polygons_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.us-east-1.amazonaws.com/exports-stage.hotosm.org/hotosm_mar_buildings_polygons_csv_csv_uid_9571ff9c-4462-48cc-abee-86ef0c692a1a.zip\",\"label\":\"hotosm_mar_buildings_polygons_csv.zip (CSV)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/MAR/buildings/polygons/hotosm_mar_buildings_polygons_gpkg.zip\",\"label\":\"hotosm_mar_buildings_polygons_gpkg.zip (Geopackage)\"}]}"
 }

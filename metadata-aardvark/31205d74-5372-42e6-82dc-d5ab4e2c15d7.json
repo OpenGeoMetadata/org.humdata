@@ -1,7 +1,7 @@
 {
   "id": "hdx-31205d74-5372-42e6-82dc-d5ab4e2c15d7",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T14:27:01Z",
+  "gbl_mdModified_dt": "2026-08-09T10:11:39Z",
   "dct_title_s": "Pakistan Roads (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_pak_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/PAK/roads/lines/hotosm_pak_roads_lines_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_pak_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/PAK/roads/lines/hotosm_pak_roads_lines_shp.zip\",\"label\":\"hotosm_pak_roads_lines_shp.zip (SHP)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/PAK/roads/lines/hotosm_pak_roads_lines_kml.zip\",\"label\":\"hotosm_pak_roads_lines_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/PAK/roads/lines/hotosm_pak_roads_lines_geojson.zip\",\"label\":\"hotosm_pak_roads_lines_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/PAK/roads/lines/hotosm_pak_roads_lines_gpkg.zip\",\"label\":\"hotosm_pak_roads_lines_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/PAK/roads/polygons/hotosm_pak_roads_polygons_gpkg.zip\",\"label\":\"hotosm_pak_roads_polygons_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/PAK/roads/polygons/hotosm_pak_roads_polygons_kml.zip\",\"label\":\"hotosm_pak_roads_polygons_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/PAK/roads/polygons/hotosm_pak_roads_polygons_geojson.zip\",\"label\":\"hotosm_pak_roads_polygons_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/PAK/roads/polygons/hotosm_pak_roads_polygons_shp.zip\",\"label\":\"hotosm_pak_roads_polygons_shp.zip (SHP)\"}]}"
 }

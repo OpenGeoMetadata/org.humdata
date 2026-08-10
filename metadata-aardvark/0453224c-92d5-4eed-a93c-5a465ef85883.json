@@ -1,7 +1,7 @@
 {
   "id": "hdx-0453224c-92d5-4eed-a93c-5a465ef85883",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T14:10:47Z",
+  "gbl_mdModified_dt": "2026-08-09T10:08:28Z",
   "dct_title_s": "Spain Buildings (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_esp_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ESP/buildings/polygons/hotosm_esp_buildings_polygons_geojson.zip\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_esp_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ESP/buildings/polygons/hotosm_esp_buildings_polygons_geojson.zip\",\"label\":\"hotosm_esp_buildings_polygons_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ESP/buildings/polygons/hotosm_esp_buildings_polygons_kml.zip\",\"label\":\"hotosm_esp_buildings_polygons_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ESP/buildings/polygons/hotosm_esp_buildings_polygons_gpkg.zip\",\"label\":\"hotosm_esp_buildings_polygons_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ESP/buildings/polygons/hotosm_esp_buildings_polygons_shp.zip\",\"label\":\"hotosm_esp_buildings_polygons_shp.zip (SHP)\"}]}"
 }

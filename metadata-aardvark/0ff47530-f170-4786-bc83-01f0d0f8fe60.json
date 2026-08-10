@@ -1,7 +1,7 @@
 {
   "id": "hdx-0ff47530-f170-4786-bc83-01f0d0f8fe60",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-08-26T16:12:45Z",
+  "gbl_mdModified_dt": "2026-08-09T10:10:08Z",
   "dct_title_s": "Italy Populated Places (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2025
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_ita_populated_places\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ITA/populated_places/points/hotosm_ita_populated_places_points_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_ita_populated_places\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ITA/populated_places/points/hotosm_ita_populated_places_points_kml.zip\",\"label\":\"hotosm_ita_populated_places_points_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ITA/populated_places/points/hotosm_ita_populated_places_points_geojson.zip\",\"label\":\"hotosm_ita_populated_places_points_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ITA/populated_places/points/hotosm_ita_populated_places_points_gpkg.zip\",\"label\":\"hotosm_ita_populated_places_points_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ITA/populated_places/points/hotosm_ita_populated_places_points_shp.zip\",\"label\":\"hotosm_ita_populated_places_points_shp.zip (SHP)\"}]}"
 }

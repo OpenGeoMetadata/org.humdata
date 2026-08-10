@@ -1,7 +1,7 @@
 {
   "id": "hdx-df3c319e-7bca-40cc-baa2-5f8dbd021fa1",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T15:37:10Z",
+  "gbl_mdModified_dt": "2026-08-09T10:10:56Z",
   "dct_title_s": "Morocco Roads (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_mar_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/MAR/roads/lines/hotosm_mar_roads_lines_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_mar_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/MAR/roads/lines/hotosm_mar_roads_lines_shp.zip\",\"label\":\"hotosm_mar_roads_lines_shp.zip (SHP)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/MAR/roads/polygons/hotosm_mar_roads_polygons_shp.zip\",\"label\":\"hotosm_mar_roads_polygons_shp.zip (SHP)\"},{\"url\":\"https://export.hotosm.org/downloads/1e95db86-a36b-44d9-b0fc-3d6853b4fe15/hotosm_mar_roads_gpkg.zip\",\"label\":\"hotosm_mar_roads_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/MAR/roads/lines/hotosm_mar_roads_lines_kml.zip\",\"label\":\"hotosm_mar_roads_lines_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/MAR/roads/polygons/hotosm_mar_roads_polygons_kml.zip\",\"label\":\"hotosm_mar_roads_polygons_kml.zip (KML)\"},{\"url\":\"https://export.hotosm.org/downloads/1e95db86-a36b-44d9-b0fc-3d6853b4fe15/hotosm_mar_gmapsupp_img.zip\",\"label\":\"hotosm_mar_gmapsupp_img.zip (Garmin IMG)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/MAR/roads/lines/hotosm_mar_roads_lines_geojson.zip\",\"label\":\"hotosm_mar_roads_lines_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.us-east-1.amazonaws.com/exports-stage.hotosm.org/hotosm_mar_roads_lines_csv_csv_uid_4115e828-d96f-4865-88fe-8d35a1906feb.zip\",\"label\":\"hotosm_mar_roads_lines_csv.zip (CSV)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/MAR/roads/lines/hotosm_mar_roads_lines_gpkg.zip\",\"label\":\"hotosm_mar_roads_lines_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/MAR/roads/polygons/hotosm_mar_roads_polygons_geojson.zip\",\"label\":\"hotosm_mar_roads_polygons_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.us-east-1.amazonaws.com/exports-stage.hotosm.org/hotosm_mar_roads_polygons_csv_csv_uid_3852d244-44ee-4e52-a2ab-83faf1f0462a.zip\",\"label\":\"hotosm_mar_roads_polygons_csv.zip (CSV)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/MAR/roads/polygons/hotosm_mar_roads_polygons_gpkg.zip\",\"label\":\"hotosm_mar_roads_polygons_gpkg.zip (Geopackage)\"}]}"
 }

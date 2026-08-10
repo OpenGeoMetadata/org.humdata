@@ -1,7 +1,7 @@
 {
   "id": "hdx-771b6aeb-6b12-4391-8446-33b4cb603e42",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-17T14:48:23Z",
+  "gbl_mdModified_dt": "2026-08-09T10:07:14Z",
   "dct_title_s": "Canada : Buildings (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_can_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CAN/buildings/hotosm_can_buildings_osm_gpkg.zip\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_can_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CAN/buildings/hotosm_can_buildings_osm_gpkg.zip\",\"label\":\"hotosm_can_buildings_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CAN/buildings/hotosm_can_buildings_osm_shp.zip\",\"label\":\"hotosm_can_buildings_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CAN/buildings/hotosm_can_buildings_osm_metadata.json\",\"label\":\"hotosm_can_buildings_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CAN/buildings/hotosm_can_buildings_report.html\",\"label\":\"hotosm_can_buildings_report.html (HTML)\"}]}"
 }

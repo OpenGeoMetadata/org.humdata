@@ -1,7 +1,7 @@
 {
   "id": "hdx-50741247-aaab-4d13-ae4b-e074735d1d17",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-08-26T18:09:51Z",
+  "gbl_mdModified_dt": "2026-08-09T10:07:28Z",
   "dct_title_s": "Canada Points of Interest (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2024
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_can_points_of_interest\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/CAN/points_of_interest/points/hotosm_can_points_of_interest_points_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_can_points_of_interest\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/CAN/points_of_interest/points/hotosm_can_points_of_interest_points_shp.zip\",\"label\":\"hotosm_can_points_of_interest_points_shp.zip (SHP)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/CAN/points_of_interest/polygons/hotosm_can_points_of_interest_polygons_shp.zip\",\"label\":\"hotosm_can_points_of_interest_polygons_shp.zip (SHP)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/CAN/points_of_interest/points/hotosm_can_points_of_interest_points_kml.zip\",\"label\":\"hotosm_can_points_of_interest_points_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/CAN/points_of_interest/polygons/hotosm_can_points_of_interest_polygons_kml.zip\",\"label\":\"hotosm_can_points_of_interest_polygons_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/CAN/points_of_interest/points/hotosm_can_points_of_interest_points_geojson.zip\",\"label\":\"hotosm_can_points_of_interest_points_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/CAN/points_of_interest/points/hotosm_can_points_of_interest_points_gpkg.zip\",\"label\":\"hotosm_can_points_of_interest_points_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/CAN/points_of_interest/polygons/hotosm_can_points_of_interest_polygons_geojson.zip\",\"label\":\"hotosm_can_points_of_interest_polygons_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/CAN/points_of_interest/polygons/hotosm_can_points_of_interest_polygons_gpkg.zip\",\"label\":\"hotosm_can_points_of_interest_polygons_gpkg.zip (Geopackage)\"}]}"
 }

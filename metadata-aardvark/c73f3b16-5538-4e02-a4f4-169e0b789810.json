@@ -1,7 +1,7 @@
 {
   "id": "hdx-c73f3b16-5538-4e02-a4f4-169e0b789810",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T15:33:11Z",
+  "gbl_mdModified_dt": "2026-08-09T10:12:31Z",
   "dct_title_s": "Philippines Points of Interest (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_phl_points_of_interest\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/PHL/points_of_interest/points/hotosm_phl_points_of_interest_points_geojson.zip\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_phl_points_of_interest\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/PHL/points_of_interest/points/hotosm_phl_points_of_interest_points_shp.zip\",\"label\":\"hotosm_phl_points_of_interest_points_shp.zip (SHP)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/PHL/points_of_interest/points/hotosm_phl_points_of_interest_points_geojson.zip\",\"label\":\"hotosm_phl_points_of_interest_points_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/PHL/points_of_interest/points/hotosm_phl_points_of_interest_points_kml.zip\",\"label\":\"hotosm_phl_points_of_interest_points_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/PHL/points_of_interest/polygons/hotosm_phl_points_of_interest_polygons_shp.zip\",\"label\":\"hotosm_phl_points_of_interest_polygons_shp.zip (SHP)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/PHL/points_of_interest/polygons/hotosm_phl_points_of_interest_polygons_geojson.zip\",\"label\":\"hotosm_phl_points_of_interest_polygons_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/PHL/points_of_interest/polygons/hotosm_phl_points_of_interest_polygons_kml.zip\",\"label\":\"hotosm_phl_points_of_interest_polygons_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/PHL/points_of_interest/points/hotosm_phl_points_of_interest_points_gpkg.zip\",\"label\":\"hotosm_phl_points_of_interest_points_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/PHL/points_of_interest/polygons/hotosm_phl_points_of_interest_polygons_gpkg.zip\",\"label\":\"hotosm_phl_points_of_interest_polygons_gpkg.zip (Geopackage)\"}]}"
 }

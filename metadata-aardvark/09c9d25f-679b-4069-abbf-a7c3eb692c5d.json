@@ -1,7 +1,7 @@
 {
   "id": "hdx-09c9d25f-679b-4069-abbf-a7c3eb692c5d",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-13T14:10:21Z",
+  "gbl_mdModified_dt": "2026-08-09T10:09:26Z",
   "dct_title_s": "India : Waterways (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_ind_waterways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/IND/waterways/hotosm_ind_waterways_osm_geojson.zip\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_ind_waterways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/IND/waterways/hotosm_ind_waterways_osm_gpkg.zip\",\"label\":\"hotosm_ind_waterways_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/IND/waterways/hotosm_ind_waterways_osm_shp.zip\",\"label\":\"hotosm_ind_waterways_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/IND/waterways/hotosm_ind_waterways_osm_geojson.zip\",\"label\":\"hotosm_ind_waterways_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/IND/waterways/hotosm_ind_waterways_osm_metadata.json\",\"label\":\"hotosm_ind_waterways_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/IND/waterways/hotosm_ind_waterways_report.html\",\"label\":\"hotosm_ind_waterways_report.html (HTML)\"}]}"
 }

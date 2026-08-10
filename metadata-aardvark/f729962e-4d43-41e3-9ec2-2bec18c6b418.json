@@ -1,7 +1,7 @@
 {
   "id": "hdx-f729962e-4d43-41e3-9ec2-2bec18c6b418",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T15:55:27Z",
+  "gbl_mdModified_dt": "2026-08-09T10:07:58Z",
   "dct_title_s": "Algeria Health Facilities (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_dza_health_facilities\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/DZA/health_facilities/points/hotosm_dza_health_facilities_points_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_dza_health_facilities\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/DZA/health_facilities/points/hotosm_dza_health_facilities_points_shp.zip\",\"label\":\"hotosm_dza_health_facilities_points_shp.zip (SHP)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/DZA/health_facilities/polygons/hotosm_dza_health_facilities_polygons_shp.zip\",\"label\":\"hotosm_dza_health_facilities_polygons_shp.zip (SHP)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/DZA/health_facilities/points/hotosm_dza_health_facilities_points_kml.zip\",\"label\":\"hotosm_dza_health_facilities_points_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/DZA/health_facilities/polygons/hotosm_dza_health_facilities_polygons_kml.zip\",\"label\":\"hotosm_dza_health_facilities_polygons_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/DZA/health_facilities/points/hotosm_dza_health_facilities_points_geojson.zip\",\"label\":\"hotosm_dza_health_facilities_points_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/DZA/health_facilities/polygons/hotosm_dza_health_facilities_polygons_geojson.zip\",\"label\":\"hotosm_dza_health_facilities_polygons_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/DZA/health_facilities/points/hotosm_dza_health_facilities_points_gpkg.zip\",\"label\":\"hotosm_dza_health_facilities_points_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/DZA/health_facilities/polygons/hotosm_dza_health_facilities_polygons_gpkg.zip\",\"label\":\"hotosm_dza_health_facilities_polygons_gpkg.zip (Geopackage)\"}]}"
 }

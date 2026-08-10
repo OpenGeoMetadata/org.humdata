@@ -1,7 +1,7 @@
 {
   "id": "hdx-e201eb9f-8678-4269-b809-57e0676efc73",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T15:43:19Z",
+  "gbl_mdModified_dt": "2026-08-09T10:14:19Z",
   "dct_title_s": "South Africa Roads (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_zaf_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ZAF/roads/lines/hotosm_zaf_roads_lines_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_zaf_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ZAF/roads/lines/hotosm_zaf_roads_lines_shp.zip\",\"label\":\"hotosm_zaf_roads_lines_shp.zip (SHP)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ZAF/roads/polygons/hotosm_zaf_roads_polygons_shp.zip\",\"label\":\"hotosm_zaf_roads_polygons_shp.zip (SHP)\"},{\"url\":\"https://export.hotosm.org/downloads/153835b7-f2c2-4680-a964-a164533f9659/hotosm_zaf_roads_gpkg.zip\",\"label\":\"hotosm_zaf_roads_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ZAF/roads/lines/hotosm_zaf_roads_lines_kml.zip\",\"label\":\"hotosm_zaf_roads_lines_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ZAF/roads/polygons/hotosm_zaf_roads_polygons_kml.zip\",\"label\":\"hotosm_zaf_roads_polygons_kml.zip (KML)\"},{\"url\":\"https://export.hotosm.org/downloads/153835b7-f2c2-4680-a964-a164533f9659/hotosm_zaf_gmapsupp_img.zip\",\"label\":\"hotosm_zaf_gmapsupp_img.zip (Garmin IMG)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ZAF/roads/lines/hotosm_zaf_roads_lines_geojson.zip\",\"label\":\"hotosm_zaf_roads_lines_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ZAF/roads/lines/hotosm_zaf_roads_lines_gpkg.zip\",\"label\":\"hotosm_zaf_roads_lines_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ZAF/roads/polygons/hotosm_zaf_roads_polygons_gpkg.zip\",\"label\":\"hotosm_zaf_roads_polygons_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ZAF/roads/polygons/hotosm_zaf_roads_polygons_geojson.zip\",\"label\":\"hotosm_zaf_roads_polygons_geojson.zip (GeoJSON)\"}]}"
 }

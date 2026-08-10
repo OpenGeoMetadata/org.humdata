@@ -1,7 +1,7 @@
 {
   "id": "hdx-1904beb1-da99-4dd7-872d-4d44e33ea58e",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T14:06:34Z",
+  "gbl_mdModified_dt": "2026-08-09T10:08:08Z",
   "dct_title_s": "Egypt Buildings (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_egy_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/EGY/buildings/polygons/hotosm_egy_buildings_polygons_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_egy_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/EGY/buildings/polygons/hotosm_egy_buildings_polygons_shp.zip\",\"label\":\"hotosm_egy_buildings_polygons_shp.zip (SHP)\"},{\"url\":\"https://export.hotosm.org/downloads/1640c72b-9c6d-409b-8478-ab95e22fc17d/hotosm_egy_buildings_gpkg.zip\",\"label\":\"hotosm_egy_buildings_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/EGY/buildings/polygons/hotosm_egy_buildings_polygons_kml.zip\",\"label\":\"hotosm_egy_buildings_polygons_kml.zip (KML)\"},{\"url\":\"https://export.hotosm.org/downloads/1640c72b-9c6d-409b-8478-ab95e22fc17d/hotosm_egy_gmapsupp_img.zip\",\"label\":\"hotosm_egy_gmapsupp_img.zip (Garmin IMG)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/EGY/buildings/polygons/hotosm_egy_buildings_polygons_geojson.zip\",\"label\":\"hotosm_egy_buildings_polygons_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/EGY/buildings/polygons/hotosm_egy_buildings_polygons_gpkg.zip\",\"label\":\"hotosm_egy_buildings_polygons_gpkg.zip (Geopackage)\"}]}"
 }

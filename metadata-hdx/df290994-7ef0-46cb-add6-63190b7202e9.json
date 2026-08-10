@@ -3,11 +3,10 @@
   "batch": "1cfef687-7ea0-4951-9671-ef886fbe9ec6",
   "caveats": "OpenStreetMap data is crowd sourced and cannot be considered to be exhaustive",
   "creator_user_id": "6a0688ce-8521-46e2-8edd-8e26c0851ebd",
-  "data_update_frequency": "30",
+  "data_update_frequency": "-2",
   "dataset_date": "[2026-05-05T00:00:00 TO 2026-05-05T23:59:59]",
   "dataset_preview": "first_resource",
   "dataset_source": "OpenStreetMap contributors",
-  "due_date": "2026-06-04T23:59:59",
   "has_geodata": true,
   "has_showcases": false,
   "id": "df290994-7ef0-46cb-add6-63190b7202e9",
@@ -19,7 +18,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "6a0688ce-8521-46e2-8edd-8e26c0851ebd",
   "metadata_created": "2019-12-06T20:45:52.906232",
-  "metadata_modified": "2026-05-07T10:36:58.359776",
+  "metadata_modified": "2026-08-09T10:12:00.702739",
   "methodology": "Other",
   "methodology_other": "Volunteered geographic information",
   "name": "hotosm_per_railways",
@@ -40,7 +39,7 @@
   },
   "owner_org": "225b9f7d-e7cb-4156-96a6-44c9c58d31e3",
   "package_creator": "osm2hdx",
-  "pageviews_last_14_days": 1,
+  "pageviews_last_14_days": 0,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Peru\"]}",
@@ -49,7 +48,7 @@
   "title": "Peru Railways (OpenStreetMap Export)",
   "total_res_downloads": 133,
   "type": "dataset",
-  "updated_by_script": "HDXPythonLibrary/6.2.8-HDXPythonLibrary/6.2.0-HOTOSM OSM Exports (2026-05-05T19:45:34.016239)",
+  "updated_by_script": "HDXPythonLibrary/6.6.7-osm-country-exports/0.1 (2026-08-09T10:12:00.327938)",
   "url": null,
   "version": null,
   "customviz": [
@@ -126,7 +125,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2019-12-06T20:45:52.939242",
@@ -138,7 +136,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/29798e99-480e-436d-8a67-4e8c59f01540/hotosm_per_railways_polygons_shp.zip",
       "id": "7b90ee0e-9833-40ba-8bdc-67836eca828d",
       "last_modified": "2024-07-23T14:10:27",
-      "metadata_modified": "2026-05-07T10:36:58.377876",
+      "metadata_modified": "2026-08-09T10:12:00.724045",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -153,7 +151,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2019-12-06T20:45:52.939246",
@@ -165,7 +162,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/29798e99-480e-436d-8a67-4e8c59f01540/hotosm_per_railways_gpkg.zip",
       "id": "5bb04e7b-6166-41ea-8f0f-7d1e263fe72c",
       "last_modified": "2024-07-23T14:10:27",
-      "metadata_modified": "2026-05-07T10:36:58.377939",
+      "metadata_modified": "2026-08-09T10:12:00.724116",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -233,7 +230,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2019-12-06T20:45:52.939260",
@@ -245,7 +241,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/29798e99-480e-436d-8a67-4e8c59f01540/hotosm_per_railways_polygons_kml.zip",
       "id": "c77daf6d-0931-489c-8e84-df0a6fdb875c",
       "last_modified": "2024-07-23T14:10:27",
-      "metadata_modified": "2026-05-07T10:36:58.378123",
+      "metadata_modified": "2026-08-09T10:12:00.724296",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -260,7 +256,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2019-12-06T20:45:52.939264",
@@ -272,7 +267,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/29798e99-480e-436d-8a67-4e8c59f01540/hotosm_per_gmapsupp_img.zip",
       "id": "649e41db-a1eb-4aae-87e7-a1f0f552e634",
       "last_modified": "2024-07-23T14:10:26",
-      "metadata_modified": "2026-05-07T10:36:58.378181",
+      "metadata_modified": "2026-08-09T10:12:00.724355",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

@@ -1,7 +1,7 @@
 {
   "id": "hdx-2a3a61d7-0675-4a78-ad23-d9ab0c7a8ce1",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-08-26T17:05:52Z",
+  "gbl_mdModified_dt": "2026-08-09T10:07:31Z",
   "dct_title_s": "China Roads (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2025
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_chn_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/CHN/roads/lines/hotosm_chn_roads_lines_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_chn_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/CHN/roads/lines/hotosm_chn_roads_lines_shp.zip\",\"label\":\"hotosm_chn_roads_lines_shp.zip (SHP)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/CHN/roads/lines/hotosm_chn_roads_lines_kml.zip\",\"label\":\"hotosm_chn_roads_lines_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/CHN/roads/lines/hotosm_chn_roads_lines_geojson.zip\",\"label\":\"hotosm_chn_roads_lines_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/CHN/roads/lines/hotosm_chn_roads_lines_gpkg.zip\",\"label\":\"hotosm_chn_roads_lines_gpkg.zip (Geopackage)\"}]}"
 }

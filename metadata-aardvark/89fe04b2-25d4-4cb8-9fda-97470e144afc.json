@@ -1,7 +1,7 @@
 {
   "id": "hdx-89fe04b2-25d4-4cb8-9fda-97470e144afc",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T14:54:22Z",
+  "gbl_mdModified_dt": "2026-08-09T10:14:17Z",
   "dct_title_s": "South Africa Buildings (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_zaf_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ZAF/buildings/polygons/hotosm_zaf_buildings_polygons_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_zaf_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ZAF/buildings/polygons/hotosm_zaf_buildings_polygons_shp.zip\",\"label\":\"hotosm_zaf_buildings_polygons_shp.zip (SHP)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ZAF/buildings/polygons/hotosm_zaf_buildings_polygons_kml.zip\",\"label\":\"hotosm_zaf_buildings_polygons_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ZAF/buildings/polygons/hotosm_zaf_buildings_polygons_geojson.zip\",\"label\":\"hotosm_zaf_buildings_polygons_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ZAF/buildings/polygons/hotosm_zaf_buildings_polygons_gpkg.zip\",\"label\":\"hotosm_zaf_buildings_polygons_gpkg.zip (Geopackage)\"}]}"
 }

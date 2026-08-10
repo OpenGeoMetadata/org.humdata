@@ -1,7 +1,7 @@
 {
   "id": "hdx-72ace8df-2f8d-4537-9658-098a91618cba",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-15T14:54:03Z",
+  "gbl_mdModified_dt": "2026-08-09T10:06:07Z",
   "dct_title_s": "Argentina : Roads (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_arg_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ARG/roads/hotosm_arg_roads_osm_gpkg.zip\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_arg_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ARG/roads/hotosm_arg_roads_osm_gpkg.zip\",\"label\":\"hotosm_arg_roads_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ARG/roads/hotosm_arg_roads_osm_shp.zip\",\"label\":\"hotosm_arg_roads_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ARG/roads/hotosm_arg_roads_osm_metadata.json\",\"label\":\"hotosm_arg_roads_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ARG/roads/hotosm_arg_roads_report.html\",\"label\":\"hotosm_arg_roads_report.html (HTML)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-cae439cb-eb92-4792-82a5-29000ed1d2c1",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T15:33:09Z",
+  "gbl_mdModified_dt": "2026-08-09T10:11:19Z",
   "dct_title_s": "Mexico Buildings (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_mex_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/MEX/buildings/polygons/hotosm_mex_buildings_polygons_geojson.zip\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_mex_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/MEX/buildings/polygons/hotosm_mex_buildings_polygons_geojson.zip\",\"label\":\"hotosm_mex_buildings_polygons_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/MEX/buildings/polygons/hotosm_mex_buildings_polygons_gpkg.zip\",\"label\":\"hotosm_mex_buildings_polygons_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/MEX/buildings/polygons/hotosm_mex_buildings_polygons_shp.zip\",\"label\":\"hotosm_mex_buildings_polygons_shp.zip (SHP)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/MEX/buildings/polygons/hotosm_mex_buildings_polygons_kml.zip\",\"label\":\"hotosm_mex_buildings_polygons_kml.zip (KML)\"}]}"
 }

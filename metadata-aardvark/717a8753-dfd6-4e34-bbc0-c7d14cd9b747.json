@@ -1,7 +1,7 @@
 {
   "id": "hdx-717a8753-dfd6-4e34-bbc0-c7d14cd9b747",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T14:48:47Z",
+  "gbl_mdModified_dt": "2026-08-09T10:08:10Z",
   "dct_title_s": "Egypt Roads (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_egy_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/EGY/roads/lines/hotosm_egy_roads_lines_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_egy_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/EGY/roads/lines/hotosm_egy_roads_lines_shp.zip\",\"label\":\"hotosm_egy_roads_lines_shp.zip (SHP)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/EGY/roads/lines/hotosm_egy_roads_lines_kml.zip\",\"label\":\"hotosm_egy_roads_lines_kml.zip (KML)\"},{\"url\":\"http://export.hotosm.org/downloads/24195e15-98d1-46c5-ba66-2d01e94a9318/hotosm_egy_gmapsupp_img.zip\",\"label\":\"hotosm_egy_gmapsupp_img.zip (Garmin IMG)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/EGY/roads/lines/hotosm_egy_roads_lines_geojson.zip\",\"label\":\"hotosm_egy_roads_lines_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/EGY/roads/lines/hotosm_egy_roads_lines_gpkg.zip\",\"label\":\"hotosm_egy_roads_lines_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/EGY/roads/polygons/hotosm_egy_roads_polygons_shp.zip\",\"label\":\"hotosm_egy_roads_polygons_shp.zip (SHP)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/EGY/roads/polygons/hotosm_egy_roads_polygons_gpkg.zip\",\"label\":\"hotosm_egy_roads_polygons_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/EGY/roads/polygons/hotosm_egy_roads_polygons_kml.zip\",\"label\":\"hotosm_egy_roads_polygons_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/EGY/roads/polygons/hotosm_egy_roads_polygons_geojson.zip\",\"label\":\"hotosm_egy_roads_polygons_geojson.zip (GeoJSON)\"}]}"
 }

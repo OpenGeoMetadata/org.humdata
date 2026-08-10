@@ -1,7 +1,7 @@
 {
   "id": "hdx-c797635a-6537-4c6d-a460-3fd82c0554a4",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-08-26T21:12:19Z",
+  "gbl_mdModified_dt": "2026-08-09T10:08:48Z",
   "dct_title_s": "United Kingdom Buildings (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_gbr_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/GBR/buildings/polygons/hotosm_gbr_buildings_polygons_geojson.zip\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_gbr_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/GBR/buildings/polygons/hotosm_gbr_buildings_polygons_geojson.zip\",\"label\":\"hotosm_gbr_buildings_polygons_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/GBR/buildings/polygons/hotosm_gbr_buildings_polygons_kml.zip\",\"label\":\"hotosm_gbr_buildings_polygons_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/GBR/buildings/polygons/hotosm_gbr_buildings_polygons_gpkg.zip\",\"label\":\"hotosm_gbr_buildings_polygons_gpkg.zip (Geopackage)\"}]}"
 }

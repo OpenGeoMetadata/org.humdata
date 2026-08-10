@@ -1,7 +1,7 @@
 {
   "id": "hdx-cc8cb371-40c3-45df-ab19-00c11675a105",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T15:33:45Z",
+  "gbl_mdModified_dt": "2026-08-09T10:13:13Z",
   "dct_title_s": "Thailand Roads (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_tha_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/THA/roads/lines/hotosm_tha_roads_lines_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_tha_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/THA/roads/lines/hotosm_tha_roads_lines_shp.zip\",\"label\":\"hotosm_tha_roads_lines_shp.zip (SHP)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/THA/roads/lines/hotosm_tha_roads_lines_kml.zip\",\"label\":\"hotosm_tha_roads_lines_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/THA/roads/lines/hotosm_tha_roads_lines_geojson.zip\",\"label\":\"hotosm_tha_roads_lines_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/THA/roads/lines/hotosm_tha_roads_lines_gpkg.zip\",\"label\":\"hotosm_tha_roads_lines_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/THA/roads/polygons/hotosm_tha_roads_polygons_gpkg.zip\",\"label\":\"hotosm_tha_roads_polygons_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/THA/roads/polygons/hotosm_tha_roads_polygons_kml.zip\",\"label\":\"hotosm_tha_roads_polygons_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/THA/roads/polygons/hotosm_tha_roads_polygons_geojson.zip\",\"label\":\"hotosm_tha_roads_polygons_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/THA/roads/polygons/hotosm_tha_roads_polygons_shp.zip\",\"label\":\"hotosm_tha_roads_polygons_shp.zip (SHP)\"}]}"
 }

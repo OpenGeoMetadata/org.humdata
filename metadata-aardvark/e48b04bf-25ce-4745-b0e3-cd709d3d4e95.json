@@ -1,7 +1,7 @@
 {
   "id": "hdx-e48b04bf-25ce-4745-b0e3-cd709d3d4e95",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-15T16:19:38Z",
+  "gbl_mdModified_dt": "2026-08-09T10:06:20Z",
   "dct_title_s": "Argentina : Points of Interest (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_arg_points_of_interest\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ARG/points_of_interest/hotosm_arg_points_of_interest_osm_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_arg_points_of_interest\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ARG/points_of_interest/hotosm_arg_points_of_interest_osm_gpkg.zip\",\"label\":\"hotosm_arg_points_of_interest_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ARG/points_of_interest/hotosm_arg_points_of_interest_osm_shp.zip\",\"label\":\"hotosm_arg_points_of_interest_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ARG/points_of_interest/hotosm_arg_points_of_interest_osm_kml.zip\",\"label\":\"hotosm_arg_points_of_interest_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ARG/points_of_interest/hotosm_arg_points_of_interest_osm_geojson.zip\",\"label\":\"hotosm_arg_points_of_interest_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ARG/points_of_interest/hotosm_arg_points_of_interest_osm_metadata.json\",\"label\":\"hotosm_arg_points_of_interest_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ARG/points_of_interest/hotosm_arg_points_of_interest_report.html\",\"label\":\"hotosm_arg_points_of_interest_report.html (HTML)\"}]}"
 }

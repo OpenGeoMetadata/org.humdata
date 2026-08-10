@@ -1,7 +1,7 @@
 {
   "id": "hdx-a765b026-9b13-4b22-8a18-417215421761",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-26T10:17:55Z",
+  "gbl_mdModified_dt": "2026-08-09T15:36:23Z",
   "dct_title_s": "Buildings of Nigeria",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_nga_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/NGA/buildings/hotosm_nga_buildings_osm_gpkg.zip\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_nga_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/NGA/buildings/hotosm_nga_buildings_osm_gpkg.zip\",\"label\":\"hotosm_nga_buildings_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/NGA/buildings/hotosm_nga_buildings_osm_shp.zip\",\"label\":\"hotosm_nga_buildings_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/NGA/buildings/hotosm_nga_buildings_osm_metadata.json\",\"label\":\"hotosm_nga_buildings_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/NGA/buildings/hotosm_nga_buildings_report.html\",\"label\":\"hotosm_nga_buildings_report.html (HTML)\"}]}"
 }

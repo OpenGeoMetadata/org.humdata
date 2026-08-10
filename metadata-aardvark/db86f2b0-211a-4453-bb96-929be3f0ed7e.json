@@ -1,7 +1,7 @@
 {
   "id": "hdx-db86f2b0-211a-4453-bb96-929be3f0ed7e",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-15T16:03:49Z",
+  "gbl_mdModified_dt": "2026-08-09T10:06:33Z",
   "dct_title_s": "Australia : Airports (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_aus_airports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AUS/airports/hotosm_aus_airports_osm_geojson.zip\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_aus_airports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AUS/airports/hotosm_aus_airports_osm_gpkg.zip\",\"label\":\"hotosm_aus_airports_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AUS/airports/hotosm_aus_airports_osm_shp.zip\",\"label\":\"hotosm_aus_airports_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AUS/airports/hotosm_aus_airports_osm_geojson.zip\",\"label\":\"hotosm_aus_airports_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AUS/airports/hotosm_aus_airports_osm_metadata.json\",\"label\":\"hotosm_aus_airports_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/AUS/airports/hotosm_aus_airports_report.html\",\"label\":\"hotosm_aus_airports_report.html (HTML)\"}]}"
 }

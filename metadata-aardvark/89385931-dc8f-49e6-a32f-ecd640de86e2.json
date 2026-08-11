@@ -1,14 +1,14 @@
 {
   "id": "hdx-89385931-dc8f-49e6-a32f-ecd640de86e2",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-07-20T09:55:03Z",
+  "gbl_mdModified_dt": "2026-08-10T10:15:02Z",
   "dct_title_s": "Protected and Conserved Areas (WDPCA) in Colombia",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "The World Database on Protected and Conserved Areas (WDPCA) combines the formerly separate World Database on Protected Areas (WDPA) and World Database on Other Effective Area-based Conservation Measures (WD-OECM). The WDPCA is the most comprehensive global database of marine and terrestrial protected areas and other effective area-based conservation measures, updated on a monthly basis, and is one of the key global biodiversity datasets being widely used by scientists, businesses, governments, international secretariats, and others to inform planning, policy decisions, and management. The WDPCA is part of the Protected Planet Initiative, a joint product of the UN Environment Programme and the International Union for Conservation of Nature (IUCN). The compilation and management of the WDPCA is carried out by the UN Environment Programme World Conservation Monitoring Centre (UNEP-WCMC), in collaboration with governments and other stakeholders. Data and information on the world's protected and conserved areas compiled in the WDPCA is used for reporting on progress towards reaching Target 3 of the Kunming-Montreal Global Biodiversity Framework, which calls for 30% of the world’s land and waters to be effectively conserved by 2030. Additionally, the WDPCA is used for reporting to the UN to track progress towards the 2030 Sustainable Development Goals, tracking of core indicators of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES), and providing information for other international assessments and reports including the Global Biodiversity Outlook. UNEP-WCMC and IUCN periodically release the Protected Planet Report on the status of the world's protected and conserved areas. Many platforms are incorporating the WDPCA to provide integrated information to diverse users, including businesses and governments, in a range of sectors. For example, the WDPCA is included in the Integrated Biodiversity Assessment Tool (IBAT), an innovative decision support tool that gives commercial users easy access to up-to-date information that allows them to identify biodiversity risks and opportunities within a project boundary. The reach of the WDPCA is further enhanced by the UN Biodiversity Lab as well as services developed by other parties, such as the Global Forest Watch and the Digital Observatory for Protected Areas, which provide decision makers with access to monitoring and alert systems that allow whole landscapes to be managed better. Together, these applications of the WDPCA demonstrate the growing value and significance of the Protected Planet initiative."
+    "This is a Map to update the Vector Tile Service for the WDPA"
   ],
   "dct_language_sm": [
     "eng"
@@ -31,7 +31,7 @@
   "locn_geometry": "ENVELOPE(-78.99, -66.88, 12.44, -4.3)",
   "dcat_bbox": "ENVELOPE(-78.99, -66.88, 12.44, -4.3)",
   "dct_temporal_sm": [
-    "1938-2025"
+    "1938-2024"
   ],
   "gbl_indexYear_im": [
     1938,
@@ -120,8 +120,7 @@
     2021,
     2022,
     2023,
-    2024,
-    2025
+    2024
   ],
   "dct_format_s": "GeoJSON",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/unep_wdpca_col\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/89385931-dc8f-49e6-a32f-ecd640de86e2/resource/acc4de60-3517-4a70-b647-0f1ebb988f62/download/protected_conserved_areas_wdpca.gpkg\",\"label\":\"protected_conserved_areas_WDPCA.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/89385931-dc8f-49e6-a32f-ecd640de86e2/resource/583f3eb7-df06-4608-8c68-e83b5acdcee3/download/protected_conserved_areas_wdpca_polygons.geojson\",\"label\":\"protected_conserved_areas_WDPCA_polygons.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/89385931-dc8f-49e6-a32f-ecd640de86e2/resource/f9c2640d-01c6-42b2-ac76-371757f5e3c9/download/protected_conserved_areas_wdpca_polygons.csv\",\"label\":\"protected_conserved_areas_WDPCA_polygons.csv (CSV)\"},{\"url\":\"https://data-gis.unep-wcmc.org/server/rest/services/ProtectedPlanet/WDPCA/FeatureServer/1\",\"label\":\"polygons GeoService (Geoservice)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/89385931-dc8f-49e6-a32f-ecd640de86e2/resource/583f3eb7-df06-4608-8c68-e83b5acdcee3/download/protected_conserved_areas_wdpca_polygons.geojson\"}"

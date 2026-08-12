@@ -1,7 +1,7 @@
 {
   "id": "hdx-8fe5eddc-cd37-43bb-a9cc-621fbf3e4c9e",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-15T04:39:59Z",
+  "gbl_mdModified_dt": "2026-08-11T11:58:50Z",
   "dct_title_s": "Tajikistan: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,12 +18,10 @@
     "National Oceanic and Atmospheric Administration (NOAA) / National Centers for Environmental Information (NCEI)"
   ],
   "dcat_keyword_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_subject_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_spatial_sm": [
     "Tajikistan"
@@ -185,5 +183,5 @@
     2025
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/tjk-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/8fe5eddc-cd37-43bb-a9cc-621fbf3e4c9e/resource/206bc165-4b96-471e-8bbb-0367e598b50a/download/ibtracs_all_list_v04r01_lines_tjk.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/8fe5eddc-cd37-43bb-a9cc-621fbf3e4c9e/resource/206bc165-4b96-471e-8bbb-0367e598b50a/download/ibtracs_all_list_v04r01_lines_tjk.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/tjk-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/8fe5eddc-cd37-43bb-a9cc-621fbf3e4c9e/resource/995dccec-d821-4716-9f3b-bfb1ca30a728/download/ibtracs_all_list_v04r01_tjk.csv\",\"label\":\"ibtracs_ALL_list_v04r01_TJK.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/8fe5eddc-cd37-43bb-a9cc-621fbf3e4c9e/resource/206bc165-4b96-471e-8bbb-0367e598b50a/download/ibtracs_all_list_v04r01_lines_tjk.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_TJK.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/8fe5eddc-cd37-43bb-a9cc-621fbf3e4c9e/resource/206bc165-4b96-471e-8bbb-0367e598b50a/download/ibtracs_all_list_v04r01_lines_tjk.geojson\"}"
 }

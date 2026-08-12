@@ -1,7 +1,7 @@
 {
   "id": "hdx-576b2f67-72c1-43a8-827b-748b1ff9cb96",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-15T04:38:21Z",
+  "gbl_mdModified_dt": "2026-08-11T11:56:08Z",
   "dct_title_s": "Saudi Arabia: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,12 +18,10 @@
     "National Oceanic and Atmospheric Administration (NOAA) / National Centers for Environmental Information (NCEI)"
   ],
   "dcat_keyword_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_subject_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_spatial_sm": [
     "Saudi Arabia"
@@ -220,5 +218,5 @@
     2025
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/sau-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/576b2f67-72c1-43a8-827b-748b1ff9cb96/resource/192774e1-65fc-464f-b084-51d000341b1b/download/ibtracs_all_list_v04r01_lines_sau.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/576b2f67-72c1-43a8-827b-748b1ff9cb96/resource/192774e1-65fc-464f-b084-51d000341b1b/download/ibtracs_all_list_v04r01_lines_sau.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/sau-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/576b2f67-72c1-43a8-827b-748b1ff9cb96/resource/954c3030-4196-45e8-9a92-e1ef01e9367e/download/ibtracs_all_list_v04r01_sau.csv\",\"label\":\"ibtracs_ALL_list_v04r01_SAU.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/576b2f67-72c1-43a8-827b-748b1ff9cb96/resource/192774e1-65fc-464f-b084-51d000341b1b/download/ibtracs_all_list_v04r01_lines_sau.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_SAU.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/576b2f67-72c1-43a8-827b-748b1ff9cb96/resource/192774e1-65fc-464f-b084-51d000341b1b/download/ibtracs_all_list_v04r01_lines_sau.geojson\"}"
 }

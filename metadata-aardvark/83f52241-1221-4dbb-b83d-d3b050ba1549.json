@@ -1,7 +1,7 @@
 {
   "id": "hdx-83f52241-1221-4dbb-b83d-d3b050ba1549",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-15T04:40:13Z",
+  "gbl_mdModified_dt": "2026-08-11T11:59:02Z",
   "dct_title_s": "Turkmenistan: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,12 +18,10 @@
     "National Oceanic and Atmospheric Administration (NOAA) / National Centers for Environmental Information (NCEI)"
   ],
   "dcat_keyword_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_subject_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_spatial_sm": [
     "Turkmenistan"
@@ -184,5 +182,5 @@
     2025
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/tkm-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/83f52241-1221-4dbb-b83d-d3b050ba1549/resource/73900fc1-2ac9-43f6-b14a-86a3c4156cf6/download/ibtracs_all_list_v04r01_lines_tkm.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/83f52241-1221-4dbb-b83d-d3b050ba1549/resource/73900fc1-2ac9-43f6-b14a-86a3c4156cf6/download/ibtracs_all_list_v04r01_lines_tkm.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/tkm-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/83f52241-1221-4dbb-b83d-d3b050ba1549/resource/1579c9f8-2a38-49e6-8747-3e249197f569/download/ibtracs_all_list_v04r01_tkm.csv\",\"label\":\"ibtracs_ALL_list_v04r01_TKM.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/83f52241-1221-4dbb-b83d-d3b050ba1549/resource/73900fc1-2ac9-43f6-b14a-86a3c4156cf6/download/ibtracs_all_list_v04r01_lines_tkm.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_TKM.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/83f52241-1221-4dbb-b83d-d3b050ba1549/resource/73900fc1-2ac9-43f6-b14a-86a3c4156cf6/download/ibtracs_all_list_v04r01_lines_tkm.geojson\"}"
 }

@@ -1,0 +1,39 @@
+{
+  "id": "hdx-98e2bb4b-e2b9-4178-bf47-826883ca08cc",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-08-12T03:47:39Z",
+  "dct_title_s": "2026 Colombia Earthquake",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Microsoft AI for Good Lab ran their damage assessment AI models in Cali. The Lab utilized two building footprint sources, Overture and Google (posted in HDX). Results varied: Google - 320,178 buildings identified - 621 identified as damaged Overture: - 97,085 building identified - 266 identified as damaged Both geopackages are available."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Microsoft AI for Good Lab"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment"
+  ],
+  "dct_subject_sm": [
+    "damage assessment"
+  ],
+  "dct_spatial_sm": [
+    "Colombia"
+  ],
+  "locn_geometry": "ENVELOPE(-78.99, -66.88, 12.44, -4.3)",
+  "dcat_bbox": "ENVELOPE(-78.99, -66.88, 12.44, -4.3)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/2026-colombia-earthquake\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/98e2bb4b-e2b9-4178-bf47-826883ca08cc/resource/2e917265-3d4e-4660-8256-51c77c435063/download/airbus_8-10_cali_valid_area_mask.geojson\",\"label\":\"airbus_8-10_cali_valid_area_mask.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/98e2bb4b-e2b9-4178-bf47-826883ca08cc/resource/25f91e45-a0aa-4bf7-bcc8-6addf3c68303/download/airbus_cali_warped_cog_model-predictions.tif\",\"label\":\"airbus_cali_warped_cog_model-predictions.tif (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/98e2bb4b-e2b9-4178-bf47-826883ca08cc/resource/d146b2a4-6794-4792-a0df-31841312b85c/download/airbus_8-10_cali_hdx_building_footprints_with_predictions_validated.gpkg\",\"label\":\"airbus_8-10_cali_HDX_building_footprints_with_predictions_validated.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/98e2bb4b-e2b9-4178-bf47-826883ca08cc/resource/a00eebfb-0590-456a-b46d-4633122330d9/download/airbus_8-10_cali_overture_building_footprints_with_predictions.gpkg\",\"label\":\"airbus_8-10_cali_overture_building_footprints_with_predictions.gpkg (Geopackage)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/98e2bb4b-e2b9-4178-bf47-826883ca08cc/resource/2e917265-3d4e-4660-8256-51c77c435063/download/airbus_8-10_cali_valid_area_mask.geojson\"}"
+}

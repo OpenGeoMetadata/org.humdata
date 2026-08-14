@@ -1,0 +1,47 @@
+{
+  "id": "hdx-e8bdd009-7844-40d5-9093-80a692ace688",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-08-13T14:41:17Z",
+  "dct_title_s": "Colombia - Earthquake - August 2026 - OpenStreetMap Data",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains OpenStreetMap data exported from the HOTOSM disaster mapping response to the earthquake in Colombia in August 2026 (Glide: EQ-2026-000146-COL). On Monday, August 10, 2026, a 7.4-magnitude earthquake struck western Colombia, the strongest earthquake recorded in the country in over a century. The quake was centered in the Chocó department and was felt across much of the country, as well as in parts of neighbouring Ecuador and Panama, causing widespread destruction in Cali, Pereira, Manizales, Quibdó, and other cities. The data has been contributed by volunteers through the Humanitarian OpenStreetMap Team's Tasking Manager and represents buildings and roads. It is updated as mapping progresses. Subscribe to this dataset to be notified of any new updates. See the list of projects in the Tasking Manager [here](https://tasks.hotosm.org/explore?campaign=2026+Colombia+Earthquake&omitMapResults=1&orderBy=id&orderByType=DESC&status=PUBLISHED%2CARCHIVED%2CDRAFT). For more information see the [HOTOSM activation page](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Open_Mapping_Hub_-_Latin_America_and_The_Caribbean/Activations/2026_Colombia_Earthquake_Response). As of 13 August 2026: over 60 contributors."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "facilities-infrastructure",
+    "geodata",
+    "natural disasters",
+    "roads",
+    "transportation"
+  ],
+  "dct_subject_sm": [
+    "facilities-infrastructure",
+    "geodata",
+    "natural disasters",
+    "roads",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "Colombia"
+  ],
+  "locn_geometry": "ENVELOPE(-78.99, -66.88, 12.44, -4.3)",
+  "dcat_bbox": "ENVELOPE(-78.99, -66.88, 12.44, -4.3)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/col-earthquake-august-2026-openstreetmap-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e8bdd009-7844-40d5-9093-80a692ace688/resource/c3d39f08-2423-4f78-9585-9a261cf95d9a/download/colombia_eq_buildings_13aug2026_geojson.zip\",\"label\":\"Colombia_EQ_Buildings_13Aug2026_geojson.zip (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/e8bdd009-7844-40d5-9093-80a692ace688/resource/143420c1-66c0-4d79-9e3e-ee0940f35ec9/download/colombia_eq_buildings_13aug2026_shp.zip\",\"label\":\"Colombia_EQ_Buildings_13Aug2026_shp.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/e8bdd009-7844-40d5-9093-80a692ace688/resource/a47602bc-7436-4a79-95c6-145836a1269d/download/colombia_eq_roads_13aug2026_geojson.zip\",\"label\":\"Colombia_EQ_Roads_13Aug2026_geojson.zip (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/e8bdd009-7844-40d5-9093-80a692ace688/resource/5ca14c7b-f95b-4202-9238-88bc817f06fd/download/colombia_eq_roads_13aug2026_shp.zip\",\"label\":\"Colombia_EQ_Roads_13Aug2026_shp.zip (SHP)\"}]}"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "hdx-debb5cee-855b-433f-acc0-6a8127cd8805",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-08-14T18:26:14Z",
+  "dct_title_s": "GRID3 NGA - Settlement Extents v4.1",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "The GRID3 NGA - Settlement Extents v4.1 dataset consists of a geographic representation of settlements in Nigeria. Settlement extents are further delineated into settlement blocks nested within urban and small settlement areas, generated from integrated road, railway, river, building footprints, and remote-sensing inputs. Each block is enriched with morphological, environmental, and building metrics. This version supersedes the GRID3 NGA - Settlement Extents v4.0. The following changes were made: Revision of block delineation methodology resulting in new block geometries. Removal of hamlets and edge-blocks with zero-building count Addition of airports to the block classifications and removal of es_class (extent size) from the attributes and classification. Dataset citation: Center for Integrated Earth System Information (CIESIN), Columbia University. 2026. GRID3 NGA - Settlement Extents v4.1. New York: Columbia University. [download url here]. Accessed [DAY MONTH YEAR]. Contacts and data queries: The authors of this dataset appreciate feedback regarding the data, including suggestions, discovery of errors, difficulties in using the data, and format preferences. For dataset-related questions, please send an email to: info@ciesin.columbia.edu"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Center for Integrated Earth System Information (CIESIN), Columbia University"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_spatial_sm": [
+    "Nigeria"
+  ],
+  "locn_geometry": "ENVELOPE(2.69, 14.58, 13.87, 4.24)",
+  "dcat_bbox": "ENVELOPE(2.69, 14.58, 13.87, 4.24)",
+  "dct_temporal_sm": [
+    "2016-2025"
+  ],
+  "gbl_indexYear_im": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-nga-settlement-extents-v4_1\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://academiccommons.columbia.edu/doi/10.7916/wbrj-a107/download\",\"label\":\"GRID3_NGA_settlement_extents_v4_1.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/debb5cee-855b-433f-acc0-6a8127cd8805/resource/1e5d3657-4b26-47ae-9b32-b9c209e8fda2/download/grid3-nga-settlement-extents-v4.1-data-release-notes.pdf\",\"label\":\"GRID3 NGA - Settlement Extents v4.1 - Data Release Notes.pdf (PDF)\"},{\"url\":\"https://data.humdata.org/dataset/debb5cee-855b-433f-acc0-6a8127cd8805/resource/3f523a74-8c19-475f-9845-37f7b23e5442/download/grid3_nga_settlement_extents_v4_1.xml\",\"label\":\"grid3_nga_settlement_extents_v4_1.xml (XML)\"}]}"
+}

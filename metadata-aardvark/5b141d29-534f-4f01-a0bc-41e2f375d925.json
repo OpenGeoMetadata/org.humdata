@@ -1,14 +1,14 @@
 {
   "id": "hdx-5b141d29-534f-4f01-a0bc-41e2f375d925",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-26T05:22:20Z",
+  "gbl_mdModified_dt": "2026-08-14T08:25:54Z",
   "dct_title_s": "Venezuela (Bolivarian Republic of) - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "Venezuela (Bolivarian Republic of) administrative level 0-3 boundaries (COD-AB) dataset version 01. This dataset is structured into 3 levels: - Admin 1: 25 State - Admin 2: 335 Municipality - Admin 3: 1134 Parish (estados, municipios, parroquias) Dates associated with this dataset: - 17 January 2025: dataset reviewed for accuracy and completeness - 23 February 2021: valid for use by the humanitarian community - 02 May 2018: last edit to the dataset before publishing - 02 May 2018: boundaries created by the source Contributed by [OCHA Venezuela](https://data.humdata.org/organization/ochavenezuela). Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx). Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)"
+    "Venezuela (Bolivarian Republic of) administrative level 0-3 boundaries (COD-AB) dataset version 01. This dataset is structured into 3 levels: - Admin 1: 25 State - Admin 2: 336 Municipality - Admin 3: 1135 Parish (estados, municipios, parroquias) Dates associated with this dataset: - 17 January 2025: dataset reviewed for accuracy and completeness - 23 February 2021: valid for use by the humanitarian community - 07 August 2026: last edit to the dataset before publishing - 02 May 2018: boundaries created by the source Contributed by [OCHA Venezuela](https://data.humdata.org/organization/ochavenezuela). Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx). Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)"
   ],
   "dct_language_sm": [
     "eng"
@@ -45,5 +45,5 @@
     2025
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-ven\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/5b141d29-534f-4f01-a0bc-41e2f375d925/resource/a7636e17-418e-461b-aa4d-f613f7c8dda5/download/ven_admin_boundaries.geojson.zip\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-ven\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/5b141d29-534f-4f01-a0bc-41e2f375d925/resource/726512f2-66b4-4d43-a999-a46f607a1f60/download/ven_admin_boundaries.gdb.zip\",\"label\":\"ven_admin_boundaries.gdb.zip (Geodatabase)\"},{\"url\":\"https://data.humdata.org/dataset/5b141d29-534f-4f01-a0bc-41e2f375d925/resource/94150d22-778b-44db-9996-adad1a2d927d/download/ven_admin_boundaries.shp.zip\",\"label\":\"ven_admin_boundaries.shp.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/5b141d29-534f-4f01-a0bc-41e2f375d925/resource/93b05eca-adbd-4ce3-bae3-b4d6d64fac8b/download/ven_admin_boundaries.geojson.zip\",\"label\":\"ven_admin_boundaries.geojson.zip (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/5b141d29-534f-4f01-a0bc-41e2f375d925/resource/f232e893-f194-4f78-b615-c9547fa90af2/download/ven_admin_boundaries.xlsx\",\"label\":\"ven_admin_boundaries.xlsx (XLSX)\"}]}"
 }

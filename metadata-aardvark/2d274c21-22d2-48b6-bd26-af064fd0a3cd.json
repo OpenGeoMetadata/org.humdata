@@ -1,0 +1,43 @@
+{
+  "id": "hdx-2d274c21-22d2-48b6-bd26-af064fd0a3cd",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-08-15T21:22:48Z",
+  "dct_title_s": "Indonesia - Earthquake on Aug 15 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000tkyk](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000tkyk) Magnitude 6.9 earthquake at 183.226 depth occurred on Aug 15 2026 7km NW of Pematangsiantar. The epicentre of the earthquake was located at latitude 3.018 longitude 99.0376. It impacted 1018964 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Indonesia"
+  ],
+  "locn_geometry": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dcat_bbox": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/idn-earthquake-sm-us6000tkyk\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/2d274c21-22d2-48b6-bd26-af064fd0a3cd/resource/890c0a78-1c84-4302-8030-4c443f823d6b/download/idn_wfpadam_earthquake_202608151.geojson\",\"label\":\"idn_wfpadam_earthquake_20260815.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/2d274c21-22d2-48b6-bd26-af064fd0a3cd/resource/b1b4d72c-0952-4171-9d48-60bb805781c5/download/idn_wfpadam_earthquake_202608151.csv\",\"label\":\"idn_wfpadam_earthquake_20260815.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/2d274c21-22d2-48b6-bd26-af064fd0a3cd/resource/0db4b165-be75-4ea4-a67f-de2959989a1d/download/idn_wfpadam_earthquake_202608151.xlsx\",\"label\":\"idn_wfpadam_earthquake_20260815.xlsx (XLSX)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/2d274c21-22d2-48b6-bd26-af064fd0a3cd/resource/890c0a78-1c84-4302-8030-4c443f823d6b/download/idn_wfpadam_earthquake_202608151.geojson\"}"
+}

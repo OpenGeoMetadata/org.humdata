@@ -1,0 +1,43 @@
+{
+  "id": "hdx-eea4b9b7-cabc-48e9-8c2d-525bdfc14dd4",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-08-17T21:22:35Z",
+  "dct_title_s": "Russian Federation - Earthquake on Aug 17 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_usd0015edq](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_usd0015edq) Magnitude 5.8 earthquake at 54.741 depth occurred on Aug 17 2026 118km E of Petropavlovsk-Kamchatsky. The epicentre of the earthquake was located at latitude 53.024 longitude 159.7106. It impacted 172 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Russian Federation"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 81.25, 41.15)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 81.25, 41.15)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/rus-earthquake-sm-usd0015edq\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/eea4b9b7-cabc-48e9-8c2d-525bdfc14dd4/resource/5a2939a8-f348-4c19-8281-cbd4cd24d3ef/download/rus_wfpadam_earthquake_20260817.geojson\",\"label\":\"rus_wfpadam_earthquake_20260817.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/eea4b9b7-cabc-48e9-8c2d-525bdfc14dd4/resource/e4cd7fe7-bf64-4d01-8cf0-2852b7a9ba00/download/rus_wfpadam_earthquake_20260817.csv\",\"label\":\"rus_wfpadam_earthquake_20260817.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/eea4b9b7-cabc-48e9-8c2d-525bdfc14dd4/resource/ef65e72f-0a8a-4dfc-a846-05b215a54f01/download/rus_wfpadam_earthquake_20260817.xlsx\",\"label\":\"rus_wfpadam_earthquake_20260817.xlsx (XLSX)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/eea4b9b7-cabc-48e9-8c2d-525bdfc14dd4/resource/5a2939a8-f348-4c19-8281-cbd4cd24d3ef/download/rus_wfpadam_earthquake_20260817.geojson\"}"
+}

@@ -1,7 +1,7 @@
 {
   "id": "hdx-de3aae25-80da-41f3-82a9-ec0c01ec81d3",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-10T16:50:15Z",
+  "gbl_mdModified_dt": "2026-08-18T11:43:18Z",
   "dct_title_s": "Portugal: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -29,7 +29,7 @@
   "locn_geometry": "ENVELOPE(-9.53, -6.39, 42.28, 36.84)",
   "dcat_bbox": "ENVELOPE(-9.53, -6.39, 42.28, 36.84)",
   "dct_temporal_sm": [
-    "1851-2025"
+    "1851-2026"
   ],
   "gbl_indexYear_im": [
     1851,
@@ -206,8 +206,9 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/prt-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/de3aae25-80da-41f3-82a9-ec0c01ec81d3/resource/43e8ff5e-33a7-43a1-902d-dcb35acd1886/download/ibtracs_all_list_v04r01_lines_prt.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/de3aae25-80da-41f3-82a9-ec0c01ec81d3/resource/43e8ff5e-33a7-43a1-902d-dcb35acd1886/download/ibtracs_all_list_v04r01_lines_prt.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/prt-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/de3aae25-80da-41f3-82a9-ec0c01ec81d3/resource/c30d6d9d-a6b0-4a3b-ae75-99f5ce4ccbc9/download/ibtracs_all_list_v04r01_prt.csv\",\"label\":\"ibtracs_ALL_list_v04r01_PRT.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/de3aae25-80da-41f3-82a9-ec0c01ec81d3/resource/43e8ff5e-33a7-43a1-902d-dcb35acd1886/download/ibtracs_all_list_v04r01_lines_prt.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_PRT.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/de3aae25-80da-41f3-82a9-ec0c01ec81d3/resource/43e8ff5e-33a7-43a1-902d-dcb35acd1886/download/ibtracs_all_list_v04r01_lines_prt.geojson\"}"
 }

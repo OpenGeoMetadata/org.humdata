@@ -1,7 +1,7 @@
 {
   "id": "hdx-3fabeb18-11a1-42ac-9137-a4ac9f4e783b",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-10T16:28:51Z",
+  "gbl_mdModified_dt": "2026-08-18T11:20:45Z",
   "dct_title_s": "Bermuda: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -27,7 +27,7 @@
     "Bermuda"
   ],
   "dct_temporal_sm": [
-    "1851-2025"
+    "1851-2026"
   ],
   "gbl_indexYear_im": [
     1851,
@@ -204,8 +204,9 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/bmu-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/3fabeb18-11a1-42ac-9137-a4ac9f4e783b/resource/59282bf3-c68d-4a6b-85b4-5b0f25841234/download/ibtracs_all_list_v04r01_lines_bmu.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/3fabeb18-11a1-42ac-9137-a4ac9f4e783b/resource/59282bf3-c68d-4a6b-85b4-5b0f25841234/download/ibtracs_all_list_v04r01_lines_bmu.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/bmu-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/3fabeb18-11a1-42ac-9137-a4ac9f4e783b/resource/b78b5c31-edb6-410a-aea9-f5424dcc0e0f/download/ibtracs_all_list_v04r01_bmu.csv\",\"label\":\"ibtracs_ALL_list_v04r01_BMU.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/3fabeb18-11a1-42ac-9137-a4ac9f4e783b/resource/59282bf3-c68d-4a6b-85b4-5b0f25841234/download/ibtracs_all_list_v04r01_lines_bmu.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_BMU.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/3fabeb18-11a1-42ac-9137-a4ac9f4e783b/resource/59282bf3-c68d-4a6b-85b4-5b0f25841234/download/ibtracs_all_list_v04r01_lines_bmu.geojson\"}"
 }

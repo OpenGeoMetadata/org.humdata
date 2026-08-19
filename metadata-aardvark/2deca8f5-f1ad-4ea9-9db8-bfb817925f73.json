@@ -1,0 +1,43 @@
+{
+  "id": "hdx-2deca8f5-f1ad-4ea9-9db8-bfb817925f73",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-08-18T21:22:38Z",
+  "dct_title_s": "Indonesia - Earthquake on Aug 18 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000tlkt](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000tlkt) Magnitude 5.6 earthquake at 10.0 depth occurred on Aug 18 2026 72km S of Tello. The epicentre of the earthquake was located at latitude -0.6858 longitude 98.416. It impacted 10895 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Indonesia"
+  ],
+  "locn_geometry": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dcat_bbox": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/idn-earthquake-sm-us6000tlkt\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/2deca8f5-f1ad-4ea9-9db8-bfb817925f73/resource/6a0c9779-c398-490e-9584-3dda8e67b719/download/idn_wfpadam_earthquake_20260818.geojson\",\"label\":\"idn_wfpadam_earthquake_20260818.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/2deca8f5-f1ad-4ea9-9db8-bfb817925f73/resource/8200b65c-3884-47af-9518-5d30a8adf37b/download/idn_wfpadam_earthquake_20260818.csv\",\"label\":\"idn_wfpadam_earthquake_20260818.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/2deca8f5-f1ad-4ea9-9db8-bfb817925f73/resource/90c73224-44eb-486f-b23b-0c6c87fd63f9/download/idn_wfpadam_earthquake_20260818.xlsx\",\"label\":\"idn_wfpadam_earthquake_20260818.xlsx (XLSX)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/2deca8f5-f1ad-4ea9-9db8-bfb817925f73/resource/6a0c9779-c398-490e-9584-3dda8e67b719/download/idn_wfpadam_earthquake_20260818.geojson\"}"
+}

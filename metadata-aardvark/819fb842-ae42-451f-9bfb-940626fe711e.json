@@ -1,14 +1,14 @@
 {
   "id": "hdx-819fb842-ae42-451f-9bfb-940626fe711e",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-08-18T09:47:57Z",
+  "gbl_mdModified_dt": "2026-08-20T01:33:12Z",
   "dct_title_s": "Building Damage Assessment in Viterbo Town, Caldas Department, Colombia  as of 12 August 2026",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "**UNOSAT code: EQ20260810COL, GDACS ID: 1557236** This map illustrates structures and buildings affected by the magnitude 7.4 earthquake with an epicentre south of San José del Palmar town in Colombia, with analysis focused on Viterbo in Caldas Department, approximately 50 km from the mainshock epicentre. Damage and destruction were identified primarily using Pleiades very-high-resolution satellite imagery acquired on 12 August 2026. In this area 42 buildings were identified as damaged and 66 were identified potentially damaged buildings. This is a preliminary analysis and has not yet been validated in the field. Ground verification is encouraged, and feedback can be sent to the United Nations Satellite Centre."
+    "**UNOSAT code: EQ20260810COL, GDACS ID: 1557236** This map illustrates structures and buildings affected by the magnitude 7.4 earthquake with an epicentre south of San José del Palmar town in Colombia, with analysis focused on Viterbo in Caldas Department, approximately 50 km from the mainshock epicentre. Damage and destruction were identified primarily using Pleiades very-high-resolution satellite imagery acquired on 12 August 2026. In this area 55 buildings were identified as damaged and 99 were identified potentially damaged buildings. This is a preliminary analysis and has not yet been validated in the field. Ground verification is encouraged, and feedback can be sent to the United Nations Satellite Centre."
   ],
   "dct_language_sm": [
     "eng"
@@ -36,6 +36,6 @@
   "gbl_indexYear_im": [
     2026
   ],
-  "dct_format_s": "Geodatabase",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/building-damage-assessment-in-viterbo-town-caldas-department-colombia-as-of-12-august-2026\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://unosat.org/static/unosat_filesystem/4251/EQ20260810COL_gdb.zip\",\"label\":\"EQ20260810COL_gdb.zip (Geodatabase)\"},{\"url\":\"https://unosat.org/static/unosat_filesystem/4251/EQ20260810COL_SHP.zip\",\"label\":\"EQ20260810COL_SHP.zip (SHP)\"}]}"
+  "dct_format_s": "SHP",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/building-damage-assessment-in-viterbo-town-caldas-department-colombia-as-of-12-august-2026\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://unosat.org/static/unosat_filesystem/4252/EQ20260810COL_SHP.zip\",\"label\":\"EQ20260810COL_SHP.zip (SHP)\"},{\"url\":\"https://unosat.org/static/unosat_filesystem/4252/EQ20260810COL.gdb.zip\",\"label\":\"EQ20260810COL.gdb.zip (Geodatabase)\"}]}"
 }

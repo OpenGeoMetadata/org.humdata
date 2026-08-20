@@ -1,0 +1,41 @@
+{
+  "id": "hdx-b976df80-35b6-4e84-8e5c-e378195bcb9b",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-08-19T21:23:07Z",
+  "dct_title_s": "Fiji - Earthquake on Aug 19 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000tlz8](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000tlz8) Magnitude 5.4 earthquake at 556.753 depth occurred on Aug 19 2026 22km SE of Tuvuca. The epicentre of the earthquake was located at latitude -17.8049 longitude -178.6638. It impacted 943 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Fiji"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, -16.02, -18.29)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, -16.02, -18.29)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/fji-earthquake-sm-us6000tlz8\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/b976df80-35b6-4e84-8e5c-e378195bcb9b/resource/04123aa0-71f2-45f5-b470-5413b4bbb73d/download/fji_wfpadam_earthquake_20260819.geojson\",\"label\":\"fji_wfpadam_earthquake_20260819.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/b976df80-35b6-4e84-8e5c-e378195bcb9b/resource/04123aa0-71f2-45f5-b470-5413b4bbb73d/download/fji_wfpadam_earthquake_20260819.geojson\"}"
+}

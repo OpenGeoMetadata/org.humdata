@@ -1,0 +1,43 @@
+{
+  "id": "hdx-ee69f497-bd28-42b8-849f-39939b1ff27f",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-08-19T21:23:10Z",
+  "dct_title_s": "Indonesia - Earthquake on Aug 19 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000tlxq](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000tlxq) Magnitude 5.5 earthquake at 10.0 depth occurred on Aug 19 2026 53km NE of Ruteng. The epicentre of the earthquake was located at latitude -8.1769 longitude 120.6643. It impacted 236907 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Indonesia"
+  ],
+  "locn_geometry": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dcat_bbox": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/idn-earthquake-sm-us6000tlxq\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/ee69f497-bd28-42b8-849f-39939b1ff27f/resource/1d52689c-2149-4c0f-b3d2-fb72227e2da2/download/idn_wfpadam_earthquake_20260819.geojson\",\"label\":\"idn_wfpadam_earthquake_20260819.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/ee69f497-bd28-42b8-849f-39939b1ff27f/resource/fbbb0143-9e0b-4b93-b6de-ff1b25eb4ee1/download/idn_wfpadam_earthquake_20260819.csv\",\"label\":\"idn_wfpadam_earthquake_20260819.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/ee69f497-bd28-42b8-849f-39939b1ff27f/resource/2ddb54ba-c7be-43d5-80b7-321fcdd7241f/download/idn_wfpadam_earthquake_20260819.xlsx\",\"label\":\"idn_wfpadam_earthquake_20260819.xlsx (XLSX)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/ee69f497-bd28-42b8-849f-39939b1ff27f/resource/1d52689c-2149-4c0f-b3d2-fb72227e2da2/download/idn_wfpadam_earthquake_20260819.geojson\"}"
+}

@@ -1,7 +1,7 @@
 {
   "id": "hdx-9fc4bfb9-d06d-461f-bb45-e639e8b25630",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-08-19T14:45:42Z",
+  "gbl_mdModified_dt": "2026-08-20T16:24:55Z",
   "dct_title_s": "Belize - GLIDE Disaster Events",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -45,7 +45,7 @@
   "locn_geometry": "ENVELOPE(-89.23, -88.11, 18.5, 15.89)",
   "dcat_bbox": "ENVELOPE(-89.23, -88.11, 18.5, 15.89)",
   "dct_temporal_sm": [
-    "2000-2024"
+    "2000-2026"
   ],
   "gbl_indexYear_im": [
     2000,
@@ -72,7 +72,9 @@
     2021,
     2022,
     2023,
-    2024
+    2024,
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/blz-glide-events\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/9fc4bfb9-d06d-461f-bb45-e639e8b25630/resource/a34a6712-c80b-4702-a190-6246113269e9/download/blz_glide_events.csv\",\"label\":\"blz_glide_events.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/9fc4bfb9-d06d-461f-bb45-e639e8b25630/resource/5d4abffc-4c8a-4b63-a6f1-37fb8c906cf9/download/blz_glide_events.geojson\",\"label\":\"blz_glide_events.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/9fc4bfb9-d06d-461f-bb45-e639e8b25630/resource/5d4abffc-4c8a-4b63-a6f1-37fb8c906cf9/download/blz_glide_events.geojson\"}"

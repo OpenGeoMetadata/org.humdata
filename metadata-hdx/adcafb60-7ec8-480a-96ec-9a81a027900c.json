@@ -1,6 +1,6 @@
 {
   "archived": false,
-  "batch": "fce58a48-8774-4707-84d7-2c280fd877f1",
+  "batch": "bce66e36-c611-4c18-9f01-8e5d359016d9",
   "caveats": "Each ZIP download contains the original scanned TIFF files for a single calendar\nyear, including monthly and dekadal scans. The files are provided in a ZIP archive\nto preserve the original sources and may be extracted and converted as needed.\n\n\nCloud cover and atmospheric aerosols can sometimes interfere with optical satellite\nretrievals, although compositing techniques generally mitigate this. Extreme anomalies\nshould be cross-referenced with rainfall or soil moisture data to confirm drought\nas the cause rather than non-climatic factors like land-use change or locust infestations.",
   "creator_user_id": "1a008a13-52b1-4326-a9ea-aa541372577c",
   "data_update_frequency": "14",
@@ -19,7 +19,7 @@
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "196196be-6037-4488-8b71-d786adf4c081",
   "metadata_created": "2026-03-05T20:10:49.739719",
-  "metadata_modified": "2026-08-19T12:41:38.321789",
+  "metadata_modified": "2026-08-21T12:41:06.960245",
   "methodology": "Other",
   "methodology_other": "This product is derived by comparing current satellite-observed fAPAR values against\nthe long-term historical average for the same dekad or month. The resulting anomalies\nindicate whether the vegetation is performing better or worse than expected. It is\nfrequently used as the \"impact\" component in combined drought indicators, confirming\nthat meteorological deficits have translated into actual biophysical stress.",
   "name": "acmad-fapar-anomaly",
@@ -47,9 +47,9 @@
   "state": "active",
   "subnational": "1",
   "title": "Africa - Fraction of Absorbed Photosynthetically Active Radiation (fAPAR) Anomaly",
-  "total_res_downloads": 1809,
+  "total_res_downloads": 1823,
   "type": "dataset",
-  "updated_by_script": "HDX Scraper: ACMAD (2026-08-19T12:41:38.079799)",
+  "updated_by_script": "HDX Scraper: ACMAD (2026-08-21T12:41:06.742437)",
   "url": null,
   "version": null,
   "groups": [

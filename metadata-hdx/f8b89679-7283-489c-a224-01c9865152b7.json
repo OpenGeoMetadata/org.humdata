@@ -1,6 +1,5 @@
 {
   "archived": false,
-  "batch": "1cfef687-7ea0-4951-9671-ef886fbe9ec6",
   "caveats": "OpenStreetMap data is crowd sourced and cannot be considered to be exhaustive",
   "creator_user_id": "6a0688ce-8521-46e2-8edd-8e26c0851ebd",
   "data_update_frequency": "30",
@@ -19,13 +18,13 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "6a0688ce-8521-46e2-8edd-8e26c0851ebd",
   "metadata_created": "2019-12-05T09:05:10.975625",
-  "metadata_modified": "2026-08-08T10:58:59.052429",
+  "metadata_modified": "2026-08-21T13:20:39.475177",
   "methodology": "Other",
   "methodology_other": "Open Source Geographic information",
   "name": "hotosm_uga_railways",
-  "notes": "Railway lines and stations tagged `railway=*`: rail lines, tram tracks, and stations. Useful for transport accessibility analysis and basemap context.\n\nCoverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge.\n\n- Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map\n- Tags: [railway](https://wiki.openstreetmap.org/wiki/Key:railway)\n- Part of the [exports grid on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)\n",
+  "notes": "Railway lines and stations tagged `railway=*`: rail lines, tram tracks, and stations. Useful for transport accessibility analysis and basemap context.\r\n\r\nCoverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge.\r\n\r\n- Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map\r\n- Tags: [railway](https://wiki.openstreetmap.org/wiki/Key:railway)\r\n- Part of the [exports grid on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)\r\n",
   "num_resources": 6,
-  "num_tags": 5,
+  "num_tags": 4,
   "organization": {
     "id": "225b9f7d-e7cb-4156-96a6-44c9c58d31e3",
     "name": "hot",
@@ -47,7 +46,7 @@
   "state": "active",
   "subnational": "0",
   "title": "Railways of Uganda",
-  "total_res_downloads": 440,
+  "total_res_downloads": 444,
   "type": "dataset",
   "updated_by_script": "HDXPythonLibrary/6.6.7-osm-country-exports/0.1 (2026-08-07T00:08:49.978097)",
   "url": null,
@@ -229,13 +228,6 @@
     }
   ],
   "tags": [
-    {
-      "display_name": "crisis-ebola-bundibugyo-virus-disease",
-      "id": "f2283d18-11fc-4c51-9ae8-b992b9a92d99",
-      "name": "crisis-ebola-bundibugyo-virus-disease",
-      "state": "active",
-      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
-    },
     {
       "display_name": "facilities-infrastructure",
       "id": "e45272d8-6b73-4b8d-bb08-e880f8900df5",

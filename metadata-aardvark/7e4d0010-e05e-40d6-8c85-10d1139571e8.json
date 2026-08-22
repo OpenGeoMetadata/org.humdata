@@ -1,0 +1,39 @@
+{
+  "id": "hdx-7e4d0010-e05e-40d6-8c85-10d1139571e8",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-08-21T20:07:06Z",
+  "dct_title_s": "Colombia 2026 Earthquake Pereira (Extended)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Microsoft AI for Good Lab ran their damage assessment AI models over an extended area of Pereira. Google summary: Out of a total of 152,128 building footprints with predictions in the study area, 8,656 were fully obscured by clouds. Of the remaining 143,472 non-cloudy footprints, the model predicted that 752 (0.5%) were damaged to some extent. Overture summary: Out of a total of 77,589 building footprints with predictions in the study area, 6,582 were fully obscured by clouds. Of the remaining 71,007 non-cloudy footprints, the model predicted that 441 (0.6%) were damaged to some extent. Microsoft summary: Out of a total of 123,924 building footprints with predictions in the study area, 7,731 were fully obscured by clouds. Of the remaining 116,193 non-cloudy footprints, the model predicted that 650 (0.6%) were damaged to some extent."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Microsoft AI for Good Lab"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment"
+  ],
+  "dct_subject_sm": [
+    "damage assessment"
+  ],
+  "dct_spatial_sm": [
+    "Colombia"
+  ],
+  "locn_geometry": "ENVELOPE(-78.99, -66.88, 12.44, -4.3)",
+  "dcat_bbox": "ENVELOPE(-78.99, -66.88, 12.44, -4.3)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/colombia-2026-earthquake-pereira-extended\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/7e4d0010-e05e-40d6-8c85-10d1139571e8/resource/5bb4056d-461b-4336-af49-e2022f1b486b/download/valid_area_mask-pereira_east.geojson\",\"label\":\"valid_area_mask-pereira_east.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/7e4d0010-e05e-40d6-8c85-10d1139571e8/resource/b8439db4-47ec-41c7-9e14-50daa46b7aac/download/predicted_damage_pereira_20260813-overture_no_embedding_reviewed_vantor_reviewed.gpkg\",\"label\":\"predicted_damage_Pereira_20260813-overture_no_embedding_reviewed_vantor_reviewed.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/7e4d0010-e05e-40d6-8c85-10d1139571e8/resource/4ab6fcd1-b0f4-4f2e-a116-fe57b7f99dc1/download/predicted_damage_pereira_20260813-msft_footprint_reviewed_plus_google_dam_vantor_reviewed.gpkg\",\"label\":\"predicted_damage_Pereira_20260813-msft_footprint_reviewed_plus_google_dam_vantor_reviewed.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/7e4d0010-e05e-40d6-8c85-10d1139571e8/resource/38294d4f-37da-4836-99e2-65046a3e7512/download/predicted_damage_pereira_20260813-google_open_buildings_thresh0.2_reviewed_vantor_reviewed.gpkg\",\"label\":\"predicted_damage_Pereira_20260813-google_open_buildings_thresh0.2_reviewed_vantor_reviewed.gpkg (Geopackage)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/7e4d0010-e05e-40d6-8c85-10d1139571e8/resource/5bb4056d-461b-4336-af49-e2022f1b486b/download/valid_area_mask-pereira_east.geojson\"}"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hdx-d2a026ea-46a4-4461-81c6-4e9237e4a1e2",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-08-21T09:55:23Z",
+  "dct_title_s": "Building Damage Assessment Density Map in Zarzal City, Valle del Cauca Department, Colombia  as of 13 August 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: EQ20260810COL, GDACS ID: 1557236** This map illustrates satellite-based damage assessment density in the city of Zarzal, Valle del Cauca Department, approximately 50 km from the epicentral area of the magnitude 7.4 earthquake of 10 August 2026 in Colombia. Damage was identified primarily using Pléiades very-high-resolution satellite imagery acquired on 13 August 2026. Within the analysed area, 21 buildings were identified as damaged and 180 were identified as potentially damaged. The high incidence angle (>40°) of the satellite imagery used for this analysis can affect the accuracy of the analysis. Damage estimates from such high-incidence-angle satellite imagery should therefore be interpreted with caution. This is a preliminary analysis and has not yet been validated in the field. Ground verification is encouraged, and feedback can be sent to the United Nations Satellite Centre."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Colombia"
+  ],
+  "locn_geometry": "ENVELOPE(-78.99, -66.88, 12.44, -4.3)",
+  "dcat_bbox": "ENVELOPE(-78.99, -66.88, 12.44, -4.3)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/building-damage-assessment-density-map-in-zarzal-city-valle-del-cauca-department-colombia-\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://unosat.org/static/unosat_filesystem/4254/EQ20260810COL.gdb.zip\",\"label\":\"EQ20260810COL.gdb.zip (Geodatabase)\"},{\"url\":\"https://unosat.org/static/unosat_filesystem/4254/EQ20260810COL_SHP.zip\",\"label\":\"EQ20260810COL_SHP.zip (SHP)\"}]}"
+}

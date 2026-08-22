@@ -1,7 +1,7 @@
 {
   "id": "hdx-76f5fa33-4c69-4944-998a-4d877bee5209",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-04T14:48:11Z",
+  "gbl_mdModified_dt": "2026-08-21T13:19:18Z",
   "dct_title_s": "Uganda - OSM Data quality",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,12 +18,10 @@
     "HeiGIT"
   ],
   "dcat_keyword_sm": [
-    "crisis-ebola-bundibugyo-virus-disease",
     "indicators",
     "openstreetmap"
   ],
   "dct_subject_sm": [
-    "crisis-ebola-bundibugyo-virus-disease",
     "indicators",
     "openstreetmap"
   ],
@@ -39,5 +37,5 @@
     2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/uganda-osm-data-quality\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/UGA/UGA_roads-all-highways_gpkg.zip\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/uganda-osm-data-quality\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/UGA/UGA_roads-all-highways_gpkg.zip\",\"label\":\"UGA_roads-all-highways_gpkg.zip (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/UGA/UGA_hospitals_csv.zip\",\"label\":\"UGA_hospitals_csv.zip (CSV)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/UGA/UGA_building-count_csv.zip\",\"label\":\"UGA_building-count_csv.zip (CSV)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/UGA/UGA_healthcare-primary_gpkg.zip\",\"label\":\"UGA_healthcare-primary_gpkg.zip (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/UGA/UGA_schools_gpkg.zip\",\"label\":\"UGA_schools_gpkg.zip (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/UGA/UGA_schools_csv.zip\",\"label\":\"UGA_schools_csv.zip (CSV)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/UGA/UGA_building-count_gpkg.zip\",\"label\":\"UGA_building-count_gpkg.zip (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/UGA/UGA_healthcare-primary_csv.zip\",\"label\":\"UGA_healthcare-primary_csv.zip (CSV)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/UGA/UGA_roads-all-highways_csv.zip\",\"label\":\"UGA_roads-all-highways_csv.zip (CSV)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/UGA/UGA_hospitals_gpkg.zip\",\"label\":\"UGA_hospitals_gpkg.zip (Geopackage)\"}]}"
 }

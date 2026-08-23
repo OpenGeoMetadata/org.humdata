@@ -1,0 +1,41 @@
+{
+  "id": "hdx-d3890993-f05e-481b-b02d-a3cc0078c60d",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-08-22T10:40:01Z",
+  "dct_title_s": "Evaluación de daños en edificaciones en la ciudad de Zarzal, Valle del Cauca, Colombia, al 13 de agosto de 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: EQ20260810COL, GDACS ID: 1557236** Este mapa presenta una evaluación de daños basada en imágenes satelitales de la ciudad de Zarzal, departamento Valle del Cauca, ubicada aproximadamente a 50 km del área epicentral del terremoto de magnitud 7,4 ocurrido el 10 de agosto de 2026 en Colombia. Los daños fueron identificados principalmente en una imágen satelital Pléiades de muy alta resolución, adquirida el 13 de agosto de 2026. Dentro del área analizada, se identificaron 21 edificaciones con daños y 180 edificaciones como potencialmente dañadas. El alto ángulo de incidencia (>40°) de las imágenes satelitales utilizadas para este análisis puede afectar la precisión de los resultados. Por lo tanto, las estimaciones de daños derivadas de imágenes satelitales con un ángulo de incidencia tan elevado deben interpretarse con precaución. Este es un análisis preliminar que aún no ha sido validado en campo. Se recomienda realizar una verificación en terreno. Los comentarios y observaciones pueden enviarse al Centro de Satélites de las Naciones Unidas."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Colombia"
+  ],
+  "locn_geometry": "ENVELOPE(-78.99, -66.88, 12.44, -4.3)",
+  "dcat_bbox": "ENVELOPE(-78.99, -66.88, 12.44, -4.3)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/evaluacion-de-danos-en-edificaciones-en-la-ciudad-de-zarzal-valle-del-cauca-colombia-al-13\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://unosat.org/static/unosat_filesystem/4255/EQ20260810COL.gdb.zip\",\"label\":\"EQ20260810COL.gdb.zip (Geodatabase)\"},{\"url\":\"https://unosat.org/static/unosat_filesystem/4255/EQ20260810COL_SHP.zip\",\"label\":\"EQ20260810COL_SHP.zip (SHP)\"},{\"url\":\"https://unosat.org/static/unosat_filesystem/4255/UNOSAT_PopulationExposure_EQ20260810COL_M74_V6.xlsx\",\"label\":\"UNOSAT_PopulationExposure_EQ20260810COL_M74_V6.xlsx (XLSX)\"}]}"
+}

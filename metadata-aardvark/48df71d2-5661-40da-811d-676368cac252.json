@@ -1,0 +1,43 @@
+{
+  "id": "hdx-48df71d2-5661-40da-811d-676368cac252",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-08-24T05:44:48Z",
+  "dct_title_s": "Global - GloFAS Initial Conditions",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "The Global Flood Awareness System (GloFAS) initial conditions describe the hydrometeorological state of the land surface that drives the hydrological forecast model. This dataset contains daily raster GeoTIFFs for precipitation accumulation, snow melt, snow cover, and soil moisture. Anomaly layers show deviation from climatological norms and help identify conditions that may precondition basins for flooding or drought."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Copernicus"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "flooding",
+    "hazards and risk"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "flooding",
+    "hazards and risk"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/copernicus-glofas-initial-conditions\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/48df71d2-5661-40da-811d-676368cac252/resource/91bc300a-032b-411d-a51e-a844745c76af/download/copernicus_glofas_initial_conditions_precip_3d.geotiff\",\"label\":\"copernicus_glofas_initial_conditions_precip_3d.geotiff (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/48df71d2-5661-40da-811d-676368cac252/resource/344a3023-9eb4-43f8-8d7e-42e2e694d6ed/download/copernicus_glofas_initial_conditions_precip_3d_anomaly.geotiff\",\"label\":\"copernicus_glofas_initial_conditions_precip_3d_anomaly.geotiff (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/48df71d2-5661-40da-811d-676368cac252/resource/c9c309f2-fd2a-457c-afef-7865f26d4153/download/copernicus_glofas_initial_conditions_snow_melt_3d.geotiff\",\"label\":\"copernicus_glofas_initial_conditions_snow_melt_3d.geotiff (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/48df71d2-5661-40da-811d-676368cac252/resource/bfcc3818-1e80-4d65-bfb1-ed3754cc2a71/download/copernicus_glofas_initial_conditions_snow_cover.geotiff\",\"label\":\"copernicus_glofas_initial_conditions_snow_cover.geotiff (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/48df71d2-5661-40da-811d-676368cac252/resource/b2003682-b3e9-4fe1-a9df-0933c811c90d/download/copernicus_glofas_initial_conditions_soil_moisture.geotiff\",\"label\":\"copernicus_glofas_initial_conditions_soil_moisture.geotiff (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/48df71d2-5661-40da-811d-676368cac252/resource/8515ad7c-97a4-483c-8bda-8333c0b3459e/download/copernicus_glofas_initial_conditions_soil_moisture_anomaly.geotiff\",\"label\":\"copernicus_glofas_initial_conditions_soil_moisture_anomaly.geotiff (GeoTIFF)\"}]}"
+}

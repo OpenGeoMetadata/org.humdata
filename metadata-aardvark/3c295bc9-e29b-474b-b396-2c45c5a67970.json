@@ -1,0 +1,45 @@
+{
+  "id": "hdx-3c295bc9-e29b-474b-b396-2c45c5a67970",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-08-24T09:26:04Z",
+  "dct_title_s": "Germany - Wildfire in Huertgen Forest, Germany and Belgium (EMSR920)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains Copernicus EMS Rapid Mapping products for activation EMSR920. On 13 August 2026 at 12:55, an active wildfire is reported to have affected the Huertgen Forest in the county of Dueren, North Rhine-Westphalia, Germany. The wildfire is ongoing and spreading, with the fire covering more than 30 ha and approaching the village of Huertegenwald-Gey, which has been evacuated; firefighting operations involve more than 200 personnel and multiple helicopters, while explosions have been reported due to unexploded WWII-era munitions in the forest. On August 14, 2026, a new fire occured in High Fens Natural Reserve with geographical closeness to the border to Germany and the active wildfire in Huertgen Forest. Copernicus EMS Rapid Mapping is requested to provide initial rough estimation, fire extent delineation and damage assessment emergency mapping. **Citation:** Copernicus Emergency Management Service (© 2026 European Union), EMSR920 **Product types present in this dataset's resources:** **DEL (Delineation)**: maps the extent of the event itself (eg. flood, fire, landslide boundary). **GRA (Grading)**: assesses damage to individual features (eg. buildings, infrastructure). Where a GeoPackage download is available for an Area of Interest/round, it already contains every layer with its official Copernicus styling and colours - prefer it in GIS software over the zipped shapefile download."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Copernicus"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "locn_geometry": "ENVELOPE(5.99, 15.02, 54.98, 47.3)",
+  "dcat_bbox": "ENVELOPE(5.99, 15.02, 54.98, 47.3)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/deu-wildfire-emsr920\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR920/AOI01/GRA_PRODUCT/EMSR920_AOI01_GRA_PRODUCT_v1.zip?type=gpkg\",\"label\":\"deu_copernicus_ems_aoi01_grading_initial.gpkg (Geopackage)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR920/AOI01/DEL_PRODUCT/EMSR920_AOI01_DEL_PRODUCT_v2.zip?type=gpkg\",\"label\":\"deu_copernicus_ems_aoi01_delineation_initial.gpkg (Geopackage)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR920/AOI01/GRA_PRODUCT/EMSR920_AOI01_GRA_PRODUCT_v1.zip?type=xlsx\",\"label\":\"deu_copernicus_ems_aoi01_grading_initial.xlsx (XLSX)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR920/AOI01/DEL_PRODUCT/EMSR920_AOI01_DEL_PRODUCT_v2.zip?type=xlsx\",\"label\":\"deu_copernicus_ems_aoi01_delineation_initial.xlsx (XLSX)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR920/AOI01/GRA_PRODUCT/EMSR920_AOI01_GRA_PRODUCT_v1.zip?type=vectors\",\"label\":\"deu_copernicus_ems_aoi01_grading_initial_vectors.zip (SHP)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR920/AOI01/DEL_PRODUCT/EMSR920_AOI01_DEL_PRODUCT_v2.zip?type=vectors\",\"label\":\"deu_copernicus_ems_aoi01_delineation_initial_vectors.zip (SHP)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR920/AOI01/GRA_PRODUCT/EMSR920_AOI01_GRA_PRODUCT_v1.zip?type=pdf\",\"label\":\"deu_copernicus_ems_aoi01_grading_initial.pdf (PDF)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR920/AOI01/DEL_PRODUCT/EMSR920_AOI01_DEL_PRODUCT_v2.zip?type=pdf\",\"label\":\"deu_copernicus_ems_aoi01_delineation_initial.pdf (PDF)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR920/AOI02/DEL_PRODUCT/EMSR920_AOI02_DEL_PRODUCT_v1.zip?type=gpkg\",\"label\":\"deu_copernicus_ems_aoi02_delineation_initial.gpkg (Geopackage)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR920/AOI02/DEL_PRODUCT/EMSR920_AOI02_DEL_PRODUCT_v1.zip?type=xlsx\",\"label\":\"deu_copernicus_ems_aoi02_delineation_initial.xlsx (XLSX)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR920/AOI02/DEL_PRODUCT/EMSR920_AOI02_DEL_PRODUCT_v1.zip?type=vectors\",\"label\":\"deu_copernicus_ems_aoi02_delineation_initial_vectors.zip (SHP)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR920/AOI02/DEL_PRODUCT/EMSR920_AOI02_DEL_PRODUCT_v1.zip?type=pdf\",\"label\":\"deu_copernicus_ems_aoi02_delineation_initial.pdf (PDF)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR920/AOI02/DEL_MONIT01/EMSR920_AOI02_DEL_MONIT01_v1.zip?type=gpkg\",\"label\":\"deu_copernicus_ems_aoi02_delineation_monitoring1.gpkg (Geopackage)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR920/AOI02/DEL_MONIT01/EMSR920_AOI02_DEL_MONIT01_v1.zip?type=xlsx\",\"label\":\"deu_copernicus_ems_aoi02_delineation_monitoring1.xlsx (XLSX)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR920/AOI02/DEL_MONIT01/EMSR920_AOI02_DEL_MONIT01_v1.zip?type=vectors\",\"label\":\"deu_copernicus_ems_aoi02_delineation_monitoring1_vectors.zip (SHP)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR920/AOI02/DEL_MONIT01/EMSR920_AOI02_DEL_MONIT01_v1.zip?type=pdf\",\"label\":\"deu_copernicus_ems_aoi02_delineation_monitoring1.pdf (PDF)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR920/AOI03/DEL_PRODUCT/EMSR920_AOI03_DEL_PRODUCT_v1.zip?type=gpkg\",\"label\":\"deu_copernicus_ems_aoi03_delineation_initial.gpkg (Geopackage)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR920/AOI03/DEL_PRODUCT/EMSR920_AOI03_DEL_PRODUCT_v1.zip?type=xlsx\",\"label\":\"deu_copernicus_ems_aoi03_delineation_initial.xlsx (XLSX)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR920/AOI03/DEL_PRODUCT/EMSR920_AOI03_DEL_PRODUCT_v1.zip?type=vectors\",\"label\":\"deu_copernicus_ems_aoi03_delineation_initial_vectors.zip (SHP)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR920/AOI03/DEL_PRODUCT/EMSR920_AOI03_DEL_PRODUCT_v1.zip?type=pdf\",\"label\":\"deu_copernicus_ems_aoi03_delineation_initial.pdf (PDF)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR920/AOI03/DEL_MONIT01/EMSR920_AOI03_DEL_MONIT01_v1.zip?type=gpkg\",\"label\":\"deu_copernicus_ems_aoi03_delineation_monitoring1.gpkg (Geopackage)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR920/AOI03/DEL_MONIT01/EMSR920_AOI03_DEL_MONIT01_v1.zip?type=xlsx\",\"label\":\"deu_copernicus_ems_aoi03_delineation_monitoring1.xlsx (XLSX)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR920/AOI03/DEL_MONIT01/EMSR920_AOI03_DEL_MONIT01_v1.zip?type=vectors\",\"label\":\"deu_copernicus_ems_aoi03_delineation_monitoring1_vectors.zip (SHP)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR920/AOI03/DEL_MONIT01/EMSR920_AOI03_DEL_MONIT01_v1.zip?type=pdf\",\"label\":\"deu_copernicus_ems_aoi03_delineation_monitoring1.pdf (PDF)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR920/AOI03/DEL_MONIT02/EMSR920_AOI03_DEL_MONIT02_v1.zip?type=gpkg\",\"label\":\"deu_copernicus_ems_aoi03_delineation_monitoring2.gpkg (Geopackage)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR920/AOI03/DEL_MONIT02/EMSR920_AOI03_DEL_MONIT02_v1.zip?type=xlsx\",\"label\":\"deu_copernicus_ems_aoi03_delineation_monitoring2.xlsx (XLSX)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR920/AOI03/DEL_MONIT02/EMSR920_AOI03_DEL_MONIT02_v1.zip?type=vectors\",\"label\":\"deu_copernicus_ems_aoi03_delineation_monitoring2_vectors.zip (SHP)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR920/AOI03/DEL_MONIT02/EMSR920_AOI03_DEL_MONIT02_v1.zip?type=pdf\",\"label\":\"deu_copernicus_ems_aoi03_delineation_monitoring2.pdf (PDF)\"}]}"
+}

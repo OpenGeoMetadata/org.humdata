@@ -1,0 +1,45 @@
+{
+  "id": "hdx-883052e5-20eb-4d6d-a692-2d0b2ddde9e9",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-08-24T09:57:00Z",
+  "dct_title_s": "Greece - Wildfire In Skyros, Greece (EMSR923)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains Copernicus EMS Rapid Mapping products for activation EMSR923. On 15 August 2026 at 13:50 CET, a wildfire started on the island of Skyros, in the Region of Sterea Ellada, near the village of Atsitsa, burning dense pine forest. At that time, the fire was ongoing, and more than 80 firefighters and 11 aerial assets were deployed for fire suppression operations, assisted by municipal vehicles and machinery, as well as volunteer organizations. Copernicus EMS Rapid Mapping was requested to provide an initial rough estimation, fire extent delineation, and damage assessment emergency mapping. **Citation:** Copernicus Emergency Management Service (© 2026 European Union), EMSR923 **Product types present in this dataset's resources:** **DEL (Delineation)**: maps the extent of the event itself (eg. flood, fire, landslide boundary). Where a GeoPackage download is available for an Area of Interest/round, it already contains every layer with its official Copernicus styling and colours - prefer it in GIS software over the zipped shapefile download."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Copernicus"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Greece"
+  ],
+  "locn_geometry": "ENVELOPE(20.15, 26.6, 41.83, 34.92)",
+  "dcat_bbox": "ENVELOPE(20.15, 26.6, 41.83, 34.92)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grc-wildfire-emsr923\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR923/AOI01/DEL_PRODUCT/EMSR923_AOI01_DEL_PRODUCT_v1.zip?type=gpkg\",\"label\":\"grc_copernicus_ems_aoi01_delineation_initial.gpkg (Geopackage)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR923/AOI01/DEL_PRODUCT/EMSR923_AOI01_DEL_PRODUCT_v1.zip?type=xlsx\",\"label\":\"grc_copernicus_ems_aoi01_delineation_initial.xlsx (XLSX)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR923/AOI01/DEL_PRODUCT/EMSR923_AOI01_DEL_PRODUCT_v1.zip?type=vectors\",\"label\":\"grc_copernicus_ems_aoi01_delineation_initial_vectors.zip (SHP)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR923/AOI01/DEL_PRODUCT/EMSR923_AOI01_DEL_PRODUCT_v1.zip?type=pdf\",\"label\":\"grc_copernicus_ems_aoi01_delineation_initial.pdf (PDF)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR923/AOI01/DEL_MONIT01/EMSR923_AOI01_DEL_MONIT01_v1.zip?type=gpkg\",\"label\":\"grc_copernicus_ems_aoi01_delineation_monitoring1.gpkg (Geopackage)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR923/AOI01/DEL_MONIT01/EMSR923_AOI01_DEL_MONIT01_v1.zip?type=xlsx\",\"label\":\"grc_copernicus_ems_aoi01_delineation_monitoring1.xlsx (XLSX)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR923/AOI01/DEL_MONIT01/EMSR923_AOI01_DEL_MONIT01_v1.zip?type=vectors\",\"label\":\"grc_copernicus_ems_aoi01_delineation_monitoring1_vectors.zip (SHP)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR923/AOI01/DEL_MONIT01/EMSR923_AOI01_DEL_MONIT01_v1.zip?type=pdf\",\"label\":\"grc_copernicus_ems_aoi01_delineation_monitoring1.pdf (PDF)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR923/AOI01/DEL_MONIT02/EMSR923_AOI01_DEL_MONIT02_v1.zip?type=gpkg\",\"label\":\"grc_copernicus_ems_aoi01_delineation_monitoring2.gpkg (Geopackage)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR923/AOI01/DEL_MONIT02/EMSR923_AOI01_DEL_MONIT02_v1.zip?type=xlsx\",\"label\":\"grc_copernicus_ems_aoi01_delineation_monitoring2.xlsx (XLSX)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR923/AOI01/DEL_MONIT02/EMSR923_AOI01_DEL_MONIT02_v1.zip?type=vectors\",\"label\":\"grc_copernicus_ems_aoi01_delineation_monitoring2_vectors.zip (SHP)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR923/AOI01/DEL_MONIT02/EMSR923_AOI01_DEL_MONIT02_v1.zip?type=pdf\",\"label\":\"grc_copernicus_ems_aoi01_delineation_monitoring2.pdf (PDF)\"}]}"
+}

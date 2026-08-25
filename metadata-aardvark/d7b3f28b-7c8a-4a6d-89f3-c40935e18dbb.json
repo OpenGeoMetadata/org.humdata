@@ -1,0 +1,45 @@
+{
+  "id": "hdx-d7b3f28b-7c8a-4a6d-89f3-c40935e18dbb",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-08-24T10:39:52Z",
+  "dct_title_s": "Spain - Wildfire in Segorbe, Spain (EMSR925)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains Copernicus EMS Rapid Mapping products for activation EMSR925. On 20 August 2026 afternoon, a wildfire was reported to have affected Segorbe area, in Spain’s Castellón province near the Calderona Natural Park. The event was ongoing and spreading on 21 August. Copernicus EMS Rapid Mapping was requested to provide burnt area delineation and damage assessment emergency mapping. **Citation:** Copernicus Emergency Management Service (© 2026 European Union), EMSR925 **Product types present in this dataset's resources:** **GRA (Grading)**: assesses damage to individual features (eg. buildings, infrastructure). Where a GeoPackage download is available for an Area of Interest/round, it already contains every layer with its official Copernicus styling and colours - prefer it in GIS software over the zipped shapefile download."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Copernicus"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Spain"
+  ],
+  "locn_geometry": "ENVELOPE(-9.39, 3.04, 43.75, 35.95)",
+  "dcat_bbox": "ENVELOPE(-9.39, 3.04, 43.75, 35.95)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/esp-wildfire-emsr925\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR925/AOI01/GRA_PRODUCT/EMSR925_AOI01_GRA_PRODUCT_v1.zip?type=gpkg\",\"label\":\"esp_copernicus_ems_aoi01_grading_initial.gpkg (Geopackage)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR925/AOI01/GRA_PRODUCT/EMSR925_AOI01_GRA_PRODUCT_v1.zip?type=xlsx\",\"label\":\"esp_copernicus_ems_aoi01_grading_initial.xlsx (XLSX)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR925/AOI01/GRA_PRODUCT/EMSR925_AOI01_GRA_PRODUCT_v1.zip?type=vectors\",\"label\":\"esp_copernicus_ems_aoi01_grading_initial_vectors.zip (SHP)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR925/AOI01/GRA_PRODUCT/EMSR925_AOI01_GRA_PRODUCT_v1.zip?type=pdf\",\"label\":\"esp_copernicus_ems_aoi01_grading_initial.pdf (PDF)\"}]}"
+}

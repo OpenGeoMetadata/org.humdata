@@ -1,7 +1,7 @@
 {
   "id": "hdx-d5c9e615-6625-463a-a1a2-6c81e64f73fd",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-14T16:11:31Z",
+  "gbl_mdModified_dt": "2026-08-24T12:32:49Z",
   "dct_title_s": "Zambia: Acute Food Insecurity Country Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -31,19 +31,17 @@
   "locn_geometry": "ENVELOPE(21.89, 33.49, -8.24, -17.96)",
   "dcat_bbox": "ENVELOPE(21.89, 33.49, -8.24, -17.96)",
   "dct_temporal_sm": [
-    "2018-2026"
+    "2021-2027"
   ],
   "gbl_indexYear_im": [
-    2018,
-    2019,
-    2020,
     2021,
     2022,
     2023,
     2024,
     2025,
-    2026
+    2026,
+    2027
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/zambia-acute-food-insecurity-country-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/d5c9e615-6625-463a-a1a2-6c81e64f73fd/resource/a6ab75f1-a7f6-4d90-b6f4-6effde0c977c/download/ipc_zmb.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/d5c9e615-6625-463a-a1a2-6c81e64f73fd/resource/a6ab75f1-a7f6-4d90-b6f4-6effde0c977c/download/ipc_zmb.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/zambia-acute-food-insecurity-country-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/d5c9e615-6625-463a-a1a2-6c81e64f73fd/resource/a6ab75f1-a7f6-4d90-b6f4-6effde0c977c/download/ipc_zmb.geojson\",\"label\":\"ipc_zmb.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/d5c9e615-6625-463a-a1a2-6c81e64f73fd/resource/604ab745-e8c8-40a4-9a04-4d0862666fb7/download/ipc_zmb_national_long_latest.csv\",\"label\":\"ipc_zmb_national_long_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/d5c9e615-6625-463a-a1a2-6c81e64f73fd/resource/99509c69-d66c-4c64-89a3-19285d54edd3/download/ipc_zmb_level1_long_latest.csv\",\"label\":\"ipc_zmb_level1_long_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/d5c9e615-6625-463a-a1a2-6c81e64f73fd/resource/d54effbc-205f-4f69-b74b-d6c21f387123/download/ipc_zmb_level1_wide_latest.csv\",\"label\":\"ipc_zmb_level1_wide_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/d5c9e615-6625-463a-a1a2-6c81e64f73fd/resource/67f647b6-527c-47c4-a3bf-6108ccb7d31d/download/ipc_zmb_area_long_latest.csv\",\"label\":\"ipc_zmb_area_long_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/d5c9e615-6625-463a-a1a2-6c81e64f73fd/resource/dafea40b-3388-4f60-b8a5-27f5d42c3706/download/ipc_zmb_area_wide_latest.csv\",\"label\":\"ipc_zmb_area_wide_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/d5c9e615-6625-463a-a1a2-6c81e64f73fd/resource/b3f92775-a804-4dba-be23-446c003e1e01/download/ipc_zmb_national_long.csv\",\"label\":\"ipc_zmb_national_long.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/d5c9e615-6625-463a-a1a2-6c81e64f73fd/resource/0abf1d61-b564-4322-8bbe-608ba9bc7fb2/download/ipc_zmb_national_wide.csv\",\"label\":\"ipc_zmb_national_wide.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/d5c9e615-6625-463a-a1a2-6c81e64f73fd/resource/34ad8cce-cc32-455a-8471-d39ebc3a6eb9/download/ipc_zmb_level1_long.csv\",\"label\":\"ipc_zmb_level1_long.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/d5c9e615-6625-463a-a1a2-6c81e64f73fd/resource/0cd05f60-b6db-44ab-b45d-8a452df58b13/download/ipc_zmb_level1_wide.csv\",\"label\":\"ipc_zmb_level1_wide.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/d5c9e615-6625-463a-a1a2-6c81e64f73fd/resource/6c8bd3d6-90e7-49c1-9f38-81cf1374485f/download/ipc_zmb_area_long.csv\",\"label\":\"ipc_zmb_area_long.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/d5c9e615-6625-463a-a1a2-6c81e64f73fd/resource/146e4867-f408-4d4c-a899-13a0757f412b/download/ipc_zmb_area_wide.csv\",\"label\":\"ipc_zmb_area_wide.csv (CSV)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/d5c9e615-6625-463a-a1a2-6c81e64f73fd/resource/a6ab75f1-a7f6-4d90-b6f4-6effde0c977c/download/ipc_zmb.geojson\"}"
 }

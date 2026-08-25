@@ -1,0 +1,45 @@
+{
+  "id": "hdx-a7c62106-7459-4adc-b638-2df1353b6068",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-08-24T10:20:42Z",
+  "dct_title_s": "Albania - Wildfire in Mallakaster municipality, Albania (EMSR915)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains Copernicus EMS Rapid Mapping products for activation EMSR915. On 05 August 2026, during the morning, several wildfires were reported to have affected the area of Riban village, Mallakaster municipality, Fier district, and Dardhës mountain, Librazhd municipality, Elbasan district. The event was ongoing and spreading. Copernicus EMS Rapid Mapping was requested to provide burnt area delineation and damage assessment emergency mapping. **Citation:** Copernicus Emergency Management Service (© 2026 European Union), EMSR915 **Product types present in this dataset's resources:** **DEL (Delineation)**: maps the extent of the event itself (eg. flood, fire, landslide boundary). Where a GeoPackage download is available for an Area of Interest/round, it already contains every layer with its official Copernicus styling and colours - prefer it in GIS software over the zipped shapefile download."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Copernicus"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Albania"
+  ],
+  "locn_geometry": "ENVELOPE(19.3, 21.02, 42.69, 39.62)",
+  "dcat_bbox": "ENVELOPE(19.3, 21.02, 42.69, 39.62)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/alb-wildfire-emsr915\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR915/AOI01/DEL_PRODUCT/EMSR915_AOI01_DEL_PRODUCT_v1.zip?type=gpkg\",\"label\":\"alb_copernicus_ems_aoi01_delineation_initial.gpkg (Geopackage)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR915/AOI01/DEL_PRODUCT/EMSR915_AOI01_DEL_PRODUCT_v1.zip?type=xlsx\",\"label\":\"alb_copernicus_ems_aoi01_delineation_initial.xlsx (XLSX)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR915/AOI01/DEL_PRODUCT/EMSR915_AOI01_DEL_PRODUCT_v1.zip?type=vectors\",\"label\":\"alb_copernicus_ems_aoi01_delineation_initial_vectors.zip (SHP)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR915/AOI01/DEL_PRODUCT/EMSR915_AOI01_DEL_PRODUCT_v1.zip?type=pdf\",\"label\":\"alb_copernicus_ems_aoi01_delineation_initial.pdf (PDF)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR915/AOI01/DEL_MONIT01/EMSR915_AOI01_DEL_MONIT01_v1.zip?type=gpkg\",\"label\":\"alb_copernicus_ems_aoi01_delineation_monitoring1.gpkg (Geopackage)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR915/AOI01/DEL_MONIT01/EMSR915_AOI01_DEL_MONIT01_v1.zip?type=xlsx\",\"label\":\"alb_copernicus_ems_aoi01_delineation_monitoring1.xlsx (XLSX)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR915/AOI01/DEL_MONIT01/EMSR915_AOI01_DEL_MONIT01_v1.zip?type=vectors\",\"label\":\"alb_copernicus_ems_aoi01_delineation_monitoring1_vectors.zip (SHP)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR915/AOI01/DEL_MONIT01/EMSR915_AOI01_DEL_MONIT01_v1.zip?type=pdf\",\"label\":\"alb_copernicus_ems_aoi01_delineation_monitoring1.pdf (PDF)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR915/AOI01/DEL_MONIT02/EMSR915_AOI01_DEL_MONIT02_v1.zip?type=gpkg\",\"label\":\"alb_copernicus_ems_aoi01_delineation_monitoring2.gpkg (Geopackage)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR915/AOI01/DEL_MONIT02/EMSR915_AOI01_DEL_MONIT02_v1.zip?type=xlsx\",\"label\":\"alb_copernicus_ems_aoi01_delineation_monitoring2.xlsx (XLSX)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR915/AOI01/DEL_MONIT02/EMSR915_AOI01_DEL_MONIT02_v1.zip?type=vectors\",\"label\":\"alb_copernicus_ems_aoi01_delineation_monitoring2_vectors.zip (SHP)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR915/AOI01/DEL_MONIT02/EMSR915_AOI01_DEL_MONIT02_v1.zip?type=pdf\",\"label\":\"alb_copernicus_ems_aoi01_delineation_monitoring2.pdf (PDF)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR915/AOI01/DEL_MONIT03/EMSR915_AOI01_DEL_MONIT03_v1.zip?type=gpkg\",\"label\":\"alb_copernicus_ems_aoi01_delineation_monitoring3.gpkg (Geopackage)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR915/AOI01/DEL_MONIT03/EMSR915_AOI01_DEL_MONIT03_v1.zip?type=xlsx\",\"label\":\"alb_copernicus_ems_aoi01_delineation_monitoring3.xlsx (XLSX)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR915/AOI01/DEL_MONIT03/EMSR915_AOI01_DEL_MONIT03_v1.zip?type=vectors\",\"label\":\"alb_copernicus_ems_aoi01_delineation_monitoring3_vectors.zip (SHP)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR915/AOI01/DEL_MONIT03/EMSR915_AOI01_DEL_MONIT03_v1.zip?type=pdf\",\"label\":\"alb_copernicus_ems_aoi01_delineation_monitoring3.pdf (PDF)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR915/AOI01/DEL_MONIT04/EMSR915_AOI01_DEL_MONIT04_v1.zip?type=gpkg\",\"label\":\"alb_copernicus_ems_aoi01_delineation_monitoring4.gpkg (Geopackage)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR915/AOI01/DEL_MONIT04/EMSR915_AOI01_DEL_MONIT04_v1.zip?type=xlsx\",\"label\":\"alb_copernicus_ems_aoi01_delineation_monitoring4.xlsx (XLSX)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR915/AOI01/DEL_MONIT04/EMSR915_AOI01_DEL_MONIT04_v1.zip?type=vectors\",\"label\":\"alb_copernicus_ems_aoi01_delineation_monitoring4_vectors.zip (SHP)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR915/AOI01/DEL_MONIT04/EMSR915_AOI01_DEL_MONIT04_v1.zip?type=pdf\",\"label\":\"alb_copernicus_ems_aoi01_delineation_monitoring4.pdf (PDF)\"}]}"
+}

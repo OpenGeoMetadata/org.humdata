@@ -1,0 +1,45 @@
+{
+  "id": "hdx-31ce9499-9ef6-4620-999a-cb54e7b81f84",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-08-24T09:25:36Z",
+  "dct_title_s": "Spain - Wildfire in Aragon, Spain (EMSR921)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains Copernicus EMS Rapid Mapping products for activation EMSR921. On 10 August at approximately 10:00 UTC, a wildfire spread across the area. It affected the transition zone between natural, agricultural, and cultural heritage areas, with an estimated burned area of nearly 13,000 hectares. Preventive evacuations were ordered for 18 localities across the municipalities of Las Peñas de Riglos, Bailo, Jaca, Santa Cilia de Jaca, Santa Cruz de la Serós, and Caldearenas. The fire spread along the entire perimeter, remaining out of control. Copernicus EMS Rapid Mapping was requested to provide burnt area delineation and damage assessment emergency mapping. **Citation:** Copernicus Emergency Management Service (© 2026 European Union), EMSR921 **Product types present in this dataset's resources:** **DEL (Delineation)**: maps the extent of the event itself (eg. flood, fire, landslide boundary). **GRA (Grading)**: assesses damage to individual features (eg. buildings, infrastructure). Where a GeoPackage download is available for an Area of Interest/round, it already contains every layer with its official Copernicus styling and colours - prefer it in GIS software over the zipped shapefile download."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Copernicus"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Spain"
+  ],
+  "locn_geometry": "ENVELOPE(-9.39, 3.04, 43.75, 35.95)",
+  "dcat_bbox": "ENVELOPE(-9.39, 3.04, 43.75, 35.95)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/esp-wildfire-emsr921\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR921/AOI01/DEL_PRODUCT/EMSR921_AOI01_DEL_PRODUCT_v1.zip?type=gpkg\",\"label\":\"esp_copernicus_ems_aoi01_delineation_initial.gpkg (Geopackage)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR921/AOI01/GRA_PRODUCT/EMSR921_AOI01_GRA_PRODUCT_v1.zip?type=gpkg\",\"label\":\"esp_copernicus_ems_aoi01_grading_initial.gpkg (Geopackage)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR921/AOI01/DEL_PRODUCT/EMSR921_AOI01_DEL_PRODUCT_v1.zip?type=xlsx\",\"label\":\"esp_copernicus_ems_aoi01_delineation_initial.xlsx (XLSX)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR921/AOI01/GRA_PRODUCT/EMSR921_AOI01_GRA_PRODUCT_v1.zip?type=xlsx\",\"label\":\"esp_copernicus_ems_aoi01_grading_initial.xlsx (XLSX)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR921/AOI01/DEL_PRODUCT/EMSR921_AOI01_DEL_PRODUCT_v1.zip?type=vectors\",\"label\":\"esp_copernicus_ems_aoi01_delineation_initial_vectors.zip (SHP)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR921/AOI01/GRA_PRODUCT/EMSR921_AOI01_GRA_PRODUCT_v1.zip?type=vectors\",\"label\":\"esp_copernicus_ems_aoi01_grading_initial_vectors.zip (SHP)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR921/AOI01/DEL_PRODUCT/EMSR921_AOI01_DEL_PRODUCT_v1.zip?type=pdf\",\"label\":\"esp_copernicus_ems_aoi01_delineation_initial.pdf (PDF)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR921/AOI01/GRA_PRODUCT/EMSR921_AOI01_GRA_PRODUCT_v1.zip?type=pdf\",\"label\":\"esp_copernicus_ems_aoi01_grading_initial.pdf (PDF)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR921/AOI01/DEL_MONIT01/EMSR921_AOI01_DEL_MONIT01_v1.zip?type=gpkg\",\"label\":\"esp_copernicus_ems_aoi01_delineation_monitoring1.gpkg (Geopackage)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR921/AOI01/DEL_MONIT01/EMSR921_AOI01_DEL_MONIT01_v1.zip?type=xlsx\",\"label\":\"esp_copernicus_ems_aoi01_delineation_monitoring1.xlsx (XLSX)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR921/AOI01/DEL_MONIT01/EMSR921_AOI01_DEL_MONIT01_v1.zip?type=vectors\",\"label\":\"esp_copernicus_ems_aoi01_delineation_monitoring1_vectors.zip (SHP)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR921/AOI01/DEL_MONIT01/EMSR921_AOI01_DEL_MONIT01_v1.zip?type=pdf\",\"label\":\"esp_copernicus_ems_aoi01_delineation_monitoring1.pdf (PDF)\"}]}"
+}

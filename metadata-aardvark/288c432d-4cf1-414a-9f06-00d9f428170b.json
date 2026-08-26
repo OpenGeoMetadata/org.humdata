@@ -1,7 +1,7 @@
 {
   "id": "hdx-288c432d-4cf1-414a-9f06-00d9f428170b",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-08-24T14:46:18Z",
+  "gbl_mdModified_dt": "2026-08-25T14:46:40Z",
   "dct_title_s": "Honduras - GLIDE Disaster Events",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -47,7 +47,7 @@
   "locn_geometry": "ENVELOPE(-89.35, -83.15, 16.01, 12.98)",
   "dcat_bbox": "ENVELOPE(-89.35, -83.15, 16.01, 12.98)",
   "dct_temporal_sm": [
-    "1997-2025"
+    "1997-2026"
   ],
   "gbl_indexYear_im": [
     1997,
@@ -78,7 +78,8 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hnd-glide-events\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/288c432d-4cf1-414a-9f06-00d9f428170b/resource/40cb4bbf-9e31-4607-bb85-74c9f77dcbdc/download/hnd_glide_events.csv\",\"label\":\"hnd_glide_events.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/288c432d-4cf1-414a-9f06-00d9f428170b/resource/ffac1e02-5706-4156-87c3-bfd471905af2/download/hnd_glide_events.geojson\",\"label\":\"hnd_glide_events.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/288c432d-4cf1-414a-9f06-00d9f428170b/resource/ffac1e02-5706-4156-87c3-bfd471905af2/download/hnd_glide_events.geojson\"}"

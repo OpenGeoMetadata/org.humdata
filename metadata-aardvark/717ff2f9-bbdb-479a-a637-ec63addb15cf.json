@@ -1,0 +1,49 @@
+{
+  "id": "hdx-717ff2f9-bbdb-479a-a637-ec63addb15cf",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-08-27T12:01:54Z",
+  "dct_title_s": "Nepal Flood 2026: AI Building Footprints (fAIr), Upper Trishuli and Bhote Koshi",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "AI-detected building coverage and H3 density grid for the 132.93 km² 1 km riparian buffer along the Upper Trishuli and Bhote Koshi rivers, published for the 2026 flash flood response. This layer is meant to show **where structures are**, not to count individual buildings. Because imagery resolution is limited, tightly clustered houses are often merged into a single footprint, so counts under-report the true number. Use [hot_flood_npl](https://data.humdata.org/dataset/hot_flood_npl) (OpenStreetMap and Overture) for accurate per-building totals. - Estimated ~13,663 building coverage footprints across the corridor - H3 res 10 density grid (~0.015 km² per cell), block-scale detail - Interactive report with map and cross-reference to OSM and Overture **Caveats.** Small stone-and-tile houses common in Rasuwa hillside settlements are often merged or missed. Post-event damage is not published here."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Humanitarian OpenStreetMap Team"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "damage assessment",
+    "facilities-infrastructure",
+    "flooding",
+    "geodata",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "damage assessment",
+    "facilities-infrastructure",
+    "flooding",
+    "geodata",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Nepal"
+  ],
+  "locn_geometry": "ENVELOPE(80.09, 88.17, 30.42, 26.4)",
+  "dcat_bbox": "ENVELOPE(80.09, 88.17, 30.42, 26.4)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hot_flood_npl_buildings_fair\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/NPL/buildings/hot_flood_npl_buildings_fair_geojson.zip\",\"label\":\"Buildings (fAIr), GeoJSON (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/NPL/buildings/hot_flood_npl_buildings_fair_kml.zip\",\"label\":\"Buildings (fAIr), KML (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/NPL/buildings/hot_flood_npl_buildings_fair_h3_density_r10.geojson\",\"label\":\"Buildings Density H3 res 10 (fAIr), GeoJSON (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/NPL/buildings/hot_flood_npl_buildings_fair_h3_density_r10.geojson\"}"
+}

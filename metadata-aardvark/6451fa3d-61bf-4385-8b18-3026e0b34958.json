@@ -1,0 +1,39 @@
+{
+  "id": "hdx-6451fa3d-61bf-4385-8b18-3026e0b34958",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-08-28T06:24:41Z",
+  "dct_title_s": "Nepal Flash Flood 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Overture building footprints and IHME population estimates in the identified impacted area from the 26 August flash flood in Nepal. - 37 sq km impacted - 4,977 intersecting Overture building footprints - IHME 2026 Population Estimate 10,203.8"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Microsoft AI for Good Lab"
+  ],
+  "dcat_keyword_sm": [
+    "affected area"
+  ],
+  "dct_subject_sm": [
+    "affected area"
+  ],
+  "dct_spatial_sm": [
+    "Nepal"
+  ],
+  "locn_geometry": "ENVELOPE(80.09, 88.17, 30.42, 26.4)",
+  "dcat_bbox": "ENVELOPE(80.09, 88.17, 30.42, 26.4)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/2026-nepal-flash-flood\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/6451fa3d-61bf-4385-8b18-3026e0b34958/resource/11ce1350-2b0f-4dac-870a-1e483b5c1da0/download/nepal_flash_flood_2026_ihme_population_extent.tif\",\"label\":\"nepal_flash_flood_2026_ihme_population_extent.tif (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/6451fa3d-61bf-4385-8b18-3026e0b34958/resource/f7aaf5f5-e175-4644-887a-e7e4bb254925/download/nepal_flash_flood_2026_overture_buildings_damage.gpkg\",\"label\":\"nepal_flash_flood_2026_overture_buildings_damage.gpkg (Geopackage)\"}]}"
+}

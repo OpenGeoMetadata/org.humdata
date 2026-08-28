@@ -1,7 +1,7 @@
 {
   "id": "hdx-22dc8b4e-f50a-4cb6-9421-ebc992f57a61",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-09-24T14:10:02Z",
+  "gbl_mdModified_dt": "2026-08-27T14:37:05Z",
   "dct_title_s": "Syria Cultural Sites",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2013
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/syria-cultural-sites\",\"http://schema.org/downloadUrl\":[{\"url\":\"http://geonode.state.gov/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3ASyria_CulturalSites_2013May22_HIU_USDoS&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/syria-cultural-sites\",\"http://schema.org/downloadUrl\":[{\"url\":\"http://geonode.state.gov/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3ASyria_CulturalSites_2013May22_HIU_USDoS&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature\",\"label\":\"Syria_CulturalSites_2013May22_HIU_USDoS.zip (SHP)\"},{\"url\":\"http://geonode.state.gov/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3ASyria_CulturalSites_2013May22_HIU_USDoS&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature\",\"label\":\"Syria_CulturalSites_2013May22_HIU_USDoS.geojson (GeoJSON)\"},{\"url\":\"http://geonode.state.gov/geoserver/wms/kml?layers=geonode%3ASyria_CulturalSites_2013May22_HIU_USDoS&mode=download\",\"label\":\"geonode-Syria_CulturalSites_2013May22_HIU_USDoS.kml (KML)\"},{\"url\":\"http://geonode.state.gov/geoserver/wms/kml?layers=geonode%3ASyria_CulturalSites_2013May22_HIU_USDoS&mode=refresh\",\"label\":\"geonode-Syria_CulturalSites_2013May22_HIU_USDoS.kml (XML)\"}]}"
 }

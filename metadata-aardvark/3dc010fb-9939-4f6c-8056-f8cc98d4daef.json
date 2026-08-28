@@ -1,14 +1,14 @@
 {
   "id": "hdx-3dc010fb-9939-4f6c-8056-f8cc98d4daef",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-22T09:49:45Z",
-  "dct_title_s": "UNOSAT Live Web map",
+  "gbl_mdModified_dt": "2026-08-28T09:55:22Z",
+  "dct_title_s": "UNOSAT Live web map",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "**UNOSAT code: FL20250818PAK, GDACS ID: 1103435** This application provides flood impact assessments in Pakistan"
+    "**UNOSAT code: FL20260826NPL** This application provides flood impact assessments for Nepal in August 2026. Important note: The boundaries and names shown, and the designations used on this map do not imply official endorsement or acceptance by the United Nations. The designations employed and the presentation of material on this map do not imply the expression of any opinion whatsoever on the part of the Secretariat of the United Nations concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries."
   ],
   "dct_language_sm": [
     "eng"
@@ -26,16 +26,16 @@
     "geodata"
   ],
   "dct_spatial_sm": [
-    "Pakistan"
+    "Nepal"
   ],
-  "locn_geometry": "ENVELOPE(60.87, 77.84, 37.13, 23.69)",
-  "dcat_bbox": "ENVELOPE(60.87, 77.84, 37.13, 23.69)",
+  "locn_geometry": "ENVELOPE(80.09, 88.17, 30.42, 26.4)",
+  "dcat_bbox": "ENVELOPE(80.09, 88.17, 30.42, 26.4)",
   "dct_temporal_sm": [
-    "2025"
+    "2026"
   ],
   "gbl_indexYear_im": [
-    2025
+    2026
   ],
   "dct_format_s": "Geodatabase",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/unosat-live-web-map\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://unosat.org/static/unosat_filesystem/4203/FL20250818PAK_gdb.zip\",\"label\":\"Geodatabase\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/unosat-live-web-map\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://unosat.org/static/unosat_filesystem/4256/FL20260826NPL.gdb.zip\",\"label\":\"FL20260826NPL.gdb.zip (Geodatabase)\"},{\"url\":\"https://unosat.org/static/unosat_filesystem/4256/UNOSAT_PopulationExposure_20260826_20260827_%20Nepal.xlsx\",\"label\":\"UNOSAT_PopulationExposure_20260826_20260827_ Nepal.xlsx (XLSX)\"}]}"
 }

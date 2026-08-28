@@ -1,7 +1,7 @@
 {
   "id": "hdx-58bd325e-8ca4-4e43-b5e2-107d296a50c1",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-09-24T14:26:30Z",
+  "gbl_mdModified_dt": "2026-08-27T14:37:06Z",
   "dct_title_s": "Syria IDP Sites",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2015
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/syria-idp-sites\",\"http://schema.org/downloadUrl\":[{\"url\":\"http://geonode.state.gov/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3ASyria_IDPSites_2016EarlyJan_HIU_USDoS&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/syria-idp-sites\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/58bd325e-8ca4-4e43-b5e2-107d296a50c1/resource/6eff49d4-1cdb-42a6-92fd-bdcc4b433f70/download/syria_idpsites_2016earlyjan_hiu_usdos.xlsx\",\"label\":\"Syria_IDPSites_2016EarlyJan_HIU_USDoS.xlsx (XLSX)\"},{\"url\":\"https://data.humdata.org/dataset/58bd325e-8ca4-4e43-b5e2-107d296a50c1/resource/67ec0081-7824-42ab-9ece-0d21a4048373/download/syria_idpsites_2016earlyjan_hiu_usdos.csv\",\"label\":\"Syria_IDPSites_2016EarlyJan_HIU_USDoS.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/58bd325e-8ca4-4e43-b5e2-107d296a50c1/resource/fb10e6ec-68bf-432a-aee2-edfbfc290174/download/syria_idpsites_2016earlyjan_hiu_usdos.tsv\",\"label\":\"Syria_IDPSites_2016EarlyJan_HIU_USDoS.tsv (TSV)\"},{\"url\":\"http://geonode.state.gov/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3ASyria_IDPSites_2016EarlyJan_HIU_USDoS&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature\",\"label\":\"Syria_IDPSites_2016EarlyJan_HIU_DoS.zip (SHP)\"},{\"url\":\"http://geonode.state.gov/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3ASyria_IDPSites_2016EarlyJan_HIU_USDoS&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature\",\"label\":\"Syria_IDPSites_2016EarlyJan_HIU_DoS.geojson (GeoJSON)\"},{\"url\":\"http://geonode.state.gov/geoserver/wms/kml?layers=geonode%3ASyria_IDPSites_2016EarlyJan_HIU_USDoS&mode=download\",\"label\":\"geonode-Syria_IDPSites_2016EarlyJan_HIU_DoS.kml (KML)\"},{\"url\":\"http://geonode.state.gov/geoserver/wms/kml?layers=geonode%3ASyria_IDPSites_2016EarlyJan_HIU_USDoS&mode=refresh\",\"label\":\"geonode-Syria_IDPSites_2016EarlyJan_HIU_DoS.kml (KML)\"}]}"
 }

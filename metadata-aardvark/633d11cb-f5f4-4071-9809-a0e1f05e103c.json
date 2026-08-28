@@ -1,0 +1,49 @@
+{
+  "id": "hdx-633d11cb-f5f4-4071-9809-a0e1f05e103c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-08-28T09:45:45Z",
+  "dct_title_s": "Nepal Flood 2026: fAIr Damage Assessment, Upper Trishuli and Bhote Koshi",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Part of the Humanitarian OpenStreetMap Team response activation for the 26 August 2026 Bhote Koshi and Trishuli flash flood in Nepal. AI-scored building damage per OpenStreetMap footprint inside the area covered by the open Vantor post-event imagery (about 18 km2). See the interactive overview for the pre versus post compare viewer. Caveat: a building seen from satellite as minor damage may have suffered major damage on the ground. A building reported as intact may also have been damaged: intact means it was not possible to spot damage visually from optical nadir imagery, not that the building is undamaged. This is AI-generated preliminary damage data, subject to human review. For the flood-affected area boundary, OSM and Overture building inventories and the full river corridor context, download [hot_flood_npl](https://data.humdata.org/dataset/hot_flood_npl)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Humanitarian OpenStreetMap Team"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "damage assessment",
+    "facilities-infrastructure",
+    "flooding",
+    "geodata",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "damage assessment",
+    "facilities-infrastructure",
+    "flooding",
+    "geodata",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Nepal"
+  ],
+  "locn_geometry": "ENVELOPE(80.09, 88.17, 30.42, 26.4)",
+  "dcat_bbox": "ENVELOPE(80.09, 88.17, 30.42, 26.4)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hot_flood_npl_buildings_damage\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/NPL/buildings/hot_flood_npl_buildings_damage.geojson\",\"label\":\"Building damage assessment, GeoJSON (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/NPL/buildings/hot_flood_npl_buildings_damage.kml\",\"label\":\"Building damage assessment, KML (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/NPL/buildings/hot_flood_npl_buildings_damage_overview.html\",\"label\":\"Building damage overview and interactive compare (HTML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/NPL/buildings/hot_flood_npl_buildings_damage_analyzed_aoi.geojson\",\"label\":\"Analyzed area (AOI clipped to post imagery extent), GeoJSON (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/NPL/buildings/hot_flood_npl_buildings_damage.geojson\"}"
+}

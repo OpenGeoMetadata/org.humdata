@@ -1,7 +1,7 @@
 {
   "id": "hdx-9fe156bb-0c80-4c7d-b2a6-c4c4167a96e4",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-10T22:37:30Z",
+  "gbl_mdModified_dt": "2026-08-28T19:39:09Z",
   "dct_title_s": "Uzbekistan Healthsites",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,12 +18,10 @@
     "OpenStreetMap contributors"
   ],
   "dcat_keyword_sm": [
-    "health facilities",
-    "hxl"
+    "health facilities"
   ],
   "dct_subject_sm": [
-    "health facilities",
-    "hxl"
+    "health facilities"
   ],
   "dct_spatial_sm": [
     "Uzbekistan"
@@ -31,10 +29,9 @@
   "locn_geometry": "ENVELOPE(55.93, 73.06, 45.59, 37.14)",
   "dcat_bbox": "ENVELOPE(55.93, 73.06, 45.59, 37.14)",
   "dct_temporal_sm": [
-    "2010-2025"
+    "2011-2025"
   ],
   "gbl_indexYear_im": [
-    2010,
     2011,
     2012,
     2013,
@@ -52,5 +49,5 @@
     2025
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/uzbekistan-healthsites\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/9fe156bb-0c80-4c7d-b2a6-c4c4167a96e4/resource/a248d398-2bcd-4a8c-82d6-8a33bb002780/download/uzbekistan_hxl.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/9fe156bb-0c80-4c7d-b2a6-c4c4167a96e4/resource/a248d398-2bcd-4a8c-82d6-8a33bb002780/download/uzbekistan_hxl.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/uzbekistan-healthsites\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/9fe156bb-0c80-4c7d-b2a6-c4c4167a96e4/resource/e8e44bfd-4ac3-40d2-8be3-2c6e851729e8/download/uzbekistan_hxl.csv\",\"label\":\"uzbekistan-healthsites-csv-with-hxl-tags (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/9fe156bb-0c80-4c7d-b2a6-c4c4167a96e4/resource/de8a311b-4dab-4d69-8e1e-49154af4cd65/download/uzbekistan_hxl.geojson\",\"label\":\"uzbekistan-healthsites-hxl-geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/9fe156bb-0c80-4c7d-b2a6-c4c4167a96e4/resource/471a4303-ca5e-4d95-8f9f-4d75a76fd9b8/download/uzbekistan-shapefiles.zip\",\"label\":\"uzbekistan-healthsites-shp (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/9fe156bb-0c80-4c7d-b2a6-c4c4167a96e4/resource/c174de72-56e7-4246-a54c-f0aebf94c85f/download/uzbekistan.csv\",\"label\":\"uzbekistan-healthsites-csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/9fe156bb-0c80-4c7d-b2a6-c4c4167a96e4/resource/2cbb666e-226d-4190-95b3-745d67da2df2/download/uzbekistan.geojson\",\"label\":\"uzbekistan-healthsites-geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/9fe156bb-0c80-4c7d-b2a6-c4c4167a96e4/resource/de8a311b-4dab-4d69-8e1e-49154af4cd65/download/uzbekistan_hxl.geojson\"}"
 }

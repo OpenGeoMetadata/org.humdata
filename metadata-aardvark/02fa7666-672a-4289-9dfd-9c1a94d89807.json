@@ -1,7 +1,7 @@
 {
   "id": "hdx-02fa7666-672a-4289-9dfd-9c1a94d89807",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-15T18:06:48Z",
+  "gbl_mdModified_dt": "2026-08-28T19:14:20Z",
   "dct_title_s": "Switzerland Healthsites",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,12 +18,10 @@
     "OpenStreetMap contributors"
   ],
   "dcat_keyword_sm": [
-    "health facilities",
-    "hxl"
+    "health facilities"
   ],
   "dct_subject_sm": [
-    "health facilities",
-    "hxl"
+    "health facilities"
   ],
   "dct_spatial_sm": [
     "Switzerland"
@@ -54,5 +52,5 @@
     2025
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/switzerland-healthsites\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/02fa7666-672a-4289-9dfd-9c1a94d89807/resource/ec9faa51-f01f-490d-8bac-af6be950d18a/download/switzerland_hxl.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/02fa7666-672a-4289-9dfd-9c1a94d89807/resource/ec9faa51-f01f-490d-8bac-af6be950d18a/download/switzerland_hxl.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/switzerland-healthsites\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/02fa7666-672a-4289-9dfd-9c1a94d89807/resource/6102384f-7441-4eba-bddf-cf8de31e0319/download/switzerland-shapefiles.zip\",\"label\":\"switzerland-healthsites-shp (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/02fa7666-672a-4289-9dfd-9c1a94d89807/resource/a4710212-4054-41da-b6f1-676da2c5a075/download/switzerland.csv\",\"label\":\"switzerland-healthsites-csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/02fa7666-672a-4289-9dfd-9c1a94d89807/resource/e348bffa-e9ba-485c-83ec-857b818dd7a9/download/switzerland_hxl.csv\",\"label\":\"switzerland-healthsites-csv-with-hxl-tags (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/02fa7666-672a-4289-9dfd-9c1a94d89807/resource/d18db59d-3841-4e80-8d08-775732f09913/download/switzerland_hxl.geojson\",\"label\":\"switzerland-healthsites-hxl-geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/02fa7666-672a-4289-9dfd-9c1a94d89807/resource/d14d2b42-7111-49d8-87ae-59123a1fc72f/download/switzerland.geojson\",\"label\":\"switzerland-healthsites-geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/02fa7666-672a-4289-9dfd-9c1a94d89807/resource/d18db59d-3841-4e80-8d08-775732f09913/download/switzerland_hxl.geojson\"}"
 }

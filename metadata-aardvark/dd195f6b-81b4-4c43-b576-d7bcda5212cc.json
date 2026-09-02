@@ -1,7 +1,7 @@
 {
   "id": "hdx-dd195f6b-81b4-4c43-b576-d7bcda5212cc",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-22T04:30:07Z",
+  "gbl_mdModified_dt": "2026-09-01T11:36:10Z",
   "dct_title_s": "Liberia: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,12 +18,10 @@
     "National Oceanic and Atmospheric Administration (NOAA) / National Centers for Environmental Information (NCEI)"
   ],
   "dcat_keyword_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_subject_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_spatial_sm": [
     "Liberia"
@@ -31,7 +29,7 @@
   "locn_geometry": "ENVELOPE(-11.44, -7.54, 8.54, 4.36)",
   "dcat_bbox": "ENVELOPE(-11.44, -7.54, 8.54, 4.36)",
   "dct_temporal_sm": [
-    "1853-2025"
+    "1853-2026"
   ],
   "gbl_indexYear_im": [
     1853,
@@ -206,8 +204,9 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/lbr-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/dd195f6b-81b4-4c43-b576-d7bcda5212cc/resource/c8c659f3-e92a-4510-9a3f-894b1e5bf2e2/download/ibtracs_all_list_v04r01_lines_lbr.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/dd195f6b-81b4-4c43-b576-d7bcda5212cc/resource/c8c659f3-e92a-4510-9a3f-894b1e5bf2e2/download/ibtracs_all_list_v04r01_lines_lbr.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/lbr-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/dd195f6b-81b4-4c43-b576-d7bcda5212cc/resource/63250a02-f07f-4615-93d6-f869e140b7b7/download/ibtracs_all_list_v04r01_lbr.csv\",\"label\":\"ibtracs_ALL_list_v04r01_LBR.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/dd195f6b-81b4-4c43-b576-d7bcda5212cc/resource/c8c659f3-e92a-4510-9a3f-894b1e5bf2e2/download/ibtracs_all_list_v04r01_lines_lbr.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_LBR.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/dd195f6b-81b4-4c43-b576-d7bcda5212cc/resource/c8c659f3-e92a-4510-9a3f-894b1e5bf2e2/download/ibtracs_all_list_v04r01_lines_lbr.geojson\"}"
 }

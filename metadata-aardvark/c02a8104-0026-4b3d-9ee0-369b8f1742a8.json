@@ -1,7 +1,7 @@
 {
   "id": "hdx-c02a8104-0026-4b3d-9ee0-369b8f1742a8",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-10T16:57:43Z",
+  "gbl_mdModified_dt": "2026-09-01T11:50:52Z",
   "dct_title_s": "Guadeloupe: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -27,7 +27,7 @@
     "Guadeloupe"
   ],
   "dct_temporal_sm": [
-    "1851-2025"
+    "1851-2026"
   ],
   "gbl_indexYear_im": [
     1851,
@@ -204,8 +204,9 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/glp-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/c02a8104-0026-4b3d-9ee0-369b8f1742a8/resource/b83fb8d7-b2c2-4c46-b95d-7466022473f5/download/ibtracs_all_list_v04r01_lines_glp.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/c02a8104-0026-4b3d-9ee0-369b8f1742a8/resource/b83fb8d7-b2c2-4c46-b95d-7466022473f5/download/ibtracs_all_list_v04r01_lines_glp.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/glp-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/c02a8104-0026-4b3d-9ee0-369b8f1742a8/resource/beee0974-12e7-4233-be1f-3c944131784c/download/ibtracs_all_list_v04r01_glp.csv\",\"label\":\"ibtracs_ALL_list_v04r01_GLP.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/c02a8104-0026-4b3d-9ee0-369b8f1742a8/resource/b83fb8d7-b2c2-4c46-b95d-7466022473f5/download/ibtracs_all_list_v04r01_lines_glp.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_GLP.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/c02a8104-0026-4b3d-9ee0-369b8f1742a8/resource/b83fb8d7-b2c2-4c46-b95d-7466022473f5/download/ibtracs_all_list_v04r01_lines_glp.geojson\"}"
 }

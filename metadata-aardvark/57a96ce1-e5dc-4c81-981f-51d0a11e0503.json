@@ -1,7 +1,7 @@
 {
   "id": "hdx-57a96ce1-e5dc-4c81-981f-51d0a11e0503",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-22T04:23:44Z",
+  "gbl_mdModified_dt": "2026-09-01T11:29:21Z",
   "dct_title_s": "Guinea-Bissau: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,12 +18,10 @@
     "National Oceanic and Atmospheric Administration (NOAA) / National Centers for Environmental Information (NCEI)"
   ],
   "dcat_keyword_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_subject_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_spatial_sm": [
     "Guinea-Bissau"
@@ -31,7 +29,7 @@
   "locn_geometry": "ENVELOPE(-16.68, -13.7, 12.63, 11.04)",
   "dcat_bbox": "ENVELOPE(-16.68, -13.7, 12.63, 11.04)",
   "dct_temporal_sm": [
-    "1852-2025"
+    "1852-2026"
   ],
   "gbl_indexYear_im": [
     1852,
@@ -207,8 +205,9 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/gnb-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/57a96ce1-e5dc-4c81-981f-51d0a11e0503/resource/179e3ce3-daf2-499b-a9ae-e80b164155dd/download/ibtracs_all_list_v04r01_lines_gnb.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/57a96ce1-e5dc-4c81-981f-51d0a11e0503/resource/179e3ce3-daf2-499b-a9ae-e80b164155dd/download/ibtracs_all_list_v04r01_lines_gnb.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/gnb-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/57a96ce1-e5dc-4c81-981f-51d0a11e0503/resource/da484042-8cff-429d-a48a-72901ae1dca0/download/ibtracs_all_list_v04r01_gnb.csv\",\"label\":\"ibtracs_ALL_list_v04r01_GNB.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/57a96ce1-e5dc-4c81-981f-51d0a11e0503/resource/179e3ce3-daf2-499b-a9ae-e80b164155dd/download/ibtracs_all_list_v04r01_lines_gnb.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_GNB.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/57a96ce1-e5dc-4c81-981f-51d0a11e0503/resource/179e3ce3-daf2-499b-a9ae-e80b164155dd/download/ibtracs_all_list_v04r01_lines_gnb.geojson\"}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-a1eb370c-732b-4da1-83fc-28984a8d24e1",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-10T16:35:06Z",
+  "gbl_mdModified_dt": "2026-09-01T11:30:15Z",
   "dct_title_s": "French Guiana: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -27,7 +27,7 @@
     "French Guiana"
   ],
   "dct_temporal_sm": [
-    "1851-2025"
+    "1851-2026"
   ],
   "gbl_indexYear_im": [
     1851,
@@ -204,8 +204,9 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/guf-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/a1eb370c-732b-4da1-83fc-28984a8d24e1/resource/1fd5fd61-311b-4b14-88e9-ec4562d122aa/download/ibtracs_all_list_v04r01_lines_guf.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/a1eb370c-732b-4da1-83fc-28984a8d24e1/resource/1fd5fd61-311b-4b14-88e9-ec4562d122aa/download/ibtracs_all_list_v04r01_lines_guf.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/guf-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/a1eb370c-732b-4da1-83fc-28984a8d24e1/resource/b1a76c4c-362f-493c-b60a-461f91b12abd/download/ibtracs_all_list_v04r01_guf.csv\",\"label\":\"ibtracs_ALL_list_v04r01_GUF.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/a1eb370c-732b-4da1-83fc-28984a8d24e1/resource/1fd5fd61-311b-4b14-88e9-ec4562d122aa/download/ibtracs_all_list_v04r01_lines_guf.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_GUF.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/a1eb370c-732b-4da1-83fc-28984a8d24e1/resource/1fd5fd61-311b-4b14-88e9-ec4562d122aa/download/ibtracs_all_list_v04r01_lines_guf.geojson\"}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-e7f9084a-8df6-4bb2-b19b-42c98c582050",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-22T04:33:24Z",
+  "gbl_mdModified_dt": "2026-09-01T11:39:27Z",
   "dct_title_s": "Mauritania: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,12 +18,10 @@
     "National Oceanic and Atmospheric Administration (NOAA) / National Centers for Environmental Information (NCEI)"
   ],
   "dcat_keyword_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_subject_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_spatial_sm": [
     "Mauritania"
@@ -31,7 +29,7 @@
   "locn_geometry": "ENVELOPE(-17.06, -4.92, 27.4, 14.62)",
   "dcat_bbox": "ENVELOPE(-17.06, -4.92, 27.4, 14.62)",
   "dct_temporal_sm": [
-    "1851-2025"
+    "1851-2026"
   ],
   "gbl_indexYear_im": [
     1851,
@@ -208,8 +206,9 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mrt-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e7f9084a-8df6-4bb2-b19b-42c98c582050/resource/b238b0b6-d83d-4acb-8c00-fd001fa1be06/download/ibtracs_all_list_v04r01_lines_mrt.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/e7f9084a-8df6-4bb2-b19b-42c98c582050/resource/b238b0b6-d83d-4acb-8c00-fd001fa1be06/download/ibtracs_all_list_v04r01_lines_mrt.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mrt-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e7f9084a-8df6-4bb2-b19b-42c98c582050/resource/0af3c17f-19cb-4095-a795-46e5cec1fd10/download/ibtracs_all_list_v04r01_mrt.csv\",\"label\":\"ibtracs_ALL_list_v04r01_MRT.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/e7f9084a-8df6-4bb2-b19b-42c98c582050/resource/b238b0b6-d83d-4acb-8c00-fd001fa1be06/download/ibtracs_all_list_v04r01_lines_mrt.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_MRT.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/e7f9084a-8df6-4bb2-b19b-42c98c582050/resource/b238b0b6-d83d-4acb-8c00-fd001fa1be06/download/ibtracs_all_list_v04r01_lines_mrt.geojson\"}"
 }

@@ -1,0 +1,43 @@
+{
+  "id": "hdx-afa6825c-b6f0-40ac-a311-64bcfc74c797",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-09-02T21:23:32Z",
+  "dct_title_s": "Indonesia - Earthquake on Sep 02 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000tdhl](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000tdhl) Magnitude 5.6 earthquake at 64.644 depth occurred on Sep 02 2026 35km SE of Foao. The epicentre of the earthquake was located at latitude -3.2128 longitude 139.3732. It impacted 215751 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Indonesia"
+  ],
+  "locn_geometry": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dcat_bbox": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/idn-earthquake-sm-us7000tdhl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/afa6825c-b6f0-40ac-a311-64bcfc74c797/resource/6f80ed12-9819-44c9-9239-d986cfddf645/download/idn_wfpadam_earthquake_20260902.geojson\",\"label\":\"idn_wfpadam_earthquake_20260902.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/afa6825c-b6f0-40ac-a311-64bcfc74c797/resource/7f04472e-1418-4e08-931d-c955daeceb78/download/idn_wfpadam_earthquake_20260902.csv\",\"label\":\"idn_wfpadam_earthquake_20260902.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/afa6825c-b6f0-40ac-a311-64bcfc74c797/resource/d01962da-9ca9-4436-9a4d-8127c84eb02e/download/idn_wfpadam_earthquake_20260902.xlsx\",\"label\":\"idn_wfpadam_earthquake_20260902.xlsx (XLSX)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/afa6825c-b6f0-40ac-a311-64bcfc74c797/resource/6f80ed12-9819-44c9-9239-d986cfddf645/download/idn_wfpadam_earthquake_20260902.geojson\"}"
+}

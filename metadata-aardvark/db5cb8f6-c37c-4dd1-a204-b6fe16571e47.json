@@ -1,0 +1,43 @@
+{
+  "id": "hdx-db5cb8f6-c37c-4dd1-a204-b6fe16571e47",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-09-03T21:22:52Z",
+  "dct_title_s": "Vanuatu - Earthquake on Sep 02 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000tdr1](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000tdr1) Magnitude 5.4 earthquake at 98.098 depth occurred on Sep 02 2026 52km W of Anelgaohat. The epicentre of the earthquake was located at latitude -20.2919 longitude 169.319. It impacted 105 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Vanuatu"
+  ],
+  "locn_geometry": "ENVELOPE(166.63, 167.84, -14.63, -16.6)",
+  "dcat_bbox": "ENVELOPE(166.63, 167.84, -14.63, -16.6)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/vut-earthquake-sm-us7000tdr1\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/db5cb8f6-c37c-4dd1-a204-b6fe16571e47/resource/3cfb194c-79d7-4ee8-9918-ad5b20862442/download/vut_wfpadam_earthquake_20260902.geojson\",\"label\":\"vut_wfpadam_earthquake_20260902.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/db5cb8f6-c37c-4dd1-a204-b6fe16571e47/resource/429f1b3d-3976-4a8a-a8c2-e6379a077987/download/vut_wfpadam_earthquake_20260902.csv\",\"label\":\"vut_wfpadam_earthquake_20260902.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/db5cb8f6-c37c-4dd1-a204-b6fe16571e47/resource/246f4092-29e6-4dfa-988c-3424ae4c670e/download/vut_wfpadam_earthquake_20260902.xlsx\",\"label\":\"vut_wfpadam_earthquake_20260902.xlsx (XLSX)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/db5cb8f6-c37c-4dd1-a204-b6fe16571e47/resource/3cfb194c-79d7-4ee8-9918-ad5b20862442/download/vut_wfpadam_earthquake_20260902.geojson\"}"
+}

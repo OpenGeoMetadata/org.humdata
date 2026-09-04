@@ -1,0 +1,41 @@
+{
+  "id": "hdx-5093f7bf-1f7d-4ebd-8fa0-d87926f20958",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-09-03T10:47:43Z",
+  "dct_title_s": "Italy - Storm in Lombardy, Italy (EMSR928)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains Copernicus EMS Rapid Mapping products for activation EMSR928. On the 28 August 2026, a severe storm is reported to have affected the province of Cremona, Italy, causing damage to public and private buildings, to infrastructures and roads, as well as fallen trees. Copernicus EMS Rapid Mapping is requested to provide damage assessment emergency mapping. **Citation:** Copernicus Emergency Management Service (© 2026 European Union), EMSR928 **Product types present in this dataset's resources:** **GRA (Grading)**: assesses damage to individual features (eg. buildings, infrastructure). Where a GeoPackage download is available for an Area of Interest/round, it already contains every layer with its official Copernicus styling and colours - prefer it in GIS software over the zipped shapefile download."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Copernicus"
+  ],
+  "dcat_keyword_sm": [
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Italy"
+  ],
+  "locn_geometry": "ENVELOPE(6.75, 18.48, 47.12, 36.62)",
+  "dcat_bbox": "ENVELOPE(6.75, 18.48, 47.12, 36.62)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/ita-storm-emsr928\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR928/AOI01/GRA_PRODUCT/EMSR928_AOI01_GRA_PRODUCT_v1.zip?type=gpkg\",\"label\":\"ita_copernicus_ems_aoi01_grading_initial.gpkg (Geopackage)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR928/AOI01/GRA_PRODUCT/EMSR928_AOI01_GRA_PRODUCT_v1.zip?type=xlsx\",\"label\":\"ita_copernicus_ems_aoi01_grading_initial.xlsx (XLSX)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR928/AOI01/GRA_PRODUCT/EMSR928_AOI01_GRA_PRODUCT_v1.zip?type=vectors\",\"label\":\"ita_copernicus_ems_aoi01_grading_initial_vectors.zip (SHP)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR928/AOI01/GRA_PRODUCT/EMSR928_AOI01_GRA_PRODUCT_v1.zip?type=pdf\",\"label\":\"ita_copernicus_ems_aoi01_grading_initial.pdf (PDF)\"}]}"
+}

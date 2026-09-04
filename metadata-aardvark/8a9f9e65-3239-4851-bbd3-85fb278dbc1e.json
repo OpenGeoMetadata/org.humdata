@@ -1,0 +1,43 @@
+{
+  "id": "hdx-8a9f9e65-3239-4851-bbd3-85fb278dbc1e",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-09-03T21:22:48Z",
+  "dct_title_s": "China - Earthquake on Sep 03 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000tdw6](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000tdw6) Magnitude 5.4 earthquake at 10.0 depth occurred on Sep 03 2026 26km N of Beichuan Qiang Autonomous County. The epicentre of the earthquake was located at latitude 31.8458 longitude 104.5066. It impacted 1280732 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "locn_geometry": "ENVELOPE(73.68, 135.03, 53.46, 18.2)",
+  "dcat_bbox": "ENVELOPE(73.68, 135.03, 53.46, 18.2)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/chn-earthquake-sm-us7000tdw6\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/8a9f9e65-3239-4851-bbd3-85fb278dbc1e/resource/cb4655b8-0efc-4cf8-80ac-663a313c4b9d/download/chn_wfpadam_earthquake_20260903.geojson\",\"label\":\"chn_wfpadam_earthquake_20260903.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/8a9f9e65-3239-4851-bbd3-85fb278dbc1e/resource/9e0b161e-696b-41ac-8d21-a8eaa93ce612/download/chn_wfpadam_earthquake_20260903.csv\",\"label\":\"chn_wfpadam_earthquake_20260903.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/8a9f9e65-3239-4851-bbd3-85fb278dbc1e/resource/dc4b6b39-4e7b-4aa0-adde-3869d17e3701/download/chn_wfpadam_earthquake_20260903.xlsx\",\"label\":\"chn_wfpadam_earthquake_20260903.xlsx (XLSX)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/8a9f9e65-3239-4851-bbd3-85fb278dbc1e/resource/cb4655b8-0efc-4cf8-80ac-663a313c4b9d/download/chn_wfpadam_earthquake_20260903.geojson\"}"
+}

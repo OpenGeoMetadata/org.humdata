@@ -17,7 +17,7 @@
   "license_title": "Other",
   "maintainer": "37023db4-a571-4f28-8d1f-15f0353586af",
   "metadata_created": "2019-05-27T13:00:33.825125",
-  "metadata_modified": "2025-08-26T13:51:45.015167",
+  "metadata_modified": "2026-09-03T09:53:32.085447",
   "methodology": "Other",
   "methodology_other": "Estimates of total number of people per grid square broken down by gender and age groupings (including 0-1 and by 5-year up to 80+) in 2020 for BelizeThe dataset is available to download in Geotiff format at a resolution of 3 arc (approximately 100m at the equator) . The projection is Geographic Coordinate System, WGS84. The units are estimated number of male/female in each age group per grid square.The mapping approach is Pezzulo, C. et al. Sub-national mapping of population pyramids and dependency ratios in Africa and Asia. Sci. Data 4:170089 doi:10.1038/sdata.2017.89 (2017)Filenames: Example - afg_f_05_2000.tif People per pixel (PPP) for female age group 5 to 9 years (f_05) in Afghanistan for year 2000.For other datasets, m = male, 00 = age group 0 to 12months, 01 = age group 1 to 4 years, 80 = age 80 years and over",
   "name": "worldpop-age-and-gender-structures-for-belize",
@@ -812,6 +812,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-06-29T05:32:30.904925",
@@ -823,7 +824,7 @@
       "hdx_rel_url": "https://data.worldpop.org/GIS/AgeSex_structures/Global_2000_2020/2020/BLZ/blz_f_25_2020.tif",
       "id": "b0a6acdc-edef-42a1-8d51-de9156cba908",
       "last_modified": "2018-11-22T20:05:28",
-      "metadata_modified": "2025-08-26T13:51:45.066005",
+      "metadata_modified": "2026-09-03T09:53:32.113887",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

@@ -1,0 +1,41 @@
+{
+  "id": "hdx-82ef7b1f-6f5a-40be-908f-f81d7190f030",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-09-04T09:57:00Z",
+  "dct_title_s": "Flood Impact Assessment in Luang Namtha City, Lao PDR, 29–31 August 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**UNOSAT code: FL20260831LAO** This map illustrates the satellite-detected flood extent in Louangnamtha City, Lao PDR, based on Sentinel-1 imagery acquired on 29 August 2026, with flood extent derived using the UNOSAT AI-based method, and Sentinel-2 imagery acquired on 31 August 2026. Within the analyzed area of approximately 190 km², an estimated 11 km² appears to be affected by flooding. Based on WorldPop data, approximately 3,200 people are potentially exposed to or living near the affected areas. UNOSAT also identified approximately 1,284 potentially affected buildings, including approximately 190 in B. Mai, 140 in B. Louang, 130 in B. Donkhoune, and 120 in B. Namngan. This is a preliminary analysis and has not yet been validated in the field. Please provide any ground feedback or additional information to UNOSAT."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "UN Operational Satellite Applications Programme (UNOSAT)"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Lao People's Democratic Republic"
+  ],
+  "locn_geometry": "ENVELOPE(100.12, 107.56, 22.46, 13.88)",
+  "dcat_bbox": "ENVELOPE(100.12, 107.56, 22.46, 13.88)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "Geodatabase",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/flood-impact-assessment-in-luang-namtha-city-lao-pdr-29-31-august-2026\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://unosat.org/static/unosat_filesystem/4261/FL20260831LAO_gdb.zip\",\"label\":\"FL20260831LAO_gdb.zip (Geodatabase)\"},{\"url\":\"https://unosat.org/static/unosat_filesystem/4261/UNOSAT_PopulationExposure_FL20260831LAO_LuangNamtha.xlsx\",\"label\":\"UNOSAT_PopulationExposure_FL20260831LAO_LuangNamtha.xlsx (XLSX)\"}]}"
+}

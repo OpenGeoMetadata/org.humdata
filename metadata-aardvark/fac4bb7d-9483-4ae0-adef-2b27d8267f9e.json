@@ -1,0 +1,43 @@
+{
+  "id": "hdx-fac4bb7d-9483-4ae0-adef-2b27d8267f9e",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-09-05T21:22:49Z",
+  "dct_title_s": "Vanuatu - Earthquake on Sep 05 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000tek0](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000tek0) Magnitude 5.6 earthquake at 10.0 depth occurred on Sep 05 2026 33km S of Ibau. The epicentre of the earthquake was located at latitude -19.807 longitude 170.1576. It impacted 564 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Vanuatu"
+  ],
+  "locn_geometry": "ENVELOPE(166.63, 167.84, -14.63, -16.6)",
+  "dcat_bbox": "ENVELOPE(166.63, 167.84, -14.63, -16.6)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/vut-earthquake-sm-us7000tek0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/fac4bb7d-9483-4ae0-adef-2b27d8267f9e/resource/8060d2ab-6198-4313-94ea-5c8b2a4c5b36/download/vut_wfpadam_earthquake_20260905.geojson\",\"label\":\"vut_wfpadam_earthquake_20260905.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/fac4bb7d-9483-4ae0-adef-2b27d8267f9e/resource/18db4009-3f3a-495d-8945-48bc466ea2f0/download/vut_wfpadam_earthquake_20260905.csv\",\"label\":\"vut_wfpadam_earthquake_20260905.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/fac4bb7d-9483-4ae0-adef-2b27d8267f9e/resource/b8da43b9-af11-4a82-aa9c-12493872575c/download/vut_wfpadam_earthquake_20260905.xlsx\",\"label\":\"vut_wfpadam_earthquake_20260905.xlsx (XLSX)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/fac4bb7d-9483-4ae0-adef-2b27d8267f9e/resource/8060d2ab-6198-4313-94ea-5c8b2a4c5b36/download/vut_wfpadam_earthquake_20260905.geojson\"}"
+}

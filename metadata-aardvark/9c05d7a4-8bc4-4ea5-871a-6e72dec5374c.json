@@ -1,0 +1,43 @@
+{
+  "id": "hdx-9c05d7a4-8bc4-4ea5-871a-6e72dec5374c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-09-05T21:22:53Z",
+  "dct_title_s": "Papua New Guinea - Earthquake on Sep 05 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000teji](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000teji) Magnitude 5.5 earthquake at 114.364 depth occurred on Sep 05 2026 59km S of Babase Island. The epicentre of the earthquake was located at latitude -4.5469 longitude 153.6766. It impacted 304 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Papua New Guinea"
+  ],
+  "locn_geometry": "ENVELOPE(141.0, 156.02, -2.5, -10.65)",
+  "dcat_bbox": "ENVELOPE(141.0, 156.02, -2.5, -10.65)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/png-earthquake-sm-us7000teji\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/9c05d7a4-8bc4-4ea5-871a-6e72dec5374c/resource/0b2ceb15-3240-4ab9-9fbb-4772d4800a05/download/png_wfpadam_earthquake_20260905.geojson\",\"label\":\"png_wfpadam_earthquake_20260905.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/9c05d7a4-8bc4-4ea5-871a-6e72dec5374c/resource/cd12a9ab-ff60-4d40-bf28-73636f82164e/download/png_wfpadam_earthquake_20260905.csv\",\"label\":\"png_wfpadam_earthquake_20260905.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/9c05d7a4-8bc4-4ea5-871a-6e72dec5374c/resource/91abb23f-45fb-414b-9c30-42f5251d963e/download/png_wfpadam_earthquake_20260905.xlsx\",\"label\":\"png_wfpadam_earthquake_20260905.xlsx (XLSX)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/9c05d7a4-8bc4-4ea5-871a-6e72dec5374c/resource/0b2ceb15-3240-4ab9-9fbb-4772d4800a05/download/png_wfpadam_earthquake_20260905.geojson\"}"
+}

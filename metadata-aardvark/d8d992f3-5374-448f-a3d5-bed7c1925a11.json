@@ -1,28 +1,30 @@
 {
   "id": "hdx-d8d992f3-5374-448f-a3d5-bed7c1925a11",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-06-27T18:42:40Z",
+  "gbl_mdModified_dt": "2026-09-07T09:03:13Z",
   "dct_title_s": "Gabon - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "Gabon administrative level 0-2 boundaries (COD-AB) dataset. The date that these administrative boundaries were established is unknown. NOTE: See COD-PS caveats about Libreville data. This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024. The COD-AB does not require any update. Sourced from Second Administrative Level Boundaries (SALB) Vetting by Information Technology Outreach Services (ITOS) with funding from USAID. This COD-AB is suitable for database or GIS linkage to the Gabon [COD-PS](https://data.humdata.org/dataset/cod-ps-gab). No edge-matched (COD-EM) version of this COD-AB has yet been prepared. Please see the [COD Portal](https://cod.unocha.org/). Administrative level 1 contains 9 feature(s). The normal administrative level 1 feature type is \"\"currently not known\"\". Administrative level 2 contains 48 feature(s). The normal administrative level 2 feature type is \"\"currently not known\"\". Recommended cartographic projection: Africa Albers Equal Area Conic This metadata was last updated on January 9, 2025."
+    "Gabon administrative level 0-2 boundaries (COD-AB) dataset version 01. This dataset is structured into 2 levels: - Admin 1: 9 Province - Admin 2: 48 Departement Dates associated with this dataset: - 01 June 2026: dataset reviewed for accuracy and completeness - 01 June 2026: valid for use by the humanitarian community - 01 June 2026: last edit to the dataset before publishing Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx). Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "schema_provider_s": "Humanitarian Data Exchange",
   "dct_publisher_sm": [
-    "Second Administrative Level Boundaries (SALB)"
+    "INC Gabon (Institut National de Cartographie)"
   ],
   "dcat_keyword_sm": [
     "administrative boundaries-divisions",
+    "gazetteer",
     "geodata"
   ],
   "dct_subject_sm": [
     "administrative boundaries-divisions",
+    "gazetteer",
     "geodata"
   ],
   "dct_spatial_sm": [
@@ -31,20 +33,11 @@
   "locn_geometry": "ENVELOPE(8.8, 14.43, 2.33, -3.98)",
   "dcat_bbox": "ENVELOPE(8.8, 14.43, 2.33, -3.98)",
   "dct_temporal_sm": [
-    "2015-2024"
+    "2026"
   ],
   "gbl_indexYear_im": [
-    2015,
-    2016,
-    2017,
-    2018,
-    2019,
-    2020,
-    2021,
-    2022,
-    2023,
-    2024
+    2026
   ],
-  "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-gab\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/d8d992f3-5374-448f-a3d5-bed7c1925a11/resource/06f92c77-6f35-42e8-84cc-37d7674c4ad8/download/gab_admbndp0_1m_salb.zip\",\"label\":\"SHP\"}]}"
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-gab\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/d8d992f3-5374-448f-a3d5-bed7c1925a11/resource/d214ab5b-df75-4440-9e58-69510d68e322/download/gab_admin_boundaries.gdb.zip\",\"label\":\"gab_admin_boundaries.gdb.zip (Geodatabase)\"},{\"url\":\"https://data.humdata.org/dataset/d8d992f3-5374-448f-a3d5-bed7c1925a11/resource/6065938e-b3ce-434c-b9df-c5ea8d1156d0/download/gab_admin_boundaries.shp.zip\",\"label\":\"gab_admin_boundaries.shp.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/d8d992f3-5374-448f-a3d5-bed7c1925a11/resource/e53cfbf6-87a9-4eba-b52d-409b11f3ed4a/download/gab_admin_boundaries.geojson.zip\",\"label\":\"gab_admin_boundaries.geojson.zip (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/d8d992f3-5374-448f-a3d5-bed7c1925a11/resource/a9995e5e-0f37-40a1-bd54-b5e7754a6dc9/download/gab_admin_boundaries.xlsx\",\"label\":\"gab_admin_boundaries.xlsx (XLSX)\"}]}"
 }

@@ -1,0 +1,43 @@
+{
+  "id": "hdx-5aa4ab00-8dc3-479e-a812-1b7fba0802e2",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-09-07T13:23:43Z",
+  "dct_title_s": "HOTOSM Cocos (Keeling) Islands Railways (OpenStreetMap Export)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "OpenStreetMap exports for use in GIS applications. This theme includes all OpenStreetMap features in this area matching: railway IN ('rail','station') Features may have these attributes: - [ele](http://wiki.openstreetmap.org/wiki/Key:ele) - [layer](http://wiki.openstreetmap.org/wiki/Key:layer) - [railway](http://wiki.openstreetmap.org/wiki/Key:railway) - [addr:full](http://wiki.openstreetmap.org/wiki/Key:addr:full) - [operator:type](http://wiki.openstreetmap.org/wiki/Key:operator:type) - [addr:city](http://wiki.openstreetmap.org/wiki/Key:addr:city) - [source](http://wiki.openstreetmap.org/wiki/Key:source) - [name](http://wiki.openstreetmap.org/wiki/Key:name) This dataset is one of many [OpenStreetMap exports on HDX](https://data.humdata.org/organization/hot). See the [Humanitarian OpenStreetMap Team](http://hotosm.org/) website for more information."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "facilities-infrastructure",
+    "geodata",
+    "railways",
+    "transportation"
+  ],
+  "dct_subject_sm": [
+    "facilities-infrastructure",
+    "geodata",
+    "railways",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "Cocos (Keeling) Islands"
+  ],
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "KML",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_cck_railways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://export.hotosm.org/downloads/e8b30848-54b7-4f43-ba8b-9fe662c41d73/hotosm_cck_railways_lines_shp.zip\",\"label\":\"hotosm_cck_railways_lines_shp.zip (SHP)\"},{\"url\":\"https://export.hotosm.org/downloads/e8b30848-54b7-4f43-ba8b-9fe662c41d73/hotosm_cck_railways_polygons_shp.zip\",\"label\":\"hotosm_cck_railways_polygons_shp.zip (SHP)\"},{\"url\":\"https://export.hotosm.org/downloads/e8b30848-54b7-4f43-ba8b-9fe662c41d73/hotosm_cck_railways_gpkg.zip\",\"label\":\"hotosm_cck_railways_gpkg.zip (Geopackage)\"},{\"url\":\"https://export.hotosm.org/downloads/e8b30848-54b7-4f43-ba8b-9fe662c41d73/hotosm_cck_railways_lines_kml.zip\",\"label\":\"hotosm_cck_railways_lines_kml.zip (KML)\"},{\"url\":\"https://export.hotosm.org/downloads/e8b30848-54b7-4f43-ba8b-9fe662c41d73/hotosm_cck_railways_polygons_kml.zip\",\"label\":\"hotosm_cck_railways_polygons_kml.zip (KML)\"},{\"url\":\"https://export.hotosm.org/downloads/e8b30848-54b7-4f43-ba8b-9fe662c41d73/hotosm_cck_gmapsupp_img.zip\",\"label\":\"hotosm_cck_gmapsupp_img.zip (Garmin IMG)\"}]}"
+}

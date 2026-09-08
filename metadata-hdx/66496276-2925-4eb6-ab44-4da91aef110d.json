@@ -17,7 +17,7 @@
   "license_title": "Other",
   "maintainer": "37023db4-a571-4f28-8d1f-15f0353586af",
   "metadata_created": "2019-05-27T13:03:29.377362",
-  "metadata_modified": "2025-08-26T13:29:27.906899",
+  "metadata_modified": "2026-09-07T12:20:59.395937",
   "methodology": "Other",
   "methodology_other": "Estimates of total number of people per grid square broken down by gender and age groupings (including 0-1 and by 5-year up to 80+) in 2020 for MontenegroThe dataset is available to download in Geotiff format at a resolution of 3 arc (approximately 100m at the equator) . The projection is Geographic Coordinate System, WGS84. The units are estimated number of male/female in each age group per grid square.The mapping approach is Pezzulo, C. et al. Sub-national mapping of population pyramids and dependency ratios in Africa and Asia. Sci. Data 4:170089 doi:10.1038/sdata.2017.89 (2017)Filenames: Example - afg_f_05_2000.tif People per pixel (PPP) for female age group 5 to 9 years (f_05) in Afghanistan for year 2000.For other datasets, m = male, 00 = age group 0 to 12months, 01 = age group 1 to 4 years, 80 = age 80 years and over",
   "name": "worldpop-age-and-gender-structures-for-montenegro",
@@ -637,6 +637,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-06-29T07:35:24.188322",
@@ -648,7 +649,7 @@
       "hdx_rel_url": "https://data.worldpop.org/GIS/AgeSex_structures/Global_2000_2020/2020/MNE/mne_f_5_2020.tif",
       "id": "5900ed92-2824-4e97-bb6f-2dc7b289dcc5",
       "last_modified": "2018-11-23T06:31:31",
-      "metadata_modified": "2025-08-26T13:29:27.943047",
+      "metadata_modified": "2026-09-07T12:20:59.429406",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -3462,6 +3463,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-06-29T07:35:24.188524",
@@ -3473,7 +3475,7 @@
       "hdx_rel_url": "https://data.worldpop.org/GIS/AgeSex_structures/Global_2000_2020/2017/MNE/mne_f_35_2017.tif",
       "id": "32d71685-cb18-4ea8-b791-dc0a080ede12",
       "last_modified": "2018-11-15T18:04:42",
-      "metadata_modified": "2025-08-26T13:29:27.954806",
+      "metadata_modified": "2026-09-07T12:20:59.440455",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

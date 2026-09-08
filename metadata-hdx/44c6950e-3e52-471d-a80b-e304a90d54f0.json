@@ -18,7 +18,7 @@
   "license_title": "Other",
   "maintainer": "83fa9515-3ba4-4f1d-9860-f38b20f80442",
   "metadata_created": "2015-05-28T06:36:09.809765",
-  "metadata_modified": "2025-10-28T09:25:41.978626",
+  "metadata_modified": "2026-09-07T11:07:31.663953",
   "methodology": "Other",
   "methodology_other": "UNOSAT datasets and maps are produced using a variety of methods. In general, analysts closely review satellite imagery, often comparing two or more images together, and determine notable changes between the images. For damage assessments, refugee or IDP assessments, and similar analyses, these changes are then manually documented in the vector data by the analyst. For flood extractions, landcover mapping and similar analyses, a variety of automated remote sensing techniques are used to extract the relevant information which is then reviewed and revised as necessary by the analyst. In all cases, resulting data is then loaded into a standardized UNOSAT geodatabase and exported asshapefiles for dissemination.",
   "name": "geodata-of-damage-assessment-of-tuhure-pasal-area-western-region-nepal-may-08-2015",
@@ -90,6 +90,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2015-08-10T18:05:03.324058",
@@ -101,7 +102,7 @@
       "hdx_rel_url": "https://cern.ch/unosat-maps/NP/EQ20150425NPL/EQ20150425NPL_gdb.zip",
       "id": "4b9ece62-7fb7-41ae-9aef-1a2c7b962c10",
       "last_modified": "2025-08-26T10:43:53.995853",
-      "metadata_modified": "2025-08-26T12:49:30.811396",
+      "metadata_modified": "2026-09-07T11:07:31.755984",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

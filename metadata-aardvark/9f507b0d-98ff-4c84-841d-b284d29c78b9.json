@@ -1,7 +1,7 @@
 {
   "id": "hdx-9f507b0d-98ff-4c84-841d-b284d29c78b9",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-09-03T10:18:05Z",
+  "gbl_mdModified_dt": "2026-09-07T12:48:59Z",
   "dct_title_s": "Roads of Belarus",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -38,6 +38,6 @@
   "gbl_indexYear_im": [
     2026
   ],
-  "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_blr_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BLR/roads/hotosm_blr_roads_osm_shp.zip\",\"label\":\"hotosm_blr_roads_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BLR/roads/hotosm_blr_roads_osm_gpkg.zip\",\"label\":\"hotosm_blr_roads_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BLR/roads/hotosm_blr_roads_osm_metadata.json\",\"label\":\"hotosm_blr_roads_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BLR/roads/hotosm_blr_roads_report.html\",\"label\":\"hotosm_blr_roads_report.html (HTML)\"}]}"
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_blr_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BLR/roads/hotosm_blr_roads_osm_gpkg.zip\",\"label\":\"hotosm_blr_roads_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BLR/roads/hotosm_blr_roads_osm_metadata.json\",\"label\":\"hotosm_blr_roads_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BLR/roads/hotosm_blr_roads_osm_shp.zip\",\"label\":\"hotosm_blr_roads_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BLR/roads/hotosm_blr_roads_report.html\",\"label\":\"hotosm_blr_roads_report.html (HTML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BLR/roads/hotosm_blr_roads_osm_gpkg.zip\",\"label\":\"Roads (OSM), GeoPackage (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BLR/roads/hotosm_blr_roads_osm_shp.zip\",\"label\":\"Roads (OSM), Shapefile (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BLR/roads/hotosm_blr_roads_report.html\",\"label\":\"Roads, Data Quality Report (HTML)\"}]}"
 }

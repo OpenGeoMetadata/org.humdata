@@ -1,14 +1,14 @@
 {
   "id": "hdx-970939dd-91f7-4fbe-867d-f52f89e8e31e",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-15T15:22:22Z",
-  "dct_title_s": "Bahrain : Sea Ports (OpenStreetMap Export)",
+  "gbl_mdModified_dt": "2026-09-07T12:48:39Z",
+  "dct_title_s": "Sea Ports of Bahrain",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "Sea ports and ferry terminals from OSM, tagged via `amenity`, `building`, or `port`. Useful for maritime logistics, supply-chain analysis, and coastal access planning. OpenStreetMap is a free, collaborative world map built by volunteers. Completeness varies by region: urban areas are usually well-mapped, remote areas may be incomplete. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org) - OSM tags: [Key:amenity](https://wiki.openstreetmap.org/wiki/Key:amenity), [Key:building](https://wiki.openstreetmap.org/wiki/Key:building), [Key:port](https://wiki.openstreetmap.org/wiki/Key:port) - Part of many [exports grid on HDX](https://data.humdata.org/organization/hot) by the [HOT](https://www.hotosm.org/en/)"
+    "Sea ports, harbours and ferry terminals. Useful for maritime logistics, supply-chain analysis, and coastal access planning. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [industrial=port](https://wiki.openstreetmap.org/wiki/Tag:industrial%3Dport), [harbour](https://wiki.openstreetmap.org/wiki/Key:harbour), [amenity=ferry_terminal](https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dferry_terminal) - Part of the [exports grid on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
   ],
   "dct_language_sm": [
     "eng"
@@ -36,6 +36,6 @@
   "gbl_indexYear_im": [
     2026
   ],
-  "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_bhr_sea_ports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BHR/sea_ports/hotosm_bhr_sea_ports_osm_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_bhr_sea_ports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BHR/sea_ports/hotosm_bhr_sea_ports_osm_geojson.zip\",\"label\":\"hotosm_bhr_sea_ports_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BHR/sea_ports/hotosm_bhr_sea_ports_osm_gpkg.zip\",\"label\":\"hotosm_bhr_sea_ports_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BHR/sea_ports/hotosm_bhr_sea_ports_osm_kml.zip\",\"label\":\"hotosm_bhr_sea_ports_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BHR/sea_ports/hotosm_bhr_sea_ports_osm_metadata.json\",\"label\":\"hotosm_bhr_sea_ports_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BHR/sea_ports/hotosm_bhr_sea_ports_osm_shp.zip\",\"label\":\"hotosm_bhr_sea_ports_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BHR/sea_ports/hotosm_bhr_sea_ports_report.html\",\"label\":\"hotosm_bhr_sea_ports_report.html (HTML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BHR/sea_ports/hotosm_bhr_sea_ports_osm_geojson.zip\",\"label\":\"Sea Ports (OSM), GeoJSON (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BHR/sea_ports/hotosm_bhr_sea_ports_osm_gpkg.zip\",\"label\":\"Sea Ports (OSM), GeoPackage (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BHR/sea_ports/hotosm_bhr_sea_ports_osm_kml.zip\",\"label\":\"Sea Ports (OSM), KML (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BHR/sea_ports/hotosm_bhr_sea_ports_osm_shp.zip\",\"label\":\"Sea Ports (OSM), Shapefile (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BHR/sea_ports/hotosm_bhr_sea_ports_report.html\",\"label\":\"Sea Ports, Data Quality Report (HTML)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-0d21c175-a635-4875-bc65-9881e23169b9",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T14:10:22Z",
+  "gbl_mdModified_dt": "2026-09-07T09:36:17Z",
   "dct_title_s": "Aruba Railways (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_abw_railways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ABW/railways/points/hotosm_abw_railways_points_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_abw_railways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ABW/railways/points/hotosm_abw_railways_points_shp.zip\",\"label\":\"hotosm_abw_railways_points_shp.zip (SHP)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ABW/railways/lines/hotosm_abw_railways_lines_shp.zip\",\"label\":\"hotosm_abw_railways_lines_shp.zip (SHP)\"},{\"url\":\"https://export.hotosm.org/downloads/0afb73b4-44b1-4854-bdbd-e75987f18395/hotosm_abw_railways_polygons_shp.zip\",\"label\":\"hotosm_abw_railways_polygons_shp.zip (SHP)\"},{\"url\":\"https://export.hotosm.org/downloads/0afb73b4-44b1-4854-bdbd-e75987f18395/hotosm_abw_railways_gpkg.zip\",\"label\":\"hotosm_abw_railways_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ABW/railways/points/hotosm_abw_railways_points_kml.zip\",\"label\":\"hotosm_abw_railways_points_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ABW/railways/lines/hotosm_abw_railways_lines_kml.zip\",\"label\":\"hotosm_abw_railways_lines_kml.zip (KML)\"},{\"url\":\"https://export.hotosm.org/downloads/0afb73b4-44b1-4854-bdbd-e75987f18395/hotosm_abw_railways_polygons_kml.zip\",\"label\":\"hotosm_abw_railways_polygons_kml.zip (KML)\"},{\"url\":\"https://export.hotosm.org/downloads/0afb73b4-44b1-4854-bdbd-e75987f18395/hotosm_abw_gmapsupp_img.zip\",\"label\":\"hotosm_abw_gmapsupp_img.zip (Garmin IMG)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ABW/railways/lines/hotosm_abw_railways_lines_geojson.zip\",\"label\":\"hotosm_abw_railways_lines_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ABW/railways/points/hotosm_abw_railways_points_geojson.zip\",\"label\":\"hotosm_abw_railways_points_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ABW/railways/lines/hotosm_abw_railways_lines_gpkg.zip\",\"label\":\"hotosm_abw_railways_lines_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/ABW/railways/points/hotosm_abw_railways_points_gpkg.zip\",\"label\":\"hotosm_abw_railways_points_gpkg.zip (Geopackage)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-b536e1b0-e9ce-4e74-9e29-2d598247517f",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-09-03T10:16:30Z",
+  "gbl_mdModified_dt": "2026-09-07T13:04:22Z",
   "dct_title_s": "Buildings of Belarus",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -36,6 +36,6 @@
   "gbl_indexYear_im": [
     2026
   ],
-  "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_blr_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BLR/buildings/hotosm_blr_buildings_osm_shp.zip\",\"label\":\"hotosm_blr_buildings_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BLR/buildings/hotosm_blr_buildings_osm_gpkg.zip\",\"label\":\"hotosm_blr_buildings_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BLR/buildings/hotosm_blr_buildings_osm_metadata.json\",\"label\":\"hotosm_blr_buildings_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BLR/buildings/hotosm_blr_buildings_report.html\",\"label\":\"hotosm_blr_buildings_report.html (HTML)\"}]}"
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_blr_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BLR/buildings/hotosm_blr_buildings_osm_gpkg.zip\",\"label\":\"Buildings (OSM), GeoPackage (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BLR/buildings/hotosm_blr_buildings_osm_shp.zip\",\"label\":\"Buildings (OSM), Shapefile (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BLR/buildings/hotosm_blr_buildings_osm_gpkg.zip\",\"label\":\"hotosm_blr_buildings_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BLR/buildings/hotosm_blr_buildings_osm_metadata.json\",\"label\":\"hotosm_blr_buildings_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BLR/buildings/hotosm_blr_buildings_osm_shp.zip\",\"label\":\"hotosm_blr_buildings_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BLR/buildings/hotosm_blr_buildings_report.html\",\"label\":\"hotosm_blr_buildings_report.html (HTML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BLR/buildings/hotosm_blr_buildings_report.html\",\"label\":\"Buildings, Data Quality Report (HTML)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-ef19e5fa-8515-4135-bd63-0ec6fef3f9e0",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-15T16:19:23Z",
+  "gbl_mdModified_dt": "2026-09-07T11:13:36Z",
   "dct_title_s": "Bonaire, Sint Eustatius and Saba : Sea Ports (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_bes_sea_ports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BES/sea_ports/hotosm_bes_sea_ports_osm_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_bes_sea_ports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BES/sea_ports/hotosm_bes_sea_ports_osm_gpkg.zip\",\"label\":\"hotosm_bes_sea_ports_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BES/sea_ports/hotosm_bes_sea_ports_osm_shp.zip\",\"label\":\"hotosm_bes_sea_ports_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BES/sea_ports/hotosm_bes_sea_ports_osm_kml.zip\",\"label\":\"hotosm_bes_sea_ports_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BES/sea_ports/hotosm_bes_sea_ports_osm_geojson.zip\",\"label\":\"hotosm_bes_sea_ports_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BES/sea_ports/hotosm_bes_sea_ports_osm_metadata.json\",\"label\":\"hotosm_bes_sea_ports_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/BES/sea_ports/hotosm_bes_sea_ports_report.html\",\"label\":\"hotosm_bes_sea_ports_report.html (HTML)\"}]}"
 }

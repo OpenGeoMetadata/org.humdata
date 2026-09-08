@@ -1,7 +1,7 @@
 {
   "id": "hdx-b36019e1-d040-4210-b8a1-0ff9cb68ae7a",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T15:14:30Z",
+  "gbl_mdModified_dt": "2026-09-07T13:09:57Z",
   "dct_title_s": "Bouvet Island Roads (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_bvt_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/BVT/roads/lines/hotosm_bvt_roads_lines_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_bvt_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/BVT/roads/lines/hotosm_bvt_roads_lines_shp.zip\",\"label\":\"hotosm_bvt_roads_lines_shp.zip (SHP)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/BVT/roads/lines/hotosm_bvt_roads_lines_kml.zip\",\"label\":\"hotosm_bvt_roads_lines_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/BVT/roads/lines/hotosm_bvt_roads_lines_geojson.zip\",\"label\":\"hotosm_bvt_roads_lines_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/BVT/roads/lines/hotosm_bvt_roads_lines_gpkg.zip\",\"label\":\"hotosm_bvt_roads_lines_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/BVT/roads/polygons/hotosm_bvt_roads_polygons_gpkg.zip\",\"label\":\"hotosm_bvt_roads_polygons_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/BVT/roads/polygons/hotosm_bvt_roads_polygons_kml.zip\",\"label\":\"hotosm_bvt_roads_polygons_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/BVT/roads/polygons/hotosm_bvt_roads_polygons_geojson.zip\",\"label\":\"hotosm_bvt_roads_polygons_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/BVT/roads/polygons/hotosm_bvt_roads_polygons_shp.zip\",\"label\":\"hotosm_bvt_roads_polygons_shp.zip (SHP)\"}]}"
 }

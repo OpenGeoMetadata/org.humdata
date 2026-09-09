@@ -1,0 +1,39 @@
+{
+  "id": "hdx-658ee2a1-944e-4613-8087-eebf713a5835",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-09-09T02:02:34Z",
+  "dct_title_s": "HOTOSM Christmas Island Populated Places (OpenStreetMap Export)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "OpenStreetMap exports for use in GIS applications. This theme includes all OpenStreetMap features in this area matching: place IN ('isolated_dwelling','town','village','hamlet','city') Features may have these attributes: - [population](http://wiki.openstreetmap.org/wiki/Key:population) - [is_in](http://wiki.openstreetmap.org/wiki/Key:is_in) - [place](http://wiki.openstreetmap.org/wiki/Key:place) - [source](http://wiki.openstreetmap.org/wiki/Key:source) - [name](http://wiki.openstreetmap.org/wiki/Key:name) This dataset is one of many [OpenStreetMap exports on HDX](https://data.humdata.org/organization/hot). See the [Humanitarian OpenStreetMap Team](http://hotosm.org/) website for more information."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "populated places-settlements"
+  ],
+  "dct_spatial_sm": [
+    "Christmas Island"
+  ],
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "KML",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_cxr_populated_places\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://export.hotosm.org/downloads/67f55ad0-6166-4468-b42f-fd4fb58015ab/hotosm_cxr_populated_places_points_shp.zip\",\"label\":\"hotosm_cxr_populated_places_points_shp.zip (SHP)\"},{\"url\":\"https://export.hotosm.org/downloads/67f55ad0-6166-4468-b42f-fd4fb58015ab/hotosm_cxr_populated_places_polygons_shp.zip\",\"label\":\"hotosm_cxr_populated_places_polygons_shp.zip (SHP)\"},{\"url\":\"https://export.hotosm.org/downloads/67f55ad0-6166-4468-b42f-fd4fb58015ab/hotosm_cxr_populated_places_gpkg.zip\",\"label\":\"hotosm_cxr_populated_places_gpkg.zip (Geopackage)\"},{\"url\":\"https://export.hotosm.org/downloads/67f55ad0-6166-4468-b42f-fd4fb58015ab/hotosm_cxr_populated_places_points_kml.zip\",\"label\":\"hotosm_cxr_populated_places_points_kml.zip (KML)\"},{\"url\":\"https://export.hotosm.org/downloads/67f55ad0-6166-4468-b42f-fd4fb58015ab/hotosm_cxr_populated_places_polygons_kml.zip\",\"label\":\"hotosm_cxr_populated_places_polygons_kml.zip (KML)\"},{\"url\":\"https://export.hotosm.org/downloads/67f55ad0-6166-4468-b42f-fd4fb58015ab/hotosm_cxr_gmapsupp_img.zip\",\"label\":\"hotosm_cxr_gmapsupp_img.zip (Garmin IMG)\"}]}"
+}

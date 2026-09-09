@@ -17,7 +17,7 @@
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "e32d5afb-cc7e-4715-85b7-5a3b849443f5",
   "metadata_created": "2022-08-25T15:57:29.514714",
-  "metadata_modified": "2025-09-02T09:23:43.542583",
+  "metadata_modified": "2026-09-08T09:24:23.796584",
   "methodology": "IPC Classification spatial data in different IPC scenarios collected by FEWS NET enumerators on a regular schedule (typically monthly).",
   "name": "south_sudan_near_term_projection__fewsnet_ipc_shapefile_for_2011",
   "notes": "The FEWS NET Data Warehouse is **currently unavailable**. Datasets on HDX that refer to the Data Warehouse have been archived.\n\nSouth Sudan Near Term Projection  FEWS NET Acute Food Insecurity Classifications Geographic data for 2011",
@@ -37,7 +37,7 @@
   },
   "owner_org": "f9695fdf-9252-44e1-b3d5-1d73e669ef5a",
   "package_creator": "girumb",
-  "pageviews_last_14_days": 1,
+  "pageviews_last_14_days": 0,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"South Sudan\"]}",
@@ -61,6 +61,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-08-25T15:57:31.403791",
@@ -72,7 +73,7 @@
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/?country=SS&scenario=ML1&collection_date=2011-01-01&format=geojson",
       "id": "f651f558-e80c-4015-89ac-4fb63612705d",
       "last_modified": "2025-02-01T01:02:13.735468",
-      "metadata_modified": "2025-08-26T12:26:41.167825",
+      "metadata_modified": "2026-09-08T09:24:23.813544",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -87,6 +88,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-08-25T15:57:33.466815",
@@ -98,7 +100,7 @@
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/?country=SS&scenario=ML1&collection_date=2011-01-01&format=kml",
       "id": "d0644e36-f48a-49dc-909b-836104ce5954",
       "last_modified": "2025-02-01T01:02:13.735468",
-      "metadata_modified": "2025-09-02T09:23:43.555398",
+      "metadata_modified": "2026-09-08T09:24:23.813694",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -113,6 +115,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-08-25T15:57:36.205356",
@@ -124,7 +127,7 @@
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/?country=SS&scenario=ML1&collection_date=2011-04-01&format=geojson",
       "id": "d78d7420-98eb-4f99-9b42-3f6c9ec7dafa",
       "last_modified": "2025-02-01T01:02:13.735468",
-      "metadata_modified": "2025-08-26T12:26:41.168037",
+      "metadata_modified": "2026-09-08T09:24:23.813809",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -139,6 +142,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-08-25T15:57:39.555859",
@@ -150,7 +154,7 @@
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/?country=SS&scenario=ML1&collection_date=2011-04-01&format=kml",
       "id": "0d41e94a-a9c2-40ad-897c-9740c3c92028",
       "last_modified": "2025-02-01T01:02:13.735468",
-      "metadata_modified": "2025-09-02T09:23:43.555528",
+      "metadata_modified": "2026-09-08T09:24:23.813921",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -165,6 +169,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-08-25T15:57:45.364595",
@@ -176,7 +181,7 @@
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/?country=SS&scenario=ML1&collection_date=2011-07-01&format=kml",
       "id": "8640c43b-b22e-4a20-942d-b4c7bd0f747b",
       "last_modified": "2025-02-01T01:02:13.735468",
-      "metadata_modified": "2025-08-26T12:26:41.168169",
+      "metadata_modified": "2026-09-08T09:24:23.814029",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -191,6 +196,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-08-25T15:57:50.415389",
@@ -202,7 +208,7 @@
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/?country=SS&scenario=ML1&collection_date=2011-10-01&format=kml",
       "id": "286993ca-a485-4ea5-aa36-9c1d7ca90dad",
       "last_modified": "2025-02-01T01:02:13.735468",
-      "metadata_modified": "2025-09-02T09:23:43.555648",
+      "metadata_modified": "2026-09-08T09:24:23.814140",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

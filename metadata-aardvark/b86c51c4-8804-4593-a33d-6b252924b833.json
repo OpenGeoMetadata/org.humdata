@@ -1,7 +1,7 @@
 {
   "id": "hdx-b86c51c4-8804-4593-a33d-6b252924b833",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T15:14:18Z",
+  "gbl_mdModified_dt": "2026-09-09T02:54:43Z",
   "dct_title_s": "Dominica Railways (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_dma_railways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/DMA/railways/points/hotosm_dma_railways_points_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_dma_railways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/DMA/railways/points/hotosm_dma_railways_points_shp.zip\",\"label\":\"hotosm_dma_railways_points_shp.zip (SHP)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/DMA/railways/lines/hotosm_dma_railways_lines_shp.zip\",\"label\":\"hotosm_dma_railways_lines_shp.zip (SHP)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/DMA/railways/points/hotosm_dma_railways_points_kml.zip\",\"label\":\"hotosm_dma_railways_points_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/DMA/railways/lines/hotosm_dma_railways_lines_kml.zip\",\"label\":\"hotosm_dma_railways_lines_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/DMA/railways/lines/hotosm_dma_railways_lines_geojson.zip\",\"label\":\"hotosm_dma_railways_lines_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/DMA/railways/points/hotosm_dma_railways_points_geojson.zip\",\"label\":\"hotosm_dma_railways_points_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/DMA/railways/lines/hotosm_dma_railways_lines_gpkg.zip\",\"label\":\"hotosm_dma_railways_lines_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/DMA/railways/points/hotosm_dma_railways_points_gpkg.zip\",\"label\":\"hotosm_dma_railways_points_gpkg.zip (Geopackage)\"}]}"
 }

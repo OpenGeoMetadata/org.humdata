@@ -1,14 +1,14 @@
 {
   "id": "hdx-25a0f358-fd0f-4295-a12c-e1623399cfb2",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-09-07T11:59:11Z",
+  "gbl_mdModified_dt": "2026-09-08T10:45:59Z",
   "dct_title_s": "Greece - Wildfire in Trapezitsa Mountain, Greece (EMSR929)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "This dataset contains Copernicus EMS Rapid Mapping products for activation EMSR929. On August 31, 2026, at 16.00 UTC, in Trapezitsa Mountain, near the city of Konitsa, Ipirus Region, Greece, a fire started due to a lightning, which mainly burned underground. In this moment the fire is ongoing, burning a forest of black pine. A large number of firefighters and aerial means are used for the fire suppression, assisted by municipality vehicles/machinery and volunteer organizations. Copernicus EMS Rapid Mapping is requested to provide initial rough estimation, fire extent and damage assessment emergency mapping. **Citation:** Copernicus Emergency Management Service (© 2026 European Union), EMSR929 **Product types present in this dataset's resources:** **FEP (First Estimate Product)**: a rapid, less precise product released shortly after activation for immediate situational awareness; excluded from this dataset once a more accurate DEL or GRA product for the same AOI is available. Where a GeoPackage download is available for an Area of Interest/round, it already contains every layer with its official Copernicus styling and colours - prefer it in GIS software over the zipped shapefile download."
+    "This dataset contains Copernicus EMS Rapid Mapping products for activation EMSR929. On August 31, 2026, at 16.00 UTC, in Trapezitsa Mountain, near the city of Konitsa, Ipirus Region, Greece, a fire started due to a lightning, which mainly burned underground. In this moment the fire is ongoing, burning a forest of black pine. A large number of firefighters and aerial means are used for the fire suppression, assisted by municipality vehicles/machinery and volunteer organizations. Copernicus EMS Rapid Mapping is requested to provide initial rough estimation, fire extent and damage assessment emergency mapping. **Citation:** Copernicus Emergency Management Service (© 2026 European Union), EMSR929 **Product types present in this dataset's resources:** **DEL (Delineation)**: maps the extent of the event itself (eg. flood, fire, landslide boundary). Where a GeoPackage download is available for an Area of Interest/round, it already contains every layer with its official Copernicus styling and colours - prefer it in GIS software over the zipped shapefile download."
   ],
   "dct_language_sm": [
     "eng"
@@ -41,5 +41,5 @@
     2026
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grc-wildfire-emsr929\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR929/AOI01/FEP_PRODUCT/EMSR929_AOI01_FEP_PRODUCT_v1.zip?type=gpkg\",\"label\":\"grc_copernicus_ems_aoi01_first_estimate_initial.gpkg (Geopackage)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR929/AOI01/FEP_PRODUCT/EMSR929_AOI01_FEP_PRODUCT_v1.zip?type=xlsx\",\"label\":\"grc_copernicus_ems_aoi01_first_estimate_initial.xlsx (XLSX)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR929/AOI01/FEP_PRODUCT/EMSR929_AOI01_FEP_PRODUCT_v1.zip?type=vectors\",\"label\":\"grc_copernicus_ems_aoi01_first_estimate_initial_vectors.zip (SHP)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR929/AOI01/FEP_PRODUCT/EMSR929_AOI01_FEP_PRODUCT_v1.zip?type=pdf\",\"label\":\"grc_copernicus_ems_aoi01_first_estimate_initial.pdf (PDF)\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grc-wildfire-emsr929\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR929/AOI01/DEL_PRODUCT/EMSR929_AOI01_DEL_PRODUCT_v1.zip?type=gpkg\",\"label\":\"grc_copernicus_ems_aoi01_delineation_initial.gpkg (Geopackage)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR929/AOI01/DEL_PRODUCT/EMSR929_AOI01_DEL_PRODUCT_v1.zip?type=xlsx\",\"label\":\"grc_copernicus_ems_aoi01_delineation_initial.xlsx (XLSX)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR929/AOI01/DEL_PRODUCT/EMSR929_AOI01_DEL_PRODUCT_v1.zip?type=vectors\",\"label\":\"grc_copernicus_ems_aoi01_delineation_initial_vectors.zip (SHP)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR929/AOI01/DEL_PRODUCT/EMSR929_AOI01_DEL_PRODUCT_v1.zip?type=pdf\",\"label\":\"grc_copernicus_ems_aoi01_delineation_initial.pdf (PDF)\"}]}"
 }

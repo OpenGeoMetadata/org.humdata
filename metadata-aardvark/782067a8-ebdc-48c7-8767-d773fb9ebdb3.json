@@ -1,7 +1,7 @@
 {
   "id": "hdx-782067a8-ebdc-48c7-8767-d773fb9ebdb3",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-08-08T09:53:26Z",
+  "gbl_mdModified_dt": "2026-09-10T04:25:16Z",
   "dct_title_s": "Airports of United States Minor Outlying Islands",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_umi_airports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/UMI/airports/hotosm_umi_airports_osm_gpkg.zip\",\"label\":\"hotosm_umi_airports_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/UMI/airports/hotosm_umi_airports_osm_shp.zip\",\"label\":\"hotosm_umi_airports_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/UMI/airports/hotosm_umi_airports_osm_geojson.zip\",\"label\":\"hotosm_umi_airports_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/UMI/airports/hotosm_umi_airports_osm_metadata.json\",\"label\":\"hotosm_umi_airports_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/UMI/airports/hotosm_umi_airports_report.html\",\"label\":\"hotosm_umi_airports_report.html (HTML)\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_umi_airports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/UMI/airports/hotosm_umi_airports_osm_geojson.zip\",\"label\":\"Airports (OSM), GeoJSON (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/UMI/airports/hotosm_umi_airports_osm_gpkg.zip\",\"label\":\"Airports (OSM), GeoPackage (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/UMI/airports/hotosm_umi_airports_osm_shp.zip\",\"label\":\"Airports (OSM), Shapefile (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/UMI/airports/hotosm_umi_airports_osm_geojson.zip\",\"label\":\"hotosm_umi_airports_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/UMI/airports/hotosm_umi_airports_osm_gpkg.zip\",\"label\":\"hotosm_umi_airports_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/UMI/airports/hotosm_umi_airports_osm_metadata.json\",\"label\":\"hotosm_umi_airports_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/UMI/airports/hotosm_umi_airports_osm_shp.zip\",\"label\":\"hotosm_umi_airports_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/UMI/airports/hotosm_umi_airports_report.html\",\"label\":\"hotosm_umi_airports_report.html (HTML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/UMI/airports/hotosm_umi_airports_report.html\",\"label\":\"Airports, Data Quality Report (HTML)\"}]}"
 }

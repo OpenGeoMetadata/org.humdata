@@ -4,10 +4,10 @@
   "caveats": "OpenStreetMap data is crowd sourced and cannot be considered to be exhaustive",
   "creator_user_id": "6a0688ce-8521-46e2-8edd-8e26c0851ebd",
   "data_update_frequency": "30",
-  "dataset_date": "[2026-05-06T00:00:00 TO 2026-05-06T23:59:59]",
+  "dataset_date": "[2026-09-09T00:00:00 TO 2026-09-09T23:59:59]",
   "dataset_preview": "first_resource",
   "dataset_source": "OpenStreetMap contributors",
-  "due_date": "2026-06-05T23:59:59",
+  "due_date": "2026-10-09T23:59:59",
   "has_geodata": true,
   "has_showcases": false,
   "id": "db005ec2-5169-4005-b2da-684625ff74a8",
@@ -19,7 +19,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "6a0688ce-8521-46e2-8edd-8e26c0851ebd",
   "metadata_created": "2019-12-06T10:35:07.090711",
-  "metadata_modified": "2026-05-07T10:36:57.054947",
+  "metadata_modified": "2026-09-10T01:46:43.100579",
   "methodology": "Other",
   "methodology_other": "Volunteered geographic information",
   "name": "hotosm_tls_railways",
@@ -47,9 +47,9 @@
   "state": "active",
   "subnational": "0",
   "title": "Timor-Leste Railways (OpenStreetMap Export)",
-  "total_res_downloads": 105,
+  "total_res_downloads": 102,
   "type": "dataset",
-  "updated_by_script": "HDXPythonLibrary/6.2.8-HDXPythonLibrary/6.2.0-HOTOSM OSM Exports (2026-05-06T21:05:14.247723)",
+  "updated_by_script": "HDXPythonLibrary/6.6.7-osm-country-exports/0.1 (2026-09-10T01:46:42.720735)",
   "url": null,
   "version": null,
   "customviz": [
@@ -126,7 +126,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2019-12-06T10:35:07.100804",
@@ -138,7 +137,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/160d547e-6f9d-4598-ba4f-0ccf987d364d/hotosm_tls_railways_polygons_shp.zip",
       "id": "c3d278eb-d517-4926-b7ac-4890e7cf8dfc",
       "last_modified": "2024-07-23T14:02:45",
-      "metadata_modified": "2026-05-07T10:36:57.076267",
+      "metadata_modified": "2026-09-10T01:46:43.118949",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -153,7 +152,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2019-12-06T10:35:07.100808",
@@ -165,7 +163,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/160d547e-6f9d-4598-ba4f-0ccf987d364d/hotosm_tls_railways_gpkg.zip",
       "id": "584c8e38-8fea-4e36-80c0-b14f5810e67f",
       "last_modified": "2024-07-23T14:02:45",
-      "metadata_modified": "2026-05-07T10:36:57.076330",
+      "metadata_modified": "2026-09-10T01:46:43.119017",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -233,7 +231,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2019-12-06T10:35:07.100820",
@@ -245,7 +242,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/160d547e-6f9d-4598-ba4f-0ccf987d364d/hotosm_tls_railways_polygons_kml.zip",
       "id": "c8335615-9c73-4a27-a112-c7a344005bb3",
       "last_modified": "2024-07-23T14:02:45",
-      "metadata_modified": "2026-05-07T10:36:57.076521",
+      "metadata_modified": "2026-09-10T01:46:43.119205",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -260,7 +257,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2019-12-06T10:35:07.100824",
@@ -272,7 +268,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/160d547e-6f9d-4598-ba4f-0ccf987d364d/hotosm_tls_gmapsupp_img.zip",
       "id": "5851c993-0b42-4137-988a-e96e17b51c32",
       "last_modified": "2024-07-23T14:02:45",
-      "metadata_modified": "2026-05-07T10:36:57.076579",
+      "metadata_modified": "2026-09-10T01:46:43.119272",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

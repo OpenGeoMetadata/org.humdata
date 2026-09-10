@@ -1,7 +1,7 @@
 {
   "id": "hdx-b7ab2a34-96fa-4a25-9cc1-43e889fb6d0e",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-15T15:42:50Z",
+  "gbl_mdModified_dt": "2026-09-10T05:01:55Z",
   "dct_title_s": "Tokelau : Airports (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_tkl_airports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TKL/airports/hotosm_tkl_airports_osm_geojson.zip\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_tkl_airports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TKL/airports/hotosm_tkl_airports_osm_gpkg.zip\",\"label\":\"hotosm_tkl_airports_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TKL/airports/hotosm_tkl_airports_osm_shp.zip\",\"label\":\"hotosm_tkl_airports_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TKL/airports/hotosm_tkl_airports_osm_geojson.zip\",\"label\":\"hotosm_tkl_airports_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TKL/airports/hotosm_tkl_airports_osm_metadata.json\",\"label\":\"hotosm_tkl_airports_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TKL/airports/hotosm_tkl_airports_report.html\",\"label\":\"hotosm_tkl_airports_report.html (HTML)\"}]}"
 }

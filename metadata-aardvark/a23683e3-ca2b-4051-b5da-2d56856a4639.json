@@ -1,7 +1,7 @@
 {
   "id": "hdx-a23683e3-ca2b-4051-b5da-2d56856a4639",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T15:17:41Z",
+  "gbl_mdModified_dt": "2026-09-10T06:31:11Z",
   "dct_title_s": "Turks and Caicos Islands Railways (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -41,5 +41,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_tca_railways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/TCA/railways/points/hotosm_tca_railways_points_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_tca_railways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/TCA/railways/points/hotosm_tca_railways_points_shp.zip\",\"label\":\"hotosm_tca_railways_points_shp.zip (SHP)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/TCA/railways/lines/hotosm_tca_railways_lines_shp.zip\",\"label\":\"hotosm_tca_railways_lines_shp.zip (SHP)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/TCA/railways/points/hotosm_tca_railways_points_kml.zip\",\"label\":\"hotosm_tca_railways_points_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/TCA/railways/lines/hotosm_tca_railways_lines_kml.zip\",\"label\":\"hotosm_tca_railways_lines_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/TCA/railways/lines/hotosm_tca_railways_lines_geojson.zip\",\"label\":\"hotosm_tca_railways_lines_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/TCA/railways/points/hotosm_tca_railways_points_geojson.zip\",\"label\":\"hotosm_tca_railways_points_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/TCA/railways/lines/hotosm_tca_railways_lines_gpkg.zip\",\"label\":\"hotosm_tca_railways_lines_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/TCA/railways/points/hotosm_tca_railways_points_gpkg.zip\",\"label\":\"hotosm_tca_railways_points_gpkg.zip (Geopackage)\"}]}"
 }

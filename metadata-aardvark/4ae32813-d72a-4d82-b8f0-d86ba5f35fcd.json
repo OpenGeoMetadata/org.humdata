@@ -1,0 +1,45 @@
+{
+  "id": "hdx-4ae32813-d72a-4d82-b8f0-d86ba5f35fcd",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-09-10T00:38:54Z",
+  "dct_title_s": "HOTOSM Norfolk Island Sea Ports (OpenStreetMap Export)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "OpenStreetMap exports for use in GIS applications. This theme includes all OpenStreetMap features in this area matching: amenity = 'ferry_terminal' OR building = 'ferry_terminal' OR port IS NOT NULL Features may have these attributes: - [addr:full](http://wiki.openstreetmap.org/wiki/Key:addr:full) - [addr:city](http://wiki.openstreetmap.org/wiki/Key:addr:city) - [source](http://wiki.openstreetmap.org/wiki/Key:source) - [building](http://wiki.openstreetmap.org/wiki/Key:building) - [amenity](http://wiki.openstreetmap.org/wiki/Key:amenity) - [operator:type](http://wiki.openstreetmap.org/wiki/Key:operator:type) - [name](http://wiki.openstreetmap.org/wiki/Key:name) - [port](http://wiki.openstreetmap.org/wiki/Key:port) This dataset is one of many [OpenStreetMap exports on HDX](https://data.humdata.org/organization/hot). See the [Humanitarian OpenStreetMap Team](http://hotosm.org/) website for more information."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "facilities-infrastructure",
+    "geodata",
+    "logistics",
+    "ports",
+    "transportation"
+  ],
+  "dct_subject_sm": [
+    "facilities-infrastructure",
+    "geodata",
+    "logistics",
+    "ports",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "Norfolk Island"
+  ],
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "KML",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_nfk_sea_ports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://export.hotosm.org/downloads/477fce2b-cc27-417f-bc7c-38a0134d77b8/hotosm_nfk_sea_ports_points_shp.zip\",\"label\":\"hotosm_nfk_sea_ports_points_shp.zip (SHP)\"},{\"url\":\"https://export.hotosm.org/downloads/477fce2b-cc27-417f-bc7c-38a0134d77b8/hotosm_nfk_sea_ports_lines_shp.zip\",\"label\":\"hotosm_nfk_sea_ports_lines_shp.zip (SHP)\"},{\"url\":\"https://export.hotosm.org/downloads/477fce2b-cc27-417f-bc7c-38a0134d77b8/hotosm_nfk_sea_ports_polygons_shp.zip\",\"label\":\"hotosm_nfk_sea_ports_polygons_shp.zip (SHP)\"},{\"url\":\"https://export.hotosm.org/downloads/477fce2b-cc27-417f-bc7c-38a0134d77b8/hotosm_nfk_sea_ports_gpkg.zip\",\"label\":\"hotosm_nfk_sea_ports_gpkg.zip (Geopackage)\"},{\"url\":\"https://export.hotosm.org/downloads/477fce2b-cc27-417f-bc7c-38a0134d77b8/hotosm_nfk_sea_ports_points_kml.zip\",\"label\":\"hotosm_nfk_sea_ports_points_kml.zip (KML)\"},{\"url\":\"https://export.hotosm.org/downloads/477fce2b-cc27-417f-bc7c-38a0134d77b8/hotosm_nfk_sea_ports_lines_kml.zip\",\"label\":\"hotosm_nfk_sea_ports_lines_kml.zip (KML)\"},{\"url\":\"https://export.hotosm.org/downloads/477fce2b-cc27-417f-bc7c-38a0134d77b8/hotosm_nfk_sea_ports_polygons_kml.zip\",\"label\":\"hotosm_nfk_sea_ports_polygons_kml.zip (KML)\"},{\"url\":\"http://export.hotosm.org/downloads/b4d5ecb3-2fae-4e20-8990-c8a72b0cffcd/hotosm_nfk_gmapsupp_img.zip\",\"label\":\"hotosm_nfk_gmapsupp_img.zip (Garmin IMG)\"}]}"
+}

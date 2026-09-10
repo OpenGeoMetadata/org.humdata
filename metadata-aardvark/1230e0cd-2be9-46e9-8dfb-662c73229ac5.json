@@ -1,0 +1,43 @@
+{
+  "id": "hdx-1230e0cd-2be9-46e9-8dfb-662c73229ac5",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-09-10T03:07:11Z",
+  "dct_title_s": "HOTOSM Saint Pierre and Miquelon Railways (OpenStreetMap Export)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "OpenStreetMap exports for use in GIS applications. This theme includes all OpenStreetMap features in this area matching: railway IN ('rail','station') Features may have these attributes: - [ele](http://wiki.openstreetmap.org/wiki/Key:ele) - [layer](http://wiki.openstreetmap.org/wiki/Key:layer) - [railway](http://wiki.openstreetmap.org/wiki/Key:railway) - [addr:full](http://wiki.openstreetmap.org/wiki/Key:addr:full) - [operator:type](http://wiki.openstreetmap.org/wiki/Key:operator:type) - [addr:city](http://wiki.openstreetmap.org/wiki/Key:addr:city) - [source](http://wiki.openstreetmap.org/wiki/Key:source) - [name](http://wiki.openstreetmap.org/wiki/Key:name) This dataset is one of many [OpenStreetMap exports on HDX](https://data.humdata.org/organization/hot). See the [Humanitarian OpenStreetMap Team](http://hotosm.org/) website for more information."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "facilities-infrastructure",
+    "geodata",
+    "railways",
+    "transportation"
+  ],
+  "dct_subject_sm": [
+    "facilities-infrastructure",
+    "geodata",
+    "railways",
+    "transportation"
+  ],
+  "dct_spatial_sm": [
+    "Saint Pierre and Miquelon"
+  ],
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "KML",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_spm_railways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://export.hotosm.org/downloads/d14a8165-fb79-409f-9c00-c6c4d42ac692/hotosm_spm_railways_lines_shp.zip\",\"label\":\"hotosm_spm_railways_lines_shp.zip (SHP)\"},{\"url\":\"https://export.hotosm.org/downloads/d14a8165-fb79-409f-9c00-c6c4d42ac692/hotosm_spm_railways_polygons_shp.zip\",\"label\":\"hotosm_spm_railways_polygons_shp.zip (SHP)\"},{\"url\":\"https://export.hotosm.org/downloads/d14a8165-fb79-409f-9c00-c6c4d42ac692/hotosm_spm_railways_gpkg.zip\",\"label\":\"hotosm_spm_railways_gpkg.zip (Geopackage)\"},{\"url\":\"https://export.hotosm.org/downloads/d14a8165-fb79-409f-9c00-c6c4d42ac692/hotosm_spm_railways_lines_kml.zip\",\"label\":\"hotosm_spm_railways_lines_kml.zip (KML)\"},{\"url\":\"https://export.hotosm.org/downloads/d14a8165-fb79-409f-9c00-c6c4d42ac692/hotosm_spm_railways_polygons_kml.zip\",\"label\":\"hotosm_spm_railways_polygons_kml.zip (KML)\"},{\"url\":\"https://export.hotosm.org/downloads/d14a8165-fb79-409f-9c00-c6c4d42ac692/hotosm_spm_gmapsupp_img.zip\",\"label\":\"hotosm_spm_gmapsupp_img.zip (Garmin IMG)\"}]}"
+}

@@ -1,7 +1,7 @@
 {
   "id": "hdx-f01ad98a-52f8-44f8-af69-7fa89a653ec6",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T15:55:08Z",
+  "gbl_mdModified_dt": "2026-09-10T01:14:52Z",
   "dct_title_s": "San Marino Railways (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_smr_railways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/SMR/railways/lines/hotosm_smr_railways_lines_kml.zip\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_smr_railways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/SMR/railways/lines/hotosm_smr_railways_lines_shp.zip\",\"label\":\"hotosm_smr_railways_lines_shp.zip (SHP)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/SMR/railways/lines/hotosm_smr_railways_lines_kml.zip\",\"label\":\"hotosm_smr_railways_lines_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/SMR/railways/lines/hotosm_smr_railways_lines_geojson.zip\",\"label\":\"hotosm_smr_railways_lines_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/SMR/railways/points/hotosm_smr_railways_points_geojson.zip\",\"label\":\"hotosm_smr_railways_points_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/SMR/railways/points/hotosm_smr_railways_points_kml.zip\",\"label\":\"hotosm_smr_railways_points_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/SMR/railways/points/hotosm_smr_railways_points_shp.zip\",\"label\":\"hotosm_smr_railways_points_shp.zip (SHP)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/SMR/railways/lines/hotosm_smr_railways_lines_gpkg.zip\",\"label\":\"hotosm_smr_railways_lines_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/SMR/railways/points/hotosm_smr_railways_points_gpkg.zip\",\"label\":\"hotosm_smr_railways_points_gpkg.zip (Geopackage)\"}]}"
 }

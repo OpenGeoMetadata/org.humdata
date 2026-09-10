@@ -4,10 +4,10 @@
   "caveats": "OpenStreetMap data is crowd sourced and cannot be considered to be exhaustive",
   "creator_user_id": "6a0688ce-8521-46e2-8edd-8e26c0851ebd",
   "data_update_frequency": "30",
-  "dataset_date": "[2026-05-06T00:00:00 TO 2026-05-06T23:59:59]",
+  "dataset_date": "[2026-09-09T00:00:00 TO 2026-09-09T23:59:59]",
   "dataset_preview": "first_resource",
   "dataset_source": "OpenStreetMap contributors",
-  "due_date": "2026-06-05T23:59:59",
+  "due_date": "2026-10-09T23:59:59",
   "has_geodata": true,
   "has_showcases": false,
   "id": "5fead9a8-0163-455b-93d6-86df7aa39c97",
@@ -19,7 +19,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "6a0688ce-8521-46e2-8edd-8e26c0851ebd",
   "metadata_created": "2020-05-15T08:38:04.891739",
-  "metadata_modified": "2026-05-07T09:31:23.424281",
+  "metadata_modified": "2026-09-10T02:38:17.520589",
   "methodology": "Other",
   "methodology_other": "Volunteered geographic information",
   "name": "hotosm_shn_railways",
@@ -49,7 +49,7 @@
   "title": "Saint Helena, Ascension and Tristan da Cunha Railways (OpenStreetMap Export)",
   "total_res_downloads": 7,
   "type": "dataset",
-  "updated_by_script": "HDXPythonLibrary/6.2.8-HDXPythonLibrary/6.2.0-HOTOSM OSM Exports (2026-05-06T17:33:51.787506)",
+  "updated_by_script": "HDXPythonLibrary/6.6.7-osm-country-exports/0.1 (2026-09-10T02:38:16.839244)",
   "url": null,
   "version": null,
   "customviz": [
@@ -99,7 +99,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-15T08:54:58.025744",
@@ -111,7 +110,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/175bcc57-88d9-4f17-84cb-e28f47c0d95f/hotosm_shn_railways_polygons_shp.zip",
       "id": "5c89cfbd-de5a-4b37-a4e1-0d8cf44e4c66",
       "last_modified": "2024-07-23T14:03:24",
-      "metadata_modified": "2026-05-07T09:31:23.443998",
+      "metadata_modified": "2026-09-10T02:38:17.555932",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -126,7 +125,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-15T08:54:58.025747",
@@ -138,7 +136,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/175bcc57-88d9-4f17-84cb-e28f47c0d95f/hotosm_shn_railways_gpkg.zip",
       "id": "148fc593-f967-47fc-8f84-ec18a93fc69a",
       "last_modified": "2024-07-23T14:03:24",
-      "metadata_modified": "2026-05-07T09:31:23.444075",
+      "metadata_modified": "2026-09-10T02:38:17.556068",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -179,7 +177,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-15T08:54:58.025751",
@@ -191,7 +188,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/175bcc57-88d9-4f17-84cb-e28f47c0d95f/hotosm_shn_railways_polygons_kml.zip",
       "id": "89261bfd-87d2-47ac-bcc8-51b457b66057",
       "last_modified": "2024-07-23T14:03:24",
-      "metadata_modified": "2026-05-07T09:31:23.444206",
+      "metadata_modified": "2026-09-10T02:38:17.556364",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -206,7 +203,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-15T08:54:58.025753",
@@ -218,7 +214,7 @@
       "hdx_rel_url": "http://export.hotosm.org/downloads/34e93d78-298a-415d-ac76-88c15e3b0162/hotosm_shn_gmapsupp_img.zip",
       "id": "503dda8c-e650-4a9e-a51e-934a698139e1",
       "last_modified": "2020-07-03T09:41:51",
-      "metadata_modified": "2026-05-07T09:31:23.444267",
+      "metadata_modified": "2026-09-10T02:38:17.556490",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

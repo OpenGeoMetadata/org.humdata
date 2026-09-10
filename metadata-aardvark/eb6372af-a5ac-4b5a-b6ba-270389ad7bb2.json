@@ -1,7 +1,7 @@
 {
   "id": "hdx-eb6372af-a5ac-4b5a-b6ba-270389ad7bb2",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-08-08T10:48:04Z",
+  "gbl_mdModified_dt": "2026-09-10T00:14:06Z",
   "dct_title_s": "Airports of Malawi",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -38,6 +38,6 @@
   "gbl_indexYear_im": [
     2026
   ],
-  "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_mwi_airports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MWI/airports/hotosm_mwi_airports_osm_gpkg.zip\",\"label\":\"hotosm_mwi_airports_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MWI/airports/hotosm_mwi_airports_osm_shp.zip\",\"label\":\"hotosm_mwi_airports_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MWI/airports/hotosm_mwi_airports_osm_kml.zip\",\"label\":\"hotosm_mwi_airports_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MWI/airports/hotosm_mwi_airports_osm_geojson.zip\",\"label\":\"hotosm_mwi_airports_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MWI/airports/hotosm_mwi_airports_osm_metadata.json\",\"label\":\"hotosm_mwi_airports_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MWI/airports/hotosm_mwi_airports_report.html\",\"label\":\"hotosm_mwi_airports_report.html (HTML)\"}]}"
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_mwi_airports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MWI/airports/hotosm_mwi_airports_osm_geojson.zip\",\"label\":\"Airports (OSM), GeoJSON (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MWI/airports/hotosm_mwi_airports_osm_gpkg.zip\",\"label\":\"Airports (OSM), GeoPackage (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MWI/airports/hotosm_mwi_airports_osm_kml.zip\",\"label\":\"Airports (OSM), KML (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MWI/airports/hotosm_mwi_airports_osm_shp.zip\",\"label\":\"Airports (OSM), Shapefile (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MWI/airports/hotosm_mwi_airports_osm_geojson.zip\",\"label\":\"hotosm_mwi_airports_osm_geojson.zip (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MWI/airports/hotosm_mwi_airports_osm_gpkg.zip\",\"label\":\"hotosm_mwi_airports_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MWI/airports/hotosm_mwi_airports_osm_kml.zip\",\"label\":\"hotosm_mwi_airports_osm_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MWI/airports/hotosm_mwi_airports_osm_metadata.json\",\"label\":\"hotosm_mwi_airports_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MWI/airports/hotosm_mwi_airports_osm_shp.zip\",\"label\":\"hotosm_mwi_airports_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MWI/airports/hotosm_mwi_airports_report.html\",\"label\":\"hotosm_mwi_airports_report.html (HTML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/MWI/airports/hotosm_mwi_airports_report.html\",\"label\":\"Airports, Data Quality Report (HTML)\"}]}"
 }

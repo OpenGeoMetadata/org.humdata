@@ -19,7 +19,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "6a0688ce-8521-46e2-8edd-8e26c0851ebd",
   "metadata_created": "2020-05-14T07:37:11.278046",
-  "metadata_modified": "2026-09-09T02:02:50.051978",
+  "metadata_modified": "2026-09-10T09:09:26.050085",
   "methodology": "Other",
   "methodology_other": "Volunteered geographic information",
   "name": "hotosm_cxr_sea_ports",
@@ -40,7 +40,7 @@
   },
   "owner_org": "225b9f7d-e7cb-4156-96a6-44c9c58d31e3",
   "package_creator": "osm2hdx",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 1,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Christmas Island\"]}",
@@ -64,6 +64,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-14T07:38:20.378584",
@@ -75,7 +76,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/67f55ad0-6166-4468-b42f-fd4fb58015ab/hotosm_cxr_sea_ports_points_shp.zip",
       "id": "1ce21afe-ed3d-41e0-aedf-88ff7084168d",
       "last_modified": "2020-07-03T05:52:33",
-      "metadata_modified": "2024-01-26T10:57:33.944644",
+      "metadata_modified": "2026-09-10T09:09:26.071248",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -90,6 +91,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-14T07:38:20.378590",
@@ -101,7 +103,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/67f55ad0-6166-4468-b42f-fd4fb58015ab/hotosm_cxr_sea_ports_lines_shp.zip",
       "id": "f2305e8f-8035-46ae-b90c-eb0acb23c540",
       "last_modified": "2020-07-03T05:52:33",
-      "metadata_modified": "2024-01-26T10:57:37.494332",
+      "metadata_modified": "2026-09-10T09:09:26.071351",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -116,6 +118,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-14T07:38:20.378593",
@@ -127,7 +130,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/67f55ad0-6166-4468-b42f-fd4fb58015ab/hotosm_cxr_sea_ports_polygons_shp.zip",
       "id": "a49cfd37-a4a5-43fe-b9b2-feb76b014ba4",
       "last_modified": "2020-07-03T05:52:33",
-      "metadata_modified": "2024-01-26T10:57:43.627317",
+      "metadata_modified": "2026-09-10T09:09:26.071419",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -142,6 +145,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-14T07:38:20.378594",
@@ -153,7 +157,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/67f55ad0-6166-4468-b42f-fd4fb58015ab/hotosm_cxr_sea_ports_gpkg.zip",
       "id": "152e2f20-8311-4598-94b3-9d5bf2efcffd",
       "last_modified": "2020-07-03T05:52:33",
-      "metadata_modified": "2023-05-10T21:12:21.892712",
+      "metadata_modified": "2026-09-10T09:09:26.071482",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -167,6 +171,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-14T07:38:20.378596",
@@ -178,7 +183,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/67f55ad0-6166-4468-b42f-fd4fb58015ab/hotosm_cxr_sea_ports_points_kml.zip",
       "id": "f2ceca30-6685-45f9-af21-86c7e9f00231",
       "last_modified": "2020-07-03T05:52:33",
-      "metadata_modified": "2024-01-26T10:57:39.373539",
+      "metadata_modified": "2026-09-10T09:09:26.071544",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -193,6 +198,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-14T07:38:20.378598",
@@ -204,7 +210,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/67f55ad0-6166-4468-b42f-fd4fb58015ab/hotosm_cxr_sea_ports_lines_kml.zip",
       "id": "bf3d5216-e5b8-4b96-8271-7ea2a8b11eb9",
       "last_modified": "2020-07-03T05:52:33",
-      "metadata_modified": "2024-01-26T10:57:41.170835",
+      "metadata_modified": "2026-09-10T09:09:26.071606",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -219,6 +225,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-14T07:38:20.378600",
@@ -230,7 +237,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/67f55ad0-6166-4468-b42f-fd4fb58015ab/hotosm_cxr_sea_ports_polygons_kml.zip",
       "id": "49c86523-9a25-42a4-a170-f972fb248299",
       "last_modified": "2020-07-03T05:52:33",
-      "metadata_modified": "2024-01-26T10:57:45.010631",
+      "metadata_modified": "2026-09-10T09:09:26.071666",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -245,6 +252,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-14T07:38:20.378601",
@@ -256,7 +264,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/67f55ad0-6166-4468-b42f-fd4fb58015ab/hotosm_cxr_gmapsupp_img.zip",
       "id": "85025823-6896-433a-9469-7d1fc6cf55bf",
       "last_modified": "2020-07-03T05:52:36",
-      "metadata_modified": "2023-05-10T21:12:21.893215",
+      "metadata_modified": "2026-09-10T09:09:26.071731",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

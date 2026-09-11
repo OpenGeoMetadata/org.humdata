@@ -17,7 +17,7 @@
   "license_title": "Other",
   "maintainer": "37023db4-a571-4f28-8d1f-15f0353586af",
   "metadata_created": "2020-11-24T13:33:59.383045",
-  "metadata_modified": "2025-08-26T15:29:16.855374",
+  "metadata_modified": "2026-09-10T10:27:41.711731",
   "methodology": "Other",
   "methodology_other": "Estimated population density per grid-cell. The dataset is available to download in Geotiff and ASCII XYZ format at a resolution of 30 arc (approximately 1km at the equator). The projection is Geographic Coordinate System, WGS84. The units are number of people per square kilometer. The units are number of people per square kilometre based on country totals adjusted to match the corresponding official United Nations population estimates that have been prepared by the Population Division of the Department of Economic and Social Affairs of the United Nations Secretariat (2019 Revision of World Population Prospects). The mapping approach is Random Forest-based dasymetric redistribution.",
   "name": "worldpop-population-density-for-british-virgin-islands",
@@ -45,7 +45,7 @@
   "state": "active",
   "subnational": "1",
   "title": "British Virgin Islands - Population Density",
-  "total_res_downloads": 13,
+  "total_res_downloads": 9,
   "type": "dataset",
   "updated_by_script": "hdx:HDXPythonLibrary/6.3.1-hdx_cli_toolkit_cjh (2025-06-10T12:32:03.069348)",
   "url": null,
@@ -187,6 +187,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-11-24T13:33:59.410340",
@@ -198,7 +199,7 @@
       "hdx_rel_url": "https://data.worldpop.org/GIS/Population_Density/Global_2000_2020_1km/2019/VGB/vgb_pd_2019_1km.tif",
       "id": "bc197f7f-8712-4f70-a737-6d36e751f9dc",
       "last_modified": "2020-06-29T18:08:20",
-      "metadata_modified": "2025-08-26T15:29:16.865775",
+      "metadata_modified": "2026-09-10T10:27:41.726045",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -212,6 +213,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-11-24T13:33:59.410342",
@@ -223,7 +225,7 @@
       "hdx_rel_url": "https://data.worldpop.org/GIS/Population_Density/Global_2000_2020_1km_UNadj/2019/VGB/vgb_pd_2019_1km_UNadj_ASCII_XYZ.zip",
       "id": "9b9b829e-d93f-435c-ac83-94e9d1e641dd",
       "last_modified": "2020-06-29T18:08:20",
-      "metadata_modified": "2025-08-26T15:29:16.865861",
+      "metadata_modified": "2026-09-10T10:27:41.726117",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -237,6 +239,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-11-24T13:33:59.410343",
@@ -248,7 +251,7 @@
       "hdx_rel_url": "https://data.worldpop.org/GIS/Population_Density/Global_2000_2020_1km_UNadj/2019/VGB/vgb_pd_2019_1km_UNadj.tif",
       "id": "bafff539-652a-4c74-a4ee-07f55f74eb2c",
       "last_modified": "2020-06-29T18:08:20",
-      "metadata_modified": "2025-08-26T15:29:16.865968",
+      "metadata_modified": "2026-09-10T10:27:41.726197",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

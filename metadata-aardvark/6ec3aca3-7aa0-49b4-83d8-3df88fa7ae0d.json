@@ -1,7 +1,7 @@
 {
   "id": "hdx-6ec3aca3-7aa0-49b4-83d8-3df88fa7ae0d",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-14T16:10:05Z",
+  "gbl_mdModified_dt": "2026-09-14T12:58:14Z",
   "dct_title_s": "Mozambique: Acute Food Insecurity Country Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -31,20 +31,18 @@
   "locn_geometry": "ENVELOPE(30.18, 40.78, -10.32, -26.74)",
   "dcat_bbox": "ENVELOPE(30.18, 40.78, -10.32, -26.74)",
   "dct_temporal_sm": [
-    "2017-2026"
+    "2020-2027"
   ],
   "gbl_indexYear_im": [
-    2017,
-    2018,
-    2019,
     2020,
     2021,
     2022,
     2023,
     2024,
     2025,
-    2026
+    2026,
+    2027
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mozambique-acute-food-insecurity-country-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/6ec3aca3-7aa0-49b4-83d8-3df88fa7ae0d/resource/b3ff6b2e-abfe-42c3-9731-45e75dd6e171/download/ipc_moz.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/6ec3aca3-7aa0-49b4-83d8-3df88fa7ae0d/resource/b3ff6b2e-abfe-42c3-9731-45e75dd6e171/download/ipc_moz.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mozambique-acute-food-insecurity-country-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/6ec3aca3-7aa0-49b4-83d8-3df88fa7ae0d/resource/b3ff6b2e-abfe-42c3-9731-45e75dd6e171/download/ipc_moz.geojson\",\"label\":\"ipc_moz.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/6ec3aca3-7aa0-49b4-83d8-3df88fa7ae0d/resource/48c9921d-e978-4dea-b001-0355c3b11319/download/ipc_moz_national_long_latest.csv\",\"label\":\"ipc_moz_national_long_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/6ec3aca3-7aa0-49b4-83d8-3df88fa7ae0d/resource/7158b7e7-0d87-43a6-b55c-fd1ff7b3aede/download/ipc_moz_level1_long_latest.csv\",\"label\":\"ipc_moz_level1_long_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/6ec3aca3-7aa0-49b4-83d8-3df88fa7ae0d/resource/80b4f218-8ffb-4ecd-a176-520848dbf25a/download/ipc_moz_level1_wide_latest.csv\",\"label\":\"ipc_moz_level1_wide_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/6ec3aca3-7aa0-49b4-83d8-3df88fa7ae0d/resource/8b8193ad-9f61-416d-8c4b-45c64a5820f9/download/ipc_moz_area_long_latest.csv\",\"label\":\"ipc_moz_area_long_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/6ec3aca3-7aa0-49b4-83d8-3df88fa7ae0d/resource/cb79d18e-184b-484b-8cdc-66f0e9fb2cc8/download/ipc_moz_area_wide_latest.csv\",\"label\":\"ipc_moz_area_wide_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/6ec3aca3-7aa0-49b4-83d8-3df88fa7ae0d/resource/9ff54894-a1cc-41fb-8e6e-2f74f3ac0466/download/ipc_moz_national_long.csv\",\"label\":\"ipc_moz_national_long.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/6ec3aca3-7aa0-49b4-83d8-3df88fa7ae0d/resource/0cf86f2a-9850-4165-939f-058e8ec65ad7/download/ipc_moz_national_wide.csv\",\"label\":\"ipc_moz_national_wide.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/6ec3aca3-7aa0-49b4-83d8-3df88fa7ae0d/resource/6e900237-4993-420c-9c97-9955cdf491b0/download/ipc_moz_level1_long.csv\",\"label\":\"ipc_moz_level1_long.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/6ec3aca3-7aa0-49b4-83d8-3df88fa7ae0d/resource/e4d0b370-9898-4d39-bfbd-0f6b848acea1/download/ipc_moz_level1_wide.csv\",\"label\":\"ipc_moz_level1_wide.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/6ec3aca3-7aa0-49b4-83d8-3df88fa7ae0d/resource/6bad6f06-02bd-4ced-9a80-81ff95133fda/download/ipc_moz_area_long.csv\",\"label\":\"ipc_moz_area_long.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/6ec3aca3-7aa0-49b4-83d8-3df88fa7ae0d/resource/1f0e258f-8a90-4390-9ff7-a18b343865e3/download/ipc_moz_area_wide.csv\",\"label\":\"ipc_moz_area_wide.csv (CSV)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/6ec3aca3-7aa0-49b4-83d8-3df88fa7ae0d/resource/b3ff6b2e-abfe-42c3-9731-45e75dd6e171/download/ipc_moz.geojson\"}"
 }

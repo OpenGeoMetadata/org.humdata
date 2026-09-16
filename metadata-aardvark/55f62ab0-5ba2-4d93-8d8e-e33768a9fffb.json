@@ -1,0 +1,43 @@
+{
+  "id": "hdx-55f62ab0-5ba2-4d93-8d8e-e33768a9fffb",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-09-16T03:57:58Z",
+  "dct_title_s": "Myanmar - Aboveground Biomass",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains annual, 100m-resolution above ground biomass (AGB) estimates from CTrees, a NASA-affiliated forest-carbon monitoring organization, clipped to this country's boundary from CTrees' global AGB raster. Pixel values are stored as int16, scaled x10 relative to the true value in megagrams per hectare (Mg/ha) -- divide by 10 to get Mg/ha. See the caveats field and resource description for details on how this scale factor is recorded and why it isn't applied automatically by most tools."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "CTrees"
+  ],
+  "dcat_keyword_sm": [
+    "climate-weather",
+    "environment",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "climate-weather",
+    "environment",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mmr-ctrees-aboveground-biomass\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/55f62ab0-5ba2-4d93-8d8e-e33768a9fffb/resource/37989c75-7251-45e9-8dd0-b81325f6d438/download/mmr_ctrees_aboveground_biomass.tif\",\"label\":\"mmr_ctrees_aboveground_biomass.tif (GeoTIFF)\"}]}"
+}

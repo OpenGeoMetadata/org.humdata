@@ -1,0 +1,43 @@
+{
+  "id": "hdx-e5730dcc-8d17-49a0-af5e-fd1f576e6375",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-09-16T03:52:00Z",
+  "dct_title_s": "Central African Republic - Aboveground Biomass",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains annual, 100m-resolution above ground biomass (AGB) estimates from CTrees, a NASA-affiliated forest-carbon monitoring organization, clipped to this country's boundary from CTrees' global AGB raster. Pixel values are stored as int16, scaled x10 relative to the true value in megagrams per hectare (Mg/ha) -- divide by 10 to get Mg/ha. See the caveats field and resource description for details on how this scale factor is recorded and why it isn't applied automatically by most tools."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "CTrees"
+  ],
+  "dcat_keyword_sm": [
+    "climate-weather",
+    "environment",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "climate-weather",
+    "environment",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Central African Republic"
+  ],
+  "locn_geometry": "ENVELOPE(14.46, 27.37, 11.14, 2.27)",
+  "dcat_bbox": "ENVELOPE(14.46, 27.37, 11.14, 2.27)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/caf-ctrees-aboveground-biomass\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e5730dcc-8d17-49a0-af5e-fd1f576e6375/resource/1ede1a54-cec4-48bd-bd41-a825c3de6997/download/caf_ctrees_aboveground_biomass.tif\",\"label\":\"caf_ctrees_aboveground_biomass.tif (GeoTIFF)\"}]}"
+}

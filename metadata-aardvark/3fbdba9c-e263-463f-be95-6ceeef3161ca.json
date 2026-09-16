@@ -1,0 +1,43 @@
+{
+  "id": "hdx-3fbdba9c-e263-463f-be95-6ceeef3161ca",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-09-16T03:58:48Z",
+  "dct_title_s": "Mozambique - Aboveground Biomass",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains annual, 100m-resolution above ground biomass (AGB) estimates from CTrees, a NASA-affiliated forest-carbon monitoring organization, clipped to this country's boundary from CTrees' global AGB raster. Pixel values are stored as int16, scaled x10 relative to the true value in megagrams per hectare (Mg/ha) -- divide by 10 to get Mg/ha. See the caveats field and resource description for details on how this scale factor is recorded and why it isn't applied automatically by most tools."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "CTrees"
+  ],
+  "dcat_keyword_sm": [
+    "climate-weather",
+    "environment",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "climate-weather",
+    "environment",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Mozambique"
+  ],
+  "locn_geometry": "ENVELOPE(30.18, 40.78, -10.32, -26.74)",
+  "dcat_bbox": "ENVELOPE(30.18, 40.78, -10.32, -26.74)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/moz-ctrees-aboveground-biomass\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/3fbdba9c-e263-463f-be95-6ceeef3161ca/resource/efd1e6af-297a-4d2c-a19b-5cd35417f743/download/moz_ctrees_aboveground_biomass.tif\",\"label\":\"moz_ctrees_aboveground_biomass.tif (GeoTIFF)\"}]}"
+}

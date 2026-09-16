@@ -1,0 +1,43 @@
+{
+  "id": "hdx-62e7af17-8215-45e1-b883-dc820a55f97d",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-09-16T03:52:36Z",
+  "dct_title_s": "Cameroon - Aboveground Biomass",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains annual, 100m-resolution above ground biomass (AGB) estimates from CTrees, a NASA-affiliated forest-carbon monitoring organization, clipped to this country's boundary from CTrees' global AGB raster. Pixel values are stored as int16, scaled x10 relative to the true value in megagrams per hectare (Mg/ha) -- divide by 10 to get Mg/ha. See the caveats field and resource description for details on how this scale factor is recorded and why it isn't applied automatically by most tools."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "CTrees"
+  ],
+  "dcat_keyword_sm": [
+    "climate-weather",
+    "environment",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "climate-weather",
+    "environment",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Cameroon"
+  ],
+  "locn_geometry": "ENVELOPE(8.49, 16.01, 12.86, 1.73)",
+  "dcat_bbox": "ENVELOPE(8.49, 16.01, 12.86, 1.73)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cmr-ctrees-aboveground-biomass\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/62e7af17-8215-45e1-b883-dc820a55f97d/resource/63b99227-7cf1-4cb2-96c9-f91637363b70/download/cmr_ctrees_aboveground_biomass.tif\",\"label\":\"cmr_ctrees_aboveground_biomass.tif (GeoTIFF)\"}]}"
+}

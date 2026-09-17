@@ -1,0 +1,40 @@
+{
+  "id": "hdx-d61ca424-e803-428c-80b1-70626599838b",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-09-16T11:26:03Z",
+  "dct_title_s": "Syria Acute Food Insecurity Classification",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Forward-looking analysis representing the most likely food security outcomes for the near term (August 2026 - September 2026) and medium term (October 2026 - January 2027) periods."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "FEWS NET"
+  ],
+  "dcat_keyword_sm": [
+    "food security"
+  ],
+  "dct_subject_sm": [
+    "food security"
+  ],
+  "dct_spatial_sm": [
+    "Syrian Arab Republic"
+  ],
+  "locn_geometry": "ENVELOPE(35.7, 42.35, 37.23, 32.31)",
+  "dcat_bbox": "ENVELOPE(35.7, 42.35, 37.23, 32.31)",
+  "dct_temporal_sm": [
+    "2026-2027"
+  ],
+  "gbl_indexYear_im": [
+    2026,
+    2027
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/syria-acute-food-insecurity-classification-august-2026-january-2027\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcpackage/country/SY/2026-08-01/\",\"label\":\"Syria Acute Food Insecurity Classification Shapefile August 2026 (.zip) (zip)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/SY/2026-08-01.geojson\",\"label\":\"Syria Acute Food Insecurity Classification August 2026 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-08-01&dataseries__geographic_unit__country=SY&dataseries__ipcclassification__scenario=ML1\",\"label\":\"Near Term Projection: August 2026 - September 2026 (.png) (PNG)\"},{\"url\":\"https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-08-01&dataseries__geographic_unit__country=SY&dataseries__ipcclassification__scenario=ML2\",\"label\":\"Medium Term Projection: October 2026 - January 2027 (.png) (PNG)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/SY/ML1/2026-08-01.kml\",\"label\":\"Near Term Projection: August 2026 - September 2026 (.kml) (KML)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/SY/ML2/2026-08-01.kml\",\"label\":\"Medium Term Projection: October 2026 - January 2027 (.kml) (KML)\"}],\"http://geojson.org/geojson-spec.html\":\"https://fdw.fews.net/api/ipcphasemap/country/SY/2026-08-01.geojson\"}"
+}

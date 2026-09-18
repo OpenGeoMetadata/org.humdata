@@ -1,0 +1,45 @@
+{
+  "id": "hdx-44db84c3-9c8f-4fb0-b7a9-3db9d9e73710",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-09-17T10:48:11Z",
+  "dct_title_s": "Spain - Wildfire in Huelva Province, Spain (EMSR932)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains Copernicus EMS Rapid Mapping products for activation EMSR932. On the 15 September 2025 at 13:00 UTC, an active fire is reported to have affected anthropic forestry land in Huelva Province. Copernicus EMS Rapid Mapping is requested to provide initial rough estimation, fire extent and damage assessment emergency mapping. **Citation:** Copernicus Emergency Management Service (© 2026 European Union), EMSR932 **Product types present in this dataset's resources:** **GRA (Grading)**: assesses damage to individual features (eg. buildings, infrastructure). Where a GeoPackage download is available for an Area of Interest/round, it already contains every layer with its official Copernicus styling and colours - prefer it in GIS software over the zipped shapefile download."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Copernicus"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Spain"
+  ],
+  "locn_geometry": "ENVELOPE(-9.39, 3.04, 43.75, 35.95)",
+  "dcat_bbox": "ENVELOPE(-9.39, 3.04, 43.75, 35.95)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/esp-wildfire-emsr932\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR932/AOI01/GRA_PRODUCT/EMSR932_AOI01_GRA_PRODUCT_v1.zip?type=gpkg\",\"label\":\"esp_copernicus_ems_aoi01_grading_initial.gpkg (Geopackage)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR932/AOI01/GRA_PRODUCT/EMSR932_AOI01_GRA_PRODUCT_v1.zip?type=xlsx\",\"label\":\"esp_copernicus_ems_aoi01_grading_initial.xlsx (XLSX)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR932/AOI01/GRA_PRODUCT/EMSR932_AOI01_GRA_PRODUCT_v1.zip?type=vectors\",\"label\":\"esp_copernicus_ems_aoi01_grading_initial_vectors.zip (SHP)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR932/AOI01/GRA_PRODUCT/EMSR932_AOI01_GRA_PRODUCT_v1.zip?type=pdf\",\"label\":\"esp_copernicus_ems_aoi01_grading_initial.pdf (PDF)\"}]}"
+}

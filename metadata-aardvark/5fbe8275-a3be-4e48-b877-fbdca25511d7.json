@@ -1,0 +1,43 @@
+{
+  "id": "hdx-5fbe8275-a3be-4e48-b877-fbdca25511d7",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-09-21T03:53:02Z",
+  "dct_title_s": "Papua New Guinea - Earthquake on Sep 20 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000tiqc](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000tiqc) Magnitude 6.4 earthquake at 104.329 depth occurred on Sep 20 2026 23km S of Guhu. The epicentre of the earthquake was located at latitude -5.9021 longitude 146.0922. It impacted 132076 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Papua New Guinea"
+  ],
+  "locn_geometry": "ENVELOPE(141.0, 156.02, -2.5, -10.65)",
+  "dcat_bbox": "ENVELOPE(141.0, 156.02, -2.5, -10.65)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/png-earthquake-sm-us7000tiqc\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/5fbe8275-a3be-4e48-b877-fbdca25511d7/resource/54b07489-9faa-411b-8a87-451e80845549/download/png_wfpadam_earthquake_202609201.geojson\",\"label\":\"png_wfpadam_earthquake_20260920.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/5fbe8275-a3be-4e48-b877-fbdca25511d7/resource/e4dfff24-cb3b-49b4-9638-a344d2721028/download/png_wfpadam_earthquake_202609201.csv\",\"label\":\"png_wfpadam_earthquake_20260920.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/5fbe8275-a3be-4e48-b877-fbdca25511d7/resource/c1c947d1-77d1-4500-9d2e-af0ea9ea211a/download/png_wfpadam_earthquake_202609201.xlsx\",\"label\":\"png_wfpadam_earthquake_20260920.xlsx (XLSX)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/5fbe8275-a3be-4e48-b877-fbdca25511d7/resource/54b07489-9faa-411b-8a87-451e80845549/download/png_wfpadam_earthquake_202609201.geojson\"}"
+}

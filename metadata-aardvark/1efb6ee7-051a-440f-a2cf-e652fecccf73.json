@@ -1,7 +1,7 @@
 {
   "id": "hdx-1efb6ee7-051a-440f-a2cf-e652fecccf73",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-09-24T14:24:43Z",
+  "gbl_mdModified_dt": "2026-09-23T06:13:35Z",
   "dct_title_s": "WorldRiskIndex",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,7 +39,7 @@
   "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
   "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
   "dct_temporal_sm": [
-    "2000-2025"
+    "2000-2026"
   ],
   "gbl_indexYear_im": [
     2000,
@@ -67,8 +67,9 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/worldriskindex\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/1efb6ee7-051a-440f-a2cf-e652fecccf73/resource/6aca2f09-ab01-4ff7-a17d-8cac9686cbba/download/worldriskindex-meta.xlsx\",\"label\":\"XLSX\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/worldriskindex\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/1efb6ee7-051a-440f-a2cf-e652fecccf73/resource/6aca2f09-ab01-4ff7-a17d-8cac9686cbba/download/worldriskindex-meta.xlsx\",\"label\":\"WorldRiskIndex Meta Data (XLSX)\"},{\"url\":\"https://data.humdata.org/dataset/1efb6ee7-051a-440f-a2cf-e652fecccf73/resource/3a2320fa-41b4-4dda-a847-3f397d865378/download/worldriskindex-trend.csv\",\"label\":\"WorldRiskIndex Trend Data CSV (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/1efb6ee7-051a-440f-a2cf-e652fecccf73/resource/360962d8-ddc6-49e6-a932-127f9b445565/download/worldriskindex-trend.gpkg\",\"label\":\"WorldRiskIndex Trend Data GPKG (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/1efb6ee7-051a-440f-a2cf-e652fecccf73/resource/9dd7ca94-94fe-473a-9f53-277bf6544df1/download/worldriskindex-datasets.zip\",\"label\":\"WorldRiskIndex CSV Data Archive (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/1efb6ee7-051a-440f-a2cf-e652fecccf73/resource/09a641cd-d07f-4de9-8cf6-b0fbaa48ff21/download/worldriskindex-geopackages.zip\",\"label\":\"WorldRiskIndex GPKG Data Archive (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/1efb6ee7-051a-440f-a2cf-e652fecccf73/resource/b9f8b354-675c-471d-aa17-11a2689823cd/download/special-exposure-analyses.zip\",\"label\":\"Special Exposure Archive (XLSX)\"},{\"url\":\"https://data.humdata.org/dataset/1efb6ee7-051a-440f-a2cf-e652fecccf73/resource/a00f93fa-a159-4868-9ce0-7d90f58e3d20/download/worldriskindex-legacy.zip\",\"label\":\"WorldRiskIndex Legacy Data Archive (CSV)\"}]}"
 }

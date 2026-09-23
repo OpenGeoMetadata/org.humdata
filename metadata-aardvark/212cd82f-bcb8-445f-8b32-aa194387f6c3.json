@@ -1,29 +1,31 @@
 {
   "id": "hdx-212cd82f-bcb8-445f-8b32-aa194387f6c3",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-06-25T02:55:10Z",
+  "gbl_mdModified_dt": "2026-09-22T09:10:42Z",
   "dct_title_s": "Paraguay - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "Paraguay administrative level 0-2 boundaries (COD-AB) dataset. The date that these administrative boundaries were established is unknown. NOTE: New government boundary sources, including a new ADM3 layer, have been identified and will be incorporated into a future COD-AB update. This COD-AB was most recently reviewed for accuracy and necessary changes in January 2025. The COD-AB requires improvements. Sourced from Dirección General de Estadísticas, Encuestas y Censos (DGEEC) Vetting by Information Technology Outreach Services (ITOS) with funding from USAID. This COD-AB is suitable for database or GIS linkage to the Paraguay [COD-PS](https://data.humdata.org/dataset/cod-ps-pry). No edge-matched (COD-EM) version of this COD-AB has yet been prepared. Please see the [COD Portal](https://cod.unocha.org/). Administrative level 1 contains 18 feature(s). The normal administrative level 1 feature type is 'department (departamento)'. Administrative level 2 contains 250 feature(s). The normal administrative level 2 feature type is 'distrtict (distrito)'. Recommended cartographic projection: South America Albers Equal Area Conic This metadata was last updated on February 03, 2025."
+    "Paraguay administrative level 0-4 boundaries (COD-AB) dataset version 01. This dataset is structured into 4 levels: - Admin 1: 18 Departamento - Admin 2: 263 Distrito - Admin 3: 7994 Barrio/Localidad - Admin 4: 105952 Manzana, partial coverage Dates associated with this dataset: - 09 July 2026: dataset reviewed for accuracy and completeness - 29 July 2026: valid for use by the humanitarian community - 29 July 2026: last edit to the dataset before publishing - 01 January 2022: boundaries created by the source Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx). Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)"
   ],
   "dct_language_sm": [
     "eng"
   ],
   "schema_provider_s": "Humanitarian Data Exchange",
   "dct_publisher_sm": [
-    "Dirección General de Estadísticas, Encuestas y Censos (DGEEC)"
+    "Dirección General de Estadísticas, Encuestas y Censos (DGEEC), INE: Instituto Nacionel de Estadistica Paraguay "
   ],
   "dcat_keyword_sm": [
     "administrative boundaries-divisions",
-    "gazetteer"
+    "gazetteer",
+    "geodata"
   ],
   "dct_subject_sm": [
     "administrative boundaries-divisions",
-    "gazetteer"
+    "gazetteer",
+    "geodata"
   ],
   "dct_spatial_sm": [
     "Paraguay"
@@ -31,19 +33,11 @@
   "locn_geometry": "ENVELOPE(-62.69, -54.29, -19.34, -27.55)",
   "dcat_bbox": "ENVELOPE(-62.69, -54.29, -19.34, -27.55)",
   "dct_temporal_sm": [
-    "2017-2025"
+    "2026"
   ],
   "gbl_indexYear_im": [
-    2017,
-    2018,
-    2019,
-    2020,
-    2021,
-    2022,
-    2023,
-    2024,
-    2025
+    2026
   ],
-  "dct_format_s": "XLSX",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-pry\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/212cd82f-bcb8-445f-8b32-aa194387f6c3/resource/8998e96e-549b-4fd0-a238-926e0e2e8936/download/pry_admgz_dgeec_2020.xlsx\",\"label\":\"XLSX\"}]}"
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-pry\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/212cd82f-bcb8-445f-8b32-aa194387f6c3/resource/2eeed14a-0184-4117-b874-b99361c0cfc5/download/pry_admin_boundaries.gdb.zip\",\"label\":\"pry_admin_boundaries.gdb.zip (Geodatabase)\"},{\"url\":\"https://data.humdata.org/dataset/212cd82f-bcb8-445f-8b32-aa194387f6c3/resource/70100914-493d-42a1-b84c-9e864968bb75/download/pry_admin_boundaries.shp.zip\",\"label\":\"pry_admin_boundaries.shp.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/212cd82f-bcb8-445f-8b32-aa194387f6c3/resource/b5fd31ce-e2fc-41c9-a746-2089b7e0a98f/download/pry_admin_boundaries.geojson.zip\",\"label\":\"pry_admin_boundaries.geojson.zip (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/212cd82f-bcb8-445f-8b32-aa194387f6c3/resource/08d8b7c4-26a7-4165-b92f-4d797a99ab94/download/pry_admin_boundaries.xlsx\",\"label\":\"pry_admin_boundaries.xlsx (XLSX)\"}]}"
 }

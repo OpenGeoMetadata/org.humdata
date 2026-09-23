@@ -1,7 +1,7 @@
 {
   "id": "hdx-83f73b3a-2a3f-4e5d-88e6-fbdd12907327",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-10T16:41:53Z",
+  "gbl_mdModified_dt": "2026-09-22T11:36:04Z",
   "dct_title_s": "Morocco: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -29,7 +29,7 @@
   "locn_geometry": "ENVELOPE(-17.02, -1.12, 35.76, 21.42)",
   "dcat_bbox": "ENVELOPE(-17.02, -1.12, 35.76, 21.42)",
   "dct_temporal_sm": [
-    "1851-2025"
+    "1851-2026"
   ],
   "gbl_indexYear_im": [
     1851,
@@ -206,8 +206,9 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mar-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/83f73b3a-2a3f-4e5d-88e6-fbdd12907327/resource/9804bdd2-64d0-4a3a-bf35-1198ed9f0cb7/download/ibtracs_all_list_v04r01_lines_mar.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/83f73b3a-2a3f-4e5d-88e6-fbdd12907327/resource/9804bdd2-64d0-4a3a-bf35-1198ed9f0cb7/download/ibtracs_all_list_v04r01_lines_mar.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mar-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/83f73b3a-2a3f-4e5d-88e6-fbdd12907327/resource/03938c75-91c0-4476-9dc4-c4672c53aa0f/download/ibtracs_all_list_v04r01_mar.csv\",\"label\":\"ibtracs_ALL_list_v04r01_MAR.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/83f73b3a-2a3f-4e5d-88e6-fbdd12907327/resource/9804bdd2-64d0-4a3a-bf35-1198ed9f0cb7/download/ibtracs_all_list_v04r01_lines_mar.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_MAR.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/83f73b3a-2a3f-4e5d-88e6-fbdd12907327/resource/9804bdd2-64d0-4a3a-bf35-1198ed9f0cb7/download/ibtracs_all_list_v04r01_lines_mar.geojson\"}"
 }

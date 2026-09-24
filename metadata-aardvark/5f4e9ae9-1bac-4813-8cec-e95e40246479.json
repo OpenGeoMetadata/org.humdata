@@ -1,0 +1,39 @@
+{
+  "id": "hdx-5f4e9ae9-1bac-4813-8cec-e95e40246479",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-09-23T11:24:52Z",
+  "dct_title_s": "Venezuela Acute Food Insecurity Classification",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Forward-looking analysis representing the most likely food security outcomes for the near term (April 2023 - May 2023) and medium term (June 2023 - September 2023) periods."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "FEWS NET"
+  ],
+  "dcat_keyword_sm": [
+    "food security"
+  ],
+  "dct_subject_sm": [
+    "food security"
+  ],
+  "dct_spatial_sm": [
+    "Venezuela (Bolivarian Republic of)"
+  ],
+  "locn_geometry": "ENVELOPE(-73.3, -59.76, 12.16, 0.72)",
+  "dcat_bbox": "ENVELOPE(-73.3, -59.76, 12.16, 0.72)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/venezuela-acute-food-insecurity-classification-april-2023-september-2023\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcpackage/country/VE/2023-04-01/\",\"label\":\"Venezuela Acute Food Insecurity Classification Shapefile April 2023 (.zip) (zip)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/VE/2023-04-01.geojson\",\"label\":\"Venezuela Acute Food Insecurity Classification April 2023 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-04-01&dataseries__geographic_unit__country=VE&dataseries__ipcclassification__scenario=ML1\",\"label\":\"Near Term Projection: April 2023 - May 2023 (.png) (PNG)\"},{\"url\":\"https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-04-01&dataseries__geographic_unit__country=VE&dataseries__ipcclassification__scenario=ML2\",\"label\":\"Medium Term Projection: June 2023 - September 2023 (.png) (PNG)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/VE/ML1/2023-04-01.kml\",\"label\":\"Near Term Projection: April 2023 - May 2023 (.kml) (KML)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/VE/ML2/2023-04-01.kml\",\"label\":\"Medium Term Projection: June 2023 - September 2023 (.kml) (KML)\"}],\"http://geojson.org/geojson-spec.html\":\"https://fdw.fews.net/api/ipcphasemap/country/VE/2023-04-01.geojson\"}"
+}

@@ -17,7 +17,7 @@
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "d9d6cf4c-6b6c-4d60-9a81-cc7a9053302f",
   "metadata_created": "2022-08-26T05:41:32.643530",
-  "metadata_modified": "2026-09-12T09:10:31.226184",
+  "metadata_modified": "2026-09-28T09:11:46.762785",
   "methodology": "IPC Classification spatial data in different IPC scenarios collected by FEWS NET enumerators on a regular schedule (typically monthly).",
   "name": "lesotho_near_term_projection__fewsnet_ipc_shapefile_for_2021",
   "notes": "Lesotho Near Term Projection  FEWS NET Acute Food Insecurity Classifications Geographic data for 2021",
@@ -37,7 +37,7 @@
   },
   "owner_org": "f9695fdf-9252-44e1-b3d5-1d73e669ef5a",
   "package_creator": "girumb",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 8,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Lesotho\"]}",
@@ -192,6 +192,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-08-26T05:41:49.426231",
@@ -203,7 +204,7 @@
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/?country=LS&scenario=ML1&collection_date=2021-03-01&format=kml",
       "id": "2544ef8b-2457-400c-ba6c-5dc951ebd471",
       "last_modified": "2025-02-01T01:02:13.735468",
-      "metadata_modified": "2025-08-26T11:36:16.563056",
+      "metadata_modified": "2026-09-28T09:11:46.776539",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -244,6 +245,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-08-26T05:41:59.416577",
@@ -255,7 +257,7 @@
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/?country=LS&scenario=ML1&collection_date=2021-05-01&format=geojson",
       "id": "fbfa6680-5425-4e48-b35e-68dd4e8ed3f2",
       "last_modified": "2025-02-01T01:02:13.735468",
-      "metadata_modified": "2025-08-26T11:36:16.563191",
+      "metadata_modified": "2026-09-28T09:11:46.776658",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -322,6 +324,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-08-26T05:42:13.279499",
@@ -333,7 +336,7 @@
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/?country=LS&scenario=ML1&collection_date=2021-06-01&format=kml",
       "id": "a88fa744-4730-4121-ab70-45c02a36cd79",
       "last_modified": "2025-02-01T01:02:13.735468",
-      "metadata_modified": "2025-08-26T11:36:16.563372",
+      "metadata_modified": "2026-09-28T09:11:46.776827",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -478,6 +481,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-08-26T05:43:05.991209",
@@ -489,7 +493,7 @@
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/?country=LS&scenario=ML1&collection_date=2021-10-01&format=geojson",
       "id": "f3bea938-7c25-43be-a1c7-1162991588ea",
       "last_modified": "2025-02-01T01:02:13.735468",
-      "metadata_modified": "2025-08-26T11:36:16.563797",
+      "metadata_modified": "2026-09-28T09:11:46.777163",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

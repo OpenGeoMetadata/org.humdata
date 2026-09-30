@@ -1,7 +1,7 @@
 {
   "id": "hdx-6f82b840-63cd-4c8a-8851-b40ad9007e1b",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-08-28T17:25:53Z",
+  "gbl_mdModified_dt": "2026-09-29T15:21:13Z",
   "dct_title_s": "Ireland Healthsites",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -29,7 +29,7 @@
   "locn_geometry": "ENVELOPE(-9.98, -6.03, 55.13, 51.67)",
   "dcat_bbox": "ENVELOPE(-9.98, -6.03, 55.13, 51.67)",
   "dct_temporal_sm": [
-    "2015-2025"
+    "2015-2026"
   ],
   "gbl_indexYear_im": [
     2015,
@@ -42,8 +42,9 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/ireland-healthsites\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/6f82b840-63cd-4c8a-8851-b40ad9007e1b/resource/1c76dce4-a957-4fd3-ac0a-e476c79a5128/download/ireland.csv\",\"label\":\"ireland-healthsites-csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/6f82b840-63cd-4c8a-8851-b40ad9007e1b/resource/4cdb678b-727a-40c6-b3a5-b0437e73443a/download/ireland.geojson\",\"label\":\"ireland-healthsites-geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/6f82b840-63cd-4c8a-8851-b40ad9007e1b/resource/70e127fa-80e4-4495-b648-25aad44c3f5d/download/ireland-shapefiles.zip\",\"label\":\"ireland-healthsites-shp (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/6f82b840-63cd-4c8a-8851-b40ad9007e1b/resource/a70ce17a-c658-4b60-9c12-128a402270b8/download/ireland_hxl.csv\",\"label\":\"ireland-healthsites-csv-with-hxl-tags (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/6f82b840-63cd-4c8a-8851-b40ad9007e1b/resource/0689d793-473a-4f0a-9680-9ef85ce37d1a/download/ireland_hxl.geojson\",\"label\":\"ireland-healthsites-hxl-geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/6f82b840-63cd-4c8a-8851-b40ad9007e1b/resource/4cdb678b-727a-40c6-b3a5-b0437e73443a/download/ireland.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/ireland-healthsites\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/6f82b840-63cd-4c8a-8851-b40ad9007e1b/resource/dcfded46-1a8b-4946-b330-e82d78723f79/download/ireland.csv\",\"label\":\"ireland-healthsites-csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/6f82b840-63cd-4c8a-8851-b40ad9007e1b/resource/1bab2331-b82d-4b74-b8af-2bd1b38361b4/download/ireland.geojson\",\"label\":\"ireland-healthsites-geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/6f82b840-63cd-4c8a-8851-b40ad9007e1b/resource/6b122762-664d-43f2-b067-d48dbbb813bb/download/ireland-shapefiles.zip\",\"label\":\"ireland-healthsites-shp (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/6f82b840-63cd-4c8a-8851-b40ad9007e1b/resource/f6aba9d0-b407-4ca6-a4f4-2e5e1e8341bf/download/ireland_hxl.csv\",\"label\":\"ireland-healthsites-csv-with-hxl-tags (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/6f82b840-63cd-4c8a-8851-b40ad9007e1b/resource/836dc1f8-1807-4fdf-83c0-b30157c23ea2/download/ireland_hxl.geojson\",\"label\":\"ireland-healthsites-hxl-geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/6f82b840-63cd-4c8a-8851-b40ad9007e1b/resource/1bab2331-b82d-4b74-b8af-2bd1b38361b4/download/ireland.geojson\"}"
 }

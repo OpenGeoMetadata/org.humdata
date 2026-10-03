@@ -1,0 +1,51 @@
+{
+  "id": "hdx-b9e14f25-1cf8-4c72-956f-ebb9c32a8343",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:56:40Z",
+  "dct_title_s": "USA Hurricane Ida: Damage Proxy Map, Aug 2021",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# ARIA DPM Sentinel-1 v1.0, Hurricane Ida The Advanced Rapid Imaging and Analysis (ARIA) team at NASA's Jet Propulsion Laboratory and California Institute of Technology in Southern California, in collaboration with the Earth Observatory of Singapore (EOS), created this Damage Proxy Map (DPM) depicting areas that are likely damaged by the Hurricane Ida (August 29, 2021) in central and western Louisiana, United States. The map was derived from synthetic aperture radar (SAR) images on Sep 03, 2021 by the Copernicus Sentinel-1 satellites operated by the European Space Agency (ESA). The pre-event images were taken before (Aug 10, 2021 and Aug 22, 2021) the hurricane hit land. The image covers an area of 337 by 250 kilometers (210 by 155 miles), shown by the large red polygon. Each pixel measures about 30 meters across. The color variation from yellow to red indicates increasingly more significant surface change. Preliminary validation was done by comparing with the Media reports. This damage proxy map should be used as guidance to identify damaged areas, and may be less reliable over vegetated or flooded areas. For example, the scattered colored pixels over vegetated areas and flooded fields may be false positives, and the lack of colored pixels over vegetated areas does not necessarily mean no damage. Some additional false positives in the middle of the image are likely due to the stitching of Sentinel-1 frames as a thin line running across the map at a ENE-WSW angle. This map is most sensitive to building damage, but small-scale change or partial structural damage may not be detected by this map. Sentinel-1 data were accessed through the Copernicus Open Hub and the Alaska Satellite Facility server. The product contains modified Copernicus Sentinel data (2021), processed by ESA and analyzed by the NASA-JPL/Caltech ARIA team and EOS team. Part of the funding was provided by NASA's Earth Applied Sciences Disasters Program. The products (KMZ and GeoTIFF files) are available to download at For more information about ARIA, visit: For more information about EOS, visit: **More map details and files:** **NOTE:** If you are loading the KMZ file in Google Earth Pro, to avoid slight color degradation, please make sure to uncheck the \"Compress\" option in the Preference > 3D View > Texture Colors (for Mac) or Tools > Options > 3D View > Texture Colors (for Windows). Google Earth may need to be restarted afterwards."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "NASA JPL-Caltech ARIA team; Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "locn_geometry": "ENVELOPE(-125.0, -66.96, 49.5, 25.0)",
+  "dcat_bbox": "ENVELOPE(-125.0, -66.96, 49.5, 25.0)",
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-usa-hurricane-ida-aug-2021\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/b9e14f25-1cf8-4c72-956f-ebb9c32a8343/resource/ef84c256-f9da-4b0f-818c-873803d4525d/download/eos_aria-sg_20210829_dpm_s1_usa_hurricane_ida_v1.0.zip\",\"label\":\"EOS_ARIA-SG_20210829_DPM_S1_USA_Hurricane_Ida_v1.0.zip (GeoTIFF)\"}]}"
+}

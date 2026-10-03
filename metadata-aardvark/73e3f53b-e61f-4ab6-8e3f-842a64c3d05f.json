@@ -1,0 +1,53 @@
+{
+  "id": "hdx-73e3f53b-e61f-4ab6-8e3f-842a64c3d05f",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:48:46Z",
+  "dct_title_s": "Philippines Typhoon Fung-Wong: Damage and Flood Proxy Maps, Nov 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Philippines Typhoon Fung-Wong: Damage and Flood Proxy Maps, Nov 2025 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these damage and flood proxy maps for Philippines Typhoon Fung-Wong (Nov 2025) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **EOS-RS Damage Proxy Map: Eastern Luzon, Philippines, Typhoon Fung-Wong, 11 Nov 2025, v0.9** - **EOS-RS Flood Proxy Map: Eastern Luzon, Philippines, Typhoon Fung-Wong, 11 Nov 2025, v0.9** - **EOS-RS Damage Proxy Map: Bicol and Eastern Visayas, Philippines, Typhoon Fung-Wong, 10 Nov 2025, v0.9** - **EOS-RS Damage Proxy Map: Bicol Region, Philippines, Typhoon Fung-Wong, 09 Nov 2025, v0.9** - **EOS-RS Flood Proxy Map: Bicol Region, Philippines, Typhoon Fung-Wong, 09 Nov 2025, v0.9** **More map details and files:** **Legal Disclaimer:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2025)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "locn_geometry": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dcat_bbox": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-philippines-typhoon-fung-wong-nov-2025\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/73e3f53b-e61f-4ab6-8e3f-842a64c3d05f/resource/3d44559a-4d8c-4946-91d8-c52460fbd858/download/eos-rs_20251111_dpm_s1_philippines_luzon_typhoon_fung-wong_v0.9.zip\",\"label\":\"EOS-RS_20251111_DPM_S1_Philippines_Luzon_Typhoon_Fung-Wong_v0.9.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/73e3f53b-e61f-4ab6-8e3f-842a64c3d05f/resource/4d3bb25a-03f6-4598-a40d-b52f09199272/download/eos-rs_20251111_fpm_s1_philippines_luzon_typhoon_fung-wong_v0.9.zip\",\"label\":\"EOS-RS_20251111_FPM_S1_Philippines_Luzon_Typhoon_Fung-Wong_v0.9.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/73e3f53b-e61f-4ab6-8e3f-842a64c3d05f/resource/29335581-aa87-4825-b82a-bebe788036ca/download/eos-rs_20251110_dpm_s1_philippines_bicol_and_eastern_visayas_typhoon_fung-wong_v0.9.zip\",\"label\":\"EOS-RS_20251110_DPM_S1_Philippines_Bicol_And_Eastern_Visayas_Typhoon_Fung-Wong_v0.9.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/73e3f53b-e61f-4ab6-8e3f-842a64c3d05f/resource/5da5eca6-ed25-4ed3-930c-511ba4387d49/download/eos-rs_20251109_dpm_s1_philippines_bicol_region_typhoon_fung-wong_v0.9.zip\",\"label\":\"EOS-RS_20251109_DPM_S1_Philippines_Bicol_Region_Typhoon_Fung-Wong_v0.9.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/73e3f53b-e61f-4ab6-8e3f-842a64c3d05f/resource/fdbc2c84-fea3-4b83-994b-c228e198b229/download/eos-rs_20251109_fpm_s1_philippines_bicol_region_typhoon_fung-wong_v0.9.zip\",\"label\":\"EOS-RS_20251109_FPM_S1_Philippines_Bicol_Region_Typhoon_Fung-Wong_v0.9.zip (GeoTIFF)\"}]}"
+}

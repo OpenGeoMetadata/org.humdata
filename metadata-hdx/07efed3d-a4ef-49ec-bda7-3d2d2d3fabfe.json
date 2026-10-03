@@ -1,0 +1,151 @@
+{
+  "archived": false,
+  "batch": "76836ac0-db1d-44b7-be89-c8e3354ada60",
+  "caveats": "Derived from synthetic aperture radar data acquired by the Copernicus Sentinel-1 satellites operated by the European Space Agency (ESA) before (15 May) and during (14 Jul) the event, and by the ALOS-2 satellite operated by the Japanese Aerospace Exploration Agency (JAXA) before (25 Mar) and during (15 Jul) the event.\n\nThese are preliminary maps derived from satellite radar and should be used as guidance only. Coloured pixels may include false positives, and their absence does not mean an absence of damage or flooding.",
+  "creator_user_id": "610cc9ec-1862-432e-abee-5af9ccac397b",
+  "data_update_frequency": "-2",
+  "dataset_date": "[2019-07-15T00:00:00 TO 2019-07-15T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "NASA JPL-Caltech ARIA team; Earth Observatory of Singapore",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "07efed3d-a4ef-49ec-bda7-3d2d2d3fabfe",
+  "is_requestdata_type": false,
+  "isopen": true,
+  "last_modified": "2026-10-02T09:18:57.057289",
+  "license_id": "cc-by",
+  "license_title": "Creative Commons Attribution International (CC BY)",
+  "license_url": "http://www.opendefinition.org/licenses/cc-by",
+  "maintainer": "610cc9ec-1862-432e-abee-5af9ccac397b",
+  "metadata_created": "2026-10-02T09:18:52.746667",
+  "metadata_modified": "2026-10-02T17:58:55.313393",
+  "methodology": "Other",
+  "methodology_other": "Change detection on synthetic aperture radar (SAR) satellite images acquired before and after the event. Damage Proxy Maps show significant changes in radar coherence and amplitude; Flood Proxy Maps show areas that changed to standing water. Maps are preliminary and checked against news reports and ground-level imagery where available.",
+  "name": "eos-rs-india-bangladesh-floods-jul-2019",
+  "notes": "# ARIA Flood Proxy Map: India, Bangladesh, 2019 Floods\n\nThis map shows areas that are likely flooded in northeast India and Bangladesh due to heavy rains brought by the monsoon season, shown by light blue pixels of 30 m (Copernicus Sentinel-1) and 25 m (ALOS-2) pixel size, and is a preliminary result. The map extents are indicated with red and yellow polygons. This map should be used as a guidance to identify areas that are likely flooded, and may be less reliable over urban and vegetated areas.\n\nDerived from synthetic aperture radar data acquired by the Copernicus Sentinel-1 satellites operated by the European Space Agency (ESA) before (15 May) and during (14 Jul) the event, and by the ALOS-2 satellite operated by the Japanese Aerospace Exploration Agency (JAXA) before (25 Mar) and during (15 Jul) the event. Analysed by the ARIA-SG team at the Earth Observatory of Singapore in collaboration with NASA/JPL-Caltech. For more information, please visit <https://www.earthobservatory.sg.>\n\n**More map details and files:** <https://sf.earthobservatory.sg/event/EOS_ARIA-SG_201907_India_Bangladesh_Floods>",
+  "num_resources": 1,
+  "num_tags": 6,
+  "organization": {
+    "id": "58064b08-71c1-4a9b-8ef3-be8300b94af7",
+    "name": "earth-observatory-of-singapore-remote-sensing-lab",
+    "title": "Earth Observatory of Singapore",
+    "type": "organization",
+    "description": "The Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) is a research lab at Nanyang Technological University (NTU), Singapore. It uses satellite remote sensing, mainly synthetic aperture radar (SAR), to map natural hazards and disasters. The lab produces Damage Proxy Maps (DPMs) and Flood Proxy Maps (FPMs) showing where damage or flooding has likely occurred. Its work focuses on Southeast Asia and the wider Asia-Pacific, and it also responds to major disasters worldwide.",
+    "image_url": "",
+    "created": "2026-10-01T16:40:31.070243",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "58064b08-71c1-4a9b-8ef3-be8300b94af7",
+  "package_creator": "rickyw",
+  "pageviews_last_14_days": 3,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Bangladesh\", \"India\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "India Bangladesh Floods: Flood Proxy Map, Jul 2019",
+  "total_res_downloads": 2,
+  "type": "dataset",
+  "updated_by_script": "EOS_SARFinder (2026-10-02T17:58:55.031737)",
+  "url": null,
+  "version": null,
+  "customviz": [
+    {
+      "url": "https://sf.earthobservatory.sg/event/EOS_ARIA-SG_201907_India_Bangladesh_Floods"
+    }
+  ],
+  "groups": [
+    {
+      "description": "test",
+      "display_name": "Bangladesh",
+      "id": "bgd",
+      "image_display_url": "",
+      "name": "bgd",
+      "title": "Bangladesh"
+    },
+    {
+      "description": "",
+      "display_name": "India",
+      "id": "ind",
+      "image_display_url": "",
+      "name": "ind",
+      "title": "India"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/07efed3d-a4ef-49ec-bda7-3d2d2d3fabfe/resource/5de1b805-88c8-43c7-b071-f1de75cd580a/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2026-10-02T09:18:52.754006",
+      "datastore_active": false,
+      "description": "ARIA Flood Proxy Map: India, Bangladesh, 2019 Floods\n\nZIP containing: GeoTIFF, KMZ, PNG, TXT.\n\nThis map shows areas that are likely flooded in northeast India and Bangladesh due to heavy rains brought by the monsoon season, shown by light blue pixels of 30 m (Copernicus Sentinel-1) and 25 m (ALOS-2) pixel size, and is a preliminary result. The map extents are indicated with red and yellow polygons. This map should be used as a guidance to identify areas that are likely flooded, and may be less reliable over urban and vegetated areas.",
+      "download_url": "https://data.humdata.org/dataset/07efed3d-a4ef-49ec-bda7-3d2d2d3fabfe/resource/5de1b805-88c8-43c7-b071-f1de75cd580a/download/eos_aria-sg_20190715_fpm_india_bangladesh_floods_v1.0.zip",
+      "format": "GeoTIFF",
+      "hash": "2aa99686",
+      "hdx_rel_url": "/dataset/07efed3d-a4ef-49ec-bda7-3d2d2d3fabfe/resource/5de1b805-88c8-43c7-b071-f1de75cd580a/download/eos_aria-sg_20190715_fpm_india_bangladesh_floods_v1.0.zip",
+      "id": "5de1b805-88c8-43c7-b071-f1de75cd580a",
+      "last_modified": "2026-10-02T09:18:57.057289",
+      "metadata_modified": "2026-10-02T17:58:55.342208",
+      "microdata": false,
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "EOS_ARIA-SG_20190715_FPM_India_Bangladesh_Floods_v1.0.zip",
+      "package_id": "07efed3d-a4ef-49ec-bda7-3d2d2d3fabfe",
+      "position": 0,
+      "resource_type": "file.upload",
+      "size": 31057407,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/07efed3d-a4ef-49ec-bda7-3d2d2d3fabfe/resource/5de1b805-88c8-43c7-b071-f1de75cd580a/download/eos_aria-sg_20190715_fpm_india_bangladesh_floods_v1.0.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "affected area",
+      "id": "25d0e6cc-a02c-4c91-b358-7d4bb1a42af0",
+      "name": "affected area",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "climate hazards",
+      "id": "ba8322b6-72e7-4475-b015-72d200bf5957",
+      "name": "climate hazards",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "flooding",
+      "id": "532eacf2-7b8c-4dd5-baf7-c25720cadb38",
+      "name": "flooding",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "hazards and risk",
+      "id": "7173a61f-84fd-45ca-856a-3aa2b0372869",
+      "name": "hazards and risk",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "natural disasters",
+      "id": "48520851-7df8-418b-aa00-7fa276d7fd88",
+      "name": "natural disasters",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

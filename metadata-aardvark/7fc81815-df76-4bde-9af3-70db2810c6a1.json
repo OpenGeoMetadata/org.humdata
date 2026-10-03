@@ -1,0 +1,51 @@
+{
+  "id": "hdx-7fc81815-df76-4bde-9af3-70db2810c6a1",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:53:54Z",
+  "dct_title_s": "Libya Floods: Damage and Flood Proxy Maps, Sep 2023",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Libya Floods: Damage and Flood Proxy Maps, Sep 2023 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these damage and flood proxy maps for Libya Floods (Sep 2023) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **EOS-RS Damage Proxy Map: Libya, Floods, 12 Sep 2023, v0.9** - **EOS-RS Damage Proxy Map: Libya, Floods, 12 Sep 2023, v0.9** - **EOS-RS Flood Proxy Map: Libya, Floods, 12 Sep 2023, v0.5** **More map details and files:** **More map details and files:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2023), Validated with FirstLook Imagery Â© 2023 Maxar"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Libya"
+  ],
+  "locn_geometry": "ENVELOPE(9.32, 25.16, 33.14, 19.58)",
+  "dcat_bbox": "ENVELOPE(9.32, 25.16, 33.14, 19.58)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-libya-floods-sep-2023\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/7fc81815-df76-4bde-9af3-70db2810c6a1/resource/166132dd-fc75-45a5-8c26-8b01979f1b10/download/eos-rs_20230912_dpm_s1_libya_floods_v0.9_cvd.zip\",\"label\":\"EOS-RS_20230912_DPM_S1_Libya_Floods_v0.9_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/7fc81815-df76-4bde-9af3-70db2810c6a1/resource/6edb2c2c-a160-41e5-bba4-4c61f2cb1031/download/eos-rs_20230912_dpm_s1_libya_floods_v0.9.zip\",\"label\":\"EOS-RS_20230912_DPM_S1_Libya_Floods_v0.9.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/7fc81815-df76-4bde-9af3-70db2810c6a1/resource/78979b1f-2c18-4170-be78-05a3acf33512/download/eos-rs_20230912_fpm_s1_libya_floods_v0.5.zip\",\"label\":\"EOS-RS_20230912_FPM_S1_Libya_Floods_v0.5.zip (GeoTIFF)\"}]}"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "hdx-d1a80344-6b72-4485-a66e-dd59fd9ac9c5",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:51:10Z",
+  "dct_title_s": "China Tibet Earthquake: Damage Proxy Map, Jan 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# EOS-RS Damage Proxy Map: Tibet, China, Earthquake, 13 Jan 2025, v0.9 The Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) created this preliminary Damage Proxy Map (DPM) depicting areas that are likely damaged in Tibet, China, due to a Mw7.1 earthquake on 7 Jan 2025. This map was derived from synthetic aperture radar (SAR) images acquired by the Copernicus Sentinel-1 satellite operated by the European Space Agency (ESA) before (3 Sep 2024 to 1 Jan 2025) and after (13 Jan 2025) the event. The map covers an area indicated by the white polygon. Damage is shown by colored pixels of 30m in size, where yellow to red indicates increasingly significant ground surface change before and after the event. Preliminary validation was conducted using news reports and ground-level imagery and videos in selected areas. This map should be used as a guidance to identify damaged areas, and may be less reliable over vegetated or mountainous areas. Scattered pixels over vegetated or mountainous areas may be false positives, and a lack of colored pixels over such areas may not mean no damage. The product contains modified Copernicus Sentinel data (2024-2025), processed by ESA and analyzed by the Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS). **More map details and files:** **More map details and files:** **Legal Disclaimer:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2024-2025)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "locn_geometry": "ENVELOPE(73.68, 135.03, 53.46, 18.2)",
+  "dcat_bbox": "ENVELOPE(73.68, 135.03, 53.46, 18.2)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-china-tibet-earthquake-jan-2025\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/d1a80344-6b72-4485-a66e-dd59fd9ac9c5/resource/ca6d2e2f-c377-428b-99a5-3a62ab588b7d/download/eos-rs_20250113_dpm_s1_china_tibet_earthquake_v0.9.zip\",\"label\":\"EOS-RS_20250113_DPM_S1_China_Tibet_Earthquake_v0.9.zip (GeoTIFF)\"}]}"
+}

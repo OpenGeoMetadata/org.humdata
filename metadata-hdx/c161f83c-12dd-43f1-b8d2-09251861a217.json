@@ -1,0 +1,169 @@
+{
+  "archived": false,
+  "batch": "76836ac0-db1d-44b7-be89-c8e3354ada60",
+  "caveats": "This product contains modified Copernicus Sentinel data (2021), processed by ESA and analyzed by the Earth Observatory of Singapore.\n\nThese are preliminary maps derived from satellite radar and should be used as guidance only. Coloured pixels may include false positives, and their absence does not mean an absence of damage or flooding.",
+  "creator_user_id": "610cc9ec-1862-432e-abee-5af9ccac397b",
+  "data_update_frequency": "-2",
+  "dataset_date": "[2021-04-01T00:00:00 TO 2021-04-30T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "NASA JPL-Caltech ARIA team; Earth Observatory of Singapore",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "c161f83c-12dd-43f1-b8d2-09251861a217",
+  "is_requestdata_type": false,
+  "isopen": true,
+  "last_modified": "2026-10-02T10:00:25.151108",
+  "license_id": "cc-by",
+  "license_title": "Creative Commons Attribution International (CC BY)",
+  "license_url": "http://www.opendefinition.org/licenses/cc-by",
+  "maintainer": "610cc9ec-1862-432e-abee-5af9ccac397b",
+  "metadata_created": "2026-10-02T10:00:15.011283",
+  "metadata_modified": "2026-10-02T17:57:02.228065",
+  "methodology": "Other",
+  "methodology_other": "Change detection on synthetic aperture radar (SAR) satellite images acquired before and after the event. Damage Proxy Maps show significant changes in radar coherence and amplitude; Flood Proxy Maps show areas that changed to standing water. Maps are preliminary and checked against news reports and ground-level imagery where available.",
+  "name": "eos-rs-indonesia-cyclone-seroja-apr-2021",
+  "notes": "# Indonesia Cyclone Seroja: Damage Proxy Maps, Apr 2021\n\nThe Advanced Rapid Imaging and Analysis (ARIA) team at NASA's Jet Propulsion Laboratory and Caltech, in collaboration with the Earth Observatory of Singapore (EOS), produced these damage proxy maps for Indonesia Cyclone Seroja (Apr 2021) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it.\n\n## Maps in this dataset\n\n- **Peta Kerusakan ARIA-SG: Siklon Seroja, Indonesia, 6 April 2021, v0.8**\n- **Peta Kerusakan ARIA-SG: Siklon Seroja, Indonesia, 6 April 2021, v0.8**\n\n**More map details and files:** <https://sf.earthobservatory.sg/event/EOS_ARIA-SG_202104_Indonesia_Cyclone_Seroja>",
+  "num_resources": 2,
+  "num_tags": 6,
+  "organization": {
+    "id": "58064b08-71c1-4a9b-8ef3-be8300b94af7",
+    "name": "earth-observatory-of-singapore-remote-sensing-lab",
+    "title": "Earth Observatory of Singapore",
+    "type": "organization",
+    "description": "The Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) is a research lab at Nanyang Technological University (NTU), Singapore. It uses satellite remote sensing, mainly synthetic aperture radar (SAR), to map natural hazards and disasters. The lab produces Damage Proxy Maps (DPMs) and Flood Proxy Maps (FPMs) showing where damage or flooding has likely occurred. Its work focuses on Southeast Asia and the wider Asia-Pacific, and it also responds to major disasters worldwide.",
+    "image_url": "",
+    "created": "2026-10-01T16:40:31.070243",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "58064b08-71c1-4a9b-8ef3-be8300b94af7",
+  "package_creator": "rickyw",
+  "pageviews_last_14_days": 2,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Indonesia\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Indonesia Cyclone Seroja: Damage Proxy Maps, Apr 2021",
+  "total_res_downloads": 4,
+  "type": "dataset",
+  "updated_by_script": "EOS_SARFinder (2026-10-02T17:57:01.870190)",
+  "url": null,
+  "version": null,
+  "customviz": [
+    {
+      "url": "https://sf.earthobservatory.sg/event/EOS_ARIA-SG_202104_Indonesia_Cyclone_Seroja"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Indonesia",
+      "id": "idn",
+      "image_display_url": "",
+      "name": "idn",
+      "title": "Indonesia"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/c161f83c-12dd-43f1-b8d2-09251861a217/resource/bb45a418-b659-4391-bdaf-7e0664ef1aaf/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2026-10-02T10:00:15.026704",
+      "datastore_active": false,
+      "description": "Peta Kerusakan ARIA-SG: Siklon Seroja, Indonesia, 6 April 2021, v0.8\n\nZIP containing: GeoTIFF, KMZ, PNG, TXT.\n\nPeta ini berdasarkan hasil analisis citra satelit tanggal 7 Desember 2020 dan 6 April 2021. Citra satelit diambil oleh satelit Copernicus Sentinel-1 yang dioperasikan oleh Badan Antariksa Eropa. Analisis dilakukan oleh tim ARIA-SG di Earth Observatory of Singapore (EOS) bekerja sama pengan NASA-JPL dan Caltech. Prosesing data dilakukan menggunakan AWS Open Dataset of Copernicus Sentinel-1 untuk daerah Asia (https://registry.opendata.aws/sentinel1-slc-seasia-pds). Untuk informasi lebih detail, silahkan kunjungi http://ariasg-products.earthobservatory.sg/EOS_ARIA-SG_202104_Indonesia_Cyclone_Seroja",
+      "download_url": "https://data.humdata.org/dataset/c161f83c-12dd-43f1-b8d2-09251861a217/resource/bb45a418-b659-4391-bdaf-7e0664ef1aaf/download/eos_aria-sg_202104_dpm_indonesia_cyclone_seroja_v0.8_cvd.zip",
+      "format": "GeoTIFF",
+      "hash": "8cb97ffa",
+      "hdx_rel_url": "/dataset/c161f83c-12dd-43f1-b8d2-09251861a217/resource/bb45a418-b659-4391-bdaf-7e0664ef1aaf/download/eos_aria-sg_202104_dpm_indonesia_cyclone_seroja_v0.8_cvd.zip",
+      "id": "bb45a418-b659-4391-bdaf-7e0664ef1aaf",
+      "last_modified": "2026-10-02T10:00:18.155836",
+      "metadata_modified": "2026-10-02T17:57:02.270527",
+      "microdata": false,
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "EOS_ARIA-SG_202104_DPM_Indonesia_Cyclone_Seroja_v0.8_cvd.zip",
+      "package_id": "c161f83c-12dd-43f1-b8d2-09251861a217",
+      "position": 0,
+      "resource_type": "file.upload",
+      "size": 4487003,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/c161f83c-12dd-43f1-b8d2-09251861a217/resource/bb45a418-b659-4391-bdaf-7e0664ef1aaf/download/eos_aria-sg_202104_dpm_indonesia_cyclone_seroja_v0.8_cvd.zip",
+      "url_type": "upload"
+    },
+    {
+      "alt_url": "https://data.humdata.org/dataset/c161f83c-12dd-43f1-b8d2-09251861a217/resource/bb7e9830-3274-421f-b5c5-7bbadd293351/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2026-10-02T10:00:25.310437",
+      "datastore_active": false,
+      "description": "Peta Kerusakan ARIA-SG: Siklon Seroja, Indonesia, 6 April 2021, v0.8\n\nZIP containing: GeoTIFF, KMZ, PNG, TXT.\n\nPeta ini berdasarkan hasil analisis citra satelit tanggal 7 Desember 2020 dan 6 April 2021. Citra satelit diambil oleh satelit Copernicus Sentinel-1 yang dioperasikan oleh Badan Antariksa Eropa. Analisis dilakukan oleh tim ARIA-SG di Earth Observatory of Singapore (EOS) bekerja sama pengan NASA-JPL dan Caltech. Prosesing data dilakukan menggunakan AWS Open Dataset of Copernicus Sentinel-1 untuk daerah Asia (https://registry.opendata.aws/sentinel1-slc-seasia-pds). Untuk informasi lebih detail, silahkan kunjungi http://ariasg-products.earthobservatory.sg/EOS_ARIA-SG_202104_Indonesia_Cyclone_Seroja",
+      "download_url": "https://data.humdata.org/dataset/c161f83c-12dd-43f1-b8d2-09251861a217/resource/bb7e9830-3274-421f-b5c5-7bbadd293351/download/eos_aria-sg_202104_dpm_indonesia_cyclone_seroja_v0.8.zip",
+      "format": "GeoTIFF",
+      "hash": "d54aa506",
+      "hdx_rel_url": "/dataset/c161f83c-12dd-43f1-b8d2-09251861a217/resource/bb7e9830-3274-421f-b5c5-7bbadd293351/download/eos_aria-sg_202104_dpm_indonesia_cyclone_seroja_v0.8.zip",
+      "id": "bb7e9830-3274-421f-b5c5-7bbadd293351",
+      "last_modified": "2026-10-02T10:00:25.151108",
+      "metadata_modified": "2026-10-02T17:57:02.270701",
+      "microdata": false,
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "EOS_ARIA-SG_202104_DPM_Indonesia_Cyclone_Seroja_v0.8.zip",
+      "package_id": "c161f83c-12dd-43f1-b8d2-09251861a217",
+      "position": 1,
+      "resource_type": "file.upload",
+      "size": 7917628,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/c161f83c-12dd-43f1-b8d2-09251861a217/resource/bb7e9830-3274-421f-b5c5-7bbadd293351/download/eos_aria-sg_202104_dpm_indonesia_cyclone_seroja_v0.8.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "climate hazards",
+      "id": "ba8322b6-72e7-4475-b015-72d200bf5957",
+      "name": "climate hazards",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "cyclones-hurricanes-typhoons",
+      "id": "326e097b-96f2-46e4-8ef4-0a8d4401a646",
+      "name": "cyclones-hurricanes-typhoons",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "damage assessment",
+      "id": "3c5bab40-4c0f-40bc-a2dd-12cd7f945037",
+      "name": "damage assessment",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "hazards and risk",
+      "id": "7173a61f-84fd-45ca-856a-3aa2b0372869",
+      "name": "hazards and risk",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "natural disasters",
+      "id": "48520851-7df8-418b-aa00-7fa276d7fd88",
+      "name": "natural disasters",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

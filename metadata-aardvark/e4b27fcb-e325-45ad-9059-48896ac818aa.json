@@ -1,0 +1,47 @@
+{
+  "id": "hdx-e4b27fcb-e325-45ad-9059-48896ac818aa",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:48:05Z",
+  "dct_title_s": "Kyrgyzstan Landslide Jalal Abad: Damage Proxy Map, Jun 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# EOS-RS Damage Proxy Map: Jalal-Abad, Kyrgyzstan, Landslides, 06 Jun 2026, v0.8 The Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) created this preliminary Damage Proxy Map (DPM) depicting areas that are likely damaged in Jalal-Abad, Kyrgyzstan, due to landslides. This map was derived from synthetic aperture radar (SAR) images acquired by the Copernicus Sentinel-1 satellite operated by the European Space Agency (ESA) before (18 Feb 2026 to 31 May 2026) and during (06 Jun 2026) the event. The map covers an area indicated by the white polygon. Damage is shown by colored pixels of 30m in size, where yellow to red indicates increasingly significant ground surface change before and after the event. Preliminary validation was conducted using news reports. This map should be used as a guidance to identify damaged areas, and may be less reliable over vegetated or mountainous areas. Scattered pixels over vegetated or mountainous areas may be false positives, and a lack of colored pixels over such areas may not mean no damage. The product contains modified Copernicus Sentinel data (2026), processed by ESA and analyzed by the Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS). **More map details and files:** **Legal Disclaimer:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2026)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Kyrgyzstan"
+  ],
+  "locn_geometry": "ENVELOPE(69.46, 80.26, 43.3, 39.28)",
+  "dcat_bbox": "ENVELOPE(69.46, 80.26, 43.3, 39.28)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-kgz-ls-jalal-abad-jun-2026\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e4b27fcb-e325-45ad-9059-48896ac818aa/resource/24e3d35e-dece-4383-9c42-8395814c25f9/download/eosrs_2026_002_kgz_ls_20260606_dpm_s1_jalal_abad_v0.8.zip\",\"label\":\"EOSRS_2026_002_KGZ_LS_20260606_DPM_S1_Jalal_Abad_v0.8.zip (GeoTIFF)\"}]}"
+}

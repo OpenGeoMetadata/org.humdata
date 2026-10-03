@@ -1,0 +1,49 @@
+{
+  "id": "hdx-0f02cbfc-160f-482d-95cc-5e742e089b7c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:57:11Z",
+  "dct_title_s": "Philippines Typhoon Goni: Damage Proxy Maps, Nov 2020",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Philippines Typhoon Goni: Damage Proxy Maps, Nov 2020 The Advanced Rapid Imaging and Analysis (ARIA) team at NASA's Jet Propulsion Laboratory and Caltech, in collaboration with the Earth Observatory of Singapore (EOS), produced these damage proxy maps for Philippines Typhoon Goni (Nov 2020) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **ARIA-SG Damage Proxy Map: Philippines, Typhoon Goni, 1 Nov 2020, v0.8** - **ARIA-SG Damage Proxy Map: Philippines, Typhoon Goni, 1 Nov 2020, v0.4 ** - **ARIA-SG Damage Proxy Map: Philippines, Typhoon Goni, 1 Nov 2020, v0.4 ** (superseded) **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "NASA JPL-Caltech ARIA team; Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "locn_geometry": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dcat_bbox": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-philippines-typhoon-goni-nov-2020\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/0f02cbfc-160f-482d-95cc-5e742e089b7c/resource/fb1c427c-c78b-466b-8398-2f6486341ea9/download/eos_aria-sg_202011_dpm_philippines_typhoon_goni_v0.8.zip\",\"label\":\"EOS_ARIA-SG_202011_DPM_Philippines_Typhoon_Goni_v0.8.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/0f02cbfc-160f-482d-95cc-5e742e089b7c/resource/461d6de8-02cf-48ac-90ff-1b3f3a253c00/download/eos_aria-sg_202011_dpm_philippines_typhoon_goni_v0.4_cvd.zip\",\"label\":\"EOS_ARIA-SG_202011_DPM_Philippines_Typhoon_Goni_v0.4_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/0f02cbfc-160f-482d-95cc-5e742e089b7c/resource/ee441b0c-99c4-41f4-81ea-47d15f261767/download/eos_aria-sg_202011_dpm_philippines_typhoon_goni_v0.4.zip\",\"label\":\"EOS_ARIA-SG_202011_DPM_Philippines_Typhoon_Goni_v0.4.zip (GeoTIFF)\"}]}"
+}

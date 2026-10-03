@@ -1,0 +1,136 @@
+{
+  "archived": false,
+  "batch": "76836ac0-db1d-44b7-be89-c8e3354ada60",
+  "caveats": "The map is derived from synthetic aperture radar (SAR) images from the ALOS-2 satellite, operated by Japan Aerospace Exploration Agency (JAXA).\n\nThe DPM was created by the NASA-JPL/Caltech ARIA team, and the ALOS-2 data were provided by JAXA.\n\nThese are preliminary maps derived from satellite radar and should be used as guidance only. Coloured pixels may include false positives, and their absence does not mean an absence of damage or flooding.",
+  "creator_user_id": "610cc9ec-1862-432e-abee-5af9ccac397b",
+  "data_update_frequency": "-2",
+  "dataset_date": "[2018-10-02T00:00:00 TO 2018-10-02T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "NASA JPL-Caltech ARIA team; Earth Observatory of Singapore",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "490c59cc-8705-4132-88ad-42e24bfe6979",
+  "is_requestdata_type": false,
+  "isopen": true,
+  "last_modified": "2026-10-02T09:16:53.561007",
+  "license_id": "cc-by",
+  "license_title": "Creative Commons Attribution International (CC BY)",
+  "license_url": "http://www.opendefinition.org/licenses/cc-by",
+  "maintainer": "610cc9ec-1862-432e-abee-5af9ccac397b",
+  "metadata_created": "2026-10-02T09:16:50.129788",
+  "metadata_modified": "2026-10-02T17:58:58.625068",
+  "methodology": "Other",
+  "methodology_other": "Change detection on synthetic aperture radar (SAR) satellite images acquired before and after the event. Damage Proxy Maps show significant changes in radar coherence and amplitude; Flood Proxy Maps show areas that changed to standing water. Maps are preliminary and checked against news reports and ground-level imagery where available.",
+  "name": "eos-rs-palu-earthquake-sep-2018",
+  "notes": "# Palu - ARIA Damage Proxy Map v0.7\n\nThe Advanced Rapid Imaging and Analysis (ARIA) team at NASA's Jet Propulsion Laboratory in Pasadena, California, and Caltech, also in Pasadena, created this Damage Proxy Map (DPM) depicting areas in Central Sulawesi, Indonesia, including the city of Palu, that are likely damaged (shown by red and yellow pixels) as a result of the M7.5 September 28, 2018 earthquake. The map is derived from synthetic aperture radar (SAR) images from the ALOS-2 satellite, operated by Japan Aerospace Exploration Agency (JAXA). The images were taken before (August 8, 2018) and after (October 3, 2018) the earthquake.\n\nThe map covers an area of 67 by 70 kilometers, shown by the large red polygon. Each pixel measures about 30 meters across. The color variation from yellow to red indicates increasingly more significant ground surface change. Preliminary validation was done in collaboration with the Earth Observatory of Singapore by comparing with local media information and photos. This damage proxy map should be used as guidance to identify damaged areas, and may be less reliable over vegetated areas. For example, the scattered single colored pixels over vegetated areas may be false positives, and the lack of colored pixels over vegetated areas does not necessarily mean no damage.\n\nThe DPM was created by the NASA-JPL/Caltech ARIA team, and the ALOS-2 data were provided by JAXA. The Earth Observatory of Singapore coordinated with the Sentinel Asia to timely task the ALOS-2 satellite. The algorithm development was carried out at JPL under a contract with NASA.\n\nFor more information about ARIA, visit: <http://aria.jpl.nasa.gov>\n\n**More map details and files:** <https://sf.earthobservatory.sg/event/EOS_ARIA-SG_201809_Palu_Earthquake>",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "id": "58064b08-71c1-4a9b-8ef3-be8300b94af7",
+    "name": "earth-observatory-of-singapore-remote-sensing-lab",
+    "title": "Earth Observatory of Singapore",
+    "type": "organization",
+    "description": "The Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) is a research lab at Nanyang Technological University (NTU), Singapore. It uses satellite remote sensing, mainly synthetic aperture radar (SAR), to map natural hazards and disasters. The lab produces Damage Proxy Maps (DPMs) and Flood Proxy Maps (FPMs) showing where damage or flooding has likely occurred. Its work focuses on Southeast Asia and the wider Asia-Pacific, and it also responds to major disasters worldwide.",
+    "image_url": "",
+    "created": "2026-10-01T16:40:31.070243",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "58064b08-71c1-4a9b-8ef3-be8300b94af7",
+  "package_creator": "rickyw",
+  "pageviews_last_14_days": 12,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Indonesia\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Palu Earthquake: Damage Proxy Map, Sep 2018",
+  "total_res_downloads": 2,
+  "type": "dataset",
+  "updated_by_script": "EOS_SARFinder (2026-10-02T17:58:58.399758)",
+  "url": null,
+  "version": null,
+  "customviz": [
+    {
+      "url": "https://sf.earthobservatory.sg/event/EOS_ARIA-SG_201809_Palu_Earthquake"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Indonesia",
+      "id": "idn",
+      "image_display_url": "",
+      "name": "idn",
+      "title": "Indonesia"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/490c59cc-8705-4132-88ad-42e24bfe6979/resource/1235a63e-e8c8-44d3-8e0d-214857aff76e/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2026-10-02T09:16:50.136581",
+      "datastore_active": false,
+      "description": "Palu - ARIA Damage Proxy Map v0.7\n\nZIP containing: GeoTIFF, KMZ, PNG, TXT.\n\nThe Advanced Rapid Imaging and Analysis (ARIA) team at NASA's Jet Propulsion Laboratory in Pasadena, California, and Caltech, also in Pasadena, created this Damage Proxy Map (DPM) depicting areas in Central Sulawesi, Indonesia, including the city of Palu, that are likely damaged (shown by red and yellow pixels) as a result of the M7.5 September 28, 2018 earthquake. The map is derived from synthetic aperture radar (SAR) images from the ALOS-2 satellite, operated by Japan Aerospace Exploration Agency (JAXA). The images were taken before (August 8, 2018) and after (October 3, 2018) the earthquake.",
+      "download_url": "https://data.humdata.org/dataset/490c59cc-8705-4132-88ad-42e24bfe6979/resource/1235a63e-e8c8-44d3-8e0d-214857aff76e/download/eos_aria-sg_20181002_dpm_a2_indonesia_palu_earthquake_v0.7.zip",
+      "format": "GeoTIFF",
+      "hash": "19045e95",
+      "hdx_rel_url": "/dataset/490c59cc-8705-4132-88ad-42e24bfe6979/resource/1235a63e-e8c8-44d3-8e0d-214857aff76e/download/eos_aria-sg_20181002_dpm_a2_indonesia_palu_earthquake_v0.7.zip",
+      "id": "1235a63e-e8c8-44d3-8e0d-214857aff76e",
+      "last_modified": "2026-10-02T09:16:53.561007",
+      "metadata_modified": "2026-10-02T17:58:58.638836",
+      "microdata": false,
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "EOS_ARIA-SG_20181002_DPM_A2_Indonesia_Palu_Earthquake_v0.7.zip",
+      "package_id": "490c59cc-8705-4132-88ad-42e24bfe6979",
+      "position": 0,
+      "resource_type": "file.upload",
+      "size": 18443284,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/490c59cc-8705-4132-88ad-42e24bfe6979/resource/1235a63e-e8c8-44d3-8e0d-214857aff76e/download/eos_aria-sg_20181002_dpm_a2_indonesia_palu_earthquake_v0.7.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "damage assessment",
+      "id": "3c5bab40-4c0f-40bc-a2dd-12cd7f945037",
+      "name": "damage assessment",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "earthquake-tsunami",
+      "id": "ec3e650b-06d4-410d-915f-213d6156b1b6",
+      "name": "earthquake-tsunami",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "hazards and risk",
+      "id": "7173a61f-84fd-45ca-856a-3aa2b0372869",
+      "name": "hazards and risk",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "natural disasters",
+      "id": "48520851-7df8-418b-aa00-7fa276d7fd88",
+      "name": "natural disasters",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

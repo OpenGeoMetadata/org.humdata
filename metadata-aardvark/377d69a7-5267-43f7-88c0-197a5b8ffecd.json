@@ -1,0 +1,51 @@
+{
+  "id": "hdx-377d69a7-5267-43f7-88c0-197a5b8ffecd",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:51:48Z",
+  "dct_title_s": "Philippines Typhoon Krathon Floods: Flood Proxy Map, Oct 2024",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# EOS-RS Flood Proxy Map: Ilocos Norte, Philippines, Typhoon Krathon Floods, 4 Oct 2024, v0.9 The Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) created this preliminary Flood Proxy Map (FPM) depicting areas that are likely flooded in Ilocos Norte, Philippines, due to heavy rainfall from Typhoon Krathon. This map was derived from synthetic aperture radar (SAR) images acquired by the Copernicus Sentinel-1 satellite operated by the European Space Agency (ESA) before (13 Nov 2023 to 29 Apr 2024) and after (2 Oct 2024) the event. The map covers an area indicated by the white polygon. The preliminary map shows areas which are likely flooded (shown by light blue pixels of approximately 30m in size) due to the heavy rainfall from Typhoon Krathon. Preliminary validation was conducted using news reports and ground-level videos and imagery in selected areas. This map should be used as a guide to identify areas that are likely flooded, and may be less reliable over urban and vegetated areas. This product contains modified Copernicus Sentinel data (2023-2024), processed by ESA and analyzed by the Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS). **More map details and files:** **More map details and files:** **Legal Disclaimer:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2023-2024)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "locn_geometry": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dcat_bbox": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-philippines-typhoon-krathon-floods-oct-2024\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/377d69a7-5267-43f7-88c0-197a5b8ffecd/resource/500ae6b4-39ed-4d2a-a570-16a9226a6ad9/download/eos-rs_20241002_fpm_s1_philippines_typhoon_krathon_floods_v0.9.zip\",\"label\":\"EOS-RS_20241002_FPM_S1_Philippines_Typhoon_Krathon_Floods_v0.9.zip (GeoTIFF)\"}]}"
+}

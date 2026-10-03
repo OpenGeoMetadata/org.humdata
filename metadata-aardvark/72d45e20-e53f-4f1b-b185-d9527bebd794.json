@@ -1,0 +1,47 @@
+{
+  "id": "hdx-72d45e20-e53f-4f1b-b185-d9527bebd794",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:48:53Z",
+  "dct_title_s": "Northern Afghanistan Earthquakes: Damage Proxy Maps, Nov 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Northern Afghanistan Earthquakes: Damage Proxy Maps, Nov 2025 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these damage proxy maps for Northern Afghanistan Earthquakes (Nov 2025) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **EOS-RS Damage Proxy Map: Samangan Province, Afghanistan, Earthquakes, 05 Nov 2025, v0.9 ** - **EOS-RS Damage Proxy Map: Northern Afghanistan, Earthquakes, 04 Nov 2025, v0.9 ** **More map details and files:** **More map details and files:** leaflet/EOS-RS_202511_Northern_Afghanistan_Earthquakes **Legal Disclaimer:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2025)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Afghanistan"
+  ],
+  "locn_geometry": "ENVELOPE(60.53, 75.16, 38.49, 29.32)",
+  "dcat_bbox": "ENVELOPE(60.53, 75.16, 38.49, 29.32)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-northern-afghanistan-earthquakes-nov-2025\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/72d45e20-e53f-4f1b-b185-d9527bebd794/resource/020bfcc4-18be-4816-a4b7-ac1fa1faf43d/download/eos-rs_20251105_dpm_s1_samangan_province_afghanistan_earthquakes_v0.9.zip\",\"label\":\"EOS-RS_20251105_DPM_S1_Samangan_Province_Afghanistan_Earthquakes_v0.9.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/72d45e20-e53f-4f1b-b185-d9527bebd794/resource/1905832c-6f28-495e-8c8a-114ef3766349/download/eos-rs_20251104_dpm_s1_northern_afghanistan_earthquakes_v0.9.zip\",\"label\":\"EOS-RS_20251104_DPM_S1_Northern_Afghanistan_Earthquakes_v0.9.zip (GeoTIFF)\"}]}"
+}

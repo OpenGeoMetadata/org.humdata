@@ -1,0 +1,50 @@
+{
+  "id": "hdx-505f63d6-6b58-4b4c-b573-aefa61c02d28",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:54:05Z",
+  "dct_title_s": "Dominican Republic Floods: Flood Proxy Map, Aug 2023",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# EOS-RS Flood Proxy Map: Dominican Republic, Floods, 26 Aug 2023, v0.4 The Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) created this preliminary Flood Proxy Map (FPM) depicting areas that are likely flooded in the Dominican Republic and Haiti due to the tropical storm Franklin. This map was derived from synthetic aperture radar (SAR) images acquired by the Copernicus Sentinel-1 satellite operated by the European Space Agency (ESA) before (14 Aug 2023) and during (26 Aug 2023) the event. Â The map covers an area indicated by the large white polygon. Each light blue pixel measures about 30 meters across. Preliminary validation was done in selected areas using optical imagery and news reports. This flood proxy map should be used as a guide to identify areas that are likely flooded, and is less reliable over urban and vegetated areas. Â The product contains modified Copernicus Sentinel data (2023), processed by ESA and analyzed by the Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), using the Advanced Rapid Imaging and Analysis (ARIA) system originally developed at NASA's Jet Propulsion Laboratory, California Institute of Technology, and modified at EOS-RS. Â **More map details and files:** Â **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Advanced Rapid Imaging and Analysis (ARIA), NASA-JPL/Caltech, Contains modified Copernicus Sentinel data (2023) **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Dominican Republic",
+    "Haiti"
+  ],
+  "locn_geometry": "ENVELOPE(-74.46, -68.32, 19.92, 17.6)",
+  "dcat_bbox": "ENVELOPE(-74.46, -68.32, 19.92, 17.6)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-dominican-republic-floods-aug-2023\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/505f63d6-6b58-4b4c-b573-aefa61c02d28/resource/ca089251-21f0-47d7-9ec2-bbb7d973b539/download/eos-rs_20230826_fpm_s1-_dominican_republic_floods_v0.4.zip\",\"label\":\"EOS-RS_20230826_FPM_S1 _Dominican_Republic_Floods_v0.4.zip (GeoTIFF)\"}]}"
+}

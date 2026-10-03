@@ -1,0 +1,49 @@
+{
+  "id": "hdx-9487d3a8-71f5-4232-8834-31fcca2f4710",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:57:43Z",
+  "dct_title_s": "Vanuatu Cyclone Harold: Damage Proxy Maps, Apr 2020",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Vanuatu Cyclone Harold: Damage Proxy Maps, Apr 2020 The Advanced Rapid Imaging and Analysis (ARIA) team at NASA's Jet Propulsion Laboratory and Caltech, in collaboration with the Earth Observatory of Singapore (EOS), produced these damage proxy maps for Vanuatu Cyclone Harold (Apr 2020) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **ARIA-SG Damage Proxy Map: Vanuatu, Cyclone Harold, 10 Apr 2020, v0.1** - **ARIA-SG Damage Proxy Map: Vanuatu, Cyclone Harold, 10 Apr 2020, v0.1** **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "NASA JPL-Caltech ARIA team; Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Vanuatu"
+  ],
+  "locn_geometry": "ENVELOPE(166.63, 167.84, -14.63, -16.6)",
+  "dcat_bbox": "ENVELOPE(166.63, 167.84, -14.63, -16.6)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-vanuatu-cyclone-harold-apr-2020\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/9487d3a8-71f5-4232-8834-31fcca2f4710/resource/f3af8b5a-5f64-4b68-b15c-f4b3beb326ef/download/eos_aria-sg_20200410_dpm_vanuatu_harold_v0.1_cvd.zip\",\"label\":\"EOS_ARIA-SG_20200410_DPM_Vanuatu_Harold_v0.1_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/9487d3a8-71f5-4232-8834-31fcca2f4710/resource/c09e014a-fd98-4486-8d85-4d4a584c1633/download/eos_aria-sg_20200410_dpm_vanuatu_harold_v0.1.zip\",\"label\":\"EOS_ARIA-SG_20200410_DPM_Vanuatu_Harold_v0.1.zip (GeoTIFF)\"}]}"
+}

@@ -1,0 +1,143 @@
+{
+  "archived": false,
+  "batch": "76836ac0-db1d-44b7-be89-c8e3354ada60",
+  "caveats": "This product contains modified Copernicus Sentinel data (2026), processed by ESA and analyzed by the Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS).\n\nThese are preliminary maps derived from satellite radar and should be used as guidance only. Coloured pixels may include false positives, and their absence does not mean an absence of damage or flooding.",
+  "creator_user_id": "610cc9ec-1862-432e-abee-5af9ccac397b",
+  "data_update_frequency": "-2",
+  "dataset_date": "[2026-09-23T00:00:00 TO 2026-09-23T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "Earth Observatory of Singapore",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "7b78a756-a757-44a3-82b6-332c86d10779",
+  "is_requestdata_type": false,
+  "isopen": true,
+  "last_modified": "2026-10-02T14:35:06.350074",
+  "license_id": "cc-by",
+  "license_title": "Creative Commons Attribution International (CC BY)",
+  "license_url": "http://www.opendefinition.org/licenses/cc-by",
+  "maintainer": "610cc9ec-1862-432e-abee-5af9ccac397b",
+  "metadata_created": "2026-10-02T14:35:02.914606",
+  "metadata_modified": "2026-10-02T17:47:24.827730",
+  "methodology": "Other",
+  "methodology_other": "Change detection on synthetic aperture radar (SAR) satellite images acquired before and after the event. Damage Proxy Maps show significant changes in radar coherence and amplitude; Flood Proxy Maps show areas that changed to standing water. Maps are preliminary and checked against news reports and ground-level imagery where available.",
+  "name": "eos-rs-vietnam-flood-hanoi-sep-2026",
+  "notes": "# EOS-RS Flood Proxy Map: Hanoi, Vietnam, Floods, 23 September 2026, v0.8\n\nThe Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) created this preliminary Flood Proxy Map (FPM) depicting areas that are likely flooded in Hanoi, Vietnam after heavy rainfall. This map was derived from synthetic aperture radar (SAR) images acquired by the Copernicus Sentinel-1 satellite operated by the European Space Agency (ESA) before (12 Dec 2025 to 09 September 2026) and during (21 September 2026) the event.\n\nThe map covers an area indicated by the white polygon. The preliminary map shows areas which are likely flooded (shown by light blue pixels of approximately 30m in size) due to the heavy rainfall. Preliminary validation was conducted using news reports and ground-level imagery in selected areas. This map should be used as a guide to identify areas that are likely flooded, and may be less reliable over urban and vegetated areas.\n\nThis product contains modified Copernicus Sentinel data (2026), processed by ESA and analyzed by the Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS).\n\n**More map details and files:** <https://sf.earthobservatory.sg/event/EOSRS_2026_015_VNM_FL_202609_Hanoi>\n\n**Legal Disclaimer:** <https://products.earthobservatory.sg/#/faq/>\n\n**Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2026)",
+  "num_resources": 1,
+  "num_tags": 6,
+  "organization": {
+    "id": "58064b08-71c1-4a9b-8ef3-be8300b94af7",
+    "name": "earth-observatory-of-singapore-remote-sensing-lab",
+    "title": "Earth Observatory of Singapore",
+    "type": "organization",
+    "description": "The Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) is a research lab at Nanyang Technological University (NTU), Singapore. It uses satellite remote sensing, mainly synthetic aperture radar (SAR), to map natural hazards and disasters. The lab produces Damage Proxy Maps (DPMs) and Flood Proxy Maps (FPMs) showing where damage or flooding has likely occurred. Its work focuses on Southeast Asia and the wider Asia-Pacific, and it also responds to major disasters worldwide.",
+    "image_url": "",
+    "created": "2026-10-01T16:40:31.070243",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "58064b08-71c1-4a9b-8ef3-be8300b94af7",
+  "package_creator": "rickyw",
+  "pageviews_last_14_days": 4,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Viet Nam\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Vietnam Flood Hanoi: Flood Proxy Map, Sep 2026",
+  "total_res_downloads": 2,
+  "type": "dataset",
+  "updated_by_script": "EOS_SARFinder (2026-10-02T17:47:24.447107)",
+  "url": null,
+  "version": null,
+  "customviz": [
+    {
+      "url": "https://sf.earthobservatory.sg/event/EOSRS_2026_015_VNM_FL_202609_Hanoi"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Viet Nam",
+      "id": "vnm",
+      "image_display_url": "",
+      "name": "vnm",
+      "title": "Viet Nam"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/7b78a756-a757-44a3-82b6-332c86d10779/resource/0e8234cb-6442-45b3-97eb-18ac4d127b12/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2026-10-02T14:35:02.919142",
+      "datastore_active": false,
+      "description": "EOS-RS Flood Proxy Map: Hanoi, Vietnam, Floods, 23 September 2026, v0.8\n\nZIP containing: GeoTIFF, KMZ, PNG, TXT.\n\nThe Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) created this preliminary Flood Proxy Map (FPM) depicting areas that are likely flooded in Hanoi, Vietnam after heavy rainfall. This map was derived from synthetic aperture radar (SAR) images acquired by the Copernicus Sentinel-1 satellite operated by the European Space Agency (ESA) before (12 Dec 2025 to 09 September 2026) and during (21 September 2026) the event.",
+      "download_url": "https://data.humdata.org/dataset/7b78a756-a757-44a3-82b6-332c86d10779/resource/0e8234cb-6442-45b3-97eb-18ac4d127b12/download/eosrs_2026_015_vnm_fl_20260923_fpm_s1_hanoi_v0.8.zip",
+      "format": "GeoTIFF",
+      "hash": "dae91b22",
+      "hdx_rel_url": "/dataset/7b78a756-a757-44a3-82b6-332c86d10779/resource/0e8234cb-6442-45b3-97eb-18ac4d127b12/download/eosrs_2026_015_vnm_fl_20260923_fpm_s1_hanoi_v0.8.zip",
+      "id": "0e8234cb-6442-45b3-97eb-18ac4d127b12",
+      "last_modified": "2026-10-02T14:35:06.350074",
+      "metadata_modified": "2026-10-02T17:47:24.869818",
+      "microdata": false,
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "EOSRS_2026_015_VNM_FL_20260923_FPM_S1_Hanoi_v0.8.zip",
+      "package_id": "7b78a756-a757-44a3-82b6-332c86d10779",
+      "position": 0,
+      "resource_type": "file.upload",
+      "size": 19245529,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/7b78a756-a757-44a3-82b6-332c86d10779/resource/0e8234cb-6442-45b3-97eb-18ac4d127b12/download/eosrs_2026_015_vnm_fl_20260923_fpm_s1_hanoi_v0.8.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "affected area",
+      "id": "25d0e6cc-a02c-4c91-b358-7d4bb1a42af0",
+      "name": "affected area",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "climate hazards",
+      "id": "ba8322b6-72e7-4475-b015-72d200bf5957",
+      "name": "climate hazards",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "flooding",
+      "id": "532eacf2-7b8c-4dd5-baf7-c25720cadb38",
+      "name": "flooding",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "hazards and risk",
+      "id": "7173a61f-84fd-45ca-856a-3aa2b0372869",
+      "name": "hazards and risk",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "natural disasters",
+      "id": "48520851-7df8-418b-aa00-7fa276d7fd88",
+      "name": "natural disasters",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

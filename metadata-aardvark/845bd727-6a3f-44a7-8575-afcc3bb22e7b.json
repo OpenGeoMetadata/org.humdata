@@ -1,0 +1,47 @@
+{
+  "id": "hdx-845bd727-6a3f-44a7-8575-afcc3bb22e7b",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:48:02Z",
+  "dct_title_s": "Philippines Earthquake Mindanao: Damage Proxy Maps, Jun 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Philippines Earthquake Mindanao: Damage Proxy Maps, Jun 2026 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these damage proxy maps for Philippines Earthquake Mindanao (Jun 2026) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **EOS-RS Damage Proxy Map: Mindanao, Philippines, Earthquakes, 16 June 2026, v0.9 ** - **EOS-RS Damage Proxy Map: Mindanao, Philippines, Earthquakes, 13 June 2026, v0.5 ** - **EOS-RS Damage Proxy Map: West Mindanao, Philippines, Earthquakes, 09 June 2026, v0.8 ** **More map details and files:** **Legal Disclaimer:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2026)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "locn_geometry": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dcat_bbox": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-phl-eq-mindanao-jun-2026\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/845bd727-6a3f-44a7-8575-afcc3bb22e7b/resource/a4c05cad-2afc-4c20-a70d-5f0838f44206/download/eosrs_2026_003_phl_eq_20260616_dpm_s1_mindanao_v0.9.zip\",\"label\":\"EOSRS_2026_003_PHL_EQ_20260616_DPM_S1_Mindanao_v0.9.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/845bd727-6a3f-44a7-8575-afcc3bb22e7b/resource/3ad26dac-5db2-4fab-a13a-fe34437308f4/download/eosrs_2026_003_phl_eq_20260613_dpm_a2_mindanao_v0.5.zip\",\"label\":\"EOSRS_2026_003_PHL_EQ_20260613_DPM_A2_Mindanao_v0.5.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/845bd727-6a3f-44a7-8575-afcc3bb22e7b/resource/de05a626-6fae-4686-98ad-198489ec39b4/download/eosrs_2026_003_phl_eq_20260609_dpm_s1_mindanao_v0.8.zip\",\"label\":\"EOSRS_2026_003_PHL_EQ_20260609_DPM_S1_Mindanao_v0.8.zip (GeoTIFF)\"}]}"
+}

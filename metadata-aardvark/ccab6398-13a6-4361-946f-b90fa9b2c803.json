@@ -1,0 +1,47 @@
+{
+  "id": "hdx-ccab6398-13a6-4361-946f-b90fa9b2c803",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:58:05Z",
+  "dct_title_s": "Philippines Earthquake: Damage Proxy Map, Dec 2019",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# ARIA-SG Damage Proxy Map: Philippines Earthquake, 25 Dec 2019, v1.0 Derived from synthetic aperture radar data acquired by the Copernicus Sentinel-1 satellites operated by the European Space Agency (ESA) before (13 Dec) and after (25 Dec) the event. Analysed by the ARIA-SG team at the Earth Observatory of Singapore (EOS) in collaboration with NASA-JPL and Caltech. Data processing used an AWS Open Dataset of Copernicus Sentinel-1 data for the Asia region (https://registry.opendata.aws/sentinel1-slc-seasia-pds). **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "NASA JPL-Caltech ARIA team; Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "locn_geometry": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dcat_bbox": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "gbl_indexYear_im": [
+    2019
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-philippines-earthquake-dec-2019\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/ccab6398-13a6-4361-946f-b90fa9b2c803/resource/28604f1a-c08d-4ae4-9b06-a34b6850e45a/download/eos_aria-sg_20191225_dpm_philippines_earthquake_v1.0.zip\",\"label\":\"EOS_ARIA-SG_20191225_DPM_Philippines_Earthquake_v1.0.zip (GeoTIFF)\"}]}"
+}

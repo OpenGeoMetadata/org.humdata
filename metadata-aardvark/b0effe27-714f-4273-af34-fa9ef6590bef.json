@@ -1,0 +1,49 @@
+{
+  "id": "hdx-b0effe27-714f-4273-af34-fa9ef6590bef",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:55:55Z",
+  "dct_title_s": "Yellowstone Floods: Damage Proxy Map, Jun 2022",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# EOS-RS Damage Proxy Map: Montana (Yellowstone National Park), USA, Floods, 15 Jun 2022, v0.9 The Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) created this preliminary Damage Proxy Map (DPM) depicting areas that are likely damaged in the areas in Montana, United States due to floods caused by heavy rainfall and snowmelt. This map was derived from synthetic aperture radar (SAR) images acquired by the Copernicus Sentinel-1 satellites operated by the European Space Agency (ESA) before (15 Feb 2022 - 3 Jun 2022) and after (15 Jun 2022) the event. The image covers an area indicated by the large white polygon. Each pixel measures about 30 meters across. The colour variation from yellow to red indicates increasingly more significant surface change. Preliminary validation was done by comparing with high-resolution optical imagery and media reports. This map could be used as a guidance to identify damaged areas, and may be less reliable over vegetated areas (such as landslides in vegetated slopes). Scattered pixels over vegetated areas may be false positives, and a lack of colored pixels over vegetated areas may not mean no damage. Sentinel-1 data were accessed through the Copernicus Open Hub. This map contains modified Copernicus Sentinel data (2022), processed by ESA and analyzed by the Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) in collaboration with NASA-JPL and Caltech. **More map details and files:** **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "locn_geometry": "ENVELOPE(-125.0, -66.96, 49.5, 25.0)",
+  "dcat_bbox": "ENVELOPE(-125.0, -66.96, 49.5, 25.0)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-yellowstone-floods-jun-2022\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/b0effe27-714f-4273-af34-fa9ef6590bef/resource/30a8f2d9-07ec-42c9-bfbc-b64e23d1179b/download/eos-rs_20220615_dpm_s1_yellowstone_floods_v0.9.zip\",\"label\":\"EOS-RS_20220615_DPM_S1_Yellowstone_Floods_v0.9.zip (GeoTIFF)\"}]}"
+}

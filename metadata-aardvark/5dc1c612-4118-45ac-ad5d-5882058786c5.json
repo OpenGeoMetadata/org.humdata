@@ -1,0 +1,49 @@
+{
+  "id": "hdx-5dc1c612-4118-45ac-ad5d-5882058786c5",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:52:16Z",
+  "dct_title_s": "Japan Typhoon Shanshan: Damage Proxy Maps, Sep 2024",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Japan Typhoon Shanshan: Damage Proxy Maps, Sep 2024 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these damage proxy maps for Japan Typhoon Shanshan (Sep 2024) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **EOS-RS Damage Proxy Map: Japan, Typhoon Shanshan, 5 Sep 2024, v0.8 wbd** (superseded) - **EOS-RS Damage Proxy Map: Japan, Typhoon Shanshan, 5 Sep 2024, v0.8 ** **More map details and files:** **More map details and files:** **Legal Disclaimer:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2024)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Japan"
+  ],
+  "locn_geometry": "ENVELOPE(129.41, 145.54, 45.55, 31.03)",
+  "dcat_bbox": "ENVELOPE(129.41, 145.54, 45.55, 31.03)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-japan-typhoon-shanshan-sep-2024\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/5dc1c612-4118-45ac-ad5d-5882058786c5/resource/f506de10-109a-49d7-bf42-433bad647b0f/download/eos-rs_20240905_dpm_s1_japan_typhoon_shanshan_v0.8_wbd.zip\",\"label\":\"EOS-RS_20240905_DPM_S1_Japan_Typhoon_Shanshan_v0.8_wbd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/5dc1c612-4118-45ac-ad5d-5882058786c5/resource/1361697e-c4ae-4e9b-819d-d956f5f16d75/download/eos-rs_20240905_dpm_s1_japan_typhoon_shanshan_v0.8.zip\",\"label\":\"EOS-RS_20240905_DPM_S1_Japan_Typhoon_Shanshan_v0.8.zip (GeoTIFF)\"}]}"
+}

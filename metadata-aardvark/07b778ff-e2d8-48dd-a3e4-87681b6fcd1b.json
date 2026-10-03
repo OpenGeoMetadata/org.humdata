@@ -1,0 +1,48 @@
+{
+  "id": "hdx-07b778ff-e2d8-48dd-a3e4-87681b6fcd1b",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:54:42Z",
+  "dct_title_s": "Turkiye Syria Earthquake: Damage Proxy Maps, Feb 2023",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Turkiye Syria Earthquake: Damage Proxy Maps, Feb 2023 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these damage proxy maps for Turkiye Syria Earthquake (Feb 2023) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **EOS-RS Damage Proxy Map: TÃ¼rkiye (Turkey) and Syria, Earthquake, 21 Feb 2023, v0.4** - **EOS-RS Damage Proxy Map: TÃ¼rkiye (Turkey) and Syria, Earthquake, 21 Feb 2023, v0.4** - **EOS-RS Damage Proxy Map: TÃ¼rkiye (Turkey) and Syria, Earthquake, 11 Feb 2023, v1.2** - **EOS-RS Damage Proxy Map: TÃ¼rkiye (Turkey) and Syria, Earthquake, 11 Feb 2023, v1.2** - **EOS-RS Damage Proxy Map: TÃ¼rkiye (Turkey) and Syria, Earthquake, 9-11 Feb 2023, v1.2** (superseded) - **EOS-RS Damage Proxy Map: TÃ¼rkiye (Turkey) and Syria, Earthquake, 9-11 Feb 2023, v1.2** (superseded) - **EOS-RS Damage Proxy Map: TÃ¼rkiye (Turkey) and Syria, Earthquake, 10 Feb 2023, v1.2** - **EOS-RS Damage Proxy Map: TÃ¼rkiye (Turkey) and Syria, Earthquake, 10 Feb 2023, v1.2** - **EOS-RS Damage Proxy Map: TÃ¼rkiye (Turkey) and Syria, Earthquake, 10 Feb 2023, v0.9** (superseded) - **EOS-RS Damage Proxy Map: TÃ¼rkiye (Turkey) and Syria, Earthquake, 10 Feb 2023, v0.9** (superseded) - **EOS-RS Damage Proxy Map: TÃ¼rkiye (Turkey) and Syria, Earthquake, 9 Feb 2023, v1.2** - **EOS-RS Damage Proxy Map: TÃ¼rkiye (Turkey) and Syria, Earthquake, 9 Feb 2023, v1.2** - **EOS-RS Damage Proxy Map: TÃ¼rkiye (Turkey) and Syria, Earthquake, 9 Feb 2023, v0.9** (superseded) - **EOS-RS Damage Proxy Map: TÃ¼rkiye (Turkey) and Syria, Earthquake, 9 Feb 2023, v0.9** (superseded) - **EOS-RS Damage Proxy Map: TÃ¼rkiye (Turkey) and Syria, Earthquake, 8 Feb 2023, v1.2** - **EOS-RS Damage Proxy Map: TÃ¼rkiye (Turkey) and Syria, Earthquake, 8 Feb 2023, v1.2** - **EOS-RS Damage Proxy Map: TÃ¼rkiye (Turkey) and Syria, Earthquake, 8 Feb 2023, v0.5** (superseded) - **EOS-RS Damage Proxy Map: TÃ¼rkiye (Turkey) and Syria, Earthquake, 8 Feb 2023, v0.5** (superseded) **More map details and files:** **More map details and files:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Advanced Rapid Imaging and Analysis (ARIA), NASA-JPL/Caltech, Contains modified Copernicus Sentinel data (2022-2023)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Syrian Arab Republic",
+    "Türkiye"
+  ],
+  "locn_geometry": "ENVELOPE(35.7, 42.35, 37.23, 32.31)",
+  "dcat_bbox": "ENVELOPE(35.7, 42.35, 37.23, 32.31)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-turkiye-syria-earthquake-feb-2023\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/07b778ff-e2d8-48dd-a3e4-87681b6fcd1b/resource/a40c5c3a-b576-42ab-ae2b-bd7530bf4cb8/download/eos-rs_20230221_dpm_s1_turkiye_syria_earthquake_v0.4_cvd.zip.zip\",\"label\":\"EOS-RS_20230221_DPM_S1_Turkiye_Syria_Earthquake_v0.4_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/07b778ff-e2d8-48dd-a3e4-87681b6fcd1b/resource/407b68b0-ec0d-423f-a182-6df80f7731ba/download/eos-rs_20230221_dpm_s1_turkiye_syria_earthquake_v0.4.zip.zip\",\"label\":\"EOS-RS_20230221_DPM_S1_Turkiye_Syria_Earthquake_v0.4.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/07b778ff-e2d8-48dd-a3e4-87681b6fcd1b/resource/2c6bf8c0-63b3-48b5-9308-6aacd2adcfd2/download/eos-rs_20230211_dpm_s1_turkiye_syria_earthquake_v1.2_cvd.zip.zip\",\"label\":\"EOS-RS_20230211_DPM_S1_Türkiye_Syria_Earthquake_v1.2_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/07b778ff-e2d8-48dd-a3e4-87681b6fcd1b/resource/91fba600-12cd-4613-b557-65e2c3415888/download/eos-rs_20230211_dpm_s1_turkiye_syria_earthquake_v1.2.zip.zip\",\"label\":\"EOS-RS_20230211_DPM_S1_Türkiye_Syria_Earthquake_v1.2.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/07b778ff-e2d8-48dd-a3e4-87681b6fcd1b/resource/6e5d3210-39a5-48fa-8af9-8bf638bbad52/download/eos-rs_20230211-20230210-20230209_dpm_merged_s1_turkiye_syria_earthquake_v1.2_cvd.zip.zip\",\"label\":\"EOS-RS_20230211-20230210-20230209_DPM_merged_S1_Turkiye_Syria_Earthquake_v1.2_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/07b778ff-e2d8-48dd-a3e4-87681b6fcd1b/resource/acf84710-e3f9-4045-8eb6-3ce34fa94727/download/eos-rs_20230211-20230210-20230209_dpm_merged_s1_turkiye_syria_earthquake_v1.2.zip.zip\",\"label\":\"EOS-RS_20230211-20230210-20230209_DPM_merged_S1_Turkiye_Syria_Earthquake_v1.2.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/07b778ff-e2d8-48dd-a3e4-87681b6fcd1b/resource/f6a6624b-3775-4e99-bb3d-9c25118fc314/download/eos-rs_20230210_dpm_s1_turkiye_syria_earthquake_v1.2_cvd.zip.zip\",\"label\":\"EOS-RS_20230210_DPM_S1_Türkiye_Syria_Earthquake_v1.2_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/07b778ff-e2d8-48dd-a3e4-87681b6fcd1b/resource/43b52506-9f54-4403-94b3-3e9539651000/download/eos-rs_20230210_dpm_s1_turkiye_syria_earthquake_v1.2.zip.zip\",\"label\":\"EOS-RS_20230210_DPM_S1_Türkiye_Syria_Earthquake_v1.2.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/07b778ff-e2d8-48dd-a3e4-87681b6fcd1b/resource/ecb6a60f-42e0-48cd-b91b-331f7f98d026/download/eos-rs_20230210_dpm_s1_turkiye_syria_earthquake_v0.9_cvd.zip.zip\",\"label\":\"EOS-RS_20230210_DPM_S1_Türkiye_Syria_Earthquake_v0.9_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/07b778ff-e2d8-48dd-a3e4-87681b6fcd1b/resource/e438dfa6-3c8d-455e-aee7-c90fbb68d1cd/download/eos-rs_20230210_dpm_s1_turkiye_syria_earthquake_v0.9.zip.zip\",\"label\":\"EOS-RS_20230210_DPM_S1_Türkiye_Syria_Earthquake_v0.9.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/07b778ff-e2d8-48dd-a3e4-87681b6fcd1b/resource/48788896-2b86-47dc-aefe-809867aa7b04/download/eos-rs_20230209_dpm_s1_turkiye_syria_earthquake_v1.2_cvd.zip.zip\",\"label\":\"EOS-RS_20230209_DPM_S1_Türkiye_Syria_Earthquake_v1.2_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/07b778ff-e2d8-48dd-a3e4-87681b6fcd1b/resource/a9ca1902-f008-4adf-8561-7d8852d35c92/download/eos-rs_20230209_dpm_s1_turkiye_syria_earthquake_v1.2.zip.zip\",\"label\":\"EOS-RS_20230209_DPM_S1_Türkiye_Syria_Earthquake_v1.2.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/07b778ff-e2d8-48dd-a3e4-87681b6fcd1b/resource/625c8fb0-5eb2-45ee-ae91-b1afc7a9c376/download/eos-rs_20230209_dpm_s1_turkiye_syria_earthquake_v0.9_cvd.zip.zip\",\"label\":\"EOS-RS_20230209_DPM_S1_Türkiye_Syria_Earthquake_v0.9_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/07b778ff-e2d8-48dd-a3e4-87681b6fcd1b/resource/62bb2988-6e88-4799-81c2-8163be1e7c74/download/eos-rs_20230209_dpm_s1_turkiye_syria_earthquake_v0.9.zip.zip\",\"label\":\"EOS-RS_20230209_DPM_S1_Türkiye_Syria_Earthquake_v0.9.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/07b778ff-e2d8-48dd-a3e4-87681b6fcd1b/resource/841e337b-4f8c-4702-8683-924a6d6db3ac/download/eos-rs_20230208_dpm_a2_turkiye_syria_earthquake_v1.2_cvd.zip.zip\",\"label\":\"EOS-RS_20230208_DPM_A2_Türkiye_Syria_Earthquake_v1.2_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/07b778ff-e2d8-48dd-a3e4-87681b6fcd1b/resource/5576a43a-dec9-4e59-ac71-86773f9c55c3/download/eos-rs_20230208_dpm_a2_turkiye_syria_earthquake_v1.2.zip.zip\",\"label\":\"EOS-RS_20230208_DPM_A2_Türkiye_Syria_Earthquake_v1.2.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/07b778ff-e2d8-48dd-a3e4-87681b6fcd1b/resource/8e3aa700-d038-417c-b636-b975bdd924a7/download/eos-rs_20230208_dpm_a2_turkiye_syria_earthquake_v0.5_cvd.zip\",\"label\":\"EOS-RS_20230208_DPM_A2_Türkiye_Syria_Earthquake_v0.5_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/07b778ff-e2d8-48dd-a3e4-87681b6fcd1b/resource/3f13aa2d-4957-48e3-b0db-58bb82be7f98/download/eos-rs_20230208_dpm_a2_turkiye_syria_earthquake_v0.5.zip\",\"label\":\"EOS-RS_20230208_DPM_A2_Türkiye_Syria_Earthquake_v0.5.zip (GeoTIFF)\"}]}"
+}

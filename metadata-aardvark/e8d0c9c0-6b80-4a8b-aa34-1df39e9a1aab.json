@@ -1,0 +1,49 @@
+{
+  "id": "hdx-e8d0c9c0-6b80-4a8b-aa34-1df39e9a1aab",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:55:01Z",
+  "dct_title_s": "Indonesia Floods: Flood Proxy Map, Nov 2022",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# EOS-RS Flood Proxy Map: South Sulawesi, Indonesia, Floods, 17 Nov 2022, v0.5 The Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) created this preliminary Flood Proxy Map (FPM) depicting areas that are likely flooded in Makassar, South Sulawesi. This map was derived from synthetic aperture radar (SAR) images acquired by the Copernicus Sentinel-1 satellites operated by the European Space Agency (ESA) before (5 Nov 2022) and during (17 Nov 2022) the event. The image covers an area indicated by the large white polygon. Each light blue pixel measures about 30 m across. Preliminary validation was done in selected areas using optical imagery. This flood proxy map should be used as a guide to identify areas that are likely flooded, and is less reliable over urban and vegetated areas. The product contains modified Copernicus Sentinel data (2022), processed by ESA and analyzed by the Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), using the Advanced Rapid Imaging and Analysis (ARIA) system originally developed at NASA's Jet Propulsion Laboratory, California Institute of Technology, and modified at EOS-RS. Data processing used an AWS Open Dataset of Copernicus Sentinel-1 data for the Asia region (https://registry.opendata.aws/sentinel1-slc-seasia-pds). **More map details and files:** **More map details and files:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Advanced Rapid Imaging and Analysis (ARIA), NASA-JPL/Caltech, Contains modified Copernicus Sentinel data (2022)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Indonesia"
+  ],
+  "locn_geometry": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dcat_bbox": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-indonesia-floods-nov-2022\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e8d0c9c0-6b80-4a8b-aa34-1df39e9a1aab/resource/5a8878e9-a0cf-405a-b09e-777822534923/download/eos-rs_20221117_fpm_s1_indonesia_floods_v0.5f.zip\",\"label\":\"EOS-RS_20221117_FPM_S1_Indonesia_Floods_v0.5f.zip (GeoTIFF)\"}]}"
+}

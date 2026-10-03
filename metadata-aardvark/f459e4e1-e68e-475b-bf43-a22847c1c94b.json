@@ -1,0 +1,45 @@
+{
+  "id": "hdx-f459e4e1-e68e-475b-bf43-a22847c1c94b",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:57:28Z",
+  "dct_title_s": "Japan Heavy Rains: Damage Proxy Maps, Jul 2020",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Japan Heavy Rains: Damage Proxy Maps, Jul 2020 The Advanced Rapid Imaging and Analysis (ARIA) team at NASA's Jet Propulsion Laboratory and Caltech, in collaboration with the Earth Observatory of Singapore (EOS), produced these damage proxy maps for Japan Heavy Rains (Jul 2020) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **ARIA-SG Damage Proxy Map: Japan, Heavy Rains, 6 Jul 2020, v0.5 ** - **ARIA-SG Damage Proxy Map: Japan, Heavy Rains, 6 Jul 2020, v0.5 ** **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "NASA JPL-Caltech ARIA team; Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Japan"
+  ],
+  "locn_geometry": "ENVELOPE(129.41, 145.54, 45.55, 31.03)",
+  "dcat_bbox": "ENVELOPE(129.41, 145.54, 45.55, 31.03)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-japan-heavy-rains-jul-2020\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/f459e4e1-e68e-475b-bf43-a22847c1c94b/resource/2c0dc47c-b261-40d8-ab3b-2583454c92eb/download/eos_aria-sg_20200706_dpm_japan_heavy_rains_v0.5_cvd.zip\",\"label\":\"EOS_ARIA-SG_20200706_DPM_Japan_Heavy_Rains_v0.5_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/f459e4e1-e68e-475b-bf43-a22847c1c94b/resource/0168671f-f02c-4b69-81dc-612df5131e9b/download/eos_aria-sg_20200706_dpm_japan_heavy_rains_v0.5.zip\",\"label\":\"EOS_ARIA-SG_20200706_DPM_Japan_Heavy_Rains_v0.5.zip (GeoTIFF)\"}]}"
+}

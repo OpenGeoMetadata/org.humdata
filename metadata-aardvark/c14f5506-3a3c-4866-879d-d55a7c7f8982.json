@@ -1,0 +1,51 @@
+{
+  "id": "hdx-c14f5506-3a3c-4866-879d-d55a7c7f8982",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:53:58Z",
+  "dct_title_s": "Vietnam Floods: Damage and Flood Proxy Maps, Aug 2023",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Vietnam Floods: Damage and Flood Proxy Maps, Aug 2023 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these damage and flood proxy maps for Vietnam Floods (Aug 2023) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **EOS-RS Damage Proxy Map: Vietnam, Heavy Rains, 9 Aug 2023, v0.4** - **EOS-RS Flood Proxy Map: Vietnam, Floods, 9 Aug 2023, v0.3** **More map details and files:** **More map details and files:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Advanced Rapid Imaging and Analysis (ARIA), Contains modified Copernicus Sentinel data (2023)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Viet Nam"
+  ],
+  "locn_geometry": "ENVELOPE(102.17, 109.34, 23.35, 8.6)",
+  "dcat_bbox": "ENVELOPE(102.17, 109.34, 23.35, 8.6)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-vietnam-floods-aug-2023\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/c14f5506-3a3c-4866-879d-d55a7c7f8982/resource/d4a53b71-d209-4dab-8c38-031531956f5f/download/eos-rs_20230809_dpm_s1_vietnam_floods_v0.4_cvd.zip\",\"label\":\"EOS-RS_20230809_DPM_S1_Vietnam_Floods_v0.4_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/c14f5506-3a3c-4866-879d-d55a7c7f8982/resource/f4fce96a-9592-4735-bc91-6f582f4a1c8d/download/eos-rs_20230809_fpm_s1_vietnam_floods_v0.3.zip\",\"label\":\"EOS-RS_20230809_FPM_S1_Vietnam_Floods_v0.3.zip (GeoTIFF)\"}]}"
+}

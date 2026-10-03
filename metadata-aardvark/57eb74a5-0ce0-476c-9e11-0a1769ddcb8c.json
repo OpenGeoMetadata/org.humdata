@@ -1,0 +1,49 @@
+{
+  "id": "hdx-57eb74a5-0ce0-476c-9e11-0a1769ddcb8c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:56:33Z",
+  "dct_title_s": "Malaysia Floods: Flood Proxy Map, Dec 2021",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# EOS-RS Flood Proxy Map: Malaysia, Floods, Dec 2021, v0.4 The Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) created this preliminary Flood Proxy Map (FPM) depicting areas that are likely flooded in north and central Peninsular Malaysia due to heavy rains. This map was derived from synthetic aperture radar (SAR) images acquired by the Copernicus Sentinel-1 satellites operated by the European Space Agency (ESA) before (9 Dec 2021) and during (21 Dec 2021) the event. The image covers an area indicated by the large white polygon. Each light blue pixel measures about 30 meters across. This flood proxy map should be used as a guide to identify areas that are likely flooded, and is less reliable over urban and vegetated areas. Sentinel-1 data were accessed through the Copernicus Open Hub and AWS Open Dataset of Copernicus Sentinel-1 data for the Asia region (https://registry.opendata.aws/sentinel1-slc-seasia-pds). The product contains modified Copernicus Sentinel data (2021), processed by ESA and analyzed by the Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), using the Advanced Rapid Imaging and Analysis (ARIA) system originally developed at NASA's Jet Propulsion Laboratory, California Institute of Technology, and modified at EOS-RS. **More map details and files:** **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Malaysia"
+  ],
+  "locn_geometry": "ENVELOPE(100.09, 119.18, 6.93, 0.77)",
+  "dcat_bbox": "ENVELOPE(100.09, 119.18, 6.93, 0.77)",
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-malaysia-floods-dec-2021\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/57eb74a5-0ce0-476c-9e11-0a1769ddcb8c/resource/f8c59aa3-c354-4d93-9363-ef064018b8e7/download/eos-rs_20211221_fpm_s1_malaysia_floods_v0.4f.zip\",\"label\":\"EOS-RS_20211221_FPM_S1_Malaysia_Floods_v0.4f.zip (GeoTIFF)\"}]}"
+}

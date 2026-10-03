@@ -1,0 +1,45 @@
+{
+  "id": "hdx-09d8294d-f5e0-4de7-8238-1640dc61af08",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:56:36Z",
+  "dct_title_s": "Indonesia Semeru Volcano: Damage Proxy Maps, Dec 2021",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Indonesia Semeru Volcano: Damage Proxy Maps, Dec 2021 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these damage proxy maps for Indonesia Semeru Volcano (Dec 2021) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **EOS-RS Pyroclastic flow extent map: Indonesia, Semeru volcano, 5 Dec 2021, v0.4** - **Peta kerusakan EOS-RS: Erupsi Gunung Semeru, Indonesia, Dec 2021, v0.9** - **Peta kerusakan EOS-RS: Erupsi Gunung Semeru, Indonesia, Dec 2021, v0.9** - **Peta kerusakan EOS-RS: Erupsi Gunung Semeru, Indonesia, Dec 2021, v0.8** (superseded) - **Peta kerusakan EOS-RS: Erupsi Gunung Semeru, Indonesia, Dec 2021, v0.8** (superseded) **More map details and files:** **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Indonesia"
+  ],
+  "locn_geometry": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dcat_bbox": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-indonesia-semeru-volcano-dec-2021\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/09d8294d-f5e0-4de7-8238-1640dc61af08/resource/3c24d07a-2f66-4165-8450-97fc1a1505d0/download/eos-rs_202112_dpma_a2_indonesia_semeru_volcano_v0.4.zip\",\"label\":\"EOS-RS_202112_DPMa_A2_Indonesia_Semeru_Volcano_v0.4.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/09d8294d-f5e0-4de7-8238-1640dc61af08/resource/85b78b7e-39c1-4671-b007-70abf751a244/download/eos-rs_202112_dpm_s1_indonesia_semeru_volcano_v0.9_cvd.zip\",\"label\":\"EOS-RS_202112_DPM_S1_Indonesia_Semeru_Volcano_v0.9_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/09d8294d-f5e0-4de7-8238-1640dc61af08/resource/1af65088-5953-41bc-aa59-a1e8b816d08e/download/eos-rs_202112_dpm_s1_indonesia_semeru_volcano_v0.9.zip\",\"label\":\"EOS-RS_202112_DPM_S1_Indonesia_Semeru_Volcano_v0.9.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/09d8294d-f5e0-4de7-8238-1640dc61af08/resource/c7ac2566-2c53-46ad-8889-4e5a010065f1/download/eos-rs_202112_dpm_s1_indonesia_semeru_volcano_v0.8_cvd.zip\",\"label\":\"EOS-RS_202112_DPM_S1_Indonesia_Semeru_Volcano_v0.8_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/09d8294d-f5e0-4de7-8238-1640dc61af08/resource/98ee1c94-d113-41ee-bcc8-02e439993906/download/eos-rs_202112_dpm_s1_indonesia_semeru_volcano_v0.8.zip\",\"label\":\"EOS-RS_202112_DPM_S1_Indonesia_Semeru_Volcano_v0.8.zip (GeoTIFF)\"}]}"
+}

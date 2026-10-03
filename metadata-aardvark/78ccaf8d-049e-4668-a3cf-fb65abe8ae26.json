@@ -1,0 +1,49 @@
+{
+  "id": "hdx-78ccaf8d-049e-4668-a3cf-fb65abe8ae26",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:58:48Z",
+  "dct_title_s": "Japan Floods: Flood Proxy Maps, Aug 2019",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Japan Floods: Flood Proxy Maps, Aug 2019 The Advanced Rapid Imaging and Analysis (ARIA) team at NASA's Jet Propulsion Laboratory and Caltech, in collaboration with the Earth Observatory of Singapore (EOS), produced these flood proxy maps for Japan Floods (Aug 2019) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **ARIA-SG Preliminary Flood Proxy Map: Japan, 2019 Floods v0.5 P22** (superseded) - **ARIA-SG Preliminary Flood Proxy Map: Japan, 2019 Floods v0.5 P131** **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "NASA JPL-Caltech ARIA team; Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Japan"
+  ],
+  "locn_geometry": "ENVELOPE(129.41, 145.54, 45.55, 31.03)",
+  "dcat_bbox": "ENVELOPE(129.41, 145.54, 45.55, 31.03)",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "gbl_indexYear_im": [
+    2019
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-japan-floods-aug-2019\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/78ccaf8d-049e-4668-a3cf-fb65abe8ae26/resource/1f7c03ac-d9bb-4bfd-b8a0-b0fccf37ff0e/download/eos_aria-sg_20190828_fpm_japan_floods_v0.5_p22.zip\",\"label\":\"EOS_ARIA-SG_20190828_FPM_Japan_Floods_v0.5_P22.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/78ccaf8d-049e-4668-a3cf-fb65abe8ae26/resource/309669ac-e789-4b51-8f27-1fb971b0db27/download/eos_aria-sg_20190828_fpm_japan_floods_v0.5_p131.zip\",\"label\":\"EOS_ARIA-SG_20190828_FPM_Japan_Floods_v0.5_P131.zip (GeoTIFF)\"}]}"
+}

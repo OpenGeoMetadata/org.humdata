@@ -1,0 +1,53 @@
+{
+  "id": "hdx-32936b5f-d13d-49b2-b555-1f7038a90ed9",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:54:22Z",
+  "dct_title_s": "Myanmar Cyclone Mocha: Damage and Flood Proxy Maps, May 2023",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Myanmar Cyclone Mocha: Damage and Flood Proxy Maps, May 2023 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these damage and flood proxy maps for Myanmar Cyclone Mocha (May 2023) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **EOS-RS Damage Proxy Map: Myanmar, Cyclone Mocha, 18 May 2023, v0.9** - **EOS-RS Damage Proxy Map: Myanmar, Cyclone Mocha, 18 May 2023, v0.9** - **EOS-RS Flood Proxy Map: Myanmar, Cyclone Mocha, 14 May 2023, v0.4** - **EOS-RS Flood Proxy Map: Myanmar, Cyclone Mocha, 14 May 2023, v0.3** (superseded) **More map details and files:** **More map details and files:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Advanced Rapid Imaging and Analysis (ARIA), NASA-JPL/Caltech, Contains modified Copernicus Sentinel data (2023)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-myanmar-cyclone-mocha-may-2023\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/32936b5f-d13d-49b2-b555-1f7038a90ed9/resource/081746b9-6fcd-4afe-b6fb-7ee3b475b03f/download/eos-rs_20230518_dpm_s1_myanmar_cyclone_mocha_v0.9_cvd.zip\",\"label\":\"EOS-RS_20230518_DPM_S1_Myanmar_Cyclone_Mocha_v0.9_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/32936b5f-d13d-49b2-b555-1f7038a90ed9/resource/50ab4052-b8ca-42cf-ae2f-c63778d1385c/download/eos-rs_20230518_dpm_s1_myanmar_cyclone_mocha_v0.9.zip\",\"label\":\"EOS-RS_20230518_DPM_S1_Myanmar_Cyclone_Mocha_v0.9.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/32936b5f-d13d-49b2-b555-1f7038a90ed9/resource/b61987b6-0658-4ed8-ae41-68f9af7452b7/download/eos-rs_20230514_fpm_a2_myanmar_cyclone_mocha_v0.4.zip\",\"label\":\"EOS-RS_20230514_FPM_A2_Myanmar_Cyclone_Mocha_v0.4.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/32936b5f-d13d-49b2-b555-1f7038a90ed9/resource/cb4a1b8e-503c-45a1-a5c6-8fa374a33129/download/eos-rs_20230514_fpm_a2_myanmar_cyclone_mocha_v0.3.zip\",\"label\":\"EOS-RS_20230514_FPM_A2_Myanmar_Cyclone_Mocha_v0.3.zip (GeoTIFF)\"}]}"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "hdx-5e761e53-d28c-4871-91eb-f296b3bb2bb2",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:57:21Z",
+  "dct_title_s": "Louisiana Hurricane Laura: Damage Proxy Maps, Aug 2020",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Louisiana Hurricane Laura: Damage Proxy Maps, Aug 2020 The Advanced Rapid Imaging and Analysis (ARIA) team at NASA's Jet Propulsion Laboratory and Caltech, in collaboration with the Earth Observatory of Singapore (EOS), produced these damage proxy maps for Louisiana Hurricane Laura (Aug 2020) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **ARIA-SG Damage Proxy Map: Louisiana, USA, Hurricane Laura, 1 Sep 2020, v0.4 ** - **ARIA-SG Damage Proxy Map: Louisiana, USA, Hurricane Laura, 1 Sep 2020, v0.4 ** **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "NASA JPL-Caltech ARIA team; Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "locn_geometry": "ENVELOPE(-125.0, -66.96, 49.5, 25.0)",
+  "dcat_bbox": "ENVELOPE(-125.0, -66.96, 49.5, 25.0)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-louisiana-hurricane-laura-aug-2020\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/5e761e53-d28c-4871-91eb-f296b3bb2bb2/resource/1587a255-9b61-461f-84db-966c6bd6e748/download/eos_aria-sg_20200901_dpm_louisiana_hurricane_laura_v0.4_cvd.zip\",\"label\":\"EOS_ARIA-SG_20200901_DPM_Louisiana_Hurricane_Laura_v0.4_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/5e761e53-d28c-4871-91eb-f296b3bb2bb2/resource/6bf301d6-b33e-4c70-aa60-5cc81dbdb1c9/download/eos_aria-sg_20200901_dpm_louisiana_hurricane_laura_v0.4.zip\",\"label\":\"EOS_ARIA-SG_20200901_DPM_Louisiana_Hurricane_Laura_v0.4.zip (GeoTIFF)\"}]}"
+}

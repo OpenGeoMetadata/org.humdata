@@ -1,0 +1,49 @@
+{
+  "id": "hdx-88e677c7-9aa4-4c83-9e72-75cfaaf4f3ce",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:58:37Z",
+  "dct_title_s": "Laos Floods: Flood Proxy Map, Sep 2019",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# ARIA-SG Flood Proxy Map: Laos Floods, 6 Sep 2019, v0.1 Derived from synthetic aperture radar data acquired by the Copernicus Sentinel-1 satellites operated by the European Space Agency (ESA) before (3 Apr) and during (6 Sep) the event. Analysed by the ARIA-SG team at the Earth Observatory of Singapore (EOS), using the ARIA-SG system originally developed by NASA-JPL and Caltech. Data processing used an AWS Open Dataset of Copernicus Sentinel-1 data for the Asia region (https://registry.opendata.aws/sentinel1-slc-seasia-pds). **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "NASA JPL-Caltech ARIA team; Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Lao People's Democratic Republic"
+  ],
+  "locn_geometry": "ENVELOPE(100.12, 107.56, 22.46, 13.88)",
+  "dcat_bbox": "ENVELOPE(100.12, 107.56, 22.46, 13.88)",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "gbl_indexYear_im": [
+    2019
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-laos-floods-sep-2019\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/88e677c7-9aa4-4c83-9e72-75cfaaf4f3ce/resource/eba862f8-231d-4b72-8c85-5dbc6303f5ba/download/eos_aria-sg_20190906_fpm_laos_floods_v0.1.zip\",\"label\":\"EOS_ARIA-SG_20190906_FPM_Laos_Floods_v0.1.zip (GeoTIFF)\"}]}"
+}

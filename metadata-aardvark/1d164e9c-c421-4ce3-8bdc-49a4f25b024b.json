@@ -1,0 +1,49 @@
+{
+  "id": "hdx-1d164e9c-c421-4ce3-8bdc-49a4f25b024b",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:51:17Z",
+  "dct_title_s": "Indonesia Floods Landslides: Damage Proxy Map, Dec 2024",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# EOS-RS Damage Proxy Map: Sukabumi & Cianjur Regencies, Indonesia, Floods & Landslides, 6 Dec 2024, v0.9 The Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) created this preliminary Damage Proxy Map (DPM) depicting areas that are likely damaged in Sukabumi and Cianjur Regencies in West Java, Indonesia, due to several floods and landslides triggered by heavy rainfall in early Dec 2024. This map was derived from synthetic aperture radar (SAR) images acquired by the Copernicus Sentinel-1 satellite operated by the European Space Agency (ESA) before (4 May 2024 to 31 Oct 2024) and during (6 Dec 2024) the event. The map covers an area indicated by the white polygon. Damage is shown by colored pixels of 30m in size, where yellow to red indicates increasingly significant ground surface change before and during the event. Preliminary validation was conducted using news reports and ground-level imagery in selected areas. This map should be used as a guidance to identify damaged areas, and may be less reliable over vegetated or mountainous areas. Scattered pixels over vegetated or mountainous areas may be false positives, and a lack of colored pixels over such areas may not mean no damage. The product contains modified Copernicus Sentinel data (2024), processed by ESA and analyzed by the Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS). **More map details and files:** **More map details and files:** **Legal Disclaimer:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2024)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Indonesia"
+  ],
+  "locn_geometry": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dcat_bbox": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-indonesia-floods-landslides-dec-2024\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/1d164e9c-c421-4ce3-8bdc-49a4f25b024b/resource/868aad97-f64c-4fcb-a5de-9622ae99f39b/download/eos-rs_20241206_dpm_s1_indonesia_floods_landslides_v0.9.zip\",\"label\":\"EOS-RS_20241206_DPM_S1_Indonesia_Floods_Landslides_v0.9.zip (GeoTIFF)\"}]}"
+}

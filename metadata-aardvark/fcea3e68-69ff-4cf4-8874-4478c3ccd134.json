@@ -1,0 +1,49 @@
+{
+  "id": "hdx-fcea3e68-69ff-4cf4-8874-4478c3ccd134",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:56:01Z",
+  "dct_title_s": "South Africa Floods: Damage Proxy Maps, Jun 2022",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# South Africa Floods: Damage Proxy Maps, Jun 2022 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these damage proxy maps for South Africa Floods (Jun 2022) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **EOS-RS Damage Proxy Map: South Africa, Floods, 4 Jun 2022, v0.9 wbd** (superseded) - **EOS-RS Damage Proxy Map: South Africa, Floods, 4 Jun 2022, v0.9** **More map details and files:** **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "South Africa"
+  ],
+  "locn_geometry": "ENVELOPE(16.34, 32.83, -22.09, -34.82)",
+  "dcat_bbox": "ENVELOPE(16.34, 32.83, -22.09, -34.82)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-southafrica-floods-jun-2022\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/fcea3e68-69ff-4cf4-8874-4478c3ccd134/resource/9cd01eea-4233-4cde-b77e-474acdead720/download/eos-rs_20220604_dpm_s1_southafrica_floods_v0.9_wbd.zip\",\"label\":\"EOS-RS_20220604_DPM_S1_SouthAfrica_Floods_v0.9_wbd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/fcea3e68-69ff-4cf4-8874-4478c3ccd134/resource/f8e05ca2-6923-4aea-91de-d2f482afff17/download/eos-rs_20220604_dpm_s1_southafrica_floods_v0.9.zip\",\"label\":\"EOS-RS_20220604_DPM_S1_SouthAfrica_Floods_v0.9.zip (GeoTIFF)\"}]}"
+}

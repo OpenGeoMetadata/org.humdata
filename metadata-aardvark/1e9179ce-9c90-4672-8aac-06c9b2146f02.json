@@ -1,0 +1,45 @@
+{
+  "id": "hdx-1e9179ce-9c90-4672-8aac-06c9b2146f02",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:55:19Z",
+  "dct_title_s": "Nepal Avalanche: Damage Proxy Maps, Oct 2022",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Nepal Avalanche: Damage Proxy Maps, Oct 2022 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these damage proxy maps for Nepal Avalanche (Oct 2022) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **EOS-RS Damage Proxy Map: Manaslu, Nepal, Avalanche, 5 Oct 2022, v0.8** - **EOS-RS Damage Proxy Map: Manaslu, Nepal, Avalanche, 5 Oct 2022, v0.8** - **EOS-RS Damage Proxy Map: Manaslu, Nepal, Avalanche, 5 Oct 2022, v0.4** (superseded) - **EOS-RS Damage Proxy Map: Manaslu, Nepal, Avalanche, 5 Oct 2022, v0.4** (superseded) **More map details and files:** **More map details and files:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Advanced Rapid Imaging and Analysis (ARIA), NASA-JPL/Caltech, Contains modified Copernicus Sentinel data (2022)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Nepal"
+  ],
+  "locn_geometry": "ENVELOPE(80.09, 88.17, 30.42, 26.4)",
+  "dcat_bbox": "ENVELOPE(80.09, 88.17, 30.42, 26.4)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-nepal-avalanche-oct-2022\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/1e9179ce-9c90-4672-8aac-06c9b2146f02/resource/5cd7aceb-2bef-4ba6-9d7b-0f600abae433/download/eos-rs_20221005_dpm_s1_nepal_avalanche_v0.8_cvd.zip\",\"label\":\"EOS-RS_20221005_DPM_S1_Nepal_Avalanche_v0.8_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/1e9179ce-9c90-4672-8aac-06c9b2146f02/resource/89a5326f-492f-4a51-8322-3f3ab0a02b26/download/eos-rs_20221005_dpm_s1_nepal_avalanche_v0.8.zip\",\"label\":\"EOS-RS_20221005_DPM_S1_Nepal_Avalanche_v0.8.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/1e9179ce-9c90-4672-8aac-06c9b2146f02/resource/fb2b4dab-e7ca-4532-9a9e-e676d8fecf2b/download/eos-rs_20221005_dpm_s1_nepal_avalanche_v0.4_cvd.zip\",\"label\":\"EOS-RS_20221005_DPM_S1_Nepal_Avalanche_v0.4_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/1e9179ce-9c90-4672-8aac-06c9b2146f02/resource/c3411a29-4a3c-49bb-b9a5-b0eb54e6b2f0/download/eos-rs_20221005_dpm_s1_nepal_avalanche_v0.4.zip\",\"label\":\"EOS-RS_20221005_DPM_S1_Nepal_Avalanche_v0.4.zip (GeoTIFF)\"}]}"
+}

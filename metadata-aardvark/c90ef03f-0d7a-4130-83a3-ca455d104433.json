@@ -1,0 +1,47 @@
+{
+  "id": "hdx-c90ef03f-0d7a-4130-83a3-ca455d104433",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:56:48Z",
+  "dct_title_s": "Nepal Landslide: Damage Proxy Map, Jun 2021",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# ARIA-SG Damage Proxy Map: Nepal, Landslide, 20 Jun 2021, v0.4 Derived from synthetic aperture radar data acquired by the Copernicus Sentinel-1 satellites operated by the European Space Agency (ESA) before (8 Jun) and after (20 Jun) the event. Analysed by the ARIA-SG team at the Earth Observatory of Singapore (EOS) in collaboration with NASA-JPL and Caltech. **More map details and files:** Due to steep topography of this area, parts of the map may be subject to slight shift in location or being in radar shadow (i.e. not visible). **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "NASA JPL-Caltech ARIA team; Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Nepal"
+  ],
+  "locn_geometry": "ENVELOPE(80.09, 88.17, 30.42, 26.4)",
+  "dcat_bbox": "ENVELOPE(80.09, 88.17, 30.42, 26.4)",
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-nepal-landslide-jun-2021\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/c90ef03f-0d7a-4130-83a3-ca455d104433/resource/35d350ba-39e3-4d93-919a-bed1a117f53f/download/eos_aria-sg_202106_dpm_nepal_landslide_v0.4.zip\",\"label\":\"EOS_ARIA-SG_202106_DPM_Nepal_Landslide_v0.4.zip (GeoTIFF)\"}]}"
+}

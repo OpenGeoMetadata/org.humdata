@@ -1,0 +1,54 @@
+{
+  "id": "hdx-da074a9b-e79f-4740-9676-982ad98a5a21",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:57:39Z",
+  "dct_title_s": "India Bangladesh Cyclone Amphan: Damage and Flood Proxy Maps, May 2020",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# India Bangladesh Cyclone Amphan: Damage and Flood Proxy Maps, May 2020 The Advanced Rapid Imaging and Analysis (ARIA) team at NASA's Jet Propulsion Laboratory and Caltech, in collaboration with the Earth Observatory of Singapore (EOS), produced these damage and flood proxy maps for India Bangladesh Cyclone Amphan (May 2020) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **ARIA-SG Damage Proxy Map: India and Bangladesh, Cyclone Amphan, 22 May 2020, v0.4 ** (superseded) - **ARIA-SG Damage Proxy Map: India and Bangladesh, Cyclone Amphan, 22 May 2020, v0.4 ** (superseded) - **ARIA-SG Damage Proxy Map: Bangladesh and India, Cyclone Amphan, 22 May 2020, v0.4 ** - **ARIA-SG Damage Proxy Map: Bangladesh and India, Cyclone Amphan, 22 May 2020, v0.4 ** - **ARIA-SG Flood Proxy Map: India, Cyclone Amphan, 22 May 2020, v0.8 ** - **ARIA-SG Flood Proxy Map: India and Bangladesh, Cyclone Amphan, 22 May 2020, v0.4 ** (superseded) - **ARIA-SG Flood Proxy Map: Bangladesh and India, Cyclone Amphan, 22 May 2020, v0.4 ** (superseded) **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "NASA JPL-Caltech ARIA team; Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Bangladesh",
+    "India"
+  ],
+  "locn_geometry": "ENVELOPE(68.18, 97.4, 35.49, 7.97)",
+  "dcat_bbox": "ENVELOPE(68.18, 97.4, 35.49, 7.97)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-india-bangladesh-cyclone-amphan-may-2020\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/da074a9b-e79f-4740-9676-982ad98a5a21/resource/2f67f941-f0ab-4b91-a4c1-2f6be922668e/download/eos_aria-sg_20200522_dpm_india_bangladesh_cyclone_amphan_p048_v0.4_cvd.zip\",\"label\":\"EOS_ARIA-SG_20200522_DPM_India_Bangladesh_Cyclone_Amphan_P048_v0.4_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/da074a9b-e79f-4740-9676-982ad98a5a21/resource/8e1e0b2b-4c1a-489a-8cb7-6324c65ec3a2/download/eos_aria-sg_20200522_dpm_india_bangladesh_cyclone_amphan_p048_v0.4.zip\",\"label\":\"EOS_ARIA-SG_20200522_DPM_India_Bangladesh_Cyclone_Amphan_P048_v0.4.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/da074a9b-e79f-4740-9676-982ad98a5a21/resource/a224eb5e-f91b-46f8-8dbb-3c925f28912f/download/eos_aria-sg_20200522_dpm_bangladesh_india_cyclone_amphan_p150_v0.4_cvd.zip\",\"label\":\"EOS_ARIA-SG_20200522_DPM_Bangladesh_India_Cyclone_Amphan_P150_v0.4_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/da074a9b-e79f-4740-9676-982ad98a5a21/resource/8c862f97-0289-49ca-85f4-61ab4a6ec98a/download/eos_aria-sg_20200522_dpm_bangladesh_india_cyclone_amphan_p150_v0.4.zip\",\"label\":\"EOS_ARIA-SG_20200522_DPM_Bangladesh_India_Cyclone_Amphan_P150_v0.4.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/da074a9b-e79f-4740-9676-982ad98a5a21/resource/84684b6a-2417-41dd-8446-8d91066346b7/download/eos_aria-sg_20200522_fpm_india_cyclone_amphan_v0.8.zip\",\"label\":\"EOS_ARIA-SG_20200522_FPM_India_Cyclone_Amphan_v0.8.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/da074a9b-e79f-4740-9676-982ad98a5a21/resource/c2610002-04f7-47a2-898b-5e7e2aa08fff/download/eos_aria-sg_20200522_fpm_india_bangladesh_cyclone_amphan_p048_v0.4.zip\",\"label\":\"EOS_ARIA-SG_20200522_FPM_India_Bangladesh_Cyclone_Amphan_P048_v0.4.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/da074a9b-e79f-4740-9676-982ad98a5a21/resource/ffc63c0e-f089-4319-9e91-970ba1d697fa/download/eos_aria-sg_20200522_fpm_bangladesh_india_cyclone_amphan_p150_v0.4.zip\",\"label\":\"EOS_ARIA-SG_20200522_FPM_Bangladesh_India_Cyclone_Amphan_P150_v0.4.zip (GeoTIFF)\"}]}"
+}

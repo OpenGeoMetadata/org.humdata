@@ -1,0 +1,51 @@
+{
+  "id": "hdx-73bef617-f442-4b99-8bdf-d6d094c7f52f",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:55:44Z",
+  "dct_title_s": "Pakistan Floods: Damage and Flood Proxy Maps, Aug 2022",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Pakistan Floods: Damage and Flood Proxy Maps, Aug 2022 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these damage and flood proxy maps for Pakistan Floods (Aug 2022) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **EOS-RS Damage Proxy Map: Pakistan, Floods, 1 Sep 2022, v0.8** - **EOS-RS Damage Proxy Map: Pakistan, Floods, 1 Sep 2022, v0.8** - **EOS-RS Damage Proxy Map: Pakistan, Floods, 30 Aug 2022, v0.8** - **EOS-RS Damage Proxy Map: Pakistan, Floods, 30 Aug 2022, v0.8** - **EOS-RS Damage Proxy Map: Pakistan, Floods, 29 Aug 2022, v0.8** - **EOS-RS Damage Proxy Map: Pakistan, Floods, 29 Aug 2022, v0.8** - **EOS-RS Flood Proxy Map: Pakistan, Floods, 21 Aug 2022, v0.3** **More map details and files:** **More map details and files:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Advanced Rapid Imaging and Analysis (ARIA), NASA-JPL/Caltech, Contains modified Copernicus Sentinel data (2022)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Pakistan"
+  ],
+  "locn_geometry": "ENVELOPE(60.87, 77.84, 37.13, 23.69)",
+  "dcat_bbox": "ENVELOPE(60.87, 77.84, 37.13, 23.69)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-pakistan-floods-aug-2022\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/73bef617-f442-4b99-8bdf-d6d094c7f52f/resource/51f34391-d1ed-4ccb-ba48-a2363ffab30e/download/eos-rs_20220901_dpm_s1_pakistan_floods_v0.8_cvd.zip\",\"label\":\"EOS-RS_20220901_DPM_S1_Pakistan_Floods_v0.8_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/73bef617-f442-4b99-8bdf-d6d094c7f52f/resource/98d68c93-69bf-4242-9312-d062e572bbd2/download/eos-rs_20220901_dpm_s1_pakistan_floods_v0.8.zip\",\"label\":\"EOS-RS_20220901_DPM_S1_Pakistan_Floods_v0.8.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/73bef617-f442-4b99-8bdf-d6d094c7f52f/resource/c20d16e7-2092-4b2a-98e8-642b482ac312/download/eos-rs_20220830_dpm_s1_pakistan_floods_v0.8_cvd.zip.zip\",\"label\":\"EOS-RS_20220830_DPM_S1_Pakistan_Floods_v0.8_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/73bef617-f442-4b99-8bdf-d6d094c7f52f/resource/9d78a691-297c-4197-8fd4-c7a12d925abe/download/eos-rs_20220830_dpm_s1_pakistan_floods_v0.8.zip.zip\",\"label\":\"EOS-RS_20220830_DPM_S1_Pakistan_Floods_v0.8.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/73bef617-f442-4b99-8bdf-d6d094c7f52f/resource/3d2698f4-4e5b-47e8-a12e-4e18e10f08fb/download/eos-rs_20220829_dpm_s1_pakistan_floods_v0.8_cvd.zip\",\"label\":\"EOS-RS_20220829_DPM_S1_Pakistan_Floods_v0.8_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/73bef617-f442-4b99-8bdf-d6d094c7f52f/resource/2fb359f1-123b-4760-bda9-7cd18b6d23e8/download/eos-rs_20220829_dpm_s1_pakistan_floods_v0.8.zip\",\"label\":\"EOS-RS_20220829_DPM_S1_Pakistan_Floods_v0.8.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/73bef617-f442-4b99-8bdf-d6d094c7f52f/resource/d1397546-b360-418c-b3e6-880502082bcf/download/eos-rs_20220821_fpm_a2_pakistan_floods_v0.3.zip\",\"label\":\"EOS-RS_20220821_FPM_A2_Pakistan_Floods_v0.3.zip (GeoTIFF)\"}]}"
+}

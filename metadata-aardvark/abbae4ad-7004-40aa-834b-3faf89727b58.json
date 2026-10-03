@@ -1,0 +1,49 @@
+{
+  "id": "hdx-abbae4ad-7004-40aa-834b-3faf89727b58",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:58:52Z",
+  "dct_title_s": "Myanmar Floods: Flood Proxy Maps, Aug 2019",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Myanmar Floods: Flood Proxy Maps, Aug 2019 The Advanced Rapid Imaging and Analysis (ARIA) team at NASA's Jet Propulsion Laboratory and Caltech, in collaboration with the Earth Observatory of Singapore (EOS), produced these flood proxy maps for Myanmar Floods (Aug 2019) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **ARIA-SG Flood Proxy Map: Myanmar, 2019 Floods v2.0 ** - **ARIA-SG Flood Proxy Map: Myanmar, 2019 Floods v1.0 ** **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "NASA JPL-Caltech ARIA team; Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Myanmar"
+  ],
+  "locn_geometry": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dcat_bbox": "ENVELOPE(92.3, 101.18, 28.34, 9.93)",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "gbl_indexYear_im": [
+    2019
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-myanmar-floods-aug-2019\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/abbae4ad-7004-40aa-834b-3faf89727b58/resource/b758e543-ca24-44cd-a0af-0f158af1cbd3/download/eos_aria-sg_20190815_fpm_myanmar_floods_v2.0.zip\",\"label\":\"EOS_ARIA-SG_20190815_FPM_Myanmar_Floods_v2.0.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/abbae4ad-7004-40aa-834b-3faf89727b58/resource/4af07495-c059-47d8-801d-63622ee32b8e/download/eos_aria-sg_20190809_fpm_myanmar_floods_v1.0.zip\",\"label\":\"EOS_ARIA-SG_20190809_FPM_Myanmar_Floods_v1.0.zip (GeoTIFF)\"}]}"
+}

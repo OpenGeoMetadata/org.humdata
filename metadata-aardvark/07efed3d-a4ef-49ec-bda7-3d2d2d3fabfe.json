@@ -1,0 +1,50 @@
+{
+  "id": "hdx-07efed3d-a4ef-49ec-bda7-3d2d2d3fabfe",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:58:55Z",
+  "dct_title_s": "India Bangladesh Floods: Flood Proxy Map, Jul 2019",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# ARIA Flood Proxy Map: India, Bangladesh, 2019 Floods This map shows areas that are likely flooded in northeast India and Bangladesh due to heavy rains brought by the monsoon season, shown by light blue pixels of 30 m (Copernicus Sentinel-1) and 25 m (ALOS-2) pixel size, and is a preliminary result. The map extents are indicated with red and yellow polygons. This map should be used as a guidance to identify areas that are likely flooded, and may be less reliable over urban and vegetated areas. Derived from synthetic aperture radar data acquired by the Copernicus Sentinel-1 satellites operated by the European Space Agency (ESA) before (15 May) and during (14 Jul) the event, and by the ALOS-2 satellite operated by the Japanese Aerospace Exploration Agency (JAXA) before (25 Mar) and during (15 Jul) the event. Analysed by the ARIA-SG team at the Earth Observatory of Singapore in collaboration with NASA/JPL-Caltech. For more information, please visit **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "NASA JPL-Caltech ARIA team; Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Bangladesh",
+    "India"
+  ],
+  "locn_geometry": "ENVELOPE(68.18, 97.4, 35.49, 7.97)",
+  "dcat_bbox": "ENVELOPE(68.18, 97.4, 35.49, 7.97)",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "gbl_indexYear_im": [
+    2019
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-india-bangladesh-floods-jul-2019\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/07efed3d-a4ef-49ec-bda7-3d2d2d3fabfe/resource/5de1b805-88c8-43c7-b071-f1de75cd580a/download/eos_aria-sg_20190715_fpm_india_bangladesh_floods_v1.0.zip\",\"label\":\"EOS_ARIA-SG_20190715_FPM_India_Bangladesh_Floods_v1.0.zip (GeoTIFF)\"}]}"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "hdx-fba47b60-11ad-4929-b264-1d026f8f53f5",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:57:31Z",
+  "dct_title_s": "India Floods: Flood Proxy Maps, Jul 2020",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# India Floods: Flood Proxy Maps, Jul 2020 The Advanced Rapid Imaging and Analysis (ARIA) team at NASA's Jet Propulsion Laboratory and Caltech, in collaboration with the Earth Observatory of Singapore (EOS), produced these flood proxy maps for India Floods (Jul 2020) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **ARIA-SG Flood Proxy Map: India, Floods, 15 Jul 2020, v0.7 ** - **ARIA-SG Flood Proxy Map: India, Floods, 13 Jul 2020, v0.7 ** **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "NASA JPL-Caltech ARIA team; Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "India"
+  ],
+  "locn_geometry": "ENVELOPE(68.18, 97.4, 35.49, 7.97)",
+  "dcat_bbox": "ENVELOPE(68.18, 97.4, 35.49, 7.97)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-india-floods-jul-2020\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/fba47b60-11ad-4929-b264-1d026f8f53f5/resource/ceba323a-5be4-4373-9e92-e2f15baaf891/download/eos_aria-sg_20200715_fpm_india_floods_p143_v0.7.zip\",\"label\":\"EOS_ARIA-SG_20200715_FPM_India_Floods_P143_v0.7.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/fba47b60-11ad-4929-b264-1d026f8f53f5/resource/9919ac75-adbe-4c5c-bafa-1a2d31d1ebe6/download/eos_aria-sg_20200713_fpm_india_floods_p114_v0.7.zip\",\"label\":\"EOS_ARIA-SG_20200713_FPM_India_Floods_P114_v0.7.zip (GeoTIFF)\"}]}"
+}

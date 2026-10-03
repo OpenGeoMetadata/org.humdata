@@ -1,0 +1,51 @@
+{
+  "id": "hdx-bc62cce1-443b-465c-948b-060e1c3357d1",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:58:11Z",
+  "dct_title_s": "Philippines Earthquake: Damage Proxy Maps, Oct 2019",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Philippines Earthquake: Damage Proxy Maps, Oct 2019 The Advanced Rapid Imaging and Analysis (ARIA) team at NASA's Jet Propulsion Laboratory and Caltech, in collaboration with the Earth Observatory of Singapore (EOS), produced these damage proxy maps for Philippines Earthquake (Oct 2019) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **Philippines - ARIA Damage Proxy Map v0.4** (superseded) - **Philippines - ARIA Damage Proxy Map v0.4** **More map details and files:** **Copyright:** Contains modified Copernicus Sentinel data (2019) processed by ESA, the ARIA team at NASA-JPL and Caltech, and EOS."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "NASA JPL-Caltech ARIA team; Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "damage assessment",
+    "earthquake-tsunami",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "damage assessment",
+    "earthquake-tsunami",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "locn_geometry": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dcat_bbox": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "gbl_indexYear_im": [
+    2019
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-philipines-earthquake-oct-2019\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/bc62cce1-443b-465c-948b-060e1c3357d1/resource/ffece4ac-6a9c-4bab-b82f-38fdb695b2cc/download/eos_aria-sg_20191028_dpm_s1_philippines_earthquake_desc_v0.4.zip\",\"label\":\"EOS_ARIA-SG_20191028_DPM_S1_Philippines_Earthquake_desc_v0.4.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/bc62cce1-443b-465c-948b-060e1c3357d1/resource/02602f2c-a64d-4c6b-b19a-0e214f6fb627/download/eos_aria-sg_20191028_dpm_s1_philippines_earthquake_asc_v0.4.zip\",\"label\":\"EOS_ARIA-SG_20191028_DPM_S1_Philippines_Earthquake_asc_v0.4.zip (GeoTIFF)\"}]}"
+}

@@ -1,0 +1,169 @@
+{
+  "archived": false,
+  "batch": "76836ac0-db1d-44b7-be89-c8e3354ada60",
+  "caveats": "This product contains modified Copernicus Sentinel data (2020), processed by ESA and analyzed by the Earth Observatory of Singapore.\n\nThese are preliminary maps derived from satellite radar and should be used as guidance only. Coloured pixels may include false positives, and their absence does not mean an absence of damage or flooding.",
+  "creator_user_id": "610cc9ec-1862-432e-abee-5af9ccac397b",
+  "data_update_frequency": "-2",
+  "dataset_date": "[2020-07-13T00:00:00 TO 2020-07-15T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "NASA JPL-Caltech ARIA team; Earth Observatory of Singapore",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "fba47b60-11ad-4929-b264-1d026f8f53f5",
+  "is_requestdata_type": false,
+  "isopen": true,
+  "last_modified": "2026-10-02T09:57:23.541340",
+  "license_id": "cc-by",
+  "license_title": "Creative Commons Attribution International (CC BY)",
+  "license_url": "http://www.opendefinition.org/licenses/cc-by",
+  "maintainer": "610cc9ec-1862-432e-abee-5af9ccac397b",
+  "metadata_created": "2026-10-02T09:57:09.348474",
+  "metadata_modified": "2026-10-02T17:57:31.564094",
+  "methodology": "Other",
+  "methodology_other": "Change detection on synthetic aperture radar (SAR) satellite images acquired before and after the event. Damage Proxy Maps show significant changes in radar coherence and amplitude; Flood Proxy Maps show areas that changed to standing water. Maps are preliminary and checked against news reports and ground-level imagery where available.",
+  "name": "eos-rs-india-floods-jul-2020",
+  "notes": "# India Floods: Flood Proxy Maps, Jul 2020\n\nThe Advanced Rapid Imaging and Analysis (ARIA) team at NASA's Jet Propulsion Laboratory and Caltech, in collaboration with the Earth Observatory of Singapore (EOS), produced these flood proxy maps for India Floods (Jul 2020) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it.\n\n## Maps in this dataset\n\n- **ARIA-SG Flood Proxy Map: India, Floods, 15 Jul 2020, v0.7\r**\n- **ARIA-SG Flood Proxy Map: India, Floods, 13 Jul 2020, v0.7\r**\n\n**More map details and files:** <https://sf.earthobservatory.sg/event/EOS_ARIA-SG_202007_India_Floods>",
+  "num_resources": 2,
+  "num_tags": 6,
+  "organization": {
+    "id": "58064b08-71c1-4a9b-8ef3-be8300b94af7",
+    "name": "earth-observatory-of-singapore-remote-sensing-lab",
+    "title": "Earth Observatory of Singapore",
+    "type": "organization",
+    "description": "The Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) is a research lab at Nanyang Technological University (NTU), Singapore. It uses satellite remote sensing, mainly synthetic aperture radar (SAR), to map natural hazards and disasters. The lab produces Damage Proxy Maps (DPMs) and Flood Proxy Maps (FPMs) showing where damage or flooding has likely occurred. Its work focuses on Southeast Asia and the wider Asia-Pacific, and it also responds to major disasters worldwide.",
+    "image_url": "",
+    "created": "2026-10-01T16:40:31.070243",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "58064b08-71c1-4a9b-8ef3-be8300b94af7",
+  "package_creator": "rickyw",
+  "pageviews_last_14_days": 4,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"India\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "India Floods: Flood Proxy Maps, Jul 2020",
+  "total_res_downloads": 4,
+  "type": "dataset",
+  "updated_by_script": "EOS_SARFinder (2026-10-02T17:57:31.236324)",
+  "url": null,
+  "version": null,
+  "customviz": [
+    {
+      "url": "https://sf.earthobservatory.sg/event/EOS_ARIA-SG_202007_India_Floods"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "India",
+      "id": "ind",
+      "image_display_url": "",
+      "name": "ind",
+      "title": "India"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/fba47b60-11ad-4929-b264-1d026f8f53f5/resource/ceba323a-5be4-4373-9e92-e2f15baaf891/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2026-10-02T09:57:09.361207",
+      "datastore_active": false,
+      "description": "ARIA-SG Flood Proxy Map: India, Floods, 15 Jul 2020, v0.7\n\nZIP containing: GeoTIFF, KMZ, PNG, TXT, Shapefile.\n\nDerived from synthetic aperture radar data acquired by the Copernicus Sentinel-1 satellites operated by the European Space Agency (ESA) from 22 Jan 2019 to 15 Jul 2020. Analysed by the ARIA-SG team at the Earth Observatory of Singapore (EOS) in collaboration with NASA-JPL and Caltech.",
+      "download_url": "https://data.humdata.org/dataset/fba47b60-11ad-4929-b264-1d026f8f53f5/resource/ceba323a-5be4-4373-9e92-e2f15baaf891/download/eos_aria-sg_20200715_fpm_india_floods_p143_v0.7.zip",
+      "format": "GeoTIFF",
+      "hash": "104d65a2",
+      "hdx_rel_url": "/dataset/fba47b60-11ad-4929-b264-1d026f8f53f5/resource/ceba323a-5be4-4373-9e92-e2f15baaf891/download/eos_aria-sg_20200715_fpm_india_floods_p143_v0.7.zip",
+      "id": "ceba323a-5be4-4373-9e92-e2f15baaf891",
+      "last_modified": "2026-10-02T09:57:15.231368",
+      "metadata_modified": "2026-10-02T17:57:31.602271",
+      "microdata": false,
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "EOS_ARIA-SG_20200715_FPM_India_Floods_P143_v0.7.zip",
+      "package_id": "fba47b60-11ad-4929-b264-1d026f8f53f5",
+      "position": 0,
+      "resource_type": "file.upload",
+      "size": 39001243,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/fba47b60-11ad-4929-b264-1d026f8f53f5/resource/ceba323a-5be4-4373-9e92-e2f15baaf891/download/eos_aria-sg_20200715_fpm_india_floods_p143_v0.7.zip",
+      "url_type": "upload"
+    },
+    {
+      "alt_url": "https://data.humdata.org/dataset/fba47b60-11ad-4929-b264-1d026f8f53f5/resource/9919ac75-adbe-4c5c-bafa-1a2d31d1ebe6/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2026-10-02T09:57:23.789111",
+      "datastore_active": false,
+      "description": "ARIA-SG Flood Proxy Map: India, Floods, 13 Jul 2020, v0.7\n\nZIP containing: GeoTIFF, KMZ, PNG, TXT, Shapefile.\n\nDerived from synthetic aperture radar data acquired by the Copernicus Sentinel-1 satellites operated by the European Space Agency (ESA) from 28 Oct 2018 to 13 Jul 2020. Analysed by the ARIA-SG team at the Earth Observatory of Singapore (EOS) in collaboration with NASA-JPL and Caltech.",
+      "download_url": "https://data.humdata.org/dataset/fba47b60-11ad-4929-b264-1d026f8f53f5/resource/9919ac75-adbe-4c5c-bafa-1a2d31d1ebe6/download/eos_aria-sg_20200713_fpm_india_floods_p114_v0.7.zip",
+      "format": "GeoTIFF",
+      "hash": "3871b00e",
+      "hdx_rel_url": "/dataset/fba47b60-11ad-4929-b264-1d026f8f53f5/resource/9919ac75-adbe-4c5c-bafa-1a2d31d1ebe6/download/eos_aria-sg_20200713_fpm_india_floods_p114_v0.7.zip",
+      "id": "9919ac75-adbe-4c5c-bafa-1a2d31d1ebe6",
+      "last_modified": "2026-10-02T09:57:23.541340",
+      "metadata_modified": "2026-10-02T17:57:31.602472",
+      "microdata": false,
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "EOS_ARIA-SG_20200713_FPM_India_Floods_P114_v0.7.zip",
+      "package_id": "fba47b60-11ad-4929-b264-1d026f8f53f5",
+      "position": 1,
+      "resource_type": "file.upload",
+      "size": 29455388,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/fba47b60-11ad-4929-b264-1d026f8f53f5/resource/9919ac75-adbe-4c5c-bafa-1a2d31d1ebe6/download/eos_aria-sg_20200713_fpm_india_floods_p114_v0.7.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "affected area",
+      "id": "25d0e6cc-a02c-4c91-b358-7d4bb1a42af0",
+      "name": "affected area",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "climate hazards",
+      "id": "ba8322b6-72e7-4475-b015-72d200bf5957",
+      "name": "climate hazards",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "flooding",
+      "id": "532eacf2-7b8c-4dd5-baf7-c25720cadb38",
+      "name": "flooding",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "hazards and risk",
+      "id": "7173a61f-84fd-45ca-856a-3aa2b0372869",
+      "name": "hazards and risk",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "natural disasters",
+      "id": "48520851-7df8-418b-aa00-7fa276d7fd88",
+      "name": "natural disasters",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

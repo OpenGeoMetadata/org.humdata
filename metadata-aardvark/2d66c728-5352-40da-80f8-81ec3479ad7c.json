@@ -1,0 +1,47 @@
+{
+  "id": "hdx-2d66c728-5352-40da-80f8-81ec3479ad7c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:47:56Z",
+  "dct_title_s": "Venezuela Earthquake Caracas: Damage Proxy Maps, Jun 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Venezuela Earthquake Caracas: Damage Proxy Maps, Jun 2026 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these damage proxy maps for Venezuela Earthquake Caracas (Jun 2026) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **EOS-RS Damage Proxy Map: La Guaira, Venezuela, Earthquakes, 25 June 2026, v0.8 ** - **EOS-RS Damage Proxy Map: Yuracuy Region, Venezuela, Earthquakes, 25 June 2026, v0.8 ** **More map details and files:** **Legal Disclaimer:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2026)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Venezuela (Bolivarian Republic of)"
+  ],
+  "locn_geometry": "ENVELOPE(-73.3, -59.76, 12.16, 0.72)",
+  "dcat_bbox": "ENVELOPE(-73.3, -59.76, 12.16, 0.72)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-venezuela-earthquake-caracas-jun-2026\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/2d66c728-5352-40da-80f8-81ec3479ad7c/resource/576b7d5c-04fd-4314-91e1-bd4a8a3f59f1/download/eosrs_2026_005_ven_eq_20260625_dpm_s1_caracas_v0.8.zip\",\"label\":\"EOSRS_2026_005_VEN_EQ_20260625_DPM_S1_Caracas_v0.8.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/2d66c728-5352-40da-80f8-81ec3479ad7c/resource/aa71a256-9554-49b3-912b-a280058b3e05/download/eosrs_2026_005_ven_eq_20260624_dpm_s1_barquisimeto_v0.8.zip\",\"label\":\"EOSRS_2026_005_VEN_EQ_20260624_DPM_S1_Barquisimeto_v0.8.zip (GeoTIFF)\"}]}"
+}

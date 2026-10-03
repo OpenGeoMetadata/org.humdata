@@ -1,0 +1,49 @@
+{
+  "id": "hdx-2f2172bd-3eea-4a30-8c09-4d0963a5b8d7",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:58:25Z",
+  "dct_title_s": "Thailand Floods: Flood Proxy Maps, Sep 2019",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Thailand Floods: Flood Proxy Maps, Sep 2019 The Advanced Rapid Imaging and Analysis (ARIA) team at NASA's Jet Propulsion Laboratory and Caltech, in collaboration with the Earth Observatory of Singapore (EOS), produced these flood proxy maps for Thailand Floods (Sep 2019) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **ARIA-SG Flood Proxy Map: Thailand Floods, 21 Sep 2019, v0.1 P164** (superseded) - **ARIA-SG Flood Proxy Map: Thailand Floods, 21 Sep 2019, v0.1 P091** **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "NASA JPL-Caltech ARIA team; Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Thailand"
+  ],
+  "locn_geometry": "ENVELOPE(97.38, 105.59, 20.42, 5.69)",
+  "dcat_bbox": "ENVELOPE(97.38, 105.59, 20.42, 5.69)",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "gbl_indexYear_im": [
+    2019
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-thailand-floods-sep-2019\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/2f2172bd-3eea-4a30-8c09-4d0963a5b8d7/resource/7b46aaf3-d4d5-42d7-843f-f9286e53d779/download/eos_aria-sg_20190921_fpm_thailand_floods_v0.1_p164.zip\",\"label\":\"EOS_ARIA-SG_20190921_FPM_Thailand_Floods_v0.1_P164.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/2f2172bd-3eea-4a30-8c09-4d0963a5b8d7/resource/7f2e156c-ceb5-4a1c-9de3-84d9f91e0742/download/eos_aria-sg_20190921_fpm_thailand_floods_v0.1_p091.zip\",\"label\":\"EOS_ARIA-SG_20190921_FPM_Thailand_Floods_v0.1_P091.zip (GeoTIFF)\"}]}"
+}

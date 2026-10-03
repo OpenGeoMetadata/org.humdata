@@ -1,0 +1,49 @@
+{
+  "id": "hdx-bdcc6927-15c6-4350-8465-b382edf8b5cd",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:56:20Z",
+  "dct_title_s": "Thailand Floods: Flood Proxy Map, Feb 2022",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# EOS-RS Flood Proxy Map: Thailand, Floods, Mar 2022, v0.3 The Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) created this preliminary Flood Proxy Map (FPM) depicting areas that are likely flooded in Southern Thailand due to heavy rains that started on 23 Feb 2022. This map was derived from synthetic aperture radar (SAR) images acquired by the ALOS-2 satellites operated by the Japan Aerospace Exploration Agency (JAXA) before (21 Aug 2021) and after (5 Mar 2022) the event. The image covers an area indicated by the large white polygon. Each light blue pixel measures about 25 meters across. This map has not been validated with field data. This flood proxy map should be used as a guide to identify areas that are likely flooded, and is less reliable over urban and vegetated areas. Data were provided by Sentinel Asia and analyzed by the Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS). **More map details and files:** **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Thailand"
+  ],
+  "locn_geometry": "ENVELOPE(97.38, 105.59, 20.42, 5.69)",
+  "dcat_bbox": "ENVELOPE(97.38, 105.59, 20.42, 5.69)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-thailand-floods-feb-2022\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/bdcc6927-15c6-4350-8465-b382edf8b5cd/resource/4b6eb5be-2873-4e71-be20-f537dd017077/download/eos-rs_20220305_fpm_a2_thailand_floods_v0.3.zip\",\"label\":\"EOS-RS_20220305_FPM_A2_Thailand_Floods_v0.3.zip (GeoTIFF)\"}]}"
+}

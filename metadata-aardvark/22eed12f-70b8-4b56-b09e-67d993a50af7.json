@@ -1,0 +1,45 @@
+{
+  "id": "hdx-22eed12f-70b8-4b56-b09e-67d993a50af7",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:55:09Z",
+  "dct_title_s": "Hawaii Mauna Loa Volcano: Damage Proxy Maps and Interferograms, Nov 2022",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Hawaii Mauna Loa Volcano: Damage Proxy Maps and Interferograms, Nov 2022 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these damage proxy maps and interferograms for Hawaii Mauna Loa Volcano (Nov 2022) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **EOS-RS Damage Proxy Map: Hawaii, USA, Mauna Loa Volcano Eruption, 29 Nov 2022, v0.5** - **EOS-RS Damage Proxy Map: Hawaii, USA, Mauna Loa Volcano Eruption, 29 Nov 2022, v0.5** - **EOS-RS Interferogram (unwrapped): Hawaii, USA, Mauna Loa Volcano Eruption, 2022/10/18-2022/11/29, v0.1** - **EOS-RS Interferogram (wrapped): Hawaii, USA, Mauna Loa Volcano Eruption, 2022/10/18-2022/11/29, v0.1** **More map details and files:** **More map details and files:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Original data ALOS-2 PALSAR-2 Product - JAXA (2022)."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "locn_geometry": "ENVELOPE(-125.0, -66.96, 49.5, 25.0)",
+  "dcat_bbox": "ENVELOPE(-125.0, -66.96, 49.5, 25.0)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-hawaii-maunaloa-volcano-nov-2022\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/22eed12f-70b8-4b56-b09e-67d993a50af7/resource/30d18549-6a0f-49a9-a0bd-b1fb3d46844d/download/eos-rs_20221129_dpm_a2_hawaii_maunaloa_volcano_v0.5_cvd.zip\",\"label\":\"EOS-RS_20221129_DPM_A2_Hawaii_MaunaLoa_Volcano_v0.5_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/22eed12f-70b8-4b56-b09e-67d993a50af7/resource/f0b90139-590e-4ff2-a652-baab5499f546/download/eos-rs_20221129_dpm_a2_hawaii_maunaloa_volcano_v0.5.zip\",\"label\":\"EOS-RS_20221129_DPM_A2_Hawaii_MaunaLoa_Volcano_v0.5.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/22eed12f-70b8-4b56-b09e-67d993a50af7/resource/006ac6a4-0ec3-45b1-8e77-761939b7a772/download/eos-rs_20221018-20221129_ifg-unw_a2_hawaii_maunaloa_volcano_v0.1.zip\",\"label\":\"EOS-RS_20221018-20221129_IFG-UNW_A2_Hawaii_MaunaLoa_Volcano_v0.1.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/22eed12f-70b8-4b56-b09e-67d993a50af7/resource/a8f04371-9bf6-4828-a463-ab8344a5c32b/download/eos-rs_20221018-20221129_ifg-wrp_a2_hawaii_maunaloa_volcano_v0.1.zip\",\"label\":\"EOS-RS_20221018-20221129_IFG-WRP_A2_Hawaii_MaunaLoa_Volcano_v0.1.zip (GeoTIFF)\"}]}"
+}

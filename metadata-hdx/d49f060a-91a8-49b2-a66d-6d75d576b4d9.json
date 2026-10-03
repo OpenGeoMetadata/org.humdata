@@ -1,0 +1,129 @@
+{
+  "archived": false,
+  "batch": "76836ac0-db1d-44b7-be89-c8e3354ada60",
+  "caveats": "This product contains modified Copernicus Sentinel data (2020), processed by ESA and analyzed by the Earth Observatory of Singapore.\n\nThese are preliminary maps derived from satellite radar and should be used as guidance only. Coloured pixels may include false positives, and their absence does not mean an absence of damage or flooding.",
+  "creator_user_id": "610cc9ec-1862-432e-abee-5af9ccac397b",
+  "data_update_frequency": "-2",
+  "dataset_date": "[2020-01-15T00:00:00 TO 2020-01-15T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "NASA JPL-Caltech ARIA team; Earth Observatory of Singapore",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "d49f060a-91a8-49b2-a66d-6d75d576b4d9",
+  "is_requestdata_type": false,
+  "isopen": true,
+  "last_modified": "2026-10-02T09:41:09.191974",
+  "license_id": "cc-by",
+  "license_title": "Creative Commons Attribution International (CC BY)",
+  "license_url": "http://www.opendefinition.org/licenses/cc-by",
+  "maintainer": "610cc9ec-1862-432e-abee-5af9ccac397b",
+  "metadata_created": "2026-10-02T09:41:05.092038",
+  "metadata_modified": "2026-10-02T17:57:55.558702",
+  "methodology": "Other",
+  "methodology_other": "Change detection on synthetic aperture radar (SAR) satellite images acquired before and after the event. Damage Proxy Maps show significant changes in radar coherence and amplitude; Flood Proxy Maps show areas that changed to standing water. Maps are preliminary and checked against news reports and ground-level imagery where available.",
+  "name": "eos-rs-philippines-taal-volcano-jan-2020",
+  "notes": "# ARIA-SG Damage Proxy Map: Philippines Taal Volcano Eruption, 15 Jan 2020, v1.0\r\n\nDerived from synthetic aperture radar data acquired by the Copernicus Sentinel-1 satellites operated by the European Space Agency (ESA) before (9 Jan) and after (15 Jan) the onset of the event. Analysed by the ARIA-SG team at the Earth Observatory of Singapore (EOS) in collaboration with NASA-JPL and Caltech. Data processing used an AWS Open Dataset of Copernicus Sentinel-1 data for the Asia region (https://registry.opendata.aws/sentinel1-slc-seasia-pds).\n\n**More map details and files:** <https://sf.earthobservatory.sg/event/EOS_ARIA-SG_202001_Philippines_Taal_Volcano>",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "id": "58064b08-71c1-4a9b-8ef3-be8300b94af7",
+    "name": "earth-observatory-of-singapore-remote-sensing-lab",
+    "title": "Earth Observatory of Singapore",
+    "type": "organization",
+    "description": "The Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) is a research lab at Nanyang Technological University (NTU), Singapore. It uses satellite remote sensing, mainly synthetic aperture radar (SAR), to map natural hazards and disasters. The lab produces Damage Proxy Maps (DPMs) and Flood Proxy Maps (FPMs) showing where damage or flooding has likely occurred. Its work focuses on Southeast Asia and the wider Asia-Pacific, and it also responds to major disasters worldwide.",
+    "image_url": "",
+    "created": "2026-10-01T16:40:31.070243",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "58064b08-71c1-4a9b-8ef3-be8300b94af7",
+  "package_creator": "rickyw",
+  "pageviews_last_14_days": 1,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Philippines\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Philippines Taal Volcano: Damage Proxy Map, Jan 2020",
+  "total_res_downloads": 2,
+  "type": "dataset",
+  "updated_by_script": "EOS_SARFinder (2026-10-02T17:57:55.319025)",
+  "url": null,
+  "version": null,
+  "customviz": [
+    {
+      "url": "https://sf.earthobservatory.sg/event/EOS_ARIA-SG_202001_Philippines_Taal_Volcano"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Philippines",
+      "id": "phl",
+      "image_display_url": "",
+      "name": "phl",
+      "title": "Philippines"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/d49f060a-91a8-49b2-a66d-6d75d576b4d9/resource/9c319db3-747f-4c33-bb45-ff0813a0c752/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2026-10-02T09:41:05.098217",
+      "datastore_active": false,
+      "description": "ARIA-SG Damage Proxy Map: Philippines Taal Volcano Eruption, 15 Jan 2020, v1.0\n\nZIP containing: GeoTIFF, KMZ, PNG, TXT.\n\nDerived from synthetic aperture radar data acquired by the Copernicus Sentinel-1 satellites operated by the European Space Agency (ESA) before (9 Jan) and after (15 Jan) the onset of the event. Analysed by the ARIA-SG team at the Earth Observatory of Singapore (EOS) in collaboration with NASA-JPL and Caltech. Data processing used an AWS Open Dataset of Copernicus Sentinel-1 data for the Asia region (https://registry.opendata.aws/sentinel1-slc-seasia-pds).",
+      "download_url": "https://data.humdata.org/dataset/d49f060a-91a8-49b2-a66d-6d75d576b4d9/resource/9c319db3-747f-4c33-bb45-ff0813a0c752/download/eos_aria-sg_20200115_dpm_philippines_taal_volcano_v0.1.zip",
+      "format": "GeoTIFF",
+      "hash": "f369f285",
+      "hdx_rel_url": "/dataset/d49f060a-91a8-49b2-a66d-6d75d576b4d9/resource/9c319db3-747f-4c33-bb45-ff0813a0c752/download/eos_aria-sg_20200115_dpm_philippines_taal_volcano_v0.1.zip",
+      "id": "9c319db3-747f-4c33-bb45-ff0813a0c752",
+      "last_modified": "2026-10-02T09:41:09.191974",
+      "metadata_modified": "2026-10-02T17:57:55.577696",
+      "microdata": false,
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "EOS_ARIA-SG_20200115_DPM_Philippines_Taal_Volcano_v0.1.zip",
+      "package_id": "d49f060a-91a8-49b2-a66d-6d75d576b4d9",
+      "position": 0,
+      "resource_type": "file.upload",
+      "size": 22450687,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/d49f060a-91a8-49b2-a66d-6d75d576b4d9/resource/9c319db3-747f-4c33-bb45-ff0813a0c752/download/eos_aria-sg_20200115_dpm_philippines_taal_volcano_v0.1.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "damage assessment",
+      "id": "3c5bab40-4c0f-40bc-a2dd-12cd7f945037",
+      "name": "damage assessment",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "hazards and risk",
+      "id": "7173a61f-84fd-45ca-856a-3aa2b0372869",
+      "name": "hazards and risk",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "natural disasters",
+      "id": "48520851-7df8-418b-aa00-7fa276d7fd88",
+      "name": "natural disasters",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

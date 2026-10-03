@@ -1,0 +1,47 @@
+{
+  "id": "hdx-a1e3a09f-a5ad-4fb0-a95e-0d98ccd33e03",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:57:08Z",
+  "dct_title_s": "Indonesia Earthquake: Damage Proxy Map, Jan 2021",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# ARIA-SG Peta Kerusakan: Gempa magnitude 6.2 di Sulawesi Barat, Indonesia, 16 Januari 2021, v0.8 Peta ini berdasarkan hasil analisis citra satelit tanggal 23 November 2020 and 16 Januari 2021. Citra satelit diambil oleh satelit Sentinel-1 Copernicus yang dioperasikan oleh Badan Antariksa Eropa. Analisis dilakukan oleh tim ARIA-SG di Earth Observatory of Singapore bekerja sama pengan NASA-JPL and Caltech. Processing data dilakukan menggunakan AWS Open Dataset untuk daerah Asia (https://registry.opendata.aws/sentinel-slc-seasia-pds). Informasi lebih detail silahkan kunjungi **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "NASA JPL-Caltech ARIA team; Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Indonesia"
+  ],
+  "locn_geometry": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dcat_bbox": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-indonesia-earthquake-jan-2021\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/a1e3a09f-a5ad-4fb0-a95e-0d98ccd33e03/resource/5334dafd-cd37-468a-a00b-c6e7b700e35d/download/eos_aria-sg_202101_dpm_indonesia_earthquake_v0.8.zip\",\"label\":\"EOS_ARIA-SG_202101_DPM_Indonesia_Earthquake_v0.8.zip (GeoTIFF)\"}]}"
+}

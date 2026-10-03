@@ -1,0 +1,49 @@
+{
+  "id": "hdx-f5d8b0e9-2227-42bc-9e3f-59db170a2b8b",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:52:26Z",
+  "dct_title_s": "Nepal Floods: Flood Proxy Map, Aug 2024",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# EOS-RS Flood Proxy Map: Nepal, Floods, 03 Aug 2024, v0.5 The Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) created this preliminary Flood Proxy Map (FPM) depicting areas that are likely flooded in the Kathmandu Valley, Nepal due to heavy rainfall. This map was derived from synthetic aperture radar (SAR) images acquired by the Copernicus Sentinel-1 satellite operated by the European Space Agency (ESA) before (22 Jul 2024) and after (03 Aug 2024) the event. The map covers an area indicated by the white polygon. The preliminary map shows areas which are likely flooded (shown by light blue pixels of approximately 30m in size) in the Kathmandu Valley, Nepal due to heavy rainfall. Preliminary validation was conducted using news reports and ground-level images of flooding in selected areas. This map should be used as a guide to identify areas that are likely flooded, and may be less reliable over urban and vegetated areas. The product contains modified Copernicus Sentinel data (2024), processed by ESA and analyzed by the Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS). **More map details and files:** **More map details and files:** **Legal Disclaimer:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2024)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Nepal"
+  ],
+  "locn_geometry": "ENVELOPE(80.09, 88.17, 30.42, 26.4)",
+  "dcat_bbox": "ENVELOPE(80.09, 88.17, 30.42, 26.4)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-nepal-floods-aug-2024\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/f5d8b0e9-2227-42bc-9e3f-59db170a2b8b/resource/9dbf1c8f-4a8c-4f15-8700-9800e87232f9/download/eos-rs_20240803_fpm_s1_nepal_floods_v0.5.zip\",\"label\":\"EOS-RS_20240803_FPM_S1_Nepal_Floods_v0.5.zip (GeoTIFF)\"}]}"
+}

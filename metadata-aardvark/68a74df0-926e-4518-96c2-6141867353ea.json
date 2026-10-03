@@ -1,0 +1,51 @@
+{
+  "id": "hdx-68a74df0-926e-4518-96c2-6141867353ea",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:51:44Z",
+  "dct_title_s": "Spain Floods: Damage and Flood Proxy Maps, Oct 2024",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Spain Floods: Damage and Flood Proxy Maps, Oct 2024 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these damage and flood proxy maps for Spain Floods (Oct 2024) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **EOS-RS Damage Proxy Map: Valencia Region, Spain, Floods, 1 Nov 2024, v0.9 ** - **EOS-RS Damage Proxy Map: Valencia Region, Spain, Floods, 31 Oct 2024 - 1 Nov 2024, v2.5 ** - **EOS-RS Damage Proxy Map: Valencia Region, Spain, Floods, 31 Oct 2024, v0.9 ** (superseded) - **EOS-RS Flood Proxy Map: Valencia Region, Spain, Floods, 31 Oct 2024, v0.9** **More map details and files:** **More map details and files:** **Legal Disclaimer:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2024)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Spain"
+  ],
+  "locn_geometry": "ENVELOPE(-9.39, 3.04, 43.75, 35.95)",
+  "dcat_bbox": "ENVELOPE(-9.39, 3.04, 43.75, 35.95)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-spain-floods-oct-2024\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/68a74df0-926e-4518-96c2-6141867353ea/resource/4cc87886-05fd-4e1d-b31e-a9821a818bb2/download/eos-rs_20241101_dpm_s1_spain_floods_v0.9.zip\",\"label\":\"EOS-RS_20241101_DPM_S1_Spain_Floods_v0.9.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/68a74df0-926e-4518-96c2-6141867353ea/resource/939a2da8-2534-4174-a9e9-c68d9595728d/download/eos-rs_20241031-20241101_dpm_s1_spain_floods_v2.5.zip\",\"label\":\"EOS-RS_20241031-20241101_DPM_S1_Spain_Floods_v2.5.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/68a74df0-926e-4518-96c2-6141867353ea/resource/9f03a289-407f-41d0-bc42-c78db75bc065/download/eos-rs_20241031_dpm_s1_spain_floods_v0.9.zip\",\"label\":\"EOS-RS_20241031_DPM_S1_Spain_Floods_v0.9.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/68a74df0-926e-4518-96c2-6141867353ea/resource/c7eca505-58a5-4476-9f90-cd36c4175bec/download/eos-rs_20241031_fpm_s1_spain_floods_v0.9.zip\",\"label\":\"EOS-RS_20241031_FPM_S1_Spain_Floods_v0.9.zip (GeoTIFF)\"}]}"
+}

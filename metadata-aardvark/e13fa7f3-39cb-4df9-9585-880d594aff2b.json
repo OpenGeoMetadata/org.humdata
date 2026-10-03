@@ -1,0 +1,53 @@
+{
+  "id": "hdx-e13fa7f3-39cb-4df9-9585-880d594aff2b",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:56:17Z",
+  "dct_title_s": "Philippines Cyclone Agaton: Damage and Flood Proxy Maps, Apr 2022",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Philippines Cyclone Agaton: Damage and Flood Proxy Maps, Apr 2022 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these damage and flood proxy maps for Philippines Cyclone Agaton (Apr 2022) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **EOS-RS Damage Proxy Map: Philippines, Bagyong Agaton (Megi), Abril 2022, v0.4 wbd** - **EOS-RS Damage Proxy Map: Philippines, Bagyong Agaton (Megi), Abril 2022, v0.4** (superseded) - **EOS-RS Flood Proxy Map: Philippines, Bagyong Agaton (Megi), Abril 2022, v0.4** **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "locn_geometry": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dcat_bbox": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-philippines-cyclone-agaton-apr-2022\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e13fa7f3-39cb-4df9-9585-880d594aff2b/resource/9fed8a3a-24f2-4c9e-a4f0-f4eccd6e29b1/download/eos-rs_20220416_dpm_a2_philippines_cyclone_agaton_v0.4_wbd.zip\",\"label\":\"EOS-RS_20220416_DPM_A2_Philippines_Cyclone_Agaton_v0.4_wbd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/e13fa7f3-39cb-4df9-9585-880d594aff2b/resource/51126da6-e116-449f-a7f9-eb4e8fce9b2b/download/eos-rs_20220416_dpm_a2_philippines_cyclone_agaton_v0.4.zip\",\"label\":\"EOS-RS_20220416_DPM_A2_Philippines_Cyclone_Agaton_v0.4.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/e13fa7f3-39cb-4df9-9585-880d594aff2b/resource/e8a72bd9-1364-43cc-b7b3-9696fc2d50e2/download/eos-rs_20220416_fpm_a2_philippines_cyclone_agaton_v0.4.zip\",\"label\":\"EOS-RS_20220416_FPM_A2_Philippines_Cyclone_Agaton_v0.4.zip (GeoTIFF)\"}]}"
+}

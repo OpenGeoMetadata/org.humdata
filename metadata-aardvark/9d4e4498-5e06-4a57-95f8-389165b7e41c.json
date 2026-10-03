@@ -1,0 +1,47 @@
+{
+  "id": "hdx-9d4e4498-5e06-4a57-95f8-389165b7e41c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:53:46Z",
+  "dct_title_s": "Afghanistan Earthquake: Damage Proxy Maps, Oct 2023",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Afghanistan Earthquake: Damage Proxy Maps, Oct 2023 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these damage proxy maps for Afghanistan Earthquake (Oct 2023) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **EOS-RS Damage Proxy Map: Afghanistan, Earthquake, 13 Oct 2023, v0.5 ** - **EOS-RS Damage Proxy Map: Afghanistan, Earthquake, 13 Oct 2023, v0.5 ** - **EOS-RS Damage Proxy Map: Afghanistan, Earthquake, 8 Oct 2023, v1.2** - **EOS-RS Damage Proxy Map: Afghanistan, Earthquake, 8 Oct 2023, v1.2** - **EOS-RS Damage Proxy Map: Afghanistan, Earthquake, 8 Oct 2023, v0.9** (superseded) - **EOS-RS Damage Proxy Map: Afghanistan, Earthquake, 8 Oct 2023, v0.5** (superseded) - **EOS-RS Damage Proxy Map: Afghanistan, Earthquake, 8 Oct 2023, v0.5** (superseded) - **EOS-RS Damage Proxy Map: Afghanistan, Earthquake, 7 Oct 2023, v0.9** - **EOS-RS Damage Proxy Map: Afghanistan, Earthquake, 7 Oct 2023, v0.5** - **EOS-RS Damage Proxy Map: Afghanistan, Earthquake, 7 Oct 2023, v0.5** (superseded) **More map details and files:** **More map details and files:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Original data ALOS-2 PALSAR-2 Product - JAXA (2022)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Afghanistan"
+  ],
+  "locn_geometry": "ENVELOPE(60.53, 75.16, 38.49, 29.32)",
+  "dcat_bbox": "ENVELOPE(60.53, 75.16, 38.49, 29.32)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-afghanistan-earthquake-oct-2023\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/9d4e4498-5e06-4a57-95f8-389165b7e41c/resource/56cc49a7-6db7-482b-aa1d-f810415e0502/download/eos-rs_20231013_dpm_a2_afghanistan_earthquake_v0.5.zip\",\"label\":\"EOS-RS_20231013_DPM_A2_Afghanistan_Earthquake_v0.5.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/9d4e4498-5e06-4a57-95f8-389165b7e41c/resource/5b5c8537-ba85-466f-b597-a93ffdf30bbd/download/eos-rs_20231013_dpm_a2_afghanistan_earthquake_cvd_v0.5.zip\",\"label\":\"EOS-RS_20231013_DPM_A2_Afghanistan_Earthquake_cvd_v0.5.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/9d4e4498-5e06-4a57-95f8-389165b7e41c/resource/3c43a7d6-5aef-4696-8f44-fdac7c6f771a/download/eos-rs_20231008_dpm_s1_afghanistan_earthquake_v1.2.zip\",\"label\":\"EOS-RS_20231008_DPM_S1_Afghanistan_Earthquake_v1.2.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/9d4e4498-5e06-4a57-95f8-389165b7e41c/resource/9d6c5604-2d9d-4420-bc87-4bc77079d3ae/download/eos-rs_20231008_dpm_s1_afghanistan_earthquake_cvd_v1.2.zip\",\"label\":\"EOS-RS_20231008_DPM_S1_Afghanistan_Earthquake_cvd_v1.2.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/9d4e4498-5e06-4a57-95f8-389165b7e41c/resource/0d83250f-a586-4683-8fe1-607d72e381c5/download/eos-rs_20231008_dpm_s1_afghanistan_earthquake_v0.9.zip\",\"label\":\"EOS-RS_20231008_DPM_S1_Afghanistan_Earthquake_v0.9.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/9d4e4498-5e06-4a57-95f8-389165b7e41c/resource/6653efc4-42ca-47b0-b9f4-979a55fb9cb9/download/eos-rs_20231008_dpm_s1_afghanistan_earthquake_v0.5_cvd.zip\",\"label\":\"EOS-RS_20231008_DPM_S1_Afghanistan_Earthquake_v0.5_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/9d4e4498-5e06-4a57-95f8-389165b7e41c/resource/57514f1d-35de-4569-b9b7-3590c9639b18/download/eos-rs_20231008_dpm_s1_afghanistan_earthquake_v0.5.zip\",\"label\":\"EOS-RS_20231008_DPM_S1_Afghanistan_Earthquake_v0.5.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/9d4e4498-5e06-4a57-95f8-389165b7e41c/resource/ec1d85ea-6e93-4d78-946f-ee9d9fdf2d73/download/eos-rs_20231007_dpm_s1_afghanistan_earthquake_v0.9.zip\",\"label\":\"EOS-RS_20231007_DPM_S1_Afghanistan_Earthquake_v0.9.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/9d4e4498-5e06-4a57-95f8-389165b7e41c/resource/9bea5de9-6f58-4d87-adfb-745623293232/download/eos-rs_20231007_dpm_s1_afghanistan_earthquake_v0.5_cvd.zip\",\"label\":\"EOS-RS_20231007_DPM_S1_Afghanistan_Earthquake_v0.5_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/9d4e4498-5e06-4a57-95f8-389165b7e41c/resource/389344c2-2454-42e5-beb4-bf8684f58c47/download/eos-rs_20231007_dpm_s1_afghanistan_earthquake_v0.5.zip\",\"label\":\"EOS-RS_20231007_DPM_S1_Afghanistan_Earthquake_v0.5.zip (GeoTIFF)\"}]}"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "hdx-05a5fe64-97bf-4efa-abb6-22b5fab835ac",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:47:28Z",
+  "dct_title_s": "Philippines Flood Luzon: Flood Proxy Maps, Aug 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Philippines Flood Luzon: Flood Proxy Maps, Aug 2026 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these flood proxy maps for Philippines Flood Luzon (Aug 2026) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **EOS-RS Flood Proxy Map: Luzon, Philippines, Floods , 02 September 2026, v0.9** - **EOS-RS Flood Proxy Map: Luzon, Philippines, Floods , 14 August 2026, v0.9** **More map details and files:** **Legal Disclaimer:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2026)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "locn_geometry": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dcat_bbox": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-philippines-flood-luzon-aug-2026\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/05a5fe64-97bf-4efa-abb6-22b5fab835ac/resource/a653b845-41e7-49bf-b1e1-d28ef88b7de9/download/eosrs_2026_011_phl_fl_20260902_fpm_s1_luzon_v0.9.zip\",\"label\":\"EOSRS_2026_011_PHL_FL_20260902_FPM_S1_Luzon_v0.9.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/05a5fe64-97bf-4efa-abb6-22b5fab835ac/resource/238c446b-4808-4b78-be63-64221afa7d1e/download/eosrs_2026_011_phl_fl_20260814_fpm_s1_luzon_v0.9.zip\",\"label\":\"EOSRS_2026_011_PHL_FL_20260814_FPM_S1_Luzon_v0.9.zip (GeoTIFF)\"}]}"
+}

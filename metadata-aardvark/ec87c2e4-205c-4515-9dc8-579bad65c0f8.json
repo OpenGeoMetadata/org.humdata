@@ -1,0 +1,49 @@
+{
+  "id": "hdx-ec87c2e4-205c-4515-9dc8-579bad65c0f8",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:58:33Z",
+  "dct_title_s": "Vietnam Floods: Flood Proxy Maps, Sep 2019",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Vietnam Floods: Flood Proxy Maps, Sep 2019 The Advanced Rapid Imaging and Analysis (ARIA) team at NASA's Jet Propulsion Laboratory and Caltech, in collaboration with the Earth Observatory of Singapore (EOS), produced these flood proxy maps for Vietnam Floods (Sep 2019) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **ARIA-SG Flood Proxy Map: Vietnam Floods, 6 Sep 2019, v0.1 ** - **ARIA-SG Flood Proxy Map: Vietnam Floods, 3 Sep 2019, v0.1 ** **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "NASA JPL-Caltech ARIA team; Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Viet Nam"
+  ],
+  "locn_geometry": "ENVELOPE(102.17, 109.34, 23.35, 8.6)",
+  "dcat_bbox": "ENVELOPE(102.17, 109.34, 23.35, 8.6)",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "gbl_indexYear_im": [
+    2019
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-vietnam-floods-sep-2019\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/ec87c2e4-205c-4515-9dc8-579bad65c0f8/resource/de8c08c7-6800-41cd-b951-e718ac810d61/download/eos_aria-sg_20190906_fpm_vietnam_floods_v0.1.zip\",\"label\":\"EOS_ARIA-SG_20190906_FPM_Vietnam_Floods_v0.1.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/ec87c2e4-205c-4515-9dc8-579bad65c0f8/resource/4b00fbfc-9a8c-48e9-90f2-1499a0bd2e11/download/eos_aria-sg_20190903_fpm_vietnam_floods_v0.1.zip\",\"label\":\"EOS_ARIA-SG_20190903_FPM_Vietnam_Floods_v0.1.zip (GeoTIFF)\"}]}"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "hdx-448de50f-3bae-4656-9ac9-7b4f5d9524c1",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:56:29Z",
+  "dct_title_s": "Philippines Typhoon Odette: Damage and Flood Proxy Maps, Dec 2021",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Philippines Typhoon Odette: Damage and Flood Proxy Maps, Dec 2021 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these damage and flood proxy maps for Philippines Typhoon Odette (Dec 2021) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **EOS-RS Damage Proxy Map: Philippines, Typhoon Odette, Dec 2021, v0.9 wbd** - **EOS-RS Damage Proxy Map: Philippines, Typhoon Odette, Dec 2021, v0.9** (superseded) - **EOS-RS Damage Proxy Map: Philippines, Typhoon Odette, Dec 2021, v0.5 wbd** (superseded) - **EOS-RS Damage Proxy Map: Philippines, Typhoon Odette, Dec 2021, v0.5** (superseded) - **EOS-RS Damage Proxy Map: Philippines, Typhoon Odette, Dec 2021, v0.9 wbd** (superseded) - **EOS-RS Damage Proxy Map: Philippines, Typhoon Odette, Dec 2021, v0.9** (superseded) - **EOS-RS Damage Proxy Map: Philippines, Typhoon Odette, Dec 2021, v0.9 wbd** (superseded) - **EOS-RS Damage Proxy Map: Philippines, Typhoon Odette, Dec 2021, v0.9** - **EOS-RS Damage Proxy Map: Philippines, Typhoon Odette, Dec 2021, v0.5 wbd** (superseded) - **EOS-RS Damage Proxy Map: Philippines, Typhoon Odette, Dec 2021, v0.5** (superseded) - **EOS-RS Damage Proxy Map: Philippines, Typhoon Odette, Dec 2021, v0.4 wbd** - **EOS-RS Damage Proxy Map: Philippines, Typhoon Odette, Dec 2021, v0.4** (superseded) - **EOS-RS Flood Proxy Map: Philippines, Typhoon Odette, Dec 2021, v0.3** - **EOS-RS Flood Proxy Map: Philippines, Typhoon Odette, Dec 2021, v0.35** - **EOS-RS Flood Proxy Map: Philippines, Typhoon Odette, Dec 2021, v0.3** (superseded) **More map details and files:** **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "locn_geometry": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dcat_bbox": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-philippines-typhoon-odette-dec-2021\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/448de50f-3bae-4656-9ac9-7b4f5d9524c1/resource/ab52d20a-3081-4fb4-affa-8f616026f749/download/eos-rs_20211220_dpm_s1_philippines_typhoon_odette_v0.9_wbd.zip\",\"label\":\"EOS-RS_20211220_DPM_S1_Philippines_Typhoon_Odette_v0.9_wbd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/448de50f-3bae-4656-9ac9-7b4f5d9524c1/resource/9666f3a2-9dca-40c1-8e75-bea38f3d59c5/download/eos-rs_20211220_dpm_s1_philippines_typhoon_odette_v0.9.zip\",\"label\":\"EOS-RS_20211220_DPM_S1_Philippines_Typhoon_Odette_v0.9.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/448de50f-3bae-4656-9ac9-7b4f5d9524c1/resource/babf2657-98e0-4ff2-8ec4-e7679d76e4ff/download/eos-rs_20211220_dpm_s1_philippines_typhoon_odette_v0.5_wbd.zip\",\"label\":\"EOS-RS_20211220_DPM_S1_Philippines_Typhoon_Odette_v0.5_wbd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/448de50f-3bae-4656-9ac9-7b4f5d9524c1/resource/fe9b9f1a-ceb7-4601-902d-4c620d02d4d9/download/eos-rs_20211220_dpm_s1_philippines_typhoon_odette_v0.5.zip\",\"label\":\"EOS-RS_20211220_DPM_S1_Philippines_Typhoon_Odette_v0.5.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/448de50f-3bae-4656-9ac9-7b4f5d9524c1/resource/7abd94a2-b598-4446-a5c7-2e70c82ccb13/download/eos-rs_20211219_dpm_s1_ta142_philippines_typhoon_odette_v0.9_wbd.zip\",\"label\":\"EOS-RS_20211219_DPM_S1_TA142_Philippines_Typhoon_Odette_v0.9_wbd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/448de50f-3bae-4656-9ac9-7b4f5d9524c1/resource/ea4edea4-81fc-4a7b-b681-d3dbfa249245/download/eos-rs_20211219_dpm_s1_ta142_philippines_typhoon_odette_v0.9.zip\",\"label\":\"EOS-RS_20211219_DPM_S1_TA142_Philippines_Typhoon_Odette_v0.9.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/448de50f-3bae-4656-9ac9-7b4f5d9524c1/resource/8147eeaf-5c13-4285-aead-2dc6fa5ec661/download/eos-rs_20211219_dpm_s1_philippines_typhoon_odette_v0.9_wbd.zip\",\"label\":\"EOS-RS_20211219_DPM_S1_Philippines_Typhoon_Odette_v0.9_wbd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/448de50f-3bae-4656-9ac9-7b4f5d9524c1/resource/ec2cd72b-aeee-4b8b-9033-11ebdf602edb/download/eos-rs_20211219_dpm_s1_philippines_typhoon_odette_v0.9.zip\",\"label\":\"EOS-RS_20211219_DPM_S1_Philippines_Typhoon_Odette_v0.9.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/448de50f-3bae-4656-9ac9-7b4f5d9524c1/resource/05762640-9a36-463f-b4d0-f4a89e25e677/download/eos-rs_20211219_dpm_s1_philippines_typhoon_odette_v0.5_wbd.zip\",\"label\":\"EOS-RS_20211219_DPM_S1_Philippines_Typhoon_Odette_v0.5_wbd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/448de50f-3bae-4656-9ac9-7b4f5d9524c1/resource/252fadf4-f698-48d7-b0e0-ff3871d85733/download/eos-rs_20211219_dpm_s1_philippines_typhoon_odette_v0.5.zip\",\"label\":\"EOS-RS_20211219_DPM_S1_Philippines_Typhoon_Odette_v0.5.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/448de50f-3bae-4656-9ac9-7b4f5d9524c1/resource/f110d233-f51e-43f0-b258-f01b55a8e8fc/download/eos-rs_20211217_dpm_s1_philippines_typhoon_odette_v0.4_wbd.zip\",\"label\":\"EOS-RS_20211217_DPM_S1_Philippines_Typhoon_Odette_v0.4_wbd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/448de50f-3bae-4656-9ac9-7b4f5d9524c1/resource/f49e79f8-81e8-45da-b159-da6ae5c0ebfd/download/eos-rs_20211217_dpm_s1_philippines_typhoon_odette_v0.4.zip\",\"label\":\"EOS-RS_20211217_DPM_S1_Philippines_Typhoon_Odette_v0.4.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/448de50f-3bae-4656-9ac9-7b4f5d9524c1/resource/5056c022-b9cb-4675-ba74-9958aeb5f8d7/download/eos-rs_20211217_fpm_s1_philippines_typhoon_odette_v0.3.zip\",\"label\":\"EOS-RS_20211217_FPM_S1_Philippines_Typhoon_Odette_v0.3.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/448de50f-3bae-4656-9ac9-7b4f5d9524c1/resource/6095d6c2-e569-4dd0-af34-e24dfa8cd407/download/eos-rs_20211216_fpm_a2_philippines_typhoon_odette_v0.35.zip\",\"label\":\"EOS-RS_20211216_FPM_A2_Philippines_Typhoon_Odette_v0.35.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/448de50f-3bae-4656-9ac9-7b4f5d9524c1/resource/e82ffa5f-b164-457f-803c-f35e8f7c9b05/download/eos-rs_20211216_fpm_a2_philippines_typhoon_odette_v0.3.zip\",\"label\":\"EOS-RS_20211216_FPM_A2_Philippines_Typhoon_Odette_v0.3.zip (GeoTIFF)\"}]}"
+}

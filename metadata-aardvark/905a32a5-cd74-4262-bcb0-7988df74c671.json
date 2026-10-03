@@ -1,0 +1,45 @@
+{
+  "id": "hdx-905a32a5-cd74-4262-bcb0-7988df74c671",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:51:37Z",
+  "dct_title_s": "Indonesia Volcanic Eruption: Damage Proxy Map, Nov 2024",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# EOS-RS Damage Proxy Map: Flores Island, Indonesia, Volcanic Eruption, 4 Nov 2024, v0.9 The Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) created this preliminary Damage Proxy Map (DPM) depicting areas that are likely damaged on Flores Island, Indonesia, due to a volcanic eruption from the Lewotobi Laki-laki volcano on 3 Nov 2024. This map was derived from synthetic aperture radar (SAR) images acquired by the Copernicus Sentinel-1 satellite operated by the European Space Agency (ESA) before (7 Jul 2024 to 23 Oct 2024) and after (4 Nov 2024) the event. The map covers an area indicated by the white polygon. Damage is shown by colored pixels of 30m in size, where yellow to red indicates increasingly significant ground surface change before and after the event. Preliminary validation was conducted using news reports, aerial imagery, and ground-level imagery and videos in selected areas. This map should be used as a guidance to identify damaged areas, and may be less reliable over vegetated or mountainous areas. Scattered pixels over vegetated or mountainous areas may be false positives, and a lack of colored pixels over such areas may not mean no damage. The product contains modified Copernicus Sentinel data (2024), processed by ESA and analyzed by the Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS). **More map details and files:** **More map details and files:** **Legal Disclaimer:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2024)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Indonesia"
+  ],
+  "locn_geometry": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dcat_bbox": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-indonesia-volcanic-eruption-nov-2024\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/905a32a5-cd74-4262-bcb0-7988df74c671/resource/81a2f246-2d5b-404e-8ab6-0cfd12facd59/download/eos-rs_20241104_dpm_s1_indonesia_volcanic_eruption_v0.9.zip\",\"label\":\"EOS-RS_20241104_DPM_S1_Indonesia_Volcanic_Eruption_v0.9.zip (GeoTIFF)\"}]}"
+}

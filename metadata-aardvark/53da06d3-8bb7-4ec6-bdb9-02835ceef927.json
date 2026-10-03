@@ -1,0 +1,47 @@
+{
+  "id": "hdx-53da06d3-8bb7-4ec6-bdb9-02835ceef927",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:55:05Z",
+  "dct_title_s": "Indonesia Earthquake: Damage Proxy Maps and Interferograms, Nov 2022",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Indonesia Earthquake: Damage Proxy Maps and Interferograms, Nov 2022 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these damage proxy maps and interferograms for Indonesia Earthquake (Nov 2022) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **EOS-RS Damage Proxy Map: Indonesia, Earthquake, 23 Nov 2022, v0.9** - **EOS-RS Damage Proxy Map: Indonesia, Earthquake, 23 Nov 2022, v0.9** - **EOS-RS Damage Proxy Map: Indonesia, Earthquake, 21 Nov 2022, v0.6** - **EOS-RS Damage Proxy Map: Indonesia, Earthquake, 21 Nov 2022, v0.6** - **EOS-RS Damage Proxy Map: Indonesia, Earthquake, 21 Nov 2022, v0.5** (superseded) - **EOS-RS Damage Proxy Map: Indonesia, Earthquake, 21 Nov 2022, v0.5** (superseded) - **EOS-RS Interferogram (unwrapped): Indonesia Earthquake, 2022/11/07-2022/11/21, v0.1** - **EOS-RS Interferogram (wrapped): Indonesia Earthquake, 2022/11/07-2022/11/21, v0.1** **More map details and files:** **More map details and files:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Advanced Rapid Imaging and Analysis (ARIA), NASA-JPL/Caltech, Contains modified Copernicus Sentinel data (2022)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Indonesia"
+  ],
+  "locn_geometry": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dcat_bbox": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-indonesia-earthquake-nov-2022\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/53da06d3-8bb7-4ec6-bdb9-02835ceef927/resource/cc140a0f-7368-4b98-9c07-2cbe9eea0709/download/eos-rs_20221123_dpm_s1_indonesia_earthquake_v0.9_cvd.zip\",\"label\":\"EOS-RS_20221123_DPM_S1_Indonesia_Earthquake_v0.9_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/53da06d3-8bb7-4ec6-bdb9-02835ceef927/resource/22080c46-6189-456c-9250-50b59ed48687/download/eos-rs_20221123_dpm_s1_indonesia_earthquake_v0.9.zip\",\"label\":\"EOS-RS_20221123_DPM_S1_Indonesia_Earthquake_v0.9.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/53da06d3-8bb7-4ec6-bdb9-02835ceef927/resource/79a89087-02bc-4446-8d4c-c27d85d41557/download/eos-rs_20221121_dpm_a2_indonesia_earthquake_v0.6_cvd.zip\",\"label\":\"EOS-RS_20221121_DPM_A2_Indonesia_Earthquake_v0.6_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/53da06d3-8bb7-4ec6-bdb9-02835ceef927/resource/702c6d0b-420d-4fff-9c39-b7c80f4833d6/download/eos-rs_20221121_dpm_a2_indonesia_earthquake_v0.6.zip\",\"label\":\"EOS-RS_20221121_DPM_A2_Indonesia_Earthquake_v0.6.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/53da06d3-8bb7-4ec6-bdb9-02835ceef927/resource/5a7f2661-763c-4b1b-8742-885cbcab09d4/download/eos-rs_20221121_dpm_a2_indonesia_earthquake_v0.5_cvd.zip\",\"label\":\"EOS-RS_20221121_DPM_A2_Indonesia_Earthquake_v0.5_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/53da06d3-8bb7-4ec6-bdb9-02835ceef927/resource/165c5420-52c3-42e5-8097-8613c4b455b2/download/eos-rs_20221121_dpm_a2_indonesia_earthquake_v0.5.zip\",\"label\":\"EOS-RS_20221121_DPM_A2_Indonesia_Earthquake_v0.5.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/53da06d3-8bb7-4ec6-bdb9-02835ceef927/resource/d46a366c-f600-482c-9aaf-b04036a71515/download/eos-rs_20221107-20221121_ifg-unw_a2_indonesia_earthquake_v0.1.zip\",\"label\":\"EOS-RS_20221107-20221121_IFG-UNW_A2_Indonesia_Earthquake_v0.1.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/53da06d3-8bb7-4ec6-bdb9-02835ceef927/resource/e6db7682-ba64-4f81-94be-2f92a37c352c/download/eos-rs_20221107-20221121_ifg-wrp_a2_indonesia_earthquake_v0.1.zip\",\"label\":\"EOS-RS_20221107-20221121_IFG-WRP_A2_Indonesia_Earthquake_v0.1.zip (GeoTIFF)\"}]}"
+}

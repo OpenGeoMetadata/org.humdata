@@ -1,0 +1,47 @@
+{
+  "id": "hdx-943ea2ee-4e17-43e5-abc3-22d70e9d0096",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:56:43Z",
+  "dct_title_s": "Haiti Earthquake: Damage Proxy Map, Aug 2021",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# EOS-RS Damage Proxy Map: Haiti earthquake, Mw7.2, 14 August 2021, v0.8 This preliminary map shows areas which are likely damaged in west Haiti due to an Mw7.2 earthquake which occurred in the morning of 14 Aug (local time). Damage is shown by coloured pixels of 30 m in size, where yellow to red indicates increasingly significant ground surface change before and after the event. The map extents are indicated by the white polygon. This map should be used as a guidance to identify damaged areas, and may be less reliable over vegetated areas. Scattered pixels over vegetated areas may be false positives, and a lack of coloured pixels over vegetated areas may not mean no damage. This map is most sensitive to building damage and liquefaction, but small scale change or partial structural damage may not be detected. Derived from synthetic aperture radar data acquired by the Copernicus Sentinel-1 satellites operated by the European Space Agency (ESA) up to August to 15 August 2021. Analysed by the EOS-RS team at the Earth Observatory of Singapore (EOS) in collaboration with NASA-JPL and Caltech. More map details and files at: **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Haiti"
+  ],
+  "locn_geometry": "ENVELOPE(-74.46, -71.62, 19.92, 18.03)",
+  "dcat_bbox": "ENVELOPE(-74.46, -71.62, 19.92, 18.03)",
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-haiti-earthquake-aug-2021\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/943ea2ee-4e17-43e5-abc3-22d70e9d0096/resource/abca0526-944e-47e7-bf0e-47cce8dbcd19/download/eos-rs_202108_dpm_haiti_earthquake_v0.8.zip\",\"label\":\"EOS-RS_202108_DPM_Haiti_Earthquake_v0.8.zip (GeoTIFF)\"}]}"
+}

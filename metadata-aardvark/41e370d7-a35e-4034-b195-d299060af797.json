@@ -1,0 +1,45 @@
+{
+  "id": "hdx-41e370d7-a35e-4034-b195-d299060af797",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:48:32Z",
+  "dct_title_s": "Indonesia East Java Volcanic Eruption: Damage Proxy Map, Nov 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# EOS-RS Damage Proxy Map: East Java, Indonesia, Volcanic Eruption, 24 Nov 2025, v0.9 The Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) created this preliminary Damage Proxy Map (DPM) depicting areas that are likely damaged on Java, Indonesia, due to a volcanic eruption from the Semeru volcano on 19 Nov 2025. This map was derived from synthetic aperture radar (SAR) images acquired by the Copernicus Sentinel-1 satellite operated by the European Space Agency (ESA) before (21 Jun 2025 to 23 Oct 2025) and after (24 Nov 2025) the event. The map covers an area indicated by the white polygon. Damage is shown by colored pixels of 30m in size, where yellow to red indicates increasingly significant ground surface change before and after the event. Preliminary validation was conducted using news reports and ground-level imagery and videos in selected areas. This map should be used as a guidance to identify damaged areas, and may be less reliable over vegetated or mountainous areas. Scattered pixels over vegetated or mountainous areas may be false positives, and a lack of colored pixels over such areas may not mean no damage. This product contains modified Copernicus Sentinel data (2025), processed by ESA and analyzed by the Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS). **More map details and files:** **Legal Disclaimer:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2025)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Indonesia"
+  ],
+  "locn_geometry": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dcat_bbox": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-indonesia-east-java-volcanic-eruption-nov-2025\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/41e370d7-a35e-4034-b195-d299060af797/resource/3c857554-9b80-4587-841f-90751060b430/download/eos-rs_20251124_dpm_s1_indonesia_east_java_volcanic_eruption_v0.9.zip\",\"label\":\"EOS-RS_20251124_DPM_S1_Indonesia_East_Java_Volcanic_Eruption_v0.9.zip (GeoTIFF)\"}]}"
+}

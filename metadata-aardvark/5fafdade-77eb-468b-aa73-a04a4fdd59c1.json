@@ -1,0 +1,47 @@
+{
+  "id": "hdx-5fafdade-77eb-468b-aa73-a04a4fdd59c1",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:56:07Z",
+  "dct_title_s": "Afghanistan Earthquake: Damage Proxy Maps, Jun 2022",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Afghanistan Earthquake: Damage Proxy Maps, Jun 2022 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these damage proxy maps for Afghanistan Earthquake (Jun 2022) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **EOS-RS Damage Proxy Map: Afghanistan, Earthquake, 30 Jun 2022, v0.9** - **EOS-RS Damage Proxy Map: Afghanistan, Earthquake, 27 Jun 2022, v0.45** **More map details and files:** **More map details and files:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Advanced Rapid Imaging and Analysis (ARIA), NASA-JPL/Caltech, Contains modified Copernicus Sentinel data (2022), Validated with FirstLook Imagery Â© 2022 Maxar"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Afghanistan"
+  ],
+  "locn_geometry": "ENVELOPE(60.53, 75.16, 38.49, 29.32)",
+  "dcat_bbox": "ENVELOPE(60.53, 75.16, 38.49, 29.32)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-afghanistan-earthquake-jun-2022\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/5fafdade-77eb-468b-aa73-a04a4fdd59c1/resource/d601e874-dc30-40a6-ac7c-7a7e178f49e6/download/eos-rs_20220630_dpm_s1_afghanistan_earthquake_v0.9.zip\",\"label\":\"EOS-RS_20220630_DPM_S1_Afghanistan_Earthquake_v0.9.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/5fafdade-77eb-468b-aa73-a04a4fdd59c1/resource/c04e167b-0505-4524-99a4-74149a728761/download/eos-rs_20220627_dpm_a2_afghanistan_earthquake_v0.45.zip\",\"label\":\"EOS-RS_20220627_DPM_A2_Afghanistan_Earthquake_v0.45.zip (GeoTIFF)\"}]}"
+}

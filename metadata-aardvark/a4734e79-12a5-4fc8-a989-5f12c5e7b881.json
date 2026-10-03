@@ -1,0 +1,49 @@
+{
+  "id": "hdx-a4734e79-12a5-4fc8-a989-5f12c5e7b881",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:48:36Z",
+  "dct_title_s": "Thailand Hat Yai Floods: Flood Proxy Map, Nov 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# EOS-RS Flood Proxy Map: Hat Yai, Thailand, Floods, 23 Nov 2025, v0.9 The Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) created this preliminary Flood Proxy Map (FPM) depicting areas that are likely flooded in Hat Yai, Thailand, due to heavy rainfall. This map was derived from synthetic aperture radar (SAR) images acquired by the Copernicus Sentinel-1 satellite operated by the European Space Agency (ESA) before (20 May 2024 to 11 Nov 2025) and after (23 Nov 2025) the event. The map covers an area indicated by the white polygon. The preliminary map shows areas which are likely flooded (shown by light blue pixels of approximately 30m in size) due to heavy rainfall. Preliminary validation was conducted using news reports and ground-level video and imagery in selected areas. This map should be used as a guide to identify areas that are likely flooded, and may be less reliable over urban and vegetated areas. This product contains modified Copernicus Sentinel data (2024-2025), processed by ESA and analyzed by the Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS). **More map details and files:** **Legal Disclaimer:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2024-2025)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Thailand"
+  ],
+  "locn_geometry": "ENVELOPE(97.38, 105.59, 20.42, 5.69)",
+  "dcat_bbox": "ENVELOPE(97.38, 105.59, 20.42, 5.69)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-thailand-hat-yai-floods-nov-2025\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/a4734e79-12a5-4fc8-a989-5f12c5e7b881/resource/23fef46c-dc32-42cd-aa73-e9e8dd192c1b/download/eos-rs_20251123_fpm_s1_thailand_hat_yai_floods_v0.9.zip\",\"label\":\"EOS-RS_20251123_FPM_S1_Thailand_Hat_Yai_Floods_v0.9.zip (GeoTIFF)\"}]}"
+}

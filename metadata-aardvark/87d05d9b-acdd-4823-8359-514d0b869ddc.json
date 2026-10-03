@@ -1,0 +1,53 @@
+{
+  "id": "hdx-87d05d9b-acdd-4823-8359-514d0b869ddc",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:49:10Z",
+  "dct_title_s": "Cuba Hurricane Melissa: Damage and Flood Proxy Maps, Oct 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Cuba Hurricane Melissa: Damage and Flood Proxy Maps, Oct 2025 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these damage and flood proxy maps for Cuba Hurricane Melissa (Oct 2025) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **EOS-RS Damage Proxy Map: Cuba, Hurricane Melissa, 30 October 2025, v0.9 ** - **EOS-RS Flood Proxy Map: Cuba, Hurricane Melissa, 30 October 2025, v0.9** - **EOS-RS Damage Proxy Map: Cuba, Hurricane Melissa, 29 October 2025, v0.9 ** - **EOS-RS Flood Proxy Map: Cuba, Hurricane Melissa, 29 October 2025, v0.9** **More map details and files:** **More map details and files:** **Legal Disclaimer:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2025)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Cuba"
+  ],
+  "locn_geometry": "ENVELOPE(-84.97, -74.18, 23.19, 19.86)",
+  "dcat_bbox": "ENVELOPE(-84.97, -74.18, 23.19, 19.86)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-cuba-hurricane-melissa-oct-2025\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/87d05d9b-acdd-4823-8359-514d0b869ddc/resource/695d470f-4297-4d50-99ee-f920899ba3bb/download/eos-rs_20251030_dpm_s1_cuba_hurricane_melissa_v0.9.zip\",\"label\":\"EOS-RS_20251030_DPM_S1_Cuba_Hurricane_Melissa_v0.9.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/87d05d9b-acdd-4823-8359-514d0b869ddc/resource/c7c3f4d1-3c8b-4b2e-88ef-945d0f6489b4/download/eos-rs_20251030_fpm_s1_cuba_hurricane_melissa_v0.9.zip\",\"label\":\"EOS-RS_20251030_FPM_S1_Cuba_Hurricane_Melissa_v0.9.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/87d05d9b-acdd-4823-8359-514d0b869ddc/resource/a23f1bd6-7a16-4e76-ab56-d9f3efc3871d/download/eos-rs_20251029_dpm_s1_cuba_hurricane_melissa_v0.9.zip\",\"label\":\"EOS-RS_20251029_DPM_S1_Cuba_Hurricane_Melissa_v0.9.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/87d05d9b-acdd-4823-8359-514d0b869ddc/resource/d7b625c3-0f2c-419c-9792-f5619998085c/download/eos-rs_20251029_fpm_s1_cuba_hurricane_melissa_v0.9.zip\",\"label\":\"EOS-RS_20251029_FPM_S1_Cuba_Hurricane_Melissa_v0.9.zip (GeoTIFF)\"}]}"
+}

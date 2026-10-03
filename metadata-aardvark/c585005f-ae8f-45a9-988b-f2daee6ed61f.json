@@ -1,0 +1,49 @@
+{
+  "id": "hdx-c585005f-ae8f-45a9-988b-f2daee6ed61f",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:52:02Z",
+  "dct_title_s": "Vietnam Typhoon Yagi: Damage Proxy Maps, Sep 2024",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Vietnam Typhoon Yagi: Damage Proxy Maps, Sep 2024 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these damage proxy maps for Vietnam Typhoon Yagi (Sep 2024) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **EOS-RS Damage Proxy Map: Vietnam, Typhoon Yagi, 10 Sep 2024, v0.9 wbd** (superseded) - **EOS-RS Damage Proxy Map: Vietnam, Typhoon Yagi, 10 Sep 2024, v0.9 ** **More map details and files:** **More map details and files:** **Legal Disclaimer:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2024)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Viet Nam"
+  ],
+  "locn_geometry": "ENVELOPE(102.17, 109.34, 23.35, 8.6)",
+  "dcat_bbox": "ENVELOPE(102.17, 109.34, 23.35, 8.6)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-vietnam-typhoon-yagi-sep-2024\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/c585005f-ae8f-45a9-988b-f2daee6ed61f/resource/1c8b371a-8054-4f51-9092-18e74933720b/download/eos-rs_20240910_dpm_s1_vietnam_typhoon_yagi_v0.9_wbd.zip\",\"label\":\"EOS-RS_20240910_DPM_S1_Vietnam_Typhoon_Yagi_v0.9_wbd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/c585005f-ae8f-45a9-988b-f2daee6ed61f/resource/1cf3a165-a7f9-4dbf-a3b0-3f576d2f5fc3/download/eos-rs_20240910_dpm_s1_vietnam_typhoon_yagi_v0.9.zip\",\"label\":\"EOS-RS_20240910_DPM_S1_Vietnam_Typhoon_Yagi_v0.9.zip (GeoTIFF)\"}]}"
+}

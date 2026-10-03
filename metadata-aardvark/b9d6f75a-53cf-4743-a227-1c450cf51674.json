@@ -1,0 +1,47 @@
+{
+  "id": "hdx-b9d6f75a-53cf-4743-a227-1c450cf51674",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:51:00Z",
+  "dct_title_s": "Japan Ofunato Wildfires: Damage Proxy Map, Mar 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# EOS-RS Damage Proxy Map: Ofunato, Japan, Wildfire, 08 Mar 2025, v0.9 The Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) created this preliminary Damage Proxy Map (DPM) depicting areas that are likely damaged in Ofunato, Japan, due to several wildfires. This map was derived from synthetic aperture radar (SAR) images acquired by the Copernicus Sentinel-1 satellite operated by the European Space Agency (ESA) before (11 Aug 2024 to 24 Feb 2025) and during (08 Mar 2025) the event. The map covers an area indicated by the white polygon. Damage is shown by colored pixels of 30m in size, where yellow to red indicates increasingly significant ground surface change before and after the event. Preliminary validation was conducted using news reports and ground-level plus aerial imagery and videos in selected areas. This map should be used as a guidance to identify damaged areas, and may be less reliable over vegetated or mountainous areas. Scattered pixels over vegetated or mountainous areas may be false positives, and a lack of colored pixels over such areas may not mean no damage. The product contains modified Copernicus Sentinel data (2024-2025), processed by ESA and analyzed by the Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS). **More map details and files:** **More map details and files:** EOS-RS_202503_Japan_Ofunato_Wildfires/ **Legal Disclaimer:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2024-2025)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Japan"
+  ],
+  "locn_geometry": "ENVELOPE(129.41, 145.54, 45.55, 31.03)",
+  "dcat_bbox": "ENVELOPE(129.41, 145.54, 45.55, 31.03)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-japan-ofunato-wildfires-mar-2025\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/b9d6f75a-53cf-4743-a227-1c450cf51674/resource/0a380ce9-fac9-4c44-994c-c1a1b7425939/download/eos-rs_20250308_dpm_s1_japan_ofunato_wildfires_v0.9.zip\",\"label\":\"EOS-RS_20250308_DPM_S1_Japan_Ofunato_Wildfires_v0.9.zip (GeoTIFF)\"}]}"
+}

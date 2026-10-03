@@ -1,0 +1,47 @@
+{
+  "id": "hdx-4a4f4d72-ac76-43fe-b7ef-c4fbd4a85cc5",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:55:51Z",
+  "dct_title_s": "Philippines Earthquake: Damage Proxy Maps, Jul 2022",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Philippines Earthquake: Damage Proxy Maps, Jul 2022 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these damage proxy maps for Philippines Earthquake (Jul 2022) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **EOS-RS Damage Proxy Map: Philippines, Lindol, 7 Agosto 2022, v0.9** - **EOS-RS Damage Proxy Map: Philippines, Lindol, 7 Agosto 2022, v0.9** **More map details and files:** **Kredito:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Advanced Rapid Imaging and Analysis (ARIA), NASA-JPL/Caltech, Naglalaman ng binagong Copernicus Sentinel data (2022)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "locn_geometry": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dcat_bbox": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-philippines-earthquake-jul-2022\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/4a4f4d72-ac76-43fe-b7ef-c4fbd4a85cc5/resource/f8985a08-bda4-46e8-a7a2-65569e1edf19/download/eos-rs_20220807_dpm_s1_philippines_earthquake_v0.9_cvd.zip\",\"label\":\"EOS-RS_20220807_DPM_S1_Philippines_Earthquake_v0.9_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/4a4f4d72-ac76-43fe-b7ef-c4fbd4a85cc5/resource/449d5794-a783-4177-b427-979e3119c9ef/download/eos-rs_20220807_dpm_s1_philippines_earthquake_v0.9.zip\",\"label\":\"EOS-RS_20220807_DPM_S1_Philippines_Earthquake_v0.9.zip (GeoTIFF)\"}]}"
+}

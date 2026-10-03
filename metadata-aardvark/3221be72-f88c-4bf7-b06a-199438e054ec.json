@@ -1,0 +1,49 @@
+{
+  "id": "hdx-3221be72-f88c-4bf7-b06a-199438e054ec",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:48:09Z",
+  "dct_title_s": "Kyrgyzstan Manas Mud Slide: Flood Proxy Map, May 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# EOS-RS Flood Proxy Map: Manas, Kyrgyzstan, Mudflow, 25 May 2026, v0.9 The Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) created this preliminary Flood Proxy Map (FPM) depicting areas that are likely flooded in Manas, Kyrgyzstan, due to a mudflow caused by heavy rainfall. This map was derived from synthetic aperture radar (SAR) images acquired by the Copernicus Sentinel-1 satellite operated by the European Space Agency (ESA) before (27 Sep 2025 to 13 May 2026) and after (25 May 2026) the event. The map covers an area indicated by the white polygon. The preliminary map shows areas which are likely flooded (shown by light blue pixels of approximately 30m in size) due to rainfall. Preliminary validation was conducted using news reports and ground-level imagery and video in selected areas. This map should be used as a guide to identify areas that are likely flooded, and may be less reliable over urban and vegetated areas. This product contains modified Copernicus Sentinel data (2025-2026), processed by ESA and analyzed by the Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS). **More map details and files:** **Legal Disclaimer:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2025-2026)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Kyrgyzstan"
+  ],
+  "locn_geometry": "ENVELOPE(69.46, 80.26, 43.3, 39.28)",
+  "dcat_bbox": "ENVELOPE(69.46, 80.26, 43.3, 39.28)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-kyrgyzstan-manas-mud-slide-may-2026\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/3221be72-f88c-4bf7-b06a-199438e054ec/resource/a7dd8877-c7ef-4aed-bd80-40d3227a2b25/download/eosrs_2026_001_kgz_ms_20260525_fpm_s1_manas_v0.9.zip\",\"label\":\"EOSRS_2026_001_KGZ_MS_20260525_FPM_S1_Manas_v0.9.zip (GeoTIFF)\"}]}"
+}

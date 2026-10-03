@@ -1,0 +1,49 @@
+{
+  "id": "hdx-d6931946-bde9-4c7b-8bef-16cda4b13d1c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:54:58Z",
+  "dct_title_s": "Indonesia Floods: Flood Proxy Map, Dec 2022",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# EOS-RS Flood Proxy Map: Central Java, Indonesia, Floods, 31 Dec 2022, v0.4 The Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) created this preliminary Flood Proxy Map (FPM) depicting areas that are likely flooded in Central Java, Indonesia. This map was derived from synthetic aperture radar (SAR) images acquired by the ALOS-2 satellite operated by the Japan Aerospace Exploration Agency (JAXA) before (17 Dec 2022) and during (31 Dec 2022) the event. The image covers an area indicated by the large white polygon. Each light blue pixel measures about 25 m across. Preliminary validation was done in selected areas by comparing with media reports. This flood proxy map should be used as a guide to identify areas that are likely flooded, and is less reliable over urban and vegetated areas. Data were analyzed by the Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS). **More map details and files:** **More map details and files:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Original data ALOS-2 PALSAR-2 Product - JAXA (2022)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Indonesia"
+  ],
+  "locn_geometry": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dcat_bbox": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-indonesia-floods-dec-2022\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/d6931946-bde9-4c7b-8bef-16cda4b13d1c/resource/28ddd0f4-811c-4772-bd41-56ba92b52f54/download/eos-rs_20221231_fpm_a2_indonesia_floods_v0.4.zip\",\"label\":\"EOS-RS_20221231_FPM_A2_Indonesia_Floods_v0.4.zip (GeoTIFF)\"}]}"
+}

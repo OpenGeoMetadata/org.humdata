@@ -1,0 +1,49 @@
+{
+  "id": "hdx-5ed877aa-ee19-4378-b7a2-964f87a62f5e",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:52:57Z",
+  "dct_title_s": "Jamaica Hurricane Beryl: Damage Proxy Maps, Jul 2024",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Jamaica Hurricane Beryl: Damage Proxy Maps, Jul 2024 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these damage proxy maps for Jamaica Hurricane Beryl (Jul 2024) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - ** wbd** (superseded) - ** wbd** (superseded) - **EOS-RS_20240706_DPM_S1_Jamaica_Hurricane_Beryl_v0.9_cvd** - **EOS-RS_20240706_DPM_S1_Jamaica_Hurricane_Beryl_v0.9** **More map details and files:** **Legal Disclaimer:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel Data (2024)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Jamaica"
+  ],
+  "locn_geometry": "ENVELOPE(-78.34, -76.2, 18.52, 17.7)",
+  "dcat_bbox": "ENVELOPE(-78.34, -76.2, 18.52, 17.7)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-jamaica-hurricane-beryl-jul-2024\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/5ed877aa-ee19-4378-b7a2-964f87a62f5e/resource/a8174b41-651e-429c-93fb-f4110b586659/download/eos-rs_20240706_dpm_s1_jamaica_hurricane_beryl_v0.9_wbd.zip\",\"label\":\"EOS-RS_20240706_DPM_S1_Jamaica_Hurricane_Beryl_v0.9_wbd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/5ed877aa-ee19-4378-b7a2-964f87a62f5e/resource/376e8af9-d2d2-46bb-b2f7-22a63feeaf04/download/eos-rs_20240706_dpm_s1_jamaica_hurricane_beryl_v0.9_cvd_wbd.zip\",\"label\":\"EOS-RS_20240706_DPM_S1_Jamaica_Hurricane_Beryl_v0.9_cvd_wbd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/5ed877aa-ee19-4378-b7a2-964f87a62f5e/resource/2480b482-2618-4164-85ac-11923cd7777f/download/eos-rs_20240706_dpm_s1_jamaica_hurricane_beryl_v0.9_cvd.zip\",\"label\":\"EOS-RS_20240706_DPM_S1_Jamaica_Hurricane_Beryl_v0.9_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/5ed877aa-ee19-4378-b7a2-964f87a62f5e/resource/12e04286-7025-41bc-b402-2e5d624d1bc3/download/eos-rs_20240706_dpm_s1_jamaica_hurricane_beryl_v0.9.zip\",\"label\":\"EOS-RS_20240706_DPM_S1_Jamaica_Hurricane_Beryl_v0.9.zip (GeoTIFF)\"}]}"
+}

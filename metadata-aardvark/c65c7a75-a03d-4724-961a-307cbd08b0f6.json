@@ -1,0 +1,51 @@
+{
+  "id": "hdx-c65c7a75-a03d-4724-961a-307cbd08b0f6",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:56:52Z",
+  "dct_title_s": "Laos Storm Koguma: Flood Proxy Maps, Jun 2021",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Laos Storm Koguma: Flood Proxy Maps, Jun 2021 The Advanced Rapid Imaging and Analysis (ARIA) team at NASA's Jet Propulsion Laboratory and Caltech, in collaboration with the Earth Observatory of Singapore (EOS), produced these flood proxy maps for Laos Storm Koguma (Jun 2021) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **ARIA-SG Flood Proxy Map: Laos, Tropical Storm Koguma, 16 Jun 2021, v0.3 ** - **ARIA-SG Flood Proxy Map: Laos, Tropical Storm Koguma, 14 Jun 2021, v0.3 ** **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "NASA JPL-Caltech ARIA team; Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Lao People's Democratic Republic"
+  ],
+  "locn_geometry": "ENVELOPE(100.12, 107.56, 22.46, 13.88)",
+  "dcat_bbox": "ENVELOPE(100.12, 107.56, 22.46, 13.88)",
+  "dct_temporal_sm": [
+    "2021"
+  ],
+  "gbl_indexYear_im": [
+    2021
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-laos-storm-koguma-jun-2021\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/c65c7a75-a03d-4724-961a-307cbd08b0f6/resource/7ade4ea9-70a3-408e-97bb-1aa285dc1973/download/eos_aria-sg_20210616_fpm_laos_storm_koguma_v0.3.zip\",\"label\":\"EOS_ARIA-SG_20210616_FPM_Laos_Storm_Koguma_v0.3.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/c65c7a75-a03d-4724-961a-307cbd08b0f6/resource/1b3f396d-1211-445c-94e9-d392e7dfce07/download/eos_aria-sg_20210614_fpm_laos_storm_koguma_v0.3.zip\",\"label\":\"EOS_ARIA-SG_20210614_FPM_Laos_Storm_Koguma_v0.3.zip (GeoTIFF)\"}]}"
+}

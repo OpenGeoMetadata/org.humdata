@@ -1,0 +1,49 @@
+{
+  "id": "hdx-a3f64d27-af15-4244-967c-beaa297a54e4",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:55:23Z",
+  "dct_title_s": "India Floods: Flood Proxy Maps, Oct 2022",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# India Floods: Flood Proxy Maps, Oct 2022 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these flood proxy maps for India Floods (Oct 2022) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **EOS-RS Flood Proxy Map: India, Floods, 16 Oct 2022, v0.5** - **EOS-RS Flood Proxy Map: India, Floods, 15 Oct 2022, v0.5** (superseded) - **EOS-RS Flood Proxy Map: India, Floods, 15 Oct 2022, v0.5** - **EOS-RS Flood Proxy Map: India, Floods, 14 Oct 2022, v0.5** **More map details and files:** **More map details and files:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Advanced Rapid Imaging and Analysis (ARIA), NASA-JPL/Caltech, Contains modified Copernicus Sentinel data (2022)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "India"
+  ],
+  "locn_geometry": "ENVELOPE(68.18, 97.4, 35.49, 7.97)",
+  "dcat_bbox": "ENVELOPE(68.18, 97.4, 35.49, 7.97)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-india-floods-oct-2022\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/a3f64d27-af15-4244-967c-beaa297a54e4/resource/6ce9f154-5b13-419a-be1f-f3e3f719856a/download/eos-rs_20221016_fpm_s1_india_floods_v0.5.zip\",\"label\":\"EOS-RS_20221016_FPM_S1_India_Floods_v0.5.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/a3f64d27-af15-4244-967c-beaa297a54e4/resource/02504b28-4f10-4568-a6ce-adf117e8de64/download/eos-rs_20221015_fpm_s1_india_floods_v0.5.zip\",\"label\":\"EOS-RS_20221015_FPM_S1_India_Floods_v0.5.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/a3f64d27-af15-4244-967c-beaa297a54e4/resource/7d1d50a1-47fe-478b-88d1-9791f93a8cee/download/eos-rs_20221015_fpm_a2_india_floods_v0.5.zip\",\"label\":\"EOS-RS_20221015_FPM_A2_India_Floods_v0.5.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/a3f64d27-af15-4244-967c-beaa297a54e4/resource/667d77eb-881d-4ca5-bb9f-a2bbc14b0ac8/download/eos-rs_20221014_fpm_a2_india_floods_v0.5.zip\",\"label\":\"EOS-RS_20221014_FPM_A2_India_Floods_v0.5.zip (GeoTIFF)\"}]}"
+}

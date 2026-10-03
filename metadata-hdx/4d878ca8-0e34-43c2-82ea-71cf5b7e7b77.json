@@ -1,0 +1,143 @@
+{
+  "archived": false,
+  "batch": "76836ac0-db1d-44b7-be89-c8e3354ada60",
+  "caveats": "The product contains modified Copernicus Sentinel data (2024), processed by ESA and analyzed by the Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS).\n\nThese are preliminary maps derived from satellite radar and should be used as guidance only. Coloured pixels may include false positives, and their absence does not mean an absence of damage or flooding.",
+  "creator_user_id": "610cc9ec-1862-432e-abee-5af9ccac397b",
+  "data_update_frequency": "-2",
+  "dataset_date": "[2024-08-17T00:00:00 TO 2024-08-17T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "Earth Observatory of Singapore",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "4d878ca8-0e34-43c2-82ea-71cf5b7e7b77",
+  "is_requestdata_type": false,
+  "isopen": true,
+  "last_modified": "2026-10-02T11:04:46.427350",
+  "license_id": "cc-by",
+  "license_title": "Creative Commons Attribution International (CC BY)",
+  "license_url": "http://www.opendefinition.org/licenses/cc-by",
+  "maintainer": "610cc9ec-1862-432e-abee-5af9ccac397b",
+  "metadata_created": "2026-10-02T11:04:40.104192",
+  "metadata_modified": "2026-10-02T17:52:32.888080",
+  "methodology": "Other",
+  "methodology_other": "Change detection on synthetic aperture radar (SAR) satellite images acquired before and after the event. Damage Proxy Maps show significant changes in radar coherence and amplitude; Flood Proxy Maps show areas that changed to standing water. Maps are preliminary and checked against news reports and ground-level imagery where available.",
+  "name": "eos-rs-bhutan-floods-aug-2024",
+  "notes": "# EOS-RS Flood Proxy Map: Bhutan, Floods, 17 Aug 2024, v0.4\n\nThe Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) created this preliminary Flood Proxy Map (FPM) depicting areas that are likely flooded in Dechencholing, Thimphu, Bhutan due to heavy rainfall. This map was derived from synthetic aperture radar (SAR) images acquired by the Copernicus Sentinel-1 satellite operated by the European Space Agency (ESA) before (05 Aug 2024) and after (17 Aug 2024) the event.\n\nThe map covers an area indicated by the white polygon. The preliminary map shows areas which are likely flooded (shown by light blue pixels of approximately 30m in size) in Dechencholing, Thimphu, Bhutan due to heavy rainfall. Preliminary validation was conducted using several news reports and ground-level videos of flooding in selected areas. This map should be used as a guide to identify areas that are likely flooded, and may be less reliable over urban and vegetated areas.\n\nThe product contains modified Copernicus Sentinel data (2024), processed by ESA and analyzed by the Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS).\n\n**More map details and files:** <https://sf.earthobservatory.sg/event/EOS-RS_202408_Bhutan_Floods>\n\n**More map details and files:** <https://eos-rs-products.earthobservatory.sg/EOS-RS_202408_Bhutan_Floods/>\n\n**Legal Disclaimer:** <https://products.earthobservatory.sg/#/faq>\n\n**Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2024)",
+  "num_resources": 1,
+  "num_tags": 6,
+  "organization": {
+    "id": "58064b08-71c1-4a9b-8ef3-be8300b94af7",
+    "name": "earth-observatory-of-singapore-remote-sensing-lab",
+    "title": "Earth Observatory of Singapore",
+    "type": "organization",
+    "description": "The Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) is a research lab at Nanyang Technological University (NTU), Singapore. It uses satellite remote sensing, mainly synthetic aperture radar (SAR), to map natural hazards and disasters. The lab produces Damage Proxy Maps (DPMs) and Flood Proxy Maps (FPMs) showing where damage or flooding has likely occurred. Its work focuses on Southeast Asia and the wider Asia-Pacific, and it also responds to major disasters worldwide.",
+    "image_url": "",
+    "created": "2026-10-01T16:40:31.070243",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "58064b08-71c1-4a9b-8ef3-be8300b94af7",
+  "package_creator": "rickyw",
+  "pageviews_last_14_days": 0,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Bhutan\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Bhutan Floods: Flood Proxy Map, Aug 2024",
+  "total_res_downloads": 2,
+  "type": "dataset",
+  "updated_by_script": "EOS_SARFinder (2026-10-02T17:52:32.600765)",
+  "url": null,
+  "version": null,
+  "customviz": [
+    {
+      "url": "https://sf.earthobservatory.sg/event/EOS-RS_202408_Bhutan_Floods"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Bhutan",
+      "id": "btn",
+      "image_display_url": "",
+      "name": "btn",
+      "title": "Bhutan"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/4d878ca8-0e34-43c2-82ea-71cf5b7e7b77/resource/cab1a5f2-6bae-48d5-aa77-f28b08badc3b/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2026-10-02T11:04:40.107036",
+      "datastore_active": false,
+      "description": "EOS-RS Flood Proxy Map: Bhutan, Floods, 17 Aug 2024, v0.4\n\nZIP containing: GeoTIFF, KMZ, PNG, TXT, Shapefile.\n\nThe Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) created this preliminary Flood Proxy Map (FPM) depicting areas that are likely flooded in Dechencholing, Thimphu, Bhutan due to heavy rainfall. This map was derived from synthetic aperture radar (SAR) images acquired by the Copernicus Sentinel-1 satellite operated by the European Space Agency (ESA) before (05 Aug 2024) and after (17 Aug 2024) the event.",
+      "download_url": "https://data.humdata.org/dataset/4d878ca8-0e34-43c2-82ea-71cf5b7e7b77/resource/cab1a5f2-6bae-48d5-aa77-f28b08badc3b/download/eos-rs_20240817_fpm_s1_bhutan_floods_v0.4.zip",
+      "format": "GeoTIFF",
+      "hash": "f204ba4b",
+      "hdx_rel_url": "/dataset/4d878ca8-0e34-43c2-82ea-71cf5b7e7b77/resource/cab1a5f2-6bae-48d5-aa77-f28b08badc3b/download/eos-rs_20240817_fpm_s1_bhutan_floods_v0.4.zip",
+      "id": "cab1a5f2-6bae-48d5-aa77-f28b08badc3b",
+      "last_modified": "2026-10-02T11:04:46.427350",
+      "metadata_modified": "2026-10-02T17:52:32.917102",
+      "microdata": false,
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "EOS-RS_20240817_FPM_S1_Bhutan_Floods_v0.4.zip",
+      "package_id": "4d878ca8-0e34-43c2-82ea-71cf5b7e7b77",
+      "position": 0,
+      "resource_type": "file.upload",
+      "size": 69473188,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/4d878ca8-0e34-43c2-82ea-71cf5b7e7b77/resource/cab1a5f2-6bae-48d5-aa77-f28b08badc3b/download/eos-rs_20240817_fpm_s1_bhutan_floods_v0.4.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "affected area",
+      "id": "25d0e6cc-a02c-4c91-b358-7d4bb1a42af0",
+      "name": "affected area",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "climate hazards",
+      "id": "ba8322b6-72e7-4475-b015-72d200bf5957",
+      "name": "climate hazards",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "flooding",
+      "id": "532eacf2-7b8c-4dd5-baf7-c25720cadb38",
+      "name": "flooding",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "hazards and risk",
+      "id": "7173a61f-84fd-45ca-856a-3aa2b0372869",
+      "name": "hazards and risk",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "natural disasters",
+      "id": "48520851-7df8-418b-aa00-7fa276d7fd88",
+      "name": "natural disasters",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "hdx-268366c4-8707-4bac-b613-2d81087e66dd",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:47:59Z",
+  "dct_title_s": "Taiwan Landslide Hualien County: Damage Proxy Map, Jun 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# EOS-RS Damage Proxy Map: Hualien County, Taiwan, Landslide, 24 June 2026, v1.2 The Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) created this preliminary Damage Proxy Map (DPM) depicting areas that are likely damaged in Hualien County, Taiwan, due to the landslide that created a barrier lake on 22 June 2026. This map was derived from synthetic aperture radar (SAR) images acquired by the Copernicus Sentinel-1 satellite using a pre-event time series of (23 Feb 2026 to 11 June 2026) and a post-event acquisition (23 June 2026). The map covers the area indicated by the white polygon. Damage is shown by colored pixels of approximately 30m in size, where yellow to red indicates increasingly significant ground surface change before and after the event. Preliminary validation was conducted using news reports and pictures in selected areas. This map should be used as guidance to identify damaged areas and may be less reliable over vegetated or mountainous areas. Scattered pixels over such areas may be false positives, and a lack of colored pixels does not necessarily indicate an absence of damage. This product contains modified Copernicus Sentinel data (2026), processed by ESA and analyzed by the Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS). **More map details and files:** **Legal Disclaimer:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2026)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Taiwan (Province of China)"
+  ],
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-taiwan-landslide-hualien-county-jun-2026\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/268366c4-8707-4bac-b613-2d81087e66dd/resource/df5806e2-fff8-4c35-97fa-cf9c20b4725b/download/eosrs_2026_004_twn_ls_20260624_dpm_s1_hualien_v1.2.zip\",\"label\":\"EOSRS_2026_004_TWN_LS_20260624_DPM_S1_Hualien_v1.2.zip (GeoTIFF)\"}]}"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "hdx-e6fee924-d4a9-473b-9dc3-93a04e36b5bf",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:52:09Z",
+  "dct_title_s": "USA Florida Hurricane Helene Floods: Flood Proxy Map, Sep 2024",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# EOS-RS Flood Proxy Map: Tampa Bay, Florida, USA, Hurricane Helene Floods, 26 Sep 2024, v0.9 The Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) created this preliminary Flood Proxy Map (FPM) depicting areas that are likely flooded in Tampa Bay, Florida, USA due to heavy rainfall and storm surges from Hurricane Helene on 26 Sep 2024. This map was derived from synthetic aperture radar (SAR) images acquired by the Copernicus Sentinel-1 satellite operated by the European Space Agency (ESA) before (29 Jan 2024 to 14 Sep 2024) and during (26 Sep 2024) the event. The map covers an area indicated by the white polygon. The preliminary map shows areas which are likely flooded (shown by light blue pixels of approximately 30m in size) due to the heavy rainfall and storm surges. Preliminary validation was conducted using news reports and ground-level videos and imagery in selected areas. This map should be used as a guide to identify areas that are likely flooded, and may be less reliable over urban and vegetated areas. This product contains modified Copernicus Sentinel data (2024), processed by ESA and analyzed by the Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS). **More map details and files:** **More map details and files:** **Legal Disclaimer:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2024)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "locn_geometry": "ENVELOPE(-125.0, -66.96, 49.5, 25.0)",
+  "dcat_bbox": "ENVELOPE(-125.0, -66.96, 49.5, 25.0)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-usa-florida-hurricane-helene-floods-sep-2024\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e6fee924-d4a9-473b-9dc3-93a04e36b5bf/resource/6719f3cc-b876-40b3-9f31-cdea5b601e03/download/eos-rs_20240926_fpm_s1_usa_florida_hurricane_helene_floods_v0.9.zip\",\"label\":\"EOS-RS_20240926_FPM_S1_USA_Florida_Hurricane_Helene_Floods_v0.9.zip (GeoTIFF)\"}]}"
+}

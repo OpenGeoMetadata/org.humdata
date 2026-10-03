@@ -1,0 +1,49 @@
+{
+  "id": "hdx-7cc79f8f-6e46-4493-9de2-dcd51e24b1e3",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:47:37Z",
+  "dct_title_s": "Vietnam Flood Lai Chau: Damage Proxy Map, Aug 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# EOS-RS Damage Proxy Map: Lai Chau, Vietnam, Floods , 14 August 2026, v0.8 The Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) created this preliminary Damage Proxy Map (DPM) depicting areas that are likely damaged in Lai Chau, Vietnam due to heavy rainfall causing floods and landslides on 18 July 2026. This map was derived from synthetic aperture radar (SAR) images acquired by the Copernicus Sentinel-1 satellite operated by the European Space Agency (ESA) before (25 Jan 2026 to 07 July 2026) and during (19 July 2026) the event. The map covers the area indicated by the white polygon. Damage is shown by colored pixels of approximately 30m in size, where yellow to red indicates increasingly significant ground surface change before and after the event. Preliminary validation was conducted using news reports and pictures in selected areas. This map should be used as guidance to identify damaged areas and may be less reliable over vegetated or mountainous areas. Scattered pixels over such areas may be false positives, and a lack of colored pixels does not necessarily indicate an absence of damage. This product contains modified Copernicus Sentinel data (2026), processed by ESA and analyzed by the Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS). **More map details and files:** **Legal Disclaimer:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2026)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Viet Nam"
+  ],
+  "locn_geometry": "ENVELOPE(102.17, 109.34, 23.35, 8.6)",
+  "dcat_bbox": "ENVELOPE(102.17, 109.34, 23.35, 8.6)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-vietnam-flood-lai-chau-aug-2026\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/7cc79f8f-6e46-4493-9de2-dcd51e24b1e3/resource/14a7e1c2-281d-41fa-bcac-d20771e1b6ec/download/eosrs_2026_012_vnm_fl_20260814_dpm_s1_lai_chau_v0.8.zip\",\"label\":\"EOSRS_2026_012_VNM_FL_20260814_DPM_S1_Lai_Chau_v0.8.zip (GeoTIFF)\"}]}"
+}

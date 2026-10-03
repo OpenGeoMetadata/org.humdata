@@ -1,0 +1,49 @@
+{
+  "id": "hdx-901e7ce0-b696-4985-a365-813a914c2e9f",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:51:21Z",
+  "dct_title_s": "Thailand Floods: Flood Proxy Maps, Nov 2024",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Thailand Floods: Flood Proxy Maps, Nov 2024 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these flood proxy maps for Thailand Floods (Nov 2024) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **EOS-RS Flood Proxy Map: Provinces of Songkhla and Satun, Thailand, Floods, 4 Dec 2024, v0.9** - **EOS-RS Flood Proxy Map: Provinces of Yala, Pattani, and Narathiwat, Thailand, Floods, 29 Nov 2024, v0.9** **More map details and files:** **More map details and files:** **Legal Disclaimer:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2024)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Thailand"
+  ],
+  "locn_geometry": "ENVELOPE(97.38, 105.59, 20.42, 5.69)",
+  "dcat_bbox": "ENVELOPE(97.38, 105.59, 20.42, 5.69)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-thailand-floods-nov-2024\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/901e7ce0-b696-4985-a365-813a914c2e9f/resource/92a04905-d465-4a74-8ab9-ee7dd742145e/download/eos-rs_20241204_fpm_s1_songkhla_satun_thailand_floods_v0.9.zip\",\"label\":\"EOS-RS_20241204_FPM_S1_Songkhla_Satun_Thailand_Floods_v0.9.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/901e7ce0-b696-4985-a365-813a914c2e9f/resource/d9768b8f-3c57-4705-a3df-ecff453b3990/download/eos-rs_20241129_fpm_s1_yala_pattani_narathiwat_thailand_floods_v0.9.zip\",\"label\":\"EOS-RS_20241129_FPM_S1_Yala_Pattani_Narathiwat_Thailand_Floods_v0.9.zip (GeoTIFF)\"}]}"
+}

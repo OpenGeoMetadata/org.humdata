@@ -1,0 +1,49 @@
+{
+  "id": "hdx-1b40edc8-0a30-407b-be3c-7111e8e7c7f2",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:56:04Z",
+  "dct_title_s": "India Floods: Flood Proxy Maps, Jun 2022",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# India Floods: Flood Proxy Maps, Jun 2022 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these flood proxy maps for India Floods (Jun 2022) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **EOS-RS Flood Proxy Map: India, Floods, 22 Jun 2022, v0.4** - **EOS-RS Flood Proxy Map: India, Floods, 21 Jun 2022, v0.3** **More map details and files:** **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "India"
+  ],
+  "locn_geometry": "ENVELOPE(68.18, 97.4, 35.49, 7.97)",
+  "dcat_bbox": "ENVELOPE(68.18, 97.4, 35.49, 7.97)",
+  "dct_temporal_sm": [
+    "2022"
+  ],
+  "gbl_indexYear_im": [
+    2022
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-india-floods-jun-2022\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/1b40edc8-0a30-407b-be3c-7111e8e7c7f2/resource/dd6fcf5c-4011-4221-ad42-52c831b72731/download/eos-rs_20220622_fpm_a2_india_floods_v0.4.zip\",\"label\":\"EOS-RS_20220622_FPM_A2_India_Floods_v0.4.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/1b40edc8-0a30-407b-be3c-7111e8e7c7f2/resource/5700017a-3153-4ac5-bc30-7e7419fe5770/download/eos-rs_20220621_fpm_s1_india_floods_v0.3.zip\",\"label\":\"EOS-RS_20220621_FPM_S1_India_Floods_v0.3.zip (GeoTIFF)\"}]}"
+}

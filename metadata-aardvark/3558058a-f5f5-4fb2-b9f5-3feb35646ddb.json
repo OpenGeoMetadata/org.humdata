@@ -1,0 +1,51 @@
+{
+  "id": "hdx-3558058a-f5f5-4fb2-b9f5-3feb35646ddb",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:58:15Z",
+  "dct_title_s": "Japan Typhoon Hagibis: Flood Proxy Maps, Oct 2019",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Japan Typhoon Hagibis: Flood Proxy Maps, Oct 2019 The Advanced Rapid Imaging and Analysis (ARIA) team at NASA's Jet Propulsion Laboratory and Caltech, in collaboration with the Earth Observatory of Singapore (EOS), produced these flood proxy maps for Japan Typhoon Hagibis (Oct 2019) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **ARIA-SG Flood Proxy Map: Japan Typhoon Hagibis, 15 Oct 2019, v0.1 ** - **ARIA-SG Flood Proxy Map: Japan Typhoon Hagibis, 14 Oct 2019, v0.1 ** - **ARIA-SG Flood Proxy Map: Japan, Typhoon Hagibis, 12 Oct 2019, v0.5 ** (superseded) - **ARIA-SG Flood Proxy Map: Japan, Typhoon Hagibis, Fukushima, 12 Oct 2019, v0.5 ** - **ARIA-SG Flood Proxy Map: Japan, Typhoon Hagibis, 12 Oct 2019, v0.1 ** (superseded) **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "NASA JPL-Caltech ARIA team; Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Japan"
+  ],
+  "locn_geometry": "ENVELOPE(129.41, 145.54, 45.55, 31.03)",
+  "dcat_bbox": "ENVELOPE(129.41, 145.54, 45.55, 31.03)",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "gbl_indexYear_im": [
+    2019
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-japan-typhoon-hagibis-oct-2019\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/3558058a-f5f5-4fb2-b9f5-3feb35646ddb/resource/9d2ac0cb-55e0-4f9d-8ed3-cd61bad7da94/download/eos_aria-sg_20191015_fpm_japan_hagibis_v0.1.zip\",\"label\":\"EOS_ARIA-SG_20191015_FPM_Japan_Hagibis_v0.1.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/3558058a-f5f5-4fb2-b9f5-3feb35646ddb/resource/896bd818-61a8-44ee-a4c9-b44361c4ab52/download/eos_aria-sg_20191014_fpm_japan_hagibis_v0.1.zip\",\"label\":\"EOS_ARIA-SG_20191014_FPM_Japan_Hagibis_v0.1.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/3558058a-f5f5-4fb2-b9f5-3feb35646ddb/resource/6f040e73-ba51-42ad-ac24-5df53375252a/download/eos_aria-sg_20191012_fpm_japan_hagibis_v0.5.zip\",\"label\":\"EOS_ARIA-SG_20191012_FPM_Japan_Hagibis_v0.5.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/3558058a-f5f5-4fb2-b9f5-3feb35646ddb/resource/336e7926-b3ef-4b9d-b7d9-1ad775817274/download/eos_aria-sg_20191012_fpm_japan_hagibis_fukushima_v0.5.zip\",\"label\":\"EOS_ARIA-SG_20191012_FPM_Japan_Hagibis_Fukushima_v0.5.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/3558058a-f5f5-4fb2-b9f5-3feb35646ddb/resource/19abd9fe-20a3-42c1-b7a3-ca9b1ab7c209/download/eos_aria-sg_20191012_fpm_japan_hagibis_v0.1.zip\",\"label\":\"EOS_ARIA-SG_20191012_FPM_Japan_Hagibis_v0.1.zip (GeoTIFF)\"}]}"
+}

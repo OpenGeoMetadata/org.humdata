@@ -1,0 +1,51 @@
+{
+  "id": "hdx-b839ca57-3ea7-412c-ab4f-9d1ca9480f9e",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:51:03Z",
+  "dct_title_s": "Fiji Cyclone Rae: Flood Proxy Map, Feb 2025",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# EOS-RS Flood Proxy Map: Vanua Levu, Fiji, Tropical Cyclone Rae, 26 Feb 2025, v0.9 The Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) created this preliminary Flood Proxy Map (FPM) depicting areas that are likely flooded in the Vanua Levu, Fiji, due to Tropical Cyclone Rae. This map was derived from synthetic aperture radar (SAR) images acquired by the Copernicus Sentinel-1 satellite operated by the European Space Agency (ESA) before (14 May 2024 to 14 Feb 2025) and after (26 Feb 2025) the event. The map covers an area indicated by the white polygon. The preliminary map shows areas which are likely flooded (shown by light blue pixels of approximately 30m in size) due to the Tropical Cyclone Rae. Preliminary validation was conducted using news reports, and ground-level imagery and videos in selected areas. This map should be used as a guide to identify areas that are likely flooded, and may be less reliable over urban and vegetated areas. This product contains modified Copernicus Sentinel data (2024-2025), processed by ESA and analyzed by the Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS). **More map details and files:** **More map details and files:** **Legal Disclaimer:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2024-2025)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Fiji"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, -16.02, -18.29)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, -16.02, -18.29)",
+  "dct_temporal_sm": [
+    "2025"
+  ],
+  "gbl_indexYear_im": [
+    2025
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-fiji-cyclone-rae-feb-2025\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/b839ca57-3ea7-412c-ab4f-9d1ca9480f9e/resource/c5dd7c5b-d80b-4f70-98d6-ce6899caa352/download/eos-rs_20250226_fpm_s1_fiji_cyclone_rae_v0.9.zip\",\"label\":\"EOS-RS_20250226_FPM_S1_Fiji_Cyclone_Rae_v0.9.zip (GeoTIFF)\"}]}"
+}

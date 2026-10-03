@@ -1,0 +1,47 @@
+{
+  "id": "hdx-62a7a085-189d-4764-a8f1-46ed26b2cf36",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:57:49Z",
+  "dct_title_s": "Samos Izmir Earthquake: Damage Proxy Map, Mar 2020",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# ARIA Damage Proxy Map, Izmir, Turkey Earthquake The Advanced Rapid Imaging and Analysis (ARIA) team at NASA's Jet Propulsion Laboratory and California Institute of Technology, both in Pasadena, California, created this Damage Proxy Map (DPM) depicting areas that are likely damaged by the recent Mw 7.0 (October 30, 2020) earthquake beneath the Aegean Sea between Samos, Greece and Izmir, Turkey. The map was derived from synthetic aperture radar (SAR) images on October 30, 2020 by the Copernicus Sentinel-1 satellites operated by the European Space Agency (ESA). The pre-event images were taken before (October 18, 2020 and October 24, 2020) the earthquake. The image covers an area of 337 by 175 kilometers (210 by 108 miles), shown by the large red polygon. Each pixel measures about 30 meters across. The color variation from yellow to red indicates increasingly more significant surface change. Preliminary validation was done by comparing with the Media reports. This damage proxy map should be used as guidance to identify damaged areas, and may be less reliable over vegetated areas. For example, the scattered colored pixels over vegetated areas may be false positives, and the lack of colored pixels over vegetated areas does not necessarily mean no damage. This map is most sensitive to building damage, but small scale change or partial structural damage may not be detected by this map. Contains modified Copernicus Sentinel data, processed by ESA. Analyzed by the NASA-JPL/Caltech ARIA team. This task was carried out at JPL funded by NASA. The products (KMZ and GeoTIFF files) are available to download at For more information about ARIA, visit: **More map details and files:** **NOTE for KMZ users:** After opening the KMZ file, please uncheck the \"Compress\" option in the \"Texture Colors\" section in the \"3D View\" tab under the menu \"Google Earth Pro > Preference...\" (Mac) or \"Tools > Options...\" (Windows). After unchecking the \"Compress\" option, Google Earth needs to be restarted. If the Compress option is on, some red pixels may appear as greenish dull color."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Greece"
+  ],
+  "locn_geometry": "ENVELOPE(20.15, 26.6, 41.83, 34.92)",
+  "dcat_bbox": "ENVELOPE(20.15, 26.6, 41.83, 34.92)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-samos-izmir-earthquake-mar-2020\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/62a7a085-189d-4764-a8f1-46ed26b2cf36/resource/db631fe4-6a5a-4f43-8e6c-710566629f30/download/eos_aria-sg_20200308_dpm_s1_samos_izmir_earthquake_v0.3.zip\",\"label\":\"EOS_ARIA-SG_20200308_DPM_S1_Samos_Izmir_Earthquake_v0.3.zip (GeoTIFF)\"}]}"
+}

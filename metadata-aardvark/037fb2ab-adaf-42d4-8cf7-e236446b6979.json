@@ -1,0 +1,47 @@
+{
+  "id": "hdx-037fb2ab-adaf-42d4-8cf7-e236446b6979",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:54:50Z",
+  "dct_title_s": "Indonesia Earthquake: Damage Proxy Maps, Jan 2023",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Indonesia Earthquake: Damage Proxy Maps, Jan 2023 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these damage proxy maps for Indonesia Earthquake (Jan 2023) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **EOS-RS Damage Proxy Map: Indonesia, Earthquake, 10 Jan 2023, v0.9 wbd** (superseded) - **EOS-RS Damage Proxy Map: Indonesia, Earthquake, 10 Jan 2023, v0.9 wbd** (superseded) - **EOS-RS Damage Proxy Map: Indonesia, Earthquake, 10 Jan 2023, v0.9 ** - **EOS-RS Damage Proxy Map: Indonesia, Earthquake, 10 Jan 2023, v0.9 ** **More map details and files:** **More map details and files:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Advanced Rapid Imaging and Analysis (ARIA), NASA-JPL/Caltech, Contains modified Copernicus Sentinel data (2022-2023)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "damage assessment",
+    "earthquake-tsunami",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Indonesia"
+  ],
+  "locn_geometry": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dcat_bbox": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dct_temporal_sm": [
+    "2023"
+  ],
+  "gbl_indexYear_im": [
+    2023
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-indonesia-earthquake-jan-2023\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/037fb2ab-adaf-42d4-8cf7-e236446b6979/resource/56714d2a-a1cd-478c-bf79-12467beafed1/download/eos-rs_20230110_dpm_s1_indonesia_earthquake_v0.9_wbd.zip\",\"label\":\"EOS-RS_20230110_DPM_S1_Indonesia_Earthquake_v0.9_wbd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/037fb2ab-adaf-42d4-8cf7-e236446b6979/resource/2a742747-12bb-43ac-903f-a2ea3fe10c95/download/eos-rs_20230110_dpm_s1_indonesia_earthquake_v0.9_cvd_wbd.zip\",\"label\":\"EOS-RS_20230110_DPM_S1_Indonesia_Earthquake_v0.9_cvd_wbd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/037fb2ab-adaf-42d4-8cf7-e236446b6979/resource/abb82cc7-6eaf-40fb-8633-adf0b646c1e9/download/eos-rs_20230110_dpm_s1_indonesia_earthquake_v0.9_cvd.zip\",\"label\":\"EOS-RS_20230110_DPM_S1_Indonesia_Earthquake_v0.9_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/037fb2ab-adaf-42d4-8cf7-e236446b6979/resource/bb2a738c-4da5-475f-a844-294dc092325a/download/eos-rs_20230110_dpm_s1_indonesia_earthquake_v0.9.zip\",\"label\":\"EOS-RS_20230110_DPM_S1_Indonesia_Earthquake_v0.9.zip (GeoTIFF)\"}]}"
+}

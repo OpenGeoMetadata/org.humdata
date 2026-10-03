@@ -1,0 +1,53 @@
+{
+  "id": "hdx-0816c671-13d4-4090-b434-fc4b76bd0273",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:51:27Z",
+  "dct_title_s": "Philippines Typhoons Toraji Usagi Man-yi: Damage and Flood Proxy Maps, Nov 2024",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Philippines Typhoons Toraji Usagi Man-yi: Damage and Flood Proxy Maps, Nov 2024 The **Earth Observatory of Singapore – Remote Sensing Lab (EOS-RS)** produced these damage and flood proxy maps for Philippines Typhoons Toraji Usagi Man-yi (Nov 2024) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **EOS-RS Damage Proxy Map: Isabela Province, Philippines, Typhoons Toraji, Usagi & Man-yi, 19 Nov 2024, v0.9** - **EOS-RS Flood Proxy Map: Isabela Province, Philippines, Floods from Typhoons Toraji, Usagi & Man-yi, 19 Nov 2024, v0.9** **More map details and files:** **More map details and files:** **Legal Disclaimer:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2024)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "locn_geometry": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dcat_bbox": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dct_temporal_sm": [
+    "2024"
+  ],
+  "gbl_indexYear_im": [
+    2024
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-philippines-typhoons-toraji-usagi-man-yi-nov-2024\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/0816c671-13d4-4090-b434-fc4b76bd0273/resource/c08bfd0e-1eaf-42af-ac9c-92a61de701a2/download/eos-rs_20241119_dpm_s1_isabela_philippines_typhoon_toraji_usagi_man-yi_v0.9.zip\",\"label\":\"EOS-RS_20241119_DPM_S1_Isabela_Philippines_Typhoon_Toraji_Usagi_Man-yi_v0.9.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/0816c671-13d4-4090-b434-fc4b76bd0273/resource/3b2f8310-40b4-4d52-8d20-64fc820edaae/download/eos-rs_20241119_fpm_s1_isabela_philippines_typhoon_toraji_usagi_man-yi_v0.9.zip\",\"label\":\"EOS-RS_20241119_FPM_S1_Isabela_Philippines_Typhoon_Toraji_Usagi_Man-yi_v0.9.zip (GeoTIFF)\"}]}"
+}

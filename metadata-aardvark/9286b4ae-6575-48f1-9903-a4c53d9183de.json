@@ -1,0 +1,53 @@
+{
+  "id": "hdx-9286b4ae-6575-48f1-9903-a4c53d9183de",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:57:24Z",
+  "dct_title_s": "Bahamas Storm Isaias: Damage and Flood Proxy Maps, Aug 2020",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Bahamas Storm Isaias: Damage and Flood Proxy Maps, Aug 2020 The Advanced Rapid Imaging and Analysis (ARIA) team at NASA's Jet Propulsion Laboratory and Caltech, in collaboration with the Earth Observatory of Singapore (EOS), produced these damage and flood proxy maps for Bahamas Storm Isaias (Aug 2020) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **ARIA-SG Damage Proxy Map: The Bahamas, Tropical Storm Isaias, 2 Aug 2020, v0.3 ** - **ARIA-SG Damage Proxy Map: The Bahamas, Tropical Storm Isaias, 2 Aug 2020, v0.3 ** - **ARIA-SG Flood Proxy Map: The Bahamas, Tropical Storm Isaias, 2 Aug 2020, v0.7 ** **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "NASA JPL-Caltech ARIA team; Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "affected area",
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "affected area",
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Bahamas"
+  ],
+  "locn_geometry": "ENVELOPE(-78.98, -77.0, 27.04, 23.71)",
+  "dcat_bbox": "ENVELOPE(-78.98, -77.0, 27.04, 23.71)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-bahamas-storm-isaias-aug-2020\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/9286b4ae-6575-48f1-9903-a4c53d9183de/resource/98fee87b-c5b5-4992-8529-3a40e9aa7cec/download/eos_aria-sg_20200802_dpm_bahamas_storm_isaias_v0.3_cvd.zip\",\"label\":\"EOS_ARIA-SG_20200802_DPM_Bahamas_Storm_Isaias_v0.3_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/9286b4ae-6575-48f1-9903-a4c53d9183de/resource/19b7183e-a62b-448b-b9a9-87b4662b4a34/download/eos_aria-sg_20200802_dpm_bahamas_storm_isaias_v0.3.zip\",\"label\":\"EOS_ARIA-SG_20200802_DPM_Bahamas_Storm_Isaias_v0.3.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/9286b4ae-6575-48f1-9903-a4c53d9183de/resource/7b2c5972-3890-4a17-afbd-ed29db1d8d8b/download/eos_aria-sg_20200802_fpm_bahamas_storm_isaias_v0.7.zip\",\"label\":\"EOS_ARIA-SG_20200802_FPM_Bahamas_Storm_Isaias_v0.7.zip (GeoTIFF)\"}]}"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "hdx-d49f060a-91a8-49b2-a66d-6d75d576b4d9",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:57:55Z",
+  "dct_title_s": "Philippines Taal Volcano: Damage Proxy Map, Jan 2020",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# ARIA-SG Damage Proxy Map: Philippines Taal Volcano Eruption, 15 Jan 2020, v1.0 Derived from synthetic aperture radar data acquired by the Copernicus Sentinel-1 satellites operated by the European Space Agency (ESA) before (9 Jan) and after (15 Jan) the onset of the event. Analysed by the ARIA-SG team at the Earth Observatory of Singapore (EOS) in collaboration with NASA-JPL and Caltech. Data processing used an AWS Open Dataset of Copernicus Sentinel-1 data for the Asia region (https://registry.opendata.aws/sentinel1-slc-seasia-pds). **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "NASA JPL-Caltech ARIA team; Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "locn_geometry": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dcat_bbox": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-philippines-taal-volcano-jan-2020\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/d49f060a-91a8-49b2-a66d-6d75d576b4d9/resource/9c319db3-747f-4c33-bb45-ff0813a0c752/download/eos_aria-sg_20200115_dpm_philippines_taal_volcano_v0.1.zip\",\"label\":\"EOS_ARIA-SG_20200115_DPM_Philippines_Taal_Volcano_v0.1.zip (GeoTIFF)\"}]}"
+}

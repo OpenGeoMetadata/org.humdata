@@ -1,0 +1,51 @@
+{
+  "id": "hdx-413899de-3ad7-4049-9b2d-3289d7cdc083",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:58:21Z",
+  "dct_title_s": "Hurricane Dorian Bahamas: Damage Proxy Map, Sep 2019",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Bahamas - ARIA Damage Proxy Map v0.3 The Advanced Rapid Imaging and Analysis (ARIA) team at NASA's Jet Propulsion Laboratory and California Institute of Technology in Pasadena, California, created this Damage Proxy Map (DPM) depicting areas of the Bahamas that are likely damaged (shown by red and yellow pixels) as a result of Hurricane Dorian that made a landfall as Category 5 storm Sunday (September 1) afternoon. The map was derived from synthetic aperture radar (SAR) data acquired around 7pm (local time) on September 2, 2019 by the European Union's Copernicus Sentinel-1 satellites operated by the European Space Agency (ESA). The pre-event images were taken before (August 21, 2019) and the post-event image was acquired a day after the hurricane's landfall. The map covers an area of 176 by 170 kilometers, indicated with the big red polygon. Each pixel measures about 30 meters across. The color variation from yellow to red indicates increasingly more significant ground surface change. Media reports provided anecdotal preliminary validation. This damage proxy map should be used as guidance to identify damaged areas, and may be less reliable over vegetated areas and flooded areas. For example, the scattered single colored pixels over vegetated areas may be false positives, and the lack of colored pixels over vegetated areas does not necessarily mean no damage. This task was funded by NASA Disasters Program. For more information about ARIA, visit: For more information about the EUâs Copernicus Programme, visit: **More map details and files:** **Copyright:** Contains modified Copernicus Sentinel data (2019) processed by the ARIA team at NASA-JPL and Caltech."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "NASA JPL-Caltech ARIA team; Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "cyclones-hurricanes-typhoons",
+    "damage assessment",
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Bahamas"
+  ],
+  "locn_geometry": "ENVELOPE(-78.98, -77.0, 27.04, 23.71)",
+  "dcat_bbox": "ENVELOPE(-78.98, -77.0, 27.04, 23.71)",
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "gbl_indexYear_im": [
+    2019
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-hurricane-dorian-bahamas-sep-2019\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/413899de-3ad7-4049-9b2d-3289d7cdc083/resource/076fa179-d14a-41f8-a023-04a9971139e9/download/eos_aria-sg_20190910_dpm_s1_bahamas_v0.7.zip\",\"label\":\"EOS_ARIA-SG_20190910_DPM_S1_Bahamas_v0.7.zip (GeoTIFF)\"}]}"
+}

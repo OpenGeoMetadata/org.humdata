@@ -1,0 +1,45 @@
+{
+  "id": "hdx-9d796c09-5b72-40b2-9b5a-fad26cb89193",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-02T17:57:14Z",
+  "dct_title_s": "Lebanon Explosion: Damage Proxy Maps, Aug 2020",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# Lebanon Explosion: Damage Proxy Maps, Aug 2020 The Advanced Rapid Imaging and Analysis (ARIA) team at NASA's Jet Propulsion Laboratory and Caltech, in collaboration with the Earth Observatory of Singapore (EOS), produced these damage proxy maps for Lebanon Explosion (Aug 2020) from synthetic aperture radar (SAR) satellite images. Each map is a separate ZIP below with its GeoTIFF, a KMZ for Google Earth, the PNG figures and a text file describing how it was made and how to read it. ## Maps in this dataset - **ARIA-SG Damage Proxy Map: Lebanon, Explosion, 4-5 Aug 2020, v0.5** - **ARIA-SG Damage Proxy Map: Lebanon, Explosion, 4-5 Aug 2020, v0.5** **More map details and files:**"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "NASA JPL-Caltech ARIA team; Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Lebanon"
+  ],
+  "locn_geometry": "ENVELOPE(35.13, 36.61, 34.64, 33.09)",
+  "dcat_bbox": "ENVELOPE(35.13, 36.61, 34.64, 33.09)",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "gbl_indexYear_im": [
+    2020
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-lebanon-explosion-aug-2020\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/9d796c09-5b72-40b2-9b5a-fad26cb89193/resource/6261046a-d647-4506-9457-10c4021a9d10/download/eos_aria-sg_202008_dpm_lebanon_explosion_v0.5_cvd.zip\",\"label\":\"EOS_ARIA-SG_202008_DPM_Lebanon_Explosion_v0.5_cvd.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/9d796c09-5b72-40b2-9b5a-fad26cb89193/resource/3128dbd9-9e9f-4b82-b778-82ec31732146/download/eos_aria-sg_202008_dpm_lebanon_explosion_v0.5.zip\",\"label\":\"EOS_ARIA-SG_202008_DPM_Lebanon_Explosion_v0.5.zip (GeoTIFF)\"}]}"
+}

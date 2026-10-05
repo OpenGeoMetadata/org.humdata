@@ -1,7 +1,7 @@
 {
   "id": "hdx-8393830f-5fa2-4b30-8c6d-d95cd0c67572",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-14T16:09:44Z",
+  "gbl_mdModified_dt": "2026-10-05T03:20:50Z",
   "dct_title_s": "Haiti: Acute Food Insecurity Country Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -31,13 +31,9 @@
   "locn_geometry": "ENVELOPE(-74.46, -71.62, 19.92, 18.03)",
   "dcat_bbox": "ENVELOPE(-74.46, -71.62, 19.92, 18.03)",
   "dct_temporal_sm": [
-    "2017-2026"
+    "2021-2026"
   ],
   "gbl_indexYear_im": [
-    2017,
-    2018,
-    2019,
-    2020,
     2021,
     2022,
     2023,
@@ -46,5 +42,5 @@
     2026
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/haiti-acute-food-insecurity-country-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/8393830f-5fa2-4b30-8c6d-d95cd0c67572/resource/568ad232-9449-4b47-9a39-458fe301c19a/download/ipc_hti.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/8393830f-5fa2-4b30-8c6d-d95cd0c67572/resource/568ad232-9449-4b47-9a39-458fe301c19a/download/ipc_hti.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/haiti-acute-food-insecurity-country-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/8393830f-5fa2-4b30-8c6d-d95cd0c67572/resource/568ad232-9449-4b47-9a39-458fe301c19a/download/ipc_hti.geojson\",\"label\":\"ipc_hti.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/8393830f-5fa2-4b30-8c6d-d95cd0c67572/resource/7ff3469f-b70d-45f4-8934-9f3416495ec4/download/ipc_hti_national_long_latest.csv\",\"label\":\"ipc_hti_national_long_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/8393830f-5fa2-4b30-8c6d-d95cd0c67572/resource/2a4fbea2-52f4-4322-b50a-0585bc1ef04b/download/ipc_hti_area_long_latest.csv\",\"label\":\"ipc_hti_area_long_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/8393830f-5fa2-4b30-8c6d-d95cd0c67572/resource/67788b1c-4470-46c6-bbca-eaedc82e3440/download/ipc_hti_area_wide_latest.csv\",\"label\":\"ipc_hti_area_wide_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/8393830f-5fa2-4b30-8c6d-d95cd0c67572/resource/a1eacc92-830b-46de-8f99-1eedaed46072/download/ipc_hti_national_long.csv\",\"label\":\"ipc_hti_national_long.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/8393830f-5fa2-4b30-8c6d-d95cd0c67572/resource/d974e65a-7491-43ab-8333-6a6117ebd1b9/download/ipc_hti_national_wide.csv\",\"label\":\"ipc_hti_national_wide.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/8393830f-5fa2-4b30-8c6d-d95cd0c67572/resource/40768c21-aab3-4990-bb28-a21d78f94c60/download/ipc_hti_level1_long.csv\",\"label\":\"ipc_hti_level1_long.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/8393830f-5fa2-4b30-8c6d-d95cd0c67572/resource/ccc837cd-9120-4542-8d27-5c35e77966a2/download/ipc_hti_level1_wide.csv\",\"label\":\"ipc_hti_level1_wide.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/8393830f-5fa2-4b30-8c6d-d95cd0c67572/resource/3c193fcf-ad7e-4935-b39c-196898e102d0/download/ipc_hti_area_long.csv\",\"label\":\"ipc_hti_area_long.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/8393830f-5fa2-4b30-8c6d-d95cd0c67572/resource/06eeaf53-ebcd-4898-bb98-0720016fd6dc/download/ipc_hti_area_wide.csv\",\"label\":\"ipc_hti_area_wide.csv (CSV)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/8393830f-5fa2-4b30-8c6d-d95cd0c67572/resource/568ad232-9449-4b47-9a39-458fe301c19a/download/ipc_hti.geojson\"}"
 }

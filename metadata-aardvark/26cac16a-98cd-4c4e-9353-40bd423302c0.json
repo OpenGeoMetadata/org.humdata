@@ -1,7 +1,7 @@
 {
   "id": "hdx-26cac16a-98cd-4c4e-9353-40bd423302c0",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-14T19:50:15Z",
+  "gbl_mdModified_dt": "2026-10-05T03:23:05Z",
   "dct_title_s": "Somalia: Acute Food Insecurity Country Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -31,13 +31,9 @@
   "locn_geometry": "ENVELOPE(40.98, 51.13, 12.02, -1.68)",
   "dcat_bbox": "ENVELOPE(40.98, 51.13, 12.02, -1.68)",
   "dct_temporal_sm": [
-    "2017-2026"
+    "2021-2026"
   ],
   "gbl_indexYear_im": [
-    2017,
-    2018,
-    2019,
-    2020,
     2021,
     2022,
     2023,
@@ -46,5 +42,5 @@
     2026
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/somalia-acute-food-insecurity-country-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/26cac16a-98cd-4c4e-9353-40bd423302c0/resource/1c8d0767-78cb-422f-96ee-fe3aa7299e1e/download/ipc_som.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/26cac16a-98cd-4c4e-9353-40bd423302c0/resource/1c8d0767-78cb-422f-96ee-fe3aa7299e1e/download/ipc_som.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/somalia-acute-food-insecurity-country-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/26cac16a-98cd-4c4e-9353-40bd423302c0/resource/1c8d0767-78cb-422f-96ee-fe3aa7299e1e/download/ipc_som.geojson\",\"label\":\"ipc_som.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/26cac16a-98cd-4c4e-9353-40bd423302c0/resource/19fb795d-73a4-4d28-bc06-2ed714c102d8/download/ipc_som_national_long_latest.csv\",\"label\":\"ipc_som_national_long_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/26cac16a-98cd-4c4e-9353-40bd423302c0/resource/b96bd811-f15b-40cf-82a9-898558f44200/download/ipc_som_area_long_latest.csv\",\"label\":\"ipc_som_area_long_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/26cac16a-98cd-4c4e-9353-40bd423302c0/resource/199608fb-ba1d-431d-b0e1-ac0628a58354/download/ipc_som_area_wide_latest.csv\",\"label\":\"ipc_som_area_wide_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/26cac16a-98cd-4c4e-9353-40bd423302c0/resource/0205b347-e64b-4987-bd70-38f8edff452b/download/ipc_som_national_long.csv\",\"label\":\"ipc_som_national_long.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/26cac16a-98cd-4c4e-9353-40bd423302c0/resource/833b0b80-991e-4fd8-a9ce-e217afc00a12/download/ipc_som_national_wide.csv\",\"label\":\"ipc_som_national_wide.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/26cac16a-98cd-4c4e-9353-40bd423302c0/resource/fa87ad6b-d8f8-41d7-9f86-f6b46a434fdf/download/ipc_som_level1_long.csv\",\"label\":\"ipc_som_level1_long.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/26cac16a-98cd-4c4e-9353-40bd423302c0/resource/8d9a035b-9e86-4e06-89b9-c667824bed82/download/ipc_som_level1_wide.csv\",\"label\":\"ipc_som_level1_wide.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/26cac16a-98cd-4c4e-9353-40bd423302c0/resource/80be59cd-6d1d-423f-9114-e2fb507fd257/download/ipc_som_area_long.csv\",\"label\":\"ipc_som_area_long.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/26cac16a-98cd-4c4e-9353-40bd423302c0/resource/1d1eff93-4c78-4d86-aa20-1814f1e16c99/download/ipc_som_area_wide.csv\",\"label\":\"ipc_som_area_wide.csv (CSV)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/26cac16a-98cd-4c4e-9353-40bd423302c0/resource/1c8d0767-78cb-422f-96ee-fe3aa7299e1e/download/ipc_som.geojson\"}"
 }

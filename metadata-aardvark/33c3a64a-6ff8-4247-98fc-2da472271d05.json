@@ -1,7 +1,7 @@
 {
   "id": "hdx-33c3a64a-6ff8-4247-98fc-2da472271d05",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-14T16:10:43Z",
+  "gbl_mdModified_dt": "2026-10-05T03:22:45Z",
   "dct_title_s": "El Salvador: Acute Food Insecurity Country Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -31,16 +31,12 @@
   "locn_geometry": "ENVELOPE(-90.1, -87.72, 14.42, 13.15)",
   "dcat_bbox": "ENVELOPE(-90.1, -87.72, 14.42, 13.15)",
   "dct_temporal_sm": [
-    "2017-2022"
+    "2021-2022"
   ],
   "gbl_indexYear_im": [
-    2017,
-    2018,
-    2019,
-    2020,
     2021,
     2022
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/el-salvador-acute-food-insecurity-country-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/33c3a64a-6ff8-4247-98fc-2da472271d05/resource/ad40667b-563c-4931-bf24-478d2aeff2ef/download/ipc_slv.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/33c3a64a-6ff8-4247-98fc-2da472271d05/resource/ad40667b-563c-4931-bf24-478d2aeff2ef/download/ipc_slv.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/el-salvador-acute-food-insecurity-country-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/33c3a64a-6ff8-4247-98fc-2da472271d05/resource/ad40667b-563c-4931-bf24-478d2aeff2ef/download/ipc_slv.geojson\",\"label\":\"ipc_slv.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/33c3a64a-6ff8-4247-98fc-2da472271d05/resource/cdf0878c-342d-4ade-ba0a-e5ca8d50febd/download/ipc_slv_national_long_latest.csv\",\"label\":\"ipc_slv_national_long_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/33c3a64a-6ff8-4247-98fc-2da472271d05/resource/a8aa516d-79ae-4f12-a282-e4be63df9f2a/download/ipc_slv_area_long_latest.csv\",\"label\":\"ipc_slv_area_long_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/33c3a64a-6ff8-4247-98fc-2da472271d05/resource/a2b87353-d3ef-4156-abf9-bde7201ab8b4/download/ipc_slv_area_wide_latest.csv\",\"label\":\"ipc_slv_area_wide_latest.csv (CSV)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/33c3a64a-6ff8-4247-98fc-2da472271d05/resource/ad40667b-563c-4931-bf24-478d2aeff2ef/download/ipc_slv.geojson\"}"
 }

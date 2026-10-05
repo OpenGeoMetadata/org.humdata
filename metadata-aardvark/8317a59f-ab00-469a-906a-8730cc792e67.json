@@ -1,0 +1,43 @@
+{
+  "id": "hdx-8317a59f-ab00-469a-906a-8730cc792e67",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-05T00:53:29Z",
+  "dct_title_s": "Indonesia - Earthquake on Oct 03 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000tzer](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000tzer) Magnitude 5.9 earthquake at 45.951 depth occurred on Oct 03 2026 40km W of Tambolaka. The epicentre of the earthquake was located at latitude -9.5672 longitude 118.9078. It impacted 225099 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Indonesia"
+  ],
+  "locn_geometry": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dcat_bbox": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/idn-earthquake-sm-us6000tzer\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/8317a59f-ab00-469a-906a-8730cc792e67/resource/4e730fe7-2609-4a79-9d01-7382f13ddd42/download/idn_wfpadam_earthquake_20261003.geojson\",\"label\":\"idn_wfpadam_earthquake_20261003.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/8317a59f-ab00-469a-906a-8730cc792e67/resource/49868c12-47f9-458e-80b6-b2f2b48fedbd/download/idn_wfpadam_earthquake_20261003.csv\",\"label\":\"idn_wfpadam_earthquake_20261003.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/8317a59f-ab00-469a-906a-8730cc792e67/resource/c9d2ac1b-84f3-44d3-9ad2-4c9646dd7340/download/idn_wfpadam_earthquake_20261003.xlsx\",\"label\":\"idn_wfpadam_earthquake_20261003.xlsx (XLSX)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/8317a59f-ab00-469a-906a-8730cc792e67/resource/4e730fe7-2609-4a79-9d01-7382f13ddd42/download/idn_wfpadam_earthquake_20261003.geojson\"}"
+}

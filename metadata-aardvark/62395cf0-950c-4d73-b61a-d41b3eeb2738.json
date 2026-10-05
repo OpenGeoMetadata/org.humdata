@@ -1,7 +1,7 @@
 {
   "id": "hdx-62395cf0-950c-4d73-b61a-d41b3eeb2738",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-14T16:09:35Z",
+  "gbl_mdModified_dt": "2026-10-05T03:20:26Z",
   "dct_title_s": "Gambia: Acute Food Insecurity Country Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -31,10 +31,9 @@
   "locn_geometry": "ENVELOPE(-16.84, -13.84, 13.88, 13.13)",
   "dcat_bbox": "ENVELOPE(-16.84, -13.84, 13.88, 13.13)",
   "dct_temporal_sm": [
-    "2020-2025"
+    "2021-2025"
   ],
   "gbl_indexYear_im": [
-    2020,
     2021,
     2022,
     2023,
@@ -42,5 +41,5 @@
     2025
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/gambia-acute-food-insecurity-country-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/62395cf0-950c-4d73-b61a-d41b3eeb2738/resource/cf83cce4-d323-4b77-806f-9a65ca6372de/download/ipc_gmb.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/62395cf0-950c-4d73-b61a-d41b3eeb2738/resource/cf83cce4-d323-4b77-806f-9a65ca6372de/download/ipc_gmb.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/gambia-acute-food-insecurity-country-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/62395cf0-950c-4d73-b61a-d41b3eeb2738/resource/cf83cce4-d323-4b77-806f-9a65ca6372de/download/ipc_gmb.geojson\",\"label\":\"ipc_gmb.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/62395cf0-950c-4d73-b61a-d41b3eeb2738/resource/820813c9-b582-4f9b-9930-5f88534e00a4/download/ipc_gmb_national_long_latest.csv\",\"label\":\"ipc_gmb_national_long_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/62395cf0-950c-4d73-b61a-d41b3eeb2738/resource/540e3211-d345-4930-bcf7-87a3c01953e6/download/ipc_gmb_area_long_latest.csv\",\"label\":\"ipc_gmb_area_long_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/62395cf0-950c-4d73-b61a-d41b3eeb2738/resource/574c7e71-cdd0-4a9e-843a-fd49ae41ee24/download/ipc_gmb_area_wide_latest.csv\",\"label\":\"ipc_gmb_area_wide_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/62395cf0-950c-4d73-b61a-d41b3eeb2738/resource/9b96c8a8-d623-42a6-865b-ae3448e1b6c2/download/ipc_gmb_national_long.csv\",\"label\":\"ipc_gmb_national_long.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/62395cf0-950c-4d73-b61a-d41b3eeb2738/resource/871bc97e-2c88-4437-be9a-7640a301a9c2/download/ipc_gmb_national_wide.csv\",\"label\":\"ipc_gmb_national_wide.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/62395cf0-950c-4d73-b61a-d41b3eeb2738/resource/1ea6cfe6-757e-4879-91db-7cd8a02ba6a2/download/ipc_gmb_area_long.csv\",\"label\":\"ipc_gmb_area_long.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/62395cf0-950c-4d73-b61a-d41b3eeb2738/resource/4f6cd523-31b6-4b8f-9b9e-0659108fd2ca/download/ipc_gmb_area_wide.csv\",\"label\":\"ipc_gmb_area_wide.csv (CSV)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/62395cf0-950c-4d73-b61a-d41b3eeb2738/resource/cf83cce4-d323-4b77-806f-9a65ca6372de/download/ipc_gmb.geojson\"}"
 }

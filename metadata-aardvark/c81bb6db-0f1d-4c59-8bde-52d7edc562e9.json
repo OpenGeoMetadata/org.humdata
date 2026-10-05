@@ -1,7 +1,7 @@
 {
   "id": "hdx-c81bb6db-0f1d-4c59-8bde-52d7edc562e9",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-14T16:11:02Z",
+  "gbl_mdModified_dt": "2026-10-05T03:23:15Z",
   "dct_title_s": "South Sudan: Acute Food Insecurity Country Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -31,14 +31,9 @@
   "locn_geometry": "ENVELOPE(23.89, 35.3, 12.25, 3.51)",
   "dcat_bbox": "ENVELOPE(23.89, 35.3, 12.25, 3.51)",
   "dct_temporal_sm": [
-    "2017-2026"
+    "2022-2026"
   ],
   "gbl_indexYear_im": [
-    2017,
-    2018,
-    2019,
-    2020,
-    2021,
     2022,
     2023,
     2024,
@@ -46,5 +41,5 @@
     2026
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/south-sudan-acute-food-insecurity-country-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/c81bb6db-0f1d-4c59-8bde-52d7edc562e9/resource/1ada1f60-5465-4aa2-a8e9-188ab5bd2f0a/download/ipc_ssd.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/c81bb6db-0f1d-4c59-8bde-52d7edc562e9/resource/1ada1f60-5465-4aa2-a8e9-188ab5bd2f0a/download/ipc_ssd.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/south-sudan-acute-food-insecurity-country-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/c81bb6db-0f1d-4c59-8bde-52d7edc562e9/resource/1ada1f60-5465-4aa2-a8e9-188ab5bd2f0a/download/ipc_ssd.geojson\",\"label\":\"ipc_ssd.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/c81bb6db-0f1d-4c59-8bde-52d7edc562e9/resource/5dc31009-611d-44d9-9d1b-00e51d6e8fa3/download/ipc_ssd_national_long_latest.csv\",\"label\":\"ipc_ssd_national_long_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/c81bb6db-0f1d-4c59-8bde-52d7edc562e9/resource/0b79be00-7c46-4784-934d-6c80fc9d46ae/download/ipc_ssd_level1_long_latest.csv\",\"label\":\"ipc_ssd_level1_long_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/c81bb6db-0f1d-4c59-8bde-52d7edc562e9/resource/70864418-b009-4850-8ebf-01e5534d16ee/download/ipc_ssd_level1_wide_latest.csv\",\"label\":\"ipc_ssd_level1_wide_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/c81bb6db-0f1d-4c59-8bde-52d7edc562e9/resource/356161ff-673d-480f-a183-abe93a268450/download/ipc_ssd_area_long_latest.csv\",\"label\":\"ipc_ssd_area_long_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/c81bb6db-0f1d-4c59-8bde-52d7edc562e9/resource/e36a52ee-1aa6-4bd3-a4a8-b47ec5d3ee66/download/ipc_ssd_area_wide_latest.csv\",\"label\":\"ipc_ssd_area_wide_latest.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/c81bb6db-0f1d-4c59-8bde-52d7edc562e9/resource/5e88477c-9d87-4ab2-bfa5-0303e21d9cc2/download/ipc_ssd_national_long.csv\",\"label\":\"ipc_ssd_national_long.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/c81bb6db-0f1d-4c59-8bde-52d7edc562e9/resource/d0b0faa3-1cad-470c-9b72-16f83932398d/download/ipc_ssd_national_wide.csv\",\"label\":\"ipc_ssd_national_wide.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/c81bb6db-0f1d-4c59-8bde-52d7edc562e9/resource/effff6b6-dcaa-400c-837b-5d98906a73cc/download/ipc_ssd_level1_long.csv\",\"label\":\"ipc_ssd_level1_long.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/c81bb6db-0f1d-4c59-8bde-52d7edc562e9/resource/0e1c15b4-16e5-4bf9-8ebf-4b2849b5d702/download/ipc_ssd_level1_wide.csv\",\"label\":\"ipc_ssd_level1_wide.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/c81bb6db-0f1d-4c59-8bde-52d7edc562e9/resource/6c221834-d751-4de0-9150-462bf753d9e8/download/ipc_ssd_area_long.csv\",\"label\":\"ipc_ssd_area_long.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/c81bb6db-0f1d-4c59-8bde-52d7edc562e9/resource/944af6ed-0fb9-4e3e-9c67-4d4bfb1fb55d/download/ipc_ssd_area_wide.csv\",\"label\":\"ipc_ssd_area_wide.csv (CSV)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/c81bb6db-0f1d-4c59-8bde-52d7edc562e9/resource/1ada1f60-5465-4aa2-a8e9-188ab5bd2f0a/download/ipc_ssd.geojson\"}"
 }

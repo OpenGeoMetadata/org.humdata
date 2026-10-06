@@ -1,14 +1,14 @@
 {
   "id": "hdx-e6732605-2f5b-42f3-af08-1ba2e6d46862",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-10-05T00:43:08Z",
+  "gbl_mdModified_dt": "2026-10-05T22:27:35Z",
   "dct_title_s": "Railways of Cameroon",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "Railway lines and stations tagged `railway=*`: rail lines, tram tracks, and stations. Useful for transport accessibility analysis and basemap context. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [railway](https://wiki.openstreetmap.org/wiki/Key:railway) - Part of the [exports grid on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
+    "Railway lines and stations tagged `railway=*`: rail lines, tram tracks, and stations. Useful for transport accessibility analysis and basemap context. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [railway](https://wiki.openstreetmap.org/wiki/Key:railway) - Part of the [country exports on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
   ],
   "dct_language_sm": [
     "eng"
@@ -41,5 +41,5 @@
     2026
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_cmr_railways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CMR/railways/hotosm_cmr_railways_osm_geojson.zip\",\"label\":\"Railways (OSM), GeoJSON (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CMR/railways/hotosm_cmr_railways_osm_gpkg.zip\",\"label\":\"Railways (OSM), GeoPackage (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CMR/_layers/osm/railways.parquet\",\"label\":\"Railways (OSM), GeoParquet (GeoParquet)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CMR/railways/hotosm_cmr_railways_osm_kml.zip\",\"label\":\"Railways (OSM), KML (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CMR/railways/hotosm_cmr_railways_osm_metadata.json\",\"label\":\"Railways (OSM), Layer Metadata (STAC) (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CMR/railways/hotosm_cmr_railways_osm_shp.zip\",\"label\":\"Railways (OSM), Shapefile (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CMR/railways/hotosm_cmr_railways_osm.pmtiles\",\"label\":\"Railways (OSM), Vector Tiles (PMTiles) (PMTiles)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CMR/railways/hotosm_cmr_railways_report.html\",\"label\":\"Railways, Data Quality Report (HTML)\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_cmr_railways\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CMR/railways/hotosm_cmr_railways_osm_geojson.zip\",\"label\":\"Railways (OSM), GeoJSON (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CMR/railways/hotosm_cmr_railways_osm_gpkg.zip\",\"label\":\"Railways (OSM), GeoPackage (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CMR/_layers/osm/railways.parquet\",\"label\":\"Railways (OSM), GeoParquet (GeoParquet)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CMR/railways/hotosm_cmr_railways_osm_kml.zip\",\"label\":\"Railways (OSM), KML (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CMR/railways/hotosm_cmr_railways_osm_shp.zip\",\"label\":\"Railways (OSM), Shapefile (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CMR/railways/hotosm_cmr_railways_osm_metadata.json\",\"label\":\"Railways (OSM), STAC Collection (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CMR/railways/hotosm_cmr_railways_osm.pmtiles\",\"label\":\"Railways (OSM), Vector Tiles (PMTiles) (PMTiles)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/CMR/railways/hotosm_cmr_railways_report.html\",\"label\":\"Railways, Data Quality Report (HTML)\"}]}"
 }

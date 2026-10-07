@@ -125,4 +125,60 @@ class MapperTest < Minitest::Test
 
     assert_equal "https://example.com/data.json", refs['http://geojson.org/geojson-spec.html']
   end
+
+  def test_mapper_adds_pmtiles_reference_when_mixed_resources
+    dataset = {
+      "id" => "test-dataset-pmtiles",
+      "title" => "Test PMTiles dataset",
+      "resources" => [
+        {
+          "format" => "GeoJSON",
+          "download_url" => "https://example.com/data_geojson.zip"
+        },
+        {
+          "format" => "PMTiles",
+          "download_url" => "https://example.com/data.pmtiles"
+        }
+      ]
+    }
+    mapped = Mapper.map(dataset)
+    refs = JSON.parse(mapped['dct_references_s'])
+
+    assert_equal "https://example.com/data.pmtiles", refs['https://github.com/protomaps/PMTiles']
+    refute refs.key?('http://geojson.org/geojson-spec.html')
+  end
+
+  def test_mapper_does_not_add_pmtiles_reference_without_pmtiles_resource
+    dataset = {
+      "id" => "test-dataset-no-pmtiles",
+      "title" => "Test dataset without PMTiles",
+      "resources" => [
+        {
+          "format" => "Geopackage",
+          "download_url" => "https://example.com/data_gpkg.zip"
+        }
+      ]
+    }
+    mapped = Mapper.map(dataset)
+    refs = JSON.parse(mapped['dct_references_s'])
+
+    refute refs.key?('https://github.com/protomaps/PMTiles')
+  end
+
+  def test_mapper_does_not_add_pmtiles_reference_zipped_pmtiles
+    dataset = {
+      "id" => "test-dataset-zipped-pmtiles",
+      "title" => "Test Zipped PMTiles dataset",
+      "resources" => [
+        {
+          "format" => "PMTiles",
+          "download_url" => "https://example.com/pmtiles_data.zip"
+        }
+      ]
+    }
+    mapped = Mapper.map(dataset)
+    refs = JSON.parse(mapped['dct_references_s'])
+
+    refute refs.key?('https://github.com/protomaps/PMTiles')
+  end
 end

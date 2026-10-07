@@ -233,6 +233,12 @@ class Mapper
       refs['http://geojson.org/geojson-spec.html'] = geojson_resource['download_url']
     end
 
+    # Add PMTiles reference if an unzipped PMTiles archive exists
+    pmtiles_resource = resources.find { |r| r['format'].to_s.casecmp?('pmtiles') && r['download_url'].present? && r['download_url'].to_s.downcase =~ /\.pmtiles$/ }
+    if pmtiles_resource
+      refs['https://github.com/protomaps/PMTiles'] = pmtiles_resource['download_url']
+    end
+
     refs
   end
 end

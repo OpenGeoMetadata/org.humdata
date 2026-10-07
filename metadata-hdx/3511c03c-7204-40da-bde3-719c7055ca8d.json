@@ -19,7 +19,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "6a0688ce-8521-46e2-8edd-8e26c0851ebd",
   "metadata_created": "2020-05-15T13:49:00.950219",
-  "metadata_modified": "2026-09-10T09:26:13.095529",
+  "metadata_modified": "2026-10-07T06:43:31.610529",
   "methodology": "Other",
   "methodology_other": "Volunteered geographic information",
   "name": "hotosm_hmd_airports",
@@ -40,7 +40,7 @@
   },
   "owner_org": "225b9f7d-e7cb-4156-96a6-44c9c58d31e3",
   "package_creator": "osm2hdx",
-  "pageviews_last_14_days": 1,
+  "pageviews_last_14_days": 18,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Heard Island and McDonald Islands\"]}",
@@ -49,7 +49,7 @@
   "title": "HOTOSM Heard Island and McDonald Islands Airports (OpenStreetMap Export)",
   "total_res_downloads": 0,
   "type": "dataset",
-  "updated_by_script": "HDXPythonLibrary/6.6.7-osm-country-exports/0.1 (2026-09-09T07:31:26.287474)",
+  "updated_by_script": "HDXPythonLibrary/6.7.0-osm-country-exports/0.1 (2026-10-07T06:43:31.156082)",
   "url": null,
   "version": null,
   "groups": [
@@ -64,7 +64,6 @@
   ],
   "resources": [
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-15T13:49:42.215966",
@@ -76,7 +75,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/5e8375c6-219d-4a88-89b5-6c56539e10ae/hotosm_hmd_airports_points_shp.zip",
       "id": "218eb5c2-e1d7-495a-bc13-8b63c6b31176",
       "last_modified": "2020-05-15T13:49:42.008256",
-      "metadata_modified": "2026-09-10T09:26:13.120104",
+      "metadata_modified": "2026-10-07T06:43:31.644540",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -91,7 +90,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-15T13:49:42.215972",
@@ -103,7 +101,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/5e8375c6-219d-4a88-89b5-6c56539e10ae/hotosm_hmd_airports_lines_shp.zip",
       "id": "6c74dbca-a2c3-4183-9f79-864f8dff0468",
       "last_modified": "2020-05-15T13:49:42.008256",
-      "metadata_modified": "2026-09-10T09:26:13.120204",
+      "metadata_modified": "2026-10-07T06:43:31.644719",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -118,7 +116,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-15T13:49:42.215974",
@@ -130,7 +127,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/5e8375c6-219d-4a88-89b5-6c56539e10ae/hotosm_hmd_airports_polygons_shp.zip",
       "id": "eed431f6-e0e0-4257-972b-abfcbc9b9f2d",
       "last_modified": "2020-05-15T13:49:42.008256",
-      "metadata_modified": "2026-09-10T09:26:13.120286",
+      "metadata_modified": "2026-10-07T06:43:31.644845",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -145,7 +142,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-15T13:49:42.215976",
@@ -157,7 +153,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/5e8375c6-219d-4a88-89b5-6c56539e10ae/hotosm_hmd_airports_gpkg.zip",
       "id": "87d6935b-4e65-462b-8f7a-69f364a08ed8",
       "last_modified": "2020-05-15T13:49:44.949853",
-      "metadata_modified": "2026-09-10T09:26:13.120355",
+      "metadata_modified": "2026-10-07T06:43:31.644959",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -171,7 +167,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-15T13:49:42.215978",
@@ -183,7 +178,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/5e8375c6-219d-4a88-89b5-6c56539e10ae/hotosm_hmd_airports_points_kml.zip",
       "id": "87b40bc4-4269-4fa2-b41f-55a2017f72c6",
       "last_modified": "2020-05-15T13:49:44.949853",
-      "metadata_modified": "2026-09-10T09:26:13.120422",
+      "metadata_modified": "2026-10-07T06:43:31.645074",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,7 +193,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-15T13:49:42.215980",
@@ -210,7 +204,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/5e8375c6-219d-4a88-89b5-6c56539e10ae/hotosm_hmd_airports_lines_kml.zip",
       "id": "0590fb58-a8e6-41ae-854f-d1215c04a0c5",
       "last_modified": "2020-05-15T13:49:44.949853",
-      "metadata_modified": "2026-09-10T09:26:13.120484",
+      "metadata_modified": "2026-10-07T06:43:31.645193",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -225,7 +219,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-15T13:49:42.215982",
@@ -237,7 +230,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/5e8375c6-219d-4a88-89b5-6c56539e10ae/hotosm_hmd_airports_polygons_kml.zip",
       "id": "21befdbc-0a7c-4558-8a45-ffcb12118719",
       "last_modified": "2020-05-15T13:49:44.949853",
-      "metadata_modified": "2026-09-10T09:26:13.120543",
+      "metadata_modified": "2026-10-07T06:43:31.645315",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -252,7 +245,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-15T13:49:42.215984",
@@ -264,7 +256,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/5e8375c6-219d-4a88-89b5-6c56539e10ae/hotosm_hmd_gmapsupp_img.zip",
       "id": "62164dfd-6242-4e3a-896e-f1c536d9c00b",
       "last_modified": "2020-05-15T13:49:44.949853",
-      "metadata_modified": "2026-09-10T09:26:13.120602",
+      "metadata_modified": "2026-10-07T06:43:31.645437",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

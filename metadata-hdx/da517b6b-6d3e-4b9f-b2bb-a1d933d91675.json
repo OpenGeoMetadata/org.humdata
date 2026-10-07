@@ -19,7 +19,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "6a0688ce-8521-46e2-8edd-8e26c0851ebd",
   "metadata_created": "2020-05-12T14:27:42.895122",
-  "metadata_modified": "2026-09-10T10:48:25.409638",
+  "metadata_modified": "2026-10-07T03:58:59.565657",
   "methodology": "Other",
   "methodology_other": "Volunteered geographic information",
   "name": "hotosm_gib_railways",
@@ -40,7 +40,7 @@
   },
   "owner_org": "225b9f7d-e7cb-4156-96a6-44c9c58d31e3",
   "package_creator": "osm2hdx",
-  "pageviews_last_14_days": 1,
+  "pageviews_last_14_days": 14,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Gibraltar\"]}",
@@ -49,7 +49,7 @@
   "title": "HOTOSM Gibraltar Railways (OpenStreetMap Export)",
   "total_res_downloads": 7,
   "type": "dataset",
-  "updated_by_script": "HDXPythonLibrary/6.6.7-osm-country-exports/0.1 (2026-09-09T05:16:19.626901)",
+  "updated_by_script": "HDXPythonLibrary/6.7.0-osm-country-exports/0.1 (2026-10-07T03:58:59.055893)",
   "url": null,
   "version": null,
   "groups": [
@@ -64,7 +64,6 @@
   ],
   "resources": [
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-12T14:29:18.548484",
@@ -76,7 +75,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/ed990451-4080-4218-9ea1-28702a9343ce/hotosm_gib_railways_lines_shp.zip",
       "id": "b5e76258-f0cc-43f4-9ff3-30a6fdb1862e",
       "last_modified": "2020-07-03T01:31:31",
-      "metadata_modified": "2026-09-10T10:48:25.430561",
+      "metadata_modified": "2026-10-07T03:58:59.589579",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -91,7 +90,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-12T14:29:18.548490",
@@ -103,7 +101,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/ed990451-4080-4218-9ea1-28702a9343ce/hotosm_gib_railways_polygons_shp.zip",
       "id": "8d90d838-a494-4f81-a6bd-8b66234ed69d",
       "last_modified": "2020-07-03T01:31:31",
-      "metadata_modified": "2026-09-10T10:48:25.430669",
+      "metadata_modified": "2026-10-07T03:58:59.589705",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -118,7 +116,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-12T14:29:18.548493",
@@ -130,7 +127,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/ed990451-4080-4218-9ea1-28702a9343ce/hotosm_gib_railways_gpkg.zip",
       "id": "faaf0f07-3e83-47f8-a405-5d2eea2ef3aa",
       "last_modified": "2020-07-03T01:31:31",
-      "metadata_modified": "2026-09-10T10:48:25.430742",
+      "metadata_modified": "2026-10-07T03:58:59.589780",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -144,7 +141,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-12T14:29:18.548495",
@@ -156,7 +152,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/ed990451-4080-4218-9ea1-28702a9343ce/hotosm_gib_railways_lines_kml.zip",
       "id": "631c21bc-21f8-4d0b-b5e2-6b4aa44d5c80",
       "last_modified": "2020-07-03T01:31:31",
-      "metadata_modified": "2026-09-10T10:48:25.430817",
+      "metadata_modified": "2026-10-07T03:58:59.589848",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -171,7 +167,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-12T14:29:18.548497",
@@ -183,7 +178,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/ed990451-4080-4218-9ea1-28702a9343ce/hotosm_gib_railways_polygons_kml.zip",
       "id": "460a4f2e-9cd9-4383-999d-49dc2c8e4b5b",
       "last_modified": "2020-07-03T01:31:31",
-      "metadata_modified": "2026-09-10T10:48:25.430882",
+      "metadata_modified": "2026-10-07T03:58:59.589912",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,7 +193,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-12T14:29:18.548499",
@@ -210,7 +204,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/ed990451-4080-4218-9ea1-28702a9343ce/hotosm_gib_gmapsupp_img.zip",
       "id": "b2476431-ab07-49e7-bd13-d31558d3635c",
       "last_modified": "2020-07-03T01:31:36",
-      "metadata_modified": "2026-09-10T10:48:25.430945",
+      "metadata_modified": "2026-10-07T03:58:59.589975",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

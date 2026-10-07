@@ -19,7 +19,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "6a0688ce-8521-46e2-8edd-8e26c0851ebd",
   "metadata_created": "2020-05-20T14:52:14.066167",
-  "metadata_modified": "2026-09-08T09:13:47.562064",
+  "metadata_modified": "2026-10-06T21:38:28.097635",
   "methodology": "Other",
   "methodology_other": "Volunteered geographic information",
   "name": "hotosm_cck_health_facilities",
@@ -40,7 +40,7 @@
   },
   "owner_org": "225b9f7d-e7cb-4156-96a6-44c9c58d31e3",
   "package_creator": "osm2hdx",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 10,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Cocos (Keeling) Islands\"]}",
@@ -49,7 +49,7 @@
   "title": "HOTOSM Cocos (Keeling) Islands Health Facilities (OpenStreetMap Export)",
   "total_res_downloads": 0,
   "type": "dataset",
-  "updated_by_script": "HDXPythonLibrary/6.6.7-osm-country-exports/0.1 (2026-09-07T13:23:47.597977)",
+  "updated_by_script": "HDXPythonLibrary/6.7.0-osm-country-exports/0.1 (2026-10-06T21:38:27.731487)",
   "url": null,
   "version": null,
   "groups": [
@@ -64,7 +64,6 @@
   ],
   "resources": [
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-20T14:52:14.075083",
@@ -76,7 +75,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/e8b30848-54b7-4f43-ba8b-9fe662c41d73/hotosm_cck_health_facilities_points_shp.zip",
       "id": "61bc2410-2f42-43dd-ae5f-73d18efc7b82",
       "last_modified": "2020-07-03T14:21:06",
-      "metadata_modified": "2026-09-08T09:13:47.588222",
+      "metadata_modified": "2026-10-06T21:38:28.119287",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -91,7 +90,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-20T14:52:14.075088",
@@ -103,7 +101,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/e8b30848-54b7-4f43-ba8b-9fe662c41d73/hotosm_cck_health_facilities_polygons_shp.zip",
       "id": "552d94f2-a434-4450-8b29-e4989f9331d0",
       "last_modified": "2020-07-03T14:21:06",
-      "metadata_modified": "2026-09-08T09:13:47.588408",
+      "metadata_modified": "2026-10-06T21:38:28.119441",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -118,7 +116,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-20T14:52:14.075090",
@@ -130,7 +127,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/e8b30848-54b7-4f43-ba8b-9fe662c41d73/hotosm_cck_health_facilities_gpkg.zip",
       "id": "77f3402f-0b62-4bfb-b26f-808176152e8f",
       "last_modified": "2020-07-03T14:21:06",
-      "metadata_modified": "2026-09-08T09:13:47.588555",
+      "metadata_modified": "2026-10-06T21:38:28.119588",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -144,7 +141,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-20T14:52:14.075092",
@@ -156,7 +152,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/e8b30848-54b7-4f43-ba8b-9fe662c41d73/hotosm_cck_health_facilities_points_kml.zip",
       "id": "9b096358-b253-4eb6-aed4-e18dce012d46",
       "last_modified": "2020-07-03T14:21:06",
-      "metadata_modified": "2026-09-08T09:13:47.588676",
+      "metadata_modified": "2026-10-06T21:38:28.119703",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -171,7 +167,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-20T14:52:14.075094",
@@ -183,7 +178,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/e8b30848-54b7-4f43-ba8b-9fe662c41d73/hotosm_cck_health_facilities_polygons_kml.zip",
       "id": "79345d7d-60a5-4e14-8585-b93a1ac32321",
       "last_modified": "2020-07-03T14:21:06",
-      "metadata_modified": "2026-09-08T09:13:47.588796",
+      "metadata_modified": "2026-10-06T21:38:28.119817",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,7 +193,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-20T14:52:14.075096",
@@ -210,7 +204,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/e8b30848-54b7-4f43-ba8b-9fe662c41d73/hotosm_cck_gmapsupp_img.zip",
       "id": "442158d1-f2e3-42e0-bdac-61f2ae454ffa",
       "last_modified": "2020-07-03T14:21:09",
-      "metadata_modified": "2026-09-08T09:13:47.588922",
+      "metadata_modified": "2026-10-06T21:38:28.119925",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

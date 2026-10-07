@@ -1,14 +1,14 @@
 {
   "id": "hdx-d493181e-065d-46ab-9d3c-86b8180ea3e1",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-09-07T13:25:29Z",
+  "gbl_mdModified_dt": "2026-10-06T15:51:51Z",
   "dct_title_s": "Roads of Åland Islands",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "Road network across the region tagged `highway=*`: motorways, residential streets, service roads, footways, and trails. Useful for routing, accessibility analysis, and evacuation planning. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [highway](https://wiki.openstreetmap.org/wiki/Key:highway) - Part of the [exports grid on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
+    "Road network across the area tagged `highway=*`: motorways, residential streets, service roads, footways, and trails. Useful for routing, accessibility analysis, and evacuation planning. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [highway](https://wiki.openstreetmap.org/wiki/Key:highway) - Part of the [country exports on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
   ],
   "dct_language_sm": [
     "eng"
@@ -36,6 +36,6 @@
   "gbl_indexYear_im": [
     2026
   ],
-  "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_ala_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://export.hotosm.org/downloads/78e82cd4-c100-4a53-a643-462e59dba570/hotosm_ala_gmapsupp_img.zip\",\"label\":\"hotosm_ala_gmapsupp_img.zip (Garmin IMG)\"},{\"url\":\"https://export.hotosm.org/downloads/78e82cd4-c100-4a53-a643-462e59dba570/hotosm_ala_roads_gpkg.zip\",\"label\":\"hotosm_ala_roads_gpkg.zip (Geopackage)\"},{\"url\":\"https://export.hotosm.org/downloads/78e82cd4-c100-4a53-a643-462e59dba570/hotosm_ala_roads_lines_kml.zip\",\"label\":\"hotosm_ala_roads_lines_kml.zip (KML)\"},{\"url\":\"https://export.hotosm.org/downloads/78e82cd4-c100-4a53-a643-462e59dba570/hotosm_ala_roads_lines_shp.zip\",\"label\":\"hotosm_ala_roads_lines_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ALA/roads/hotosm_ala_roads_osm_gpkg.zip\",\"label\":\"hotosm_ala_roads_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ALA/roads/hotosm_ala_roads_osm_metadata.json\",\"label\":\"hotosm_ala_roads_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ALA/roads/hotosm_ala_roads_osm_shp.zip\",\"label\":\"hotosm_ala_roads_osm_shp.zip (SHP)\"},{\"url\":\"https://export.hotosm.org/downloads/78e82cd4-c100-4a53-a643-462e59dba570/hotosm_ala_roads_polygons_kml.zip\",\"label\":\"hotosm_ala_roads_polygons_kml.zip (KML)\"},{\"url\":\"https://export.hotosm.org/downloads/78e82cd4-c100-4a53-a643-462e59dba570/hotosm_ala_roads_polygons_shp.zip\",\"label\":\"hotosm_ala_roads_polygons_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ALA/roads/hotosm_ala_roads_report.html\",\"label\":\"hotosm_ala_roads_report.html (HTML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ALA/roads/hotosm_ala_roads_osm_gpkg.zip\",\"label\":\"Roads (OSM), GeoPackage (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ALA/roads/hotosm_ala_roads_osm_shp.zip\",\"label\":\"Roads (OSM), Shapefile (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ALA/roads/hotosm_ala_roads_report.html\",\"label\":\"Roads, Data Quality Report (HTML)\"}]}"
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_ala_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ALA/roads/hotosm_ala_roads_osm_gpkg.zip\",\"label\":\"Roads (OSM), GeoPackage (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ALA/_layers/osm/roads.parquet\",\"label\":\"Roads (OSM), GeoParquet (GeoParquet)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ALA/roads/hotosm_ala_roads_osm_shp.zip\",\"label\":\"Roads (OSM), Shapefile (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ALA/roads/hotosm_ala_roads_osm_metadata.json\",\"label\":\"Roads (OSM), STAC Collection (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ALA/roads/hotosm_ala_roads_osm.pmtiles\",\"label\":\"Roads (OSM), Vector Tiles (PMTiles) (PMTiles)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/ALA/roads/hotosm_ala_roads_report.html\",\"label\":\"Roads, Data Quality Report (HTML)\"}]}"
 }

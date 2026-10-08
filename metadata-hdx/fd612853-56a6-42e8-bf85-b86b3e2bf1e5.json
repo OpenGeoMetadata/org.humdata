@@ -19,7 +19,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "6a0688ce-8521-46e2-8edd-8e26c0851ebd",
   "metadata_created": "2020-05-14T15:24:49.817571",
-  "metadata_modified": "2026-09-10T11:04:36.827848",
+  "metadata_modified": "2026-10-07T13:59:08.357117",
   "methodology": "Other",
   "methodology_other": "Volunteered geographic information",
   "name": "hotosm_nfk_railways",
@@ -40,7 +40,7 @@
   },
   "owner_org": "225b9f7d-e7cb-4156-96a6-44c9c58d31e3",
   "package_creator": "osm2hdx",
-  "pageviews_last_14_days": 2,
+  "pageviews_last_14_days": 20,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Norfolk Island\"]}",
@@ -49,7 +49,7 @@
   "title": "HOTOSM Norfolk Island Railways (OpenStreetMap Export)",
   "total_res_downloads": 0,
   "type": "dataset",
-  "updated_by_script": "HDXPythonLibrary/6.6.7-osm-country-exports/0.1 (2026-09-10T00:37:46.089840)",
+  "updated_by_script": "HDXPythonLibrary/6.7.0-osm-country-exports/0.1 (2026-10-07T13:59:07.947568)",
   "url": null,
   "version": null,
   "groups": [
@@ -64,7 +64,6 @@
   ],
   "resources": [
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-14T15:27:06.087529",
@@ -76,7 +75,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/477fce2b-cc27-417f-bc7c-38a0134d77b8/hotosm_nfk_railways_lines_shp.zip",
       "id": "a64f6649-ab0c-4198-a21b-7cf48586d12b",
       "last_modified": "2020-07-03T09:05:22",
-      "metadata_modified": "2026-09-10T11:04:36.867520",
+      "metadata_modified": "2026-10-07T13:59:08.385362",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -91,7 +90,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-14T15:27:06.087536",
@@ -103,7 +101,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/477fce2b-cc27-417f-bc7c-38a0134d77b8/hotosm_nfk_railways_polygons_shp.zip",
       "id": "aa3483fc-1f0c-4fd0-9003-13582bff68a8",
       "last_modified": "2020-07-03T09:05:22",
-      "metadata_modified": "2026-09-10T11:04:36.867695",
+      "metadata_modified": "2026-10-07T13:59:08.385492",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -118,7 +116,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-14T15:27:06.087538",
@@ -130,7 +127,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/477fce2b-cc27-417f-bc7c-38a0134d77b8/hotosm_nfk_railways_gpkg.zip",
       "id": "22625da7-3fb9-4cc6-a00c-ee924417dc8d",
       "last_modified": "2020-07-03T09:05:22",
-      "metadata_modified": "2026-09-10T11:04:36.867823",
+      "metadata_modified": "2026-10-07T13:59:08.385612",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -144,7 +141,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-14T15:27:06.087540",
@@ -156,7 +152,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/477fce2b-cc27-417f-bc7c-38a0134d77b8/hotosm_nfk_railways_lines_kml.zip",
       "id": "54a3b163-0a0f-437f-a4bf-13fcb2f05431",
       "last_modified": "2020-07-03T09:05:22",
-      "metadata_modified": "2026-09-10T11:04:36.867946",
+      "metadata_modified": "2026-10-07T13:59:08.385691",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -171,7 +167,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-14T15:27:06.087542",
@@ -183,7 +178,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/477fce2b-cc27-417f-bc7c-38a0134d77b8/hotosm_nfk_railways_polygons_kml.zip",
       "id": "19a5de9c-02a4-4110-8eb9-bee631e3b91b",
       "last_modified": "2020-07-03T09:05:22",
-      "metadata_modified": "2026-09-10T11:04:36.868066",
+      "metadata_modified": "2026-10-07T13:59:08.385766",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,7 +193,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-14T15:27:06.087544",
@@ -210,7 +204,7 @@
       "hdx_rel_url": "http://export.hotosm.org/downloads/b4d5ecb3-2fae-4e20-8990-c8a72b0cffcd/hotosm_nfk_gmapsupp_img.zip",
       "id": "5d398ba3-ee81-4c5a-a8d2-25d7bb3b428a",
       "last_modified": "2020-07-03T09:05:27",
-      "metadata_modified": "2026-09-10T11:04:36.868189",
+      "metadata_modified": "2026-10-07T13:59:08.385839",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

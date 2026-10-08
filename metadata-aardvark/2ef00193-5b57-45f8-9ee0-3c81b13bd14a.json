@@ -1,14 +1,14 @@
 {
   "id": "hdx-2ef00193-5b57-45f8-9ee0-3c81b13bd14a",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-09-10T09:07:41Z",
-  "dct_title_s": "Buildings of Virgin Islands, U.S.",
+  "gbl_mdModified_dt": "2026-10-08T05:53:47Z",
+  "dct_title_s": "Buildings of United States Virgin Islands",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "Building footprints across the region: every feature tagged `building=*`, from residential homes to hospitals, schools, and places of worship. Useful for population estimation, damage assessment, and urban planning. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [building](https://wiki.openstreetmap.org/wiki/Key:building) - Part of the [exports grid on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
+    "Building footprints across the area: every feature tagged `building=*`, from residential homes to hospitals, schools, and places of worship. Useful for population estimation, damage assessment, and urban planning. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [building](https://wiki.openstreetmap.org/wiki/Key:building) - Part of the [country exports on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
   ],
   "dct_language_sm": [
     "eng"
@@ -35,5 +35,5 @@
     2026
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_vir_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VIR/buildings/hotosm_vir_buildings_osm_gpkg.zip\",\"label\":\"Buildings (OSM), GeoPackage (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VIR/buildings/hotosm_vir_buildings_osm_shp.zip\",\"label\":\"Buildings (OSM), Shapefile (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VIR/buildings/hotosm_vir_buildings_osm_gpkg.zip\",\"label\":\"hotosm_vir_buildings_osm_gpkg.zip (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VIR/buildings/hotosm_vir_buildings_osm_metadata.json\",\"label\":\"hotosm_vir_buildings_osm_metadata.json (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VIR/buildings/hotosm_vir_buildings_osm_shp.zip\",\"label\":\"hotosm_vir_buildings_osm_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VIR/buildings/hotosm_vir_buildings_report.html\",\"label\":\"hotosm_vir_buildings_report.html (HTML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VIR/buildings/hotosm_vir_buildings_report.html\",\"label\":\"Buildings, Data Quality Report (HTML)\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_vir_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VIR/buildings/hotosm_vir_buildings_osm_gpkg.zip\",\"label\":\"Buildings (OSM), GeoPackage (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VIR/_layers/osm/buildings.parquet\",\"label\":\"Buildings (OSM), GeoParquet (GeoParquet)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VIR/buildings/hotosm_vir_buildings_osm_shp.zip\",\"label\":\"Buildings (OSM), Shapefile (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VIR/buildings/hotosm_vir_buildings_osm_metadata.json\",\"label\":\"Buildings (OSM), STAC Collection (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VIR/buildings/hotosm_vir_buildings_osm.pmtiles\",\"label\":\"Buildings (OSM), Vector Tiles (PMTiles) (PMTiles)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/VIR/buildings/hotosm_vir_buildings_report.html\",\"label\":\"Buildings, Data Quality Report (HTML)\"}]}"
 }

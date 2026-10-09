@@ -1,7 +1,7 @@
 {
   "id": "hdx-a0601877-8b91-4779-b29f-ed5f4b05315d",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-10-07T09:06:07Z",
+  "gbl_mdModified_dt": "2026-10-08T11:53:50Z",
   "dct_title_s": "Roads of Jamaica",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -39,5 +39,5 @@
     2026
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_jam_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/JAM/roads/hotosm_jam_roads_osm_gpkg.zip\",\"label\":\"Roads (OSM), GeoPackage (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/JAM/_layers/osm/roads.parquet\",\"label\":\"Roads (OSM), GeoParquet (GeoParquet)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/JAM/roads/hotosm_jam_roads_osm_shp.zip\",\"label\":\"Roads (OSM), Shapefile (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/JAM/roads/hotosm_jam_roads_osm_metadata.json\",\"label\":\"Roads (OSM), STAC Collection (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/JAM/roads/hotosm_jam_roads_osm.pmtiles\",\"label\":\"Roads (OSM), Vector Tiles (PMTiles) (PMTiles)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/JAM/roads/hotosm_jam_roads_report.html\",\"label\":\"Roads, Data Quality Report (HTML)\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_jam_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/JAM/roads/hotosm_jam_roads_osm_gpkg.zip\",\"label\":\"Roads (OSM), GeoPackage (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/JAM/_layers/osm/roads.parquet\",\"label\":\"Roads (OSM), GeoParquet (GeoParquet)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/JAM/roads/hotosm_jam_roads_osm_shp.zip\",\"label\":\"Roads (OSM), Shapefile (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/JAM/roads/hotosm_jam_roads_osm_metadata.json\",\"label\":\"Roads (OSM), STAC Collection (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/JAM/roads/hotosm_jam_roads_osm.pmtiles\",\"label\":\"Roads (OSM), Vector Tiles (PMTiles) (PMTiles)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/JAM/roads/hotosm_jam_roads_report.html\",\"label\":\"Roads, Data Quality Report (HTML)\"}],\"https://github.com/protomaps/PMTiles\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/JAM/roads/hotosm_jam_roads_osm.pmtiles\"}"
 }

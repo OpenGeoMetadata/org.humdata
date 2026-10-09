@@ -36,6 +36,8 @@ class TrueClass
 end
 
 class Mapper
+  ID_PREFIX = 'hdx-'
+
   # Map a single HDX dataset hash to OGM Aardvark schema
   # @param dataset [Hash] raw dataset JSON from HDX API
   # @return [Hash] mapped OGM Aardvark JSON
@@ -54,7 +56,7 @@ class Mapper
   def map
     # Required properties
     mapped = {
-      'id' => "hdx-#{dataset_id}",
+      'id' => "#{ID_PREFIX}#{dataset_id}",
       'gbl_mdVersion_s' => 'Aardvark',
       'gbl_mdModified_dt' => format_modified_date(dataset['metadata_modified']),
       'dct_title_s' => dataset['title'] || 'Untitled HDX Dataset',

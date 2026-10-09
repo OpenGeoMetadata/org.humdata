@@ -7,8 +7,12 @@ on:
   workflow_dispatch: # Allows manual triggering
 
 jobs:
-  run-rake-task:
+  harvest:
     runs-on: ubuntu-latest
+    # A run takes about a minute, most of it fetching the datasets modified since the last
+    timeout-minutes: 30
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -21,13 +25,21 @@ jobs:
         with:
           ruby-version: "4.0"
 
+      - name: Install Nokogiri
+        run: gem install nokogiri
+
+      - name: Run tests
+        run: for test in test/*_test.rb; do ruby "$test" || exit 1; done
+
       - name: Run harvester
-        run: gem install nokogiri && ruby harvester.rb
+        run: ruby harvester.rb
 
       - name: Commit and push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add metadata-hdx/ metadata-aardvark/ state.json
+          git add -A metadata-hdx/ metadata-aardvark/ state.json
+          # The withdrawal log only exists once a dataset has left HDX
+          if [ -f withdrawn.json ]; then git add withdrawn.json; fi
           git diff --staged --quiet || git commit -m "Auto-update from daily harvest"
           git push

@@ -1,7 +1,7 @@
 {
   "id": "hdx-f25b8ced-73b3-4625-82a3-1a0d8ce3bcd2",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-10-07T01:20:07Z",
+  "gbl_mdModified_dt": "2026-10-09T09:29:30Z",
   "dct_title_s": "Buildings of Denmark",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_dnk_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DNK/buildings/hotosm_dnk_buildings_osm_gpkg.zip\",\"label\":\"Buildings (OSM), GeoPackage (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DNK/_layers/osm/buildings.parquet\",\"label\":\"Buildings (OSM), GeoParquet (GeoParquet)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DNK/buildings/hotosm_dnk_buildings_osm_shp.zip\",\"label\":\"Buildings (OSM), Shapefile (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DNK/buildings/hotosm_dnk_buildings_osm_metadata.json\",\"label\":\"Buildings (OSM), STAC Collection (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DNK/buildings/hotosm_dnk_buildings_osm.pmtiles\",\"label\":\"Buildings (OSM), Vector Tiles (PMTiles) (PMTiles)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DNK/buildings/hotosm_dnk_buildings_report.html\",\"label\":\"Buildings, Data Quality Report (HTML)\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_dnk_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DNK/buildings/hotosm_dnk_buildings_osm_gpkg.zip\",\"label\":\"Buildings (OSM), GeoPackage (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DNK/_layers/osm/buildings.parquet\",\"label\":\"Buildings (OSM), GeoParquet (GeoParquet)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DNK/buildings/hotosm_dnk_buildings_osm_shp.zip\",\"label\":\"Buildings (OSM), Shapefile (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DNK/buildings/hotosm_dnk_buildings_osm_metadata.json\",\"label\":\"Buildings (OSM), STAC Collection (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DNK/buildings/hotosm_dnk_buildings_osm.pmtiles\",\"label\":\"Buildings (OSM), Vector Tiles (PMTiles) (PMTiles)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DNK/buildings/hotosm_dnk_buildings_report.html\",\"label\":\"Buildings, Data Quality Report (HTML)\"}],\"https://github.com/protomaps/PMTiles\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DNK/buildings/hotosm_dnk_buildings_osm.pmtiles\"}"
 }

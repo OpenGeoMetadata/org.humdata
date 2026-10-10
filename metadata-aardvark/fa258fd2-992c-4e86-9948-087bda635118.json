@@ -1,7 +1,7 @@
 {
   "id": "hdx-fa258fd2-992c-4e86-9948-087bda635118",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-10-08T03:57:25Z",
+  "gbl_mdModified_dt": "2026-10-09T09:30:45Z",
   "dct_title_s": "Buildings of Taiwan",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -35,5 +35,5 @@
     2026
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_twn_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TWN/buildings/hotosm_twn_buildings_osm_gpkg.zip\",\"label\":\"Buildings (OSM), GeoPackage (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TWN/_layers/osm/buildings.parquet\",\"label\":\"Buildings (OSM), GeoParquet (GeoParquet)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TWN/buildings/hotosm_twn_buildings_osm_shp.zip\",\"label\":\"Buildings (OSM), Shapefile (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TWN/buildings/hotosm_twn_buildings_osm_metadata.json\",\"label\":\"Buildings (OSM), STAC Collection (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TWN/buildings/hotosm_twn_buildings_osm.pmtiles\",\"label\":\"Buildings (OSM), Vector Tiles (PMTiles) (PMTiles)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TWN/buildings/hotosm_twn_buildings_report.html\",\"label\":\"Buildings, Data Quality Report (HTML)\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_twn_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TWN/buildings/hotosm_twn_buildings_osm_gpkg.zip\",\"label\":\"Buildings (OSM), GeoPackage (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TWN/_layers/osm/buildings.parquet\",\"label\":\"Buildings (OSM), GeoParquet (GeoParquet)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TWN/buildings/hotosm_twn_buildings_osm_shp.zip\",\"label\":\"Buildings (OSM), Shapefile (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TWN/buildings/hotosm_twn_buildings_osm_metadata.json\",\"label\":\"Buildings (OSM), STAC Collection (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TWN/buildings/hotosm_twn_buildings_osm.pmtiles\",\"label\":\"Buildings (OSM), Vector Tiles (PMTiles) (PMTiles)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TWN/buildings/hotosm_twn_buildings_report.html\",\"label\":\"Buildings, Data Quality Report (HTML)\"}],\"https://github.com/protomaps/PMTiles\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/TWN/buildings/hotosm_twn_buildings_osm.pmtiles\"}"
 }

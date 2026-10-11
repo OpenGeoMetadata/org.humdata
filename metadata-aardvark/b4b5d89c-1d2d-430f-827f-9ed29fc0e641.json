@@ -1,7 +1,7 @@
 {
   "id": "hdx-b4b5d89c-1d2d-430f-827f-9ed29fc0e641",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-10-08T01:01:42Z",
+  "gbl_mdModified_dt": "2026-10-10T09:33:32Z",
   "dct_title_s": "Roads of Saint Pierre and Miquelon",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_spm_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/SPM/roads/hotosm_spm_roads_osm_gpkg.zip\",\"label\":\"Roads (OSM), GeoPackage (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/SPM/_layers/osm/roads.parquet\",\"label\":\"Roads (OSM), GeoParquet (GeoParquet)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/SPM/roads/hotosm_spm_roads_osm_shp.zip\",\"label\":\"Roads (OSM), Shapefile (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/SPM/roads/hotosm_spm_roads_osm_metadata.json\",\"label\":\"Roads (OSM), STAC Collection (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/SPM/roads/hotosm_spm_roads_osm.pmtiles\",\"label\":\"Roads (OSM), Vector Tiles (PMTiles) (PMTiles)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/SPM/roads/hotosm_spm_roads_report.html\",\"label\":\"Roads, Data Quality Report (HTML)\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_spm_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/SPM/roads/hotosm_spm_roads_osm_gpkg.zip\",\"label\":\"Roads (OSM), GeoPackage (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/SPM/_layers/osm/roads.parquet\",\"label\":\"Roads (OSM), GeoParquet (GeoParquet)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/SPM/roads/hotosm_spm_roads_osm_shp.zip\",\"label\":\"Roads (OSM), Shapefile (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/SPM/roads/hotosm_spm_roads_osm_metadata.json\",\"label\":\"Roads (OSM), STAC Collection (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/SPM/roads/hotosm_spm_roads_osm.pmtiles\",\"label\":\"Roads (OSM), Vector Tiles (PMTiles) (PMTiles)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/SPM/roads/hotosm_spm_roads_report.html\",\"label\":\"Roads, Data Quality Report (HTML)\"}],\"https://github.com/protomaps/PMTiles\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/SPM/roads/hotosm_spm_roads_osm.pmtiles\"}"
 }

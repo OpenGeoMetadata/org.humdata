@@ -1,0 +1,41 @@
+{
+  "id": "hdx-3a143b35-b29d-4686-a6a8-8449e2e54c31",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-10T10:16:30Z",
+  "dct_title_s": "Buildings of Germany",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Building footprints across the area: every feature tagged `building=*`, from residential homes to hospitals, schools, and places of worship. Useful for population estimation, damage assessment, and urban planning. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [building](https://wiki.openstreetmap.org/wiki/Key:building) - Part of the [country exports on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "facilities-infrastructure",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "facilities-infrastructure",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "locn_geometry": "ENVELOPE(5.99, 15.02, 54.98, 47.3)",
+  "dcat_bbox": "ENVELOPE(5.99, 15.02, 54.98, 47.3)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_deu_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DEU/buildings/hotosm_deu_buildings_osm_gpkg.zip\",\"label\":\"Buildings (OSM), GeoPackage (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DEU/_layers/osm/buildings.parquet\",\"label\":\"Buildings (OSM), GeoParquet (GeoParquet)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DEU/buildings/hotosm_deu_buildings_osm_metadata.json\",\"label\":\"Buildings (OSM), STAC Collection (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DEU/buildings/hotosm_deu_buildings_osm.pmtiles\",\"label\":\"Buildings (OSM), Vector Tiles (PMTiles) (PMTiles)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DEU/buildings/hotosm_deu_buildings_report.html\",\"label\":\"Buildings, Data Quality Report (HTML)\"}],\"https://github.com/protomaps/PMTiles\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DEU/buildings/hotosm_deu_buildings_osm.pmtiles\"}"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hdx-e471d1f5-045d-4a3c-a313-d5ef599ce5a9",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-10T14:06:10Z",
+  "dct_title_s": "Education Facilities of Germany",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Education facilities: schools, kindergartens, colleges, and universities tagged via `amenity` or `building`. Useful for school-access mapping, education planning, and resource allocation. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [amenity](https://wiki.openstreetmap.org/wiki/Key:amenity), [building](https://wiki.openstreetmap.org/wiki/Key:building) - Part of the [country exports on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "education facilities-schools",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "education facilities-schools",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "locn_geometry": "ENVELOPE(5.99, 15.02, 54.98, 47.3)",
+  "dcat_bbox": "ENVELOPE(5.99, 15.02, 54.98, 47.3)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_deu_education_facilities\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DEU/education_facilities/hotosm_deu_education_facilities_osm_geojson.zip\",\"label\":\"Education Facilities (OSM), GeoJSON (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DEU/education_facilities/hotosm_deu_education_facilities_osm_gpkg.zip\",\"label\":\"Education Facilities (OSM), GeoPackage (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DEU/_layers/osm/education_facilities.parquet\",\"label\":\"Education Facilities (OSM), GeoParquet (GeoParquet)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DEU/education_facilities/hotosm_deu_education_facilities_osm_kml.zip\",\"label\":\"Education Facilities (OSM), KML (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DEU/education_facilities/hotosm_deu_education_facilities_osm_shp.zip\",\"label\":\"Education Facilities (OSM), Shapefile (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DEU/education_facilities/hotosm_deu_education_facilities_osm_metadata.json\",\"label\":\"Education Facilities (OSM), STAC Collection (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DEU/education_facilities/hotosm_deu_education_facilities_osm.pmtiles\",\"label\":\"Education Facilities (OSM), Vector Tiles (PMTiles) (PMTiles)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DEU/education_facilities/hotosm_deu_education_facilities_report.html\",\"label\":\"Education Facilities, Data Quality Report (HTML)\"}],\"https://github.com/protomaps/PMTiles\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/DEU/education_facilities/hotosm_deu_education_facilities_osm.pmtiles\"}"
+}

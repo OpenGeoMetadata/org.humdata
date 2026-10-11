@@ -1,7 +1,7 @@
 {
   "id": "hdx-24fe132d-6f5c-4755-a1d0-9daddfdba18f",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-10-09T14:46:49Z",
+  "gbl_mdModified_dt": "2026-10-10T14:46:57Z",
   "dct_title_s": "Panama - GLIDE Disaster Events",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -51,7 +51,7 @@
   "locn_geometry": "ENVELOPE(-82.97, -77.24, 9.61, 7.22)",
   "dcat_bbox": "ENVELOPE(-82.97, -77.24, 9.61, 7.22)",
   "dct_temporal_sm": [
-    "2000-2025"
+    "2000-2026"
   ],
   "gbl_indexYear_im": [
     2000,
@@ -79,7 +79,8 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/pan-glide-events\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/24fe132d-6f5c-4755-a1d0-9daddfdba18f/resource/240b3716-9333-4c4a-96c2-3684518746af/download/pan_glide_events.csv\",\"label\":\"pan_glide_events.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/24fe132d-6f5c-4755-a1d0-9daddfdba18f/resource/3b2ddd23-cd19-497f-b99b-654b22cdf31d/download/pan_glide_events.geojson\",\"label\":\"pan_glide_events.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/24fe132d-6f5c-4755-a1d0-9daddfdba18f/resource/3b2ddd23-cd19-497f-b99b-654b22cdf31d/download/pan_glide_events.geojson\"}"

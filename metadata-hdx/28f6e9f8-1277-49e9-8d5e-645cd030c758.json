@@ -1,0 +1,129 @@
+{
+  "archived": false,
+  "batch": "7cdd4eaa-9b13-467f-a37e-c67edadcd36d",
+  "caveats": "This product contains modified Copernicus Sentinel data (2026), processed by ESA and analyzed by the Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS).\n\nThese are preliminary maps derived from satellite radar and should be used as guidance only. Coloured pixels may include false positives, and their absence does not mean an absence of damage or flooding.",
+  "creator_user_id": "610cc9ec-1862-432e-abee-5af9ccac397b",
+  "data_update_frequency": "-2",
+  "dataset_date": "[2026-10-12T00:00:00 TO 2026-10-12T23:59:59]",
+  "dataset_preview": "first_resource",
+  "dataset_source": "Earth Observatory of Singapore",
+  "has_geodata": true,
+  "has_showcases": false,
+  "id": "28f6e9f8-1277-49e9-8d5e-645cd030c758",
+  "is_requestdata_type": false,
+  "isopen": true,
+  "last_modified": "2026-10-12T08:20:55.628808",
+  "license_id": "cc-by",
+  "license_title": "Creative Commons Attribution International (CC BY)",
+  "license_url": "http://www.opendefinition.org/licenses/cc-by",
+  "maintainer": "610cc9ec-1862-432e-abee-5af9ccac397b",
+  "metadata_created": "2026-10-12T08:20:52.167573",
+  "metadata_modified": "2026-10-12T08:20:58.693763",
+  "methodology": "Other",
+  "methodology_other": "Change detection on synthetic aperture radar (SAR) satellite images acquired before and after the event. Damage Proxy Maps show significant changes in radar coherence and amplitude; Flood Proxy Maps show areas that changed to standing water. Maps are preliminary and checked against news reports and ground-level imagery where available.",
+  "name": "eos-rs-philippines-volcano-taal-oct-2026",
+  "notes": "# EOS-RS Damage Proxy Map: Philippines, Taal Volcanic Eruption, 12 October 2026, v1.1\r\n\nThe Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) created this preliminary Damage Proxy Map (DPM) depicting areas that are likely damaged in Batangas, Philippines, due to a volcanic eruption from the Taal volcano on 08 October 2026. This map was derived from synthetic aperture radar (SAR) images acquired by the Copernicus Sentinel-1 satellite operated by the European Space Agency (ESA) before (01 June 2026 to 17 September 2026) and after (11 October 2026) the event.\n\nThe map covers an area indicated by the white polygon. Damage is shown by colored pixels of 30m in size, where yellow to red indicates increasingly significant ground surface change before and after the event. Preliminary validation was conducted using news reports in selected areas. This map should be used as a guidance to identify damaged areas, and may be less reliable over vegetated or mountainous areas. Scattered pixels over vegetated or mountainous areas may be false positives, and a lack of colored pixels over such areas may not mean no damage.\n\nThis product contains modified Copernicus Sentinel data (2026), processed by ESA and analyzed by the Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS).\n\n**More map details and files:** <https://sf.earthobservatory.sg/event/EOSRS_2026_018_PHL_VO_202610_Taal>\n\n**Legal Disclaimer:** <https://sf.earthobservatory.sg/faq/>\n\n**Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2026)",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "id": "58064b08-71c1-4a9b-8ef3-be8300b94af7",
+    "name": "earth-observatory-of-singapore-remote-sensing-lab",
+    "title": "Earth Observatory of Singapore",
+    "type": "organization",
+    "description": "The Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) is a research lab at Nanyang Technological University (NTU), Singapore. It uses satellite remote sensing, mainly synthetic aperture radar (SAR), to map natural hazards and disasters. The lab produces Damage Proxy Maps (DPMs) and Flood Proxy Maps (FPMs) showing where damage or flooding has likely occurred. Its work focuses on Southeast Asia and the wider Asia-Pacific, and it also responds to major disasters worldwide.",
+    "image_url": "",
+    "created": "2026-10-01T16:40:31.070243",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "58064b08-71c1-4a9b-8ef3-be8300b94af7",
+  "package_creator": "rickyw",
+  "pageviews_last_14_days": 5,
+  "private": false,
+  "qa_completed": false,
+  "solr_additions": "{\"countries\": [\"Philippines\"]}",
+  "state": "active",
+  "subnational": "1",
+  "title": "Philippines Volcano Taal: Damage Proxy Map, Oct 2026",
+  "total_res_downloads": 0,
+  "type": "dataset",
+  "updated_by_script": "EOS_SARFinder (2026-10-12T08:20:58.378127)",
+  "url": null,
+  "version": null,
+  "customviz": [
+    {
+      "url": "https://sf.earthobservatory.sg/event/EOSRS_2026_018_PHL_VO_202610_Taal"
+    }
+  ],
+  "groups": [
+    {
+      "description": "",
+      "display_name": "Philippines",
+      "id": "phl",
+      "image_display_url": "",
+      "name": "phl",
+      "title": "Philippines"
+    }
+  ],
+  "resources": [
+    {
+      "alt_url": "https://data.humdata.org/dataset/28f6e9f8-1277-49e9-8d5e-645cd030c758/resource/8567dabb-cce1-4023-bd19-cede14592411/download/",
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2026-10-12T08:20:52.179544",
+      "datastore_active": false,
+      "description": "EOS-RS Damage Proxy Map: Philippines, Taal Volcanic Eruption, 12 October 2026, v1.1\n\nZIP containing: GeoTIFF, KMZ, PNG, TXT.\n\nThe Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) created this preliminary Damage Proxy Map (DPM) depicting areas that are likely damaged in Batangas, Philippines, due to a volcanic eruption from the Taal volcano on 08 October 2026. This map was derived from synthetic aperture radar (SAR) images acquired by the Copernicus Sentinel-1 satellite operated by the European Space Agency (ESA) before (01 June 2026 to 17 September 2026) and after (11 October 2026) the event.",
+      "download_url": "https://data.humdata.org/dataset/28f6e9f8-1277-49e9-8d5e-645cd030c758/resource/8567dabb-cce1-4023-bd19-cede14592411/download/eosrs_2026_018_phl_vo_20261012_dpm_s1_taal_v1.1.zip",
+      "format": "GeoTIFF",
+      "hash": "07bd3992",
+      "hdx_rel_url": "/dataset/28f6e9f8-1277-49e9-8d5e-645cd030c758/resource/8567dabb-cce1-4023-bd19-cede14592411/download/eosrs_2026_018_phl_vo_20261012_dpm_s1_taal_v1.1.zip",
+      "id": "8567dabb-cce1-4023-bd19-cede14592411",
+      "last_modified": "2026-10-12T08:20:55.628808",
+      "metadata_modified": "2026-10-12T08:20:58.721658",
+      "microdata": false,
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "EOSRS_2026_018_PHL_VO_20261012_DPM_S1_Taal_v1.1.zip",
+      "package_id": "28f6e9f8-1277-49e9-8d5e-645cd030c758",
+      "position": 0,
+      "resource_type": "file.upload",
+      "size": 16145231,
+      "state": "active",
+      "url": "https://data.humdata.org/dataset/28f6e9f8-1277-49e9-8d5e-645cd030c758/resource/8567dabb-cce1-4023-bd19-cede14592411/download/eosrs_2026_018_phl_vo_20261012_dpm_s1_taal_v1.1.zip",
+      "url_type": "upload"
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "damage assessment",
+      "id": "3c5bab40-4c0f-40bc-a2dd-12cd7f945037",
+      "name": "damage assessment",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "geodata",
+      "id": "2d27d72f-af37-4b38-b05e-dddc6929bd13",
+      "name": "geodata",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "hazards and risk",
+      "id": "7173a61f-84fd-45ca-856a-3aa2b0372869",
+      "name": "hazards and risk",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    },
+    {
+      "display_name": "natural disasters",
+      "id": "48520851-7df8-418b-aa00-7fa276d7fd88",
+      "name": "natural disasters",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
+}

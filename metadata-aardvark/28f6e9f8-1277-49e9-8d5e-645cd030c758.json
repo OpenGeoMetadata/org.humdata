@@ -1,0 +1,45 @@
+{
+  "id": "hdx-28f6e9f8-1277-49e9-8d5e-645cd030c758",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-12T08:20:58Z",
+  "dct_title_s": "Philippines Volcano Taal: Damage Proxy Map, Oct 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "# EOS-RS Damage Proxy Map: Philippines, Taal Volcanic Eruption, 12 October 2026, v1.1 The Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS) created this preliminary Damage Proxy Map (DPM) depicting areas that are likely damaged in Batangas, Philippines, due to a volcanic eruption from the Taal volcano on 08 October 2026. This map was derived from synthetic aperture radar (SAR) images acquired by the Copernicus Sentinel-1 satellite operated by the European Space Agency (ESA) before (01 June 2026 to 17 September 2026) and after (11 October 2026) the event. The map covers an area indicated by the white polygon. Damage is shown by colored pixels of 30m in size, where yellow to red indicates increasingly significant ground surface change before and after the event. Preliminary validation was conducted using news reports in selected areas. This map should be used as a guidance to identify damaged areas, and may be less reliable over vegetated or mountainous areas. Scattered pixels over vegetated or mountainous areas may be false positives, and a lack of colored pixels over such areas may not mean no damage. This product contains modified Copernicus Sentinel data (2026), processed by ESA and analyzed by the Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS). **More map details and files:** **Legal Disclaimer:** **Credits:** Earth Observatory of Singapore - Remote Sensing Lab (EOS-RS), Contains modified Copernicus Sentinel data (2026)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Earth Observatory of Singapore"
+  ],
+  "dcat_keyword_sm": [
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "damage assessment",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "locn_geometry": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dcat_bbox": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eos-rs-philippines-volcano-taal-oct-2026\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/28f6e9f8-1277-49e9-8d5e-645cd030c758/resource/8567dabb-cce1-4023-bd19-cede14592411/download/eosrs_2026_018_phl_vo_20261012_dpm_s1_taal_v1.1.zip\",\"label\":\"EOSRS_2026_018_PHL_VO_20261012_DPM_S1_Taal_v1.1.zip (GeoTIFF)\"}]}"
+}

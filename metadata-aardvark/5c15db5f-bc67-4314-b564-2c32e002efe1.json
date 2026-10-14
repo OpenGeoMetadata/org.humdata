@@ -1,7 +1,7 @@
 {
   "id": "hdx-5c15db5f-bc67-4314-b564-2c32e002efe1",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-02-24T17:36:30Z",
+  "gbl_mdModified_dt": "2026-10-13T11:42:27Z",
   "dct_title_s": "Lesotho: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,12 +18,10 @@
     "National Oceanic and Atmospheric Administration (NOAA) / National Centers for Environmental Information (NCEI)"
   ],
   "dcat_keyword_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_subject_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_spatial_sm": [
     "Lesotho"
@@ -215,5 +213,5 @@
     2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/lso-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/5c15db5f-bc67-4314-b564-2c32e002efe1/resource/5f9e8080-9378-43be-a1ac-3d2f85678cdb/download/ibtracs_all_list_v04r01_lines_lso.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/5c15db5f-bc67-4314-b564-2c32e002efe1/resource/5f9e8080-9378-43be-a1ac-3d2f85678cdb/download/ibtracs_all_list_v04r01_lines_lso.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/lso-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/5c15db5f-bc67-4314-b564-2c32e002efe1/resource/ea52df37-78fe-4d9d-b606-4f0b04af9119/download/ibtracs_all_list_v04r01_lso.csv\",\"label\":\"ibtracs_ALL_list_v04r01_LSO.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/5c15db5f-bc67-4314-b564-2c32e002efe1/resource/5f9e8080-9378-43be-a1ac-3d2f85678cdb/download/ibtracs_all_list_v04r01_lines_lso.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_LSO.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/5c15db5f-bc67-4314-b564-2c32e002efe1/resource/5f9e8080-9378-43be-a1ac-3d2f85678cdb/download/ibtracs_all_list_v04r01_lines_lso.geojson\"}"
 }

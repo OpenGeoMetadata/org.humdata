@@ -1,7 +1,7 @@
 {
   "id": "hdx-c7a4109b-34d6-41ca-bc38-58875a8c8fc0",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-02-24T17:46:00Z",
+  "gbl_mdModified_dt": "2026-10-13T12:00:14Z",
   "dct_title_s": "Zambia: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,12 +18,10 @@
     "National Oceanic and Atmospheric Administration (NOAA) / National Centers for Environmental Information (NCEI)"
   ],
   "dcat_keyword_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_subject_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_spatial_sm": [
     "Zambia"
@@ -215,5 +213,5 @@
     2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/zmb-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/c7a4109b-34d6-41ca-bc38-58875a8c8fc0/resource/b24b63a6-856a-47ea-a244-408b61733a60/download/ibtracs_all_list_v04r01_lines_zmb.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/c7a4109b-34d6-41ca-bc38-58875a8c8fc0/resource/b24b63a6-856a-47ea-a244-408b61733a60/download/ibtracs_all_list_v04r01_lines_zmb.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/zmb-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/c7a4109b-34d6-41ca-bc38-58875a8c8fc0/resource/b483b7d0-a15e-4baf-a923-9475d8130ed9/download/ibtracs_all_list_v04r01_zmb.csv\",\"label\":\"ibtracs_ALL_list_v04r01_ZMB.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/c7a4109b-34d6-41ca-bc38-58875a8c8fc0/resource/b24b63a6-856a-47ea-a244-408b61733a60/download/ibtracs_all_list_v04r01_lines_zmb.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_ZMB.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/c7a4109b-34d6-41ca-bc38-58875a8c8fc0/resource/b24b63a6-856a-47ea-a244-408b61733a60/download/ibtracs_all_list_v04r01_lines_zmb.geojson\"}"
 }

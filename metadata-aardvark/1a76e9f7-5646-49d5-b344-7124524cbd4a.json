@@ -1,7 +1,7 @@
 {
   "id": "hdx-1a76e9f7-5646-49d5-b344-7124524cbd4a",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-02-24T17:46:11Z",
+  "gbl_mdModified_dt": "2026-10-13T12:00:31Z",
   "dct_title_s": "Zimbabwe: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,12 +18,10 @@
     "National Oceanic and Atmospheric Administration (NOAA) / National Centers for Environmental Information (NCEI)"
   ],
   "dcat_keyword_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_subject_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_spatial_sm": [
     "Zimbabwe"
@@ -215,5 +213,5 @@
     2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/zwe-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/1a76e9f7-5646-49d5-b344-7124524cbd4a/resource/3b6261af-a5ed-4e23-ae4c-9aac9b250905/download/ibtracs_all_list_v04r01_lines_zwe.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/1a76e9f7-5646-49d5-b344-7124524cbd4a/resource/3b6261af-a5ed-4e23-ae4c-9aac9b250905/download/ibtracs_all_list_v04r01_lines_zwe.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/zwe-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/1a76e9f7-5646-49d5-b344-7124524cbd4a/resource/af0c158f-928a-4428-9ec0-b81f0c818a8b/download/ibtracs_all_list_v04r01_zwe.csv\",\"label\":\"ibtracs_ALL_list_v04r01_ZWE.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/1a76e9f7-5646-49d5-b344-7124524cbd4a/resource/3b6261af-a5ed-4e23-ae4c-9aac9b250905/download/ibtracs_all_list_v04r01_lines_zwe.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_ZWE.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/1a76e9f7-5646-49d5-b344-7124524cbd4a/resource/3b6261af-a5ed-4e23-ae4c-9aac9b250905/download/ibtracs_all_list_v04r01_lines_zwe.geojson\"}"
 }

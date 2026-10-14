@@ -1,7 +1,7 @@
 {
   "id": "hdx-74ad7b3e-a28d-41cf-8aac-4b759c5cb0d6",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-02-24T17:39:51Z",
+  "gbl_mdModified_dt": "2026-10-13T11:47:27Z",
   "dct_title_s": "Namibia: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,12 +18,10 @@
     "National Oceanic and Atmospheric Administration (NOAA) / National Centers for Environmental Information (NCEI)"
   ],
   "dcat_keyword_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_subject_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_spatial_sm": [
     "Namibia"
@@ -205,5 +203,5 @@
     2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/nam-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/74ad7b3e-a28d-41cf-8aac-4b759c5cb0d6/resource/3111efba-a310-43c7-83ab-a9a2d56f0b96/download/ibtracs_all_list_v04r01_lines_nam.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/74ad7b3e-a28d-41cf-8aac-4b759c5cb0d6/resource/3111efba-a310-43c7-83ab-a9a2d56f0b96/download/ibtracs_all_list_v04r01_lines_nam.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/nam-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/74ad7b3e-a28d-41cf-8aac-4b759c5cb0d6/resource/cdd75ad7-e4ae-41fd-bc81-c5554a600e0e/download/ibtracs_all_list_v04r01_nam.csv\",\"label\":\"ibtracs_ALL_list_v04r01_NAM.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/74ad7b3e-a28d-41cf-8aac-4b759c5cb0d6/resource/3111efba-a310-43c7-83ab-a9a2d56f0b96/download/ibtracs_all_list_v04r01_lines_nam.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_NAM.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/74ad7b3e-a28d-41cf-8aac-4b759c5cb0d6/resource/3111efba-a310-43c7-83ab-a9a2d56f0b96/download/ibtracs_all_list_v04r01_lines_nam.geojson\"}"
 }

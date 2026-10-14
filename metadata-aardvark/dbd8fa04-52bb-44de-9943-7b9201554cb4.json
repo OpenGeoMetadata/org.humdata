@@ -1,0 +1,43 @@
+{
+  "id": "hdx-dbd8fa04-52bb-44de-9943-7b9201554cb4",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-13T21:22:41Z",
+  "dct_title_s": "Mexico - Category 4 on Oct 13 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[1001337\\_2](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_ts_events/items?event_id=1001337) Category 4 during the period Oct 13 2026-Oct 13 2026 in Mexico. The center of the storm was located near latitude 10.6 longitude -96.5. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "cyclones-hurricanes-typhoons",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Mexico"
+  ],
+  "locn_geometry": "ENVELOPE(-117.13, -86.81, 32.72, 14.54)",
+  "dcat_bbox": "ENVELOPE(-117.13, -86.81, 32.72, 14.54)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "CSV",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mex-storm-1001337\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/dbd8fa04-52bb-44de-9943-7b9201554cb4/resource/edc16325-135f-4643-862d-e67832430b5e/download/mex_wfpadam_storm_20261013.zip\",\"label\":\"mex_wfpadam_storm_20261013.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/dbd8fa04-52bb-44de-9943-7b9201554cb4/resource/81630fff-5b4e-4121-a214-3263451c34ec/download/mex_wfpadam_storm_20261013.csv\",\"label\":\"mex_wfpadam_storm_20261013.csv (CSV)\"}]}"
+}

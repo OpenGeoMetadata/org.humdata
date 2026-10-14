@@ -1,7 +1,7 @@
 {
   "id": "hdx-eb94be3d-3ef1-4c21-aed8-c9383d2cfdc5",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-05-23T18:08:53Z",
+  "gbl_mdModified_dt": "2026-10-13T12:00:01Z",
   "dct_title_s": "South Sudan: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,12 +18,10 @@
     "National Oceanic and Atmospheric Administration (NOAA) / National Centers for Environmental Information (NCEI)"
   ],
   "dcat_keyword_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_subject_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_spatial_sm": [
     "South Sudan"
@@ -31,7 +29,7 @@
   "locn_geometry": "ENVELOPE(23.89, 35.3, 12.25, 3.51)",
   "dcat_bbox": "ENVELOPE(23.89, 35.3, 12.25, 3.51)",
   "dct_temporal_sm": [
-    "1885-2024"
+    "1885-2025"
   ],
   "gbl_indexYear_im": [
     1885,
@@ -173,8 +171,9 @@
     2021,
     2022,
     2023,
-    2024
+    2024,
+    2025
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/ssd-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/eb94be3d-3ef1-4c21-aed8-c9383d2cfdc5/resource/0b735adb-7fa5-4dc4-93f8-94badeb05640/download/ibtracs_all_list_v04r01_lines_ssd.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/eb94be3d-3ef1-4c21-aed8-c9383d2cfdc5/resource/0b735adb-7fa5-4dc4-93f8-94badeb05640/download/ibtracs_all_list_v04r01_lines_ssd.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/ssd-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/eb94be3d-3ef1-4c21-aed8-c9383d2cfdc5/resource/813a7d2a-1f77-442e-b84d-8824daf65956/download/ibtracs_all_list_v04r01_ssd.csv\",\"label\":\"ibtracs_ALL_list_v04r01_SSD.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/eb94be3d-3ef1-4c21-aed8-c9383d2cfdc5/resource/0b735adb-7fa5-4dc4-93f8-94badeb05640/download/ibtracs_all_list_v04r01_lines_ssd.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_SSD.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/eb94be3d-3ef1-4c21-aed8-c9383d2cfdc5/resource/0b735adb-7fa5-4dc4-93f8-94badeb05640/download/ibtracs_all_list_v04r01_lines_ssd.geojson\"}"
 }

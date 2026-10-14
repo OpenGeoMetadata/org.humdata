@@ -1,7 +1,7 @@
 {
   "id": "hdx-2ee09a64-5f39-4747-9943-8a2acc2fa46b",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-02-10T17:51:13Z",
+  "gbl_mdModified_dt": "2026-10-13T11:57:45Z",
   "dct_title_s": "Uganda: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,12 +18,10 @@
     "National Oceanic and Atmospheric Administration (NOAA) / National Centers for Environmental Information (NCEI)"
   ],
   "dcat_keyword_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_subject_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_spatial_sm": [
     "Uganda"
@@ -205,5 +203,5 @@
     2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/uga-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/2ee09a64-5f39-4747-9943-8a2acc2fa46b/resource/674d960b-9f8d-4e67-851a-b89191b301ce/download/ibtracs_all_list_v04r01_lines_uga.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/2ee09a64-5f39-4747-9943-8a2acc2fa46b/resource/674d960b-9f8d-4e67-851a-b89191b301ce/download/ibtracs_all_list_v04r01_lines_uga.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/uga-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/2ee09a64-5f39-4747-9943-8a2acc2fa46b/resource/801e9623-cb80-40e3-8ec9-4421ad4394db/download/ibtracs_all_list_v04r01_uga.csv\",\"label\":\"ibtracs_ALL_list_v04r01_UGA.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/2ee09a64-5f39-4747-9943-8a2acc2fa46b/resource/674d960b-9f8d-4e67-851a-b89191b301ce/download/ibtracs_all_list_v04r01_lines_uga.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_UGA.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/2ee09a64-5f39-4747-9943-8a2acc2fa46b/resource/674d960b-9f8d-4e67-851a-b89191b301ce/download/ibtracs_all_list_v04r01_lines_uga.geojson\"}"
 }

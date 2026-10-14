@@ -1,7 +1,7 @@
 {
   "id": "hdx-29d88b1b-1f5e-49b7-a3c7-8f55e1bb4616",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-02-24T17:30:21Z",
+  "gbl_mdModified_dt": "2026-10-13T11:30:36Z",
   "dct_title_s": "Democratic Republic of the Congo: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,12 +18,10 @@
     "National Oceanic and Atmospheric Administration (NOAA) / National Centers for Environmental Information (NCEI)"
   ],
   "dcat_keyword_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_subject_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
@@ -213,5 +211,5 @@
     2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/29d88b1b-1f5e-49b7-a3c7-8f55e1bb4616/resource/cc455a44-93da-4ed8-a62f-321def7d59d5/download/ibtracs_all_list_v04r01_lines_cod.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/29d88b1b-1f5e-49b7-a3c7-8f55e1bb4616/resource/cc455a44-93da-4ed8-a62f-321def7d59d5/download/ibtracs_all_list_v04r01_lines_cod.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/29d88b1b-1f5e-49b7-a3c7-8f55e1bb4616/resource/7dcddedf-6574-49c1-a62d-a49f3ab2eb77/download/ibtracs_all_list_v04r01_cod.csv\",\"label\":\"ibtracs_ALL_list_v04r01_COD.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/29d88b1b-1f5e-49b7-a3c7-8f55e1bb4616/resource/cc455a44-93da-4ed8-a62f-321def7d59d5/download/ibtracs_all_list_v04r01_lines_cod.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_COD.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/29d88b1b-1f5e-49b7-a3c7-8f55e1bb4616/resource/cc455a44-93da-4ed8-a62f-321def7d59d5/download/ibtracs_all_list_v04r01_lines_cod.geojson\"}"
 }

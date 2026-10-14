@@ -1,7 +1,7 @@
 {
   "id": "hdx-30ec8845-f3e1-4c0f-a353-8cd1b2621a0d",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-02-24T17:43:30Z",
+  "gbl_mdModified_dt": "2026-10-13T11:55:29Z",
   "dct_title_s": "Eswatini: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,12 +18,10 @@
     "National Oceanic and Atmospheric Administration (NOAA) / National Centers for Environmental Information (NCEI)"
   ],
   "dcat_keyword_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_subject_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_spatial_sm": [
     "Eswatini"
@@ -213,5 +211,5 @@
     2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/swz-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/30ec8845-f3e1-4c0f-a353-8cd1b2621a0d/resource/d1162eec-e1a9-4845-92bb-e60524ff13df/download/ibtracs_all_list_v04r01_lines_swz.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/30ec8845-f3e1-4c0f-a353-8cd1b2621a0d/resource/d1162eec-e1a9-4845-92bb-e60524ff13df/download/ibtracs_all_list_v04r01_lines_swz.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/swz-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/30ec8845-f3e1-4c0f-a353-8cd1b2621a0d/resource/ecaaae7d-f546-450f-bfdf-f668357e25bb/download/ibtracs_all_list_v04r01_swz.csv\",\"label\":\"ibtracs_ALL_list_v04r01_SWZ.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/30ec8845-f3e1-4c0f-a353-8cd1b2621a0d/resource/d1162eec-e1a9-4845-92bb-e60524ff13df/download/ibtracs_all_list_v04r01_lines_swz.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_SWZ.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/30ec8845-f3e1-4c0f-a353-8cd1b2621a0d/resource/d1162eec-e1a9-4845-92bb-e60524ff13df/download/ibtracs_all_list_v04r01_lines_swz.geojson\"}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-25edc483-da5a-41d9-852f-4fbe44072329",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-02-10T17:49:13Z",
+  "gbl_mdModified_dt": "2026-10-13T11:54:24Z",
   "dct_title_s": "Somalia: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,12 +18,10 @@
     "National Oceanic and Atmospheric Administration (NOAA) / National Centers for Environmental Information (NCEI)"
   ],
   "dcat_keyword_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_subject_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_spatial_sm": [
     "Somalia"
@@ -221,5 +219,5 @@
     2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/som-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/25edc483-da5a-41d9-852f-4fbe44072329/resource/62b88265-6eb6-4af3-b82e-56675e86d21c/download/ibtracs_all_list_v04r01_lines_som.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/25edc483-da5a-41d9-852f-4fbe44072329/resource/62b88265-6eb6-4af3-b82e-56675e86d21c/download/ibtracs_all_list_v04r01_lines_som.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/som-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/25edc483-da5a-41d9-852f-4fbe44072329/resource/505643a1-da93-440b-a5f6-793dd9534430/download/ibtracs_all_list_v04r01_som.csv\",\"label\":\"ibtracs_ALL_list_v04r01_SOM.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/25edc483-da5a-41d9-852f-4fbe44072329/resource/62b88265-6eb6-4af3-b82e-56675e86d21c/download/ibtracs_all_list_v04r01_lines_som.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_SOM.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/25edc483-da5a-41d9-852f-4fbe44072329/resource/62b88265-6eb6-4af3-b82e-56675e86d21c/download/ibtracs_all_list_v04r01_lines_som.geojson\"}"
 }

@@ -4,10 +4,10 @@
   "caveats": "OpenStreetMap data is crowd sourced and cannot be considered to be exhaustive",
   "creator_user_id": "6a0688ce-8521-46e2-8edd-8e26c0851ebd",
   "data_update_frequency": "30",
-  "dataset_date": "[2026-08-07T00:00:00 TO 2026-08-07T23:59:59]",
+  "dataset_date": "[2026-10-12T00:00:00 TO 2026-10-12T23:59:59]",
   "dataset_preview": "first_resource",
   "dataset_source": "OpenStreetMap contributors",
-  "due_date": "2026-09-06T23:59:59",
+  "due_date": "2026-11-11T23:59:59",
   "has_geodata": true,
   "has_showcases": false,
   "id": "c105e7a2-9b8a-467a-bd25-b66e3ccaa55c",
@@ -19,7 +19,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "6a0688ce-8521-46e2-8edd-8e26c0851ebd",
   "metadata_created": "2020-05-13T10:26:01.612310",
-  "metadata_modified": "2026-10-09T09:04:55.294234",
+  "metadata_modified": "2026-10-13T10:28:06.881925",
   "methodology": "Other",
   "methodology_other": "Volunteered geographic information",
   "name": "hotosm_ala_railways",
@@ -40,7 +40,7 @@
   },
   "owner_org": "225b9f7d-e7cb-4156-96a6-44c9c58d31e3",
   "package_creator": "osm2hdx",
-  "pageviews_last_14_days": 11,
+  "pageviews_last_14_days": 12,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"\\u00c5land Islands\"]}",
@@ -49,7 +49,7 @@
   "title": "HOTOSM Aland Islands Railways (OpenStreetMap Export)",
   "total_res_downloads": 1,
   "type": "dataset",
-  "updated_by_script": "HDXPythonLibrary/6.7.0-osm-country-exports/0.1 (2026-10-08T13:49:25.048106)",
+  "updated_by_script": "HDXPythonLibrary/6.6.7-osm-country-exports/0.1 (2026-10-13T10:28:05.879038)",
   "url": null,
   "version": null,
   "groups": [
@@ -64,7 +64,6 @@
   ],
   "resources": [
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-13T10:45:54.156340",
@@ -76,7 +75,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/78e82cd4-c100-4a53-a643-462e59dba570/hotosm_ala_railways_lines_shp.zip",
       "id": "5425c584-7906-4d08-a7e1-778bc8e38465",
       "last_modified": "2020-07-03T02:57:06",
-      "metadata_modified": "2026-10-09T09:04:55.322304",
+      "metadata_modified": "2026-10-13T10:28:06.970985",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -91,7 +90,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-13T10:45:54.156346",
@@ -103,7 +101,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/78e82cd4-c100-4a53-a643-462e59dba570/hotosm_ala_railways_polygons_shp.zip",
       "id": "8e33bcde-afcf-4247-8c37-9589bcbb3502",
       "last_modified": "2020-07-03T02:57:06",
-      "metadata_modified": "2026-10-09T09:04:55.322474",
+      "metadata_modified": "2026-10-13T10:28:06.971154",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -118,7 +116,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-13T10:45:54.156348",
@@ -130,7 +127,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/78e82cd4-c100-4a53-a643-462e59dba570/hotosm_ala_railways_gpkg.zip",
       "id": "bb1a048b-0521-4be3-9d97-81a5db016734",
       "last_modified": "2020-07-03T02:57:05",
-      "metadata_modified": "2026-10-09T09:04:55.322591",
+      "metadata_modified": "2026-10-13T10:28:06.971262",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -144,7 +141,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-13T10:45:54.156350",
@@ -156,7 +152,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/78e82cd4-c100-4a53-a643-462e59dba570/hotosm_ala_railways_lines_kml.zip",
       "id": "ac78ae35-a452-421a-b4e5-e9cac66652de",
       "last_modified": "2020-07-03T02:57:06",
-      "metadata_modified": "2026-10-09T09:04:55.322698",
+      "metadata_modified": "2026-10-13T10:28:06.971366",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -171,7 +167,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-13T10:45:54.156352",
@@ -183,7 +178,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/78e82cd4-c100-4a53-a643-462e59dba570/hotosm_ala_railways_polygons_kml.zip",
       "id": "0923662a-4fb9-4f5f-a830-a1beafc053c6",
       "last_modified": "2020-07-03T02:57:06",
-      "metadata_modified": "2026-10-09T09:04:55.322798",
+      "metadata_modified": "2026-10-13T10:28:06.971468",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,7 +193,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2020-05-13T10:45:54.156354",
@@ -210,7 +204,7 @@
       "hdx_rel_url": "https://export.hotosm.org/downloads/78e82cd4-c100-4a53-a643-462e59dba570/hotosm_ala_gmapsupp_img.zip",
       "id": "265f4d19-18ab-4a09-9946-d9dac1f0fdc9",
       "last_modified": "2020-07-03T02:57:35",
-      "metadata_modified": "2026-10-09T09:04:55.322995",
+      "metadata_modified": "2026-10-13T10:28:06.971585",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

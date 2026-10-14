@@ -1,0 +1,41 @@
+{
+  "id": "hdx-8391608f-3b1b-4915-9455-e9269770a92a",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-14T02:00:34Z",
+  "dct_title_s": "Financial Services of Russian Federation",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Financial services: banks, ATMs, post offices, money transfer agents, and microfinance branches tagged via `amenity`. Useful for financial-inclusion mapping, cash-distribution planning, and economic analysis. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [amenity](https://wiki.openstreetmap.org/wiki/Key:amenity) - Part of the [country exports on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "economics",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "economics",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Russian Federation"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 81.25, 41.15)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 81.25, 41.15)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_rus_financial_services\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/RUS/financial_services/hotosm_rus_financial_services_osm_geojson.zip\",\"label\":\"Financial Services (OSM), GeoJSON (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/RUS/financial_services/hotosm_rus_financial_services_osm_gpkg.zip\",\"label\":\"Financial Services (OSM), GeoPackage (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/RUS/_layers/osm/financial_services.parquet\",\"label\":\"Financial Services (OSM), GeoParquet (GeoParquet)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/RUS/financial_services/hotosm_rus_financial_services_osm_kml.zip\",\"label\":\"Financial Services (OSM), KML (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/RUS/financial_services/hotosm_rus_financial_services_osm_shp.zip\",\"label\":\"Financial Services (OSM), Shapefile (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/RUS/financial_services/hotosm_rus_financial_services_osm_metadata.json\",\"label\":\"Financial Services (OSM), STAC Collection (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/RUS/financial_services/hotosm_rus_financial_services_osm.pmtiles\",\"label\":\"Financial Services (OSM), Vector Tiles (PMTiles) (PMTiles)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/RUS/financial_services/hotosm_rus_financial_services_report.html\",\"label\":\"Financial Services, Data Quality Report (HTML)\"}],\"https://github.com/protomaps/PMTiles\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/RUS/financial_services/hotosm_rus_financial_services_osm.pmtiles\"}"
+}

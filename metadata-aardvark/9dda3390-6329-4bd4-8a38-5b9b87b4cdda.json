@@ -1,7 +1,7 @@
 {
   "id": "hdx-9dda3390-6329-4bd4-8a38-5b9b87b4cdda",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-02-10T17:48:06Z",
+  "gbl_mdModified_dt": "2026-10-13T11:52:44Z",
   "dct_title_s": "Rwanda: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,12 +18,10 @@
     "National Oceanic and Atmospheric Administration (NOAA) / National Centers for Environmental Information (NCEI)"
   ],
   "dcat_keyword_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_subject_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_spatial_sm": [
     "Rwanda"
@@ -205,5 +203,5 @@
     2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/rwa-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/9dda3390-6329-4bd4-8a38-5b9b87b4cdda/resource/a952d7bc-7746-40af-8b67-38bbe63da972/download/ibtracs_all_list_v04r01_lines_rwa.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/9dda3390-6329-4bd4-8a38-5b9b87b4cdda/resource/a952d7bc-7746-40af-8b67-38bbe63da972/download/ibtracs_all_list_v04r01_lines_rwa.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/rwa-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/9dda3390-6329-4bd4-8a38-5b9b87b4cdda/resource/0eac9483-644e-4d95-95e0-818867448f54/download/ibtracs_all_list_v04r01_rwa.csv\",\"label\":\"ibtracs_ALL_list_v04r01_RWA.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/9dda3390-6329-4bd4-8a38-5b9b87b4cdda/resource/a952d7bc-7746-40af-8b67-38bbe63da972/download/ibtracs_all_list_v04r01_lines_rwa.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_RWA.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/9dda3390-6329-4bd4-8a38-5b9b87b4cdda/resource/a952d7bc-7746-40af-8b67-38bbe63da972/download/ibtracs_all_list_v04r01_lines_rwa.geojson\"}"
 }

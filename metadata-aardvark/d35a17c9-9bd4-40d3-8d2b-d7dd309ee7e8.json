@@ -1,7 +1,7 @@
 {
   "id": "hdx-d35a17c9-9bd4-40d3-8d2b-d7dd309ee7e8",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-02-24T17:46:06Z",
+  "gbl_mdModified_dt": "2026-10-13T12:00:33Z",
   "dct_title_s": "South Africa: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,12 +18,10 @@
     "National Oceanic and Atmospheric Administration (NOAA) / National Centers for Environmental Information (NCEI)"
   ],
   "dcat_keyword_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_subject_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_spatial_sm": [
     "South Africa"
@@ -215,5 +213,5 @@
     2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/zaf-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/d35a17c9-9bd4-40d3-8d2b-d7dd309ee7e8/resource/b7c54be2-74af-4278-a861-21aa1c0214b0/download/ibtracs_all_list_v04r01_lines_zaf.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/d35a17c9-9bd4-40d3-8d2b-d7dd309ee7e8/resource/b7c54be2-74af-4278-a861-21aa1c0214b0/download/ibtracs_all_list_v04r01_lines_zaf.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/zaf-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/d35a17c9-9bd4-40d3-8d2b-d7dd309ee7e8/resource/f109fc87-9334-4e5e-86b1-37de5972fb7d/download/ibtracs_all_list_v04r01_zaf.csv\",\"label\":\"ibtracs_ALL_list_v04r01_ZAF.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/d35a17c9-9bd4-40d3-8d2b-d7dd309ee7e8/resource/b7c54be2-74af-4278-a861-21aa1c0214b0/download/ibtracs_all_list_v04r01_lines_zaf.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_ZAF.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/d35a17c9-9bd4-40d3-8d2b-d7dd309ee7e8/resource/b7c54be2-74af-4278-a861-21aa1c0214b0/download/ibtracs_all_list_v04r01_lines_zaf.geojson\"}"
 }

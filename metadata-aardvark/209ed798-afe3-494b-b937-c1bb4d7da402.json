@@ -1,7 +1,7 @@
 {
   "id": "hdx-209ed798-afe3-494b-b937-c1bb4d7da402",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-02-24T17:35:19Z",
+  "gbl_mdModified_dt": "2026-10-13T11:40:18Z",
   "dct_title_s": "Kenya: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,12 +18,10 @@
     "National Oceanic and Atmospheric Administration (NOAA) / National Centers for Environmental Information (NCEI)"
   ],
   "dcat_keyword_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_subject_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_spatial_sm": [
     "Kenya"
@@ -212,5 +210,5 @@
     2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/ken-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/209ed798-afe3-494b-b937-c1bb4d7da402/resource/20e3496b-9255-4294-a3b6-0647368aebc4/download/ibtracs_all_list_v04r01_lines_ken.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/209ed798-afe3-494b-b937-c1bb4d7da402/resource/20e3496b-9255-4294-a3b6-0647368aebc4/download/ibtracs_all_list_v04r01_lines_ken.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/ken-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/209ed798-afe3-494b-b937-c1bb4d7da402/resource/9673c917-73b8-4aed-83b7-17325e72a7ec/download/ibtracs_all_list_v04r01_ken.csv\",\"label\":\"ibtracs_ALL_list_v04r01_KEN.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/209ed798-afe3-494b-b937-c1bb4d7da402/resource/20e3496b-9255-4294-a3b6-0647368aebc4/download/ibtracs_all_list_v04r01_lines_ken.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_KEN.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/209ed798-afe3-494b-b937-c1bb4d7da402/resource/20e3496b-9255-4294-a3b6-0647368aebc4/download/ibtracs_all_list_v04r01_lines_ken.geojson\"}"
 }

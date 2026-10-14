@@ -1,7 +1,7 @@
 {
   "id": "hdx-ce233cc6-9d4b-4431-8c84-4634bbb31a1c",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-05-23T18:11:57Z",
+  "gbl_mdModified_dt": "2026-10-13T11:29:15Z",
   "dct_title_s": "Central African Republic: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,12 +18,10 @@
     "National Oceanic and Atmospheric Administration (NOAA) / National Centers for Environmental Information (NCEI)"
   ],
   "dcat_keyword_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_subject_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_spatial_sm": [
     "Central African Republic"
@@ -31,7 +29,7 @@
   "locn_geometry": "ENVELOPE(14.46, 27.37, 11.14, 2.27)",
   "dcat_bbox": "ENVELOPE(14.46, 27.37, 11.14, 2.27)",
   "dct_temporal_sm": [
-    "1944-2024"
+    "1944-2025"
   ],
   "gbl_indexYear_im": [
     1944,
@@ -114,8 +112,9 @@
     2021,
     2022,
     2023,
-    2024
+    2024,
+    2025
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/caf-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/ce233cc6-9d4b-4431-8c84-4634bbb31a1c/resource/adb5889d-352b-4350-913c-39ee170cda76/download/ibtracs_all_list_v04r01_lines_caf.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/ce233cc6-9d4b-4431-8c84-4634bbb31a1c/resource/adb5889d-352b-4350-913c-39ee170cda76/download/ibtracs_all_list_v04r01_lines_caf.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/caf-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/ce233cc6-9d4b-4431-8c84-4634bbb31a1c/resource/a9f69a45-31ff-42d5-ba12-ea419d3b6102/download/ibtracs_all_list_v04r01_caf.csv\",\"label\":\"ibtracs_ALL_list_v04r01_CAF.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/ce233cc6-9d4b-4431-8c84-4634bbb31a1c/resource/adb5889d-352b-4350-913c-39ee170cda76/download/ibtracs_all_list_v04r01_lines_caf.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_CAF.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/ce233cc6-9d4b-4431-8c84-4634bbb31a1c/resource/adb5889d-352b-4350-913c-39ee170cda76/download/ibtracs_all_list_v04r01_lines_caf.geojson\"}"
 }

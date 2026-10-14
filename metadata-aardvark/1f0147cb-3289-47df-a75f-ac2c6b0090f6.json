@@ -1,7 +1,7 @@
 {
   "id": "hdx-1f0147cb-3289-47df-a75f-ac2c6b0090f6",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-31T16:39:15Z",
+  "gbl_mdModified_dt": "2026-10-13T11:36:21Z",
   "dct_title_s": "Heard Island and McDonald Islands: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -27,7 +27,7 @@
     "Heard Island and McDonald Islands"
   ],
   "dct_temporal_sm": [
-    "1859-2025"
+    "1859-2026"
   ],
   "gbl_indexYear_im": [
     1859,
@@ -196,8 +196,9 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hmd-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/1f0147cb-3289-47df-a75f-ac2c6b0090f6/resource/4d020146-bdb2-451a-9960-99ec29bbe3e9/download/ibtracs_all_list_v04r01_lines_hmd.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/1f0147cb-3289-47df-a75f-ac2c6b0090f6/resource/4d020146-bdb2-451a-9960-99ec29bbe3e9/download/ibtracs_all_list_v04r01_lines_hmd.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hmd-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/1f0147cb-3289-47df-a75f-ac2c6b0090f6/resource/24240fe7-5192-418c-a380-9fd30cb58a8f/download/ibtracs_all_list_v04r01_hmd.csv\",\"label\":\"ibtracs_ALL_list_v04r01_HMD.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/1f0147cb-3289-47df-a75f-ac2c6b0090f6/resource/4d020146-bdb2-451a-9960-99ec29bbe3e9/download/ibtracs_all_list_v04r01_lines_hmd.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_HMD.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/1f0147cb-3289-47df-a75f-ac2c6b0090f6/resource/4d020146-bdb2-451a-9960-99ec29bbe3e9/download/ibtracs_all_list_v04r01_lines_hmd.geojson\"}"
 }

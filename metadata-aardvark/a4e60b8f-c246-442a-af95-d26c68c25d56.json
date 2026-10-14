@@ -1,7 +1,7 @@
 {
   "id": "hdx-a4e60b8f-c246-442a-af95-d26c68c25d56",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-02-24T17:40:12Z",
+  "gbl_mdModified_dt": "2026-10-13T11:47:35Z",
   "dct_title_s": "Mayotte: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,12 +18,10 @@
     "National Oceanic and Atmospheric Administration (NOAA) / National Centers for Environmental Information (NCEI)"
   ],
   "dcat_keyword_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_subject_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_spatial_sm": [
     "Mayotte"
@@ -213,5 +211,5 @@
     2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/myt-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/a4e60b8f-c246-442a-af95-d26c68c25d56/resource/b71d4ebb-7d6c-48f6-bb32-30d372edcdba/download/ibtracs_all_list_v04r01_lines_myt.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/a4e60b8f-c246-442a-af95-d26c68c25d56/resource/b71d4ebb-7d6c-48f6-bb32-30d372edcdba/download/ibtracs_all_list_v04r01_lines_myt.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/myt-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/a4e60b8f-c246-442a-af95-d26c68c25d56/resource/06d4c514-f159-401f-92e8-238808baaa92/download/ibtracs_all_list_v04r01_myt.csv\",\"label\":\"ibtracs_ALL_list_v04r01_MYT.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/a4e60b8f-c246-442a-af95-d26c68c25d56/resource/b71d4ebb-7d6c-48f6-bb32-30d372edcdba/download/ibtracs_all_list_v04r01_lines_myt.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_MYT.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/a4e60b8f-c246-442a-af95-d26c68c25d56/resource/b71d4ebb-7d6c-48f6-bb32-30d372edcdba/download/ibtracs_all_list_v04r01_lines_myt.geojson\"}"
 }

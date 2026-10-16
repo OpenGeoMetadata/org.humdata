@@ -1,0 +1,43 @@
+{
+  "id": "hdx-3fee5347-9206-449a-8cb8-eec47171f864",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-15T21:52:57Z",
+  "dct_title_s": "Points of Interest of United States",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Points of interest: public-facing amenities, shops, tourist attractions, and landmarks tagged via `amenity`, `shop`, `tourism`, or `man_made`. Useful for general POI reference, urban analysis, and basemap detail. Coverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge. - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map - Tags: [amenity](https://wiki.openstreetmap.org/wiki/Key:amenity), [shop](https://wiki.openstreetmap.org/wiki/Key:shop), [tourism](https://wiki.openstreetmap.org/wiki/Key:tourism), [man_made](https://wiki.openstreetmap.org/wiki/Key:man_made) - Part of the [country exports on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "OpenStreetMap contributors"
+  ],
+  "dcat_keyword_sm": [
+    "facilities-infrastructure",
+    "geodata",
+    "points of interest-poi"
+  ],
+  "dct_subject_sm": [
+    "facilities-infrastructure",
+    "geodata",
+    "points of interest-poi"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "locn_geometry": "ENVELOPE(-125.0, -66.96, 49.5, 25.0)",
+  "dcat_bbox": "ENVELOPE(-125.0, -66.96, 49.5, 25.0)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_usa_points_of_interest\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/USA/points_of_interest/hotosm_usa_points_of_interest_osm_geojson.zip\",\"label\":\"Points of Interest (OSM), GeoJSON (GeoJSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/USA/points_of_interest/hotosm_usa_points_of_interest_osm_gpkg.zip\",\"label\":\"Points of Interest (OSM), GeoPackage (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/USA/_layers/osm/points_of_interest.parquet\",\"label\":\"Points of Interest (OSM), GeoParquet (GeoParquet)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/USA/points_of_interest/hotosm_usa_points_of_interest_osm_kml.zip\",\"label\":\"Points of Interest (OSM), KML (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/USA/points_of_interest/hotosm_usa_points_of_interest_osm_shp.zip\",\"label\":\"Points of Interest (OSM), Shapefile (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/USA/points_of_interest/hotosm_usa_points_of_interest_osm_metadata.json\",\"label\":\"Points of Interest (OSM), STAC Collection (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/USA/points_of_interest/hotosm_usa_points_of_interest_osm.pmtiles\",\"label\":\"Points of Interest (OSM), Vector Tiles (PMTiles) (PMTiles)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/USA/points_of_interest/hotosm_usa_points_of_interest_report.html\",\"label\":\"Points of Interest, Data Quality Report (HTML)\"}],\"https://github.com/protomaps/PMTiles\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/USA/points_of_interest/hotosm_usa_points_of_interest_osm.pmtiles\"}"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "hdx-ed128513-1613-48b5-becb-dcb6913ed3aa",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-16T21:22:47Z",
+  "dct_title_s": "Russian Federation - Earthquake on Oct 16 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000u2mq](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000u2mq) Magnitude 6.9 earthquake at 143.176 depth occurred on Oct 16 2026 76 km NE of Ozernovskiy, Russia. The epicentre of the earthquake was located at latitude 52.0066 longitude 157.2499. It impacted 154 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Russian Federation"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 81.25, 41.15)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 81.25, 41.15)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/rus-earthquake-sm-us6000u2mq\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/ed128513-1613-48b5-becb-dcb6913ed3aa/resource/4b188b1c-8cae-43cd-964f-de204fffcd05/download/rus_wfpadam_earthquake_20261016.geojson\",\"label\":\"rus_wfpadam_earthquake_20261016.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/ed128513-1613-48b5-becb-dcb6913ed3aa/resource/db836c35-d869-423c-8c58-85e67833b1b1/download/rus_wfpadam_earthquake_20261016.csv\",\"label\":\"rus_wfpadam_earthquake_20261016.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/ed128513-1613-48b5-becb-dcb6913ed3aa/resource/b0b7f703-a3d5-4ec1-a2b5-fb36ccffcf1d/download/rus_wfpadam_earthquake_20261016.xlsx\",\"label\":\"rus_wfpadam_earthquake_20261016.xlsx (XLSX)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/ed128513-1613-48b5-becb-dcb6913ed3aa/resource/4b188b1c-8cae-43cd-964f-de204fffcd05/download/rus_wfpadam_earthquake_20261016.geojson\"}"
+}

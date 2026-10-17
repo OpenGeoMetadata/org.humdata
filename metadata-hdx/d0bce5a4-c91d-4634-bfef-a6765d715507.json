@@ -18,7 +18,7 @@
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "196196be-6037-4488-8b71-d786adf4c081",
   "metadata_created": "2026-08-24T03:32:25.598349",
-  "metadata_modified": "2026-10-09T09:06:08.289699",
+  "metadata_modified": "2026-10-16T10:51:10.496137",
   "methodology": "Other",
   "methodology_other": "More information can be found [here](https://mapping.emergency.copernicus.eu/about/using-of-earth-observation-data/).",
   "name": "mne-wildfire-emsr922",
@@ -39,14 +39,14 @@
   },
   "owner_org": "47677055-92e2-4f68-bf1b-5d570f27e791",
   "package_creator": "HDX Data Systems Team",
-  "pageviews_last_14_days": 271,
+  "pageviews_last_14_days": 268,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Montenegro\"]}",
   "state": "active",
   "subnational": "1",
   "title": "Montenegro - Wildfire (EMSR922)",
-  "total_res_downloads": 50,
+  "total_res_downloads": 54,
   "type": "dataset",
   "updated_by_script": "HDX Scraper: Copernicus EMS (2026-09-04T10:47:25.877382)",
   "url": null,
@@ -195,6 +195,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-08-24T03:32:25.632773",
@@ -208,7 +209,7 @@
       "hdx_rel_url": "https://rapidmapping.emergency.copernicus.eu/backend/EMSR922/AOI01/DEL_MONIT01/EMSR922_AOI01_DEL_MONIT01_v1.zip?type=xlsx",
       "id": "de49cf9e-a3ab-416b-97ad-5504193052a4",
       "last_modified": "2026-08-24T08:44:07.631407",
-      "metadata_modified": "2026-08-24T10:39:46.200271",
+      "metadata_modified": "2026-10-16T10:51:10.579651",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -540,6 +541,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-08-24T03:32:25.632797",
@@ -552,7 +554,7 @@
       "hdx_rel_url": "https://rapidmapping.emergency.copernicus.eu/backend/EMSR922/AOI01/DEL_MONIT04/EMSR922_AOI01_DEL_MONIT04_v1.zip?type=vectors",
       "id": "0ee6ae96-3058-4e77-b150-0692a413a480",
       "last_modified": "2026-08-24T08:44:07.631407",
-      "metadata_modified": "2026-09-04T10:47:51.098584",
+      "metadata_modified": "2026-10-16T10:51:10.581146",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -805,6 +807,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-08-24T03:32:25.632815",
@@ -817,7 +820,7 @@
       "hdx_rel_url": "https://rapidmapping.emergency.copernicus.eu/backend/EMSR922/AOI02/DEL_MONIT01/EMSR922_AOI02_DEL_MONIT01_v1.zip?type=gpkg",
       "id": "c89541e6-bc71-48c2-bda5-03ab856ccbe7",
       "last_modified": "2026-08-24T08:44:07.631407",
-      "metadata_modified": "2026-08-24T10:39:27.515079",
+      "metadata_modified": "2026-10-16T10:51:10.582234",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -1602,6 +1605,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-08-31T10:47:44.834988",
@@ -1614,7 +1618,7 @@
       "hdx_rel_url": "https://rapidmapping.emergency.copernicus.eu/backend/EMSR922/AOI01/DEL_MONIT10/EMSR922_AOI01_DEL_MONIT10_v1.zip?type=vectors",
       "id": "d1c0afa4-10fc-4a54-89f9-e321cfbc3b60",
       "last_modified": "2026-09-01T08:44:07.103805",
-      "metadata_modified": "2026-09-04T10:48:08.876343",
+      "metadata_modified": "2026-10-16T10:51:10.585435",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

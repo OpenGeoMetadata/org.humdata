@@ -1,7 +1,7 @@
 {
   "id": "hdx-a662d318-afcb-40bb-9dec-765ea09626d8",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-10-18T10:32:55Z",
+  "gbl_mdModified_dt": "2026-10-19T14:40:20Z",
   "dct_title_s": "Roads of France",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -38,6 +38,6 @@
   "gbl_indexYear_im": [
     2026
   ],
-  "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_fra_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/FRA/roads/lines/hotosm_fra_roads_lines_geojson.zip\",\"label\":\"hotosm_fra_roads_lines_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/FRA/roads/lines/hotosm_fra_roads_lines_kml.zip\",\"label\":\"hotosm_fra_roads_lines_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/FRA/roads/lines/hotosm_fra_roads_lines_shp.zip\",\"label\":\"hotosm_fra_roads_lines_shp.zip (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/FRA/roads/hotosm_fra_roads_osm_gpkg.zip\",\"label\":\"Roads (OSM), GeoPackage (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/FRA/_layers/osm/roads.parquet\",\"label\":\"Roads (OSM), GeoParquet (GeoParquet)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/FRA/roads/hotosm_fra_roads_osm_shp.zip\",\"label\":\"Roads (OSM), Shapefile (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/FRA/roads/hotosm_fra_roads_osm_metadata.json\",\"label\":\"Roads (OSM), STAC Collection (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/FRA/roads/hotosm_fra_roads_osm.pmtiles\",\"label\":\"Roads (OSM), Vector Tiles (PMTiles) (PMTiles)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/FRA/roads/hotosm_fra_roads_report.html\",\"label\":\"Roads, Data Quality Report (HTML)\"}],\"https://github.com/protomaps/PMTiles\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/FRA/roads/hotosm_fra_roads_osm.pmtiles\"}"
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_fra_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/FRA/roads/hotosm_fra_roads_osm_gpkg.zip\",\"label\":\"Roads (OSM), GeoPackage (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/FRA/_layers/osm/roads.parquet\",\"label\":\"Roads (OSM), GeoParquet (GeoParquet)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/FRA/roads/hotosm_fra_roads_osm_shp.zip\",\"label\":\"Roads (OSM), Shapefile (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/FRA/roads/hotosm_fra_roads_osm_metadata.json\",\"label\":\"Roads (OSM), STAC Collection (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/FRA/roads/hotosm_fra_roads_osm.pmtiles\",\"label\":\"Roads (OSM), Vector Tiles (PMTiles) (PMTiles)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/FRA/roads/hotosm_fra_roads_report.html\",\"label\":\"Roads, Data Quality Report (HTML)\"}],\"https://github.com/protomaps/PMTiles\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/FRA/roads/hotosm_fra_roads_osm.pmtiles\"}"
 }

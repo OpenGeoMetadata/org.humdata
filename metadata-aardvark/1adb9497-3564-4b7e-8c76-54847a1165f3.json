@@ -1,7 +1,7 @@
 {
   "id": "hdx-1adb9497-3564-4b7e-8c76-54847a1165f3",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-10-18T09:12:05Z",
+  "gbl_mdModified_dt": "2026-10-19T14:40:16Z",
   "dct_title_s": "Buildings of France",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -36,6 +36,6 @@
   "gbl_indexYear_im": [
     2026
   ],
-  "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_fra_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/FRA/buildings/hotosm_fra_buildings_osm_gpkg.zip\",\"label\":\"Buildings (OSM), GeoPackage (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/FRA/_layers/osm/buildings.parquet\",\"label\":\"Buildings (OSM), GeoParquet (GeoParquet)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/FRA/buildings/hotosm_fra_buildings_osm_metadata.json\",\"label\":\"Buildings (OSM), STAC Collection (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/FRA/buildings/hotosm_fra_buildings_osm.pmtiles\",\"label\":\"Buildings (OSM), Vector Tiles (PMTiles) (PMTiles)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/FRA/buildings/polygons/hotosm_fra_buildings_polygons_geojson.zip\",\"label\":\"hotosm_fra_buildings_polygons_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/FRA/buildings/polygons/hotosm_fra_buildings_polygons_kml.zip\",\"label\":\"hotosm_fra_buildings_polygons_kml.zip (KML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/FRA/buildings/hotosm_fra_buildings_report.html\",\"label\":\"Buildings, Data Quality Report (HTML)\"}],\"https://github.com/protomaps/PMTiles\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/FRA/buildings/hotosm_fra_buildings_osm.pmtiles\"}"
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_fra_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/FRA/buildings/hotosm_fra_buildings_osm_gpkg.zip\",\"label\":\"Buildings (OSM), GeoPackage (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/FRA/_layers/osm/buildings.parquet\",\"label\":\"Buildings (OSM), GeoParquet (GeoParquet)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/FRA/buildings/hotosm_fra_buildings_osm_metadata.json\",\"label\":\"Buildings (OSM), STAC Collection (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/FRA/buildings/hotosm_fra_buildings_osm.pmtiles\",\"label\":\"Buildings (OSM), Vector Tiles (PMTiles) (PMTiles)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/FRA/buildings/hotosm_fra_buildings_report.html\",\"label\":\"Buildings, Data Quality Report (HTML)\"}],\"https://github.com/protomaps/PMTiles\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/FRA/buildings/hotosm_fra_buildings_osm.pmtiles\"}"
 }

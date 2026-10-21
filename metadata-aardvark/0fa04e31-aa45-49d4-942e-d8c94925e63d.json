@@ -1,7 +1,7 @@
 {
   "id": "hdx-0fa04e31-aa45-49d4-942e-d8c94925e63d",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-08-27T04:40:26Z",
+  "gbl_mdModified_dt": "2026-10-20T11:51:56Z",
   "dct_title_s": "Tokelau: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,18 +18,16 @@
     "National Oceanic and Atmospheric Administration (NOAA) / National Centers for Environmental Information (NCEI)"
   ],
   "dcat_keyword_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_subject_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_spatial_sm": [
     "Tokelau"
   ],
   "dct_temporal_sm": [
-    "1941-2025"
+    "1941-2026"
   ],
   "gbl_indexYear_im": [
     1941,
@@ -116,8 +114,9 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/tkl-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/0fa04e31-aa45-49d4-942e-d8c94925e63d/resource/72f882d7-ac1d-4d95-a347-ce7338bb645b/download/ibtracs_all_list_v04r01_lines_tkl.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/0fa04e31-aa45-49d4-942e-d8c94925e63d/resource/72f882d7-ac1d-4d95-a347-ce7338bb645b/download/ibtracs_all_list_v04r01_lines_tkl.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/tkl-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/0fa04e31-aa45-49d4-942e-d8c94925e63d/resource/88409bd9-3f55-4ce6-821f-00c6d7cb06be/download/ibtracs_all_list_v04r01_tkl.csv\",\"label\":\"ibtracs_ALL_list_v04r01_TKL.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/0fa04e31-aa45-49d4-942e-d8c94925e63d/resource/72f882d7-ac1d-4d95-a347-ce7338bb645b/download/ibtracs_all_list_v04r01_lines_tkl.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_TKL.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/0fa04e31-aa45-49d4-942e-d8c94925e63d/resource/72f882d7-ac1d-4d95-a347-ce7338bb645b/download/ibtracs_all_list_v04r01_lines_tkl.geojson\"}"
 }

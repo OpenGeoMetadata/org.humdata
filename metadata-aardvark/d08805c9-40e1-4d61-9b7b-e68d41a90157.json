@@ -1,7 +1,7 @@
 {
   "id": "hdx-d08805c9-40e1-4d61-9b7b-e68d41a90157",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T15:37:27Z",
+  "gbl_mdModified_dt": "2026-05-07T10:37:27Z",
   "dct_title_s": "Syria - OSM Data quality",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/syria-osm-data-quality\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/SYR/SYR_roads-all-highways_gpkg.zip\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/syria-osm-data-quality\",\"http://schema.org/embedUrl\":\"https://giscience.github.io/osm-quality-country-reports/#/SYR\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/SYR/SYR_roads-all-highways_gpkg.zip\",\"label\":\"SYR_roads-all-highways_gpkg.zip (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/SYR/SYR_building-count_gpkg.zip\",\"label\":\"SYR_building-count_gpkg.zip (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/SYR/SYR_schools_gpkg.zip\",\"label\":\"SYR_schools_gpkg.zip (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/SYR/SYR_hospitals_csv.zip\",\"label\":\"SYR_hospitals_csv.zip (CSV)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/SYR/SYR_healthcare-primary_csv.zip\",\"label\":\"SYR_healthcare-primary_csv.zip (CSV)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/SYR/SYR_roads-all-highways_csv.zip\",\"label\":\"SYR_roads-all-highways_csv.zip (CSV)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/SYR/SYR_schools_csv.zip\",\"label\":\"SYR_schools_csv.zip (CSV)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/SYR/SYR_hospitals_gpkg.zip\",\"label\":\"SYR_hospitals_gpkg.zip (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/SYR/SYR_healthcare-primary_gpkg.zip\",\"label\":\"SYR_healthcare-primary_gpkg.zip (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/SYR/SYR_building-count_csv.zip\",\"label\":\"SYR_building-count_csv.zip (CSV)\"}]}"
 }

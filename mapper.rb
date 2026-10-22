@@ -38,6 +38,22 @@ end
 class Mapper
   ID_PREFIX = 'hdx-'
 
+  # HDX's custom visualizations (customviz) that aren't embedded in records. GeoBlacklight shows an
+  # embed in place of any map preview, so these would cost the record more than they'd add.
+  UNEMBEDDED_VIZ = [
+    # Pages that only HDX may frame: their frame-ancestors or X-Frame-Options refuse every other site
+    %r{\Ahttps://sf\.earthobservatory\.sg/},
+    %r{\Ahttps://human-settlement\.emergency\.copernicus\.eu/},
+    %r{\Ahttps://portal\.worldpop\.org/},
+    # Reports on how complete an OSM export's attributes are: HOT's, and osgeo-nepal's copies on HDX.
+    # They describe the data rather than show it, and most sit beside a map they would hide.
+    %r{production-raw-data-api},
+    %r{_report\.html\z},
+    # Still images, and a viewer that only wraps one
+    %r{\.(png|jpe?g|gif|webp)(\?.*)?\z}i,
+    %r{\Ahttps://mcarans\.github\.io/view-images/}
+  ].freeze
+
   # Map a single HDX dataset hash to OGM Aardvark schema
   # @param dataset [Hash] raw dataset JSON from HDX API
   # @return [Hash] mapped OGM Aardvark JSON
@@ -212,6 +228,10 @@ class Mapper
       refs['http://schema.org/url'] = "https://data.humdata.org/dataset/#{name_or_id}"
     end
 
+    # Embed the first custom visualization worth showing, as HDX's "Interactive data" section does
+    embed_url = (@dataset['customviz'] || []).map { |viz| viz['url'] }.find { |url| embeddable?(url) }
+    refs['http://schema.org/embedUrl'] = embed_url if embed_url
+
     # Add a labelled entry to downloadUrl for every downloadable resource
     resources = @dataset['resources'] || []
     downloadable_resources = resources.select { |r| r['download_url'].present? }
@@ -242,5 +262,10 @@ class Mapper
     end
 
     refs
+  end
+
+  # Whether a custom visualization can be framed on an HTTPS page, and is worth framing there
+  def embeddable?(url)
+    url.present? && url.start_with?('https://') && UNEMBEDDED_VIZ.none? { |pattern| pattern.match?(url) }
   end
 end

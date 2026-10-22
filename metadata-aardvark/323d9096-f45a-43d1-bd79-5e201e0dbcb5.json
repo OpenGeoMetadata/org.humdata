@@ -1,7 +1,7 @@
 {
   "id": "hdx-323d9096-f45a-43d1-bd79-5e201e0dbcb5",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-02-23T16:13:08Z",
+  "gbl_mdModified_dt": "2026-02-23T10:13:08Z",
   "dct_title_s": "Nepal Earthquake Epicenter",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -70,5 +70,5 @@
     2025
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/nepal-earthquake-epicenter\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://konishon.github.io/nepal-earthquake-epicenter-data/earthquakes.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://konishon.github.io/nepal-earthquake-epicenter-data/earthquakes.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/nepal-earthquake-epicenter\",\"http://schema.org/embedUrl\":\"https://konishon.github.io/nepal-earthquake-epicenter-data/\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://konishon.github.io/nepal-earthquake-epicenter-data/earthquakes.geojson\",\"label\":\"earthquakes.geojson (GeoJSON)\"},{\"url\":\"https://konishon.github.io/nepal-earthquake-epicenter-data/earthquakes.csv\",\"label\":\"earthquakes.csv (CSV)\"}],\"http://geojson.org/geojson-spec.html\":\"https://konishon.github.io/nepal-earthquake-epicenter-data/earthquakes.geojson\"}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-edbcb7b1-dd71-4037-b494-9ed291fc3840",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-02-27T16:34:34Z",
+  "gbl_mdModified_dt": "2026-02-27T10:34:34Z",
   "dct_title_s": "San Marino - Accessibility Indicators",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/san-marino-accessibility-indicators\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/access/smr/SMR_education_access.gpkg\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/san-marino-accessibility-indicators\",\"http://schema.org/embedUrl\":\"https://giscience.github.io/open-access-lens/#/smr\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/access/smr/SMR_education_access.gpkg\",\"label\":\"SMR_education_access.gpkg (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/access/smr/SMR_education_access_long.csv\",\"label\":\"SMR_education_access_long.csv (CSV)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/access/smr/SMR_education_access_wide.csv\",\"label\":\"SMR_education_access_wide.csv (CSV)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/access/smr/SMR_hospitals_access.gpkg\",\"label\":\"SMR_hospitals_access.gpkg (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/access/smr/SMR_hospitals_access_long.csv\",\"label\":\"SMR_hospitals_access_long.csv (CSV)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/access/smr/SMR_hospitals_access_wide.csv\",\"label\":\"SMR_hospitals_access_wide.csv (CSV)\"}]}"
 }

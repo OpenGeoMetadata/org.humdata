@@ -1,7 +1,7 @@
 {
   "id": "hdx-a22f4104-3169-4da6-a82b-4064e720dd13",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T15:17:02Z",
+  "gbl_mdModified_dt": "2026-05-07T10:17:02Z",
   "dct_title_s": "Tanzania - OSM Data quality",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -37,5 +37,5 @@
     2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/tanzania-osm-data-quality\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/TZA/TZA_schools_gpkg.zip\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/tanzania-osm-data-quality\",\"http://schema.org/embedUrl\":\"https://giscience.github.io/osm-quality-country-reports/#/TZA\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/TZA/TZA_schools_gpkg.zip\",\"label\":\"TZA_schools_gpkg.zip (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/TZA/TZA_healthcare-primary_gpkg.zip\",\"label\":\"TZA_healthcare-primary_gpkg.zip (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/TZA/TZA_schools_csv.zip\",\"label\":\"TZA_schools_csv.zip (CSV)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/TZA/TZA_roads-all-highways_csv.zip\",\"label\":\"TZA_roads-all-highways_csv.zip (CSV)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/TZA/TZA_healthcare-primary_csv.zip\",\"label\":\"TZA_healthcare-primary_csv.zip (CSV)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/TZA/TZA_roads-all-highways_gpkg.zip\",\"label\":\"TZA_roads-all-highways_gpkg.zip (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/TZA/TZA_building-count_gpkg.zip\",\"label\":\"TZA_building-count_gpkg.zip (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/TZA/TZA_hospitals_csv.zip\",\"label\":\"TZA_hospitals_csv.zip (CSV)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/TZA/TZA_hospitals_gpkg.zip\",\"label\":\"TZA_hospitals_gpkg.zip (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/oqapi_hdx/downloads/TZA/TZA_building-count_csv.zip\",\"label\":\"TZA_building-count_csv.zip (CSV)\"}]}"
 }

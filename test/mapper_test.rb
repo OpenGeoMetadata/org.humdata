@@ -181,4 +181,69 @@ class MapperTest < Minitest::Test
 
     refute refs.key?('https://github.com/protomaps/PMTiles')
   end
+
+  def test_mapper_adds_embed_reference_for_custom_visualization
+    dataset = {
+      "id" => "test-dataset-customviz",
+      "title" => "Test custom visualization dataset",
+      "customviz" => [
+        { "url" => "https://giscience.github.io/open-access-lens/#/jam" }
+      ]
+    }
+    mapped = Mapper.map(dataset)
+    refs = JSON.parse(mapped['dct_references_s'])
+
+    assert_equal "https://giscience.github.io/open-access-lens/#/jam", refs['http://schema.org/embedUrl']
+  end
+
+  def test_mapper_does_not_add_embed_reference_without_custom_visualization
+    dataset = {
+      "id" => "test-dataset-no-customviz",
+      "title" => "Test dataset without custom visualization",
+      "customviz" => []
+    }
+    mapped = Mapper.map(dataset)
+    refs = JSON.parse(mapped['dct_references_s'])
+
+    refute refs.key?('http://schema.org/embedUrl')
+  end
+
+  def test_mapper_does_not_embed_unembedded_visualizations
+    [
+      "https://sf.earthobservatory.sg/event/EOSRS_2026_013_IDN_EQ_202608_Flores",
+      "https://production-raw-data-api.s3.amazonaws.com/ISO3/HRV/education_facilities/hotosm_hrv_education_facilities_report.html",
+      "https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/IOT/railways/lines/stats-summary.html",
+      "https://data.humdata.org/dataset/5ad71c11/resource/05f6c1a9/download/osgeonepal_npl_settlements_report.html",
+      "https://turkeyeq2023.atlasai.co/images/syria-bui.png",
+      "https://mma.prnewswire.com/media/1999946/Atlas_AI_HumanSettlements_Map_Turkey.jpg?p=publish",
+      "https://mcarans.github.io/view-images/#https://static.gis.wfp.org/adam_eq/sm.jpg",
+      "http://example.com/insecure-dashboard.html"
+    ].each do |url|
+      dataset = {
+        "id" => "test-dataset-unembedded",
+        "title" => "Test unembedded visualization dataset",
+        "customviz" => [{ "url" => url }]
+      }
+      mapped = Mapper.map(dataset)
+      refs = JSON.parse(mapped['dct_references_s'])
+
+      refute refs.key?('http://schema.org/embedUrl'), "embedded #{url}"
+    end
+  end
+
+  def test_mapper_embeds_first_embeddable_visualization
+    dataset = {
+      "id" => "test-dataset-several-customviz",
+      "title" => "Test dataset with several custom visualizations",
+      "customviz" => [
+        { "url" => "https://turkeyeq2023.atlasai.co/images/syria-bui.png" },
+        { "url" => "https://umap.hotosm.org/en/map/drc-ebola-outbreak-2026-priority-area_2892" },
+        { "url" => "https://giscience.github.io/open-access-lens/#/jam" }
+      ]
+    }
+    mapped = Mapper.map(dataset)
+    refs = JSON.parse(mapped['dct_references_s'])
+
+    assert_equal "https://umap.hotosm.org/en/map/drc-ebola-outbreak-2026-priority-area_2892", refs['http://schema.org/embedUrl']
+  end
 end

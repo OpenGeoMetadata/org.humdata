@@ -18,7 +18,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "0ec5ff66-dc01-4087-bb82-1d01f3b1c1ce",
   "metadata_created": "2022-01-06T14:08:00.372299",
-  "metadata_modified": "2026-03-15T09:06:08.505011",
+  "metadata_modified": "2026-10-22T09:10:46.060874",
   "methodology": "Other",
   "methodology_other": "All stages of data collection and processing are publicly available, as described in both [peer-reviewed academic outlets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231866) and in the public code base available through [GitHub](https://github.com/wmgeolab/geoBoundaries).",
   "name": "geoboundaries-admin-boundaries-for-nauru",
@@ -39,14 +39,14 @@
   },
   "owner_org": "8be95204-f453-4b66-a4f6-dbe84cb0bdee",
   "package_creator": "geoboundaries",
-  "pageviews_last_14_days": 2,
+  "pageviews_last_14_days": 20,
   "private": false,
   "qa_completed": false,
-  "solr_additions": "{\"countries\": [\"Nauru\"]}",
+  "solr_additions": "{\"countries\": [\"Naoero\"]}",
   "state": "active",
   "subnational": "1",
   "title": "Nauru - Subnational Administrative Boundaries",
-  "total_res_downloads": 156,
+  "total_res_downloads": 171,
   "type": "dataset",
   "updated_by_script": "GeoBoundaries (2024-07-20T00:09:23.797391)",
   "url": null,
@@ -54,11 +54,11 @@
   "groups": [
     {
       "description": "",
-      "display_name": "Nauru",
+      "display_name": "Naoero",
       "id": "nru",
       "image_display_url": "",
       "name": "nru",
-      "title": "Nauru"
+      "title": "Naoero"
     }
   ],
   "resources": [
@@ -194,6 +194,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:00.383644",
@@ -205,7 +206,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NRU/ADM1/geoBoundaries-NRU-ADM1.geojson",
       "id": "abcf3871-1299-430d-8f7c-1e32d4075510",
       "last_modified": "2025-08-26T11:42:03",
-      "metadata_modified": "2025-08-26T12:04:29.589213",
+      "metadata_modified": "2026-10-22T09:10:46.090204",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

@@ -1,7 +1,7 @@
 {
   "id": "hdx-5476d993-52a3-4cc6-86dc-f215838a49ee",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-01-09T23:04:09Z",
+  "gbl_mdModified_dt": "2025-01-09T17:04:09Z",
   "dct_title_s": "Republic of Korea: Copernicus Global Human Settlement Layer (GHSL)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Republic of Korea"
   ],
+  "locn_geometry": "ENVELOPE(126.12, 129.47, 38.61, 34.39)",
+  "dcat_bbox": "ENVELOPE(126.12, 129.47, 38.61, 34.39)",
   "dct_temporal_sm": [
     "2025"
   ],
@@ -37,5 +39,5 @@
     2025
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kor-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/5476d993-52a3-4cc6-86dc-f215838a49ee/resource/771bb8cc-a7c1-494e-b9c5-9c24b2258d83/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_kor.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kor-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/5476d993-52a3-4cc6-86dc-f215838a49ee/resource/771bb8cc-a7c1-494e-b9c5-9c24b2258d83/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_kor.tif\",\"label\":\"GHS Built-up Surface (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/5476d993-52a3-4cc6-86dc-f215838a49ee/resource/38bca0a5-ff6c-4b44-9490-b381e8583ceb/download/ghs_pop_e2025_r2023a_54009_100_v1_0_kor.tif\",\"label\":\"GHS Population Grid (GeoTIFF)\"}]}"
 }

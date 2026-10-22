@@ -1,7 +1,7 @@
 {
   "id": "hdx-9913fc2d-7e82-4586-954d-0d8d75c5a52d",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:54:12Z",
+  "gbl_mdModified_dt": "2026-05-07T07:54:12Z",
   "dct_title_s": "Samoa: Administrative Division with Aggregated Population",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Samoa"
   ],
+  "locn_geometry": "ENVELOPE(-172.79, -171.43, -13.46, -14.06)",
+  "dcat_bbox": "ENVELOPE(-172.79, -171.43, -13.46, -14.06)",
   "dct_temporal_sm": [
     "2022"
   ],
@@ -37,5 +39,5 @@
     2022
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-samoa\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_WS_20220407.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-samoa\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_WS_20220407.gpkg.gz\",\"label\":\"kontur_boundaries_WS_20220407.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_boundaries_WS_20230628.gpkg.gz\",\"label\":\"kontur_boundaries_WS_20230628.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_topology_boundaries_WS_20230628.gpkg.gz\",\"label\":\"kontur_topology_boundaries_WS_20230628.gpkg (Geopackage)\"}]}"
 }

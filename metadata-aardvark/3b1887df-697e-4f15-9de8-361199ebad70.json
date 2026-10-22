@@ -1,7 +1,7 @@
 {
   "id": "hdx-3b1887df-697e-4f15-9de8-361199ebad70",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-03T15:26:05Z",
+  "gbl_mdModified_dt": "2026-03-03T09:26:05Z",
   "dct_title_s": "Republic of Korea: Planet Road Surface, Width, and Passability Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -52,6 +52,8 @@
   "dct_spatial_sm": [
     "Republic of Korea"
   ],
+  "locn_geometry": "ENVELOPE(126.12, 129.47, 38.61, 34.39)",
+  "dcat_bbox": "ENVELOPE(126.12, 129.47, 38.61, 34.39)",
   "dct_temporal_sm": [
     "2020-2024"
   ],
@@ -63,5 +65,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/republic-of-korea-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_KR_planet_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_KR_planet_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/republic-of-korea-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_KR_planet_roadsurface_lines.geojson\",\"label\":\"Republic of korea GeoJSON heigit_KR_planet_roadsurface_lines.geojson (GeoJSON)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_KR_planet_roadsurface_lines.gpkg\",\"label\":\"Republic of korea GPKG heigit_KR_planet_roadsurface_lines.gpkg (Geopackage)\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_KR_planet_roadsurface_lines.geojson\"}"
 }

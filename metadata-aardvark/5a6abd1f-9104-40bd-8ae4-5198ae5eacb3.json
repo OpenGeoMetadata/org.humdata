@@ -1,7 +1,7 @@
 {
   "id": "hdx-5a6abd1f-9104-40bd-8ae4-5198ae5eacb3",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-11-19T16:32:08Z",
+  "gbl_mdModified_dt": "2025-11-19T10:32:08Z",
   "dct_title_s": "Aruba: High Resolution Population Density Maps + Demographic Estimates",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -38,6 +38,8 @@
   "dct_spatial_sm": [
     "Aruba"
   ],
+  "locn_geometry": "ENVELOPE(-70.07, -69.87, 12.64, 12.41)",
+  "dcat_bbox": "ENVELOPE(-70.07, -69.87, 12.64, 12.41)",
   "dct_temporal_sm": [
     "2019-2021"
   ],
@@ -47,5 +49,5 @@
     2021
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/aruba-high-resolution-population-density-maps-demographic-estimates\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/5a6abd1f-9104-40bd-8ae4-5198ae5eacb3/resource/21bffed2-7cc2-4650-8107-0a0b892248ca/download/abw_general_2020_geotiff.zip\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/aruba-high-resolution-population-density-maps-demographic-estimates\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/5a6abd1f-9104-40bd-8ae4-5198ae5eacb3/resource/84479207-81df-4211-9e6f-cf4fbd39ce6e/download/abw_general_2020_csv.zip\",\"label\":\"abw_general_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/5a6abd1f-9104-40bd-8ae4-5198ae5eacb3/resource/21bffed2-7cc2-4650-8107-0a0b892248ca/download/abw_general_2020_geotiff.zip\",\"label\":\"abw_general_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/5a6abd1f-9104-40bd-8ae4-5198ae5eacb3/resource/1c9eb17e-9fc7-4136-9a14-34a30608b177/download/abw_children_under_five_2020_csv.zip\",\"label\":\"abw_children_under_five_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/5a6abd1f-9104-40bd-8ae4-5198ae5eacb3/resource/64d514cd-d338-4c64-a279-0321a6acaed6/download/abw_children_under_five_2020_geotiff.zip\",\"label\":\"abw_children_under_five_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/5a6abd1f-9104-40bd-8ae4-5198ae5eacb3/resource/a9bf468b-890e-437b-9215-9de4e93c4342/download/abw_elderly_60_plus_2020_csv.zip\",\"label\":\"abw_elderly_60_plus_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/5a6abd1f-9104-40bd-8ae4-5198ae5eacb3/resource/1cffbf38-ffb6-46df-bfb2-5e868cfee1a1/download/abw_elderly_60_plus_2020_geotiff.zip\",\"label\":\"abw_elderly_60_plus_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/5a6abd1f-9104-40bd-8ae4-5198ae5eacb3/resource/fcb09837-45e0-44c4-af85-04891ee7ee57/download/abw_men_2020_csv.zip\",\"label\":\"abw_men_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/5a6abd1f-9104-40bd-8ae4-5198ae5eacb3/resource/da91db7e-f11d-4a94-b86b-676eb96c001f/download/abw_men_2020_geotiff.zip\",\"label\":\"abw_men_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/5a6abd1f-9104-40bd-8ae4-5198ae5eacb3/resource/a12272bb-56ac-49f6-8139-f73ca27f0c48/download/abw_women_2020_csv.zip\",\"label\":\"abw_women_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/5a6abd1f-9104-40bd-8ae4-5198ae5eacb3/resource/538c9151-6362-4832-89da-600fd246c033/download/abw_women_2020_geotiff.zip\",\"label\":\"abw_women_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/5a6abd1f-9104-40bd-8ae4-5198ae5eacb3/resource/9a4b9704-df00-46ab-a14a-de5aa5ad1a0b/download/abw_women_of_reproductive_age_15_49_2020_csv.zip\",\"label\":\"abw_women_of_reproductive_age_15_49_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/5a6abd1f-9104-40bd-8ae4-5198ae5eacb3/resource/7f002759-5a38-45e0-a1a5-6c76d2ef94ea/download/abw_women_of_reproductive_age_15_49_2020_geotiff.zip\",\"label\":\"abw_women_of_reproductive_age_15_49_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/5a6abd1f-9104-40bd-8ae4-5198ae5eacb3/resource/51d81443-7b96-4e30-a9b1-4cc7003bdee6/download/abw_youth_15_24_2020_csv.zip\",\"label\":\"abw_youth_15_24_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/5a6abd1f-9104-40bd-8ae4-5198ae5eacb3/resource/eca065bb-ff67-4a9a-af7c-a1e9e05a64f8/download/abw_youth_15_24_2020_geotiff.zip\",\"label\":\"abw_youth_15_24_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/5a6abd1f-9104-40bd-8ae4-5198ae5eacb3/resource/b7873b25-8f03-470d-a842-d9ec80afbf78/download/abw_dg_metadata.json.zip\",\"label\":\"abw_dg_metadata.json.zip (JSON)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-5a2176bb-a4dd-44af-b44f-504d26fdcf19",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-03-11T04:37:00Z",
+  "gbl_mdModified_dt": "2025-03-10T23:37:00Z",
   "dct_title_s": "Türkiye Earthquake magnitudes",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Türkiye"
   ],
+  "locn_geometry": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
+  "dcat_bbox": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
   "dct_temporal_sm": [
     "2023"
   ],
@@ -35,5 +37,5 @@
     2023
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/turkey-earthquake\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/5a2176bb-a4dd-44af-b44f-504d26fdcf19/resource/b61c015e-0344-417c-95d4-4e16558ff258/download/turkey-earthquake.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/turkey-earthquake\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/5a2176bb-a4dd-44af-b44f-504d26fdcf19/resource/b61c015e-0344-417c-95d4-4e16558ff258/download/turkey-earthquake.zip\",\"label\":\"Turkey_Earthquakes.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/5a2176bb-a4dd-44af-b44f-504d26fdcf19/resource/3f772e66-806a-4873-98e7-c9a4b4580327/download/turkey_earthquakes.csv\",\"label\":\"Turkey_Earthquakes.csv (CSV)\"}]}"
 }

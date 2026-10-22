@@ -1,7 +1,7 @@
 {
   "id": "hdx-d7571feb-a0b8-43fc-b2f4-6f4633dcde17",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:41:04Z",
+  "gbl_mdModified_dt": "2026-05-07T07:41:04Z",
   "dct_title_s": "Brunei Darussalam: Population Density for 400m H3 Hexagons",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,8 +30,8 @@
   "dct_spatial_sm": [
     "Brunei Darussalam"
   ],
-  "locn_geometry": "ENVELOPE(-180.0, 180.0, 81.25, 41.15)",
-  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 81.25, 41.15)",
+  "locn_geometry": "ENVELOPE(114.2, 115.45, 5.45, 4.01)",
+  "dcat_bbox": "ENVELOPE(114.2, 115.45, 5.45, 4.01)",
   "dct_temporal_sm": [
     "2023"
   ],
@@ -39,5 +39,5 @@
     2023
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-brunei-darussalam\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_BN_20220630.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-brunei-darussalam\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_BN_20220630.gpkg.gz\",\"label\":\"kontur_population_BN_20220630.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_BN_20231101.gpkg.gz\",\"label\":\"kontur_population_BN_20231101.gpkg (Geopackage)\"}]}"
 }

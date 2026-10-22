@@ -1,7 +1,7 @@
 {
   "id": "hdx-c15af6f8-f46f-46b7-8057-80e30c9ec865",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:09:17Z",
+  "gbl_mdModified_dt": "2025-10-01T14:09:17Z",
   "dct_title_s": "French Polynesia: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "French Polynesia"
   ],
+  "locn_geometry": "ENVELOPE(-154.54, -134.94, -7.95, -27.65)",
+  "dcat_bbox": "ENVELOPE(-154.54, -134.94, -7.95, -27.65)",
   "dct_temporal_sm": [
     "2015-2024"
   ],
@@ -48,5 +50,5 @@
     2024
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-pyf\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-pf-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-pyf\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-pf-latest.zip\",\"label\":\"whosonfirst-data-admin-pf-latest.zip (SHP)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-f7198a6e-a864-423a-ab13-68712031749a",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-05-05T16:11:52Z",
+  "gbl_mdModified_dt": "2025-05-05T11:11:52Z",
   "dct_title_s": "Settlements in Türkiye (Admin 3-4)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "Türkiye"
   ],
+  "locn_geometry": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
+  "dcat_bbox": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
   "dct_temporal_sm": [
     "2023"
   ],
@@ -33,5 +35,5 @@
     2023
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/settlements-in-turkey\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/f7198a6e-a864-423a-ab13-68712031749a/resource/4f03c808-d944-4747-bce3-bdddf870dfcf/download/turkey_settlements_3.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/settlements-in-turkey\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/f7198a6e-a864-423a-ab13-68712031749a/resource/4f03c808-d944-4747-bce3-bdddf870dfcf/download/turkey_settlements_3.zip\",\"label\":\"Turkey_Settlements_3.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/f7198a6e-a864-423a-ab13-68712031749a/resource/83d1e306-81ce-4802-bd9d-db422b2a389d/download/turkey_settlements_4.zip\",\"label\":\"Turkey_Settlements_4.zip (SHP)\"}]}"
 }

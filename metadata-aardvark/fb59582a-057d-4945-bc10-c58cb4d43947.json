@@ -1,7 +1,7 @@
 {
   "id": "hdx-fb59582a-057d-4945-bc10-c58cb4d43947",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:37:07Z",
+  "gbl_mdModified_dt": "2026-05-07T07:37:07Z",
   "dct_title_s": "Monaco: Population Density for 400m H3 Hexagons",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Monaco"
   ],
+  "locn_geometry": "ENVELOPE(7.36, 7.44, 43.77, 43.71)",
+  "dcat_bbox": "ENVELOPE(7.36, 7.44, 43.77, 43.71)",
   "dct_temporal_sm": [
     "2023"
   ],
@@ -37,5 +39,5 @@
     2023
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-monaco\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_MC_20220630.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-monaco\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_MC_20220630.gpkg.gz\",\"label\":\"kontur_population_MC_20220630.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_MC_20231101.gpkg.gz\",\"label\":\"kontur_population_MC_20231101.gpkg (Geopackage)\"}]}"
 }

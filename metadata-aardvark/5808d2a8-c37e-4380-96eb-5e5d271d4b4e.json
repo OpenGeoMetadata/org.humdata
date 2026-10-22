@@ -1,7 +1,7 @@
 {
   "id": "hdx-5808d2a8-c37e-4380-96eb-5e5d271d4b4e",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-06T14:33:32Z",
+  "gbl_mdModified_dt": "2026-06-06T09:33:32Z",
   "dct_title_s": "Eswatini - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Eswatini"
   ],
+  "locn_geometry": "ENVELOPE(30.68, 32.07, -25.66, -27.29)",
+  "dcat_bbox": "ENVELOPE(30.68, 32.07, -25.66, -27.29)",
   "dct_temporal_sm": [
     "2017"
   ],
@@ -37,5 +39,5 @@
     2017
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/geoboundaries-admin-boundaries-for-eswatini\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SWZ/ADM0/geoBoundaries-SWZ-ADM0_simplified.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SWZ/ADM0/geoBoundaries-SWZ-ADM0_simplified.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/geoboundaries-admin-boundaries-for-eswatini\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SWZ/ADM0/geoBoundaries-SWZ-ADM0_simplified.geojson\",\"label\":\"geoBoundaries-SWZ-ADM0_simplified.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SWZ/ADM0/geoBoundaries-SWZ-ADM0.geojson\",\"label\":\"geoBoundaries-SWZ-ADM0.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SWZ/ADM0/geoBoundaries-SWZ-ADM0.topojson\",\"label\":\"geoBoundaries-SWZ-ADM0.topojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SWZ/ADM0/geoBoundaries-SWZ-ADM0-all.zip\",\"label\":\"geoBoundaries-SWZ-ADM0-all.zip (SHP)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SWZ/ADM1/geoBoundaries-SWZ-ADM1_simplified.geojson\",\"label\":\"geoBoundaries-SWZ-ADM1_simplified.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SWZ/ADM1/geoBoundaries-SWZ-ADM1.geojson\",\"label\":\"geoBoundaries-SWZ-ADM1.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SWZ/ADM1/geoBoundaries-SWZ-ADM1.topojson\",\"label\":\"geoBoundaries-SWZ-ADM1.topojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SWZ/ADM1/geoBoundaries-SWZ-ADM1-all.zip\",\"label\":\"geoBoundaries-SWZ-ADM1-all.zip (SHP)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SWZ/ADM2/geoBoundaries-SWZ-ADM2_simplified.geojson\",\"label\":\"geoBoundaries-SWZ-ADM2_simplified.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SWZ/ADM2/geoBoundaries-SWZ-ADM2.geojson\",\"label\":\"geoBoundaries-SWZ-ADM2.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SWZ/ADM2/geoBoundaries-SWZ-ADM2.topojson\",\"label\":\"geoBoundaries-SWZ-ADM2.topojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SWZ/ADM2/geoBoundaries-SWZ-ADM2-all.zip\",\"label\":\"geoBoundaries-SWZ-ADM2-all.zip (SHP)\"}],\"http://geojson.org/geojson-spec.html\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SWZ/ADM0/geoBoundaries-SWZ-ADM0_simplified.geojson\"}"
 }

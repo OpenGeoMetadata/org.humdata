@@ -1,7 +1,7 @@
 {
   "id": "hdx-e224a75d-b356-484e-a8f4-8c42395c0f10",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-06-27T15:03:12Z",
+  "gbl_mdModified_dt": "2025-06-27T10:03:12Z",
   "dct_title_s": "French Guiana - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "French Guiana"
   ],
+  "locn_geometry": "ENVELOPE(-54.62, -51.64, 5.75, 2.11)",
+  "dcat_bbox": "ENVELOPE(-54.62, -51.64, 5.75, 2.11)",
   "dct_temporal_sm": [
     "2020"
   ],
@@ -35,5 +37,5 @@
     2020
   ],
   "dct_format_s": "XLSX",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-guf\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e224a75d-b356-484e-a8f4-8c42395c0f10/resource/d0dd44d8-8b04-4059-8e8b-2548dc5bf0e7/download/guf_admbgz_ign.xls\",\"label\":\"XLSX\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-guf\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e224a75d-b356-484e-a8f4-8c42395c0f10/resource/d0dd44d8-8b04-4059-8e8b-2548dc5bf0e7/download/guf_admbgz_ign.xls\",\"label\":\"guf_admbgz_ign.xls (XLSX)\"},{\"url\":\"https://data.humdata.org/dataset/e224a75d-b356-484e-a8f4-8c42395c0f10/resource/bdf4a0a6-e20e-4140-9ae2-44e1bf80e189/download/guf_adm_ign_shp.zip\",\"label\":\"guf_adm_ign_SHP.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/e224a75d-b356-484e-a8f4-8c42395c0f10/resource/dae4b2e8-3e7c-4e79-8d09-a4be53b4bbaf/download/guf_adm_ign_emf.zip\",\"label\":\"guf_adm_ign_EMF.zip (EMF)\"},{\"url\":\"https://data.humdata.org/dataset/e224a75d-b356-484e-a8f4-8c42395c0f10/resource/d5078f63-0a48-469f-9594-1e754fe92b93/download/guf_adm_ign_gdb.gdb.zip\",\"label\":\"guf_adm_ign_GDB.gdb.zip (Geodatabase)\"}]}"
 }

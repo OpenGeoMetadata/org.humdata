@@ -1,7 +1,7 @@
 {
   "id": "hdx-680fbb01-7dc1-41bd-940f-3c4e903f6416",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-08T23:38:38Z",
+  "gbl_mdModified_dt": "2025-04-08T18:38:38Z",
   "dct_title_s": "State of Palestine - Hebron_H2_Closures",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -34,6 +34,8 @@
   "dct_spatial_sm": [
     "State of Palestine"
   ],
+  "locn_geometry": "ENVELOPE(34.2, 35.58, 32.55, 31.21)",
+  "dcat_bbox": "ENVELOPE(34.2, 35.58, 32.55, 31.21)",
   "dct_temporal_sm": [
     "2018-2022"
   ],
@@ -45,5 +47,5 @@
     2022
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/state-of-palestine-hebron_h2_closures\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/680fbb01-7dc1-41bd-940f-3c4e903f6416/resource/da14c27a-0238-4dfa-90c4-f76993ddddfa/download/hebron_h2_closures.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/state-of-palestine-hebron_h2_closures\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/680fbb01-7dc1-41bd-940f-3c4e903f6416/resource/da14c27a-0238-4dfa-90c4-f76993ddddfa/download/hebron_h2_closures.zip\",\"label\":\"Hebron_H2_Closures.zip (SHP)\"}]}"
 }

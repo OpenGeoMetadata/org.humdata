@@ -1,7 +1,7 @@
 {
   "id": "hdx-f1b90258-a2ba-4586-8acb-0181dd866e3c",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-09T00:17:15Z",
+  "gbl_mdModified_dt": "2025-04-08T19:17:15Z",
   "dct_title_s": "Democratic Republic of Congo (DRC) Localities (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
   ],
+  "locn_geometry": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
+  "dcat_bbox": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
   "dct_temporal_sm": [
     "2020"
   ],
@@ -37,5 +39,5 @@
     2020
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/democratic-republic-of-congo-drc-localities-openstreetmap-export\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/f1b90258-a2ba-4586-8acb-0181dd866e3c/resource/d7207909-7d4f-4b16-a449-1c20ddf30056/download/osm_rd_congo_localities.geojson.zip\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/democratic-republic-of-congo-drc-localities-openstreetmap-export\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/f1b90258-a2ba-4586-8acb-0181dd866e3c/resource/d7207909-7d4f-4b16-a449-1c20ddf30056/download/osm_rd_congo_localities.geojson.zip\",\"label\":\"osm_rd_congo_localities.geojson.zip (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/f1b90258-a2ba-4586-8acb-0181dd866e3c/resource/c68e7710-e36a-4cfc-88cf-233bab13ee5d/download/osm_rd_congo_localities.csv.zip\",\"label\":\"osm_rd_congo_localities.csv.zip (CSV)\"}]}"
 }

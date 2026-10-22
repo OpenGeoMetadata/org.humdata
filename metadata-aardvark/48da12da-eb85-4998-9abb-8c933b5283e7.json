@@ -1,7 +1,7 @@
 {
   "id": "hdx-48da12da-eb85-4998-9abb-8c933b5283e7",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:10:10Z",
+  "gbl_mdModified_dt": "2025-10-01T14:10:10Z",
   "dct_title_s": "French Southern Territories: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "French Southern and Antarctic Territories"
   ],
+  "locn_geometry": "ENVELOPE(39.72, 77.59, -11.55, -49.73)",
+  "dcat_bbox": "ENVELOPE(39.72, 77.59, -11.55, -49.73)",
   "dct_temporal_sm": [
     "2015-2023"
   ],
@@ -47,5 +49,5 @@
     2023
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-atf\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-tf-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-atf\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-tf-latest.zip\",\"label\":\"whosonfirst-data-admin-tf-latest.zip (SHP)\"}]}"
 }

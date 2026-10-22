@@ -1,7 +1,7 @@
 {
   "id": "hdx-b19d54a3-b774-443d-895f-ef6c0b7d5cc5",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-02T17:44:47Z",
+  "gbl_mdModified_dt": "2026-03-02T11:44:47Z",
   "dct_title_s": "Antigua and Barbuda: Planet Road Surface, Width, and Passability Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -52,6 +52,8 @@
   "dct_spatial_sm": [
     "Antigua and Barbuda"
   ],
+  "locn_geometry": "ENVELOPE(-62.35, -61.66, 17.73, 16.93)",
+  "dcat_bbox": "ENVELOPE(-62.35, -61.66, 17.73, 16.93)",
   "dct_temporal_sm": [
     "2020-2024"
   ],
@@ -63,5 +65,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/antigua-and-barbuda-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_AG_planet_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_AG_planet_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/antigua-and-barbuda-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_AG_planet_roadsurface_lines.gpkg\",\"label\":\"Antigua and barbuda GPKG heigit_AG_planet_roadsurface_lines.gpkg (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_AG_planet_roadsurface_lines.geojson\",\"label\":\"Antigua and barbuda GeoJSON heigit_AG_planet_roadsurface_lines.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_AG_planet_roadsurface_lines.geojson\"}"
 }

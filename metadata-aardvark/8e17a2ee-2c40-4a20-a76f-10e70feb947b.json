@@ -1,7 +1,7 @@
 {
   "id": "hdx-8e17a2ee-2c40-4a20-a76f-10e70feb947b",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-06T14:54:51Z",
+  "gbl_mdModified_dt": "2026-06-06T09:54:51Z",
   "dct_title_s": "Democratic Republic of the Congo: Road Surface Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -50,6 +50,8 @@
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
   ],
+  "locn_geometry": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
+  "dcat_bbox": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
   "dct_temporal_sm": [
     "2024"
   ],
@@ -57,5 +59,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/democratic-republic-of-the-congo-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_cod_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_cod_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/democratic-republic-of-the-congo-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_cod_roadsurface_lines.geojson\",\"label\":\"Democratic republic of the congo GeoJSON Resource (GeoJSON)\"},{\"url\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_cod_roadsurface_lines.gpkg\",\"label\":\"Democratic republic of the congo GeoPackage Resource (Geopackage)\"}],\"http://geojson.org/geojson-spec.html\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_cod_roadsurface_lines.geojson\"}"
 }

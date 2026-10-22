@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "Palau"
   ],
+  "locn_geometry": "ENVELOPE(131.13, 134.73, 8.1, 2.94)",
+  "dcat_bbox": "ENVELOPE(131.13, 134.73, 8.1, 2.94)",
   "dct_temporal_sm": [
     "2020"
   ],
@@ -33,5 +35,5 @@
     2020
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/pdh-palau_population_grid_2020\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://pacificdata.org/data/dataset/b3c609bf-10a7-47ce-9dfd-5eda86770bd4/resource/7de46192-6b1f-4604-95c4-92887d787234/download/plw_rastpop2020rps_100m.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/pdh-palau_population_grid_2020\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://pacificdata.org/data/dataset/b3c609bf-10a7-47ce-9dfd-5eda86770bd4/resource/7de46192-6b1f-4604-95c4-92887d787234/download/plw_rastpop2020rps_100m.tif\",\"label\":\"PLW_PopGrid_2020 (GeoTIFF)\"},{\"url\":\"https://pacificdata.org/data/dataset/b3c609bf-10a7-47ce-9dfd-5eda86770bd4/resource/c93f3767-9aa8-4321-936e-f04dd2130895/download/plw_rastpop2020rps_100m.txt\",\"label\":\"PLW_PopGrid_2020_README (TXT)\"},{\"url\":\"https://pacificdata.org/data/dataset/b3c609bf-10a7-47ce-9dfd-5eda86770bd4/resource/a2c3844e-c1be-41d7-bcce-7b4ce421c3be/download/plw_pg_maps.zip\",\"label\":\"PLW_PopGrid_2020_Atlas (zip)\"},{\"url\":\"https://tiles.arcgis.com/tiles/OAxZXfmfGWlgx9kD/arcgis/rest/services/PLW_PPG_MS/MapServer\",\"label\":\"PLW_PopGrid_2020_Web Mapping Service (Geoservice)\"}]}"
 }

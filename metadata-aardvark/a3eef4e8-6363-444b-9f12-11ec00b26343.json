@@ -1,7 +1,7 @@
 {
   "id": "hdx-a3eef4e8-6363-444b-9f12-11ec00b26343",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-15T19:18:32Z",
+  "gbl_mdModified_dt": "2025-04-15T14:18:32Z",
   "dct_title_s": "Dominica Subnational Population Data Tables with Administrative Boundaries, Based on National Census",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Dominica"
   ],
+  "locn_geometry": "ENVELOPE(-61.49, -61.24, 15.64, 15.2)",
+  "dcat_bbox": "ENVELOPE(-61.49, -61.24, 15.64, 15.2)",
   "dct_temporal_sm": [
     "2021"
   ],
@@ -37,5 +39,5 @@
     2021
   ],
   "dct_format_s": "Geodatabase",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/dominica-subnational-boundaries-and-tabular-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/a3eef4e8-6363-444b-9f12-11ec00b26343/resource/a0cf7e46-d25e-4f21-9eab-0937dc7110c8/download/dominica.gdb.zip\",\"label\":\"Geodatabase\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/dominica-subnational-boundaries-and-tabular-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/a3eef4e8-6363-444b-9f12-11ec00b26343/resource/a0cf7e46-d25e-4f21-9eab-0937dc7110c8/download/dominica.gdb.zip\",\"label\":\"Dominica.gdb.zip (Geodatabase)\"},{\"url\":\"https://data.humdata.org/dataset/a3eef4e8-6363-444b-9f12-11ec00b26343/resource/fce8aae5-2379-4c14-b8b1-c3a9548239dc/download/dominica_uscb_202106.xlsx\",\"label\":\"Dominica_uscb_202106.xlsx (XLSX)\"}]}"
 }

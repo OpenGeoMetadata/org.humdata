@@ -1,7 +1,7 @@
 {
   "id": "hdx-4b96001b-845a-4739-89a2-51225b762d2e",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-01-09T20:24:45Z",
+  "gbl_mdModified_dt": "2025-01-09T14:24:45Z",
   "dct_title_s": "Cyclone Chido: Building Damage Assessment in Passamanty, Mayotte",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Mayotte"
   ],
+  "locn_geometry": "ENVELOPE(45.04, 45.3, -12.64, -12.99)",
+  "dcat_bbox": "ENVELOPE(45.04, 45.3, -12.64, -12.99)",
   "dct_temporal_sm": [
     "2024"
   ],
@@ -39,5 +41,5 @@
     2024
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/building-damage-assessment-in-passamanty-mayotte-after-cyclone-chido\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/4b96001b-845a-4739-89a2-51225b762d2e/resource/1a2d0251-bb73-4191-bdfc-c1bc9145ef45/download/mayotte_0_extent.gpkg\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/building-damage-assessment-in-passamanty-mayotte-after-cyclone-chido\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/4b96001b-845a-4739-89a2-51225b762d2e/resource/1a2d0251-bb73-4191-bdfc-c1bc9145ef45/download/mayotte_0_extent.gpkg\",\"label\":\"mayotte_0_extent.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/4b96001b-845a-4739-89a2-51225b762d2e/resource/8950a27f-5f1a-4415-a9b5-861feb7e9cdb/download/mayotte_0_outputs.gpkg\",\"label\":\"mayotte_0_outputs.gpkg (Geopackage)\"}]}"
 }

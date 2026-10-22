@@ -1,7 +1,7 @@
 {
   "id": "hdx-7b473de8-71e8-4960-89a0-fe3d360cd3f2",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-06-27T15:02:58Z",
+  "gbl_mdModified_dt": "2025-06-27T10:02:58Z",
   "dct_title_s": "Turks and Caicos Islands - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,8 +28,8 @@
   "dct_spatial_sm": [
     "Turks and Caicos Islands"
   ],
-  "locn_geometry": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
-  "dcat_bbox": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
+  "locn_geometry": "ENVELOPE(-72.49, -71.12, 21.96, 21.29)",
+  "dcat_bbox": "ENVELOPE(-72.49, -71.12, 21.96, 21.29)",
   "dct_temporal_sm": [
     "2017"
   ],
@@ -37,5 +37,5 @@
     2017
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-tca\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/7b473de8-71e8-4960-89a0-fe3d360cd3f2/resource/97324089-ba12-400b-9717-f3871423f8ef/download/tca_admbnda_gadm_shp.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-tca\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/7b473de8-71e8-4960-89a0-fe3d360cd3f2/resource/97324089-ba12-400b-9717-f3871423f8ef/download/tca_admbnda_gadm_shp.zip\",\"label\":\"tca_admbnda_gadm_SHP.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/7b473de8-71e8-4960-89a0-fe3d360cd3f2/resource/3aa32ef2-eb7d-4b88-b263-3deb71f0e854/download/tca_admbnda_gadm_emf.zip\",\"label\":\"tca_admbnda_gadm_EMF.zip (EMF)\"},{\"url\":\"https://data.humdata.org/dataset/7b473de8-71e8-4960-89a0-fe3d360cd3f2/resource/ffa30dab-945c-47c2-b105-3c9faf09041d/download/tca_gazetteer.xlsx\",\"label\":\"tca_gazetteer.xlsx (XLSX)\"}]}"
 }

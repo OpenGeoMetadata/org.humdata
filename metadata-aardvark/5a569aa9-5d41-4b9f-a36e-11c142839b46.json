@@ -1,7 +1,7 @@
 {
   "id": "hdx-5a569aa9-5d41-4b9f-a36e-11c142839b46",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-03T15:29:59Z",
+  "gbl_mdModified_dt": "2026-03-03T09:29:59Z",
   "dct_title_s": "Singapore: Planet Road Surface, Width, and Passability Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -52,6 +52,8 @@
   "dct_spatial_sm": [
     "Singapore"
   ],
+  "locn_geometry": "ENVELOPE(103.64, 104.01, 1.45, 1.26)",
+  "dcat_bbox": "ENVELOPE(103.64, 104.01, 1.45, 1.26)",
   "dct_temporal_sm": [
     "2020-2024"
   ],
@@ -63,5 +65,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/singapore-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_SG_planet_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_SG_planet_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/singapore-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_SG_planet_roadsurface_lines.gpkg\",\"label\":\"Singapore GPKG heigit_SG_planet_roadsurface_lines.gpkg (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_SG_planet_roadsurface_lines.geojson\",\"label\":\"Singapore GeoJSON heigit_SG_planet_roadsurface_lines.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_SG_planet_roadsurface_lines.geojson\"}"
 }

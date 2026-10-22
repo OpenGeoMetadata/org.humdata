@@ -1,7 +1,7 @@
 {
   "id": "hdx-3c762ad4-7fc4-4065-b790-a21cff51a4fe",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:53:39Z",
+  "gbl_mdModified_dt": "2026-05-07T07:53:39Z",
   "dct_title_s": "Hong Kong: Administrative Division with Aggregated Population",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "China, Hong Kong Special Administrative Region"
   ],
+  "locn_geometry": "ENVELOPE(113.83, 114.41, 22.57, 22.17)",
+  "dcat_bbox": "ENVELOPE(113.83, 114.41, 22.57, 22.17)",
   "dct_temporal_sm": [
     "2022"
   ],
@@ -37,5 +39,5 @@
     2022
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-hong-kong\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_HK_20220407.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-hong-kong\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_HK_20220407.gpkg.gz\",\"label\":\"kontur_boundaries_HK_20220407.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_boundaries_HK_20230628.gpkg.gz\",\"label\":\"kontur_boundaries_HK_20230628.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_topology_boundaries_HK_20230628.gpkg.gz\",\"label\":\"kontur_topology_boundaries_HK_20230628.gpkg (Geopackage)\"}]}"
 }

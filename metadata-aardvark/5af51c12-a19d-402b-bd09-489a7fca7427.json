@@ -1,7 +1,7 @@
 {
   "id": "hdx-5af51c12-a19d-402b-bd09-489a7fca7427",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:36:21Z",
+  "gbl_mdModified_dt": "2026-05-07T07:36:21Z",
   "dct_title_s": "San Marino: Population Density for 400m H3 Hexagons",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "San Marino"
   ],
+  "locn_geometry": "ENVELOPE(12.38, 12.5, 43.99, 43.89)",
+  "dcat_bbox": "ENVELOPE(12.38, 12.5, 43.99, 43.89)",
   "dct_temporal_sm": [
     "2023"
   ],
@@ -37,5 +39,5 @@
     2023
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-san-marino\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_SM_20220630.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-san-marino\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_SM_20220630.gpkg.gz\",\"label\":\"kontur_population_SM_20220630.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_SM_20231101.gpkg.gz\",\"label\":\"kontur_population_SM_20231101.gpkg (Geopackage)\"}]}"
 }

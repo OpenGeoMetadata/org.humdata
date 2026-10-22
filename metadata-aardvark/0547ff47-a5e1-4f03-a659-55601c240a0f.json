@@ -1,7 +1,7 @@
 {
   "id": "hdx-0547ff47-a5e1-4f03-a659-55601c240a0f",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-06T14:10:34Z",
+  "gbl_mdModified_dt": "2026-06-06T09:10:34Z",
   "dct_title_s": "Taiwan (Province of China): Road Surface Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -50,6 +50,8 @@
   "dct_spatial_sm": [
     "Taiwan (Province of China)"
   ],
+  "locn_geometry": "ENVELOPE(120.11, 121.95, 25.3, 21.97)",
+  "dcat_bbox": "ENVELOPE(120.11, 121.95, 25.3, 21.97)",
   "dct_temporal_sm": [
     "2024"
   ],
@@ -57,5 +59,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/taiwan-province-of-china-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_twn_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_twn_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/taiwan-province-of-china-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_twn_roadsurface_lines.geojson\",\"label\":\"Taiwan (province of china) GeoJSON Resource (GeoJSON)\"},{\"url\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_twn_roadsurface_lines.gpkg\",\"label\":\"Taiwan (province of china) GeoPackage Resource (Geopackage)\"}],\"http://geojson.org/geojson-spec.html\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_twn_roadsurface_lines.geojson\"}"
 }

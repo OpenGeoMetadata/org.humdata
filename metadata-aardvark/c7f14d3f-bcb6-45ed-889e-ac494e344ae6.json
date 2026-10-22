@@ -1,7 +1,7 @@
 {
   "id": "hdx-c7f14d3f-bcb6-45ed-889e-ac494e344ae6",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-08-27T00:34:27Z",
+  "gbl_mdModified_dt": "2025-08-26T19:34:27Z",
   "dct_title_s": "Maldives - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Maldives"
   ],
+  "locn_geometry": "ENVELOPE(72.68, 73.76, 7.11, -0.69)",
+  "dcat_bbox": "ENVELOPE(72.68, 73.76, 7.11, -0.69)",
   "dct_temporal_sm": [
     "2017-2021"
   ],
@@ -41,5 +43,5 @@
     2021
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/geoboundaries-admin-boundaries-for-maldives\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MDV/ADM0/geoBoundaries-MDV-ADM0_simplified.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MDV/ADM0/geoBoundaries-MDV-ADM0_simplified.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/geoboundaries-admin-boundaries-for-maldives\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MDV/ADM0/geoBoundaries-MDV-ADM0_simplified.geojson\",\"label\":\"geoBoundaries-MDV-ADM0_simplified.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MDV/ADM0/geoBoundaries-MDV-ADM0.geojson\",\"label\":\"geoBoundaries-MDV-ADM0.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MDV/ADM0/geoBoundaries-MDV-ADM0.topojson\",\"label\":\"geoBoundaries-MDV-ADM0.topojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MDV/ADM0/geoBoundaries-MDV-ADM0-all.zip\",\"label\":\"geoBoundaries-MDV-ADM0-all.zip (SHP)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MDV/ADM1/geoBoundaries-MDV-ADM1_simplified.geojson\",\"label\":\"geoBoundaries-MDV-ADM1_simplified.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MDV/ADM1/geoBoundaries-MDV-ADM1.geojson\",\"label\":\"geoBoundaries-MDV-ADM1.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MDV/ADM1/geoBoundaries-MDV-ADM1.topojson\",\"label\":\"geoBoundaries-MDV-ADM1.topojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MDV/ADM1/geoBoundaries-MDV-ADM1-all.zip\",\"label\":\"geoBoundaries-MDV-ADM1-all.zip (SHP)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MDV/ADM2/geoBoundaries-MDV-ADM2_simplified.geojson\",\"label\":\"geoBoundaries-MDV-ADM2_simplified.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MDV/ADM2/geoBoundaries-MDV-ADM2.geojson\",\"label\":\"geoBoundaries-MDV-ADM2.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MDV/ADM2/geoBoundaries-MDV-ADM2.topojson\",\"label\":\"geoBoundaries-MDV-ADM2.topojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MDV/ADM2/geoBoundaries-MDV-ADM2-all.zip\",\"label\":\"geoBoundaries-MDV-ADM2-all.zip (SHP)\"}],\"http://geojson.org/geojson-spec.html\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MDV/ADM0/geoBoundaries-MDV-ADM0_simplified.geojson\"}"
 }

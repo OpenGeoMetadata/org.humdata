@@ -1,7 +1,7 @@
 {
   "id": "hdx-dcd8913a-4e5a-4678-8c91-cb4b7089f68c",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-02T17:44:24Z",
+  "gbl_mdModified_dt": "2026-03-02T11:44:24Z",
   "dct_title_s": "Sao Tome and Principe: Planet Road Surface, Width, and Passability Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -52,6 +52,8 @@
   "dct_spatial_sm": [
     "Sao Tome and Principe"
   ],
+  "locn_geometry": "ENVELOPE(6.46, 7.47, 1.7, 0.02)",
+  "dcat_bbox": "ENVELOPE(6.46, 7.47, 1.7, 0.02)",
   "dct_temporal_sm": [
     "2020-2024"
   ],
@@ -63,5 +65,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/sao-tome-and-principe-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_ST_planet_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_ST_planet_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/sao-tome-and-principe-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_ST_planet_roadsurface_lines.geojson\",\"label\":\"Sao tome and principe GeoJSON heigit_ST_planet_roadsurface_lines.geojson (GeoJSON)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_ST_planet_roadsurface_lines.gpkg\",\"label\":\"Sao tome and principe GPKG heigit_ST_planet_roadsurface_lines.gpkg (Geopackage)\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_ST_planet_roadsurface_lines.geojson\"}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-52bafbf2-18e4-4988-b5c9-824802b7749a",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-02T17:33:31Z",
+  "gbl_mdModified_dt": "2026-03-02T11:33:31Z",
   "dct_title_s": "Gibraltar: Planet Road Surface, Width, and Passability Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -52,6 +52,8 @@
   "dct_spatial_sm": [
     "Gibraltar"
   ],
+  "locn_geometry": "ENVELOPE(-5.36, -5.33, 36.15, 36.11)",
+  "dcat_bbox": "ENVELOPE(-5.36, -5.33, 36.15, 36.11)",
   "dct_temporal_sm": [
     "2020-2024"
   ],
@@ -63,5 +65,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/gibraltar-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_GI_planet_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_GI_planet_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/gibraltar-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_GI_planet_roadsurface_lines.geojson\",\"label\":\"Gibraltar GeoJSON heigit_GI_planet_roadsurface_lines.geojson (GeoJSON)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_GI_planet_roadsurface_lines.gpkg\",\"label\":\"Gibraltar GPKG heigit_GI_planet_roadsurface_lines.gpkg (Geopackage)\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_GI_planet_roadsurface_lines.geojson\"}"
 }

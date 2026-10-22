@@ -1,7 +1,7 @@
 {
   "id": "hdx-156a0966-1e09-455c-9e4f-e68676aa2fbf",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-06-27T15:04:13Z",
+  "gbl_mdModified_dt": "2025-06-27T10:04:13Z",
   "dct_title_s": "Kiribati - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Kiribati"
   ],
+  "locn_geometry": "ENVELOPE(-174.55, 176.86, 4.73, -11.47)",
+  "dcat_bbox": "ENVELOPE(-174.55, 176.86, 4.73, -11.47)",
   "dct_temporal_sm": [
     "2020-2024"
   ],
@@ -39,5 +41,5 @@
     2024
   ],
   "dct_format_s": "XLSX",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-kir\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/156a0966-1e09-455c-9e4f-e68676aa2fbf/resource/135e3bac-64ed-405c-b360-3f80de9d2287/download/kir_admgz_2020.xlsx\",\"label\":\"XLSX\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-kir\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/156a0966-1e09-455c-9e4f-e68676aa2fbf/resource/135e3bac-64ed-405c-b360-3f80de9d2287/download/kir_admgz_2020.xlsx\",\"label\":\"Kiribati administrative level 0-2 gazetteer (XLSX)\"},{\"url\":\"https://data.humdata.org/dataset/156a0966-1e09-455c-9e4f-e68676aa2fbf/resource/30c02bf1-d705-46ad-b828-b4b9bbed46e6/download/kir_adm_2020_shp.zip\",\"label\":\"kir_adm_2020_SHP.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/156a0966-1e09-455c-9e4f-e68676aa2fbf/resource/e6759485-f662-4261-8e11-8184472a6ec8/download/kir_adm_2020_gdb.gdb.zip\",\"label\":\"kir_adm_2020_GDB.gdb.zip (Geodatabase)\"}]}"
 }

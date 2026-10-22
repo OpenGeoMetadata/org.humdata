@@ -1,7 +1,7 @@
 {
   "id": "hdx-ac52fc19-abb0-4af1-b1fa-578b115b3195",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:52:12Z",
+  "gbl_mdModified_dt": "2026-05-07T07:52:12Z",
   "dct_title_s": "American Samoa: Administrative Division with Aggregated Population",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "American Samoa"
   ],
+  "locn_geometry": "ENVELOPE(-171.09, -168.16, -11.05, -14.54)",
+  "dcat_bbox": "ENVELOPE(-171.09, -168.16, -11.05, -14.54)",
   "dct_temporal_sm": [
     "2022"
   ],
@@ -37,5 +39,5 @@
     2022
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-american-samoa\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_AS_20220407.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-american-samoa\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_AS_20220407.gpkg.gz\",\"label\":\"kontur_boundaries_AS_20220407.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_boundaries_AS_20230628.gpkg.gz\",\"label\":\"kontur_boundaries_AS_20230628.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_topology_boundaries_AS_20230628.gpkg.gz\",\"label\":\"kontur_topology_boundaries_AS_20230628.gpkg (Geopackage)\"}]}"
 }

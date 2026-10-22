@@ -1,7 +1,7 @@
 {
   "id": "hdx-ac419cd4-2f22-4997-bd7d-03993ffa087b",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:10:30Z",
+  "gbl_mdModified_dt": "2025-10-01T14:10:30Z",
   "dct_title_s": "Holy See: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Holy See"
   ],
+  "locn_geometry": "ENVELOPE(12.45, 12.46, 41.91, 41.9)",
+  "dcat_bbox": "ENVELOPE(12.45, 12.46, 41.91, 41.9)",
   "dct_temporal_sm": [
     "2015-2023"
   ],
@@ -47,5 +49,5 @@
     2023
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-vat\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-va-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-vat\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-va-latest.zip\",\"label\":\"whosonfirst-data-admin-va-latest.zip (SHP)\"}]}"
 }

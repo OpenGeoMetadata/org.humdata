@@ -1,7 +1,7 @@
 {
   "id": "hdx-3d29a0da-48bf-4580-857c-0ea433d4da37",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-06T14:32:32Z",
+  "gbl_mdModified_dt": "2026-06-06T09:32:32Z",
   "dct_title_s": "British Virgin Islands: Road Surface Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -50,6 +50,8 @@
   "dct_spatial_sm": [
     "British Virgin Islands"
   ],
+  "locn_geometry": "ENVELOPE(-64.78, -64.27, 18.75, 18.33)",
+  "dcat_bbox": "ENVELOPE(-64.78, -64.27, 18.75, 18.33)",
   "dct_temporal_sm": [
     "2024"
   ],
@@ -57,5 +59,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/british-virgin-islands-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_vgb_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_vgb_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/british-virgin-islands-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_vgb_roadsurface_lines.geojson\",\"label\":\"British virgin islands GeoJSON Resource (GeoJSON)\"},{\"url\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_vgb_roadsurface_lines.gpkg\",\"label\":\"British virgin islands GeoPackage Resource (Geopackage)\"}],\"http://geojson.org/geojson-spec.html\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_vgb_roadsurface_lines.geojson\"}"
 }

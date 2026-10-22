@@ -1,7 +1,7 @@
 {
   "id": "hdx-47cf9da4-a845-4e0a-83fe-391468b22536",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-05-23T18:10:26Z",
+  "gbl_mdModified_dt": "2025-05-23T13:10:26Z",
   "dct_title_s": "North Macedonia: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "North Macedonia"
   ],
+  "locn_geometry": "ENVELOPE(20.46, 22.95, 42.32, 40.84)",
+  "dcat_bbox": "ENVELOPE(20.46, 22.95, 42.32, 40.84)",
   "dct_temporal_sm": [
     "1887-2024"
   ],
@@ -172,5 +174,5 @@
     2024
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mkd-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/47cf9da4-a845-4e0a-83fe-391468b22536/resource/b1aa72a9-c8b9-4a50-aeee-b48e38636601/download/ibtracs_all_list_v04r01_lines_mkd.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/47cf9da4-a845-4e0a-83fe-391468b22536/resource/b1aa72a9-c8b9-4a50-aeee-b48e38636601/download/ibtracs_all_list_v04r01_lines_mkd.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mkd-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/47cf9da4-a845-4e0a-83fe-391468b22536/resource/f3908368-2d06-4bca-8914-fa4703b8aa8b/download/ibtracs_all_list_v04r01_mkd.csv\",\"label\":\"ibtracs_ALL_list_v04r01_MKD.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/47cf9da4-a845-4e0a-83fe-391468b22536/resource/b1aa72a9-c8b9-4a50-aeee-b48e38636601/download/ibtracs_all_list_v04r01_lines_mkd.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_MKD.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/47cf9da4-a845-4e0a-83fe-391468b22536/resource/b1aa72a9-c8b9-4a50-aeee-b48e38636601/download/ibtracs_all_list_v04r01_lines_mkd.geojson\"}"
 }

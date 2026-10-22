@@ -1,7 +1,7 @@
 {
   "id": "hdx-6b79f7ab-9e13-48e5-9f58-dc45b4a9222c",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-08T23:37:08Z",
+  "gbl_mdModified_dt": "2025-04-08T18:37:08Z",
   "dct_title_s": "State of Palestine - Gaza Strip Municipal Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "State of Palestine"
   ],
+  "locn_geometry": "ENVELOPE(34.2, 35.58, 32.55, 31.21)",
+  "dcat_bbox": "ENVELOPE(34.2, 35.58, 32.55, 31.21)",
   "dct_temporal_sm": [
     "2019"
   ],
@@ -33,5 +35,5 @@
     2019
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/gaza-stripmunicipal-boundaries\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/6b79f7ab-9e13-48e5-9f58-dc45b4a9222c/resource/f131956a-8cc6-424c-a831-5b8b0d6956b9/download/gazastrip_municipalboundaries.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/gaza-stripmunicipal-boundaries\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/6b79f7ab-9e13-48e5-9f58-dc45b4a9222c/resource/f131956a-8cc6-424c-a831-5b8b0d6956b9/download/gazastrip_municipalboundaries.zip\",\"label\":\"GazaStrip_MunicipalBoundaries.zip (SHP)\"}]}"
 }

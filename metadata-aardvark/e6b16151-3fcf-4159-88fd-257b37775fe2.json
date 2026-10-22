@@ -1,7 +1,7 @@
 {
   "id": "hdx-e6b16151-3fcf-4159-88fd-257b37775fe2",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-06-27T15:02:54Z",
+  "gbl_mdModified_dt": "2025-06-27T10:02:54Z",
   "dct_title_s": "Saint Lucia - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Saint Lucia"
   ],
+  "locn_geometry": "ENVELOPE(-61.08, -60.88, 14.12, 13.71)",
+  "dcat_bbox": "ENVELOPE(-61.08, -60.88, 14.12, 13.71)",
   "dct_temporal_sm": [
     "2019"
   ],
@@ -37,5 +39,5 @@
     2019
   ],
   "dct_format_s": "XLSX",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-lca\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e6b16151-3fcf-4159-88fd-257b37775fe2/resource/aa5be3ce-c33c-4ab0-b837-0da999cd806f/download/lca_adm_gazetteer.xlsx\",\"label\":\"XLSX\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-lca\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e6b16151-3fcf-4159-88fd-257b37775fe2/resource/aa5be3ce-c33c-4ab0-b837-0da999cd806f/download/lca_adm_gazetteer.xlsx\",\"label\":\"lca_adm_gazetteer.xlsx (XLSX)\"},{\"url\":\"https://data.humdata.org/dataset/e6b16151-3fcf-4159-88fd-257b37775fe2/resource/73039d66-2055-4488-a60c-3932936e2bcb/download/lca_admbnda_gov_2019_shp.zip\",\"label\":\"lca_admbnda_gov_2019_SHP.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/e6b16151-3fcf-4159-88fd-257b37775fe2/resource/d17e6d9e-85b4-4e06-a0ec-9beda9824048/download/lca_adm_gov_2019_emf.zip\",\"label\":\"lca_adm_gov_2019_EMF.zip (EMF)\"},{\"url\":\"https://data.humdata.org/dataset/e6b16151-3fcf-4159-88fd-257b37775fe2/resource/af3700a6-fa3c-4f79-815a-68dc81017e3c/download/lca_adm_gov_2019.gdb.zip\",\"label\":\"lca_adm_gov_2019.gdb.zip (Geodatabase)\"}]}"
 }

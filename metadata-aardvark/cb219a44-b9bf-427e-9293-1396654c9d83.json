@@ -1,7 +1,7 @@
 {
   "id": "hdx-cb219a44-b9bf-427e-9293-1396654c9d83",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:07:20Z",
+  "gbl_mdModified_dt": "2025-10-01T14:07:20Z",
   "dct_title_s": "Western Sahara: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Western Sahara"
   ],
+  "locn_geometry": "ENVELOPE(-17.11, -8.68, 27.67, 20.76)",
+  "dcat_bbox": "ENVELOPE(-17.11, -8.68, 27.67, 20.76)",
   "dct_temporal_sm": [
     "2015-2024"
   ],
@@ -48,5 +50,5 @@
     2024
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-esh\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-eh-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-esh\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-eh-latest.zip\",\"label\":\"whosonfirst-data-admin-eh-latest.zip (SHP)\"}]}"
 }

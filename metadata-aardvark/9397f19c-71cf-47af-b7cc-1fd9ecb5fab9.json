@@ -1,7 +1,7 @@
 {
   "id": "hdx-9397f19c-71cf-47af-b7cc-1fd9ecb5fab9",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-05-05T16:09:47Z",
+  "gbl_mdModified_dt": "2025-05-05T11:09:47Z",
   "dct_title_s": "DPS Nord-Kivu (RDC)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
   ],
+  "locn_geometry": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
+  "dcat_bbox": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
   "dct_temporal_sm": [
     "2021"
   ],
@@ -37,5 +39,5 @@
     2021
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/dps-nord-kivu-rdc\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/9397f19c-71cf-47af-b7cc-1fd9ecb5fab9/resource/cc9bbc75-7375-477c-9870-ee6b55413f74/download/osm_nordkivu_as_211201.gpkg\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/dps-nord-kivu-rdc\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/9397f19c-71cf-47af-b7cc-1fd9ecb5fab9/resource/cc9bbc75-7375-477c-9870-ee6b55413f74/download/osm_nordkivu_as_211201.gpkg\",\"label\":\"OSM_NordKivu_AS_211201.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/9397f19c-71cf-47af-b7cc-1fd9ecb5fab9/resource/b7de0264-e242-478c-adcf-82ff6925996d/download/osm_nordkivu_zs_211201.gpkg\",\"label\":\"OSM_NordKivu_ZS_211201.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/9397f19c-71cf-47af-b7cc-1fd9ecb5fab9/resource/00155de2-90ea-4908-9b16-4a334b471b14/download/osm_nordkivu_ts_211201.gpkg\",\"label\":\"OSM_NordKivu_TS_211201.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/9397f19c-71cf-47af-b7cc-1fd9ecb5fab9/resource/a93c1fbe-3fe8-43fc-be6a-d6a6e6819140/download/osm_nordkivu_dps_211201.gpkg\",\"label\":\"OSM_NordKivu_DPS_211201.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/9397f19c-71cf-47af-b7cc-1fd9ecb5fab9/resource/2c96021d-4bef-400d-92f3-07f804b999b2/download/osm_nordkivu_fosa_211201.gpkg\",\"label\":\"OSM_NordKivu_FoSa_211201.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/9397f19c-71cf-47af-b7cc-1fd9ecb5fab9/resource/a7ab9bf0-19e7-4f28-8d98-95b0d37ba05b/download/osm_nordkivu_cac_211201.gpkg\",\"label\":\"OSM_NordKivu_CAC_211201.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/9397f19c-71cf-47af-b7cc-1fd9ecb5fab9/resource/08391b7a-ff72-4792-a3fa-a4310edceb29/download/osm_nordkivu_educ_211201.gpkg\",\"label\":\"OSM_NordKivu_Educ_211201.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/9397f19c-71cf-47af-b7cc-1fd9ecb5fab9/resource/ce773d00-7ddb-4e40-ba01-f74928a444ff/download/osm_nordkivu_autrespoints_211201.gpkg\",\"label\":\"OSM_NordKivu_AutresPoints_211201.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/9397f19c-71cf-47af-b7cc-1fd9ecb5fab9/resource/5cc50bcf-32bb-41c7-ba4b-e9128faa589c/download/osm_nordkivu_svacc_211201.gpkg\",\"label\":\"OSM_NordKivu_Svacc_211201.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/9397f19c-71cf-47af-b7cc-1fd9ecb5fab9/resource/16de8a95-ff9f-42e2-b7a7-f65539bcfd4f/download/osm_nk_lacs_majeurs_211205.zip\",\"label\":\"OSM_NK_Lacs_majeurs_211205.zip (SHP)\"}]}"
 }

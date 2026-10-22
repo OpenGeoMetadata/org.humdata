@@ -1,7 +1,7 @@
 {
   "id": "hdx-f77bbcae-47ab-433b-b7f8-68669b965961",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:44:48Z",
+  "gbl_mdModified_dt": "2026-05-07T07:44:48Z",
   "dct_title_s": "Aruba: Administrative Division with Aggregated Population",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Aruba"
   ],
+  "locn_geometry": "ENVELOPE(-70.07, -69.87, 12.64, 12.41)",
+  "dcat_bbox": "ENVELOPE(-70.07, -69.87, 12.64, 12.41)",
   "dct_temporal_sm": [
     "2022"
   ],
@@ -37,5 +39,5 @@
     2022
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-aruba\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_AW_20220407.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-aruba\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_AW_20220407.gpkg.gz\",\"label\":\"kontur_boundaries_AW_20220407.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_boundaries_AW_20230628.gpkg.gz\",\"label\":\"kontur_boundaries_AW_20230628.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_topology_boundaries_AW_20230628.gpkg.gz\",\"label\":\"kontur_topology_boundaries_AW_20230628.gpkg (Geopackage)\"}]}"
 }

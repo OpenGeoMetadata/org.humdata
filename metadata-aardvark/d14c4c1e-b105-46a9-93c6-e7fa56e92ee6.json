@@ -1,7 +1,7 @@
 {
   "id": "hdx-d14c4c1e-b105-46a9-93c6-e7fa56e92ee6",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-11-19T16:35:31Z",
+  "gbl_mdModified_dt": "2025-11-19T10:35:31Z",
   "dct_title_s": "Malta: High Resolution Population Density Maps + Demographic Estimates",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -36,6 +36,8 @@
   "dct_spatial_sm": [
     "Malta"
   ],
+  "locn_geometry": "ENVELOPE(14.18, 14.57, 36.08, 35.8)",
+  "dcat_bbox": "ENVELOPE(14.18, 14.57, 36.08, 35.8)",
   "dct_temporal_sm": [
     "2019-2020"
   ],
@@ -44,5 +46,5 @@
     2020
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/malta-high-resolution-population-density-maps-demographic-estimates\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/d14c4c1e-b105-46a9-93c6-e7fa56e92ee6/resource/7c9f62cc-6891-4c53-b030-99b607576f2f/download/population_mlt_2019-07-01_geotiff.zip\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/malta-high-resolution-population-density-maps-demographic-estimates\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/d14c4c1e-b105-46a9-93c6-e7fa56e92ee6/resource/896a452e-7c12-48b2-93f0-e8b93bf8f66d/download/population_mlt_2019-07-01.csv.zip\",\"label\":\"population_mlt.csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/d14c4c1e-b105-46a9-93c6-e7fa56e92ee6/resource/7c9f62cc-6891-4c53-b030-99b607576f2f/download/population_mlt_2019-07-01_geotiff.zip\",\"label\":\"population_mlt.geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/d14c4c1e-b105-46a9-93c6-e7fa56e92ee6/resource/58e5550f-c278-4b8f-ae71-1f1f39fc0cc6/download/mlt_children_under_five_geotiff.zip\",\"label\":\"MLT_children_under_five_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/d14c4c1e-b105-46a9-93c6-e7fa56e92ee6/resource/b2dbabf1-08c0-4f8b-8486-ab7cb9286527/download/mlt_elderly_60_plus_geotiff.zip\",\"label\":\"MLT_elderly_60_plus_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/d14c4c1e-b105-46a9-93c6-e7fa56e92ee6/resource/1875d22f-4ff6-4e17-95a2-54c7ce832730/download/mlt_men_geotiff.zip\",\"label\":\"MLT_men_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/d14c4c1e-b105-46a9-93c6-e7fa56e92ee6/resource/0dca8943-6d23-409f-95ee-1e3a84963bb1/download/mlt_women_geotiff.zip\",\"label\":\"MLT_women_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/d14c4c1e-b105-46a9-93c6-e7fa56e92ee6/resource/811bc951-9c9d-4b1a-8686-eb1739cac2e5/download/mlt_women_of_reproductive_age_15_49_geotiff.zip\",\"label\":\"MLT_women_of_reproductive_age_15_49_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/d14c4c1e-b105-46a9-93c6-e7fa56e92ee6/resource/b5d8e34d-782b-4313-b278-e244fb0e78d1/download/mlt_youth_15_24_geotiff.zip\",\"label\":\"MLT_youth_15_24_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/d14c4c1e-b105-46a9-93c6-e7fa56e92ee6/resource/a7210531-bf17-4fdb-8e29-1e89b44bebb9/download/mlt_children_under_five_2019-08-03_csv.zip\",\"label\":\"MLT_children_under_five.csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/d14c4c1e-b105-46a9-93c6-e7fa56e92ee6/resource/88cdced8-2f03-40cb-a489-a01218a03b26/download/mlt_elderly_60_plus_2019-08-03_csv.zip\",\"label\":\"MLT_elderly_60_plus.csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/d14c4c1e-b105-46a9-93c6-e7fa56e92ee6/resource/65f31e05-8ca6-475f-afa2-c781c38a0bc3/download/mlt_men_2019-08-03_csv.zip\",\"label\":\"MLT_men.csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/d14c4c1e-b105-46a9-93c6-e7fa56e92ee6/resource/c27ba2db-99d6-450b-be5e-9835cf2aef2b/download/mlt_women_2019-08-03_csv.zip\",\"label\":\"MLT_women.csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/d14c4c1e-b105-46a9-93c6-e7fa56e92ee6/resource/13d35de5-43af-4cfc-9179-20e814d55aed/download/mlt_women_of_reproductive_age_15_49_2019-08-03_csv.zip\",\"label\":\"MLT_women_of_reproductive_age_15_49.csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/d14c4c1e-b105-46a9-93c6-e7fa56e92ee6/resource/f63a713f-3a9b-43c7-b7f4-13dae4990b5f/download/mlt_youth_15_24_2019-08-03_csv.zip\",\"label\":\"MLT_youth_15_24.csv.zip (CSV)\"}]}"
 }

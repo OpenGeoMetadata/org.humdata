@@ -1,7 +1,7 @@
 {
   "id": "hdx-91d39c17-2ec3-4438-9e6d-379ed08b8b02",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:10:05Z",
+  "gbl_mdModified_dt": "2025-10-01T14:10:05Z",
   "dct_title_s": "Sint Maarten (Dutch part): WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Sint Maarten"
   ],
+  "locn_geometry": "ENVELOPE(-63.12, -63.01, 18.07, 18.01)",
+  "dcat_bbox": "ENVELOPE(-63.12, -63.01, 18.07, 18.01)",
   "dct_temporal_sm": [
     "2015-2024"
   ],
@@ -48,5 +50,5 @@
     2024
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-sxm\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-sx-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-sxm\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-sx-latest.zip\",\"label\":\"whosonfirst-data-admin-sx-latest.zip (SHP)\"}]}"
 }

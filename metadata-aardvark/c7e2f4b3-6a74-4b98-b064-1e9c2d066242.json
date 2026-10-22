@@ -1,7 +1,7 @@
 {
   "id": "hdx-c7e2f4b3-6a74-4b98-b064-1e9c2d066242",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-02-26T02:11:37Z",
+  "gbl_mdModified_dt": "2025-02-25T20:11:37Z",
   "dct_title_s": "State of Palestine - Palestinian Communities in the West Bank and the Gaza Strip",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "State of Palestine"
   ],
+  "locn_geometry": "ENVELOPE(34.2, 35.58, 32.55, 31.21)",
+  "dcat_bbox": "ENVELOPE(34.2, 35.58, 32.55, 31.21)",
   "dct_temporal_sm": [
     "2019"
   ],
@@ -39,5 +41,5 @@
     2019
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/state-of-palestine-admin-level-2-boundaries\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/c7e2f4b3-6a74-4b98-b064-1e9c2d066242/resource/1936b09f-74a8-4d4d-b92b-2ee75abb21f1/download/palestiniancommunities_wb_gs.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/state-of-palestine-admin-level-2-boundaries\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/c7e2f4b3-6a74-4b98-b064-1e9c2d066242/resource/1936b09f-74a8-4d4d-b92b-2ee75abb21f1/download/palestiniancommunities_wb_gs.zip\",\"label\":\"PalestinianCommunities_WB_GS.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/c7e2f4b3-6a74-4b98-b064-1e9c2d066242/resource/de949f82-523f-40b4-a957-2ea8951d495e/download/palestiniancommunities_wb_gs_excel.xlsx\",\"label\":\"PalestinianCommunities_WB_GS_Excel.xlsx (XLSX)\"}]}"
 }

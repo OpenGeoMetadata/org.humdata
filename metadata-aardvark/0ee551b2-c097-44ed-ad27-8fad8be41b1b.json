@@ -1,7 +1,7 @@
 {
   "id": "hdx-0ee551b2-c097-44ed-ad27-8fad8be41b1b",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-01-09T22:35:56Z",
+  "gbl_mdModified_dt": "2025-01-09T16:35:56Z",
   "dct_title_s": "Christmas Island: Copernicus Global Human Settlement Layer (GHSL)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Christmas Island"
   ],
+  "locn_geometry": "ENVELOPE(105.58, 105.72, -10.43, -10.57)",
+  "dcat_bbox": "ENVELOPE(105.58, 105.72, -10.43, -10.57)",
   "dct_temporal_sm": [
     "2025"
   ],
@@ -37,5 +39,5 @@
     2025
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cxr-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/0ee551b2-c097-44ed-ad27-8fad8be41b1b/resource/d5167430-f441-4e3a-a0ad-f7255668b2a7/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_cxr.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cxr-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/0ee551b2-c097-44ed-ad27-8fad8be41b1b/resource/d5167430-f441-4e3a-a0ad-f7255668b2a7/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_cxr.tif\",\"label\":\"GHS Built-up Surface (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/0ee551b2-c097-44ed-ad27-8fad8be41b1b/resource/09df83f0-471a-4666-97b5-7eaabb97c5f9/download/ghs_pop_e2025_r2023a_54009_100_v1_0_cxr.tif\",\"label\":\"GHS Population Grid (GeoTIFF)\"}]}"
 }

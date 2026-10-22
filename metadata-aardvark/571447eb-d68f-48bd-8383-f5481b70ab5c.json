@@ -1,7 +1,7 @@
 {
   "id": "hdx-571447eb-d68f-48bd-8383-f5481b70ab5c",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-15T19:18:28Z",
+  "gbl_mdModified_dt": "2025-04-15T14:18:28Z",
   "dct_title_s": "Saint Vincent and the Grenadines Subnational Population and Housing Data Tables with Administrative Boundaries, Based on National Census",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Saint Vincent and the Grenadines"
   ],
+  "locn_geometry": "ENVELOPE(-61.46, -61.12, 13.39, 12.58)",
+  "dcat_bbox": "ENVELOPE(-61.46, -61.12, 13.39, 12.58)",
   "dct_temporal_sm": [
     "2021"
   ],
@@ -37,5 +39,5 @@
     2021
   ],
   "dct_format_s": "Geodatabase",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/saint-vincent-and-the-grenadines-subnational-boundaries-and-tabular-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/571447eb-d68f-48bd-8383-f5481b70ab5c/resource/3d70b0c6-7e6e-484f-a96c-954caf0067b0/download/saint_vincent_and_the_grenadines.gdb.zip\",\"label\":\"Geodatabase\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/saint-vincent-and-the-grenadines-subnational-boundaries-and-tabular-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/571447eb-d68f-48bd-8383-f5481b70ab5c/resource/3d70b0c6-7e6e-484f-a96c-954caf0067b0/download/saint_vincent_and_the_grenadines.gdb.zip\",\"label\":\"Saint_Vincent_and_The_Grenadines.gdb.zip (Geodatabase)\"},{\"url\":\"https://data.humdata.org/dataset/571447eb-d68f-48bd-8383-f5481b70ab5c/resource/cd246881-5f19-4be4-8bc5-1ef7a17b4247/download/saint_vincent_and_the_grenadines_uscb_202109.xlsx\",\"label\":\"Saint_Vincent_and_The_Grenadines_uscb_202109.xlsx (XLSX)\"}]}"
 }

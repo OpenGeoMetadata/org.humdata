@@ -1,7 +1,7 @@
 {
   "id": "hdx-caef5a31-b0b8-4785-8038-d7da7e1e46d2",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-11-19T16:30:52Z",
+  "gbl_mdModified_dt": "2025-11-19T10:30:52Z",
   "dct_title_s": "Comoros: High Resolution Population Density Maps + Demographic Estimates",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -38,6 +38,8 @@
   "dct_spatial_sm": [
     "Comoros"
   ],
+  "locn_geometry": "ENVELOPE(43.21, 44.53, -11.36, -12.39)",
+  "dcat_bbox": "ENVELOPE(43.21, 44.53, -11.36, -12.39)",
   "dct_temporal_sm": [
     "2019-2020"
   ],
@@ -46,5 +48,5 @@
     2020
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/highresolutionpopulationdensitymaps-com\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/caef5a31-b0b8-4785-8038-d7da7e1e46d2/resource/6bcc38e2-822e-4786-b60f-005622430887/download/population_com_2018-10-01.zip\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/highresolutionpopulationdensitymaps-com\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/caef5a31-b0b8-4785-8038-d7da7e1e46d2/resource/6bcc38e2-822e-4786-b60f-005622430887/download/population_com_2018-10-01.zip\",\"label\":\"population_com.geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/caef5a31-b0b8-4785-8038-d7da7e1e46d2/resource/c0d07938-5ddf-4ea5-9899-9f2b1c63c930/download/population_com_2019-07-01.csv.zip\",\"label\":\"population_com.csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/caef5a31-b0b8-4785-8038-d7da7e1e46d2/resource/c5cb1add-68d5-4070-abb9-011a56ee593e/download/com_children_under_five_csv.zip\",\"label\":\"COM_children_under_five_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/caef5a31-b0b8-4785-8038-d7da7e1e46d2/resource/76512c5a-f024-4cdc-9317-a237b9fa5131/download/com_children_under_five_geotiff.zip\",\"label\":\"COM_children_under_five_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/caef5a31-b0b8-4785-8038-d7da7e1e46d2/resource/42b0cd35-bfc8-4c30-a3dc-b8ce8477a70b/download/com_elderly_60_plus_csv.zip\",\"label\":\"COM_elderly_60_plus_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/caef5a31-b0b8-4785-8038-d7da7e1e46d2/resource/ea5f8355-9444-4506-8d7c-b94e02dfb12d/download/com_elderly_60_plus_geotiff.zip\",\"label\":\"COM_elderly_60_plus_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/caef5a31-b0b8-4785-8038-d7da7e1e46d2/resource/86045e8a-b6d7-4675-b816-3b0c05087015/download/com_men_csv.zip\",\"label\":\"COM_men_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/caef5a31-b0b8-4785-8038-d7da7e1e46d2/resource/2389b4f2-f746-466c-93a8-c0f746f9461f/download/com_men_geotiff.zip\",\"label\":\"COM_men_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/caef5a31-b0b8-4785-8038-d7da7e1e46d2/resource/23477e27-1e2a-433d-b85b-5534e282b153/download/com_women_csv.zip\",\"label\":\"COM_women_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/caef5a31-b0b8-4785-8038-d7da7e1e46d2/resource/cc1c0122-6518-41a2-a3cc-0e1651985ad9/download/com_women_geotiff.zip\",\"label\":\"COM_women_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/caef5a31-b0b8-4785-8038-d7da7e1e46d2/resource/1eab9456-d6db-41e4-b8ea-8dffc7ae8d34/download/com_women_of_reproductive_age_15_49_csv.zip\",\"label\":\"COM_women_of_reproductive_age_15_49_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/caef5a31-b0b8-4785-8038-d7da7e1e46d2/resource/b7ebc7d0-f50f-4b10-a88b-e1b43604150e/download/com_women_of_reproductive_age_15_49_geotiff.zip\",\"label\":\"COM_women_of_reproductive_age_15_49_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/caef5a31-b0b8-4785-8038-d7da7e1e46d2/resource/46da7478-c1f4-4266-acd5-c32785472ea6/download/com_youth_15_24_csv.zip\",\"label\":\"COM_youth_15_24_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/caef5a31-b0b8-4785-8038-d7da7e1e46d2/resource/bd44c667-6630-4f1a-b759-a6b826fbf434/download/com_youth_15_24_geotiff.zip\",\"label\":\"COM_youth_15_24_geotiff.zip (GeoTIFF)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-caa4db35-d6f3-433a-a4c4-9f74d7639acc",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:53:27Z",
+  "gbl_mdModified_dt": "2026-05-07T07:53:27Z",
   "dct_title_s": "St. Pierre And Miquelon: Administrative Division with Aggregated Population",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Saint Pierre and Miquelon"
   ],
+  "locn_geometry": "ENVELOPE(-56.4, -56.14, 47.15, 46.75)",
+  "dcat_bbox": "ENVELOPE(-56.4, -56.14, 47.15, 46.75)",
   "dct_temporal_sm": [
     "2022"
   ],
@@ -37,5 +39,5 @@
     2022
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-st-pierre-and-miquelon\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_PM_20220407.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-st-pierre-and-miquelon\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_PM_20220407.gpkg.gz\",\"label\":\"kontur_boundaries_PM_20220407.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_boundaries_PM_20230628.gpkg.gz\",\"label\":\"kontur_boundaries_PM_20230628.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_topology_boundaries_PM_20230628.gpkg.gz\",\"label\":\"kontur_topology_boundaries_PM_20230628.gpkg (Geopackage)\"}]}"
 }

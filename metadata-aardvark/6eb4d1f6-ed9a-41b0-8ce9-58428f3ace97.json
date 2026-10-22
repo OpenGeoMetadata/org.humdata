@@ -1,7 +1,7 @@
 {
   "id": "hdx-6eb4d1f6-ed9a-41b0-8ce9-58428f3ace97",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:33:40Z",
+  "gbl_mdModified_dt": "2026-05-07T07:33:40Z",
   "dct_title_s": "Tokelau: Population Density for 400m H3 Hexagons",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Tokelau"
   ],
+  "locn_geometry": "ENVELOPE(-172.51, -171.18, -8.54, -9.37)",
+  "dcat_bbox": "ENVELOPE(-172.51, -171.18, -8.54, -9.37)",
   "dct_temporal_sm": [
     "2023"
   ],
@@ -37,5 +39,5 @@
     2023
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-tokelau\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_TK_20220630.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-tokelau\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_TK_20220630.gpkg.gz\",\"label\":\"kontur_population_TK_20220630.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_TK_20231101.gpkg.gz\",\"label\":\"kontur_population_TK_20231101.gpkg (Geopackage)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-17de5da3-031e-49fa-9f83-3ba96d943019",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-09T22:22:42Z",
+  "gbl_mdModified_dt": "2026-03-09T17:22:42Z",
   "dct_title_s": "Sao Tome and Principe Motorised Travel Time (in seconds) to nearest health centre",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Sao Tome and Principe"
   ],
+  "locn_geometry": "ENVELOPE(6.46, 7.47, 1.7, 0.02)",
+  "dcat_bbox": "ENVELOPE(6.46, 7.47, 1.7, 0.02)",
   "dct_temporal_sm": [
     "2024"
   ],
@@ -39,5 +41,5 @@
     2024
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/sao-tome-and-principe-motorised-travel-time-in-seconds-to-nearest-health-centre\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.eidf.ac.uk/eidf158-motorised-travel-time-maps/service_area_STP_motorised.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/sao-tome-and-principe-motorised-travel-time-in-seconds-to-nearest-health-centre\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.eidf.ac.uk/eidf158-motorised-travel-time-maps/service_area_STP_motorised.tif\",\"label\":\"service-area-sao-tome-and-principe-motorised.tif (GeoTIFF)\"}]}"
 }

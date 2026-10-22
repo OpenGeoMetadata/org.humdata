@@ -1,7 +1,7 @@
 {
   "id": "hdx-96076a1b-9aeb-457e-8b54-58f579109ef9",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-01-09T22:56:53Z",
+  "gbl_mdModified_dt": "2025-01-09T16:56:53Z",
   "dct_title_s": "British Indian Ocean Territory: Copernicus Global Human Settlement Layer (GHSL)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "British Indian Ocean Territory"
   ],
+  "locn_geometry": "ENVELOPE(71.26, 72.5, -5.22, -7.44)",
+  "dcat_bbox": "ENVELOPE(71.26, 72.5, -5.22, -7.44)",
   "dct_temporal_sm": [
     "2025"
   ],
@@ -37,5 +39,5 @@
     2025
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/iot-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/96076a1b-9aeb-457e-8b54-58f579109ef9/resource/3e8200a4-6def-450d-bea0-7d3989d8ce0d/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_iot.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/iot-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/96076a1b-9aeb-457e-8b54-58f579109ef9/resource/3e8200a4-6def-450d-bea0-7d3989d8ce0d/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_iot.tif\",\"label\":\"GHS Built-up Surface (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/96076a1b-9aeb-457e-8b54-58f579109ef9/resource/52c4f6ae-e79d-4eed-bacb-cca9932d3c5c/download/ghs_pop_e2025_r2023a_54009_100_v1_0_iot.tif\",\"label\":\"GHS Population Grid (GeoTIFF)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-ab6c1511-6cd5-46b0-b2b5-3d54131b7a71",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-10T20:23:42Z",
+  "gbl_mdModified_dt": "2025-04-10T15:23:42Z",
   "dct_title_s": "Hydrographie linéaire de la RDC / DRC water courses",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
   ],
+  "locn_geometry": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
+  "dcat_bbox": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
   "dct_temporal_sm": [
     "2021"
   ],
@@ -35,5 +37,5 @@
     2021
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hydrographie-lineaire-rdc-drc-water-courses\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/ab6c1511-6cd5-46b0-b2b5-3d54131b7a71/resource/cbecaf31-2070-4f5a-81fa-860dd0c92d24/download/osm_rdc_hydro_lineaire_211205.gpkg\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hydrographie-lineaire-rdc-drc-water-courses\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/ab6c1511-6cd5-46b0-b2b5-3d54131b7a71/resource/cbecaf31-2070-4f5a-81fa-860dd0c92d24/download/osm_rdc_hydro_lineaire_211205.gpkg\",\"label\":\"OSM_RDC_hydro_lineaire_211205.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/ab6c1511-6cd5-46b0-b2b5-3d54131b7a71/resource/f236ab8b-d085-4e8b-b247-d7cf5821d234/download/osm_rdc_hydro_lineaire_principale_211205.gpkg\",\"label\":\"OSM_RDC_hydro_lineaire_principale_211205.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/ab6c1511-6cd5-46b0-b2b5-3d54131b7a71/resource/304a72b4-5e08-4b74-b8ba-f474899d8922/download/osm_rdc_hydro_lineaire_secondaire_211205.gpkg\",\"label\":\"OSM_RDC_hydro_lineaire_secondaire_211205.gpkg (Geopackage)\"}]}"
 }

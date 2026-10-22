@@ -1,7 +1,7 @@
 {
   "id": "hdx-8197225c-011f-4abf-95e4-315f68b326c4",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-15T22:13:41Z",
+  "gbl_mdModified_dt": "2025-04-15T17:13:41Z",
   "dct_title_s": "GRID3 SYC - Settlement Extents v3.0",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Seychelles"
   ],
+  "locn_geometry": "ENVELOPE(46.2, 56.29, -3.79, -9.76)",
+  "dcat_bbox": "ENVELOPE(46.2, 56.29, -3.79, -9.76)",
   "dct_temporal_sm": [
     "2016-2023"
   ],
@@ -42,5 +44,5 @@
     2023
   ],
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-syc-settlement-extents-v3-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/8197225c-011f-4abf-95e4-315f68b326c4/resource/6408f214-0abd-4aa9-b275-178f71a9f9e9/download/grid3-syc-settlement-extents-v3.0-data-release-notes-.pdf\",\"label\":\"PDF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-syc-settlement-extents-v3-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/8197225c-011f-4abf-95e4-315f68b326c4/resource/6408f214-0abd-4aa9-b275-178f71a9f9e9/download/grid3-syc-settlement-extents-v3.0-data-release-notes-.pdf\",\"label\":\"GRID3 SYC - Settlement Extents v3.0 - Data Release Notes .pdf (PDF)\"},{\"url\":\"https://data.humdata.org/dataset/8197225c-011f-4abf-95e4-315f68b326c4/resource/e99ae136-f36b-4114-bf5a-59254b57239f/download/grid3_syc_settlement_extents_v3_0.zip\",\"label\":\"GRID3_SYC_settlement_extents_v3_0.zip (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/8197225c-011f-4abf-95e4-315f68b326c4/resource/7ce25e8e-990f-4033-b856-84f5e64a7c80/download/grid3_syc_settlement_grid_v3_0.zip\",\"label\":\"GRID3_SYC_settlement_grid_v3_0.zip (Geopackage)\"}]}"
 }

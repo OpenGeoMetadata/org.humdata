@@ -1,7 +1,7 @@
 {
   "id": "hdx-00c1d009-bb6a-40c2-bae4-03479022409e",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-04-14T15:41:06Z",
+  "gbl_mdModified_dt": "2026-04-14T10:41:06Z",
   "dct_title_s": "Western Sahara - Subnational Edge-matched Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "Western Sahara"
   ],
+  "locn_geometry": "ENVELOPE(-17.11, -8.68, 27.67, 20.76)",
+  "dcat_bbox": "ENVELOPE(-17.11, -8.68, 27.67, 20.76)",
   "dct_temporal_sm": [
     "2024"
   ],
@@ -33,5 +35,5 @@
     2024
   ],
   "dct_format_s": "XLSX",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-em-esh\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/00c1d009-bb6a-40c2-bae4-03479022409e/resource/88736941-1a08-47bd-9d14-617759ddd6d3/download/esh_admgz_2023.xlsx\",\"label\":\"XLSX\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-em-esh\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/00c1d009-bb6a-40c2-bae4-03479022409e/resource/88736941-1a08-47bd-9d14-617759ddd6d3/download/esh_admgz_2023.xlsx\",\"label\":\"esh_admgz_2023.xlsx (XLSX)\"},{\"url\":\"https://data.humdata.org/dataset/00c1d009-bb6a-40c2-bae4-03479022409e/resource/f0037115-7611-49ae-98ae-c8cfde91c452/download/esh_adm_gadm_20210405_em_shp.zip\",\"label\":\"esh_adm_gadm_20210405_EM_SHP.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/00c1d009-bb6a-40c2-bae4-03479022409e/resource/2e9e75e2-fd41-4979-a772-f13fa450a0d9/download/esh_adm_gadm_20210405_emf.zip\",\"label\":\"esh_adm_gadm_20210405_EMF.zip (EMF)\"},{\"url\":\"https://data.humdata.org/dataset/00c1d009-bb6a-40c2-bae4-03479022409e/resource/b6e8526f-0984-4d58-a4a2-d3cef91f11aa/download/esh_adminboundaries_em.gdb.zip\",\"label\":\"ESH_AdminBoundaries_EM.gdb.zip (Geodatabase)\"},{\"url\":\"https://data.humdata.org/dataset/00c1d009-bb6a-40c2-bae4-03479022409e/resource/b6cfef43-964f-4bfb-863f-51f6ce06a5a6/download/esh_adminboundaries_tabulardata.xlsx\",\"label\":\"ESH_AdminBoundaries_TabularData.xlsx (XLSX)\"}]}"
 }

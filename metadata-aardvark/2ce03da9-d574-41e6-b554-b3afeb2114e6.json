@@ -1,7 +1,7 @@
 {
   "id": "hdx-2ce03da9-d574-41e6-b554-b3afeb2114e6",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-10T16:30:43Z",
+  "gbl_mdModified_dt": "2026-03-10T11:30:43Z",
   "dct_title_s": "Czechia: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "Czechia"
   ],
+  "locn_geometry": "ENVELOPE(12.24, 18.85, 51.12, 48.56)",
+  "dcat_bbox": "ENVELOPE(12.24, 18.85, 51.12, 48.56)",
   "dct_temporal_sm": [
     "1853-2025"
   ],
@@ -205,5 +207,5 @@
     2025
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cze-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/2ce03da9-d574-41e6-b554-b3afeb2114e6/resource/4a42a7d2-7360-414a-b480-43174bfd6067/download/ibtracs_all_list_v04r01_lines_cze.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/2ce03da9-d574-41e6-b554-b3afeb2114e6/resource/4a42a7d2-7360-414a-b480-43174bfd6067/download/ibtracs_all_list_v04r01_lines_cze.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cze-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/2ce03da9-d574-41e6-b554-b3afeb2114e6/resource/2eac60ce-573f-48cd-8e65-119962bb218a/download/ibtracs_all_list_v04r01_cze.csv\",\"label\":\"ibtracs_ALL_list_v04r01_CZE.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/2ce03da9-d574-41e6-b554-b3afeb2114e6/resource/4a42a7d2-7360-414a-b480-43174bfd6067/download/ibtracs_all_list_v04r01_lines_cze.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_CZE.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/2ce03da9-d574-41e6-b554-b3afeb2114e6/resource/4a42a7d2-7360-414a-b480-43174bfd6067/download/ibtracs_all_list_v04r01_lines_cze.geojson\"}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-e50b0f6d-5e75-4556-99b1-9effc6bb73d0",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:07:39Z",
+  "gbl_mdModified_dt": "2025-10-01T14:07:39Z",
   "dct_title_s": "Gibraltar: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Gibraltar"
   ],
+  "locn_geometry": "ENVELOPE(-5.36, -5.33, 36.15, 36.11)",
+  "dcat_bbox": "ENVELOPE(-5.36, -5.33, 36.15, 36.11)",
   "dct_temporal_sm": [
     "2015-2024"
   ],
@@ -48,5 +50,5 @@
     2024
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-gib\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-gi-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-gib\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-gi-latest.zip\",\"label\":\"whosonfirst-data-admin-gi-latest.zip (SHP)\"}]}"
 }

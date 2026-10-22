@@ -1,7 +1,7 @@
 {
   "id": "hdx-abe764d2-30b6-466b-9810-e038c48cbc2f",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-10T19:47:13Z",
+  "gbl_mdModified_dt": "2025-04-10T14:47:13Z",
   "dct_title_s": "Palestine Crossings with Israel",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "State of Palestine"
   ],
+  "locn_geometry": "ENVELOPE(34.2, 35.58, 32.55, 31.21)",
+  "dcat_bbox": "ENVELOPE(34.2, 35.58, 32.55, 31.21)",
   "dct_temporal_sm": [
     "2021"
   ],
@@ -37,5 +39,5 @@
     2021
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/crossings-with-israel\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/abe764d2-30b6-466b-9810-e038c48cbc2f/resource/189cda62-a770-41a5-83ba-5a498561d988/download/crossings_with_israel.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/crossings-with-israel\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/abe764d2-30b6-466b-9810-e038c48cbc2f/resource/189cda62-a770-41a5-83ba-5a498561d988/download/crossings_with_israel.zip\",\"label\":\"Crossings_with_Israel.zip (SHP)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-3fd8f091-fc89-422f-a5dd-4be7f60457d2",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-08-26T17:26:17Z",
+  "gbl_mdModified_dt": "2025-08-26T12:26:17Z",
   "dct_title_s": "Goma , Republic of the Congo Sea Ports (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Congo"
   ],
+  "locn_geometry": "ENVELOPE(11.09, 18.45, 3.73, -5.04)",
+  "dcat_bbox": "ENVELOPE(11.09, 18.45, 3.73, -5.04)",
   "dct_temporal_sm": [
     "2024"
   ],
@@ -37,5 +39,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_gmdrc_sea_ports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/hotosm_gmdrc/sea_ports/points/hotosm_gmdrc_sea_ports_points_geojson.zip\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_gmdrc_sea_ports\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/hotosm_gmdrc/sea_ports/points/hotosm_gmdrc_sea_ports_points_gpkg.zip\",\"label\":\"hotosm_gmdrc_sea_ports_points_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/hotosm_gmdrc/sea_ports/points/hotosm_gmdrc_sea_ports_points_geojson.zip\",\"label\":\"hotosm_gmdrc_sea_ports_points_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/hotosm_gmdrc/sea_ports/points/hotosm_gmdrc_sea_ports_points_shp.zip\",\"label\":\"hotosm_gmdrc_sea_ports_points_shp.zip (SHP)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/hotosm_gmdrc/sea_ports/points/hotosm_gmdrc_sea_ports_points_kml.zip\",\"label\":\"hotosm_gmdrc_sea_ports_points_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/hotosm_gmdrc/sea_ports/lines/hotosm_gmdrc_sea_ports_lines_gpkg.zip\",\"label\":\"hotosm_gmdrc_sea_ports_lines_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/hotosm_gmdrc/sea_ports/lines/hotosm_gmdrc_sea_ports_lines_geojson.zip\",\"label\":\"hotosm_gmdrc_sea_ports_lines_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/hotosm_gmdrc/sea_ports/lines/hotosm_gmdrc_sea_ports_lines_shp.zip\",\"label\":\"hotosm_gmdrc_sea_ports_lines_shp.zip (SHP)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/hotosm_gmdrc/sea_ports/lines/hotosm_gmdrc_sea_ports_lines_kml.zip\",\"label\":\"hotosm_gmdrc_sea_ports_lines_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/hotosm_gmdrc/sea_ports/polygons/hotosm_gmdrc_sea_ports_polygons_gpkg.zip\",\"label\":\"hotosm_gmdrc_sea_ports_polygons_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/hotosm_gmdrc/sea_ports/polygons/hotosm_gmdrc_sea_ports_polygons_geojson.zip\",\"label\":\"hotosm_gmdrc_sea_ports_polygons_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/hotosm_gmdrc/sea_ports/polygons/hotosm_gmdrc_sea_ports_polygons_shp.zip\",\"label\":\"hotosm_gmdrc_sea_ports_polygons_shp.zip (SHP)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/hotosm_gmdrc/sea_ports/polygons/hotosm_gmdrc_sea_ports_polygons_kml.zip\",\"label\":\"hotosm_gmdrc_sea_ports_polygons_kml.zip (KML)\"}]}"
 }

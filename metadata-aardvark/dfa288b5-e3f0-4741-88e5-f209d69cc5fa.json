@@ -1,7 +1,7 @@
 {
   "id": "hdx-dfa288b5-e3f0-4741-88e5-f209d69cc5fa",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:07:55Z",
+  "gbl_mdModified_dt": "2025-10-01T14:07:55Z",
   "dct_title_s": "Guam: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Guam"
   ],
+  "locn_geometry": "ENVELOPE(144.62, 144.96, 13.66, 13.24)",
+  "dcat_bbox": "ENVELOPE(144.62, 144.96, 13.66, 13.24)",
   "dct_temporal_sm": [
     "2015-2024"
   ],
@@ -48,5 +50,5 @@
     2024
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-gum\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-gu-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-gum\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-gu-latest.zip\",\"label\":\"whosonfirst-data-admin-gu-latest.zip (SHP)\"}]}"
 }

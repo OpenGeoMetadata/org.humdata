@@ -1,7 +1,7 @@
 {
   "id": "hdx-bdba8692-decd-4ab3-9b08-a1998eff54da",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-02T17:27:41Z",
+  "gbl_mdModified_dt": "2026-03-02T11:27:41Z",
   "dct_title_s": "Samoa: Planet Road Surface, Width, and Passability Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -52,6 +52,8 @@
   "dct_spatial_sm": [
     "Samoa"
   ],
+  "locn_geometry": "ENVELOPE(-172.79, -171.43, -13.46, -14.06)",
+  "dcat_bbox": "ENVELOPE(-172.79, -171.43, -13.46, -14.06)",
   "dct_temporal_sm": [
     "2020-2024"
   ],
@@ -63,5 +65,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/samoa-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_WS_planet_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_WS_planet_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/samoa-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_WS_planet_roadsurface_lines.geojson\",\"label\":\"Samoa GeoJSON heigit_WS_planet_roadsurface_lines.geojson (GeoJSON)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_WS_planet_roadsurface_lines.gpkg\",\"label\":\"Samoa GPKG heigit_WS_planet_roadsurface_lines.gpkg (Geopackage)\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_WS_planet_roadsurface_lines.geojson\"}"
 }

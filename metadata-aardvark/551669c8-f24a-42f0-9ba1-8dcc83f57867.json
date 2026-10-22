@@ -1,7 +1,7 @@
 {
   "id": "hdx-551669c8-f24a-42f0-9ba1-8dcc83f57867",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-15T22:13:31Z",
+  "gbl_mdModified_dt": "2025-04-15T17:13:31Z",
   "dct_title_s": "GRID3 STP - Settlement Extents v3.0",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Sao Tome and Principe"
   ],
+  "locn_geometry": "ENVELOPE(6.46, 7.47, 1.7, 0.02)",
+  "dcat_bbox": "ENVELOPE(6.46, 7.47, 1.7, 0.02)",
   "dct_temporal_sm": [
     "2016-2023"
   ],
@@ -42,5 +44,5 @@
     2023
   ],
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-stp-settlement-extents-v3-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/551669c8-f24a-42f0-9ba1-8dcc83f57867/resource/6bb17041-d211-40ff-b201-6c7b0a64d9dd/download/grid3-stp-settlement-extents-v3.0-data-release-notes-.pdf\",\"label\":\"PDF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-stp-settlement-extents-v3-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/551669c8-f24a-42f0-9ba1-8dcc83f57867/resource/6bb17041-d211-40ff-b201-6c7b0a64d9dd/download/grid3-stp-settlement-extents-v3.0-data-release-notes-.pdf\",\"label\":\"GRID3 STP - Settlement Extents v3.0 - Data Release Notes .pdf (PDF)\"},{\"url\":\"https://data.humdata.org/dataset/551669c8-f24a-42f0-9ba1-8dcc83f57867/resource/b33903c6-5352-4251-80fb-c78b4ddc4beb/download/grid3_stp_settlement_extents_v3_0.zip\",\"label\":\"GRID3_STP_settlement_extents_v3_0.zip (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/551669c8-f24a-42f0-9ba1-8dcc83f57867/resource/9f142d43-7b60-4926-b1fb-bfa55c487c73/download/grid3_stp_settlement_grid_v3_0.zip\",\"label\":\"GRID3_STP_settlement_grid_v3_0.zip (Geopackage)\"}]}"
 }

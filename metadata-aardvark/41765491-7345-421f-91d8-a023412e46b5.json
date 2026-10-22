@@ -1,7 +1,7 @@
 {
   "id": "hdx-41765491-7345-421f-91d8-a023412e46b5",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-14T19:04:53Z",
+  "gbl_mdModified_dt": "2026-05-14T14:04:53Z",
   "dct_title_s": "HOTOSM Turkey Destroyed Buildings (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Türkiye"
   ],
+  "locn_geometry": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
+  "dcat_bbox": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
   "dct_temporal_sm": [
     "2023"
   ],
@@ -37,5 +39,5 @@
     2023
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_tur_destroyed_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.us-east-1.amazonaws.com/exports-stage.hotosm.org/hotosm_tur_destroyed_buildings_polygons_geojson_geojson_uid_12c31136-ec56-4c83-bdd9-f37b1cd7fc08.zip\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_tur_destroyed_buildings\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.us-east-1.amazonaws.com/exports-stage.hotosm.org/hotosm_tur_destroyed_buildings_polygons_geojson_geojson_uid_12c31136-ec56-4c83-bdd9-f37b1cd7fc08.zip\",\"label\":\"hotosm_tur_destroyed_buildings_polygons_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.us-east-1.amazonaws.com/exports-stage.hotosm.org/hotosm_tur_destroyed_buildings_polygons_csv_csv_uid_447d931d-bfba-4e57-9c17-c335e146c471.zip\",\"label\":\"hotosm_tur_destroyed_buildings_polygons_csv.zip (CSV)\"},{\"url\":\"https://s3.us-east-1.amazonaws.com/exports-stage.hotosm.org/hotosm_tur_destroyed_buildings_polygons_gpkg_gpkg_uid_9ca77aea-a2d5-4c7b-8ff0-f9aff1df04eb.zip\",\"label\":\"hotosm_tur_destroyed_buildings_polygons_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.us-east-1.amazonaws.com/exports-stage.hotosm.org/hotosm_tur_destroyed_buildings_polygons_shp_shp_uid_219a2888-3687-4a55-a7fc-458955b1c498.zip\",\"label\":\"hotosm_tur_destroyed_buildings_polygons_shp.zip (SHP)\"},{\"url\":\"https://s3.us-east-1.amazonaws.com/exports-stage.hotosm.org/hotosm_tur_destroyed_buildings_polygons_kml_kml_uid_0bc795c3-2589-495d-b8b1-249734a7aa61.zip\",\"label\":\"hotosm_tur_destroyed_buildings_polygons_kml.zip (KML)\"}]}"
 }

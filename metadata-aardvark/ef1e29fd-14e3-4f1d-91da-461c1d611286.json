@@ -1,7 +1,7 @@
 {
   "id": "hdx-ef1e29fd-14e3-4f1d-91da-461c1d611286",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-02T17:27:47Z",
+  "gbl_mdModified_dt": "2026-03-02T11:27:47Z",
   "dct_title_s": "Faroe Islands: Planet Road Surface, Width, and Passability Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -52,6 +52,8 @@
   "dct_spatial_sm": [
     "Faroe Islands"
   ],
+  "locn_geometry": "ENVELOPE(-7.65, -6.27, 62.4, 61.39)",
+  "dcat_bbox": "ENVELOPE(-7.65, -6.27, 62.4, 61.39)",
   "dct_temporal_sm": [
     "2020-2024"
   ],
@@ -63,5 +65,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/faroe-islands-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_FO_planet_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_FO_planet_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/faroe-islands-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_FO_planet_roadsurface_lines.geojson\",\"label\":\"Faroe islands GeoJSON heigit_FO_planet_roadsurface_lines.geojson (GeoJSON)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_FO_planet_roadsurface_lines.gpkg\",\"label\":\"Faroe islands GPKG heigit_FO_planet_roadsurface_lines.gpkg (Geopackage)\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_FO_planet_roadsurface_lines.geojson\"}"
 }

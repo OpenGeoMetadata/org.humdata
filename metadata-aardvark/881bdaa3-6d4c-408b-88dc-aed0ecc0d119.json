@@ -1,7 +1,7 @@
 {
   "id": "hdx-881bdaa3-6d4c-408b-88dc-aed0ecc0d119",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-15T19:18:37Z",
+  "gbl_mdModified_dt": "2025-04-15T14:18:37Z",
   "dct_title_s": "Democratic Republic of the Congo Subnational Population and Housing Data Tables with Administrative Boundaries, Based on Surveys",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
   ],
+  "locn_geometry": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
+  "dcat_bbox": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
   "dct_temporal_sm": [
     "2021"
   ],
@@ -37,5 +39,5 @@
     2021
   ],
   "dct_format_s": "Geodatabase",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/democratic-republic-of-the-congo-subnational-boundaries-and-tabular-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/881bdaa3-6d4c-408b-88dc-aed0ecc0d119/resource/fd828f42-60d0-4c8e-bcb6-384b01b64815/download/democratic_republic_of_the_congo.gdb.zip\",\"label\":\"Geodatabase\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/democratic-republic-of-the-congo-subnational-boundaries-and-tabular-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/881bdaa3-6d4c-408b-88dc-aed0ecc0d119/resource/fd828f42-60d0-4c8e-bcb6-384b01b64815/download/democratic_republic_of_the_congo.gdb.zip\",\"label\":\"Democratic_Republic_of_the_Congo.gdb.zip (Geodatabase)\"},{\"url\":\"https://data.humdata.org/dataset/881bdaa3-6d4c-408b-88dc-aed0ecc0d119/resource/a4a72c31-af0d-4b0d-975b-9eadf6d5c103/download/democratic-republic-of-the-congo_uscb_202103.xlsx\",\"label\":\"Democratic Republic of the Congo_uscb_202103.xlsx (XLSX)\"}]}"
 }

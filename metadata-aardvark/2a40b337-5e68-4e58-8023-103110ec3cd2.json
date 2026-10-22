@@ -1,7 +1,7 @@
 {
   "id": "hdx-2a40b337-5e68-4e58-8023-103110ec3cd2",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-01-10T00:57:10Z",
+  "gbl_mdModified_dt": "2025-01-09T18:57:10Z",
   "dct_title_s": "Saint Vincent and the Grenadines: Copernicus Global Human Settlement Layer (GHSL)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Saint Vincent and the Grenadines"
   ],
+  "locn_geometry": "ENVELOPE(-61.46, -61.12, 13.39, 12.58)",
+  "dcat_bbox": "ENVELOPE(-61.46, -61.12, 13.39, 12.58)",
   "dct_temporal_sm": [
     "2025"
   ],
@@ -37,5 +39,5 @@
     2025
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/vct-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/2a40b337-5e68-4e58-8023-103110ec3cd2/resource/dc854acf-4a70-496d-88cc-d19b2e623fee/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_vct.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/vct-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/2a40b337-5e68-4e58-8023-103110ec3cd2/resource/dc854acf-4a70-496d-88cc-d19b2e623fee/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_vct.tif\",\"label\":\"GHS Built-up Surface (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/2a40b337-5e68-4e58-8023-103110ec3cd2/resource/b226d934-866b-4a4a-b036-840bca78b84f/download/ghs_pop_e2025_r2023a_54009_100_v1_0_vct.tif\",\"label\":\"GHS Population Grid (GeoTIFF)\"}]}"
 }

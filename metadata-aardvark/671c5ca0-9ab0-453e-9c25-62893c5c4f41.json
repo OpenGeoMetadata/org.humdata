@@ -1,7 +1,7 @@
 {
   "id": "hdx-671c5ca0-9ab0-453e-9c25-62893c5c4f41",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-10T20:09:58Z",
+  "gbl_mdModified_dt": "2025-04-10T15:09:58Z",
   "dct_title_s": "Zone de santé Beni (Nord-Kivu, RDC) / Beni health zone (DRC)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
   ],
+  "locn_geometry": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
+  "dcat_bbox": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
   "dct_temporal_sm": [
     "2021"
   ],
@@ -37,5 +39,5 @@
     2021
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/zone-de-sante-beni-health-zone-rdc-drc\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/671c5ca0-9ab0-453e-9c25-62893c5c4f41/resource/6d154b99-0faf-49c3-a4bc-e439155da4ef/download/osm_zsbeni_as_211023.gpkg\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/zone-de-sante-beni-health-zone-rdc-drc\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/671c5ca0-9ab0-453e-9c25-62893c5c4f41/resource/6d154b99-0faf-49c3-a4bc-e439155da4ef/download/osm_zsbeni_as_211023.gpkg\",\"label\":\"OSM_ZSBeni_AS_211023.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/671c5ca0-9ab0-453e-9c25-62893c5c4f41/resource/08573e99-ae63-4836-aa89-b737775c8579/download/osm_zsbeni_cac_211023.gpkg\",\"label\":\"OSM_ZSBeni_CAC_211023.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/671c5ca0-9ab0-453e-9c25-62893c5c4f41/resource/5691d1b2-4830-4806-b819-91f9755d9f7b/download/osm_zsbeni_fosa_211102.gpkg\",\"label\":\"osm_ZSBeni_fosa_211102.gpkg (Geopackage)\"}]}"
 }

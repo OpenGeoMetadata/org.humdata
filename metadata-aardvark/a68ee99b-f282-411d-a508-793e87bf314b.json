@@ -1,7 +1,7 @@
 {
   "id": "hdx-a68ee99b-f282-411d-a508-793e87bf314b",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2023-05-16T09:24:51Z",
+  "gbl_mdModified_dt": "2023-05-16T04:24:51Z",
   "dct_title_s": "Turkey: Built-up Surface",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Türkiye"
   ],
+  "locn_geometry": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
+  "dcat_bbox": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
   "dct_temporal_sm": [
     "2021"
   ],
@@ -35,5 +37,5 @@
     2021
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/turkey-built-up-surface\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/a68ee99b-f282-411d-a508-793e87bf314b/resource/94645617-18a9-452e-98f2-3c6d4d91cb46/download/atlasai_ahs_turkey_2021_built_up_surface.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/turkey-built-up-surface\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/a68ee99b-f282-411d-a508-793e87bf314b/resource/94645617-18a9-452e-98f2-3c6d4d91cb46/download/atlasai_ahs_turkey_2021_built_up_surface.tif\",\"label\":\"AtlasAI_AHS_Turkey_2021_Built_Up_Surface.tif (GeoTIFF)\"}]}"
 }

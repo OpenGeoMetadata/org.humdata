@@ -1,7 +1,7 @@
 {
   "id": "hdx-898cb126-80eb-4679-8349-88df5c848322",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-02-26T07:06:40Z",
+  "gbl_mdModified_dt": "2026-02-26T01:06:40Z",
   "dct_title_s": "Democratic Republic of the Congo: Google Building Footprints",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
   ],
+  "locn_geometry": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
+  "dcat_bbox": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
   "dct_temporal_sm": [
     "2023"
   ],
@@ -35,5 +37,5 @@
     2023
   ],
   "dct_format_s": "Geodatabase",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/buildings-google-cod\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/898cb126-80eb-4679-8349-88df5c848322/resource/6c9e5016-a6ea-423a-9ab3-9c4164857792/download/cod_buildings.gdb.zip\",\"label\":\"Geodatabase\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/buildings-google-cod\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/898cb126-80eb-4679-8349-88df5c848322/resource/6c9e5016-a6ea-423a-9ab3-9c4164857792/download/cod_buildings.gdb.zip\",\"label\":\"cod_buildings.gdb.zip (Geodatabase)\"}]}"
 }

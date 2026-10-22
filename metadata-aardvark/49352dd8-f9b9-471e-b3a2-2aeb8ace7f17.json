@@ -1,7 +1,7 @@
 {
   "id": "hdx-49352dd8-f9b9-471e-b3a2-2aeb8ace7f17",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:08:22Z",
+  "gbl_mdModified_dt": "2025-10-01T14:08:22Z",
   "dct_title_s": "Kiribati: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Kiribati"
   ],
+  "locn_geometry": "ENVELOPE(-174.55, 176.86, 4.73, -11.47)",
+  "dcat_bbox": "ENVELOPE(-174.55, 176.86, 4.73, -11.47)",
   "dct_temporal_sm": [
     "2015-2024"
   ],
@@ -48,5 +50,5 @@
     2024
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-kir\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-ki-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-kir\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-ki-latest.zip\",\"label\":\"whosonfirst-data-admin-ki-latest.zip (SHP)\"}]}"
 }

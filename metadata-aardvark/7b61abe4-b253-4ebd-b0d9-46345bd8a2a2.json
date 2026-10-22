@@ -1,7 +1,7 @@
 {
   "id": "hdx-7b61abe4-b253-4ebd-b0d9-46345bd8a2a2",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-06T14:53:47Z",
+  "gbl_mdModified_dt": "2026-06-06T09:53:47Z",
   "dct_title_s": "Isle of Man: Road Surface Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -50,6 +50,8 @@
   "dct_spatial_sm": [
     "Isle of Man"
   ],
+  "locn_geometry": "ENVELOPE(-4.8, -4.31, 54.42, 54.05)",
+  "dcat_bbox": "ENVELOPE(-4.8, -4.31, 54.42, 54.05)",
   "dct_temporal_sm": [
     "2024"
   ],
@@ -57,5 +59,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/isle-of-man-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_imn_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_imn_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/isle-of-man-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_imn_roadsurface_lines.geojson\",\"label\":\"Isle of man GeoJSON Resource (GeoJSON)\"},{\"url\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_imn_roadsurface_lines.gpkg\",\"label\":\"Isle of man GeoPackage Resource (Geopackage)\"}],\"http://geojson.org/geojson-spec.html\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_imn_roadsurface_lines.geojson\"}"
 }

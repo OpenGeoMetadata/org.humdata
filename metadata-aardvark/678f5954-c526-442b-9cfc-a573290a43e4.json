@@ -1,7 +1,7 @@
 {
   "id": "hdx-678f5954-c526-442b-9cfc-a573290a43e4",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-06T14:53:41Z",
+  "gbl_mdModified_dt": "2026-06-06T09:53:41Z",
   "dct_title_s": "Comoros: Road Surface Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -50,6 +50,8 @@
   "dct_spatial_sm": [
     "Comoros"
   ],
+  "locn_geometry": "ENVELOPE(43.21, 44.53, -11.36, -12.39)",
+  "dcat_bbox": "ENVELOPE(43.21, 44.53, -11.36, -12.39)",
   "dct_temporal_sm": [
     "2024"
   ],
@@ -57,5 +59,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/comoros-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_com_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_com_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/comoros-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_com_roadsurface_lines.geojson\",\"label\":\"Comoros GeoJSON Resource (GeoJSON)\"},{\"url\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_com_roadsurface_lines.gpkg\",\"label\":\"Comoros GeoPackage Resource (Geopackage)\"}],\"http://geojson.org/geojson-spec.html\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_com_roadsurface_lines.geojson\"}"
 }

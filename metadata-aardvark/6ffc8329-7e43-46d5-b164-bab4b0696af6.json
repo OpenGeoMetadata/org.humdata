@@ -1,7 +1,7 @@
 {
   "id": "hdx-6ffc8329-7e43-46d5-b164-bab4b0696af6",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:36:39Z",
+  "gbl_mdModified_dt": "2026-05-07T07:36:39Z",
   "dct_title_s": "United States Minor Outlying Islands (the): Population Density for 400m H3 Hexagons",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "United States Minor Outlying Islands"
   ],
+  "locn_geometry": "ENVELOPE(-177.39, 166.66, 28.22, -0.39)",
+  "dcat_bbox": "ENVELOPE(-177.39, 166.66, 28.22, -0.39)",
   "dct_temporal_sm": [
     "2023"
   ],
@@ -37,5 +39,5 @@
     2023
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-united-states-minor-outlying-islands-the\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_UM_20220630.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-united-states-minor-outlying-islands-the\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_UM_20220630.gpkg.gz\",\"label\":\"kontur_population_UM_20220630.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_UM_20231101.gpkg.gz\",\"label\":\"kontur_population_UM_20231101.gpkg (Geopackage)\"}]}"
 }

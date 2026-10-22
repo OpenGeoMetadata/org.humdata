@@ -1,7 +1,7 @@
 {
   "id": "hdx-3d2f44aa-b9f2-4025-bcc2-ad4b44123df6",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:46:45Z",
+  "gbl_mdModified_dt": "2026-05-07T07:46:45Z",
   "dct_title_s": "Bahrain: Administrative Division with Aggregated Population",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Bahrain"
   ],
+  "locn_geometry": "ENVELOPE(50.38, 50.82, 26.29, 25.57)",
+  "dcat_bbox": "ENVELOPE(50.38, 50.82, 26.29, 25.57)",
   "dct_temporal_sm": [
     "2022"
   ],
@@ -37,5 +39,5 @@
     2022
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-bahrain\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_BH_20220407.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-bahrain\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_BH_20220407.gpkg.gz\",\"label\":\"kontur_boundaries_BH_20220407.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_boundaries_BH_20230628.gpkg.gz\",\"label\":\"kontur_boundaries_BH_20230628.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_topology_boundaries_BH_20230628.gpkg.gz\",\"label\":\"kontur_topology_boundaries_BH_20230628.gpkg (Geopackage)\"}]}"
 }

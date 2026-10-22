@@ -1,7 +1,7 @@
 {
   "id": "hdx-9e522af0-abb1-4d72-8c00-5d1220419fa7",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-11-19T16:32:51Z",
+  "gbl_mdModified_dt": "2025-11-19T10:32:51Z",
   "dct_title_s": "Turks and Caicos: High Resolution Population Density Maps + Demographic Estimates",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -46,8 +46,8 @@
   "dct_spatial_sm": [
     "Turks and Caicos Islands"
   ],
-  "locn_geometry": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
-  "dcat_bbox": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
+  "locn_geometry": "ENVELOPE(-72.49, -71.12, 21.96, 21.29)",
+  "dcat_bbox": "ENVELOPE(-72.49, -71.12, 21.96, 21.29)",
   "dct_temporal_sm": [
     "2019"
   ],
@@ -55,5 +55,5 @@
     2019
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/turks-and-caicos-high-resolution-population-density-maps-demographic-estimates\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/9e522af0-abb1-4d72-8c00-5d1220419fa7/resource/a163a664-1ce1-437a-aec0-47f5a52b168c/download/population_tca_2018-10-01.zip\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/turks-and-caicos-high-resolution-population-density-maps-demographic-estimates\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/9e522af0-abb1-4d72-8c00-5d1220419fa7/resource/47ced10b-870e-4d08-bb27-5b6726375bc6/download/population_tca_2018-10-01.csv.zip\",\"label\":\"population_tca_2018-10-01.csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/9e522af0-abb1-4d72-8c00-5d1220419fa7/resource/a163a664-1ce1-437a-aec0-47f5a52b168c/download/population_tca_2018-10-01.zip\",\"label\":\"population_tca_2018-10-01.geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/9e522af0-abb1-4d72-8c00-5d1220419fa7/resource/a601632d-5cf2-459c-a214-9b2e659fbca6/download/tca_children_under_five_2019-06-01_csv.zip\",\"label\":\"TCA_children_under_five_2019-06-01_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/9e522af0-abb1-4d72-8c00-5d1220419fa7/resource/4f2b37e0-057f-4030-9510-302b8f657db9/download/tca_children_under_five_2019-06-01_geotiff.zip\",\"label\":\"TCA_children_under_five_2019-06-01_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/9e522af0-abb1-4d72-8c00-5d1220419fa7/resource/35c92fc7-f7c3-4dd4-bcca-f75e5b3fdd23/download/tca_elderly_60_plus_2019-06-01_csv.zip\",\"label\":\"TCA_elderly_60_plus_2019-06-01_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/9e522af0-abb1-4d72-8c00-5d1220419fa7/resource/929145da-6f65-4916-a08b-1c64d7184304/download/tca_elderly_60_plus_2019-06-01_geotiff.zip\",\"label\":\"TCA_elderly_60_plus_2019-06-01_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/9e522af0-abb1-4d72-8c00-5d1220419fa7/resource/22d1a9b4-c64b-4d0e-9fde-a3eb5111979c/download/tca_men_2019-06-01_csv.zip\",\"label\":\"TCA_men_2019-06-01_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/9e522af0-abb1-4d72-8c00-5d1220419fa7/resource/b9e8c824-3c30-49d2-87fb-707434c5e56b/download/tca_men_2019-06-01_geotiff.zip\",\"label\":\"TCA_men_2019-06-01_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/9e522af0-abb1-4d72-8c00-5d1220419fa7/resource/5d069b8a-a43b-45f6-9c75-597ee52de7fb/download/tca_women_2019-06-01_csv.zip\",\"label\":\"TCA_women_2019-06-01_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/9e522af0-abb1-4d72-8c00-5d1220419fa7/resource/5b9f2082-45ae-4799-ab19-7c448b9070a8/download/tca_women_2019-06-01_geotiff.zip\",\"label\":\"TCA_women_2019-06-01_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/9e522af0-abb1-4d72-8c00-5d1220419fa7/resource/ef9be961-18b4-4129-81a9-103e59bb6687/download/tca_women_of_reproductive_age_15_49_2019-06-01_csv.zip\",\"label\":\"TCA_women_of_reproductive_age_15_49_2019-06-01_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/9e522af0-abb1-4d72-8c00-5d1220419fa7/resource/e0898831-3bdd-4f7a-9974-d2c364185993/download/tca_women_of_reproductive_age_15_49_2019-06-01_geotiff.zip\",\"label\":\"TCA_women_of_reproductive_age_15_49_2019-06-01_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/9e522af0-abb1-4d72-8c00-5d1220419fa7/resource/c207a84b-b010-4f40-8880-781427e9b2d7/download/tca_youth_15_24_2019-06-01_csv.zip\",\"label\":\"TCA_youth_15_24_2019-06-01_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/9e522af0-abb1-4d72-8c00-5d1220419fa7/resource/237cde14-d97a-453f-a8c2-440b783d8033/download/tca_youth_15_24_2019-06-01_geotiff.zip\",\"label\":\"TCA_youth_15_24_2019-06-01_geotiff.zip (GeoTIFF)\"}]}"
 }

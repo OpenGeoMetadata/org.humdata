@@ -1,7 +1,7 @@
 {
   "id": "hdx-91ee6430-ca2a-446c-8659-8fcf5410591b",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-06-27T15:02:31Z",
+  "gbl_mdModified_dt": "2025-06-27T10:02:31Z",
   "dct_title_s": "Barbados - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Barbados"
   ],
+  "locn_geometry": "ENVELOPE(-59.66, -59.42, 13.35, 13.05)",
+  "dcat_bbox": "ENVELOPE(-59.66, -59.42, 13.35, 13.05)",
   "dct_temporal_sm": [
     "2017"
   ],
@@ -35,5 +37,5 @@
     2017
   ],
   "dct_format_s": "XLSX",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-brb\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/91ee6430-ca2a-446c-8659-8fcf5410591b/resource/9d017332-4503-4c7d-80cf-8c7a0013faa2/download/brb_adm_gz.xlsx\",\"label\":\"XLSX\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-brb\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/91ee6430-ca2a-446c-8659-8fcf5410591b/resource/9d017332-4503-4c7d-80cf-8c7a0013faa2/download/brb_adm_gz.xlsx\",\"label\":\"brb_adm_gz.xlsx (XLSX)\"},{\"url\":\"https://data.humdata.org/dataset/91ee6430-ca2a-446c-8659-8fcf5410591b/resource/7a45aa8d-f7a4-4a87-ab54-473b32ade717/download/brb_adm_2019_shp.zip\",\"label\":\"brb_adm_2019_shp.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/91ee6430-ca2a-446c-8659-8fcf5410591b/resource/54563ecf-19b1-4be8-8e55-5c6869284d23/download/brb_adm_2019_emf.zip\",\"label\":\"brb_adm_2019_EMF.zip (EMF)\"},{\"url\":\"https://data.humdata.org/dataset/91ee6430-ca2a-446c-8659-8fcf5410591b/resource/b7287749-7f9d-429d-9d10-3cee11cb2552/download/brb_adm_2019.gdb.zip\",\"label\":\"brb_adm_2019.gdb.zip (Geodatabase)\"}]}"
 }

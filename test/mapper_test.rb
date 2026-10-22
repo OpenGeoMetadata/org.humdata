@@ -246,4 +246,44 @@ class MapperTest < Minitest::Test
 
     assert_equal "https://umap.hotosm.org/en/map/drc-ebola-outbreak-2026-priority-area_2892", refs['http://schema.org/embedUrl']
   end
+
+  def test_mapper_adds_geometry_for_small_country
+    dataset = {
+      "id" => "test-dataset-grenada",
+      "title" => "Test Grenada dataset",
+      "groups" => [{ "title" => "Grenada" }]
+    }
+    mapped = Mapper.map(dataset)
+
+    assert_equal "ENVELOPE(-61.8, -61.42, 12.53, 12.0)", mapped['locn_geometry']
+    assert_equal mapped['locn_geometry'], mapped['dcat_bbox']
+  end
+
+  def test_mapper_adds_geometry_for_hdx_country_names
+    {
+      "Democratic Republic of the Congo" => "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
+      "Côte d'Ivoire" => "ENVELOPE(-8.6, -2.56, 10.52, 4.34)",
+      "Turks and Caicos Islands" => "ENVELOPE(-72.49, -71.12, 21.96, 21.29)"
+    }.each do |country, envelope|
+      dataset = {
+        "id" => "test-dataset-hdx-country-name",
+        "title" => "Test HDX country name dataset",
+        "groups" => [{ "title" => country }]
+      }
+      mapped = Mapper.map(dataset)
+
+      assert_equal envelope, mapped['locn_geometry'], country
+    end
+  end
+
+  def test_mapper_ignores_groups_that_are_not_places
+    dataset = {
+      "id" => "test-dataset-crisis-group",
+      "title" => "Test crisis group dataset",
+      "groups" => [{ "title" => "Nepal" }, { "title" => "Nepal Earthquake" }]
+    }
+    mapped = Mapper.map(dataset)
+
+    assert_equal "ENVELOPE(80.09, 88.17, 30.42, 26.4)", mapped['locn_geometry']
+  end
 end

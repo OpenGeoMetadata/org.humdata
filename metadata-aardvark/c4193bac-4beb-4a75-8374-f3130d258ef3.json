@@ -1,7 +1,7 @@
 {
   "id": "hdx-c4193bac-4beb-4a75-8374-f3130d258ef3",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-06T15:32:07Z",
+  "gbl_mdModified_dt": "2026-06-06T10:32:07Z",
   "dct_title_s": "Réunion: Road Surface Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -50,6 +50,8 @@
   "dct_spatial_sm": [
     "Réunion"
   ],
+  "locn_geometry": "ENVELOPE(55.22, 55.86, -20.86, -21.38)",
+  "dcat_bbox": "ENVELOPE(55.22, 55.86, -20.86, -21.38)",
   "dct_temporal_sm": [
     "2024"
   ],
@@ -57,5 +59,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/reunion-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_reu_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_reu_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/reunion-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_reu_roadsurface_lines.geojson\",\"label\":\"Réunion GeoJSON Resource (GeoJSON)\"},{\"url\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_reu_roadsurface_lines.gpkg\",\"label\":\"Réunion GeoPackage Resource (Geopackage)\"}],\"http://geojson.org/geojson-spec.html\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_reu_roadsurface_lines.geojson\"}"
 }

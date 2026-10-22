@@ -1,7 +1,7 @@
 {
   "id": "hdx-d00669c3-4bf4-4335-8297-d5e11471b784",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-01-09T23:30:55Z",
+  "gbl_mdModified_dt": "2025-01-09T17:30:55Z",
   "dct_title_s": "Palau: Copernicus Global Human Settlement Layer (GHSL)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Palau"
   ],
+  "locn_geometry": "ENVELOPE(131.13, 134.73, 8.1, 2.94)",
+  "dcat_bbox": "ENVELOPE(131.13, 134.73, 8.1, 2.94)",
   "dct_temporal_sm": [
     "2025"
   ],
@@ -37,5 +39,5 @@
     2025
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/plw-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/d00669c3-4bf4-4335-8297-d5e11471b784/resource/4493b4b0-786c-4241-b037-430c0928735f/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_plw.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/plw-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/d00669c3-4bf4-4335-8297-d5e11471b784/resource/4493b4b0-786c-4241-b037-430c0928735f/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_plw.tif\",\"label\":\"GHS Built-up Surface (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/d00669c3-4bf4-4335-8297-d5e11471b784/resource/31c0773e-47a1-40dd-8ef4-341c0bd4fa6e/download/ghs_pop_e2025_r2023a_54009_100_v1_0_plw.tif\",\"label\":\"GHS Population Grid (GeoTIFF)\"}]}"
 }

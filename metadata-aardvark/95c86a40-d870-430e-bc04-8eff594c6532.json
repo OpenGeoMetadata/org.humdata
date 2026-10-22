@@ -1,7 +1,7 @@
 {
   "id": "hdx-95c86a40-d870-430e-bc04-8eff594c6532",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-05-05T16:13:01Z",
+  "gbl_mdModified_dt": "2025-05-05T11:13:01Z",
   "dct_title_s": "State of Palestine - Israeli Firing Zones (Closed Military Areas) in the West Bank",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "State of Palestine"
   ],
+  "locn_geometry": "ENVELOPE(34.2, 35.58, 32.55, 31.21)",
+  "dcat_bbox": "ENVELOPE(34.2, 35.58, 32.55, 31.21)",
   "dct_temporal_sm": [
     "2019"
   ],
@@ -37,5 +39,5 @@
     2019
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/state-of-palestine-security-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/95c86a40-d870-430e-bc04-8eff594c6532/resource/22a81f4b-7a34-4fc6-b3aa-6a8e1a6f57e2/download/israelifiringzomes.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/state-of-palestine-security-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/95c86a40-d870-430e-bc04-8eff594c6532/resource/22a81f4b-7a34-4fc6-b3aa-6a8e1a6f57e2/download/israelifiringzomes.zip\",\"label\":\"IsraeliFiringZomes.zip (SHP)\"}]}"
 }

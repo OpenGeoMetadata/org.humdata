@@ -1,7 +1,7 @@
 {
   "id": "hdx-0f52c977-adb5-42d2-80f1-390424257679",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:10:33Z",
+  "gbl_mdModified_dt": "2025-10-01T14:10:33Z",
   "dct_title_s": "British Virgin Islands: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "British Virgin Islands"
   ],
+  "locn_geometry": "ENVELOPE(-64.78, -64.27, 18.75, 18.33)",
+  "dcat_bbox": "ENVELOPE(-64.78, -64.27, 18.75, 18.33)",
   "dct_temporal_sm": [
     "2015-2023"
   ],
@@ -47,5 +49,5 @@
     2023
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-vgb\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-vg-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-vgb\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-vg-latest.zip\",\"label\":\"whosonfirst-data-admin-vg-latest.zip (SHP)\"}]}"
 }

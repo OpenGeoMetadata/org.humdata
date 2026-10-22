@@ -1,7 +1,7 @@
 {
   "id": "hdx-e1b5a45d-29be-407c-be54-e3fe5048c93e",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-08T23:37:13Z",
+  "gbl_mdModified_dt": "2025-04-08T18:37:13Z",
   "dct_title_s": "State of Palestine Government Health Centers",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "State of Palestine"
   ],
+  "locn_geometry": "ENVELOPE(34.2, 35.58, 32.55, 31.21)",
+  "dcat_bbox": "ENVELOPE(34.2, 35.58, 32.55, 31.21)",
   "dct_temporal_sm": [
     "2019"
   ],
@@ -37,5 +39,5 @@
     2019
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/state-of-palestine-government-health-centers\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e1b5a45d-29be-407c-be54-e3fe5048c93e/resource/d092ac23-c849-4d1b-b430-1aa3721118d8/download/stateofpalestine_governmenthealthcenters.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/state-of-palestine-government-health-centers\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e1b5a45d-29be-407c-be54-e3fe5048c93e/resource/d092ac23-c849-4d1b-b430-1aa3721118d8/download/stateofpalestine_governmenthealthcenters.zip\",\"label\":\"StateOfPalestine_GovernmentHealthCenters.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/e1b5a45d-29be-407c-be54-e3fe5048c93e/resource/19d1c457-da40-461f-b679-49e255574d36/download/stateofpalestine_clinics.xlsx\",\"label\":\"StateOfPalestine_Clinics.xlsx (XLS)\"}]}"
 }

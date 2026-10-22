@@ -1,7 +1,7 @@
 {
   "id": "hdx-f7b918d3-9633-4142-8ae5-2358ca87ff3f",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-06-27T15:04:33Z",
+  "gbl_mdModified_dt": "2025-06-27T10:04:33Z",
   "dct_title_s": "North Macedonia - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -20,6 +20,8 @@
   "dct_spatial_sm": [
     "North Macedonia"
   ],
+  "locn_geometry": "ENVELOPE(20.46, 22.95, 42.32, 40.84)",
+  "dcat_bbox": "ENVELOPE(20.46, 22.95, 42.32, 40.84)",
   "dct_temporal_sm": [
     "2015-2024"
   ],
@@ -36,5 +38,5 @@
     2024
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-mkd\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/f7b918d3-9633-4142-8ae5-2358ca87ff3f/resource/9ac00088-e0d1-47b0-a4cd-06500776e93b/download/mkd_adm_2025_ab_shp.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-mkd\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/f7b918d3-9633-4142-8ae5-2358ca87ff3f/resource/9ac00088-e0d1-47b0-a4cd-06500776e93b/download/mkd_adm_2025_ab_shp.zip\",\"label\":\"mkd_adm_2025_AB_SHP.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/f7b918d3-9633-4142-8ae5-2358ca87ff3f/resource/65692590-546b-4790-8c86-2fa33fc62022/download/mkd_admgz_2025.xlsx\",\"label\":\"mkd_admgz_2025.xlsx (XLSX)\"}]}"
 }

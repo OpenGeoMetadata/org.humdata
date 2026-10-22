@@ -1,7 +1,7 @@
 {
   "id": "hdx-6b52ef70-a93b-43c2-b4b9-9a00e771a31d",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:07:27Z",
+  "gbl_mdModified_dt": "2025-10-01T14:07:27Z",
   "dct_title_s": "Falkland Islands (Malvinas): WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Falkland Islands (Malvinas)"
   ],
+  "locn_geometry": "ENVELOPE(-61.2, -57.75, -51.1, -52.3)",
+  "dcat_bbox": "ENVELOPE(-61.2, -57.75, -51.1, -52.3)",
   "dct_temporal_sm": [
     "2015-2024"
   ],
@@ -48,5 +50,5 @@
     2024
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-flk\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-fk-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-flk\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-fk-latest.zip\",\"label\":\"whosonfirst-data-admin-fk-latest.zip (SHP)\"}]}"
 }

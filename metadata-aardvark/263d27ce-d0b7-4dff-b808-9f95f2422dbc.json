@@ -1,7 +1,7 @@
 {
   "id": "hdx-263d27ce-d0b7-4dff-b808-9f95f2422dbc",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-10T20:15:23Z",
+  "gbl_mdModified_dt": "2025-04-10T15:15:23Z",
   "dct_title_s": "Zone de santé Katwa (Nord-Kivu, RDC) / Katwa health zone (DRC)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
   ],
+  "locn_geometry": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
+  "dcat_bbox": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
   "dct_temporal_sm": [
     "2021"
   ],
@@ -37,5 +39,5 @@
     2021
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/zone-de-sante-katwa-health-zone-rdc-drc\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/263d27ce-d0b7-4dff-b808-9f95f2422dbc/resource/f8f7c2ac-7073-43cb-8acf-a8d35e05fce1/download/osm_zskatwa_as_211201.gpkg\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/zone-de-sante-katwa-health-zone-rdc-drc\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/263d27ce-d0b7-4dff-b808-9f95f2422dbc/resource/f8f7c2ac-7073-43cb-8acf-a8d35e05fce1/download/osm_zskatwa_as_211201.gpkg\",\"label\":\"OSM_ZSKatwa_AS_211201.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/263d27ce-d0b7-4dff-b808-9f95f2422dbc/resource/eaf10a9a-5d83-46d3-af52-a82e6b35388b/download/osm_zskatwa_cac_211201.gpkg\",\"label\":\"OSM_ZSKatwa_CAC_211201.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/263d27ce-d0b7-4dff-b808-9f95f2422dbc/resource/6d21aa41-9b00-4aae-b99e-db467ef33139/download/osm_zskatwa_zs_211201.gpkg\",\"label\":\"OSM_ZSKatwa_ZS_211201.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/263d27ce-d0b7-4dff-b808-9f95f2422dbc/resource/d012a242-7d9d-402c-8a93-3281e2cfaded/download/osm_zskatwa_fosa_211201.gpkg\",\"label\":\"OSM_ZSKatwa_FoSa_211201.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/263d27ce-d0b7-4dff-b808-9f95f2422dbc/resource/2152ac59-2d7f-4364-9a20-b4615cae5160/download/osm_zskatwa_educ_211201.gpkg\",\"label\":\"OSM_ZSKatwa_Educ_211201.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/263d27ce-d0b7-4dff-b808-9f95f2422dbc/resource/a3d13332-8b6a-4982-a75b-a8b5a4b5b8a8/download/osm_zskatwa_autrespoints_211201.gpkg\",\"label\":\"OSM_ZSKatwa_AutresPoints_211201.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/263d27ce-d0b7-4dff-b808-9f95f2422dbc/resource/3a7e931b-9015-472d-9975-01476448e78d/download/as_zskatwa.sqlitedb\",\"label\":\"as_zskatwa.sqlitedb (SQLite)\"},{\"url\":\"https://data.humdata.org/dataset/263d27ce-d0b7-4dff-b808-9f95f2422dbc/resource/6001eeb7-bb60-48e9-b1da-2f0e91ea3bc8/download/cac_zskatwa.sqlitedb\",\"label\":\"cac_zskatwa.sqlitedb (SQLite)\"},{\"url\":\"https://data.humdata.org/dataset/263d27ce-d0b7-4dff-b808-9f95f2422dbc/resource/50bffb60-0ebe-4fc2-9dfb-1acbbe5c84bf/download/cac_as_zskatwa.sqlitedb\",\"label\":\"cac_as_zskatwa.sqlitedb (SQLite)\"}]}"
 }

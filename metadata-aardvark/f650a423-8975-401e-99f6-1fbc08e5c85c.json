@@ -1,7 +1,7 @@
 {
   "id": "hdx-f650a423-8975-401e-99f6-1fbc08e5c85c",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-05-01T14:46:11Z",
+  "gbl_mdModified_dt": "2025-05-01T09:46:11Z",
   "dct_title_s": "Antigua and Barbuda: Copernicus Global Human Settlement Layer (GHSL)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Antigua and Barbuda"
   ],
+  "locn_geometry": "ENVELOPE(-62.35, -61.66, 17.73, 16.93)",
+  "dcat_bbox": "ENVELOPE(-62.35, -61.66, 17.73, 16.93)",
   "dct_temporal_sm": [
     "2025"
   ],
@@ -37,5 +39,5 @@
     2025
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/atg-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/f650a423-8975-401e-99f6-1fbc08e5c85c/resource/4f06dab1-1470-417d-b16c-695c93154cf5/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_atg.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/atg-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/f650a423-8975-401e-99f6-1fbc08e5c85c/resource/4f06dab1-1470-417d-b16c-695c93154cf5/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_atg.tif\",\"label\":\"GHS Built-up Surface (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/f650a423-8975-401e-99f6-1fbc08e5c85c/resource/dadbb9b4-7ff5-47c2-af41-c2f408121746/download/ghs_pop_e2025_r2023a_54009_100_v1_0_atg.tif\",\"label\":\"GHS Population Grid (GeoTIFF)\"}]}"
 }

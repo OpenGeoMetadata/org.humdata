@@ -1,7 +1,7 @@
 {
   "id": "hdx-3f3ed0b2-79ff-41db-8a75-bf707557c1d0",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-01-09T23:13:15Z",
+  "gbl_mdModified_dt": "2025-01-09T17:13:15Z",
   "dct_title_s": "Northern Mariana Islands: Copernicus Global Human Settlement Layer (GHSL)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Northern Mariana Islands"
   ],
+  "locn_geometry": "ENVELOPE(144.9, 145.87, 20.56, 14.11)",
+  "dcat_bbox": "ENVELOPE(144.9, 145.87, 20.56, 14.11)",
   "dct_temporal_sm": [
     "2025"
   ],
@@ -37,5 +39,5 @@
     2025
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mnp-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/3f3ed0b2-79ff-41db-8a75-bf707557c1d0/resource/f43e0836-93eb-479a-aa05-7f04a8862435/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_mnp.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mnp-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/3f3ed0b2-79ff-41db-8a75-bf707557c1d0/resource/f43e0836-93eb-479a-aa05-7f04a8862435/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_mnp.tif\",\"label\":\"GHS Built-up Surface (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/3f3ed0b2-79ff-41db-8a75-bf707557c1d0/resource/ada6492f-2959-4abc-aed8-62a9b44b64d4/download/ghs_pop_e2025_r2023a_54009_100_v1_0_mnp.tif\",\"label\":\"GHS Population Grid (GeoTIFF)\"}]}"
 }

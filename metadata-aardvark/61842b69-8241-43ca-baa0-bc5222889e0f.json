@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "Niue"
   ],
+  "locn_geometry": "ENVELOPE(-169.96, -169.78, -18.96, -19.15)",
+  "dcat_bbox": "ENVELOPE(-169.96, -169.78, -18.96, -19.15)",
   "dct_temporal_sm": [
     "2021"
   ],
@@ -33,5 +35,5 @@
     2021
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/pdh-niue_population_grid_2020\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://pacificdata.org/data/dataset/f0ae6b16-af3d-40d4-b8f2-a04b2744f9e5/resource/85b5e76d-0f83-4cde-899b-0c2df1a8137f/download/niu_pop_grid_2020.tif.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/pdh-niue_population_grid_2020\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://pacificdata.org/data/dataset/f0ae6b16-af3d-40d4-b8f2-a04b2744f9e5/resource/85b5e76d-0f83-4cde-899b-0c2df1a8137f/download/niu_pop_grid_2020.tif.tif\",\"label\":\"NIU_Pop_Grid_2020 (GeoTIFF)\"},{\"url\":\"https://pacificdata.org/data/dataset/f0ae6b16-af3d-40d4-b8f2-a04b2744f9e5/resource/d60bc776-25f7-47f8-86ee-85268dece672/download/niu_pop_grid_2020_readme.txt\",\"label\":\"NIU_Pop_Grid_2020_README (TXT)\"},{\"url\":\"https://pacificdata.org/data/dataset/f0ae6b16-af3d-40d4-b8f2-a04b2744f9e5/resource/0dc1eba9-75a0-4c78-862b-cb00c1709ef0/download/niue.jpg\",\"label\":\"NIU_PopGrid_2020_ATLAS (JPEG)\"}]}"
 }

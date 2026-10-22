@@ -1,7 +1,7 @@
 {
   "id": "hdx-925471c3-da11-411d-9cbc-03308b28fb82",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:36:48Z",
+  "gbl_mdModified_dt": "2026-05-07T07:36:48Z",
   "dct_title_s": "United States Virgin Islands: Population Density for 400m H3 Hexagons",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "United States Virgin Islands"
   ],
+  "locn_geometry": "ENVELOPE(-65.05, -64.55, 18.39, 17.68)",
+  "dcat_bbox": "ENVELOPE(-65.05, -64.55, 18.39, 17.68)",
   "dct_temporal_sm": [
     "2023"
   ],
@@ -37,5 +39,5 @@
     2023
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-united-states-virgin-islands\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_VI_20220630.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-united-states-virgin-islands\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_VI_20220630.gpkg.gz\",\"label\":\"kontur_population_VI_20220630.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_VI_20231101.gpkg.gz\",\"label\":\"kontur_population_VI_20231101.gpkg (Geopackage)\"}]}"
 }

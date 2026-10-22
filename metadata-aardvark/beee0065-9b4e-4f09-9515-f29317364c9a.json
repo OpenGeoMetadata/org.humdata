@@ -1,7 +1,7 @@
 {
   "id": "hdx-beee0065-9b4e-4f09-9515-f29317364c9a",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-02-27T16:09:23Z",
+  "gbl_mdModified_dt": "2026-02-27T10:09:23Z",
   "dct_title_s": "Türkiye - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Türkiye"
   ],
+  "locn_geometry": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
+  "dcat_bbox": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
   "dct_temporal_sm": [
     "2021"
   ],
@@ -37,5 +39,5 @@
     2021
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/geoboundaries-admin-boundaries-for-turkiye\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TUR/ADM0/geoBoundaries-TUR-ADM0_simplified.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TUR/ADM0/geoBoundaries-TUR-ADM0_simplified.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/geoboundaries-admin-boundaries-for-turkiye\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TUR/ADM0/geoBoundaries-TUR-ADM0_simplified.geojson\",\"label\":\"geoBoundaries-TUR-ADM0_simplified.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TUR/ADM0/geoBoundaries-TUR-ADM0.geojson\",\"label\":\"geoBoundaries-TUR-ADM0.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TUR/ADM0/geoBoundaries-TUR-ADM0.topojson\",\"label\":\"geoBoundaries-TUR-ADM0.topojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TUR/ADM0/geoBoundaries-TUR-ADM0-all.zip\",\"label\":\"geoBoundaries-TUR-ADM0-all.zip (SHP)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TUR/ADM1/geoBoundaries-TUR-ADM1_simplified.geojson\",\"label\":\"geoBoundaries-TUR-ADM1_simplified.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TUR/ADM1/geoBoundaries-TUR-ADM1.geojson\",\"label\":\"geoBoundaries-TUR-ADM1.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TUR/ADM1/geoBoundaries-TUR-ADM1.topojson\",\"label\":\"geoBoundaries-TUR-ADM1.topojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TUR/ADM1/geoBoundaries-TUR-ADM1-all.zip\",\"label\":\"geoBoundaries-TUR-ADM1-all.zip (SHP)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TUR/ADM2/geoBoundaries-TUR-ADM2_simplified.geojson\",\"label\":\"geoBoundaries-TUR-ADM2_simplified.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TUR/ADM2/geoBoundaries-TUR-ADM2.geojson\",\"label\":\"geoBoundaries-TUR-ADM2.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TUR/ADM2/geoBoundaries-TUR-ADM2.topojson\",\"label\":\"geoBoundaries-TUR-ADM2.topojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TUR/ADM2/geoBoundaries-TUR-ADM2-all.zip\",\"label\":\"geoBoundaries-TUR-ADM2-all.zip (SHP)\"}],\"http://geojson.org/geojson-spec.html\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TUR/ADM0/geoBoundaries-TUR-ADM0_simplified.geojson\"}"
 }

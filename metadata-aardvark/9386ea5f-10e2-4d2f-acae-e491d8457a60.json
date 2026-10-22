@@ -1,7 +1,7 @@
 {
   "id": "hdx-9386ea5f-10e2-4d2f-acae-e491d8457a60",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-08T15:04:32Z",
+  "gbl_mdModified_dt": "2025-10-08T10:04:32Z",
   "dct_title_s": "Republic of Korea: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Republic of Korea"
   ],
+  "locn_geometry": "ENVELOPE(126.12, 129.47, 38.61, 34.39)",
+  "dcat_bbox": "ENVELOPE(126.12, 129.47, 38.61, 34.39)",
   "dct_temporal_sm": [
     "2015-2024"
   ],
@@ -48,5 +50,5 @@
     2024
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-kor\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-kr-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-kor\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-kr-latest.zip\",\"label\":\"whosonfirst-data-admin-kr-latest.zip (SHP)\"}]}"
 }

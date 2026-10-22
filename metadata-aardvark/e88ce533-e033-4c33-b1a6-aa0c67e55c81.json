@@ -1,7 +1,7 @@
 {
   "id": "hdx-e88ce533-e033-4c33-b1a6-aa0c67e55c81",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-15T19:28:42Z",
+  "gbl_mdModified_dt": "2025-04-15T14:28:42Z",
   "dct_title_s": "Türkiye southeast - Subnational Administrative Level 1-3 Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "Türkiye"
   ],
+  "locn_geometry": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
+  "dcat_bbox": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
   "dct_temporal_sm": [
     "2023"
   ],
@@ -33,5 +35,5 @@
     2023
   ],
   "dct_format_s": "XLS",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-adm3-tur\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e88ce533-e033-4c33-b1a6-aa0c67e55c81/resource/69670f26-6813-4f50-b3e5-a0bdb168400a/download/tur_admgz_southeaset.xls\",\"label\":\"XLS\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-adm3-tur\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e88ce533-e033-4c33-b1a6-aa0c67e55c81/resource/69670f26-6813-4f50-b3e5-a0bdb168400a/download/tur_admgz_southeaset.xls\",\"label\":\"tur_admgz_southeaset.xls (XLS)\"},{\"url\":\"https://data.humdata.org/dataset/e88ce533-e033-4c33-b1a6-aa0c67e55c81/resource/a58c46c0-72d2-41dc-a34b-ec12a962e63b/download/tur_admbnda_adm1_southeast_v2.zip\",\"label\":\"tur_admbnda_adm1_southeast_v2.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/e88ce533-e033-4c33-b1a6-aa0c67e55c81/resource/3b386b1e-9497-4c36-8525-b6dc85db3204/download/tur_admbnda_adm2_southeast_v2.zip\",\"label\":\"tur_admbnda_adm2_southeast_v2.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/e88ce533-e033-4c33-b1a6-aa0c67e55c81/resource/d15b9989-2229-4ff9-8e88-d422e64f2c15/download/tur_admbnda_adm3_southeast_v2.zip\",\"label\":\"tur_admbnda_adm3_southeast_v2.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/e88ce533-e033-4c33-b1a6-aa0c67e55c81/resource/8eb14555-ba93-4114-8b71-9fa84db3a23f/download/tur_admbndl_all_v01.zip\",\"label\":\"tur_admbndl_ALL_V01.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/e88ce533-e033-4c33-b1a6-aa0c67e55c81/resource/5dff6df2-7198-48c6-9818-e58879bd82ff/download/tur_adm_southeast_gdb_v2.gdb.zip\",\"label\":\"tur_adm_southeast_gdb_v2.gdb.zip (Geodatabase)\"}]}"
 }

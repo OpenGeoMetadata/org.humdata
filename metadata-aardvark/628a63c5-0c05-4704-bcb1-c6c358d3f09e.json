@@ -1,7 +1,7 @@
 {
   "id": "hdx-628a63c5-0c05-4704-bcb1-c6c358d3f09e",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:53:12Z",
+  "gbl_mdModified_dt": "2026-05-07T07:53:12Z",
   "dct_title_s": "Wallis and Futuna Islands: Administrative Division with Aggregated Population",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Wallis and Futuna Islands"
   ],
+  "locn_geometry": "ENVELOPE(-178.19, -176.12, -13.2, -14.32)",
+  "dcat_bbox": "ENVELOPE(-178.19, -176.12, -13.2, -14.32)",
   "dct_temporal_sm": [
     "2023"
   ],
@@ -37,5 +39,5 @@
     2023
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-wallis-and-futuna-islands\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_boundaries_WF_20230628.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-wallis-and-futuna-islands\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_boundaries_WF_20230628.gpkg.gz\",\"label\":\"kontur_boundaries_WF_20230628.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_topology_boundaries_WF_20230628.gpkg.gz\",\"label\":\"kontur_topology_boundaries_WF_20230628.gpkg (Geopackage)\"}]}"
 }

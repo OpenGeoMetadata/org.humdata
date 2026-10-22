@@ -1,7 +1,7 @@
 {
   "id": "hdx-f905304f-8969-44e1-a523-16b714da9dd6",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-06-27T15:02:34Z",
+  "gbl_mdModified_dt": "2025-06-27T10:02:34Z",
   "dct_title_s": "Dominica - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Dominica"
   ],
+  "locn_geometry": "ENVELOPE(-61.49, -61.24, 15.64, 15.2)",
+  "dcat_bbox": "ENVELOPE(-61.49, -61.24, 15.64, 15.2)",
   "dct_temporal_sm": [
     "2017"
   ],
@@ -35,5 +37,5 @@
     2017
   ],
   "dct_format_s": "XLS",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-dma\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/f905304f-8969-44e1-a523-16b714da9dd6/resource/0300cfcc-67e3-4c68-947a-1eb0924d03ba/download/dma_admgz_2019.xls\",\"label\":\"XLS\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-dma\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/f905304f-8969-44e1-a523-16b714da9dd6/resource/0300cfcc-67e3-4c68-947a-1eb0924d03ba/download/dma_admgz_2019.xls\",\"label\":\"dma_admgz_2019.xls (XLS)\"},{\"url\":\"https://data.humdata.org/dataset/f905304f-8969-44e1-a523-16b714da9dd6/resource/ffbacf17-8814-4189-afa7-aa0bec418076/download/dma_admn_adm0_py_s1_dominode_v2.zip\",\"label\":\"dma_admn_adm0_py_s1_dominode_v2.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/f905304f-8969-44e1-a523-16b714da9dd6/resource/e7a22bdf-4f56-4153-bea6-77244bb237c7/download/dma_admn_adm1_py_s1_dominode.zip\",\"label\":\"dma_admn_adm1_py_s1_dominode.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/f905304f-8969-44e1-a523-16b714da9dd6/resource/04a641a8-6179-4bab-9892-c26c2c8430b4/download/dma_admbndl_all_py_s1_dominode.zip\",\"label\":\"dma_admbndl_ALL_py_s1_dominode.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/f905304f-8969-44e1-a523-16b714da9dd6/resource/73b0180b-068f-441c-8cfd-0f5cdbcec2b4/download/dma_admn_py_s1_dominode_v2_emf.zip\",\"label\":\"dma_admn_py_s1_dominode_v2_EMF.zip (EMF)\"}]}"
 }

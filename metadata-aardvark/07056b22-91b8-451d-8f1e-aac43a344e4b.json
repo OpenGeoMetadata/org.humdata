@@ -1,7 +1,7 @@
 {
   "id": "hdx-07056b22-91b8-451d-8f1e-aac43a344e4b",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-06-25T02:22:15Z",
+  "gbl_mdModified_dt": "2025-06-24T21:22:15Z",
   "dct_title_s": "Sint Maartin - Subnational Edge-matched Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -20,6 +20,8 @@
   "dct_spatial_sm": [
     "Sint Maarten"
   ],
+  "locn_geometry": "ENVELOPE(-63.12, -63.01, 18.07, 18.01)",
+  "dcat_bbox": "ENVELOPE(-63.12, -63.01, 18.07, 18.01)",
   "dct_temporal_sm": [
     "2024"
   ],
@@ -27,5 +29,5 @@
     2024
   ],
   "dct_format_s": "XLSX",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-em-sxm\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/07056b22-91b8-451d-8f1e-aac43a344e4b/resource/7e500b38-4586-42f7-b6f4-f21e5642f133/download/sxm_adminboundaries_tabulardata.xlsx\",\"label\":\"XLSX\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-em-sxm\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/07056b22-91b8-451d-8f1e-aac43a344e4b/resource/7e500b38-4586-42f7-b6f4-f21e5642f133/download/sxm_adminboundaries_tabulardata.xlsx\",\"label\":\"SXM_AdminBoundaries_TabularData.xlsx (XLSX)\"},{\"url\":\"https://data.humdata.org/dataset/07056b22-91b8-451d-8f1e-aac43a344e4b/resource/f6173dc5-08c2-4149-b548-3f4b58ee0992/download/sxm_adm_vromi_20240122_ab_shp.zip\",\"label\":\"sxm_adm_vromi_20240122_AB_SHP.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/07056b22-91b8-451d-8f1e-aac43a344e4b/resource/ddfb92c6-157b-42a8-9ddd-25144efc62c0/download/sxm_adm_vromi_20240122_ab_gdb.gdb.zip\",\"label\":\"sxm_adm_vromi_20240122_AB_GDB.gdb.zip (Geodatabase)\"},{\"url\":\"https://data.humdata.org/dataset/07056b22-91b8-451d-8f1e-aac43a344e4b/resource/29cac962-6bed-4c21-b55e-f075a87cd1c3/download/sxm_adm_vromi_20240122_ab_emf.zip\",\"label\":\"sxm_adm_vromi_20240122_AB_EMF.zip (EMF)\"}]}"
 }

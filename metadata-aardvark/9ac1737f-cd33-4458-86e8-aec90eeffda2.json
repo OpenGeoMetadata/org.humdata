@@ -1,7 +1,7 @@
 {
   "id": "hdx-9ac1737f-cd33-4458-86e8-aec90eeffda2",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-11-13T16:02:23Z",
+  "gbl_mdModified_dt": "2025-11-13T10:02:23Z",
   "dct_title_s": "Seychelles - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Seychelles"
   ],
+  "locn_geometry": "ENVELOPE(46.2, 56.29, -3.79, -9.76)",
+  "dcat_bbox": "ENVELOPE(46.2, 56.29, -3.79, -9.76)",
   "dct_temporal_sm": [
     "2020-2025"
   ],
@@ -40,5 +42,5 @@
     2025
   ],
   "dct_format_s": "XLS",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-syc\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/9ac1737f-cd33-4458-86e8-aec90eeffda2/resource/00d9b051-9938-4220-aa29-e64adcad946d/download/syc_admgz_nbs2010.xlsx\",\"label\":\"XLS\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-syc\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/9ac1737f-cd33-4458-86e8-aec90eeffda2/resource/00d9b051-9938-4220-aa29-e64adcad946d/download/syc_admgz_nbs2010.xlsx\",\"label\":\"syc_admgz_nbs2010.xlsx (XLS)\"},{\"url\":\"https://data.humdata.org/dataset/9ac1737f-cd33-4458-86e8-aec90eeffda2/resource/de3bca8b-f522-46ba-b4d2-e1c52034fcc0/download/syc_adm_nbs2010_shp.zip\",\"label\":\"syc_adm_nbs2010_SHP.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/9ac1737f-cd33-4458-86e8-aec90eeffda2/resource/66deb70e-c634-4ad8-a3aa-eedb78aa8f3d/download/syc_adm_nbs2010_emf.zip\",\"label\":\"syc_adm_nbs2010_EMF.zip (EMF)\"},{\"url\":\"https://data.humdata.org/dataset/9ac1737f-cd33-4458-86e8-aec90eeffda2/resource/4a737df4-892f-4cd9-89f5-6a7f8b2d5ce2/download/syc_adm_nbs2010.gdb.zip\",\"label\":\"syc_adm_nbs2010.gdb.zip (Geodatabase)\"}]}"
 }

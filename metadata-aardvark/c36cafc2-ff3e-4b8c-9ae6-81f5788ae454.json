@@ -1,7 +1,7 @@
 {
   "id": "hdx-c36cafc2-ff3e-4b8c-9ae6-81f5788ae454",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-02T17:29:29Z",
+  "gbl_mdModified_dt": "2026-03-02T11:29:29Z",
   "dct_title_s": "French Polynesia: Planet Road Surface, Width, and Passability Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -52,6 +52,8 @@
   "dct_spatial_sm": [
     "French Polynesia"
   ],
+  "locn_geometry": "ENVELOPE(-154.54, -134.94, -7.95, -27.65)",
+  "dcat_bbox": "ENVELOPE(-154.54, -134.94, -7.95, -27.65)",
   "dct_temporal_sm": [
     "2020-2024"
   ],
@@ -63,5 +65,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/french-polynesia-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_PF_planet_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_PF_planet_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/french-polynesia-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_PF_planet_roadsurface_lines.gpkg\",\"label\":\"French polynesia GPKG heigit_PF_planet_roadsurface_lines.gpkg (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_PF_planet_roadsurface_lines.geojson\",\"label\":\"French polynesia GeoJSON heigit_PF_planet_roadsurface_lines.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_PF_planet_roadsurface_lines.geojson\"}"
 }

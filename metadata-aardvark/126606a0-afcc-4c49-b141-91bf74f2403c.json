@@ -1,7 +1,7 @@
 {
   "id": "hdx-126606a0-afcc-4c49-b141-91bf74f2403c",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-02T17:37:33Z",
+  "gbl_mdModified_dt": "2026-03-02T11:37:33Z",
   "dct_title_s": "Tuvalu: Planet Road Surface, Width, and Passability Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -52,6 +52,8 @@
   "dct_spatial_sm": [
     "Tuvalu"
   ],
+  "locn_geometry": "ENVELOPE(176.12, 179.91, -5.67, -9.43)",
+  "dcat_bbox": "ENVELOPE(176.12, 179.91, -5.67, -9.43)",
   "dct_temporal_sm": [
     "2020-2024"
   ],
@@ -63,5 +65,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/tuvalu-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_TV_planet_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_TV_planet_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/tuvalu-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_TV_planet_roadsurface_lines.gpkg\",\"label\":\"Tuvalu GPKG heigit_TV_planet_roadsurface_lines.gpkg (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_TV_planet_roadsurface_lines.geojson\",\"label\":\"Tuvalu GeoJSON heigit_TV_planet_roadsurface_lines.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_TV_planet_roadsurface_lines.geojson\"}"
 }

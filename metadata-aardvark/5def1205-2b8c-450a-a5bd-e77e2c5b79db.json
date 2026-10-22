@@ -1,7 +1,7 @@
 {
   "id": "hdx-5def1205-2b8c-450a-a5bd-e77e2c5b79db",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-06-27T15:02:56Z",
+  "gbl_mdModified_dt": "2025-06-27T10:02:56Z",
   "dct_title_s": "Montserrat - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Montserrat"
   ],
+  "locn_geometry": "ENVELOPE(-62.24, -62.14, 16.82, 16.67)",
+  "dcat_bbox": "ENVELOPE(-62.24, -62.14, 16.82, 16.67)",
   "dct_temporal_sm": [
     "2017"
   ],
@@ -35,5 +37,5 @@
     2017
   ],
   "dct_format_s": "XLSX",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-msr\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/5def1205-2b8c-450a-a5bd-e77e2c5b79db/resource/4387ab3d-f8e0-4956-bad9-bcbe8b15ac0a/download/msr_adm_gz.xlsx\",\"label\":\"XLSX\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-msr\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/5def1205-2b8c-450a-a5bd-e77e2c5b79db/resource/4387ab3d-f8e0-4956-bad9-bcbe8b15ac0a/download/msr_adm_gz.xlsx\",\"label\":\"msr_adm_gz.xlsx (XLSX)\"},{\"url\":\"https://data.humdata.org/dataset/5def1205-2b8c-450a-a5bd-e77e2c5b79db/resource/14da085e-7524-4622-8cbe-b47a6c4ad881/download/msr_adm_gadm_shp.zip\",\"label\":\"msr_adm_gadm_SHP.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/5def1205-2b8c-450a-a5bd-e77e2c5b79db/resource/9003570e-fdb4-4790-8d70-85601e37ce1b/download/msr_adm_gadm_emf.zip\",\"label\":\"msr_adm_gadm_EMF.zip (EMF)\"},{\"url\":\"https://data.humdata.org/dataset/5def1205-2b8c-450a-a5bd-e77e2c5b79db/resource/883ba134-067d-42a6-878a-2a7346b32afb/download/msr_adm_gadm.gdb.zip\",\"label\":\"msr_adm_gadm.gdb.zip (Geodatabase)\"}]}"
 }

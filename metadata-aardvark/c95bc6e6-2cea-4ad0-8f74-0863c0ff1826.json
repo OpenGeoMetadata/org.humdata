@@ -1,7 +1,7 @@
 {
   "id": "hdx-c95bc6e6-2cea-4ad0-8f74-0863c0ff1826",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-02T17:42:35Z",
+  "gbl_mdModified_dt": "2026-03-02T11:42:35Z",
   "dct_title_s": "Cabo Verde: Planet Road Surface, Width, and Passability Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -52,6 +52,8 @@
   "dct_spatial_sm": [
     "Cabo Verde"
   ],
+  "locn_geometry": "ENVELOPE(-25.37, -22.66, 17.2, 14.8)",
+  "dcat_bbox": "ENVELOPE(-25.37, -22.66, 17.2, 14.8)",
   "dct_temporal_sm": [
     "2020-2024"
   ],
@@ -63,5 +65,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cabo-verde-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_CV_planet_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_CV_planet_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cabo-verde-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_CV_planet_roadsurface_lines.geojson\",\"label\":\"Cabo verde GeoJSON heigit_CV_planet_roadsurface_lines.geojson (GeoJSON)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_CV_planet_roadsurface_lines.gpkg\",\"label\":\"Cabo verde GPKG heigit_CV_planet_roadsurface_lines.gpkg (Geopackage)\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_CV_planet_roadsurface_lines.geojson\"}"
 }

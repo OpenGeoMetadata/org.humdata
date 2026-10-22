@@ -1,7 +1,7 @@
 {
   "id": "hdx-1f969693-60dd-4bb6-873b-a3dad7c5254b",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-05-23T18:09:14Z",
+  "gbl_mdModified_dt": "2025-05-23T13:09:14Z",
   "dct_title_s": "Türkiye: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Türkiye"
   ],
+  "locn_geometry": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
+  "dcat_bbox": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
   "dct_temporal_sm": [
     "1948-2024"
   ],
@@ -111,5 +113,5 @@
     2024
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/tur-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/1f969693-60dd-4bb6-873b-a3dad7c5254b/resource/5f94ead4-14e7-4c43-89bb-35851031dbdd/download/ibtracs_all_list_v04r01_lines_tur.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/1f969693-60dd-4bb6-873b-a3dad7c5254b/resource/5f94ead4-14e7-4c43-89bb-35851031dbdd/download/ibtracs_all_list_v04r01_lines_tur.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/tur-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/1f969693-60dd-4bb6-873b-a3dad7c5254b/resource/c2b1bed8-e6eb-4e6d-9792-a9a01a85cc33/download/ibtracs_all_list_v04r01_tur.csv\",\"label\":\"ibtracs_ALL_list_v04r01_TUR.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/1f969693-60dd-4bb6-873b-a3dad7c5254b/resource/5f94ead4-14e7-4c43-89bb-35851031dbdd/download/ibtracs_all_list_v04r01_lines_tur.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_TUR.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/1f969693-60dd-4bb6-873b-a3dad7c5254b/resource/5f94ead4-14e7-4c43-89bb-35851031dbdd/download/ibtracs_all_list_v04r01_lines_tur.geojson\"}"
 }

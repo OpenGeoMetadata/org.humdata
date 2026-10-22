@@ -1,7 +1,7 @@
 {
   "id": "hdx-e782d4c9-d0ce-412c-ad1e-6771be2969b0",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-08T23:36:38Z",
+  "gbl_mdModified_dt": "2025-04-08T18:36:38Z",
   "dct_title_s": "West Bank Separation Barrier",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "State of Palestine"
   ],
+  "locn_geometry": "ENVELOPE(34.2, 35.58, 32.55, 31.21)",
+  "dcat_bbox": "ENVELOPE(34.2, 35.58, 32.55, 31.21)",
   "dct_temporal_sm": [
     "2018"
   ],
@@ -37,5 +39,5 @@
     2018
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/west-bank-barrier\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e782d4c9-d0ce-412c-ad1e-6771be2969b0/resource/95470fef-0d9d-4967-bbd6-cf247b80d578/download/barrier_jan2018.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/west-bank-barrier\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e782d4c9-d0ce-412c-ad1e-6771be2969b0/resource/95470fef-0d9d-4967-bbd6-cf247b80d578/download/barrier_jan2018.zip\",\"label\":\"Barrier.zip (SHP)\"}]}"
 }

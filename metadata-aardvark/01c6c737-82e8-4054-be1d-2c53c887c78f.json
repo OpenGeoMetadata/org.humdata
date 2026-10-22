@@ -1,7 +1,7 @@
 {
   "id": "hdx-01c6c737-82e8-4054-be1d-2c53c887c78f",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-02T17:42:00Z",
+  "gbl_mdModified_dt": "2026-03-02T11:42:00Z",
   "dct_title_s": "Andorra: Planet Road Surface, Width, and Passability Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -52,6 +52,8 @@
   "dct_spatial_sm": [
     "Andorra"
   ],
+  "locn_geometry": "ENVELOPE(1.4, 1.77, 42.65, 42.42)",
+  "dcat_bbox": "ENVELOPE(1.4, 1.77, 42.65, 42.42)",
   "dct_temporal_sm": [
     "2020-2024"
   ],
@@ -63,5 +65,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/andorra-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_AD_planet_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_AD_planet_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/andorra-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_AD_planet_roadsurface_lines.gpkg\",\"label\":\"Andorra GPKG heigit_AD_planet_roadsurface_lines.gpkg (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_AD_planet_roadsurface_lines.geojson\",\"label\":\"Andorra GeoJSON heigit_AD_planet_roadsurface_lines.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_AD_planet_roadsurface_lines.geojson\"}"
 }

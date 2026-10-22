@@ -1,7 +1,7 @@
 {
   "id": "hdx-ac768a5c-db29-4872-9792-bd3179e29c45",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-08-26T20:25:10Z",
+  "gbl_mdModified_dt": "2025-08-26T15:25:10Z",
   "dct_title_s": "Türkiye - Subnational Administrative Boundaries (RIMWGE)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Türkiye"
   ],
+  "locn_geometry": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
+  "dcat_bbox": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
   "dct_temporal_sm": [
     "2023"
   ],
@@ -35,5 +37,5 @@
     2023
   ],
   "dct_format_s": "Geodatabase",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-tur-rimwge\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/ac768a5c-db29-4872-9792-bd3179e29c45/resource/8d052597-b24c-4bd8-a24e-81a3a4ff21ac/download/turkey-od_wgs84.gdb.zip\",\"label\":\"Geodatabase\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-tur-rimwge\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/ac768a5c-db29-4872-9792-bd3179e29c45/resource/8d052597-b24c-4bd8-a24e-81a3a4ff21ac/download/turkey-od_wgs84.gdb.zip\",\"label\":\"Turkey OD_WGS84.gdb.zip (Geodatabase)\"},{\"url\":\"https://data.humdata.org/dataset/ac768a5c-db29-4872-9792-bd3179e29c45/resource/6cc83f12-885f-475b-98f7-9bad99d682b9/download/turkey_administrativelevels0_1_2.zip\",\"label\":\"turkey_administrativelevels0_1_2.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/ac768a5c-db29-4872-9792-bd3179e29c45/resource/f721e3c5-26e4-4750-b237-68ac1ac2c08b/download/common-operational-dataset.xlsx\",\"label\":\"Common operational Dataset.xlsx (XLSX)\"},{\"url\":\"https://data.humdata.org/dataset/ac768a5c-db29-4872-9792-bd3179e29c45/resource/b1d18b54-7175-4d32-85e9-a4710509dbfb/download/turkey_centeralpoints_1_2.zip\",\"label\":\"turkey_centeralpoints_1_2.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/ac768a5c-db29-4872-9792-bd3179e29c45/resource/a1adea95-49cb-4407-8d67-e890052e1894/download/tur_polbnda_adm3_southeast.zip\",\"label\":\"tur_polbnda_adm3_Southeast.zip (SHP)\"},{\"url\":\"https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/TUR_EN/MapServer\",\"label\":\"COD_External/TUR_EN (MapServer) (Geoservice)\"},{\"url\":\"https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/TUR_pcode/FeatureServer\",\"label\":\"COD_External/TUR_pcode (FeatureServer) (Geoservice)\"},{\"url\":\"https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/TUR_pcode/MapServer\",\"label\":\"COD_External/TUR_pcode (MapServer) (Geoservice)\"},{\"url\":\"https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/TUR_TR_v2/MapServer\",\"label\":\"COD_External/TUR_TR_v2 (MapServer) (Geoservice)\"},{\"url\":\"https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/TUR_TR/MapServer\",\"label\":\"COD_External/TUR_TR (MapServer) (Geoservice)\"}]}"
 }

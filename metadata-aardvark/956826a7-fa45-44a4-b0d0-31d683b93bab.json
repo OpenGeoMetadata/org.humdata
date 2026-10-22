@@ -1,7 +1,7 @@
 {
   "id": "hdx-956826a7-fa45-44a4-b0d0-31d683b93bab",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-09T22:22:41Z",
+  "gbl_mdModified_dt": "2026-03-09T17:22:41Z",
   "dct_title_s": "Sao Tome and Principe Walking Travel Time to nearest Level IV health centre",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Sao Tome and Principe"
   ],
+  "locn_geometry": "ENVELOPE(6.46, 7.47, 1.7, 0.02)",
+  "dcat_bbox": "ENVELOPE(6.46, 7.47, 1.7, 0.02)",
   "dct_temporal_sm": [
     "2024"
   ],
@@ -39,5 +41,5 @@
     2024
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/sao-tome-and-principe-walking-travel-time-to-nearest-level-iv-health-centre\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.eidf.ac.uk/eidf158-walkingtraveltimemaps/service_area_STP_walking.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/sao-tome-and-principe-walking-travel-time-to-nearest-level-iv-health-centre\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.eidf.ac.uk/eidf158-walkingtraveltimemaps/service_area_STP_walking.tif\",\"label\":\"service-area-sao-tome-and-principe-walking.tif (GeoTIFF)\"}]}"
 }

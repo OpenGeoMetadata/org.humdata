@@ -1,7 +1,7 @@
 {
   "id": "hdx-15ba34ce-7363-48f6-9891-4031c733c8f3",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-10T03:37:53Z",
+  "gbl_mdModified_dt": "2025-04-09T22:37:53Z",
   "dct_title_s": "Divisions provinciales de la santé (RDC) / Provincial Health Divisions (DRC)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
   ],
+  "locn_geometry": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
+  "dcat_bbox": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
   "dct_temporal_sm": [
     "2021"
   ],
@@ -37,5 +39,5 @@
     2021
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/divisions-provinciales-de-la-sante-rdc\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/15ba34ce-7363-48f6-9891-4031c733c8f3/resource/224ab4f5-c181-405f-9333-7d9a7215b82c/download/osm_rdc_sante_provinces_211212.gpkg\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/divisions-provinciales-de-la-sante-rdc\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/15ba34ce-7363-48f6-9891-4031c733c8f3/resource/224ab4f5-c181-405f-9333-7d9a7215b82c/download/osm_rdc_sante_provinces_211212.gpkg\",\"label\":\"OSM_RDC_sante_provinces_211212.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/15ba34ce-7363-48f6-9891-4031c733c8f3/resource/062d5ea9-e254-4f15-8d39-d4956e8b0305/download/osm_rdc_sante_provinces_211212.zip\",\"label\":\"OSM_RDC_sante_provinces_211212.zip (SHP)\"}]}"
 }

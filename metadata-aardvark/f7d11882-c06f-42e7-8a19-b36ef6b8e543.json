@@ -1,7 +1,7 @@
 {
   "id": "hdx-f7d11882-c06f-42e7-8a19-b36ef6b8e543",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:36:36Z",
+  "gbl_mdModified_dt": "2026-05-07T07:36:36Z",
   "dct_title_s": "Mauritius: Population Density for 400m H3 Hexagons",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Mauritius"
   ],
+  "locn_geometry": "ENVELOPE(56.52, 63.5, -10.32, -20.52)",
+  "dcat_bbox": "ENVELOPE(56.52, 63.5, -10.32, -20.52)",
   "dct_temporal_sm": [
     "2023"
   ],
@@ -37,5 +39,5 @@
     2023
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-mauritius\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_MU_20220630.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-mauritius\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_MU_20220630.gpkg.gz\",\"label\":\"kontur_population_MU_20220630.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_MU_20231101.gpkg.gz\",\"label\":\"kontur_population_MU_20231101.gpkg (Geopackage)\"}]}"
 }

@@ -47,8 +47,8 @@
     "Vanuatu",
     "Wallis and Futuna Islands"
   ],
-  "locn_geometry": "ENVELOPE(-180.0, 180.0, -2.5, -22.4)",
-  "dcat_bbox": "ENVELOPE(-180.0, 180.0, -2.5, -22.4)",
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 20.56, -27.65)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 20.56, -27.65)",
   "dct_temporal_sm": [
     "2019"
   ],
@@ -56,5 +56,5 @@
     2019
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/pdh-percentage-of-population-within-1-5-10km-coastal-buffers\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://pacificdata.org/data/dataset/fc458679-979b-4676-9b7b-c69698909719/resource/70ec321c-0c3a-443f-ad93-4536d2267c13/download/coastpopper_1_5_10km_buffer.gpkg\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/pdh-percentage-of-population-within-1-5-10km-coastal-buffers\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://pacificdata.org/data/dataset/fc458679-979b-4676-9b7b-c69698909719/resource/70ec321c-0c3a-443f-ad93-4536d2267c13/download/coastpopper_1_5_10km_buffer.gpkg\",\"label\":\"Percentage of Population within 1 5 & 10km Coastal Buffers (Geopackage)\"},{\"url\":\"https://pacificdata.org/data/dataset/fc458679-979b-4676-9b7b-c69698909719/resource/a7248775-68c4-44e7-92a8-5d2e554103e9/download/coastpopper_1_5_10km_buffer.zip\",\"label\":\"Percentage of Population within 1 5 & 10km Coastal Buffers (SHP)\"},{\"url\":\"https://pacificdata.org/data/dataset/fc458679-979b-4676-9b7b-c69698909719/resource/3a0134ff-ccaa-41bc-afe8-d0214fbe422a/download/coastpopper_1km_buffer.gpkg\",\"label\":\"Percentage of Population within 1 km Coastal Buffer (Geopackage)\"},{\"url\":\"https://pacificdata.org/data/dataset/fc458679-979b-4676-9b7b-c69698909719/resource/aad94d83-2cfc-42ed-922b-b481932467ca/download/coastpopper_5km_buffer.gpkg\",\"label\":\"Percentage of Population within 5km Coastal Buffer (Geopackage)\"},{\"url\":\"https://pacificdata.org/data/dataset/fc458679-979b-4676-9b7b-c69698909719/resource/896ca7e7-b3aa-4d11-a7a9-59efa73c021c/download/coastpopper_10km_buffer.gpkg\",\"label\":\"Percentage of Population within 10km Coastal Buffer (Geopackage)\"},{\"url\":\"https://pacificdata.org/data/dataset/fc458679-979b-4676-9b7b-c69698909719/resource/e9e83263-3c0b-4696-9785-ff60d1125b57/download/pacific-coastal-populations-1-5-and-10km-from-coast.csv\",\"label\":\"Pacific Coastal Populations - 1, 5 and 10km from coast (CSV)\"}]}"
 }

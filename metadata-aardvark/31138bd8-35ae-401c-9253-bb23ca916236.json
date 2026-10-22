@@ -1,7 +1,7 @@
 {
   "id": "hdx-31138bd8-35ae-401c-9253-bb23ca916236",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-01-10T00:02:36Z",
+  "gbl_mdModified_dt": "2025-01-09T18:02:36Z",
   "dct_title_s": "Turks and Caicos Islands: Copernicus Global Human Settlement Layer (GHSL)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,8 +30,8 @@
   "dct_spatial_sm": [
     "Turks and Caicos Islands"
   ],
-  "locn_geometry": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
-  "dcat_bbox": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
+  "locn_geometry": "ENVELOPE(-72.49, -71.12, 21.96, 21.29)",
+  "dcat_bbox": "ENVELOPE(-72.49, -71.12, 21.96, 21.29)",
   "dct_temporal_sm": [
     "2025"
   ],
@@ -39,5 +39,5 @@
     2025
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/tca-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/31138bd8-35ae-401c-9253-bb23ca916236/resource/3d72dcee-b2c1-4a69-b86e-0d06f2d15f22/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_tca.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/tca-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/31138bd8-35ae-401c-9253-bb23ca916236/resource/3d72dcee-b2c1-4a69-b86e-0d06f2d15f22/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_tca.tif\",\"label\":\"GHS Built-up Surface (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/31138bd8-35ae-401c-9253-bb23ca916236/resource/34c9d2d3-9504-49dc-957f-91799d7dec7e/download/ghs_pop_e2025_r2023a_54009_100_v1_0_tca.tif\",\"label\":\"GHS Population Grid (GeoTIFF)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-dd6ae158-e35b-45e2-8eb8-dca248b8c3d6",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-11-19T16:30:02Z",
+  "gbl_mdModified_dt": "2025-11-19T10:30:02Z",
   "dct_title_s": "Turkey: High Resolution Population Density Maps + Demographic Estimates",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "Türkiye"
   ],
+  "locn_geometry": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
+  "dcat_bbox": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
   "dct_temporal_sm": [
     "2020"
   ],
@@ -33,5 +35,5 @@
     2020
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/turkey-high-resolution-population-density-maps-demographic-estimates\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/dd6ae158-e35b-45e2-8eb8-dca248b8c3d6/resource/9a0963d3-60ad-40e7-83d0-d15d9f492fb4/download/population_turkey_2020_tif.zip\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/turkey-high-resolution-population-density-maps-demographic-estimates\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/dd6ae158-e35b-45e2-8eb8-dca248b8c3d6/resource/f724b3e0-4788-411c-81a5-2737ccada96e/download/population_turkey_2020_csv.zip\",\"label\":\"population_turkey_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/dd6ae158-e35b-45e2-8eb8-dca248b8c3d6/resource/9a0963d3-60ad-40e7-83d0-d15d9f492fb4/download/population_turkey_2020_tif.zip\",\"label\":\"population_turkey_2020_tif.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/dd6ae158-e35b-45e2-8eb8-dca248b8c3d6/resource/06cf6311-a894-4e37-8ae2-1ac9c3ac53ef/download/tur_children_under_five_2020_geotiff.zip\",\"label\":\"tur_children_under_five_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/dd6ae158-e35b-45e2-8eb8-dca248b8c3d6/resource/28781a77-958b-4b34-a293-6704c17bae28/download/tur_elderly_60_plus_2020_geotiff.zip\",\"label\":\"tur_elderly_60_plus_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/dd6ae158-e35b-45e2-8eb8-dca248b8c3d6/resource/a0f1793b-440b-41ae-a702-e869de9bc012/download/tur_men_2020_geotiff.zip\",\"label\":\"tur_men_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/dd6ae158-e35b-45e2-8eb8-dca248b8c3d6/resource/d3ee498f-dc3c-46e5-a4ad-8168a8dce627/download/tur_women_2020_geotiff.zip\",\"label\":\"tur_women_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/dd6ae158-e35b-45e2-8eb8-dca248b8c3d6/resource/cf190ad2-fbed-425b-82e1-9cd74f998dae/download/tur_women_of_reproductive_age_15_49_2020_geotiff.zip\",\"label\":\"tur_women_of_reproductive_age_15_49_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/dd6ae158-e35b-45e2-8eb8-dca248b8c3d6/resource/8819843c-a94b-43f5-860d-6ea95471ff0c/download/tur_youth_15_24_2020_geotiff.zip\",\"label\":\"tur_youth_15_24_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/dd6ae158-e35b-45e2-8eb8-dca248b8c3d6/resource/5a003599-173a-4448-8c1f-dcc3d12f3d27/download/tur_children_under_five_2020_csv.zip\",\"label\":\"tur_children_under_five_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/dd6ae158-e35b-45e2-8eb8-dca248b8c3d6/resource/523d8e62-dc2a-4c6d-9709-0a732e6025d3/download/tur_elderly_60_plus_2020_csv.zip\",\"label\":\"tur_elderly_60_plus_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/dd6ae158-e35b-45e2-8eb8-dca248b8c3d6/resource/eb335282-f921-42da-a144-ab3c5b863cff/download/tur_men_2020_csv.zip\",\"label\":\"tur_men_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/dd6ae158-e35b-45e2-8eb8-dca248b8c3d6/resource/93c71bc8-08f6-44ca-bde3-628093f375d1/download/tur_women_2020_csv.zip\",\"label\":\"tur_women_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/dd6ae158-e35b-45e2-8eb8-dca248b8c3d6/resource/d3b01629-45c1-48d7-831b-3dbc1034fc99/download/tur_women_of_reproductive_age_15_49_2020_csv.zip\",\"label\":\"tur_women_of_reproductive_age_15_49_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/dd6ae158-e35b-45e2-8eb8-dca248b8c3d6/resource/75292b09-b828-4679-9c9e-ed06c8d3863c/download/tur_youth_15_24_2020_csv.zip\",\"label\":\"tur_youth_15_24_2020_csv.zip (CSV)\"}]}"
 }

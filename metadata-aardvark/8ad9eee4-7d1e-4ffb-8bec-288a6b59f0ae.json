@@ -1,7 +1,7 @@
 {
   "id": "hdx-8ad9eee4-7d1e-4ffb-8bec-288a6b59f0ae",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-01-09T21:55:49Z",
+  "gbl_mdModified_dt": "2025-01-09T15:55:49Z",
   "dct_title_s": "Bahrain: Copernicus Global Human Settlement Layer (GHSL)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Bahrain"
   ],
+  "locn_geometry": "ENVELOPE(50.38, 50.82, 26.29, 25.57)",
+  "dcat_bbox": "ENVELOPE(50.38, 50.82, 26.29, 25.57)",
   "dct_temporal_sm": [
     "2025"
   ],
@@ -37,5 +39,5 @@
     2025
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/bhr-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/8ad9eee4-7d1e-4ffb-8bec-288a6b59f0ae/resource/ce5f13b4-96f3-49d3-8e1d-99aa124ecd4e/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_bhr.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/bhr-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/8ad9eee4-7d1e-4ffb-8bec-288a6b59f0ae/resource/ce5f13b4-96f3-49d3-8e1d-99aa124ecd4e/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_bhr.tif\",\"label\":\"GHS Built-up Surface (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/8ad9eee4-7d1e-4ffb-8bec-288a6b59f0ae/resource/6936889d-e236-4ad0-b3f3-ed910a812416/download/ghs_pop_e2025_r2023a_54009_100_v1_0_bhr.tif\",\"label\":\"GHS Population Grid (GeoTIFF)\"}]}"
 }

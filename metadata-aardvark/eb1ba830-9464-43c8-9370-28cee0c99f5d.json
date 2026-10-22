@@ -1,7 +1,7 @@
 {
   "id": "hdx-eb1ba830-9464-43c8-9370-28cee0c99f5d",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-05-05T16:07:32Z",
+  "gbl_mdModified_dt": "2025-05-05T11:07:32Z",
   "dct_title_s": "Health Facilities in Sub-Saharan Africa",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -78,8 +78,8 @@
     "Zambia",
     "Zimbabwe"
   ],
-  "locn_geometry": "ENVELOPE(-17.63, 51.13, 27.4, -34.82)",
-  "dcat_bbox": "ENVELOPE(-17.63, 51.13, 27.4, -34.82)",
+  "locn_geometry": "ENVELOPE(-17.63, 63.5, 27.4, -34.82)",
+  "dcat_bbox": "ENVELOPE(-17.63, 63.5, 27.4, -34.82)",
   "dct_temporal_sm": [
     "2019"
   ],
@@ -87,5 +87,5 @@
     2019
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/health-facilities-in-sub-saharan-africa\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/eb1ba830-9464-43c8-9370-28cee0c99f5d/resource/341668a3-7066-46e4-aca0-fe09c57f9314/download/suhsharan_health_facilities.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/health-facilities-in-sub-saharan-africa\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/eb1ba830-9464-43c8-9370-28cee0c99f5d/resource/341668a3-7066-46e4-aca0-fe09c57f9314/download/suhsharan_health_facilities.zip\",\"label\":\"Sub-Saharan_health_facilities.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/eb1ba830-9464-43c8-9370-28cee0c99f5d/resource/758d5c17-88f4-42b2-9d4b-4bfe32d4acf7/download/sub-saharan_health_facilities.xlsx\",\"label\":\"Sub-Saharan_health_facilities.xlsx (XLSX)\"}]}"
 }

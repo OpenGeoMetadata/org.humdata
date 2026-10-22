@@ -1,7 +1,7 @@
 {
   "id": "hdx-6e5b7cef-85ba-4304-b9f3-77197f2fadcf",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-02T17:30:16Z",
+  "gbl_mdModified_dt": "2026-03-02T11:30:16Z",
   "dct_title_s": "French Guiana: Planet Road Surface, Width, and Passability Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -52,6 +52,8 @@
   "dct_spatial_sm": [
     "French Guiana"
   ],
+  "locn_geometry": "ENVELOPE(-54.62, -51.64, 5.75, 2.11)",
+  "dcat_bbox": "ENVELOPE(-54.62, -51.64, 5.75, 2.11)",
   "dct_temporal_sm": [
     "2020-2024"
   ],
@@ -63,5 +65,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/french-guiana-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_GF_planet_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_GF_planet_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/french-guiana-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_GF_planet_roadsurface_lines.geojson\",\"label\":\"French guiana GeoJSON heigit_GF_planet_roadsurface_lines.geojson (GeoJSON)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_GF_planet_roadsurface_lines.gpkg\",\"label\":\"French guiana GPKG heigit_GF_planet_roadsurface_lines.gpkg (Geopackage)\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_GF_planet_roadsurface_lines.geojson\"}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-181292bc-e289-4855-8b64-05655575117f",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-11-19T16:32:57Z",
+  "gbl_mdModified_dt": "2025-11-19T10:32:57Z",
   "dct_title_s": "US Virgin Islands: High Resolution Population Density Maps + Demographic Estimates",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -46,6 +46,8 @@
   "dct_spatial_sm": [
     "United States Virgin Islands"
   ],
+  "locn_geometry": "ENVELOPE(-65.05, -64.55, 18.39, 17.68)",
+  "dcat_bbox": "ENVELOPE(-65.05, -64.55, 18.39, 17.68)",
   "dct_temporal_sm": [
     "2019"
   ],
@@ -53,5 +55,5 @@
     2019
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/us-virgin-islands-high-resolution-population-density-maps-demographic-estimates\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/181292bc-e289-4855-8b64-05655575117f/resource/007396c5-724a-4c8f-a464-95bf35354a48/download/population_vir_2018-10-01.zip\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/us-virgin-islands-high-resolution-population-density-maps-demographic-estimates\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/181292bc-e289-4855-8b64-05655575117f/resource/04c30e5e-a70d-42f8-946c-cb971f81cad0/download/population_vir_2018-10-01.csv.zip\",\"label\":\"population_vir_2018-10-01.csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/181292bc-e289-4855-8b64-05655575117f/resource/007396c5-724a-4c8f-a464-95bf35354a48/download/population_vir_2018-10-01.zip\",\"label\":\"population_vir_2018-10-01.geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/181292bc-e289-4855-8b64-05655575117f/resource/06ca6749-b635-4495-94ae-bad2b507a85b/download/vir_children_under_five_2019-06-01_csv.zip\",\"label\":\"VIR_children_under_five_2019-06-01_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/181292bc-e289-4855-8b64-05655575117f/resource/f578ae43-e725-40ec-aadb-25b85a1be8d8/download/vir_children_under_five_2019-06-01_geotiff.zip\",\"label\":\"VIR_children_under_five_2019-06-01_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/181292bc-e289-4855-8b64-05655575117f/resource/71cd9de7-2802-4b2e-8420-527b09a280e0/download/vir_elderly_60_plus_2019-06-01_csv.zip\",\"label\":\"VIR_elderly_60_plus_2019-06-01_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/181292bc-e289-4855-8b64-05655575117f/resource/c718251a-575c-477b-b2da-08b5e2a526c9/download/vir_elderly_60_plus_2019-06-01_geotiff.zip\",\"label\":\"VIR_elderly_60_plus_2019-06-01_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/181292bc-e289-4855-8b64-05655575117f/resource/15b3e975-8328-4024-abba-cfd5f15094d5/download/vir_men_2019-06-01_csv.zip\",\"label\":\"VIR_men_2019-06-01_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/181292bc-e289-4855-8b64-05655575117f/resource/3339aa0a-45d4-4c8b-b9a8-91bc713a0a73/download/vir_men_2019-06-01_geotiff.zip\",\"label\":\"VIR_men_2019-06-01_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/181292bc-e289-4855-8b64-05655575117f/resource/46d878dc-bdfc-4e66-b25d-826b300e4741/download/vir_women_2019-06-01_csv.zip\",\"label\":\"VIR_women_2019-06-01_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/181292bc-e289-4855-8b64-05655575117f/resource/9f3096cf-1e67-44fd-831c-793d3946f476/download/vir_women_2019-06-01_geotiff.zip\",\"label\":\"VIR_women_2019-06-01_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/181292bc-e289-4855-8b64-05655575117f/resource/363ed97e-437b-4a14-897c-2036d653e555/download/vir_women_of_reproductive_age_15_49_2019-06-01_csv.zip\",\"label\":\"VIR_women_of_reproductive_age_15_49_2019-06-01_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/181292bc-e289-4855-8b64-05655575117f/resource/c094957c-ab96-44e0-aa93-18107d17b1ff/download/vir_women_of_reproductive_age_15_49_2019-06-01_geotiff.zip\",\"label\":\"VIR_women_of_reproductive_age_15_49_2019-06-01_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/181292bc-e289-4855-8b64-05655575117f/resource/54e1464b-ec67-4a3a-9112-78db4ef02418/download/vir_youth_15_24_2019-06-01_csv.zip\",\"label\":\"VIR_youth_15_24_2019-06-01_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/181292bc-e289-4855-8b64-05655575117f/resource/08235436-d3a8-41c5-9ab7-d7502e8fd9a2/download/vir_youth_15_24_2019-06-01_geotiff.zip\",\"label\":\"VIR_youth_15_24_2019-06-01_geotiff.zip (GeoTIFF)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-b8e88655-f5f7-4387-8087-df5da1326283",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-11-19T16:35:49Z",
+  "gbl_mdModified_dt": "2025-11-19T10:35:49Z",
   "dct_title_s": "San Marino: High Resolution Population Density Maps + Demographic Estimates",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -36,6 +36,8 @@
   "dct_spatial_sm": [
     "San Marino"
   ],
+  "locn_geometry": "ENVELOPE(12.38, 12.5, 43.99, 43.89)",
+  "dcat_bbox": "ENVELOPE(12.38, 12.5, 43.99, 43.89)",
   "dct_temporal_sm": [
     "2019-2020"
   ],
@@ -44,5 +46,5 @@
     2020
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/san-marino-high-resolution-population-density-maps-demographic-estimates\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/b8e88655-f5f7-4387-8087-df5da1326283/resource/7111bbc9-1046-427d-b216-9d1c7feeefef/download/population_smr_2019-07-01_geotiff.zip\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/san-marino-high-resolution-population-density-maps-demographic-estimates\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/b8e88655-f5f7-4387-8087-df5da1326283/resource/7111bbc9-1046-427d-b216-9d1c7feeefef/download/population_smr_2019-07-01_geotiff.zip\",\"label\":\"population_smr.geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/b8e88655-f5f7-4387-8087-df5da1326283/resource/68a2d0a3-33ff-4b05-b993-9ffdc8aedf2e/download/population_smr_2019-07-01.csv.zip\",\"label\":\"population_smr.csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/b8e88655-f5f7-4387-8087-df5da1326283/resource/acc9ab30-7fcf-49ab-b36d-564bc90b711f/download/smr_children_under_five_geotiff.zip\",\"label\":\"SMR_children_under_five_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/b8e88655-f5f7-4387-8087-df5da1326283/resource/1a75d8e3-35bf-4d32-8706-421d9d56351e/download/smr_elderly_60_plus_geotiff.zip\",\"label\":\"SMR_elderly_60_plus_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/b8e88655-f5f7-4387-8087-df5da1326283/resource/f0e12e77-1373-43f8-a1a7-85e146daf4a8/download/smr_men_geotiff.zip\",\"label\":\"SMR_men_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/b8e88655-f5f7-4387-8087-df5da1326283/resource/31ac1bce-fe77-43a3-bdc7-ba51cf268e72/download/smr_women_geotiff.zip\",\"label\":\"SMR_women_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/b8e88655-f5f7-4387-8087-df5da1326283/resource/fc001cd5-eb71-4846-8d14-f5f439a0162e/download/smr_women_of_reproductive_age_15_49_geotiff.zip\",\"label\":\"SMR_women_of_reproductive_age_15_49_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/b8e88655-f5f7-4387-8087-df5da1326283/resource/5d9d119e-38c2-433d-bb57-c0f0a7dea3a7/download/smr_youth_15_24_geotiff.zip\",\"label\":\"SMR_youth_15_24_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/b8e88655-f5f7-4387-8087-df5da1326283/resource/1d3b1f06-4a90-47bc-872c-3f9cab7a0f8c/download/smr_children_under_five_2019-08-03_csv.zip\",\"label\":\"SMR_children_under_five.csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/b8e88655-f5f7-4387-8087-df5da1326283/resource/72aa2109-146f-4b25-b4cf-2ad74b29a76e/download/smr_elderly_60_plus_2019-08-03_csv.zip\",\"label\":\"SMR_elderly_60_plus.csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/b8e88655-f5f7-4387-8087-df5da1326283/resource/47225fdb-3656-45de-a7bc-0e6fa508afcd/download/smr_men_2019-08-03_csv.zip\",\"label\":\"SMR_men.csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/b8e88655-f5f7-4387-8087-df5da1326283/resource/3e8fa039-e4ef-468c-b55f-92e5c6f6880a/download/smr_women_2019-08-03_csv.zip\",\"label\":\"SMR_women.csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/b8e88655-f5f7-4387-8087-df5da1326283/resource/564d42f3-e6e5-43d2-8753-a6aa3fa0f014/download/smr_women_of_reproductive_age_15_49_2019-08-03_csv.zip\",\"label\":\"SMR_women_of_reproductive_age_15_49.csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/b8e88655-f5f7-4387-8087-df5da1326283/resource/67c95e52-d1af-4e3b-9941-2c5a601143f0/download/smr_youth_15_24_2019-08-03_csv.zip\",\"label\":\"SMR_youth_15_24.csv.zip (CSV)\"}]}"
 }

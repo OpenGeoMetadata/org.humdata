@@ -1,7 +1,7 @@
 {
   "id": "hdx-1e1865ef-1337-437e-be20-9870fbf35ff2",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-02T17:41:32Z",
+  "gbl_mdModified_dt": "2026-03-02T11:41:32Z",
   "dct_title_s": "Saint Pierre and Miquelon: Planet Road Surface, Width, and Passability Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -52,6 +52,8 @@
   "dct_spatial_sm": [
     "Saint Pierre and Miquelon"
   ],
+  "locn_geometry": "ENVELOPE(-56.4, -56.14, 47.15, 46.75)",
+  "dcat_bbox": "ENVELOPE(-56.4, -56.14, 47.15, 46.75)",
   "dct_temporal_sm": [
     "2020-2024"
   ],
@@ -63,5 +65,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/saint-pierre-and-miquelon-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_PM_planet_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_PM_planet_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/saint-pierre-and-miquelon-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_PM_planet_roadsurface_lines.gpkg\",\"label\":\"Saint pierre and miquelon GPKG heigit_PM_planet_roadsurface_lines.gpkg (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_PM_planet_roadsurface_lines.geojson\",\"label\":\"Saint pierre and miquelon GeoJSON heigit_PM_planet_roadsurface_lines.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_PM_planet_roadsurface_lines.geojson\"}"
 }

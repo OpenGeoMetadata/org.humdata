@@ -1,7 +1,7 @@
 {
   "id": "hdx-8247e60c-cd9a-42f8-9642-adc7c3c4ee6b",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-04-14T17:03:08Z",
+  "gbl_mdModified_dt": "2026-04-14T12:03:08Z",
   "dct_title_s": "Seychelles: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "Seychelles"
   ],
+  "locn_geometry": "ENVELOPE(46.2, 56.29, -3.79, -9.76)",
+  "dcat_bbox": "ENVELOPE(46.2, 56.29, -3.79, -9.76)",
   "dct_temporal_sm": [
     "1848-2026"
   ],
@@ -211,5 +213,5 @@
     2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/syc-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/8247e60c-cd9a-42f8-9642-adc7c3c4ee6b/resource/8913624b-367b-4dfc-8373-aa3b74078f41/download/ibtracs_all_list_v04r01_lines_syc.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/8247e60c-cd9a-42f8-9642-adc7c3c4ee6b/resource/8913624b-367b-4dfc-8373-aa3b74078f41/download/ibtracs_all_list_v04r01_lines_syc.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/syc-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/8247e60c-cd9a-42f8-9642-adc7c3c4ee6b/resource/be4ac975-4728-42f3-9b5d-4fce8ccc3f63/download/ibtracs_all_list_v04r01_syc.csv\",\"label\":\"ibtracs_ALL_list_v04r01_SYC.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/8247e60c-cd9a-42f8-9642-adc7c3c4ee6b/resource/8913624b-367b-4dfc-8373-aa3b74078f41/download/ibtracs_all_list_v04r01_lines_syc.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_SYC.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/8247e60c-cd9a-42f8-9642-adc7c3c4ee6b/resource/8913624b-367b-4dfc-8373-aa3b74078f41/download/ibtracs_all_list_v04r01_lines_syc.geojson\"}"
 }

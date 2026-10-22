@@ -1,7 +1,7 @@
 {
   "id": "hdx-64420875-c50d-45fa-b545-c042841cb83e",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:37:49Z",
+  "gbl_mdModified_dt": "2026-05-07T07:37:49Z",
   "dct_title_s": "Singapore: Population Density for 400m H3 Hexagons",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Singapore"
   ],
+  "locn_geometry": "ENVELOPE(103.64, 104.01, 1.45, 1.26)",
+  "dcat_bbox": "ENVELOPE(103.64, 104.01, 1.45, 1.26)",
   "dct_temporal_sm": [
     "2023"
   ],
@@ -37,5 +39,5 @@
     2023
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-singapore\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_SG_20220630.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-singapore\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_SG_20220630.gpkg.gz\",\"label\":\"kontur_population_SG_20220630.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_SG_20231101.gpkg.gz\",\"label\":\"kontur_population_SG_20231101.gpkg (Geopackage)\"}]}"
 }

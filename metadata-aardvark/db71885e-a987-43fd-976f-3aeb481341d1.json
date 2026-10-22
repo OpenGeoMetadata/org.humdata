@@ -1,7 +1,7 @@
 {
   "id": "hdx-db71885e-a987-43fd-976f-3aeb481341d1",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-06-27T15:02:59Z",
+  "gbl_mdModified_dt": "2025-06-27T10:02:59Z",
   "dct_title_s": "British Virgin Islands - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "British Virgin Islands"
   ],
+  "locn_geometry": "ENVELOPE(-64.78, -64.27, 18.75, 18.33)",
+  "dcat_bbox": "ENVELOPE(-64.78, -64.27, 18.75, 18.33)",
   "dct_temporal_sm": [
     "2017"
   ],
@@ -33,5 +35,5 @@
     2017
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-vgb\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/db71885e-a987-43fd-976f-3aeb481341d1/resource/84452caa-224d-4d9b-8cb4-35eb182f9e9d/download/vgb_adm_2020_shp.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-vgb\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/db71885e-a987-43fd-976f-3aeb481341d1/resource/84452caa-224d-4d9b-8cb4-35eb182f9e9d/download/vgb_adm_2020_shp.zip\",\"label\":\"vgb_adm_2020_SHP.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/db71885e-a987-43fd-976f-3aeb481341d1/resource/ffaf3b7f-9109-4439-8b55-71e97b40a667/download/vgb_adm_2020_emf.zip\",\"label\":\"vgb_adm_2020_EMF.zip (EMF)\"},{\"url\":\"https://data.humdata.org/dataset/db71885e-a987-43fd-976f-3aeb481341d1/resource/d446e9d9-4a89-4ac0-9219-33bc80511549/download/vgb_adm_2020.gdb.zip\",\"label\":\"vgb_adm_2020.gdb.zip (Geodatabase)\"},{\"url\":\"https://data.humdata.org/dataset/db71885e-a987-43fd-976f-3aeb481341d1/resource/ceeb94af-f856-4d2f-aca7-430c6045b0f6/download/vgb_admgz_2020.xlsx\",\"label\":\"vgb_admgz_2020.xlsx (XLSX)\"}]}"
 }

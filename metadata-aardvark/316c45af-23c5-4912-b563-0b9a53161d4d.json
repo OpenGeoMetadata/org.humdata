@@ -1,7 +1,7 @@
 {
   "id": "hdx-316c45af-23c5-4912-b563-0b9a53161d4d",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-01-09T21:54:55Z",
+  "gbl_mdModified_dt": "2025-01-09T15:54:55Z",
   "dct_title_s": "Bonaire, Sint Eustatius and Saba: Copernicus Global Human Settlement Layer (GHSL)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Bonaire, Sint Eustatius and Saba"
   ],
+  "locn_geometry": "ENVELOPE(-68.42, -62.94, 17.65, 12.02)",
+  "dcat_bbox": "ENVELOPE(-68.42, -62.94, 17.65, 12.02)",
   "dct_temporal_sm": [
     "2025"
   ],
@@ -37,5 +39,5 @@
     2025
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/bes-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/316c45af-23c5-4912-b563-0b9a53161d4d/resource/bfd9e051-556d-446a-b1a1-44990d5c9000/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_bes.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/bes-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/316c45af-23c5-4912-b563-0b9a53161d4d/resource/bfd9e051-556d-446a-b1a1-44990d5c9000/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_bes.tif\",\"label\":\"GHS Built-up Surface (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/316c45af-23c5-4912-b563-0b9a53161d4d/resource/e3a76e4e-ec20-4bbf-8f9d-bd5a893dc5f8/download/ghs_pop_e2025_r2023a_54009_100_v1_0_bes.tif\",\"label\":\"GHS Population Grid (GeoTIFF)\"}]}"
 }

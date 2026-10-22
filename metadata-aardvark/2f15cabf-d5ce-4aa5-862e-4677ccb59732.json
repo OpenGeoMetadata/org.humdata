@@ -1,7 +1,7 @@
 {
   "id": "hdx-2f15cabf-d5ce-4aa5-862e-4677ccb59732",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-08-26T17:06:13Z",
+  "gbl_mdModified_dt": "2025-08-26T12:06:13Z",
   "dct_title_s": "Goma , Republic of the Congo Points of Interest (OpenStreetMap Export)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Congo"
   ],
+  "locn_geometry": "ENVELOPE(11.09, 18.45, 3.73, -5.04)",
+  "dcat_bbox": "ENVELOPE(11.09, 18.45, 3.73, -5.04)",
   "dct_temporal_sm": [
     "2024"
   ],
@@ -37,5 +39,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_gmdrc_points_of_interest\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/hotosm_gmdrc/points_of_interest/points/hotosm_gmdrc_points_of_interest_points_geojson.zip\",\"label\":\"GeoJSON\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_gmdrc_points_of_interest\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/hotosm_gmdrc/points_of_interest/points/hotosm_gmdrc_points_of_interest_points_gpkg.zip\",\"label\":\"hotosm_gmdrc_points_of_interest_points_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/hotosm_gmdrc/points_of_interest/points/hotosm_gmdrc_points_of_interest_points_geojson.zip\",\"label\":\"hotosm_gmdrc_points_of_interest_points_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/hotosm_gmdrc/points_of_interest/points/hotosm_gmdrc_points_of_interest_points_shp.zip\",\"label\":\"hotosm_gmdrc_points_of_interest_points_shp.zip (SHP)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/hotosm_gmdrc/points_of_interest/points/hotosm_gmdrc_points_of_interest_points_kml.zip\",\"label\":\"hotosm_gmdrc_points_of_interest_points_kml.zip (KML)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/hotosm_gmdrc/points_of_interest/polygons/hotosm_gmdrc_points_of_interest_polygons_gpkg.zip\",\"label\":\"hotosm_gmdrc_points_of_interest_polygons_gpkg.zip (Geopackage)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/hotosm_gmdrc/points_of_interest/polygons/hotosm_gmdrc_points_of_interest_polygons_geojson.zip\",\"label\":\"hotosm_gmdrc_points_of_interest_polygons_geojson.zip (GeoJSON)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/hotosm_gmdrc/points_of_interest/polygons/hotosm_gmdrc_points_of_interest_polygons_shp.zip\",\"label\":\"hotosm_gmdrc_points_of_interest_polygons_shp.zip (SHP)\"},{\"url\":\"https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/ISO3/hotosm_gmdrc/points_of_interest/polygons/hotosm_gmdrc_points_of_interest_polygons_kml.zip\",\"label\":\"hotosm_gmdrc_points_of_interest_polygons_kml.zip (KML)\"}]}"
 }

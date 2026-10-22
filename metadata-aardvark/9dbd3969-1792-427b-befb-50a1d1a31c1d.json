@@ -1,7 +1,7 @@
 {
   "id": "hdx-9dbd3969-1792-427b-befb-50a1d1a31c1d",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:08:55Z",
+  "gbl_mdModified_dt": "2025-10-01T14:08:55Z",
   "dct_title_s": "Mauritius: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Mauritius"
   ],
+  "locn_geometry": "ENVELOPE(56.52, 63.5, -10.32, -20.52)",
+  "dcat_bbox": "ENVELOPE(56.52, 63.5, -10.32, -20.52)",
   "dct_temporal_sm": [
     "2015-2023"
   ],
@@ -47,5 +49,5 @@
     2023
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-mus\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-mu-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-mus\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-mu-latest.zip\",\"label\":\"whosonfirst-data-admin-mu-latest.zip (SHP)\"}]}"
 }

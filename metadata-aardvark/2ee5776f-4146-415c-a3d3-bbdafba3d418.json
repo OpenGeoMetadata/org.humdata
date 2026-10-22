@@ -1,7 +1,7 @@
 {
   "id": "hdx-2ee5776f-4146-415c-a3d3-bbdafba3d418",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:44:02Z",
+  "gbl_mdModified_dt": "2026-05-07T07:44:02Z",
   "dct_title_s": "Macau: Administrative Division with Aggregated Population",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "China, Macao Special Administrative Region"
   ],
+  "locn_geometry": "ENVELOPE(113.51, 113.59, 22.23, 22.1)",
+  "dcat_bbox": "ENVELOPE(113.51, 113.59, 22.23, 22.1)",
   "dct_temporal_sm": [
     "2022"
   ],
@@ -37,5 +39,5 @@
     2022
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-macau\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_MO_20220407.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-macau\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_MO_20220407.gpkg.gz\",\"label\":\"kontur_boundaries_MO_20220407.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_boundaries_MO_20230628.gpkg.gz\",\"label\":\"kontur_boundaries_MO_20230628.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_topology_boundaries_MO_20230628.gpkg.gz\",\"label\":\"kontur_topology_boundaries_MO_20230628.gpkg (Geopackage)\"}]}"
 }

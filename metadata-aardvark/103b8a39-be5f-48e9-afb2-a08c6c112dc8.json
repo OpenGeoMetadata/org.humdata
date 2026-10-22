@@ -1,7 +1,7 @@
 {
   "id": "hdx-103b8a39-be5f-48e9-afb2-a08c6c112dc8",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-06-27T15:02:41Z",
+  "gbl_mdModified_dt": "2025-06-27T10:02:41Z",
   "dct_title_s": "Anguilla - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "Anguilla"
   ],
+  "locn_geometry": "ENVELOPE(-63.43, -62.92, 18.61, 18.16)",
+  "dcat_bbox": "ENVELOPE(-63.43, -62.92, 18.61, 18.16)",
   "dct_temporal_sm": [
     "1980-2024"
   ],
@@ -77,5 +79,5 @@
     2024
   ],
   "dct_format_s": "XLS",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-aia\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/103b8a39-be5f-48e9-afb2-a08c6c112dc8/resource/16e60f54-876a-4056-8d2b-869678591f2d/download/aia_admgz.xls\",\"label\":\"XLS\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-aia\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/103b8a39-be5f-48e9-afb2-a08c6c112dc8/resource/16e60f54-876a-4056-8d2b-869678591f2d/download/aia_admgz.xls\",\"label\":\"aia_admgz.xls (XLS)\"},{\"url\":\"https://data.humdata.org/dataset/103b8a39-be5f-48e9-afb2-a08c6c112dc8/resource/1d3e4e71-89c3-4a63-b3c2-39b7129dfcd2/download/aia_adm0.zip\",\"label\":\"AIA_adm0.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/103b8a39-be5f-48e9-afb2-a08c6c112dc8/resource/fae3ee3e-a7a9-4c34-8a93-bdbb303997bc/download/gadm36_aia_0.emf\",\"label\":\"gadm36_AIA_0.emf (EMF)\"}]}"
 }

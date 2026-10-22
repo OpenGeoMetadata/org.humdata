@@ -1,7 +1,7 @@
 {
   "id": "hdx-2af1d88a-3a97-4d9d-b649-7b74e69985a1",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-08-26T17:56:43Z",
+  "gbl_mdModified_dt": "2025-08-26T12:56:43Z",
   "dct_title_s": "Côte d'Ivoire - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Côte d'Ivoire"
   ],
+  "locn_geometry": "ENVELOPE(-8.6, -2.56, 10.52, 4.34)",
+  "dcat_bbox": "ENVELOPE(-8.6, -2.56, 10.52, 4.34)",
   "dct_temporal_sm": [
     "2016-2021"
   ],
@@ -42,5 +44,5 @@
     2021
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/geoboundaries-admin-boundaries-for-cote-d-ivoire\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CIV/ADM0/geoBoundaries-CIV-ADM0_simplified.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CIV/ADM0/geoBoundaries-CIV-ADM0_simplified.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/geoboundaries-admin-boundaries-for-cote-d-ivoire\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CIV/ADM0/geoBoundaries-CIV-ADM0_simplified.geojson\",\"label\":\"geoBoundaries-CIV-ADM0_simplified.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CIV/ADM0/geoBoundaries-CIV-ADM0.geojson\",\"label\":\"geoBoundaries-CIV-ADM0.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CIV/ADM0/geoBoundaries-CIV-ADM0.topojson\",\"label\":\"geoBoundaries-CIV-ADM0.topojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CIV/ADM0/geoBoundaries-CIV-ADM0-all.zip\",\"label\":\"geoBoundaries-CIV-ADM0-all.zip (SHP)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CIV/ADM1/geoBoundaries-CIV-ADM1_simplified.geojson\",\"label\":\"geoBoundaries-CIV-ADM1_simplified.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CIV/ADM1/geoBoundaries-CIV-ADM1.geojson\",\"label\":\"geoBoundaries-CIV-ADM1.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CIV/ADM1/geoBoundaries-CIV-ADM1.topojson\",\"label\":\"geoBoundaries-CIV-ADM1.topojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CIV/ADM1/geoBoundaries-CIV-ADM1-all.zip\",\"label\":\"geoBoundaries-CIV-ADM1-all.zip (SHP)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CIV/ADM2/geoBoundaries-CIV-ADM2_simplified.geojson\",\"label\":\"geoBoundaries-CIV-ADM2_simplified.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CIV/ADM2/geoBoundaries-CIV-ADM2.geojson\",\"label\":\"geoBoundaries-CIV-ADM2.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CIV/ADM2/geoBoundaries-CIV-ADM2.topojson\",\"label\":\"geoBoundaries-CIV-ADM2.topojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CIV/ADM2/geoBoundaries-CIV-ADM2-all.zip\",\"label\":\"geoBoundaries-CIV-ADM2-all.zip (SHP)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CIV/ADM3/geoBoundaries-CIV-ADM3_simplified.geojson\",\"label\":\"geoBoundaries-CIV-ADM3_simplified.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CIV/ADM3/geoBoundaries-CIV-ADM3.geojson\",\"label\":\"geoBoundaries-CIV-ADM3.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CIV/ADM3/geoBoundaries-CIV-ADM3.topojson\",\"label\":\"geoBoundaries-CIV-ADM3.topojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CIV/ADM3/geoBoundaries-CIV-ADM3-all.zip\",\"label\":\"geoBoundaries-CIV-ADM3-all.zip (SHP)\"}],\"http://geojson.org/geojson-spec.html\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CIV/ADM0/geoBoundaries-CIV-ADM0_simplified.geojson\"}"
 }

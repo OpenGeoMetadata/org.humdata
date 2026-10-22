@@ -1,7 +1,7 @@
 {
   "id": "hdx-2c23646b-147e-4948-ab4e-fc320f3967e5",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:49:06Z",
+  "gbl_mdModified_dt": "2026-05-07T07:49:06Z",
   "dct_title_s": "Democratic People's Republic of Korea: Administrative Division with Aggregated Population",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Democratic People's Republic of Korea"
   ],
+  "locn_geometry": "ENVELOPE(124.27, 130.78, 42.99, 37.67)",
+  "dcat_bbox": "ENVELOPE(124.27, 130.78, 42.99, 37.67)",
   "dct_temporal_sm": [
     "2022"
   ],
@@ -37,5 +39,5 @@
     2022
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-democratic-people-s-republic-of-korea\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_KP_20220407.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-democratic-people-s-republic-of-korea\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_KP_20220407.gpkg.gz\",\"label\":\"kontur_boundaries_KP_20220407.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_boundaries_KP_20230628.gpkg.gz\",\"label\":\"kontur_boundaries_KP_20230628.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_topology_boundaries_KP_20230628.gpkg.gz\",\"label\":\"kontur_topology_boundaries_KP_20230628.gpkg (Geopackage)\"}]}"
 }

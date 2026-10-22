@@ -1,7 +1,7 @@
 {
   "id": "hdx-f2cb1b1b-dfc3-4c94-9acd-de25cf7a745e",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:06:11Z",
+  "gbl_mdModified_dt": "2025-10-01T14:06:11Z",
   "dct_title_s": "Anguilla: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Anguilla"
   ],
+  "locn_geometry": "ENVELOPE(-63.43, -62.92, 18.61, 18.16)",
+  "dcat_bbox": "ENVELOPE(-63.43, -62.92, 18.61, 18.16)",
   "dct_temporal_sm": [
     "2015-2024"
   ],
@@ -48,5 +50,5 @@
     2024
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-aia\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-ai-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-aia\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-ai-latest.zip\",\"label\":\"whosonfirst-data-admin-ai-latest.zip (SHP)\"}]}"
 }

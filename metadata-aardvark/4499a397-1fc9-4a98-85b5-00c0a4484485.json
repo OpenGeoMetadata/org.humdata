@@ -1,7 +1,7 @@
 {
   "id": "hdx-4499a397-1fc9-4a98-85b5-00c0a4484485",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-31T16:37:01Z",
+  "gbl_mdModified_dt": "2026-03-31T11:37:01Z",
   "dct_title_s": "Christmas Island: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "Christmas Island"
   ],
+  "locn_geometry": "ENVELOPE(105.58, 105.72, -10.43, -10.57)",
+  "dcat_bbox": "ENVELOPE(105.58, 105.72, -10.43, -10.57)",
   "dct_temporal_sm": [
     "1848-2026"
   ],
@@ -211,5 +213,5 @@
     2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cxr-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/4499a397-1fc9-4a98-85b5-00c0a4484485/resource/ea34e30f-8944-4868-87d6-dbee7ffc4d5f/download/ibtracs_all_list_v04r01_lines_cxr.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/4499a397-1fc9-4a98-85b5-00c0a4484485/resource/ea34e30f-8944-4868-87d6-dbee7ffc4d5f/download/ibtracs_all_list_v04r01_lines_cxr.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cxr-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/4499a397-1fc9-4a98-85b5-00c0a4484485/resource/f753a4fa-e0dc-4d86-9521-dce64c061767/download/ibtracs_all_list_v04r01_cxr.csv\",\"label\":\"ibtracs_ALL_list_v04r01_CXR.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/4499a397-1fc9-4a98-85b5-00c0a4484485/resource/ea34e30f-8944-4868-87d6-dbee7ffc4d5f/download/ibtracs_all_list_v04r01_lines_cxr.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_CXR.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/4499a397-1fc9-4a98-85b5-00c0a4484485/resource/ea34e30f-8944-4868-87d6-dbee7ffc4d5f/download/ibtracs_all_list_v04r01_lines_cxr.geojson\"}"
 }

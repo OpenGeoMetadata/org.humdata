@@ -1,7 +1,7 @@
 {
   "id": "hdx-6460dd50-319e-4fbe-b02a-7d5db5dca090",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-15T22:11:05Z",
+  "gbl_mdModified_dt": "2025-04-15T17:11:05Z",
   "dct_title_s": "GRID3 COM - Settlement Extents v3.0",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Comoros"
   ],
+  "locn_geometry": "ENVELOPE(43.21, 44.53, -11.36, -12.39)",
+  "dcat_bbox": "ENVELOPE(43.21, 44.53, -11.36, -12.39)",
   "dct_temporal_sm": [
     "2016-2023"
   ],
@@ -42,5 +44,5 @@
     2023
   ],
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-com-settlement-extents-v3-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/6460dd50-319e-4fbe-b02a-7d5db5dca090/resource/b8d72ffc-f8e0-490e-82a4-59c09927e0c6/download/grid3-com-settlement-extents-v3.0-data-release-notes-.pdf\",\"label\":\"PDF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-com-settlement-extents-v3-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/6460dd50-319e-4fbe-b02a-7d5db5dca090/resource/b8d72ffc-f8e0-490e-82a4-59c09927e0c6/download/grid3-com-settlement-extents-v3.0-data-release-notes-.pdf\",\"label\":\"GRID3 COM - Settlement Extents v3.0 - Data Release Notes .pdf (PDF)\"},{\"url\":\"https://data.humdata.org/dataset/6460dd50-319e-4fbe-b02a-7d5db5dca090/resource/dc72f76f-e8e1-4aa2-ac78-7d5caa7781c2/download/grid3_com_settlement_extents_v3_0.zip\",\"label\":\"GRID3_COM_settlement_extents_v3_0.zip (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/6460dd50-319e-4fbe-b02a-7d5db5dca090/resource/4158d7b4-b3a1-4fb0-9925-1cd32f240c13/download/grid3_com_settlement_grid_v3_0.zip\",\"label\":\"GRID3_COM_settlement_grid_v3_0.zip (Geopackage)\"}]}"
 }

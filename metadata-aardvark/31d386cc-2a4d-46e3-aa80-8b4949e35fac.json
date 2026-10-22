@@ -1,7 +1,7 @@
 {
   "id": "hdx-31d386cc-2a4d-46e3-aa80-8b4949e35fac",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-15T21:23:03Z",
+  "gbl_mdModified_dt": "2025-04-15T16:23:03Z",
   "dct_title_s": "GRID3 COD - Schools v1.0",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
   ],
+  "locn_geometry": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
+  "dcat_bbox": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
   "dct_temporal_sm": [
     "2021"
   ],
@@ -33,5 +35,5 @@
     2021
   ],
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-cod-schools-v1-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/31d386cc-2a4d-46e3-aa80-8b4949e35fac/resource/e69442d5-152b-4197-b285-8e8adcc32664/download/grid3-cod-schools-v1.0-data-release-notes.pdf\",\"label\":\"PDF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-cod-schools-v1-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/31d386cc-2a4d-46e3-aa80-8b4949e35fac/resource/e69442d5-152b-4197-b285-8e8adcc32664/download/grid3-cod-schools-v1.0-data-release-notes.pdf\",\"label\":\"GRID3 COD - Schools v1.0 Data Release Notes.pdf (PDF)\"},{\"url\":\"https://data.humdata.org/dataset/31d386cc-2a4d-46e3-aa80-8b4949e35fac/resource/37814692-c453-48e7-b392-75ca7db4becf/download/grid3_cod_schools_v1_0.gpkg\",\"label\":\"GRID3_COD_schools_v1_0.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/31d386cc-2a4d-46e3-aa80-8b4949e35fac/resource/878a81bd-3e8e-4f3c-81cf-6d8feac7262b/download/grid3_cod_haut-katanga_schools_v1_0.gpkg\",\"label\":\"GRID3_COD_Haut-Katanga_schools_v1_0.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/31d386cc-2a4d-46e3-aa80-8b4949e35fac/resource/f6167d05-3315-47b9-9507-8da683ccd6d3/download/grid3_cod_kasai_oriental_schools_v1_0.gpkg\",\"label\":\"GRID3_COD_Kasai_Oriental_schools_v1_0.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/31d386cc-2a4d-46e3-aa80-8b4949e35fac/resource/b09e80d6-b76e-4d8e-9d25-11835772d3f3/download/grid3_cod_kasai_schools_v1_0.gpkg\",\"label\":\"GRID3_COD_Kasai_schools_v1_0.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/31d386cc-2a4d-46e3-aa80-8b4949e35fac/resource/a20ec3e9-6f90-4b23-b598-8799c72d9ebc/download/grid3_cod_kinshasa_schools_v1_0.gpkg\",\"label\":\"GRID3_COD_Kinshasa_schools_v1_0.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/31d386cc-2a4d-46e3-aa80-8b4949e35fac/resource/a1b28439-8a56-47c9-9301-59cae1b1c7fb/download/grid3_cod_lomami_schools_v1_0.gpkg\",\"label\":\"GRID3_COD_Lomami_schools_v1_0.gpkg (Geopackage)\"}]}"
 }

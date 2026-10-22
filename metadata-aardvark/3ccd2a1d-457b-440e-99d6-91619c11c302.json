@@ -1,7 +1,7 @@
 {
   "id": "hdx-3ccd2a1d-457b-440e-99d6-91619c11c302",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-10T19:46:08Z",
+  "gbl_mdModified_dt": "2025-04-10T14:46:08Z",
   "dct_title_s": "Territoires du Nord-Kivu et Sud-Kivu (RDC) / North and South Kivu territories (DRC)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
   ],
+  "locn_geometry": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
+  "dcat_bbox": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
   "dct_temporal_sm": [
     "2021"
   ],
@@ -33,5 +35,5 @@
     2021
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/territoires-du-nord-kivu-et-sud-kivu-rdc-north-and-south-kivu-territories-drc\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/3ccd2a1d-457b-440e-99d6-91619c11c302/resource/7662afe5-eaf2-4864-b51a-7d886a517295/download/osm_nksk_territoires_210528.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/territoires-du-nord-kivu-et-sud-kivu-rdc-north-and-south-kivu-territories-drc\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/3ccd2a1d-457b-440e-99d6-91619c11c302/resource/7662afe5-eaf2-4864-b51a-7d886a517295/download/osm_nksk_territoires_210528.zip\",\"label\":\"OSM_NKSK_territoires_210528.zip (SHP)\"}]}"
 }

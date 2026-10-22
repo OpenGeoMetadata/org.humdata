@@ -1,7 +1,7 @@
 {
   "id": "hdx-851da624-80cd-45fc-837c-f21055ebe466",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:06:27Z",
+  "gbl_mdModified_dt": "2025-10-01T14:06:27Z",
   "dct_title_s": "Barbados: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Barbados"
   ],
+  "locn_geometry": "ENVELOPE(-59.66, -59.42, 13.35, 13.05)",
+  "dcat_bbox": "ENVELOPE(-59.66, -59.42, 13.35, 13.05)",
   "dct_temporal_sm": [
     "2015-2023"
   ],
@@ -47,5 +49,5 @@
     2023
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-brb\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-bb-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-brb\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-bb-latest.zip\",\"label\":\"whosonfirst-data-admin-bb-latest.zip (SHP)\"}]}"
 }

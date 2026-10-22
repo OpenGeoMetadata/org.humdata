@@ -1,7 +1,7 @@
 {
   "id": "hdx-3bf973ab-62b4-41a5-9109-82a4721f19df",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:51:33Z",
+  "gbl_mdModified_dt": "2026-05-07T07:51:33Z",
   "dct_title_s": "Guernsey: Administrative Division with Aggregated Population",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Guernsey"
   ],
+  "locn_geometry": "ENVELOPE(-2.68, -2.17, 49.74, 49.41)",
+  "dcat_bbox": "ENVELOPE(-2.68, -2.17, 49.74, 49.41)",
   "dct_temporal_sm": [
     "2022"
   ],
@@ -37,5 +39,5 @@
     2022
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-guernsey\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_GG_20220407.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-guernsey\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_GG_20220407.gpkg.gz\",\"label\":\"kontur_boundaries_GG_20220407.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_boundaries_GG_20230628.gpkg.gz\",\"label\":\"kontur_boundaries_GG_20230628.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_topology_boundaries_GG_20230628.gpkg.gz\",\"label\":\"kontur_topology_boundaries_GG_20230628.gpkg (Geopackage)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-c99518b7-4ff5-4eb7-a2f7-210f2af3563a",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:47:42Z",
+  "gbl_mdModified_dt": "2026-05-07T07:47:42Z",
   "dct_title_s": "Comoros: Administrative Division with Aggregated Population",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Comoros"
   ],
+  "locn_geometry": "ENVELOPE(43.21, 44.53, -11.36, -12.39)",
+  "dcat_bbox": "ENVELOPE(43.21, 44.53, -11.36, -12.39)",
   "dct_temporal_sm": [
     "2022"
   ],
@@ -37,5 +39,5 @@
     2022
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-comoros\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_KM_20220407.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-comoros\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_KM_20220407.gpkg.gz\",\"label\":\"kontur_boundaries_KM_20220407.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_boundaries_KM_20230628.gpkg.gz\",\"label\":\"kontur_boundaries_KM_20230628.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_topology_boundaries_KM_20230628.gpkg.gz\",\"label\":\"kontur_topology_boundaries_KM_20230628.gpkg (Geopackage)\"}]}"
 }

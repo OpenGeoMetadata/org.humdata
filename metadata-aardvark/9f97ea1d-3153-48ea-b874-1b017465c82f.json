@@ -1,7 +1,7 @@
 {
   "id": "hdx-9f97ea1d-3153-48ea-b874-1b017465c82f",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-05-01T14:46:02Z",
+  "gbl_mdModified_dt": "2025-05-01T09:46:02Z",
   "dct_title_s": "American Samoa: Copernicus Global Human Settlement Layer (GHSL)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "American Samoa"
   ],
+  "locn_geometry": "ENVELOPE(-171.09, -168.16, -11.05, -14.54)",
+  "dcat_bbox": "ENVELOPE(-171.09, -168.16, -11.05, -14.54)",
   "dct_temporal_sm": [
     "2025"
   ],
@@ -37,5 +39,5 @@
     2025
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/asm-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/9f97ea1d-3153-48ea-b874-1b017465c82f/resource/d8556d0c-eb9d-41f4-a2d8-62c656cd9e60/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_asm.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/asm-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/9f97ea1d-3153-48ea-b874-1b017465c82f/resource/d8556d0c-eb9d-41f4-a2d8-62c656cd9e60/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_asm.tif\",\"label\":\"GHS Built-up Surface (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/9f97ea1d-3153-48ea-b874-1b017465c82f/resource/42fa1db1-b8e2-4a6e-9118-872683d2ea87/download/ghs_pop_e2025_r2023a_54009_100_v1_0_asm.tif\",\"label\":\"GHS Population Grid (GeoTIFF)\"}]}"
 }

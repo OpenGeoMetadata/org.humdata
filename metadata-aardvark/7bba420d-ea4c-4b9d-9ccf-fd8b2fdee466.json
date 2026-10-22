@@ -1,7 +1,7 @@
 {
   "id": "hdx-7bba420d-ea4c-4b9d-9ccf-fd8b2fdee466",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:50:51Z",
+  "gbl_mdModified_dt": "2026-05-07T07:50:51Z",
   "dct_title_s": "Gibraltar: Administrative Division with Aggregated Population",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Gibraltar"
   ],
+  "locn_geometry": "ENVELOPE(-5.36, -5.33, 36.15, 36.11)",
+  "dcat_bbox": "ENVELOPE(-5.36, -5.33, 36.15, 36.11)",
   "dct_temporal_sm": [
     "2022"
   ],
@@ -37,5 +39,5 @@
     2022
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-gibraltar\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_GI_20220407.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-gibraltar\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_GI_20220407.gpkg.gz\",\"label\":\"kontur_boundaries_GI_20220407.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_boundaries_GI_20230628.gpkg.gz\",\"label\":\"kontur_boundaries_GI_20230628.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_topology_boundaries_GI_20230628.gpkg.gz\",\"label\":\"kontur_topology_boundaries_GI_20230628.gpkg (Geopackage)\"}]}"
 }

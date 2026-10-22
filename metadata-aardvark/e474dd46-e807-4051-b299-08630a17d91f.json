@@ -1,7 +1,7 @@
 {
   "id": "hdx-e474dd46-e807-4051-b299-08630a17d91f",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-10T16:24:39Z",
+  "gbl_mdModified_dt": "2026-03-10T11:24:39Z",
   "dct_title_s": "Andorra: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "Andorra"
   ],
+  "locn_geometry": "ENVELOPE(1.4, 1.77, 42.65, 42.42)",
+  "dcat_bbox": "ENVELOPE(1.4, 1.77, 42.65, 42.42)",
   "dct_temporal_sm": [
     "1853-2025"
   ],
@@ -205,5 +207,5 @@
     2025
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/and-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e474dd46-e807-4051-b299-08630a17d91f/resource/aaff396a-3a30-4453-a09f-ef445e5822b6/download/ibtracs_all_list_v04r01_lines_and.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/e474dd46-e807-4051-b299-08630a17d91f/resource/aaff396a-3a30-4453-a09f-ef445e5822b6/download/ibtracs_all_list_v04r01_lines_and.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/and-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e474dd46-e807-4051-b299-08630a17d91f/resource/bc706500-4190-463d-b47c-f22aff44b530/download/ibtracs_all_list_v04r01_and.csv\",\"label\":\"ibtracs_ALL_list_v04r01_AND.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/e474dd46-e807-4051-b299-08630a17d91f/resource/aaff396a-3a30-4453-a09f-ef445e5822b6/download/ibtracs_all_list_v04r01_lines_and.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_AND.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/e474dd46-e807-4051-b299-08630a17d91f/resource/aaff396a-3a30-4453-a09f-ef445e5822b6/download/ibtracs_all_list_v04r01_lines_and.geojson\"}"
 }

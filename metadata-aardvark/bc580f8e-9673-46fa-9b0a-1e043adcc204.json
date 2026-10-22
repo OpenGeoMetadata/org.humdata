@@ -1,7 +1,7 @@
 {
   "id": "hdx-bc580f8e-9673-46fa-9b0a-1e043adcc204",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:46:27Z",
+  "gbl_mdModified_dt": "2026-05-07T07:46:27Z",
   "dct_title_s": "San Marino: Administrative Division with Aggregated Population",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "San Marino"
   ],
+  "locn_geometry": "ENVELOPE(12.38, 12.5, 43.99, 43.89)",
+  "dcat_bbox": "ENVELOPE(12.38, 12.5, 43.99, 43.89)",
   "dct_temporal_sm": [
     "2022"
   ],
@@ -37,5 +39,5 @@
     2022
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-san-marino\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_SM_20220407.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-san-marino\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_SM_20220407.gpkg.gz\",\"label\":\"kontur_boundaries_SM_20220407.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_boundaries_SM_20230628.gpkg.gz\",\"label\":\"kontur_boundaries_SM_20230628.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_topology_boundaries_SM_20230628.gpkg.gz\",\"label\":\"kontur_topology_boundaries_SM_20230628.gpkg (Geopackage)\"}]}"
 }

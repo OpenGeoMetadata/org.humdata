@@ -1,7 +1,7 @@
 {
   "id": "hdx-f3ee757f-1e67-4392-92c5-f8f1d92cf9ca",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:45:39Z",
+  "gbl_mdModified_dt": "2026-05-07T07:45:39Z",
   "dct_title_s": "Anguilla: Administrative Division with Aggregated Population",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Anguilla"
   ],
+  "locn_geometry": "ENVELOPE(-63.43, -62.92, 18.61, 18.16)",
+  "dcat_bbox": "ENVELOPE(-63.43, -62.92, 18.61, 18.16)",
   "dct_temporal_sm": [
     "2022"
   ],
@@ -37,5 +39,5 @@
     2022
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-anguilla\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_AI_20220407.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-anguilla\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_AI_20220407.gpkg.gz\",\"label\":\"kontur_boundaries_AI_20220407.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_boundaries_AI_20230628.gpkg.gz\",\"label\":\"kontur_boundaries_AI_20230628.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_topology_boundaries_AI_20230628.gpkg.gz\",\"label\":\"kontur_topology_boundaries_AI_20230628.gpkg (Geopackage)\"}]}"
 }

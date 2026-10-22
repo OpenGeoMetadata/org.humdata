@@ -1,7 +1,7 @@
 {
   "id": "hdx-b8d45c0f-15e6-43ba-af44-e61b3001059e",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-02-26T02:11:48Z",
+  "gbl_mdModified_dt": "2025-02-25T20:11:48Z",
   "dct_title_s": "State of Palestine - Crossing Points",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -36,6 +36,8 @@
   "dct_spatial_sm": [
     "State of Palestine"
   ],
+  "locn_geometry": "ENVELOPE(34.2, 35.58, 32.55, 31.21)",
+  "dcat_bbox": "ENVELOPE(34.2, 35.58, 32.55, 31.21)",
   "dct_temporal_sm": [
     "2019"
   ],
@@ -43,5 +45,5 @@
     2019
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/state-of-palestine-transportation-network\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/b8d45c0f-15e6-43ba-af44-e61b3001059e/resource/ca0b105a-37c5-4a88-a40d-35389135b79c/download/crossingpoints.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/state-of-palestine-transportation-network\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/b8d45c0f-15e6-43ba-af44-e61b3001059e/resource/ca0b105a-37c5-4a88-a40d-35389135b79c/download/crossingpoints.zip\",\"label\":\"CrossingPoints.zip (SHP)\"}]}"
 }

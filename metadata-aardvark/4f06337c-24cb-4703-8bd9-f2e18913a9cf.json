@@ -1,7 +1,7 @@
 {
   "id": "hdx-4f06337c-24cb-4703-8bd9-f2e18913a9cf",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-06-27T15:03:06Z",
+  "gbl_mdModified_dt": "2025-06-27T10:03:06Z",
   "dct_title_s": "Bermuda - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Bermuda"
   ],
+  "locn_geometry": "ENVELOPE(-64.89, -64.64, 32.39, 32.24)",
+  "dcat_bbox": "ENVELOPE(-64.89, -64.64, 32.39, 32.24)",
   "dct_temporal_sm": [
     "2017"
   ],
@@ -39,5 +41,5 @@
     2017
   ],
   "dct_format_s": "XLSX",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-bmu\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/4f06337c-24cb-4703-8bd9-f2e18913a9cf/resource/e51eef69-e075-442c-87e6-96d139d615a1/download/bmu_gazetteer.xlsx\",\"label\":\"XLSX\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-bmu\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/4f06337c-24cb-4703-8bd9-f2e18913a9cf/resource/e51eef69-e075-442c-87e6-96d139d615a1/download/bmu_gazetteer.xlsx\",\"label\":\"bmu_gazetteer.xlsx (XLSX)\"},{\"url\":\"https://data.humdata.org/dataset/4f06337c-24cb-4703-8bd9-f2e18913a9cf/resource/6874da9f-b142-4504-b52d-9b0cc5ed0285/download/bmu_adm_2019_shp.zip\",\"label\":\"bmu_adm_2019_SHP.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/4f06337c-24cb-4703-8bd9-f2e18913a9cf/resource/f1fda545-8c35-4b7a-84b9-5957a8024a18/download/bmu_adm_2019_emf.zip\",\"label\":\"bmu_adm_2019_EMF.zip (EMF)\"}]}"
 }

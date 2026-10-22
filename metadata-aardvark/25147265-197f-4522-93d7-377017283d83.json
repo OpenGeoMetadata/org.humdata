@@ -1,7 +1,7 @@
 {
   "id": "hdx-25147265-197f-4522-93d7-377017283d83",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:10:23Z",
+  "gbl_mdModified_dt": "2025-10-01T14:10:23Z",
   "dct_title_s": "Tuvalu: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Tuvalu"
   ],
+  "locn_geometry": "ENVELOPE(176.12, 179.91, -5.67, -9.43)",
+  "dcat_bbox": "ENVELOPE(176.12, 179.91, -5.67, -9.43)",
   "dct_temporal_sm": [
     "2015-2023"
   ],
@@ -47,5 +49,5 @@
     2023
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-tuv\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-tv-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-tuv\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-tv-latest.zip\",\"label\":\"whosonfirst-data-admin-tv-latest.zip (SHP)\"}]}"
 }

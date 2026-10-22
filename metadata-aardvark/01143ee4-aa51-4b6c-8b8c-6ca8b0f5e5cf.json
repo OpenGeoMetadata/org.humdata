@@ -1,7 +1,7 @@
 {
   "id": "hdx-01143ee4-aa51-4b6c-8b8c-6ca8b0f5e5cf",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-15T21:22:48Z",
+  "gbl_mdModified_dt": "2025-04-15T16:22:48Z",
   "dct_title_s": "GRID3 COD - Religious Centers v1.0",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
   ],
+  "locn_geometry": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
+  "dcat_bbox": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
   "dct_temporal_sm": [
     "2021"
   ],
@@ -33,5 +35,5 @@
     2021
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-cod-religious-centers-v1-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/01143ee4-aa51-4b6c-8b8c-6ca8b0f5e5cf/resource/abc5c077-3d19-425b-a96e-ae31f3875229/download/grid3_cod_religious_centers_v1_0.gpkg\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-cod-religious-centers-v1-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/01143ee4-aa51-4b6c-8b8c-6ca8b0f5e5cf/resource/abc5c077-3d19-425b-a96e-ae31f3875229/download/grid3_cod_religious_centers_v1_0.gpkg\",\"label\":\"GRID3_COD_religious_centers_v1_0.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/01143ee4-aa51-4b6c-8b8c-6ca8b0f5e5cf/resource/dacae731-3f17-4503-963b-c0dcd012615f/download/grid3_cod_kasai_religious_centers_v1_0.gpkg\",\"label\":\"GRID3_COD_Kasai_religious_centers_v1_0.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/01143ee4-aa51-4b6c-8b8c-6ca8b0f5e5cf/resource/cf1f54fc-2c9f-4987-9dfe-5e7bfc011ea8/download/grid3_cod_haut-katanga_religious_centers_v1_0.gpkg\",\"label\":\"GRID3_COD_Haut-Katanga_religious_centers_v1_0.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/01143ee4-aa51-4b6c-8b8c-6ca8b0f5e5cf/resource/23f07072-435e-43f1-922c-2ad64cfeac99/download/grid3_cod_kasai_oriental_religious_centers_v1_0.gpkg\",\"label\":\"GRID3_COD_Kasai_Oriental_religious_centers_v1_0.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/01143ee4-aa51-4b6c-8b8c-6ca8b0f5e5cf/resource/428bcc27-0722-4607-9511-01bb092fdbcb/download/grid3_cod_kinshasa_religious_centers_v1_0.gpkg\",\"label\":\"GRID3_COD_Kinshasa_religious_centers_v1_0.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/01143ee4-aa51-4b6c-8b8c-6ca8b0f5e5cf/resource/31da6b6f-900a-466f-afb6-228dd509ebcb/download/grid3_cod_lomami_religious_centers_v1_0.gpkg\",\"label\":\"GRID3_COD_Lomami_religious_centers_v1_0.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/01143ee4-aa51-4b6c-8b8c-6ca8b0f5e5cf/resource/2835d6ab-b16b-409c-869e-25106f6a078c/download/grid3-cod-religious-centers-v1.0-data-release-notes.pdf\",\"label\":\"GRID3 COD - Religious Centers v1.0 Data Release Notes.pdf (PDF)\"}]}"
 }

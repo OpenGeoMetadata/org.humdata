@@ -1,7 +1,7 @@
 {
   "id": "hdx-486a3b54-f64b-432e-b058-81d8988362bb",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:31:50Z",
+  "gbl_mdModified_dt": "2026-05-07T07:31:50Z",
   "dct_title_s": "Åland Islands: Population Density for 400m H3 Hexagons",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Åland Islands"
   ],
+  "locn_geometry": "ENVELOPE(19.51, 21.1, 60.49, 59.9)",
+  "dcat_bbox": "ENVELOPE(19.51, 21.1, 60.49, 59.9)",
   "dct_temporal_sm": [
     "2023"
   ],
@@ -37,5 +39,5 @@
     2023
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-aland-islands\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_AX_20220630.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-aland-islands\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_AX_20220630.gpkg.gz\",\"label\":\"kontur_population_AX_20220630.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_AX_20231101.gpkg.gz\",\"label\":\"kontur_population_AX_20231101.gpkg (Geopackage)\"}]}"
 }

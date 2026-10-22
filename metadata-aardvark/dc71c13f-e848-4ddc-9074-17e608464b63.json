@@ -1,7 +1,7 @@
 {
   "id": "hdx-dc71c13f-e848-4ddc-9074-17e608464b63",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-07-01T15:19:04Z",
+  "gbl_mdModified_dt": "2025-07-01T10:19:04Z",
   "dct_title_s": "Micronesia (Federated States of) - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Micronesia (Federated States of)"
   ],
+  "locn_geometry": "ENVELOPE(138.06, 163.05, 9.78, 0.91)",
+  "dcat_bbox": "ENVELOPE(138.06, 163.05, 9.78, 0.91)",
   "dct_temporal_sm": [
     "2019-2024"
   ],
@@ -42,5 +44,5 @@
     2024
   ],
   "dct_format_s": "XLS",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-fsm\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/dc71c13f-e848-4ddc-9074-17e608464b63/resource/cb470018-7524-4487-9596-3807a83ac9cb/download/fsm_adm_gazeteer.xls\",\"label\":\"XLS\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-fsm\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/dc71c13f-e848-4ddc-9074-17e608464b63/resource/cb470018-7524-4487-9596-3807a83ac9cb/download/fsm_adm_gazeteer.xls\",\"label\":\"fsm_adm_gazeteer.xls (XLS)\"},{\"url\":\"https://data.humdata.org/dataset/dc71c13f-e848-4ddc-9074-17e608464b63/resource/7348d022-6726-438c-9b1c-0b5524b7dbfd/download/fsm_admbnda_shp.zip\",\"label\":\"fsm_admbnda_SHP.zip (SHP)\"}]}"
 }

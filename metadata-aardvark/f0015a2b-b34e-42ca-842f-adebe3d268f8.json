@@ -1,7 +1,7 @@
 {
   "id": "hdx-f0015a2b-b34e-42ca-842f-adebe3d268f8",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-06-27T15:03:02Z",
+  "gbl_mdModified_dt": "2025-06-27T10:03:02Z",
   "dct_title_s": "United States Virgin Islands - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "United States Virgin Islands"
   ],
+  "locn_geometry": "ENVELOPE(-65.05, -64.55, 18.39, 17.68)",
+  "dcat_bbox": "ENVELOPE(-65.05, -64.55, 18.39, 17.68)",
   "dct_temporal_sm": [
     "2017"
   ],
@@ -35,5 +37,5 @@
     2017
   ],
   "dct_format_s": "XLSX",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-vir\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/f0015a2b-b34e-42ca-842f-adebe3d268f8/resource/802d30f4-f27c-4d06-9a09-f108311ea735/download/vir_adm_2020.xls\",\"label\":\"XLSX\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-vir\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/f0015a2b-b34e-42ca-842f-adebe3d268f8/resource/802d30f4-f27c-4d06-9a09-f108311ea735/download/vir_adm_2020.xls\",\"label\":\"vir_adm_2020.xls (XLSX)\"},{\"url\":\"https://data.humdata.org/dataset/f0015a2b-b34e-42ca-842f-adebe3d268f8/resource/66502668-bcc7-4b5e-a101-c015df93206a/download/vir_adm_2019_shp.zip\",\"label\":\"vir_adm_2019_SHP.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/f0015a2b-b34e-42ca-842f-adebe3d268f8/resource/5657a382-0e98-4dab-be36-1085da85cace/download/vir_adm_2019_emf.zip\",\"label\":\"vir_adm_2019_EMF.zip (EMF)\"},{\"url\":\"https://data.humdata.org/dataset/f0015a2b-b34e-42ca-842f-adebe3d268f8/resource/d7fa1bbd-93d6-449f-83af-587797bf1fce/download/vir_adm_2019.gdb.zip\",\"label\":\"vir_adm_2019.gdb.zip (Geodatabase)\"}]}"
 }

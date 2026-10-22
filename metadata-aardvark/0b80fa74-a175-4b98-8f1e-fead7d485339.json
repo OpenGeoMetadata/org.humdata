@@ -1,7 +1,7 @@
 {
   "id": "hdx-0b80fa74-a175-4b98-8f1e-fead7d485339",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-02T17:37:21Z",
+  "gbl_mdModified_dt": "2026-03-02T11:37:21Z",
   "dct_title_s": "Comoros: Planet Road Surface, Width, and Passability Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -52,6 +52,8 @@
   "dct_spatial_sm": [
     "Comoros"
   ],
+  "locn_geometry": "ENVELOPE(43.21, 44.53, -11.36, -12.39)",
+  "dcat_bbox": "ENVELOPE(43.21, 44.53, -11.36, -12.39)",
   "dct_temporal_sm": [
     "2020-2024"
   ],
@@ -63,5 +65,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/comoros-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_KM_planet_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_KM_planet_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/comoros-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_KM_planet_roadsurface_lines.gpkg\",\"label\":\"Comoros GPKG heigit_KM_planet_roadsurface_lines.gpkg (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_KM_planet_roadsurface_lines.geojson\",\"label\":\"Comoros GeoJSON heigit_KM_planet_roadsurface_lines.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_KM_planet_roadsurface_lines.geojson\"}"
 }

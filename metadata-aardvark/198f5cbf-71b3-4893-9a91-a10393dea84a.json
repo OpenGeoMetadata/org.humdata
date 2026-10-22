@@ -1,7 +1,7 @@
 {
   "id": "hdx-198f5cbf-71b3-4893-9a91-a10393dea84a",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-01-09T23:07:52Z",
+  "gbl_mdModified_dt": "2025-01-09T17:07:52Z",
   "dct_title_s": "Maldives: Copernicus Global Human Settlement Layer (GHSL)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Maldives"
   ],
+  "locn_geometry": "ENVELOPE(72.68, 73.76, 7.11, -0.69)",
+  "dcat_bbox": "ENVELOPE(72.68, 73.76, 7.11, -0.69)",
   "dct_temporal_sm": [
     "2025"
   ],
@@ -37,5 +39,5 @@
     2025
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mdv-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/198f5cbf-71b3-4893-9a91-a10393dea84a/resource/8f84f7ee-f0b0-4708-8c02-b5e6006c138a/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_mdv.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mdv-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/198f5cbf-71b3-4893-9a91-a10393dea84a/resource/8f84f7ee-f0b0-4708-8c02-b5e6006c138a/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_mdv.tif\",\"label\":\"GHS Built-up Surface (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/198f5cbf-71b3-4893-9a91-a10393dea84a/resource/e20c66a1-d7a7-43d9-bc83-15c243086ce9/download/ghs_pop_e2025_r2023a_54009_100_v1_0_mdv.tif\",\"label\":\"GHS Population Grid (GeoTIFF)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-37ad4b30-2327-4d13-8ed5-f19017979d66",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-03T15:25:55Z",
+  "gbl_mdModified_dt": "2026-03-03T09:25:55Z",
   "dct_title_s": "Czechia: Planet Road Surface, Width, and Passability Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -52,6 +52,8 @@
   "dct_spatial_sm": [
     "Czechia"
   ],
+  "locn_geometry": "ENVELOPE(12.24, 18.85, 51.12, 48.56)",
+  "dcat_bbox": "ENVELOPE(12.24, 18.85, 51.12, 48.56)",
   "dct_temporal_sm": [
     "2020-2024"
   ],
@@ -63,5 +65,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/czechia-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_CZ_planet_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_CZ_planet_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/czechia-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_CZ_planet_roadsurface_lines.geojson\",\"label\":\"Czechia GeoJSON heigit_CZ_planet_roadsurface_lines.geojson (GeoJSON)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_CZ_planet_roadsurface_lines.gpkg\",\"label\":\"Czechia GPKG heigit_CZ_planet_roadsurface_lines.gpkg (Geopackage)\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_CZ_planet_roadsurface_lines.geojson\"}"
 }

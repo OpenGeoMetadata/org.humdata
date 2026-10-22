@@ -1,7 +1,7 @@
 {
   "id": "hdx-efe91506-f755-4ed1-bb6f-fb504e962616",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-02T17:29:05Z",
+  "gbl_mdModified_dt": "2026-03-02T11:29:05Z",
   "dct_title_s": "Palau: Planet Road Surface, Width, and Passability Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -52,6 +52,8 @@
   "dct_spatial_sm": [
     "Palau"
   ],
+  "locn_geometry": "ENVELOPE(131.13, 134.73, 8.1, 2.94)",
+  "dcat_bbox": "ENVELOPE(131.13, 134.73, 8.1, 2.94)",
   "dct_temporal_sm": [
     "2020-2024"
   ],
@@ -63,5 +65,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/palau-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_PW_planet_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_PW_planet_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/palau-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_PW_planet_roadsurface_lines.gpkg\",\"label\":\"Palau GPKG heigit_PW_planet_roadsurface_lines.gpkg (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_PW_planet_roadsurface_lines.geojson\",\"label\":\"Palau GeoJSON heigit_PW_planet_roadsurface_lines.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_PW_planet_roadsurface_lines.geojson\"}"
 }

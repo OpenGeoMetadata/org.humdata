@@ -1,7 +1,7 @@
 {
   "id": "hdx-5402598d-df7a-40a6-aeca-42e6f6ae028d",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-08-26T18:08:17Z",
+  "gbl_mdModified_dt": "2025-08-26T13:08:17Z",
   "dct_title_s": "American Samoa - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "American Samoa"
   ],
+  "locn_geometry": "ENVELOPE(-171.09, -168.16, -11.05, -14.54)",
+  "dcat_bbox": "ENVELOPE(-171.09, -168.16, -11.05, -14.54)",
   "dct_temporal_sm": [
     "2021"
   ],
@@ -37,5 +39,5 @@
     2021
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/geoboundaries-admin-boundaries-for-american-samoa\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ASM/ADM0/geoBoundaries-ASM-ADM0_simplified.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ASM/ADM0/geoBoundaries-ASM-ADM0_simplified.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/geoboundaries-admin-boundaries-for-american-samoa\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ASM/ADM0/geoBoundaries-ASM-ADM0_simplified.geojson\",\"label\":\"geoBoundaries-ASM-ADM0_simplified.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ASM/ADM0/geoBoundaries-ASM-ADM0.geojson\",\"label\":\"geoBoundaries-ASM-ADM0.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ASM/ADM0/geoBoundaries-ASM-ADM0.topojson\",\"label\":\"geoBoundaries-ASM-ADM0.topojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ASM/ADM0/geoBoundaries-ASM-ADM0-all.zip\",\"label\":\"geoBoundaries-ASM-ADM0-all.zip (SHP)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ASM/ADM3/geoBoundaries-ASM-ADM3_simplified.geojson\",\"label\":\"geoBoundaries-ASM-ADM3_simplified.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ASM/ADM3/geoBoundaries-ASM-ADM3.geojson\",\"label\":\"geoBoundaries-ASM-ADM3.geojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ASM/ADM3/geoBoundaries-ASM-ADM3.topojson\",\"label\":\"geoBoundaries-ASM-ADM3.topojson (GeoJSON)\"},{\"url\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ASM/ADM3/geoBoundaries-ASM-ADM3-all.zip\",\"label\":\"geoBoundaries-ASM-ADM3-all.zip (SHP)\"}],\"http://geojson.org/geojson-spec.html\":\"https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ASM/ADM0/geoBoundaries-ASM-ADM0_simplified.geojson\"}"
 }

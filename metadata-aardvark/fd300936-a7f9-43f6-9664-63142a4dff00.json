@@ -1,7 +1,7 @@
 {
   "id": "hdx-fd300936-a7f9-43f6-9664-63142a4dff00",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-02-26T02:07:38Z",
+  "gbl_mdModified_dt": "2025-02-25T20:07:38Z",
   "dct_title_s": "DR Congo - Transportation Network",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
   ],
+  "locn_geometry": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
+  "dcat_bbox": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
   "dct_temporal_sm": [
     "2016"
   ],
@@ -37,5 +39,5 @@
     2016
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/dr-congo-transportation-network\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/fd300936-a7f9-43f6-9664-63142a4dff00/resource/0d1986d2-1826-4e1c-9478-7479505d1218/download/axe_navigable.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/dr-congo-transportation-network\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/fd300936-a7f9-43f6-9664-63142a4dff00/resource/0d1986d2-1826-4e1c-9478-7479505d1218/download/axe_navigable.zip\",\"label\":\"axe_navigable.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/fd300936-a7f9-43f6-9664-63142a4dff00/resource/cfee335b-0276-4a4b-83a0-04c48f131526/download/airport_p.zip\",\"label\":\"Airport_p.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/fd300936-a7f9-43f6-9664-63142a4dff00/resource/03011e24-cf88-4a5b-aa4c-26b7a3477441/download/bac.zip\",\"label\":\"bac.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/fd300936-a7f9-43f6-9664-63142a4dff00/resource/d6f28155-dce9-4448-8f25-0479ac3e4d66/download/gare_p.zip\",\"label\":\"Gare_p.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/fd300936-a7f9-43f6-9664-63142a4dff00/resource/bce08f6c-5f89-42d3-b1de-b19d4dcd2cb3/download/pont.zip\",\"label\":\"pont.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/fd300936-a7f9-43f6-9664-63142a4dff00/resource/5a43fe16-0208-400b-bcb3-df31c67913f5/download/port_p.zip\",\"label\":\"Port_p.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/fd300936-a7f9-43f6-9664-63142a4dff00/resource/73ca4252-2664-4a62-9e79-85957b304cef/download/route.zip\",\"label\":\"route.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/fd300936-a7f9-43f6-9664-63142a4dff00/resource/b498a21e-8080-4cc4-878f-0bff3656f96b/download/railway_l.zip\",\"label\":\"Railway_l.zip (SHP)\"}]}"
 }

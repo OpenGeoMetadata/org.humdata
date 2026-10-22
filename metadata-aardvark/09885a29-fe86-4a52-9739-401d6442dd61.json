@@ -1,7 +1,7 @@
 {
   "id": "hdx-09885a29-fe86-4a52-9739-401d6442dd61",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:51:48Z",
+  "gbl_mdModified_dt": "2026-05-07T07:51:48Z",
   "dct_title_s": "Western Sahara: Administrative Division with Aggregated Population",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Western Sahara"
   ],
+  "locn_geometry": "ENVELOPE(-17.11, -8.68, 27.67, 20.76)",
+  "dcat_bbox": "ENVELOPE(-17.11, -8.68, 27.67, 20.76)",
   "dct_temporal_sm": [
     "2023"
   ],
@@ -37,5 +39,5 @@
     2023
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-western-sahara\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_boundaries_EH_20230628.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-western-sahara\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_boundaries_EH_20230628.gpkg.gz\",\"label\":\"kontur_boundaries_EH_20230628.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_topology_boundaries_EH_20230628.gpkg.gz\",\"label\":\"kontur_topology_boundaries_EH_20230628.gpkg (Geopackage)\"}]}"
 }

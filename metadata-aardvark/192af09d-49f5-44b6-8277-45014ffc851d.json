@@ -1,7 +1,7 @@
 {
   "id": "hdx-192af09d-49f5-44b6-8277-45014ffc851d",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:35:21Z",
+  "gbl_mdModified_dt": "2026-05-07T07:35:21Z",
   "dct_title_s": "Western Sahara: Population Density for 400m H3 Hexagons",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Western Sahara"
   ],
+  "locn_geometry": "ENVELOPE(-17.11, -8.68, 27.67, 20.76)",
+  "dcat_bbox": "ENVELOPE(-17.11, -8.68, 27.67, 20.76)",
   "dct_temporal_sm": [
     "2023"
   ],
@@ -37,5 +39,5 @@
     2023
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-western-sahara\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_EH_20230420.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-western-sahara\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_EH_20230420.gpkg.gz\",\"label\":\"kontur_population_EH_20230420.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_EH_20230212.gpkg.gz\",\"label\":\"kontur_population_EH_20230212.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_EH_20231101.gpkg.gz\",\"label\":\"kontur_population_EH_20231101.gpkg (Geopackage)\"}]}"
 }

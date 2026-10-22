@@ -1,7 +1,7 @@
 {
   "id": "hdx-8aa3899a-cbe6-4f71-b018-3a445c1ca9fe",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:35:42Z",
+  "gbl_mdModified_dt": "2026-05-07T07:35:42Z",
   "dct_title_s": "Norfolk Island: Population Density for 400m H3 Hexagons",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Norfolk Island"
   ],
+  "locn_geometry": "ENVELOPE(167.91, 168.0, -28.99, -29.09)",
+  "dcat_bbox": "ENVELOPE(167.91, 168.0, -28.99, -29.09)",
   "dct_temporal_sm": [
     "2023"
   ],
@@ -37,5 +39,5 @@
     2023
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-norfolk-island\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_NF_20220630.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-norfolk-island\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_NF_20220630.gpkg.gz\",\"label\":\"kontur_population_NF_20220630.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_NF_20231101.gpkg.gz\",\"label\":\"kontur_population_NF_20231101.gpkg (Geopackage)\"}]}"
 }

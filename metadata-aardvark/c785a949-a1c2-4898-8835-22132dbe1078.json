@@ -1,7 +1,7 @@
 {
   "id": "hdx-c785a949-a1c2-4898-8835-22132dbe1078",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:09:10Z",
+  "gbl_mdModified_dt": "2025-10-01T14:09:10Z",
   "dct_title_s": "Nauru: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Nauru"
   ],
+  "locn_geometry": "ENVELOPE(166.9, 166.96, -0.49, -0.56)",
+  "dcat_bbox": "ENVELOPE(166.9, 166.96, -0.49, -0.56)",
   "dct_temporal_sm": [
     "2015-2024"
   ],
@@ -48,5 +50,5 @@
     2024
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-nru\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-nr-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-nru\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-nr-latest.zip\",\"label\":\"whosonfirst-data-admin-nr-latest.zip (SHP)\"}]}"
 }

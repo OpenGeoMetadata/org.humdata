@@ -1,7 +1,7 @@
 {
   "id": "hdx-1b376e3a-a29e-418f-9084-6cea3aaa986f",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-02T17:32:23Z",
+  "gbl_mdModified_dt": "2026-03-02T11:32:23Z",
   "dct_title_s": "Saint Vincent and the Grenadines: Planet Road Surface, Width, and Passability Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -52,6 +52,8 @@
   "dct_spatial_sm": [
     "Saint Vincent and the Grenadines"
   ],
+  "locn_geometry": "ENVELOPE(-61.46, -61.12, 13.39, 12.58)",
+  "dcat_bbox": "ENVELOPE(-61.46, -61.12, 13.39, 12.58)",
   "dct_temporal_sm": [
     "2020-2024"
   ],
@@ -63,5 +65,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/saint-vincent-and-the-grenadines-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_VC_planet_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_VC_planet_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/saint-vincent-and-the-grenadines-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_VC_planet_roadsurface_lines.gpkg\",\"label\":\"Saint vincent and the grenadines GPKG heigit_VC_planet_roadsurface_lines.gpkg (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_VC_planet_roadsurface_lines.geojson\",\"label\":\"Saint vincent and the grenadines GeoJSON heigit_VC_planet_roadsurface_lines.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_VC_planet_roadsurface_lines.geojson\"}"
 }

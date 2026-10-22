@@ -1,7 +1,7 @@
 {
   "id": "hdx-01381a57-754f-46f4-ba1a-763f78796401",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-06-27T15:02:49Z",
+  "gbl_mdModified_dt": "2025-06-27T10:02:49Z",
   "dct_title_s": "Cayman Islands - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Cayman Islands"
   ],
+  "locn_geometry": "ENVELOPE(-81.42, -79.72, 19.76, 19.26)",
+  "dcat_bbox": "ENVELOPE(-81.42, -79.72, 19.76, 19.26)",
   "dct_temporal_sm": [
     "2020"
   ],
@@ -35,5 +37,5 @@
     2020
   ],
   "dct_format_s": "XLSX",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-cym\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/01381a57-754f-46f4-ba1a-763f78796401/resource/92017521-cf60-470f-a01e-d74ea79adb19/download/cym_admgz_2020.xlsx\",\"label\":\"XLSX\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-cym\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/01381a57-754f-46f4-ba1a-763f78796401/resource/92017521-cf60-470f-a01e-d74ea79adb19/download/cym_admgz_2020.xlsx\",\"label\":\"cym_admgz_2020.xlsx (XLSX)\"},{\"url\":\"https://data.humdata.org/dataset/01381a57-754f-46f4-ba1a-763f78796401/resource/f0fb4f6a-d74a-4f82-84e9-f5624276efd4/download/cym_adm_2020_shp.zip\",\"label\":\"cym_adm_2020_SHP.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/01381a57-754f-46f4-ba1a-763f78796401/resource/1cd4fc78-383e-43e9-9b74-e1b84e4ccb87/download/cym_adm_2020_emf.zip\",\"label\":\"cym_adm_2020_EMF.zip (EMF)\"},{\"url\":\"https://data.humdata.org/dataset/01381a57-754f-46f4-ba1a-763f78796401/resource/081ce63a-9622-4a01-b2b1-db11ee504479/download/cym_adm_2020.gdb.zip\",\"label\":\"cym_adm_2020.gdb.zip (Geodatabase)\"}]}"
 }

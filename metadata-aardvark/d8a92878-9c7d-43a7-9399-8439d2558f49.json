@@ -1,7 +1,7 @@
 {
   "id": "hdx-d8a92878-9c7d-43a7-9399-8439d2558f49",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-02T17:24:28Z",
+  "gbl_mdModified_dt": "2026-03-02T11:24:28Z",
   "dct_title_s": "Bonaire, Sint Eustatius and Saba: Planet Road Surface, Width, and Passability Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -52,6 +52,8 @@
   "dct_spatial_sm": [
     "Bonaire, Sint Eustatius and Saba"
   ],
+  "locn_geometry": "ENVELOPE(-68.42, -62.94, 17.65, 12.02)",
+  "dcat_bbox": "ENVELOPE(-68.42, -62.94, 17.65, 12.02)",
   "dct_temporal_sm": [
     "2020-2024"
   ],
@@ -63,5 +65,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/bonaire-sint-eustatius-and-saba-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_BQ_planet_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_BQ_planet_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/bonaire-sint-eustatius-and-saba-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_BQ_planet_roadsurface_lines.geojson\",\"label\":\"Bonaire, sint eustatius and saba GeoJSON heigit_BQ_planet_roadsurface_lines.geojson (GeoJSON)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_BQ_planet_roadsurface_lines.gpkg\",\"label\":\"Bonaire, sint eustatius and saba GPKG heigit_BQ_planet_roadsurface_lines.gpkg (Geopackage)\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_BQ_planet_roadsurface_lines.geojson\"}"
 }

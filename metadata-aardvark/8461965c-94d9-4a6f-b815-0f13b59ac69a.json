@@ -1,7 +1,7 @@
 {
   "id": "hdx-8461965c-94d9-4a6f-b815-0f13b59ac69a",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:54:03Z",
+  "gbl_mdModified_dt": "2026-05-07T07:54:03Z",
   "dct_title_s": "Timor-Leste: Administrative Division with Aggregated Population",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Timor-Leste"
   ],
+  "locn_geometry": "ENVELOPE(124.97, 127.34, -8.27, -9.39)",
+  "dcat_bbox": "ENVELOPE(124.97, 127.34, -8.27, -9.39)",
   "dct_temporal_sm": [
     "2022"
   ],
@@ -37,5 +39,5 @@
     2022
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-timor-leste\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_TL_20220407.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-timor-leste\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_TL_20220407.gpkg.gz\",\"label\":\"kontur_boundaries_TL_20220407.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_boundaries_TL_20230628.gpkg.gz\",\"label\":\"kontur_boundaries_TL_20230628.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_topology_boundaries_TL_20230628.gpkg.gz\",\"label\":\"kontur_topology_boundaries_TL_20230628.gpkg (Geopackage)\"}]}"
 }

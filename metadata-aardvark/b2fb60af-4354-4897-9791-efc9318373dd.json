@@ -1,7 +1,7 @@
 {
   "id": "hdx-b2fb60af-4354-4897-9791-efc9318373dd",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-11-19T16:33:35Z",
+  "gbl_mdModified_dt": "2025-11-19T10:33:35Z",
   "dct_title_s": "Federated States of Micronesia: High Resolution Population Density Maps + Demographic Estimates",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -36,6 +36,8 @@
   "dct_spatial_sm": [
     "Micronesia (Federated States of)"
   ],
+  "locn_geometry": "ENVELOPE(138.06, 163.05, 9.78, 0.91)",
+  "dcat_bbox": "ENVELOPE(138.06, 163.05, 9.78, 0.91)",
   "dct_temporal_sm": [
     "2019-2021"
   ],
@@ -45,5 +47,5 @@
     2021
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/federated-states-of-micronesia-high-resolution-population-density-maps-demographic-estimates\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/b2fb60af-4354-4897-9791-efc9318373dd/resource/e26e1b3c-945c-42eb-ae95-d140f8e25a60/download/fsm_children_under_five_2020_geotiff.zip\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/federated-states-of-micronesia-high-resolution-population-density-maps-demographic-estimates\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/b2fb60af-4354-4897-9791-efc9318373dd/resource/74711e79-8879-4161-980a-58115a4f6037/download/fsm_children_under_five_2020_csv.zip\",\"label\":\"fsm_children_under_five_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/b2fb60af-4354-4897-9791-efc9318373dd/resource/e26e1b3c-945c-42eb-ae95-d140f8e25a60/download/fsm_children_under_five_2020_geotiff.zip\",\"label\":\"fsm_children_under_five_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/b2fb60af-4354-4897-9791-efc9318373dd/resource/1b4de330-36d4-46d1-9afe-871a007edd29/download/fsm_elderly_60_plus_2020_csv.zip\",\"label\":\"fsm_elderly_60_plus_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/b2fb60af-4354-4897-9791-efc9318373dd/resource/67ba4dc0-7507-46a1-a799-1bd15e2f2cea/download/fsm_elderly_60_plus_2020_geotiff.zip\",\"label\":\"fsm_elderly_60_plus_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/b2fb60af-4354-4897-9791-efc9318373dd/resource/be1e2387-50ec-4ed0-9a94-9c822277a3f3/download/fsm_men_2020_csv.zip\",\"label\":\"fsm_men_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/b2fb60af-4354-4897-9791-efc9318373dd/resource/3b0002b6-f2bd-49f5-8889-7c095156b541/download/fsm_men_2020_geotiff.zip\",\"label\":\"fsm_men_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/b2fb60af-4354-4897-9791-efc9318373dd/resource/e29982f8-1575-4085-939b-a9fcd376167b/download/fsm_women_2020_csv.zip\",\"label\":\"fsm_women_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/b2fb60af-4354-4897-9791-efc9318373dd/resource/743c4f21-56b4-43fa-ad8e-617ed9aab62b/download/fsm_women_2020_geotiff.zip\",\"label\":\"fsm_women_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/b2fb60af-4354-4897-9791-efc9318373dd/resource/af5372e5-9e37-4163-b024-bdad7962fc58/download/fsm_women_of_reproductive_age_15_49_2020_csv.zip\",\"label\":\"fsm_women_of_reproductive_age_15_49_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/b2fb60af-4354-4897-9791-efc9318373dd/resource/91551740-e16d-45fc-9711-2731a0af841c/download/fsm_women_of_reproductive_age_15_49_2020_geotiff.zip\",\"label\":\"fsm_women_of_reproductive_age_15_49_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/b2fb60af-4354-4897-9791-efc9318373dd/resource/1c5b9c3d-dff1-40e2-9745-024e386afed4/download/fsm_youth_15_24_2020_csv.zip\",\"label\":\"fsm_youth_15_24_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/b2fb60af-4354-4897-9791-efc9318373dd/resource/eb7a1c1f-10eb-4573-a5cd-ded1cfc7406d/download/fsm_youth_15_24_2020_geotiff.zip\",\"label\":\"fsm_youth_15_24_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/b2fb60af-4354-4897-9791-efc9318373dd/resource/b287fb72-583e-49f6-8813-c76a79027ac6/download/fsm_general_2020_geotiff.zip\",\"label\":\"fsm_general_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/b2fb60af-4354-4897-9791-efc9318373dd/resource/8c40099c-c1c0-4a47-98e9-0de90bf8afa2/download/fsm_general_2020_csv.zip\",\"label\":\"fsm_general_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/b2fb60af-4354-4897-9791-efc9318373dd/resource/5f4facb2-074b-490e-9df5-c7e026dee52f/download/fsm_dg_metadata.json.zip\",\"label\":\"fsm_dg_metadata.json.zip (JSON)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-17dd5006-86a9-4e59-aaf8-a91fe9d38141",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-01-09T22:33:22Z",
+  "gbl_mdModified_dt": "2025-01-09T16:33:22Z",
   "dct_title_s": "Democratic Republic of the Congo: Copernicus Global Human Settlement Layer (GHSL)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
   ],
+  "locn_geometry": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
+  "dcat_bbox": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
   "dct_temporal_sm": [
     "2025"
   ],
@@ -37,5 +39,5 @@
     2025
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/17dd5006-86a9-4e59-aaf8-a91fe9d38141/resource/adb465cc-e2c4-4df8-969e-452aee211f8d/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_cod.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/17dd5006-86a9-4e59-aaf8-a91fe9d38141/resource/adb465cc-e2c4-4df8-969e-452aee211f8d/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_cod.tif\",\"label\":\"GHS Built-up Surface (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/17dd5006-86a9-4e59-aaf8-a91fe9d38141/resource/c0469c2c-9803-4862-bbcc-dcc3e05d853d/download/ghs_pop_e2025_r2023a_54009_100_v1_0_cod.tif\",\"label\":\"GHS Population Grid (GeoTIFF)\"}]}"
 }

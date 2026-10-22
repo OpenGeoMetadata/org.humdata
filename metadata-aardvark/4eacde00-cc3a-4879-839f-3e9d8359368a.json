@@ -1,7 +1,7 @@
 {
   "id": "hdx-4eacde00-cc3a-4879-839f-3e9d8359368a",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-09T22:22:02Z",
+  "gbl_mdModified_dt": "2026-03-09T17:22:02Z",
   "dct_title_s": "Côte d'Ivoire Walking Travel Time to nearest Level IV health centre",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Côte d'Ivoire"
   ],
+  "locn_geometry": "ENVELOPE(-8.6, -2.56, 10.52, 4.34)",
+  "dcat_bbox": "ENVELOPE(-8.6, -2.56, 10.52, 4.34)",
   "dct_temporal_sm": [
     "2024"
   ],
@@ -39,5 +41,5 @@
     2024
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cote-d-ivoire-walking-travel-time-to-nearest-level-iv-health-centre\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.eidf.ac.uk/eidf158-walkingtraveltimemaps/service_area_Cote%20d'Ivoire_walking.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cote-d-ivoire-walking-travel-time-to-nearest-level-iv-health-centre\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.eidf.ac.uk/eidf158-walkingtraveltimemaps/service_area_Cote%20d'Ivoire_walking.tif\",\"label\":\"service-area-cote-d-ivoire-walking.tif (GeoTIFF)\"}]}"
 }

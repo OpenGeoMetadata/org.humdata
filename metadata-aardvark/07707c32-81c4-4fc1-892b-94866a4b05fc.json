@@ -1,7 +1,7 @@
 {
   "id": "hdx-07707c32-81c4-4fc1-892b-94866a4b05fc",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:08:33Z",
+  "gbl_mdModified_dt": "2025-10-01T14:08:33Z",
   "dct_title_s": "Liechtenstein: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Liechtenstein"
   ],
+  "locn_geometry": "ENVELOPE(9.47, 9.62, 47.27, 47.05)",
+  "dcat_bbox": "ENVELOPE(9.47, 9.62, 47.27, 47.05)",
   "dct_temporal_sm": [
     "2015-2023"
   ],
@@ -47,5 +49,5 @@
     2023
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-lie\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-li-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-lie\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-li-latest.zip\",\"label\":\"whosonfirst-data-admin-li-latest.zip (SHP)\"}]}"
 }

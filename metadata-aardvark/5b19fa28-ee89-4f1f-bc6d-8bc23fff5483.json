@@ -1,7 +1,7 @@
 {
   "id": "hdx-5b19fa28-ee89-4f1f-bc6d-8bc23fff5483",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-09T22:21:53Z",
+  "gbl_mdModified_dt": "2026-03-09T17:21:53Z",
   "dct_title_s": "Cabo Verde Walking Travel Time to nearest Level IV health centre",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Cabo Verde"
   ],
+  "locn_geometry": "ENVELOPE(-25.37, -22.66, 17.2, 14.8)",
+  "dcat_bbox": "ENVELOPE(-25.37, -22.66, 17.2, 14.8)",
   "dct_temporal_sm": [
     "2024"
   ],
@@ -39,5 +41,5 @@
     2024
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cabo-verde-walking-travel-time-to-nearest-level-iv-health-centre\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.eidf.ac.uk/eidf158-walkingtraveltimemaps/service_area_CaboVerde_walking.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cabo-verde-walking-travel-time-to-nearest-level-iv-health-centre\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.eidf.ac.uk/eidf158-walkingtraveltimemaps/service_area_CaboVerde_walking.tif\",\"label\":\"service-area-cabo-verde-walking.tif (GeoTIFF)\"}]}"
 }

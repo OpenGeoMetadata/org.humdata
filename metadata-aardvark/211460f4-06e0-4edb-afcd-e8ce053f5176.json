@@ -1,7 +1,7 @@
 {
   "id": "hdx-211460f4-06e0-4edb-afcd-e8ce053f5176",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-15T19:28:51Z",
+  "gbl_mdModified_dt": "2025-04-15T14:28:51Z",
   "dct_title_s": "Türkiye - Elazig province populated places",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -20,6 +20,8 @@
   "dct_spatial_sm": [
     "Türkiye"
   ],
+  "locn_geometry": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
+  "dcat_bbox": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
   "dct_temporal_sm": [
     "2023"
   ],
@@ -27,5 +29,5 @@
     2023
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/turkiye-elazig-province-populated-places\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/211460f4-06e0-4edb-afcd-e8ce053f5176/resource/760fdbd0-6df2-4da0-8557-e68de9058aa1/download/yerlesimler_elazig_font_point.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/turkiye-elazig-province-populated-places\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/211460f4-06e0-4edb-afcd-e8ce053f5176/resource/760fdbd0-6df2-4da0-8557-e68de9058aa1/download/yerlesimler_elazig_font_point.zip\",\"label\":\"Yerlesimler_Elazig_font_point.zip (SHP)\"}]}"
 }

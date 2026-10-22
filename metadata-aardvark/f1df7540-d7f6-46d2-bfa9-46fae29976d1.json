@@ -1,7 +1,7 @@
 {
   "id": "hdx-f1df7540-d7f6-46d2-bfa9-46fae29976d1",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:45:09Z",
+  "gbl_mdModified_dt": "2026-05-07T07:45:09Z",
   "dct_title_s": "Holy See (Vatican City State): Administrative Division with Aggregated Population",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Holy See"
   ],
+  "locn_geometry": "ENVELOPE(12.45, 12.46, 41.91, 41.9)",
+  "dcat_bbox": "ENVELOPE(12.45, 12.46, 41.91, 41.9)",
   "dct_temporal_sm": [
     "2022"
   ],
@@ -37,5 +39,5 @@
     2022
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-holy-see-vatican-city-state\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_VA_20220407.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-holy-see-vatican-city-state\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_VA_20220407.gpkg.gz\",\"label\":\"kontur_boundaries_VA_20220407.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_boundaries_VA_20230628.gpkg.gz\",\"label\":\"kontur_boundaries_VA_20230628.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_topology_boundaries_VA_20230628.gpkg.gz\",\"label\":\"kontur_topology_boundaries_VA_20230628.gpkg (Geopackage)\"}]}"
 }

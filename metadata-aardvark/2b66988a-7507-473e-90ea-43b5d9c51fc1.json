@@ -1,7 +1,7 @@
 {
   "id": "hdx-2b66988a-7507-473e-90ea-43b5d9c51fc1",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:07:04Z",
+  "gbl_mdModified_dt": "2025-10-01T14:07:04Z",
   "dct_title_s": "Christmas Island: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Christmas Island"
   ],
+  "locn_geometry": "ENVELOPE(105.58, 105.72, -10.43, -10.57)",
+  "dcat_bbox": "ENVELOPE(105.58, 105.72, -10.43, -10.57)",
   "dct_temporal_sm": [
     "2015-2023"
   ],
@@ -47,5 +49,5 @@
     2023
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-cxr\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-cx-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-cxr\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-cx-latest.zip\",\"label\":\"whosonfirst-data-admin-cx-latest.zip (SHP)\"}]}"
 }

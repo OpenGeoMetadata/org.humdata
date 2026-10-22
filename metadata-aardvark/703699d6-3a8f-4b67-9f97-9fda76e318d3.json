@@ -1,7 +1,7 @@
 {
   "id": "hdx-703699d6-3a8f-4b67-9f97-9fda76e318d3",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:08:51Z",
+  "gbl_mdModified_dt": "2025-10-01T14:08:51Z",
   "dct_title_s": "Martinique: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Martinique"
   ],
+  "locn_geometry": "ENVELOPE(-61.23, -60.81, 14.88, 14.4)",
+  "dcat_bbox": "ENVELOPE(-61.23, -60.81, 14.88, 14.4)",
   "dct_temporal_sm": [
     "2015-2023"
   ],
@@ -47,5 +49,5 @@
     2023
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-mtq\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-mq-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-mtq\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-mq-latest.zip\",\"label\":\"whosonfirst-data-admin-mq-latest.zip (SHP)\"}]}"
 }

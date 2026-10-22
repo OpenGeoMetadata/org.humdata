@@ -1,7 +1,7 @@
 {
   "id": "hdx-d5f4bc5c-f748-452f-86e5-fc4375963621",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:43:23Z",
+  "gbl_mdModified_dt": "2026-05-07T07:43:23Z",
   "dct_title_s": "Sao Tome And Principe: Administrative Division with Aggregated Population",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Sao Tome and Principe"
   ],
+  "locn_geometry": "ENVELOPE(6.46, 7.47, 1.7, 0.02)",
+  "dcat_bbox": "ENVELOPE(6.46, 7.47, 1.7, 0.02)",
   "dct_temporal_sm": [
     "2022"
   ],
@@ -37,5 +39,5 @@
     2022
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-sao-tome-and-principe\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_ST_20220407.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-sao-tome-and-principe\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_ST_20220407.gpkg.gz\",\"label\":\"kontur_boundaries_ST_20220407.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_boundaries_ST_20230628.gpkg.gz\",\"label\":\"kontur_boundaries_ST_20230628.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_topology_boundaries_ST_20230628.gpkg.gz\",\"label\":\"kontur_topology_boundaries_ST_20230628.gpkg (Geopackage)\"}]}"
 }

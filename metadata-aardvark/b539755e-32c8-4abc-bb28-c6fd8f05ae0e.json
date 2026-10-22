@@ -1,7 +1,7 @@
 {
   "id": "hdx-b539755e-32c8-4abc-bb28-c6fd8f05ae0e",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-15T22:11:01Z",
+  "gbl_mdModified_dt": "2025-04-15T17:11:01Z",
   "dct_title_s": "GRID3 COG - Settlement Extents v3.0",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Congo"
   ],
+  "locn_geometry": "ENVELOPE(11.09, 18.45, 3.73, -5.04)",
+  "dcat_bbox": "ENVELOPE(11.09, 18.45, 3.73, -5.04)",
   "dct_temporal_sm": [
     "2016-2023"
   ],
@@ -42,5 +44,5 @@
     2023
   ],
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-cog-settlement-extents-v3-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/b539755e-32c8-4abc-bb28-c6fd8f05ae0e/resource/58265fac-cbdf-43ba-b76b-6e7fa0c11489/download/grid3-cog-settlement-extents-v3.0-data-release-notes-.pdf\",\"label\":\"PDF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-cog-settlement-extents-v3-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/b539755e-32c8-4abc-bb28-c6fd8f05ae0e/resource/58265fac-cbdf-43ba-b76b-6e7fa0c11489/download/grid3-cog-settlement-extents-v3.0-data-release-notes-.pdf\",\"label\":\"GRID3 COG - Settlement Extents v3.0 - Data Release Notes .pdf (PDF)\"},{\"url\":\"https://data.humdata.org/dataset/b539755e-32c8-4abc-bb28-c6fd8f05ae0e/resource/62fae024-e592-4603-b57e-19805fa97497/download/grid3_cog_settlement_extents_v3_0.zip\",\"label\":\"GRID3_COG_settlement_extents_v3_0.zip (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/b539755e-32c8-4abc-bb28-c6fd8f05ae0e/resource/9290ee08-4b07-420b-a00c-8ddce380a264/download/grid3_cog_settlement_grid_v3_0.zip\",\"label\":\"GRID3_COG_settlement_grid_v3_0.zip (Geopackage)\"}]}"
 }

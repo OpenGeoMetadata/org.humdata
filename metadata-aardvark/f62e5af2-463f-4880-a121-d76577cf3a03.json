@@ -1,7 +1,7 @@
 {
   "id": "hdx-f62e5af2-463f-4880-a121-d76577cf3a03",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-06-27T15:02:53Z",
+  "gbl_mdModified_dt": "2025-06-27T10:02:53Z",
   "dct_title_s": "Saint Kitts and Nevis - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Saint Kitts and Nevis"
   ],
+  "locn_geometry": "ENVELOPE(-62.87, -62.53, 17.42, 17.1)",
+  "dcat_bbox": "ENVELOPE(-62.87, -62.53, 17.42, 17.1)",
   "dct_temporal_sm": [
     "2017"
   ],
@@ -35,5 +37,5 @@
     2017
   ],
   "dct_format_s": "XLSX",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-kna\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/f62e5af2-463f-4880-a121-d76577cf3a03/resource/05c12b08-b627-493d-a77f-704c16425438/download/kna_admgz_2020.xlsx\",\"label\":\"XLSX\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-kna\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/f62e5af2-463f-4880-a121-d76577cf3a03/resource/05c12b08-b627-493d-a77f-704c16425438/download/kna_admgz_2020.xlsx\",\"label\":\"kna_admgz_2020.xlsx (XLSX)\"},{\"url\":\"https://data.humdata.org/dataset/f62e5af2-463f-4880-a121-d76577cf3a03/resource/15f5a20f-620f-4e74-9aed-9b267d48423d/download/kna_adm_2020_shp.zip\",\"label\":\"kna_adm_2020_SHP.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/f62e5af2-463f-4880-a121-d76577cf3a03/resource/04b3cd6d-99b6-4442-a360-0acd05259e74/download/kna_adm_2020_emf.zip\",\"label\":\"kna_adm_2020_EMF.zip (EMF)\"},{\"url\":\"https://data.humdata.org/dataset/f62e5af2-463f-4880-a121-d76577cf3a03/resource/43adce12-5af8-40a3-a1e9-59c0d2bded4a/download/kna_adm_2020.gdb.zip\",\"label\":\"kna_adm_2020.gdb.zip (Geodatabase)\"}]}"
 }

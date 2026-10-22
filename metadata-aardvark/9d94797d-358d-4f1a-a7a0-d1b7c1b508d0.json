@@ -1,7 +1,7 @@
 {
   "id": "hdx-9d94797d-358d-4f1a-a7a0-d1b7c1b508d0",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:54:15Z",
+  "gbl_mdModified_dt": "2026-05-07T07:54:15Z",
   "dct_title_s": "French Southern Territories: Administrative Division with Aggregated Population",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "French Southern and Antarctic Territories"
   ],
+  "locn_geometry": "ENVELOPE(39.72, 77.59, -11.55, -49.73)",
+  "dcat_bbox": "ENVELOPE(39.72, 77.59, -11.55, -49.73)",
   "dct_temporal_sm": [
     "2022"
   ],
@@ -37,5 +39,5 @@
     2022
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-french-southern-territories\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_TF_20220407.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-french-southern-territories\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_TF_20220407.gpkg.gz\",\"label\":\"kontur_boundaries_TF_20220407.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_boundaries_TF_20230628.gpkg.gz\",\"label\":\"kontur_boundaries_TF_20230628.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_topology_boundaries_TF_20230628.gpkg.gz\",\"label\":\"kontur_topology_boundaries_TF_20230628.gpkg (Geopackage)\"}]}"
 }

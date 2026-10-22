@@ -1,7 +1,7 @@
 {
   "id": "hdx-8262b1d5-4338-451a-8b49-e2da9affb7be",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-06-27T15:03:00Z",
+  "gbl_mdModified_dt": "2025-06-27T10:03:00Z",
   "dct_title_s": "Bonaire, Sint Eustatius and Saba - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "Bonaire, Sint Eustatius and Saba"
   ],
+  "locn_geometry": "ENVELOPE(-68.42, -62.94, 17.65, 12.02)",
+  "dcat_bbox": "ENVELOPE(-68.42, -62.94, 17.65, 12.02)",
   "dct_temporal_sm": [
     "2017"
   ],
@@ -33,5 +35,5 @@
     2017
   ],
   "dct_format_s": "XLS",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-bes\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/8262b1d5-4338-451a-8b49-e2da9affb7be/resource/8042d533-f92f-497b-9194-e6e9da26226e/download/bes_admgz.xls\",\"label\":\"XLS\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-bes\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/8262b1d5-4338-451a-8b49-e2da9affb7be/resource/8042d533-f92f-497b-9194-e6e9da26226e/download/bes_admgz.xls\",\"label\":\"bes_admgz.xls (XLS)\"},{\"url\":\"https://data.humdata.org/dataset/8262b1d5-4338-451a-8b49-e2da9affb7be/resource/fccff623-b668-4543-9e6f-02ad5c3ff2bf/download/bes_adm0.zip\",\"label\":\"BES_adm0.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/8262b1d5-4338-451a-8b49-e2da9affb7be/resource/2097beae-b8cc-4940-b879-3b335e26e03f/download/bes_adm1.zip\",\"label\":\"bes_adm1.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/8262b1d5-4338-451a-8b49-e2da9affb7be/resource/8ef76c4e-aa87-4a63-acd8-958d8788f589/download/bes_adm_emf.zip\",\"label\":\"bes_adm_EMF.zip (EMF)\"}]}"
 }

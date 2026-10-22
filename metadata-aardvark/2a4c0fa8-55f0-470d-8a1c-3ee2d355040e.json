@@ -1,7 +1,7 @@
 {
   "id": "hdx-2a4c0fa8-55f0-470d-8a1c-3ee2d355040e",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-11-19T16:35:04Z",
+  "gbl_mdModified_dt": "2025-11-19T10:35:04Z",
   "dct_title_s": "Gibraltar: High Resolution Population Density Maps + Demographic Estimates",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -36,6 +36,8 @@
   "dct_spatial_sm": [
     "Gibraltar"
   ],
+  "locn_geometry": "ENVELOPE(-5.36, -5.33, 36.15, 36.11)",
+  "dcat_bbox": "ENVELOPE(-5.36, -5.33, 36.15, 36.11)",
   "dct_temporal_sm": [
     "2019-2021"
   ],
@@ -45,5 +47,5 @@
     2021
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/gibraltar-high-resolution-population-density-maps-demographic-estimates\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/2a4c0fa8-55f0-470d-8a1c-3ee2d355040e/resource/471dc72c-9632-4710-b7ed-7cc1975da37c/download/gib_children_under_five_2020_geotiff.zip\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/gibraltar-high-resolution-population-density-maps-demographic-estimates\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/2a4c0fa8-55f0-470d-8a1c-3ee2d355040e/resource/471dc72c-9632-4710-b7ed-7cc1975da37c/download/gib_children_under_five_2020_geotiff.zip\",\"label\":\"gib_children_under_five_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/2a4c0fa8-55f0-470d-8a1c-3ee2d355040e/resource/5a47f16d-8a01-4439-ad9c-909c3a998412/download/gib_elderly_60_plus_2020_geotiff.zip\",\"label\":\"gib_elderly_60_plus_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/2a4c0fa8-55f0-470d-8a1c-3ee2d355040e/resource/6d4494b6-3f42-4cf3-809c-f78fcc6ef59f/download/gib_men_2020_geotiff.zip\",\"label\":\"gib_men_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/2a4c0fa8-55f0-470d-8a1c-3ee2d355040e/resource/2b4dd653-34c8-4651-a7bd-9236d229de1f/download/gib_women_2020_geotiff.zip\",\"label\":\"gib_women_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/2a4c0fa8-55f0-470d-8a1c-3ee2d355040e/resource/1080d7e1-b197-4c27-b502-b4cbd21ee925/download/gib_women_of_reproductive_age_15_49_2020_geotiff.zip\",\"label\":\"gib_women_of_reproductive_age_15_49_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/2a4c0fa8-55f0-470d-8a1c-3ee2d355040e/resource/48f70940-8e08-43db-8350-8af386658948/download/gib_youth_15_24_2020_geotiff.zip\",\"label\":\"gib_youth_15_24_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/2a4c0fa8-55f0-470d-8a1c-3ee2d355040e/resource/97a9da10-a61c-453d-8bfa-c9dd0fa06440/download/gib_children_under_five_2020_csv.zip\",\"label\":\"gib_children_under_five_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/2a4c0fa8-55f0-470d-8a1c-3ee2d355040e/resource/a51e94f4-9d21-44c6-a88b-267179f7a8b8/download/gib_elderly_60_plus_2020_csv.zip\",\"label\":\"gib_elderly_60_plus_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/2a4c0fa8-55f0-470d-8a1c-3ee2d355040e/resource/2f54bd29-0c5d-48dc-a6e0-38ecf832041d/download/gib_men_2020_csv.zip\",\"label\":\"gib_men_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/2a4c0fa8-55f0-470d-8a1c-3ee2d355040e/resource/cefc0970-3838-4bce-a2bd-a314e5fbfb11/download/gib_women_2020_csv.zip\",\"label\":\"gib_women_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/2a4c0fa8-55f0-470d-8a1c-3ee2d355040e/resource/0b8ba02a-eb42-43d2-8530-8f4af7ac6a9b/download/gib_women_of_reproductive_age_15_49_2020_csv.zip\",\"label\":\"gib_women_of_reproductive_age_15_49_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/2a4c0fa8-55f0-470d-8a1c-3ee2d355040e/resource/0a496dcd-7bd9-493b-9d57-a8206feb209d/download/gib_youth_15_24_2020_csv.zip\",\"label\":\"gib_youth_15_24_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/2a4c0fa8-55f0-470d-8a1c-3ee2d355040e/resource/ec8a2976-c1bc-445b-b675-c68e5c1a8d4f/download/gib_dg_metadata.json.zip\",\"label\":\"gib_dg_metadata.json.zip (JSON)\"}]}"
 }

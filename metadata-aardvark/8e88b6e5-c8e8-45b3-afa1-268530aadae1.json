@@ -1,7 +1,7 @@
 {
   "id": "hdx-8e88b6e5-c8e8-45b3-afa1-268530aadae1",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-08T23:38:53Z",
+  "gbl_mdModified_dt": "2025-04-08T18:38:53Z",
   "dct_title_s": "State of Palestine - Village boundary in the  West Bank",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "State of Palestine"
   ],
+  "locn_geometry": "ENVELOPE(34.2, 35.58, 32.55, 31.21)",
+  "dcat_bbox": "ENVELOPE(34.2, 35.58, 32.55, 31.21)",
   "dct_temporal_sm": [
     "2019"
   ],
@@ -35,5 +37,5 @@
     2019
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/state-of-palestine-village-boundary-in-the-west-bank\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/8e88b6e5-c8e8-45b3-afa1-268530aadae1/resource/70c36308-91ed-4e21-9a25-e0aefb4e756f/download/villageboundary.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/state-of-palestine-village-boundary-in-the-west-bank\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/8e88b6e5-c8e8-45b3-afa1-268530aadae1/resource/70c36308-91ed-4e21-9a25-e0aefb4e756f/download/villageboundary.zip\",\"label\":\"VillageBoundary.zip (SHP)\"}]}"
 }

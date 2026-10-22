@@ -1,7 +1,7 @@
 {
   "id": "hdx-ef48cb5e-9309-4f62-a68c-2f11454e2e92",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:09:04Z",
+  "gbl_mdModified_dt": "2025-10-01T14:09:04Z",
   "dct_title_s": "Norfolk Island: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Norfolk Island"
   ],
+  "locn_geometry": "ENVELOPE(167.91, 168.0, -28.99, -29.09)",
+  "dcat_bbox": "ENVELOPE(167.91, 168.0, -28.99, -29.09)",
   "dct_temporal_sm": [
     "2015-2023"
   ],
@@ -47,5 +49,5 @@
     2023
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-nfk\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-nf-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-nfk\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-nf-latest.zip\",\"label\":\"whosonfirst-data-admin-nf-latest.zip (SHP)\"}]}"
 }

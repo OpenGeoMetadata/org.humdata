@@ -1,7 +1,7 @@
 {
   "id": "hdx-d56ec50c-7faf-43d4-b070-303df410e4c7",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2024-06-06T15:18:47Z",
+  "gbl_mdModified_dt": "2024-06-06T10:18:47Z",
   "dct_title_s": "Reunion Island: Building Footprints in Areas Impacted by Cyclone Belal",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "Réunion"
   ],
+  "locn_geometry": "ENVELOPE(55.22, 55.86, -20.86, -21.38)",
+  "dcat_bbox": "ENVELOPE(55.22, 55.86, -20.86, -21.38)",
   "dct_temporal_sm": [
     "2019-2023"
   ],
@@ -37,5 +39,5 @@
     2023
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/reunion-island-buildings-footprint-belal-cyclone\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/d56ec50c-7faf-43d4-b070-303df410e4c7/resource/1841236e-581c-4d27-9c07-fad8b32bac25/download/reunion_buildings_foorptint_belal_cyclone.tiff\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/reunion-island-buildings-footprint-belal-cyclone\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/d56ec50c-7faf-43d4-b070-303df410e4c7/resource/5a24b897-a434-47a3-a729-dadc8d677fcd/download/reunion_island_cyclone_belal_buildigns_footprint.csv.gz\",\"label\":\"Reunion_Island_cyclone_belal_buildigns_footprint.csv.gz (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/d56ec50c-7faf-43d4-b070-303df410e4c7/resource/1841236e-581c-4d27-9c07-fad8b32bac25/download/reunion_buildings_foorptint_belal_cyclone.tiff\",\"label\":\"Reunion_buildings_foorptint_Belal_Cyclone.tiff (GeoTIFF)\"}]}"
 }

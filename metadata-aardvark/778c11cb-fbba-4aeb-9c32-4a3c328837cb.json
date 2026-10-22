@@ -1,7 +1,7 @@
 {
   "id": "hdx-778c11cb-fbba-4aeb-9c32-4a3c328837cb",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:07:33Z",
+  "gbl_mdModified_dt": "2025-10-01T14:07:33Z",
   "dct_title_s": "Faroe Islands: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Faroe Islands"
   ],
+  "locn_geometry": "ENVELOPE(-7.65, -6.27, 62.4, 61.39)",
+  "dcat_bbox": "ENVELOPE(-7.65, -6.27, 62.4, 61.39)",
   "dct_temporal_sm": [
     "2015-2023"
   ],
@@ -47,5 +49,5 @@
     2023
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-fro\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-fo-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-fro\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-fo-latest.zip\",\"label\":\"whosonfirst-data-admin-fo-latest.zip (SHP)\"}]}"
 }

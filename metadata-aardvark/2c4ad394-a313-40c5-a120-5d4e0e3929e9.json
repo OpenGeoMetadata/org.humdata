@@ -1,7 +1,7 @@
 {
   "id": "hdx-2c4ad394-a313-40c5-a120-5d4e0e3929e9",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:52:24Z",
+  "gbl_mdModified_dt": "2026-05-07T07:52:24Z",
   "dct_title_s": "Northern Mariana Islands: Administrative Division with Aggregated Population",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Northern Mariana Islands"
   ],
+  "locn_geometry": "ENVELOPE(144.9, 145.87, 20.56, 14.11)",
+  "dcat_bbox": "ENVELOPE(144.9, 145.87, 20.56, 14.11)",
   "dct_temporal_sm": [
     "2022"
   ],
@@ -37,5 +39,5 @@
     2022
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-northern-mariana-islands\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_MP_20220407.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-northern-mariana-islands\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_MP_20220407.gpkg.gz\",\"label\":\"kontur_boundaries_MP_20220407.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_boundaries_MP_20230628.gpkg.gz\",\"label\":\"kontur_boundaries_MP_20230628.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_topology_boundaries_MP_20230628.gpkg.gz\",\"label\":\"kontur_topology_boundaries_MP_20230628.gpkg (Geopackage)\"}]}"
 }

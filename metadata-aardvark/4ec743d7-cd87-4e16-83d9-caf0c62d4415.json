@@ -1,7 +1,7 @@
 {
   "id": "hdx-4ec743d7-cd87-4e16-83d9-caf0c62d4415",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-02T17:27:22Z",
+  "gbl_mdModified_dt": "2026-03-02T11:27:22Z",
   "dct_title_s": "American Samoa: Planet Road Surface, Width, and Passability Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -52,6 +52,8 @@
   "dct_spatial_sm": [
     "American Samoa"
   ],
+  "locn_geometry": "ENVELOPE(-171.09, -168.16, -11.05, -14.54)",
+  "dcat_bbox": "ENVELOPE(-171.09, -168.16, -11.05, -14.54)",
   "dct_temporal_sm": [
     "2020-2024"
   ],
@@ -63,5 +65,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/american-samoa-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_AS_planet_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_AS_planet_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/american-samoa-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_AS_planet_roadsurface_lines.geojson\",\"label\":\"American samoa GeoJSON heigit_AS_planet_roadsurface_lines.geojson (GeoJSON)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_AS_planet_roadsurface_lines.gpkg\",\"label\":\"American samoa GPKG heigit_AS_planet_roadsurface_lines.gpkg (Geopackage)\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_AS_planet_roadsurface_lines.geojson\"}"
 }

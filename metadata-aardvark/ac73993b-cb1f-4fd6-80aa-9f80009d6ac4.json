@@ -1,7 +1,7 @@
 {
   "id": "hdx-ac73993b-cb1f-4fd6-80aa-9f80009d6ac4",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-01-30T16:12:35Z",
+  "gbl_mdModified_dt": "2026-01-30T10:12:35Z",
   "dct_title_s": "GRID3 COD - Roads v1.0",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
   ],
+  "locn_geometry": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
+  "dcat_bbox": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
   "dct_temporal_sm": [
     "2010-2025"
   ],
@@ -52,5 +54,5 @@
     2025
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-cod-roads-v1-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://academiccommons.columbia.edu/doi/10.7916/vcra-te92/download\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-cod-roads-v1-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://academiccommons.columbia.edu/doi/10.7916/vcra-te92/download\",\"label\":\"GRID3_COD_roads_v1_0.gpkg (Geopackage)\"},{\"url\":\"https://academiccommons.columbia.edu/doi/10.7916/6ye2-g042/download\",\"label\":\"GRID3_COD_roads_v1.xml (XML)\"},{\"url\":\"https://academiccommons.columbia.edu/doi/10.7916/ekz8-yp85/download\",\"label\":\"GRID3 COD - Roads v1.0 - Data Release Notes.pdf (PDF)\"}]}"
 }

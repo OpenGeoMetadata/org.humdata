@@ -1,7 +1,7 @@
 {
   "id": "hdx-5ff2917f-4ce8-41c9-ab75-33504a9318ac",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:37:40Z",
+  "gbl_mdModified_dt": "2026-05-07T07:37:40Z",
   "dct_title_s": "China, Macao Special Administrative Region: Population Density for 400m H3 Hexagons",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "China, Macao Special Administrative Region"
   ],
+  "locn_geometry": "ENVELOPE(113.51, 113.59, 22.23, 22.1)",
+  "dcat_bbox": "ENVELOPE(113.51, 113.59, 22.23, 22.1)",
   "dct_temporal_sm": [
     "2023"
   ],
@@ -37,5 +39,5 @@
     2023
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-china-macao-special-administrative-region\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_MO_20220630.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-china-macao-special-administrative-region\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_MO_20220630.gpkg.gz\",\"label\":\"kontur_population_MO_20220630.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_MO_20231101.gpkg.gz\",\"label\":\"kontur_population_MO_20231101.gpkg (Geopackage)\"}]}"
 }

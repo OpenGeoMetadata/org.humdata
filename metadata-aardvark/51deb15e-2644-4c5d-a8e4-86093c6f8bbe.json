@@ -1,7 +1,7 @@
 {
   "id": "hdx-51deb15e-2644-4c5d-a8e4-86093c6f8bbe",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-06-27T15:02:29Z",
+  "gbl_mdModified_dt": "2025-06-27T10:02:29Z",
   "dct_title_s": "Antigua and Barbuda - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Antigua and Barbuda"
   ],
+  "locn_geometry": "ENVELOPE(-62.35, -61.66, 17.73, 16.93)",
+  "dcat_bbox": "ENVELOPE(-62.35, -61.66, 17.73, 16.93)",
   "dct_temporal_sm": [
     "2017"
   ],
@@ -35,5 +37,5 @@
     2017
   ],
   "dct_format_s": "XLSX",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-atg\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/51deb15e-2644-4c5d-a8e4-86093c6f8bbe/resource/3438678e-5dce-4d87-9cea-3b3bac48b4d2/download/atg_admpop_2023.xlsx\",\"label\":\"XLSX\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-atg\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/51deb15e-2644-4c5d-a8e4-86093c6f8bbe/resource/3438678e-5dce-4d87-9cea-3b3bac48b4d2/download/atg_admpop_2023.xlsx\",\"label\":\"atg_admpop_2023.xlsx (XLSX)\"},{\"url\":\"https://data.humdata.org/dataset/51deb15e-2644-4c5d-a8e4-86093c6f8bbe/resource/6b9965da-79ee-4182-b5c5-9afc4dae0241/download/atg_adm_2019_shp.zip\",\"label\":\"atg_adm_2019_SHP.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/51deb15e-2644-4c5d-a8e4-86093c6f8bbe/resource/394d9b27-9ae1-48c1-9312-093741840654/download/atg_adm_2019_emf.zip\",\"label\":\"atg_adm_2019_EMF.zip (EMF)\"},{\"url\":\"https://data.humdata.org/dataset/51deb15e-2644-4c5d-a8e4-86093c6f8bbe/resource/0b68780a-d80d-4adb-a855-da46e3fc706f/download/atg_adm_2019.gdb.zip\",\"label\":\"atg_adm_2019.gdb.zip (Geodatabase)\"}]}"
 }

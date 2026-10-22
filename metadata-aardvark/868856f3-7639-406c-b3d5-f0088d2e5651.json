@@ -1,7 +1,7 @@
 {
   "id": "hdx-868856f3-7639-406c-b3d5-f0088d2e5651",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:39:22Z",
+  "gbl_mdModified_dt": "2026-05-07T07:39:22Z",
   "dct_title_s": "Bonaire, Sint Eustatius and Saba: Population Density for 400m H3 Hexagons",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Bonaire, Sint Eustatius and Saba"
   ],
+  "locn_geometry": "ENVELOPE(-68.42, -62.94, 17.65, 12.02)",
+  "dcat_bbox": "ENVELOPE(-68.42, -62.94, 17.65, 12.02)",
   "dct_temporal_sm": [
     "2023"
   ],
@@ -37,5 +39,5 @@
     2023
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-bonaire-sint-eustatius-and-saba\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_BQ_20220630.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-bonaire-sint-eustatius-and-saba\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_BQ_20220630.gpkg.gz\",\"label\":\"kontur_population_BQ_20220630.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_BQ_20231101.gpkg.gz\",\"label\":\"kontur_population_BQ_20231101.gpkg (Geopackage)\"}]}"
 }

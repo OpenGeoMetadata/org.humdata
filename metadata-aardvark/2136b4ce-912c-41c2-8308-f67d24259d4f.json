@@ -1,7 +1,7 @@
 {
   "id": "hdx-2136b4ce-912c-41c2-8308-f67d24259d4f",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-10T16:33:01Z",
+  "gbl_mdModified_dt": "2026-03-10T11:33:01Z",
   "dct_title_s": "Gibraltar: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "Gibraltar"
   ],
+  "locn_geometry": "ENVELOPE(-5.36, -5.33, 36.15, 36.11)",
+  "dcat_bbox": "ENVELOPE(-5.36, -5.33, 36.15, 36.11)",
   "dct_temporal_sm": [
     "1852-2025"
   ],
@@ -206,5 +208,5 @@
     2025
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/gib-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/2136b4ce-912c-41c2-8308-f67d24259d4f/resource/53f1e690-bdd9-40ab-a35d-2d23ae17a7db/download/ibtracs_all_list_v04r01_lines_gib.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/2136b4ce-912c-41c2-8308-f67d24259d4f/resource/53f1e690-bdd9-40ab-a35d-2d23ae17a7db/download/ibtracs_all_list_v04r01_lines_gib.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/gib-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/2136b4ce-912c-41c2-8308-f67d24259d4f/resource/118cd770-c35e-46a3-b0c0-f159acd4eb7b/download/ibtracs_all_list_v04r01_gib.csv\",\"label\":\"ibtracs_ALL_list_v04r01_GIB.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/2136b4ce-912c-41c2-8308-f67d24259d4f/resource/53f1e690-bdd9-40ab-a35d-2d23ae17a7db/download/ibtracs_all_list_v04r01_lines_gib.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_GIB.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/2136b4ce-912c-41c2-8308-f67d24259d4f/resource/53f1e690-bdd9-40ab-a35d-2d23ae17a7db/download/ibtracs_all_list_v04r01_lines_gib.geojson\"}"
 }

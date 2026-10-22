@@ -1,7 +1,7 @@
 {
   "id": "hdx-418260ae-b978-4a13-845e-b7b029173b2a",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-01-10T00:06:22Z",
+  "gbl_mdModified_dt": "2025-01-09T18:06:22Z",
   "dct_title_s": "Türkiye: Copernicus Global Human Settlement Layer (GHSL)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Türkiye"
   ],
+  "locn_geometry": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
+  "dcat_bbox": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
   "dct_temporal_sm": [
     "2025"
   ],
@@ -37,5 +39,5 @@
     2025
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/tur-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/418260ae-b978-4a13-845e-b7b029173b2a/resource/5e8291f1-882a-4811-8e58-aef79e9bd5c2/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_tur.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/tur-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/418260ae-b978-4a13-845e-b7b029173b2a/resource/5e8291f1-882a-4811-8e58-aef79e9bd5c2/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_tur.tif\",\"label\":\"GHS Built-up Surface (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/418260ae-b978-4a13-845e-b7b029173b2a/resource/b4f6af91-586f-47fc-a30c-f4588d1c71cd/download/ghs_pop_e2025_r2023a_54009_100_v1_0_tur.tif\",\"label\":\"GHS Population Grid (GeoTIFF)\"}]}"
 }

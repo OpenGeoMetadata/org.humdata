@@ -1,7 +1,7 @@
 {
   "id": "hdx-49b4736b-e248-4a95-840b-ba079eb3a957",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-01-09T21:56:12Z",
+  "gbl_mdModified_dt": "2025-01-09T15:56:12Z",
   "dct_title_s": "Saint Barthélemy: Copernicus Global Human Settlement Layer (GHSL)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Saint Barthélemy"
   ],
+  "locn_geometry": "ENVELOPE(-62.87, -62.79, 17.93, 17.88)",
+  "dcat_bbox": "ENVELOPE(-62.87, -62.79, 17.93, 17.88)",
   "dct_temporal_sm": [
     "2025"
   ],
@@ -37,5 +39,5 @@
     2025
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/blm-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/49b4736b-e248-4a95-840b-ba079eb3a957/resource/5f034ac2-df31-47e6-ba6c-143aa1e5654b/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_blm.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/blm-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/49b4736b-e248-4a95-840b-ba079eb3a957/resource/5f034ac2-df31-47e6-ba6c-143aa1e5654b/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_blm.tif\",\"label\":\"GHS Built-up Surface (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/49b4736b-e248-4a95-840b-ba079eb3a957/resource/59e0fc3c-0d9a-46cc-ad12-3036b4a58689/download/ghs_pop_e2025_r2023a_54009_100_v1_0_blm.tif\",\"label\":\"GHS Population Grid (GeoTIFF)\"}]}"
 }

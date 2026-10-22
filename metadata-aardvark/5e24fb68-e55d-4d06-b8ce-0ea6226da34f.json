@@ -1,7 +1,7 @@
 {
   "id": "hdx-5e24fb68-e55d-4d06-b8ce-0ea6226da34f",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:08:52Z",
+  "gbl_mdModified_dt": "2025-10-01T14:08:52Z",
   "dct_title_s": "Northern Mariana Islands: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Northern Mariana Islands"
   ],
+  "locn_geometry": "ENVELOPE(144.9, 145.87, 20.56, 14.11)",
+  "dcat_bbox": "ENVELOPE(144.9, 145.87, 20.56, 14.11)",
   "dct_temporal_sm": [
     "2015-2023"
   ],
@@ -47,5 +49,5 @@
     2023
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-mnp\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-mp-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-mnp\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-mp-latest.zip\",\"label\":\"whosonfirst-data-admin-mp-latest.zip (SHP)\"}]}"
 }

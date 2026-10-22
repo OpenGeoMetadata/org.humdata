@@ -1,7 +1,7 @@
 {
   "id": "hdx-e8c9c489-906d-4ad5-86d6-1752e693acc9",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-06-27T15:03:03Z",
+  "gbl_mdModified_dt": "2025-06-27T10:03:03Z",
   "dct_title_s": "Martinique - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Martinique"
   ],
+  "locn_geometry": "ENVELOPE(-61.23, -60.81, 14.88, 14.4)",
+  "dcat_bbox": "ENVELOPE(-61.23, -60.81, 14.88, 14.4)",
   "dct_temporal_sm": [
     "2017"
   ],
@@ -35,5 +37,5 @@
     2017
   ],
   "dct_format_s": "XLSX",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-mtq\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e8c9c489-906d-4ad5-86d6-1752e693acc9/resource/d4fbd135-a464-448d-8c7f-403953732c4d/download/mtq_adm_gz_2016_ignf.xlsx\",\"label\":\"XLSX\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-mtq\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e8c9c489-906d-4ad5-86d6-1752e693acc9/resource/d4fbd135-a464-448d-8c7f-403953732c4d/download/mtq_adm_gz_2016_ignf.xlsx\",\"label\":\"mtq_adm_gz_2016_ignf.xlsx (XLSX)\"},{\"url\":\"https://data.humdata.org/dataset/e8c9c489-906d-4ad5-86d6-1752e693acc9/resource/efb06c79-5dee-4eb2-91f8-fff6ce3747a5/download/mtq_adm_2016_ignf_shp.zip\",\"label\":\"mtq_adm_2016_ignf_SHP.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/e8c9c489-906d-4ad5-86d6-1752e693acc9/resource/2c4924b6-ff87-4864-84a5-591e7be76896/download/mtq_adm_2016_ignf_emf.zip\",\"label\":\"mtq_adm_2016_ignf_EMF.zip (EMF)\"},{\"url\":\"https://data.humdata.org/dataset/e8c9c489-906d-4ad5-86d6-1752e693acc9/resource/ea99e434-0170-4016-b392-264509a0c20c/download/mtq_adm_2016_ignf_gdb.gdb.zip\",\"label\":\"mtq_adm_2016_ignf_GDB.gdb.zip (Geodatabase)\"}]}"
 }

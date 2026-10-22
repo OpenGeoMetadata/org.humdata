@@ -1,7 +1,7 @@
 {
   "id": "hdx-59615991-5325-4152-a8bf-9482ccbcb91d",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-02T17:29:22Z",
+  "gbl_mdModified_dt": "2026-03-02T11:29:22Z",
   "dct_title_s": "Turks and Caicos Islands: Planet Road Surface, Width, and Passability Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -52,8 +52,8 @@
   "dct_spatial_sm": [
     "Turks and Caicos Islands"
   ],
-  "locn_geometry": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
-  "dcat_bbox": "ENVELOPE(26.04, 44.79, 42.14, 35.82)",
+  "locn_geometry": "ENVELOPE(-72.49, -71.12, 21.96, 21.29)",
+  "dcat_bbox": "ENVELOPE(-72.49, -71.12, 21.96, 21.29)",
   "dct_temporal_sm": [
     "2020-2024"
   ],
@@ -65,5 +65,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/turks-and-caicos-islands-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_TC_planet_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_TC_planet_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/turks-and-caicos-islands-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_TC_planet_roadsurface_lines.geojson\",\"label\":\"Turks and caicos islands GeoJSON heigit_TC_planet_roadsurface_lines.geojson (GeoJSON)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_TC_planet_roadsurface_lines.gpkg\",\"label\":\"Turks and caicos islands GPKG heigit_TC_planet_roadsurface_lines.gpkg (Geopackage)\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_TC_planet_roadsurface_lines.geojson\"}"
 }

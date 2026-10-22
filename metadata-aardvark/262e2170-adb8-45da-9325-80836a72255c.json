@@ -1,7 +1,7 @@
 {
   "id": "hdx-262e2170-adb8-45da-9325-80836a72255c",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-10T16:41:39Z",
+  "gbl_mdModified_dt": "2026-03-10T11:41:39Z",
   "dct_title_s": "Monaco: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "Monaco"
   ],
+  "locn_geometry": "ENVELOPE(7.36, 7.44, 43.77, 43.71)",
+  "dcat_bbox": "ENVELOPE(7.36, 7.44, 43.77, 43.71)",
   "dct_temporal_sm": [
     "1853-2025"
   ],
@@ -205,5 +207,5 @@
     2025
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mco-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/262e2170-adb8-45da-9325-80836a72255c/resource/b4d64ccc-a606-41c0-bc1e-f3cd8dd2fbe2/download/ibtracs_all_list_v04r01_lines_mco.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/262e2170-adb8-45da-9325-80836a72255c/resource/b4d64ccc-a606-41c0-bc1e-f3cd8dd2fbe2/download/ibtracs_all_list_v04r01_lines_mco.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mco-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/262e2170-adb8-45da-9325-80836a72255c/resource/93e91119-1eeb-4c1c-b19f-2569ce3d084d/download/ibtracs_all_list_v04r01_mco.csv\",\"label\":\"ibtracs_ALL_list_v04r01_MCO.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/262e2170-adb8-45da-9325-80836a72255c/resource/b4d64ccc-a606-41c0-bc1e-f3cd8dd2fbe2/download/ibtracs_all_list_v04r01_lines_mco.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_MCO.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/262e2170-adb8-45da-9325-80836a72255c/resource/b4d64ccc-a606-41c0-bc1e-f3cd8dd2fbe2/download/ibtracs_all_list_v04r01_lines_mco.geojson\"}"
 }

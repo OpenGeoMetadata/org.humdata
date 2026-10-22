@@ -1,7 +1,7 @@
 {
   "id": "hdx-6ec2b01b-5946-448d-92dc-164970298d92",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:08:53Z",
+  "gbl_mdModified_dt": "2025-10-01T14:08:53Z",
   "dct_title_s": "Montserrat: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Montserrat"
   ],
+  "locn_geometry": "ENVELOPE(-62.24, -62.14, 16.82, 16.67)",
+  "dcat_bbox": "ENVELOPE(-62.24, -62.14, 16.82, 16.67)",
   "dct_temporal_sm": [
     "2015-2024"
   ],
@@ -48,5 +50,5 @@
     2024
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-msr\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-ms-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-msr\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-ms-latest.zip\",\"label\":\"whosonfirst-data-admin-ms-latest.zip (SHP)\"}]}"
 }

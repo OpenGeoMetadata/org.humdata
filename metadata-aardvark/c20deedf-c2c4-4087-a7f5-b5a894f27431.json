@@ -1,7 +1,7 @@
 {
   "id": "hdx-c20deedf-c2c4-4087-a7f5-b5a894f27431",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:07:36Z",
+  "gbl_mdModified_dt": "2025-10-01T14:07:36Z",
   "dct_title_s": "French Guiana: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "French Guiana"
   ],
+  "locn_geometry": "ENVELOPE(-54.62, -51.64, 5.75, 2.11)",
+  "dcat_bbox": "ENVELOPE(-54.62, -51.64, 5.75, 2.11)",
   "dct_temporal_sm": [
     "2015-2024"
   ],
@@ -48,5 +50,5 @@
     2024
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-guf\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-gf-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-guf\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-gf-latest.zip\",\"label\":\"whosonfirst-data-admin-gf-latest.zip (SHP)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-abb6742a-13a2-4cfe-bd2e-1a3db52f03bb",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:40:22Z",
+  "gbl_mdModified_dt": "2026-05-07T07:40:22Z",
   "dct_title_s": "Niue: Population Density for 400m H3 Hexagons",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Niue"
   ],
+  "locn_geometry": "ENVELOPE(-169.96, -169.78, -18.96, -19.15)",
+  "dcat_bbox": "ENVELOPE(-169.96, -169.78, -18.96, -19.15)",
   "dct_temporal_sm": [
     "2023"
   ],
@@ -37,5 +39,5 @@
     2023
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-niue\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_NU_20220630.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-niue\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_NU_20220630.gpkg.gz\",\"label\":\"kontur_population_NU_20220630.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_NU_20231101.gpkg.gz\",\"label\":\"kontur_population_NU_20231101.gpkg (Geopackage)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-37400fb8-e14f-49f7-9e5c-bba24f7ed8e5",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:08:49Z",
+  "gbl_mdModified_dt": "2025-10-01T14:08:49Z",
   "dct_title_s": "North Macedonia: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "North Macedonia"
   ],
+  "locn_geometry": "ENVELOPE(20.46, 22.95, 42.32, 40.84)",
+  "dcat_bbox": "ENVELOPE(20.46, 22.95, 42.32, 40.84)",
   "dct_temporal_sm": [
     "2015-2024"
   ],
@@ -48,5 +50,5 @@
     2024
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-mkd\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-mk-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-mkd\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-mk-latest.zip\",\"label\":\"whosonfirst-data-admin-mk-latest.zip (SHP)\"}]}"
 }

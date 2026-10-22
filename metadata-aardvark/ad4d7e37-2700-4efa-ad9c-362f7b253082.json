@@ -1,7 +1,7 @@
 {
   "id": "hdx-ad4d7e37-2700-4efa-ad9c-362f7b253082",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:07:30Z",
+  "gbl_mdModified_dt": "2025-10-01T14:07:30Z",
   "dct_title_s": "Micronesia (Federated States of): WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Micronesia (Federated States of)"
   ],
+  "locn_geometry": "ENVELOPE(138.06, 163.05, 9.78, 0.91)",
+  "dcat_bbox": "ENVELOPE(138.06, 163.05, 9.78, 0.91)",
   "dct_temporal_sm": [
     "2015-2024"
   ],
@@ -48,5 +50,5 @@
     2024
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-fsm\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-fm-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-fsm\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-fm-latest.zip\",\"label\":\"whosonfirst-data-admin-fm-latest.zip (SHP)\"}]}"
 }

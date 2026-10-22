@@ -1,7 +1,7 @@
 {
   "id": "hdx-7bb0881f-a978-4213-b0d6-842a83aee880",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:51:12Z",
+  "gbl_mdModified_dt": "2026-05-07T07:51:12Z",
   "dct_title_s": "Malta: Administrative Division with Aggregated Population",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Malta"
   ],
+  "locn_geometry": "ENVELOPE(14.18, 14.57, 36.08, 35.8)",
+  "dcat_bbox": "ENVELOPE(14.18, 14.57, 36.08, 35.8)",
   "dct_temporal_sm": [
     "2022"
   ],
@@ -37,5 +39,5 @@
     2022
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-malta\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_MT_20220407.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-malta\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_MT_20220407.gpkg.gz\",\"label\":\"kontur_boundaries_MT_20220407.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_boundaries_MT_20230628.gpkg.gz\",\"label\":\"kontur_boundaries_MT_20230628.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_topology_boundaries_MT_20230628.gpkg.gz\",\"label\":\"kontur_topology_boundaries_MT_20230628.gpkg (Geopackage)\"}]}"
 }

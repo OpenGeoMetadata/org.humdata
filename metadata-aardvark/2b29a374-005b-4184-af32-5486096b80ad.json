@@ -1,7 +1,7 @@
 {
   "id": "hdx-2b29a374-005b-4184-af32-5486096b80ad",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-02T17:28:14Z",
+  "gbl_mdModified_dt": "2026-03-02T11:28:14Z",
   "dct_title_s": "Réunion: Planet Road Surface, Width, and Passability Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -52,6 +52,8 @@
   "dct_spatial_sm": [
     "Réunion"
   ],
+  "locn_geometry": "ENVELOPE(55.22, 55.86, -20.86, -21.38)",
+  "dcat_bbox": "ENVELOPE(55.22, 55.86, -20.86, -21.38)",
   "dct_temporal_sm": [
     "2020-2024"
   ],
@@ -63,5 +65,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/reunion-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_RE_planet_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_RE_planet_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/reunion-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_RE_planet_roadsurface_lines.geojson\",\"label\":\"Réunion GeoJSON heigit_RE_planet_roadsurface_lines.geojson (GeoJSON)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_RE_planet_roadsurface_lines.gpkg\",\"label\":\"Réunion GPKG heigit_RE_planet_roadsurface_lines.gpkg (Geopackage)\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_RE_planet_roadsurface_lines.geojson\"}"
 }

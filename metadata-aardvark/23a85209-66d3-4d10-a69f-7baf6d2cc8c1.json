@@ -1,7 +1,7 @@
 {
   "id": "hdx-23a85209-66d3-4d10-a69f-7baf6d2cc8c1",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-07-01T14:20:07Z",
+  "gbl_mdModified_dt": "2025-07-01T09:20:07Z",
   "dct_title_s": "Bahrain - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Bahrain"
   ],
+  "locn_geometry": "ENVELOPE(50.38, 50.82, 26.29, 25.57)",
+  "dcat_bbox": "ENVELOPE(50.38, 50.82, 26.29, 25.57)",
   "dct_temporal_sm": [
     "2008-2024"
   ],
@@ -53,5 +55,5 @@
     2024
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-bhr\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/23a85209-66d3-4d10-a69f-7baf6d2cc8c1/resource/6b11ac4e-2ef7-4ec4-a1ea-006c7c85ded0/download/boundaries_bahrain_0_gaul.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-bhr\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/23a85209-66d3-4d10-a69f-7baf6d2cc8c1/resource/6b11ac4e-2ef7-4ec4-a1ea-006c7c85ded0/download/boundaries_bahrain_0_gaul.zip\",\"label\":\"Admin 0 (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/23a85209-66d3-4d10-a69f-7baf6d2cc8c1/resource/ed1d62a1-92f1-4105-b647-85e90362c59b/download/boundaries_bahrain_1_gaul.zip\",\"label\":\"Admin 1 (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/23a85209-66d3-4d10-a69f-7baf6d2cc8c1/resource/9df2a1ae-b5f0-4bfa-8c2a-f58c12ec76fd/download/bhn_pplp_1m_esri.zip\",\"label\":\"Capitals (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/23a85209-66d3-4d10-a69f-7baf6d2cc8c1/resource/0fe9fd06-39e4-4d60-846c-92ebcf9d81de/download/bhn_places_esri.zip\",\"label\":\"Populated Places (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/23a85209-66d3-4d10-a69f-7baf6d2cc8c1/resource/b8544a76-2be1-410c-bcf6-7ef3463ac823/download/bhr_adm_emf.zip\",\"label\":\"bhr_adm_EMF.zip (EMF)\"}]}"
 }

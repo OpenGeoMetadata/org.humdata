@@ -1,7 +1,7 @@
 {
   "id": "hdx-f97c6e04-251f-489a-bdb2-507a8de42818",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-10T16:40:44Z",
+  "gbl_mdModified_dt": "2026-03-10T11:40:44Z",
   "dct_title_s": "Liechtenstein: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "Liechtenstein"
   ],
+  "locn_geometry": "ENVELOPE(9.47, 9.62, 47.27, 47.05)",
+  "dcat_bbox": "ENVELOPE(9.47, 9.62, 47.27, 47.05)",
   "dct_temporal_sm": [
     "1853-2025"
   ],
@@ -205,5 +207,5 @@
     2025
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/lie-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/f97c6e04-251f-489a-bdb2-507a8de42818/resource/c0d26a4d-8621-4451-bdfc-d92b20f1954a/download/ibtracs_all_list_v04r01_lines_lie.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/f97c6e04-251f-489a-bdb2-507a8de42818/resource/c0d26a4d-8621-4451-bdfc-d92b20f1954a/download/ibtracs_all_list_v04r01_lines_lie.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/lie-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/f97c6e04-251f-489a-bdb2-507a8de42818/resource/eb1a4e2e-0ed4-494e-a7a7-f7e77027d021/download/ibtracs_all_list_v04r01_lie.csv\",\"label\":\"ibtracs_ALL_list_v04r01_LIE.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/f97c6e04-251f-489a-bdb2-507a8de42818/resource/c0d26a4d-8621-4451-bdfc-d92b20f1954a/download/ibtracs_all_list_v04r01_lines_lie.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_LIE.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/f97c6e04-251f-489a-bdb2-507a8de42818/resource/c0d26a4d-8621-4451-bdfc-d92b20f1954a/download/ibtracs_all_list_v04r01_lines_lie.geojson\"}"
 }

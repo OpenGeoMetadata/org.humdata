@@ -1,7 +1,7 @@
 {
   "id": "hdx-8b2a5e4d-529c-4689-aa62-d1ddfe188072",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-15T22:13:36Z",
+  "gbl_mdModified_dt": "2025-04-15T17:13:36Z",
   "dct_title_s": "GRID3 SWZ - Settlement Extents v3.0",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Eswatini"
   ],
+  "locn_geometry": "ENVELOPE(30.68, 32.07, -25.66, -27.29)",
+  "dcat_bbox": "ENVELOPE(30.68, 32.07, -25.66, -27.29)",
   "dct_temporal_sm": [
     "2016-2023"
   ],
@@ -42,5 +44,5 @@
     2023
   ],
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-swz-settlement-extents-v3-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/8b2a5e4d-529c-4689-aa62-d1ddfe188072/resource/76fa0683-1c52-485a-b9ba-bca87d206dce/download/grid3-swz-settlement-extents-v3.0-data-release-notes-.pdf\",\"label\":\"PDF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-swz-settlement-extents-v3-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/8b2a5e4d-529c-4689-aa62-d1ddfe188072/resource/76fa0683-1c52-485a-b9ba-bca87d206dce/download/grid3-swz-settlement-extents-v3.0-data-release-notes-.pdf\",\"label\":\"GRID3 SWZ - Settlement Extents v3.0 - Data Release Notes .pdf (PDF)\"},{\"url\":\"https://data.humdata.org/dataset/8b2a5e4d-529c-4689-aa62-d1ddfe188072/resource/804c1808-72fc-40db-ac2a-fdc8932c26c7/download/grid3_swz_settlement_extents_v3_0.zip\",\"label\":\"GRID3_SWZ_settlement_extents_v3_0.zip (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/8b2a5e4d-529c-4689-aa62-d1ddfe188072/resource/a02a8351-cd42-4305-b67a-b135b86863ff/download/grid3_swz_settlement_grid_v3_0.zip\",\"label\":\"GRID3_SWZ_settlement_grid_v3_0.zip (Geopackage)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-37b29c11-c1bd-48fe-9e0f-a2f41ef77540",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-03-25T19:06:28Z",
+  "gbl_mdModified_dt": "2025-03-25T14:06:28Z",
   "dct_title_s": "GRID3 SHN - Settlement Extents v3.0",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Saint Helena"
   ],
+  "locn_geometry": "ENVELOPE(-14.42, -5.65, -7.87, -40.4)",
+  "dcat_bbox": "ENVELOPE(-14.42, -5.65, -7.87, -40.4)",
   "dct_temporal_sm": [
     "2016-2023"
   ],
@@ -42,5 +44,5 @@
     2023
   ],
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-shn-settlement-extents-v3-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/37b29c11-c1bd-48fe-9e0f-a2f41ef77540/resource/510eca8b-4b37-4fd9-a037-ef5ba3377d97/download/grid3-shn-settlement-extents-v3.0-data-release-notes-.pdf\",\"label\":\"PDF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-shn-settlement-extents-v3-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/37b29c11-c1bd-48fe-9e0f-a2f41ef77540/resource/510eca8b-4b37-4fd9-a037-ef5ba3377d97/download/grid3-shn-settlement-extents-v3.0-data-release-notes-.pdf\",\"label\":\"GRID3 SHN - Settlement Extents v3.0 - Data Release Notes .pdf (PDF)\"},{\"url\":\"https://data.humdata.org/dataset/37b29c11-c1bd-48fe-9e0f-a2f41ef77540/resource/346c0504-aa53-488a-9eb6-f14b4ac9a0ee/download/grid3_shn_settlement_extents_v3_0.zip\",\"label\":\"GRID3_SHN_settlement_extents_v3_0.zip (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/37b29c11-c1bd-48fe-9e0f-a2f41ef77540/resource/6cefb81a-5715-4471-bea1-f4225cdd8762/download/grid3_shn_settlement_grid_v3_0.zip\",\"label\":\"GRID3_SHN_settlement_grid_v3_0.zip (Geopackage)\"}]}"
 }

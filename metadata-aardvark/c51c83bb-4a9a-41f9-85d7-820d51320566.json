@@ -1,0 +1,43 @@
+{
+  "id": "hdx-c51c83bb-4a9a-41f9-85d7-820d51320566",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-23T04:22:32Z",
+  "dct_title_s": "China - Earthquake on Oct 22 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000u43g](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000u43g) Magnitude 7.0 earthquake at 10.0 depth occurred on Oct 22 2026 50km N of Suo. The epicentre of the earthquake was located at latitude 32.3357 longitude 93.7138. It impacted 23195 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "locn_geometry": "ENVELOPE(73.68, 135.03, 53.46, 18.2)",
+  "dcat_bbox": "ENVELOPE(73.68, 135.03, 53.46, 18.2)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/chn-earthquake-sm-us6000u43g\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/c51c83bb-4a9a-41f9-85d7-820d51320566/resource/f55fe8f0-ce8a-4543-a9ec-49c5f66f531a/download/chn_wfpadam_earthquake_20261022.geojson\",\"label\":\"chn_wfpadam_earthquake_20261022.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/c51c83bb-4a9a-41f9-85d7-820d51320566/resource/a9a9998c-16a1-4c31-b0f5-c7613a03089d/download/chn_wfpadam_earthquake_20261022.csv\",\"label\":\"chn_wfpadam_earthquake_20261022.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/c51c83bb-4a9a-41f9-85d7-820d51320566/resource/1815b698-b7ff-4b6f-b4de-6f42bebe8cf4/download/chn_wfpadam_earthquake_20261022.xlsx\",\"label\":\"chn_wfpadam_earthquake_20261022.xlsx (XLSX)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/c51c83bb-4a9a-41f9-85d7-820d51320566/resource/f55fe8f0-ce8a-4543-a9ec-49c5f66f531a/download/chn_wfpadam_earthquake_20261022.geojson\"}"
+}

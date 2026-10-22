@@ -1,7 +1,7 @@
 {
   "id": "hdx-95f91539-a5a6-4335-9f4f-5093b7941a7e",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:35:05Z",
+  "gbl_mdModified_dt": "2026-05-07T07:35:05Z",
   "dct_title_s": "Grenada: Population Density for 400m H3 Hexagons",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Grenada"
   ],
+  "locn_geometry": "ENVELOPE(-61.8, -61.42, 12.53, 12.0)",
+  "dcat_bbox": "ENVELOPE(-61.8, -61.42, 12.53, 12.0)",
   "dct_temporal_sm": [
     "2023"
   ],
@@ -37,5 +39,5 @@
     2023
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-grenada\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_GD_20220630.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-grenada\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_GD_20220630.gpkg.gz\",\"label\":\"kontur_population_GD_20220630.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_GD_20231101.gpkg.gz\",\"label\":\"kontur_population_GD_20231101.gpkg (Geopackage)\"}]}"
 }

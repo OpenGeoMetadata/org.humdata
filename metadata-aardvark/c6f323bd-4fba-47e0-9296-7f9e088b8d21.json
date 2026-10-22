@@ -1,7 +1,7 @@
 {
   "id": "hdx-c6f323bd-4fba-47e0-9296-7f9e088b8d21",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-15T21:46:59Z",
+  "gbl_mdModified_dt": "2025-04-15T16:46:59Z",
   "dct_title_s": "GRID3 CIV - Settlement Extents v3.0",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Côte d'Ivoire"
   ],
+  "locn_geometry": "ENVELOPE(-8.6, -2.56, 10.52, 4.34)",
+  "dcat_bbox": "ENVELOPE(-8.6, -2.56, 10.52, 4.34)",
   "dct_temporal_sm": [
     "2016-2023"
   ],
@@ -42,5 +44,5 @@
     2023
   ],
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-civ-settlement-extents-v3-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/c6f323bd-4fba-47e0-9296-7f9e088b8d21/resource/e29f6e06-36a7-47b2-addb-5f12a6337821/download/grid3-civ-settlement-extents-v3.0-data-release-notes-.pdf\",\"label\":\"PDF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-civ-settlement-extents-v3-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/c6f323bd-4fba-47e0-9296-7f9e088b8d21/resource/e29f6e06-36a7-47b2-addb-5f12a6337821/download/grid3-civ-settlement-extents-v3.0-data-release-notes-.pdf\",\"label\":\"GRID3 CIV - Settlement Extents v3.0 - Data Release Notes .pdf (PDF)\"},{\"url\":\"https://data.humdata.org/dataset/c6f323bd-4fba-47e0-9296-7f9e088b8d21/resource/182543f0-79cf-4eea-add1-f14c00af81a2/download/grid3_civ_settlement_extents_v3_0.zip\",\"label\":\"GRID3_CIV_settlement_extents_v3_0.zip (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/c6f323bd-4fba-47e0-9296-7f9e088b8d21/resource/0618e69c-4d2c-4939-8df3-16504d3fabf7/download/grid3_civ_settlement_grid_v3_0.zip\",\"label\":\"GRID3_CIV_settlement_grid_v3_0.zip (Geopackage)\"}]}"
 }

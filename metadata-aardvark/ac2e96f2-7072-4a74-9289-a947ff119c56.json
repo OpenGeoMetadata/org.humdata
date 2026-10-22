@@ -1,7 +1,7 @@
 {
   "id": "hdx-ac2e96f2-7072-4a74-9289-a947ff119c56",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:09:11Z",
+  "gbl_mdModified_dt": "2025-10-01T14:09:11Z",
   "dct_title_s": "Niue: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Niue"
   ],
+  "locn_geometry": "ENVELOPE(-169.96, -169.78, -18.96, -19.15)",
+  "dcat_bbox": "ENVELOPE(-169.96, -169.78, -18.96, -19.15)",
   "dct_temporal_sm": [
     "2015-2023"
   ],
@@ -47,5 +49,5 @@
     2023
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-niu\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-nu-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-niu\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-nu-latest.zip\",\"label\":\"whosonfirst-data-admin-nu-latest.zip (SHP)\"}]}"
 }

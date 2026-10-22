@@ -1,7 +1,7 @@
 {
   "id": "hdx-c2b8a0cf-a4ed-4958-82d0-dddeb461f087",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-02-07T23:08:51Z",
+  "gbl_mdModified_dt": "2025-02-07T17:08:51Z",
   "dct_title_s": "GRID3 MYT - Settlement Extents v3.0",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Mayotte"
   ],
+  "locn_geometry": "ENVELOPE(45.04, 45.3, -12.64, -12.99)",
+  "dcat_bbox": "ENVELOPE(45.04, 45.3, -12.64, -12.99)",
   "dct_temporal_sm": [
     "2016-2023"
   ],
@@ -42,5 +44,5 @@
     2023
   ],
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-myt-settlement-extents-v3-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/c2b8a0cf-a4ed-4958-82d0-dddeb461f087/resource/06d1a21e-afcc-43d4-a30c-8a3c735459d0/download/grid3-myt-settlement-extents-v3.0-data-release-notes-.pdf\",\"label\":\"PDF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-myt-settlement-extents-v3-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/c2b8a0cf-a4ed-4958-82d0-dddeb461f087/resource/06d1a21e-afcc-43d4-a30c-8a3c735459d0/download/grid3-myt-settlement-extents-v3.0-data-release-notes-.pdf\",\"label\":\"GRID3 MYT - Settlement Extents v3.0 - Data Release Notes .pdf (PDF)\"},{\"url\":\"https://data.humdata.org/dataset/c2b8a0cf-a4ed-4958-82d0-dddeb461f087/resource/f5ca3804-9b5d-445e-a438-0964923d517c/download/grid3_myt_settlement_extents_v3_0.zip\",\"label\":\"GRID3_MYT_settlement_extents_v3_0.zip (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/c2b8a0cf-a4ed-4958-82d0-dddeb461f087/resource/597586a2-d0a5-4fc3-9c83-9d1503e7a26d/download/grid3_myt_settlement_grid_v3_0.zip\",\"label\":\"GRID3_MYT_settlement_grid_v3_0.zip (Geopackage)\"}]}"
 }

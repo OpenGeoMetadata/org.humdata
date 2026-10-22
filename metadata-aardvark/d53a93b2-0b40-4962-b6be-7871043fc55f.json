@@ -1,7 +1,7 @@
 {
   "id": "hdx-d53a93b2-0b40-4962-b6be-7871043fc55f",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:07:51Z",
+  "gbl_mdModified_dt": "2025-10-01T14:07:51Z",
   "dct_title_s": "South Georgia and the South Sandwich Islands: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "South Georgia and the South Sandwich Islands"
   ],
+  "locn_geometry": "ENVELOPE(-38.09, -26.23, -53.97, -59.48)",
+  "dcat_bbox": "ENVELOPE(-38.09, -26.23, -53.97, -59.48)",
   "dct_temporal_sm": [
     "2015-2023"
   ],
@@ -47,5 +49,5 @@
     2023
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-sgs\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-gs-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-sgs\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-gs-latest.zip\",\"label\":\"whosonfirst-data-admin-gs-latest.zip (SHP)\"}]}"
 }

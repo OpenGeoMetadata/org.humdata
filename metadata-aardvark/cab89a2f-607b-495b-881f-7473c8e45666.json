@@ -1,7 +1,7 @@
 {
   "id": "hdx-cab89a2f-607b-495b-881f-7473c8e45666",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-10T20:24:02Z",
+  "gbl_mdModified_dt": "2025-04-10T15:24:02Z",
   "dct_title_s": "DPS Ituri (RDC)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
   ],
+  "locn_geometry": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
+  "dcat_bbox": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
   "dct_temporal_sm": [
     "2021"
   ],
@@ -37,5 +39,5 @@
     2021
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/dps-ituri-rdc\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/cab89a2f-607b-495b-881f-7473c8e45666/resource/8446d3ac-bcdf-4c10-a0ac-b92574173c6c/download/osm_ituri_fosa_211201.gpkg\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/dps-ituri-rdc\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/cab89a2f-607b-495b-881f-7473c8e45666/resource/8446d3ac-bcdf-4c10-a0ac-b92574173c6c/download/osm_ituri_fosa_211201.gpkg\",\"label\":\"OSM_Ituri_FoSa_211201.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/cab89a2f-607b-495b-881f-7473c8e45666/resource/af34eafe-bf55-4f71-8c2b-4eced2b598b0/download/osm_bunia_lita_as_211207.gpkg\",\"label\":\"OSM_Bunia_Lita_AS_211207.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/cab89a2f-607b-495b-881f-7473c8e45666/resource/b277a699-3b58-4942-83b0-db62781bb178/download/osm_ituri_zs_211207.gpkg\",\"label\":\"OSM_Ituri_ZS_211207.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/cab89a2f-607b-495b-881f-7473c8e45666/resource/d97d71fd-e6fd-49c5-9924-073da263830a/download/osm_ituri_ts_211207.gpkg\",\"label\":\"OSM_Ituri_TS_211207.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/cab89a2f-607b-495b-881f-7473c8e45666/resource/d80fc893-0005-44c8-aa28-45030c9275ea/download/osm_ituri_dps_211208.gpkg\",\"label\":\"OSM_Ituri_DPS_211208.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/cab89a2f-607b-495b-881f-7473c8e45666/resource/ce49e1ff-b28d-4dba-949c-c3add0ce4a3a/download/osm_ituri_educ_211201.gpkg\",\"label\":\"OSM_Ituri_Educ_211201.gpkg (Geopackage)\"}]}"
 }

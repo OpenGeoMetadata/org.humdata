@@ -1,7 +1,7 @@
 {
   "id": "hdx-e4ac9c84-97c3-4de2-a8f8-71a603b0d5ef",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-01-09T23:19:27Z",
+  "gbl_mdModified_dt": "2025-01-09T17:19:27Z",
   "dct_title_s": "Nauru: Copernicus Global Human Settlement Layer (GHSL)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Nauru"
   ],
+  "locn_geometry": "ENVELOPE(166.9, 166.96, -0.49, -0.56)",
+  "dcat_bbox": "ENVELOPE(166.9, 166.96, -0.49, -0.56)",
   "dct_temporal_sm": [
     "2025"
   ],
@@ -37,5 +39,5 @@
     2025
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/nru-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e4ac9c84-97c3-4de2-a8f8-71a603b0d5ef/resource/253d0cd4-76ea-4496-86cd-3e96e5fbcb46/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_nru.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/nru-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e4ac9c84-97c3-4de2-a8f8-71a603b0d5ef/resource/253d0cd4-76ea-4496-86cd-3e96e5fbcb46/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_nru.tif\",\"label\":\"GHS Built-up Surface (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/e4ac9c84-97c3-4de2-a8f8-71a603b0d5ef/resource/51cfadb3-b6c6-41c2-83cf-219bb4fb5ec1/download/ghs_pop_e2025_r2023a_54009_100_v1_0_nru.tif\",\"label\":\"GHS Population Grid (GeoTIFF)\"}]}"
 }

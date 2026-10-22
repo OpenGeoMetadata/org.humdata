@@ -1,7 +1,7 @@
 {
   "id": "hdx-e1761a91-7848-4449-9f1f-d2e97832b509",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-06-27T15:02:48Z",
+  "gbl_mdModified_dt": "2025-06-27T10:02:48Z",
   "dct_title_s": "Curaçao - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Curaçao"
   ],
+  "locn_geometry": "ENVELOPE(-69.18, -68.73, 12.4, 12.04)",
+  "dcat_bbox": "ENVELOPE(-69.18, -68.73, 12.4, 12.04)",
   "dct_temporal_sm": [
     "2017"
   ],
@@ -35,5 +37,5 @@
     2017
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-cuw\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e1761a91-7848-4449-9f1f-d2e97832b509/resource/0a7c5f5c-91b9-4202-a937-b2bf65de1968/download/cuw_adm0.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-cuw\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e1761a91-7848-4449-9f1f-d2e97832b509/resource/0a7c5f5c-91b9-4202-a937-b2bf65de1968/download/cuw_adm0.zip\",\"label\":\"CUW_adm0.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/e1761a91-7848-4449-9f1f-d2e97832b509/resource/349dff81-32a3-411f-82a8-8d54633ad24f/download/cuw_gz.xlsx\",\"label\":\"cuw_gz.xlsx (XLSX)\"},{\"url\":\"https://data.humdata.org/dataset/e1761a91-7848-4449-9f1f-d2e97832b509/resource/631c13cd-f5e1-409b-9df9-f94d8e0027eb/download/gadm36_cuw_0.emf\",\"label\":\"gadm36_CUW_0.emf (EMF)\"}]}"
 }

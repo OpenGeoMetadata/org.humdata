@@ -1,7 +1,7 @@
 {
   "id": "hdx-e15c9ea0-3677-4b7c-a7a7-f96079b446bb",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-05-05T16:10:06Z",
+  "gbl_mdModified_dt": "2025-05-05T11:10:06Z",
   "dct_title_s": "Zone de santé Butembo (Nord-Kivu, RDC) / Butembo health zone (DRC)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
   ],
+  "locn_geometry": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
+  "dcat_bbox": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
   "dct_temporal_sm": [
     "2021"
   ],
@@ -37,5 +39,5 @@
     2021
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/zone-de-sante-butembo-health-zone-rdc-drc\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e15c9ea0-3677-4b7c-a7a7-f96079b446bb/resource/5b6c25db-384a-4d7d-bcef-5d06d25614fc/download/osm_zsbutembo_as_211201.gpkg\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/zone-de-sante-butembo-health-zone-rdc-drc\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e15c9ea0-3677-4b7c-a7a7-f96079b446bb/resource/5b6c25db-384a-4d7d-bcef-5d06d25614fc/download/osm_zsbutembo_as_211201.gpkg\",\"label\":\"OSM_ZSButembo_AS_211201.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/e15c9ea0-3677-4b7c-a7a7-f96079b446bb/resource/7205a01d-06da-4be7-bebe-d653c36e7f7c/download/osm_zsbutembo_zs_211201.gpkg\",\"label\":\"OSM_ZSButembo_ZS_211201.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/e15c9ea0-3677-4b7c-a7a7-f96079b446bb/resource/2342bcff-3e98-44bd-abe0-6705980ba491/download/osm_zsbutembo_cac_211201.gpkg\",\"label\":\"OSM_ZSButembo_CAC_211201.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/e15c9ea0-3677-4b7c-a7a7-f96079b446bb/resource/baf7a7cd-f687-4a7e-877c-ca4e77a5c39e/download/osm_zsbutembo_fosa_211201.gpkg\",\"label\":\"OSM_ZSButembo_FoSa_211201.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/e15c9ea0-3677-4b7c-a7a7-f96079b446bb/resource/d503c886-20aa-4f29-9e94-70d7462400e5/download/osm_zsbutembo_educ_211201.gpkg\",\"label\":\"OSM_ZSButembo_Educ_211201.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/e15c9ea0-3677-4b7c-a7a7-f96079b446bb/resource/1a40a3c3-53cc-4b35-92e1-dc65e8ae4bd5/download/osm_zsbutembo_autrespoints_211201.gpkg\",\"label\":\"OSM_ZSButembo_AutresPoints_211201.gpkg (Geopackage)\"}]}"
 }

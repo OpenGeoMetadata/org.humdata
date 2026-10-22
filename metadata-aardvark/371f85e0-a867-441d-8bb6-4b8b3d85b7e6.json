@@ -1,7 +1,7 @@
 {
   "id": "hdx-371f85e0-a867-441d-8bb6-4b8b3d85b7e6",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-10T03:38:08Z",
+  "gbl_mdModified_dt": "2025-04-09T22:38:08Z",
   "dct_title_s": "\"Territoires sanitaires\" (RDC) / \"Territory Health\" Divisions (DRC)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
   ],
+  "locn_geometry": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
+  "dcat_bbox": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
   "dct_temporal_sm": [
     "2021"
   ],
@@ -37,5 +39,5 @@
     2021
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/territoires-sanitaires-rdc\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/371f85e0-a867-441d-8bb6-4b8b3d85b7e6/resource/3c1ccfca-545f-449b-8d41-b63ee390df87/download/osm_rdc_sante_territoires_211212.gpkg\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/territoires-sanitaires-rdc\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/371f85e0-a867-441d-8bb6-4b8b3d85b7e6/resource/3c1ccfca-545f-449b-8d41-b63ee390df87/download/osm_rdc_sante_territoires_211212.gpkg\",\"label\":\"OSM_RDC_sante_territoires_211212.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/371f85e0-a867-441d-8bb6-4b8b3d85b7e6/resource/e58d67e3-4550-4d73-884c-da12c1625cf7/download/osm_rdc_sante_territoires_211212.zip\",\"label\":\"OSM_RDC_sante_territoires_211212.zip (SHP)\"}]}"
 }

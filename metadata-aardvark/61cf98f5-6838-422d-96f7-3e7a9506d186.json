@@ -1,7 +1,7 @@
 {
   "id": "hdx-61cf98f5-6838-422d-96f7-3e7a9506d186",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-10T20:10:38Z",
+  "gbl_mdModified_dt": "2025-04-10T15:10:38Z",
   "dct_title_s": "Aire de santé Butsili (Beni, Nord-Kivu, RDC) / Butsili health area",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -34,6 +34,8 @@
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
   ],
+  "locn_geometry": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
+  "dcat_bbox": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
   "dct_temporal_sm": [
     "2021"
   ],
@@ -41,5 +43,5 @@
     2021
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/aire-de-sante-butsili-beni-nord-kivu-rdc-health-area\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/61cf98f5-6838-422d-96f7-3e7a9506d186/resource/4aea0ff2-6c41-4a8d-ba97-149bd3234ff1/download/osm_asbutsili_cac_211023.gpkg\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/aire-de-sante-butsili-beni-nord-kivu-rdc-health-area\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/61cf98f5-6838-422d-96f7-3e7a9506d186/resource/4aea0ff2-6c41-4a8d-ba97-149bd3234ff1/download/osm_asbutsili_cac_211023.gpkg\",\"label\":\"OSM_ASButsili_CAC_211023.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/61cf98f5-6838-422d-96f7-3e7a9506d186/resource/8441ab49-b4c2-4240-af39-77ffcca87f50/download/osm_asbutsili_poi_211010.gpkg\",\"label\":\"OSM_ASButsili_PoI_211010.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/61cf98f5-6838-422d-96f7-3e7a9506d186/resource/7ae52e39-72ae-479c-8b56-5e56c174866b/download/osm_asbutsili_poi_211010.zip\",\"label\":\"OSM_ASButsili_PoI_211010.zip (SHP)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-7fe46b58-7bee-46fa-b780-d99beb3d5cbb",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:50:06Z",
+  "gbl_mdModified_dt": "2026-05-07T07:50:06Z",
   "dct_title_s": "Svalbard and Jan Mayen Islands: Administrative Division with Aggregated Population",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Svalbard and Jan Mayen Islands"
   ],
+  "locn_geometry": "ENVELOPE(-9.12, 33.65, 80.78, 70.8)",
+  "dcat_bbox": "ENVELOPE(-9.12, 33.65, 80.78, 70.8)",
   "dct_temporal_sm": [
     "2023"
   ],
@@ -37,5 +39,5 @@
     2023
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-svalbard-and-jan-mayen-islands\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_boundaries_SJ_20230628.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-svalbard-and-jan-mayen-islands\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_boundaries_SJ_20230628.gpkg.gz\",\"label\":\"kontur_boundaries_SJ_20230628.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_topology_boundaries_SJ_20230628.gpkg.gz\",\"label\":\"kontur_topology_boundaries_SJ_20230628.gpkg (Geopackage)\"}]}"
 }

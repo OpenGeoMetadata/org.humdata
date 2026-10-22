@@ -1,7 +1,7 @@
 {
   "id": "hdx-a3a51634-a37f-42e5-9b97-858872c8a94b",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-11-19T16:36:25Z",
+  "gbl_mdModified_dt": "2025-11-19T10:36:25Z",
   "dct_title_s": "Jersey: High Resolution Population Density Maps + Demographic Estimates",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -38,6 +38,8 @@
   "dct_spatial_sm": [
     "Jersey"
   ],
+  "locn_geometry": "ENVELOPE(-2.25, -2.0, 49.27, 49.17)",
+  "dcat_bbox": "ENVELOPE(-2.25, -2.0, 49.27, 49.17)",
   "dct_temporal_sm": [
     "2020"
   ],
@@ -45,5 +47,5 @@
     2020
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/jersey-high-resolution-population-density-maps-demographic-estimates\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/a3a51634-a37f-42e5-9b97-858872c8a94b/resource/c6d9ce1b-1a30-4ca9-8a96-fe2ea7eda4d6/download/jey_children_under_five_2020_geotiff.zip\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/jersey-high-resolution-population-density-maps-demographic-estimates\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/a3a51634-a37f-42e5-9b97-858872c8a94b/resource/21552a7e-caa3-4727-90b0-85ae62621ec2/download/jey_children_under_five_2020_csv.zip\",\"label\":\"jey_children_under_five_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/a3a51634-a37f-42e5-9b97-858872c8a94b/resource/c6d9ce1b-1a30-4ca9-8a96-fe2ea7eda4d6/download/jey_children_under_five_2020_geotiff.zip\",\"label\":\"jey_children_under_five_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/a3a51634-a37f-42e5-9b97-858872c8a94b/resource/0f817f6b-b276-499f-b1d8-eae820dfc1c8/download/jey_elderly_60_plus_2020_csv.zip\",\"label\":\"jey_elderly_60_plus_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/a3a51634-a37f-42e5-9b97-858872c8a94b/resource/19934e9a-9f76-4ab0-be89-44e70f4a569c/download/jey_elderly_60_plus_2020_geotiff.zip\",\"label\":\"jey_elderly_60_plus_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/a3a51634-a37f-42e5-9b97-858872c8a94b/resource/a52f19b4-d2ae-4018-9469-6b91d6c7f264/download/jey_general_2020_csv.zip\",\"label\":\"jey_general_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/a3a51634-a37f-42e5-9b97-858872c8a94b/resource/7676d85c-fe11-45cd-95c3-69ec19293655/download/jey_general_2020_geotiff.zip\",\"label\":\"jey_general_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/a3a51634-a37f-42e5-9b97-858872c8a94b/resource/1c036f1e-6f1f-42da-986c-d9afc7a9a254/download/jey_men_2020_csv.zip\",\"label\":\"jey_men_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/a3a51634-a37f-42e5-9b97-858872c8a94b/resource/b2bcbfa7-1156-4a07-b812-b1bb44edd22f/download/jey_men_2020_geotiff.zip\",\"label\":\"jey_men_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/a3a51634-a37f-42e5-9b97-858872c8a94b/resource/3ffd6ef5-841c-437e-9f07-2ba4c8800665/download/jey_women_2020_csv.zip\",\"label\":\"jey_women_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/a3a51634-a37f-42e5-9b97-858872c8a94b/resource/422137cc-627e-477c-b712-ad6e3903bdde/download/jey_women_2020_geotiff.zip\",\"label\":\"jey_women_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/a3a51634-a37f-42e5-9b97-858872c8a94b/resource/4b75ec27-322b-419e-b323-eaa2378860d7/download/jey_women_of_reproductive_age_15_49_2020_csv.zip\",\"label\":\"jey_women_of_reproductive_age_15_49_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/a3a51634-a37f-42e5-9b97-858872c8a94b/resource/91d958ab-fb8e-48a5-9d09-26e24a034158/download/jey_women_of_reproductive_age_15_49_2020_geotiff.zip\",\"label\":\"jey_women_of_reproductive_age_15_49_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/a3a51634-a37f-42e5-9b97-858872c8a94b/resource/ec79aecb-db34-43bf-add1-0b1c19b18c1f/download/jey_youth_15_24_2020_csv.zip\",\"label\":\"jey_youth_15_24_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/a3a51634-a37f-42e5-9b97-858872c8a94b/resource/90e97636-18bc-4b23-9d67-2562fe46b508/download/jey_youth_15_24_2020_geotiff.zip\",\"label\":\"jey_youth_15_24_2020_geotiff.zip (GeoTIFF)\"}]}"
 }

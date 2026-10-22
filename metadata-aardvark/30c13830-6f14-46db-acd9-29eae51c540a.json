@@ -1,7 +1,7 @@
 {
   "id": "hdx-30c13830-6f14-46db-acd9-29eae51c540a",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-11-13T16:02:19Z",
+  "gbl_mdModified_dt": "2025-11-13T10:02:19Z",
   "dct_title_s": "Mauritius - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Mauritius"
   ],
+  "locn_geometry": "ENVELOPE(56.52, 63.5, -10.32, -20.52)",
+  "dcat_bbox": "ENVELOPE(56.52, 63.5, -10.32, -20.52)",
   "dct_temporal_sm": [
     "2020-2025"
   ],
@@ -40,5 +42,5 @@
     2025
   ],
   "dct_format_s": "XLSX",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-mus\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/30c13830-6f14-46db-acd9-29eae51c540a/resource/8af49d6d-3f35-43ef-88fd-8642bac24a62/download/mus_admgaz_2020.xls\",\"label\":\"XLSX\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-mus\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/30c13830-6f14-46db-acd9-29eae51c540a/resource/8af49d6d-3f35-43ef-88fd-8642bac24a62/download/mus_admgaz_2020.xls\",\"label\":\"mus_admgaz_2020.xls (XLSX)\"},{\"url\":\"https://data.humdata.org/dataset/30c13830-6f14-46db-acd9-29eae51c540a/resource/2832fe0a-e89e-44df-84e1-a2c12117cc60/download/mus_adm_2020_v2_shp.zip\",\"label\":\"mus_adm_2020_v2_SHP.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/30c13830-6f14-46db-acd9-29eae51c540a/resource/6d9dabc4-f8f8-498e-a7ca-9f24710f385f/download/mus_administrative_boundary_ndma_gadm_ocha_emf.zip\",\"label\":\"mus_Administrative_Boundary_NDMA_GADM_OCHA_EMF.zip (EMF)\"}]}"
 }

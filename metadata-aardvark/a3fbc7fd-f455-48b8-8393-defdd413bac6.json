@@ -1,7 +1,7 @@
 {
   "id": "hdx-a3fbc7fd-f455-48b8-8393-defdd413bac6",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-06T15:22:23Z",
+  "gbl_mdModified_dt": "2026-06-06T10:22:23Z",
   "dct_title_s": "Wallis and Futuna Islands: Road Surface Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -50,6 +50,8 @@
   "dct_spatial_sm": [
     "Wallis and Futuna Islands"
   ],
+  "locn_geometry": "ENVELOPE(-178.19, -176.12, -13.2, -14.32)",
+  "dcat_bbox": "ENVELOPE(-178.19, -176.12, -13.2, -14.32)",
   "dct_temporal_sm": [
     "2024"
   ],
@@ -57,5 +59,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/wallis-and-futuna-islands-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_wlf_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_wlf_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/wallis-and-futuna-islands-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_wlf_roadsurface_lines.geojson\",\"label\":\"Wallis and futuna islands GeoJSON Resource (GeoJSON)\"},{\"url\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_wlf_roadsurface_lines.gpkg\",\"label\":\"Wallis and futuna islands GeoPackage Resource (Geopackage)\"}],\"http://geojson.org/geojson-spec.html\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_wlf_roadsurface_lines.geojson\"}"
 }

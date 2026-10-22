@@ -1,7 +1,7 @@
 {
   "id": "hdx-41f80e67-f140-494b-9b34-7861c4951364",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-06-27T15:02:45Z",
+  "gbl_mdModified_dt": "2025-06-27T10:02:45Z",
   "dct_title_s": "Saint Barthélemy - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "Saint Barthélemy"
   ],
+  "locn_geometry": "ENVELOPE(-62.87, -62.79, 17.93, 17.88)",
+  "dcat_bbox": "ENVELOPE(-62.87, -62.79, 17.93, 17.88)",
   "dct_temporal_sm": [
     "2017-2024"
   ],
@@ -40,5 +42,5 @@
     2024
   ],
   "dct_format_s": "XLS",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-blm\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/41f80e67-f140-494b-9b34-7861c4951364/resource/9dbf946a-1db6-402c-bf72-a64b83895171/download/blm_admgz.xls\",\"label\":\"XLS\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-blm\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/41f80e67-f140-494b-9b34-7861c4951364/resource/9dbf946a-1db6-402c-bf72-a64b83895171/download/blm_admgz.xls\",\"label\":\"blm_admgz.xls (XLS)\"},{\"url\":\"https://data.humdata.org/dataset/41f80e67-f140-494b-9b34-7861c4951364/resource/93991ce2-fcc0-476a-9cd4-44e12c002f55/download/blm_adm0.zip\",\"label\":\"BLM_adm0.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/41f80e67-f140-494b-9b34-7861c4951364/resource/affc4d0c-b3b3-41a1-bce4-989c96900ab2/download/blm_adm0.emf\",\"label\":\"BLM_adm0.emf (EMF)\"}]}"
 }

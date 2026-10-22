@@ -1,7 +1,7 @@
 {
   "id": "hdx-784cd1a7-4cec-4855-b39c-8579522beced",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-01-09T22:49:28Z",
+  "gbl_mdModified_dt": "2025-01-09T16:49:28Z",
   "dct_title_s": "Heard Island and McDonald Islands: Copernicus Global Human Settlement Layer (GHSL)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Heard Island and McDonald Islands"
   ],
+  "locn_geometry": "ENVELOPE(73.23, 73.82, -52.96, -53.2)",
+  "dcat_bbox": "ENVELOPE(73.23, 73.82, -52.96, -53.2)",
   "dct_temporal_sm": [
     "2025"
   ],
@@ -37,5 +39,5 @@
     2025
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hmd-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/784cd1a7-4cec-4855-b39c-8579522beced/resource/ab70ecf2-ad6c-4aa0-af73-c74dc452fc13/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_hmd.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hmd-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/784cd1a7-4cec-4855-b39c-8579522beced/resource/ab70ecf2-ad6c-4aa0-af73-c74dc452fc13/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_hmd.tif\",\"label\":\"GHS Built-up Surface (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/784cd1a7-4cec-4855-b39c-8579522beced/resource/1d5d8f8c-ee2c-49ad-abc2-6264c40365d1/download/ghs_pop_e2025_r2023a_54009_100_v1_0_hmd.tif\",\"label\":\"GHS Population Grid (GeoTIFF)\"}]}"
 }

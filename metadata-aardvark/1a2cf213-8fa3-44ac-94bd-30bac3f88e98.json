@@ -1,7 +1,7 @@
 {
   "id": "hdx-1a2cf213-8fa3-44ac-94bd-30bac3f88e98",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-11-19T16:32:09Z",
+  "gbl_mdModified_dt": "2025-11-19T10:32:09Z",
   "dct_title_s": "Anguilla: High Resolution Population Density Maps + Demographic Estimates",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -38,6 +38,8 @@
   "dct_spatial_sm": [
     "Anguilla"
   ],
+  "locn_geometry": "ENVELOPE(-63.43, -62.92, 18.61, 18.16)",
+  "dcat_bbox": "ENVELOPE(-63.43, -62.92, 18.61, 18.16)",
   "dct_temporal_sm": [
     "2019-2021"
   ],
@@ -47,5 +49,5 @@
     2021
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/anguilla-high-resolution-population-density-maps-demographic-estimates\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/1a2cf213-8fa3-44ac-94bd-30bac3f88e98/resource/446fb149-2b80-4df7-84ce-ded6023bc2b6/download/aia_general_2020_geotiff.zip\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/anguilla-high-resolution-population-density-maps-demographic-estimates\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/1a2cf213-8fa3-44ac-94bd-30bac3f88e98/resource/44701d6a-3527-4fd1-aca3-4eada3db6435/download/aia_general_2020_csv.zip\",\"label\":\"aia_general_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/1a2cf213-8fa3-44ac-94bd-30bac3f88e98/resource/446fb149-2b80-4df7-84ce-ded6023bc2b6/download/aia_general_2020_geotiff.zip\",\"label\":\"aia_general_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/1a2cf213-8fa3-44ac-94bd-30bac3f88e98/resource/df71f6af-4ad4-4ee6-99b4-7f6fa130af9d/download/aia_children_under_five_2020_csv.zip\",\"label\":\"aia_children_under_five_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/1a2cf213-8fa3-44ac-94bd-30bac3f88e98/resource/b003d6ed-8926-4cec-8511-7891605414b0/download/aia_children_under_five_2020_geotiff.zip\",\"label\":\"aia_children_under_five_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/1a2cf213-8fa3-44ac-94bd-30bac3f88e98/resource/1e86fcb1-4f9d-46d2-8836-345e52820c8d/download/aia_elderly_60_plus_2020_csv.zip\",\"label\":\"aia_elderly_60_plus_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/1a2cf213-8fa3-44ac-94bd-30bac3f88e98/resource/63508ac2-496d-4ad4-9159-c39658f02e3b/download/aia_elderly_60_plus_2020_geotiff.zip\",\"label\":\"aia_elderly_60_plus_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/1a2cf213-8fa3-44ac-94bd-30bac3f88e98/resource/376b6994-279d-4e41-be44-ed165bd09a48/download/aia_men_2020_csv.zip\",\"label\":\"aia_men_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/1a2cf213-8fa3-44ac-94bd-30bac3f88e98/resource/5bf709e7-e611-4d0c-91c1-e467b5b6f609/download/aia_men_2020_geotiff.zip\",\"label\":\"aia_men_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/1a2cf213-8fa3-44ac-94bd-30bac3f88e98/resource/1d853516-90b4-4404-b76c-c23c76d258e7/download/aia_women_2020_csv.zip\",\"label\":\"aia_women_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/1a2cf213-8fa3-44ac-94bd-30bac3f88e98/resource/33185a8a-3cec-4b9f-9bc7-167518194a62/download/aia_women_2020_geotiff.zip\",\"label\":\"aia_women_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/1a2cf213-8fa3-44ac-94bd-30bac3f88e98/resource/da287e90-1038-4353-b490-f3da9e98b044/download/aia_women_of_reproductive_age_15_49_2020_csv.zip\",\"label\":\"aia_women_of_reproductive_age_15_49_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/1a2cf213-8fa3-44ac-94bd-30bac3f88e98/resource/8c77593a-1e74-4fe6-8077-43cd21f3cd04/download/aia_women_of_reproductive_age_15_49_2020_geotiff.zip\",\"label\":\"aia_women_of_reproductive_age_15_49_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/1a2cf213-8fa3-44ac-94bd-30bac3f88e98/resource/1ff99e9b-6abc-4be1-976c-ae6475078bd5/download/aia_youth_15_24_2020_csv.zip\",\"label\":\"aia_youth_15_24_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/1a2cf213-8fa3-44ac-94bd-30bac3f88e98/resource/f16c3409-9994-4a2b-895d-6fde04ec4463/download/aia_youth_15_24_2020_geotiff.zip\",\"label\":\"aia_youth_15_24_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/1a2cf213-8fa3-44ac-94bd-30bac3f88e98/resource/a5e37605-f22f-43bf-9e34-1bdf06c0da72/download/aia_dg_metadata.json.zip\",\"label\":\"aia_dg_metadata.json.zip (JSON)\"}]}"
 }

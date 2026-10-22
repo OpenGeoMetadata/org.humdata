@@ -1,7 +1,7 @@
 {
   "id": "hdx-16124945-9041-4dea-929f-358540e4ef31",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:08:01Z",
+  "gbl_mdModified_dt": "2025-10-01T14:08:01Z",
   "dct_title_s": "China, Hong Kong Special Administrative Region: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "China, Hong Kong Special Administrative Region"
   ],
+  "locn_geometry": "ENVELOPE(113.83, 114.41, 22.57, 22.17)",
+  "dcat_bbox": "ENVELOPE(113.83, 114.41, 22.57, 22.17)",
   "dct_temporal_sm": [
     "2015-2024"
   ],
@@ -48,5 +50,5 @@
     2024
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-hkg\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-hk-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-hkg\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-hk-latest.zip\",\"label\":\"whosonfirst-data-admin-hk-latest.zip (SHP)\"}]}"
 }

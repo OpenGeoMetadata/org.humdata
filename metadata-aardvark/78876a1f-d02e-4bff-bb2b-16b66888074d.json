@@ -1,7 +1,7 @@
 {
   "id": "hdx-78876a1f-d02e-4bff-bb2b-16b66888074d",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-05-23T18:09:40Z",
+  "gbl_mdModified_dt": "2025-05-23T13:09:40Z",
   "dct_title_s": "South Georgia and the South Sandwich Islands: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "South Georgia and the South Sandwich Islands"
   ],
+  "locn_geometry": "ENVELOPE(-38.09, -26.23, -53.97, -59.48)",
+  "dcat_bbox": "ENVELOPE(-38.09, -26.23, -53.97, -59.48)",
   "dct_temporal_sm": [
     "2010"
   ],
@@ -35,5 +37,5 @@
     2010
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/sgs-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/78876a1f-d02e-4bff-bb2b-16b66888074d/resource/03941f9d-8881-4f99-b807-89ff2421c0b4/download/ibtracs_all_list_v04r01_lines_sgs.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/78876a1f-d02e-4bff-bb2b-16b66888074d/resource/03941f9d-8881-4f99-b807-89ff2421c0b4/download/ibtracs_all_list_v04r01_lines_sgs.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/sgs-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/78876a1f-d02e-4bff-bb2b-16b66888074d/resource/b85cb262-2f3f-4594-8309-793585e6cac8/download/ibtracs_all_list_v04r01_sgs.csv\",\"label\":\"ibtracs_ALL_list_v04r01_SGS.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/78876a1f-d02e-4bff-bb2b-16b66888074d/resource/03941f9d-8881-4f99-b807-89ff2421c0b4/download/ibtracs_all_list_v04r01_lines_sgs.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_SGS.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/78876a1f-d02e-4bff-bb2b-16b66888074d/resource/03941f9d-8881-4f99-b807-89ff2421c0b4/download/ibtracs_all_list_v04r01_lines_sgs.geojson\"}"
 }

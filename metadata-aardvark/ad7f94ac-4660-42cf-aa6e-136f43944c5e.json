@@ -1,7 +1,7 @@
 {
   "id": "hdx-ad7f94ac-4660-42cf-aa6e-136f43944c5e",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-01-09T22:05:00Z",
+  "gbl_mdModified_dt": "2025-01-09T16:05:00Z",
   "dct_title_s": "Brunei Darussalam: Copernicus Global Human Settlement Layer (GHSL)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,8 +30,8 @@
   "dct_spatial_sm": [
     "Brunei Darussalam"
   ],
-  "locn_geometry": "ENVELOPE(-180.0, 180.0, 81.25, 41.15)",
-  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 81.25, 41.15)",
+  "locn_geometry": "ENVELOPE(114.2, 115.45, 5.45, 4.01)",
+  "dcat_bbox": "ENVELOPE(114.2, 115.45, 5.45, 4.01)",
   "dct_temporal_sm": [
     "2025"
   ],
@@ -39,5 +39,5 @@
     2025
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/brn-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/ad7f94ac-4660-42cf-aa6e-136f43944c5e/resource/0c2852c1-89f9-4725-a56a-461d365a57b1/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_brn.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/brn-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/ad7f94ac-4660-42cf-aa6e-136f43944c5e/resource/0c2852c1-89f9-4725-a56a-461d365a57b1/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_brn.tif\",\"label\":\"GHS Built-up Surface (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/ad7f94ac-4660-42cf-aa6e-136f43944c5e/resource/404deb12-6753-47af-a581-f1a43633cfd1/download/ghs_pop_e2025_r2023a_54009_100_v1_0_brn.tif\",\"label\":\"GHS Population Grid (GeoTIFF)\"}]}"
 }

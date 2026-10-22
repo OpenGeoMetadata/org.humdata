@@ -1,7 +1,7 @@
 {
   "id": "hdx-4df90530-243a-47b1-bccb-aba32d1f9796",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-01-09T23:06:37Z",
+  "gbl_mdModified_dt": "2025-01-09T17:06:37Z",
   "dct_title_s": "Saint Martin (French part): Copernicus Global Human Settlement Layer (GHSL)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Saint Martin"
   ],
+  "locn_geometry": "ENVELOPE(-63.15, -63.01, 18.13, 18.03)",
+  "dcat_bbox": "ENVELOPE(-63.15, -63.01, 18.13, 18.03)",
   "dct_temporal_sm": [
     "2025"
   ],
@@ -37,5 +39,5 @@
     2025
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/maf-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/4df90530-243a-47b1-bccb-aba32d1f9796/resource/2b046a90-8c16-47e8-abf9-da3c042f7295/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_maf.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/maf-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/4df90530-243a-47b1-bccb-aba32d1f9796/resource/2b046a90-8c16-47e8-abf9-da3c042f7295/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_maf.tif\",\"label\":\"GHS Built-up Surface (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/4df90530-243a-47b1-bccb-aba32d1f9796/resource/818a6e8a-cb0b-4987-8820-4f244e9481c2/download/ghs_pop_e2025_r2023a_54009_100_v1_0_maf.tif\",\"label\":\"GHS Population Grid (GeoTIFF)\"}]}"
 }

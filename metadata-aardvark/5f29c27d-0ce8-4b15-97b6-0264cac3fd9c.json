@@ -1,7 +1,7 @@
 {
   "id": "hdx-5f29c27d-0ce8-4b15-97b6-0264cac3fd9c",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-03T15:30:01Z",
+  "gbl_mdModified_dt": "2026-03-03T09:30:01Z",
   "dct_title_s": "Taiwan (Province of China): Planet Road Surface, Width, and Passability Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -52,6 +52,8 @@
   "dct_spatial_sm": [
     "Taiwan (Province of China)"
   ],
+  "locn_geometry": "ENVELOPE(120.11, 121.95, 25.3, 21.97)",
+  "dcat_bbox": "ENVELOPE(120.11, 121.95, 25.3, 21.97)",
   "dct_temporal_sm": [
     "2020-2024"
   ],
@@ -63,5 +65,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/taiwan-province-of-china-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_TW_planet_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_TW_planet_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/taiwan-province-of-china-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_TW_planet_roadsurface_lines.gpkg\",\"label\":\"Taiwan (province of china) GPKG heigit_TW_planet_roadsurface_lines.gpkg (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_TW_planet_roadsurface_lines.geojson\",\"label\":\"Taiwan (province of china) GeoJSON heigit_TW_planet_roadsurface_lines.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_TW_planet_roadsurface_lines.geojson\"}"
 }

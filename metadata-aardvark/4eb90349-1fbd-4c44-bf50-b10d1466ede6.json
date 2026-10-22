@@ -1,7 +1,7 @@
 {
   "id": "hdx-4eb90349-1fbd-4c44-bf50-b10d1466ede6",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-02T17:33:43Z",
+  "gbl_mdModified_dt": "2026-03-02T11:33:43Z",
   "dct_title_s": "Côte d'Ivoire: Planet Road Surface, Width, and Passability Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -52,6 +52,8 @@
   "dct_spatial_sm": [
     "Côte d'Ivoire"
   ],
+  "locn_geometry": "ENVELOPE(-8.6, -2.56, 10.52, 4.34)",
+  "dcat_bbox": "ENVELOPE(-8.6, -2.56, 10.52, 4.34)",
   "dct_temporal_sm": [
     "2020-2024"
   ],
@@ -63,5 +65,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cote-divoire-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_CI_planet_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_CI_planet_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cote-divoire-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_CI_planet_roadsurface_lines.gpkg\",\"label\":\"Côte d'ivoire GPKG heigit_CI_planet_roadsurface_lines.gpkg (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_CI_planet_roadsurface_lines.geojson\",\"label\":\"Côte d'ivoire GeoJSON heigit_CI_planet_roadsurface_lines.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_CI_planet_roadsurface_lines.geojson\"}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-f4092930-f954-4403-b245-b833e2019c7a",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:06:35Z",
+  "gbl_mdModified_dt": "2025-10-01T14:06:35Z",
   "dct_title_s": "Saint Barthélemy: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Saint Barthélemy"
   ],
+  "locn_geometry": "ENVELOPE(-62.87, -62.79, 17.93, 17.88)",
+  "dcat_bbox": "ENVELOPE(-62.87, -62.79, 17.93, 17.88)",
   "dct_temporal_sm": [
     "2015-2023"
   ],
@@ -47,5 +49,5 @@
     2023
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-blm\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-bl-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-blm\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-bl-latest.zip\",\"label\":\"whosonfirst-data-admin-bl-latest.zip (SHP)\"}]}"
 }

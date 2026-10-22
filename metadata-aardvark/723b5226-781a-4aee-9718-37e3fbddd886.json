@@ -1,7 +1,7 @@
 {
   "id": "hdx-723b5226-781a-4aee-9718-37e3fbddd886",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-07-01T14:55:05Z",
+  "gbl_mdModified_dt": "2025-07-01T09:55:05Z",
   "dct_title_s": "Tonga - Subnational Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "Tonga"
   ],
+  "locn_geometry": "ENVELOPE(-176.22, -173.91, -15.55, -22.34)",
+  "dcat_bbox": "ENVELOPE(-176.22, -173.91, -15.55, -22.34)",
   "dct_temporal_sm": [
     "2021-2024"
   ],
@@ -36,5 +38,5 @@
     2024
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-ton\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/723b5226-781a-4aee-9718-37e3fbddd886/resource/62e0ff40-1bcc-46b7-818e-f0de7cfe1564/download/ton_admbnda_adm1_2022_v2.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-ton\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/723b5226-781a-4aee-9718-37e3fbddd886/resource/62e0ff40-1bcc-46b7-818e-f0de7cfe1564/download/ton_admbnda_adm1_2022_v2.zip\",\"label\":\"ton_admbnda_adm1_2022_v2.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/723b5226-781a-4aee-9718-37e3fbddd886/resource/a9c920a0-464e-4602-a481-07df4e86294d/download/ton_admbnda_adm0_2022_v2.zip\",\"label\":\"ton_admbnda_adm0_2022_v2.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/723b5226-781a-4aee-9718-37e3fbddd886/resource/d3e75d1d-7515-4180-bcb3-de9471487e7a/download/ton_polbnda.zip\",\"label\":\"ton_polbnda.zip (Geodatabase)\"},{\"url\":\"https://data.humdata.org/dataset/723b5226-781a-4aee-9718-37e3fbddd886/resource/d966049c-d54d-473d-ae9e-1996b5872797/download/ton_polbnda_adm0_country.zip\",\"label\":\"ton_polbnda_adm0_country.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/723b5226-781a-4aee-9718-37e3fbddd886/resource/4f5001bf-118e-462c-b948-eda8a1b9781a/download/ton_polbnda_adm1_division.zip\",\"label\":\"ton_polbnda_adm1_division.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/723b5226-781a-4aee-9718-37e3fbddd886/resource/01691a6d-a80a-44bc-8348-f62103abac84/download/ton_polbnda_adm2_district.zip\",\"label\":\"ton_polbnda_adm2_district.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/723b5226-781a-4aee-9718-37e3fbddd886/resource/0642e284-9b71-428e-abba-6d4dc5949d02/download/ton_polbnda_adm3_village.zip\",\"label\":\"ton_polbnda_adm3_village.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/723b5226-781a-4aee-9718-37e3fbddd886/resource/bb61c322-4ae7-478e-a69c-1d5d721faf22/download/ton_admin_boundary_taxonomy_metadata.xlsx\",\"label\":\"ton_Admin_Boundary_taxonomy_Metadata.xlsx (XLSX)\"}]}"
 }

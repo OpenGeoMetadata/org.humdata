@@ -1,7 +1,7 @@
 {
   "id": "hdx-d8c7f164-d98e-4fb9-8bb9-358bdaf7d173",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-02T17:28:04Z",
+  "gbl_mdModified_dt": "2026-03-02T11:28:04Z",
   "dct_title_s": "Mauritius: Planet Road Surface, Width, and Passability Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -52,6 +52,8 @@
   "dct_spatial_sm": [
     "Mauritius"
   ],
+  "locn_geometry": "ENVELOPE(56.52, 63.5, -10.32, -20.52)",
+  "dcat_bbox": "ENVELOPE(56.52, 63.5, -10.32, -20.52)",
   "dct_temporal_sm": [
     "2020-2024"
   ],
@@ -63,5 +65,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mauritius-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_MU_planet_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_MU_planet_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mauritius-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_MU_planet_roadsurface_lines.gpkg\",\"label\":\"Mauritius GPKG heigit_MU_planet_roadsurface_lines.gpkg (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_MU_planet_roadsurface_lines.geojson\",\"label\":\"Mauritius GeoJSON heigit_MU_planet_roadsurface_lines.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_MU_planet_roadsurface_lines.geojson\"}"
 }

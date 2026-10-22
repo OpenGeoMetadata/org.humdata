@@ -1,7 +1,7 @@
 {
   "id": "hdx-41c58f31-f83a-4010-a2c2-5a816abe9ccb",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-11-19T16:31:32Z",
+  "gbl_mdModified_dt": "2025-11-19T10:31:32Z",
   "dct_title_s": "Mauritius: High Resolution Population Density Maps + Demographic Estimates",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -38,6 +38,8 @@
   "dct_spatial_sm": [
     "Mauritius"
   ],
+  "locn_geometry": "ENVELOPE(56.52, 63.5, -10.32, -20.52)",
+  "dcat_bbox": "ENVELOPE(56.52, 63.5, -10.32, -20.52)",
   "dct_temporal_sm": [
     "2019-2020"
   ],
@@ -46,5 +48,5 @@
     2020
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/highresolutionpopulationdensitymaps-mus\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/41c58f31-f83a-4010-a2c2-5a816abe9ccb/resource/7fced940-3a90-4541-936f-81d175b8da29/download/population_mus_2018-10-01.zip\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/highresolutionpopulationdensitymaps-mus\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/41c58f31-f83a-4010-a2c2-5a816abe9ccb/resource/7fced940-3a90-4541-936f-81d175b8da29/download/population_mus_2018-10-01.zip\",\"label\":\"population_mus.geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/41c58f31-f83a-4010-a2c2-5a816abe9ccb/resource/10266472-865e-4448-aaae-4d3ebed423d1/download/population_mus_2019-07-01.csv.zip\",\"label\":\"population_mus.csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/41c58f31-f83a-4010-a2c2-5a816abe9ccb/resource/4215a710-1005-409d-8233-955b50f367fb/download/mus_children_under_five_csv.zip\",\"label\":\"MUS_children_under_five_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/41c58f31-f83a-4010-a2c2-5a816abe9ccb/resource/82cf72f3-9056-41d2-bbe8-a9659968e610/download/mus_children_under_five_geotiff.zip\",\"label\":\"MUS_children_under_five_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/41c58f31-f83a-4010-a2c2-5a816abe9ccb/resource/64bdb2a2-b380-43bb-8f14-ad7f6639fd1a/download/mus_elderly_60_plus_csv.zip\",\"label\":\"MUS_elderly_60_plus_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/41c58f31-f83a-4010-a2c2-5a816abe9ccb/resource/b260d5bc-80cd-4487-849d-e14c3a5a6676/download/mus_elderly_60_plus_geotiff.zip\",\"label\":\"MUS_elderly_60_plus_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/41c58f31-f83a-4010-a2c2-5a816abe9ccb/resource/dd362370-3770-4219-a20a-ba17a5138634/download/mus_men_csv.zip\",\"label\":\"MUS_men_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/41c58f31-f83a-4010-a2c2-5a816abe9ccb/resource/9cf078ca-36b6-495e-8699-22032b121533/download/mus_men_geotiff.zip\",\"label\":\"MUS_men_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/41c58f31-f83a-4010-a2c2-5a816abe9ccb/resource/b48d7f03-fcaa-45c9-b6c5-41d61436ba98/download/mus_women_csv.zip\",\"label\":\"MUS_women_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/41c58f31-f83a-4010-a2c2-5a816abe9ccb/resource/7de8b9cc-bf57-4ecc-b40e-88ae216d090a/download/mus_women_geotiff.zip\",\"label\":\"MUS_women_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/41c58f31-f83a-4010-a2c2-5a816abe9ccb/resource/2ae062f7-9286-4176-9159-b91c83df0cde/download/mus_women_of_reproductive_age_15_49_csv.zip\",\"label\":\"MUS_women_of_reproductive_age_15_49_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/41c58f31-f83a-4010-a2c2-5a816abe9ccb/resource/716ca864-0816-48ba-be84-effc4bd5724e/download/mus_women_of_reproductive_age_15_49_geotiff.zip\",\"label\":\"MUS_women_of_reproductive_age_15_49_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/41c58f31-f83a-4010-a2c2-5a816abe9ccb/resource/5d167365-61e9-4a40-9629-713fb1f8251c/download/mus_youth_15_24_csv.zip\",\"label\":\"MUS_youth_15_24_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/41c58f31-f83a-4010-a2c2-5a816abe9ccb/resource/e73139db-0684-4763-971b-9bd231c70901/download/mus_youth_15_24_geotiff.zip\",\"label\":\"MUS_youth_15_24_geotiff.zip (GeoTIFF)\"}]}"
 }

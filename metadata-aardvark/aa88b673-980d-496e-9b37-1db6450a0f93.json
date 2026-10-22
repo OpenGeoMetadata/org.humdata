@@ -1,7 +1,7 @@
 {
   "id": "hdx-aa88b673-980d-496e-9b37-1db6450a0f93",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-12-02T00:54:15Z",
+  "gbl_mdModified_dt": "2025-12-01T18:54:15Z",
   "dct_title_s": "Gaza OSM Buildings Baseline (before October 7, 2023)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "State of Palestine"
   ],
+  "locn_geometry": "ENVELOPE(34.2, 35.58, 32.55, 31.21)",
+  "dcat_bbox": "ENVELOPE(34.2, 35.58, 32.55, 31.21)",
   "dct_temporal_sm": [
     "2023"
   ],
@@ -35,5 +37,5 @@
     2023
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/gaza-osm-buildings-baseline-before-october-7-2023\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/aa88b673-980d-496e-9b37-1db6450a0f93/resource/8f922e77-b64f-4b55-a264-4f2eec780c64/download/gaza-osm-buildings-baseline-before-october-7-2023-v2.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/aa88b673-980d-496e-9b37-1db6450a0f93/resource/8f922e77-b64f-4b55-a264-4f2eec780c64/download/gaza-osm-buildings-baseline-before-october-7-2023-v2.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/gaza-osm-buildings-baseline-before-october-7-2023\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/aa88b673-980d-496e-9b37-1db6450a0f93/resource/8f922e77-b64f-4b55-a264-4f2eec780c64/download/gaza-osm-buildings-baseline-before-october-7-2023-v2.geojson\",\"label\":\"gaza-osm-buildings-baseline-before-october-7-2023-v2.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/aa88b673-980d-496e-9b37-1db6450a0f93/resource/a94fb112-5904-44ac-bd39-7f8e6e3000be/download/gaza-osm-buildings-baseline-before-october-7-2023-v2.parquet\",\"label\":\"gaza-osm-buildings-baseline-before-october-7-2023-v2.parquet (Parquet)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/aa88b673-980d-496e-9b37-1db6450a0f93/resource/8f922e77-b64f-4b55-a264-4f2eec780c64/download/gaza-osm-buildings-baseline-before-october-7-2023-v2.geojson\"}"
 }

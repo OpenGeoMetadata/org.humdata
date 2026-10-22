@@ -1,7 +1,7 @@
 {
   "id": "hdx-01a0f7b2-5c59-46b1-b7cb-887058e44536",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-10T19:46:07Z",
+  "gbl_mdModified_dt": "2025-04-10T14:46:07Z",
   "dct_title_s": "Quartiers de la ville de Goma (RDC) / Goma city's quarters (DRC)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
   ],
+  "locn_geometry": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
+  "dcat_bbox": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
   "dct_temporal_sm": [
     "2021"
   ],
@@ -33,5 +35,5 @@
     2021
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/quartiers-de-la-ville-de-goma-rdc-goma-city-s-quarters-drc\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/01a0f7b2-5c59-46b1-b7cb-887058e44536/resource/ede5dda1-fcf5-429c-9d6c-6da9d3bc2b12/download/osm_goma_quartiers_210527.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/01a0f7b2-5c59-46b1-b7cb-887058e44536/resource/ede5dda1-fcf5-429c-9d6c-6da9d3bc2b12/download/osm_goma_quartiers_210527.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/quartiers-de-la-ville-de-goma-rdc-goma-city-s-quarters-drc\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/01a0f7b2-5c59-46b1-b7cb-887058e44536/resource/450d8af6-c868-426d-aefc-81c4bd011243/download/osm_goma_quartiers_210527.zip\",\"label\":\"OSM_Goma_quartiers_210527.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/01a0f7b2-5c59-46b1-b7cb-887058e44536/resource/ede5dda1-fcf5-429c-9d6c-6da9d3bc2b12/download/osm_goma_quartiers_210527.geojson\",\"label\":\"OSM_Goma_quartiers_210527.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/01a0f7b2-5c59-46b1-b7cb-887058e44536/resource/ede5dda1-fcf5-429c-9d6c-6da9d3bc2b12/download/osm_goma_quartiers_210527.geojson\"}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-a06f7e33-acab-409b-b244-a0f07b107d49",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-11-19T16:32:55Z",
+  "gbl_mdModified_dt": "2025-11-19T10:32:55Z",
   "dct_title_s": "Saint Vincent and the Grenadines: High Resolution Population Density Maps + Demographic Estimates",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -44,6 +44,8 @@
   "dct_spatial_sm": [
     "Saint Vincent and the Grenadines"
   ],
+  "locn_geometry": "ENVELOPE(-61.46, -61.12, 13.39, 12.58)",
+  "dcat_bbox": "ENVELOPE(-61.46, -61.12, 13.39, 12.58)",
   "dct_temporal_sm": [
     "2019"
   ],
@@ -51,5 +53,5 @@
     2019
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/saint-vincent-and-the-grenadines-high-resolution-population-density-maps-demographic-estimates\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/a06f7e33-acab-409b-b244-a0f07b107d49/resource/bffb32d4-9d5a-49e8-be37-26da6d72e4ed/download/population_vct_2018-10-01.zip\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/saint-vincent-and-the-grenadines-high-resolution-population-density-maps-demographic-estimates\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/a06f7e33-acab-409b-b244-a0f07b107d49/resource/5f8780a0-41f1-4d96-bbc1-8d57f63002e6/download/population_vct_2018-10-01.csv.zip\",\"label\":\"population_vct_2018-10-01.csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/a06f7e33-acab-409b-b244-a0f07b107d49/resource/bffb32d4-9d5a-49e8-be37-26da6d72e4ed/download/population_vct_2018-10-01.zip\",\"label\":\"population_vct_2018-10-01.geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/a06f7e33-acab-409b-b244-a0f07b107d49/resource/bbc279de-eab3-4a28-8280-262ba630cd7d/download/vct_children_under_five_2019-06-01_csv.zip\",\"label\":\"VCT_children_under_five_2019-06-01_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/a06f7e33-acab-409b-b244-a0f07b107d49/resource/f4ca89b8-d323-4dcd-b6bb-bafedba3e6bc/download/vct_children_under_five_2019-06-01_geotiff.zip\",\"label\":\"VCT_children_under_five_2019-06-01_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/a06f7e33-acab-409b-b244-a0f07b107d49/resource/6c48d7fd-fda4-47a5-a711-6836b9f379ea/download/vct_elderly_60_plus_2019-06-01_csv.zip\",\"label\":\"VCT_elderly_60_plus_2019-06-01_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/a06f7e33-acab-409b-b244-a0f07b107d49/resource/a20826bf-ee50-4aef-a8d2-e28c514ff1d2/download/vct_elderly_60_plus_2019-06-01_geotiff.zip\",\"label\":\"VCT_elderly_60_plus_2019-06-01_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/a06f7e33-acab-409b-b244-a0f07b107d49/resource/e2e3ab34-a01c-4083-a2bc-7a61982f2e69/download/vct_men_2019-06-01_csv.zip\",\"label\":\"VCT_men_2019-06-01_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/a06f7e33-acab-409b-b244-a0f07b107d49/resource/55b073ba-84d2-422b-82e0-8e46142a05dc/download/vct_men_2019-06-01_geotiff.zip\",\"label\":\"VCT_men_2019-06-01_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/a06f7e33-acab-409b-b244-a0f07b107d49/resource/2bb61d10-afe0-411c-b37a-e40aa6c61121/download/vct_women_2019-06-01_csv.zip\",\"label\":\"VCT_women_2019-06-01_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/a06f7e33-acab-409b-b244-a0f07b107d49/resource/2d482466-bad3-45ad-85fe-035431e0f6f1/download/vct_women_2019-06-01_geotiff.zip\",\"label\":\"VCT_women_2019-06-01_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/a06f7e33-acab-409b-b244-a0f07b107d49/resource/8c4ebb0d-baa7-4939-a0e6-b60cb5a06470/download/vct_women_of_reproductive_age_15_49_2019-06-01_csv.zip\",\"label\":\"VCT_women_of_reproductive_age_15_49_2019-06-01_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/a06f7e33-acab-409b-b244-a0f07b107d49/resource/e6f1043b-3f5b-46e2-a259-462d866315fe/download/vct_women_of_reproductive_age_15_49_2019-06-01_geotiff.zip\",\"label\":\"VCT_women_of_reproductive_age_15_49_2019-06-01_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/a06f7e33-acab-409b-b244-a0f07b107d49/resource/2b099bcf-81b0-4154-a92c-12440d26a5d7/download/vct_youth_15_24_2019-06-01_csv.zip\",\"label\":\"VCT_youth_15_24_2019-06-01_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/a06f7e33-acab-409b-b244-a0f07b107d49/resource/23408fd0-d8a8-4a04-85a3-ddafdb29f134/download/vct_youth_15_24_2019-06-01_geotiff.zip\",\"label\":\"VCT_youth_15_24_2019-06-01_geotiff.zip (GeoTIFF)\"}]}"
 }

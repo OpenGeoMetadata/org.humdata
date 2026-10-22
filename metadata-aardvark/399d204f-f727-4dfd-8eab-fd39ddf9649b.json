@@ -1,7 +1,7 @@
 {
   "id": "hdx-399d204f-f727-4dfd-8eab-fd39ddf9649b",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-05-01T14:46:09Z",
+  "gbl_mdModified_dt": "2025-05-01T09:46:09Z",
   "dct_title_s": "French Southern Territories: Copernicus Global Human Settlement Layer (GHSL)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "French Southern and Antarctic Territories"
   ],
+  "locn_geometry": "ENVELOPE(39.72, 77.59, -11.55, -49.73)",
+  "dcat_bbox": "ENVELOPE(39.72, 77.59, -11.55, -49.73)",
   "dct_temporal_sm": [
     "2025"
   ],
@@ -37,5 +39,5 @@
     2025
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/atf-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/399d204f-f727-4dfd-8eab-fd39ddf9649b/resource/9c310f68-23c9-4406-a7ad-bb99d088a7da/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_atf.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/atf-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/399d204f-f727-4dfd-8eab-fd39ddf9649b/resource/9c310f68-23c9-4406-a7ad-bb99d088a7da/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_atf.tif\",\"label\":\"GHS Built-up Surface (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/399d204f-f727-4dfd-8eab-fd39ddf9649b/resource/d81c655a-570c-45bf-ab3f-2e7acc0bd0fe/download/ghs_pop_e2025_r2023a_54009_100_v1_0_atf.tif\",\"label\":\"GHS Population Grid (GeoTIFF)\"}]}"
 }

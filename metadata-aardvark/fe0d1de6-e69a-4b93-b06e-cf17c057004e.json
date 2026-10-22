@@ -1,7 +1,7 @@
 {
   "id": "hdx-fe0d1de6-e69a-4b93-b06e-cf17c057004e",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-12-09T16:44:58Z",
+  "gbl_mdModified_dt": "2025-12-09T10:44:58Z",
   "dct_title_s": "Modelled gridded population estimates for the Kinshasa, Kongo-Central, Kwango, Kwilu, and Mai-Ndombe provinces in the Democratic Republic of the Congo 2018, version 2.0",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
   ],
+  "locn_geometry": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
+  "dcat_bbox": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
   "dct_temporal_sm": [
     "2020"
   ],
@@ -37,5 +39,5 @@
     2020
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/modelled-gridded-population-estimates-for-cod-2018-v2\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://wopr.worldpop.org/download/113\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/modelled-gridded-population-estimates-for-cod-2018-v2\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://wopr.worldpop.org/download/113\",\"label\":\"COD_population_v2_0_gridded.zip (GeoTIFF)\"},{\"url\":\"https://wopr.worldpop.org/download/120\",\"label\":\"COD_population_v2_0_agesex.zip (GeoTIFF)\"},{\"url\":\"https://wopr.worldpop.org/download/117\",\"label\":\"COD_population_v2_0_mastergrid.tif (GeoTIFF)\"},{\"url\":\"https://wopr.worldpop.org/download/114\",\"label\":\"COD_population_v2_0_README.pdf (PDF)\"},{\"url\":\"https://wopr.worldpop.org/download/115\",\"label\":\"COD_population_v2_0_sql.sql (SQL)\"},{\"url\":\"https://wopr.worldpop.org/download/116\",\"label\":\"COD_population_v2_0_tiles.zip (PNG)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-dfff7907-2004-49b7-aa7f-7259f65383b9",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-09T22:22:03Z",
+  "gbl_mdModified_dt": "2026-03-09T17:22:03Z",
   "dct_title_s": "Democratic Republic of the Congo Walking Travel Time to nearest Level IV health centre",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
   ],
+  "locn_geometry": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
+  "dcat_bbox": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
   "dct_temporal_sm": [
     "2024"
   ],
@@ -39,5 +41,5 @@
     2024
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/democratic-republic-of-the-congo-walking-travel-time-to-nearest-level-iv-health-centre\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.eidf.ac.uk/eidf158-walkingtraveltimemaps/service_area_DRC_walking.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/democratic-republic-of-the-congo-walking-travel-time-to-nearest-level-iv-health-centre\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://s3.eidf.ac.uk/eidf158-walkingtraveltimemaps/service_area_DRC_walking.tif\",\"label\":\"service-area-democratic-republic-of-the-congo-walking.tif (GeoTIFF)\"}]}"
 }

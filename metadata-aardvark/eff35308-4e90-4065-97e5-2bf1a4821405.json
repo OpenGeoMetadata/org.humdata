@@ -1,7 +1,7 @@
 {
   "id": "hdx-eff35308-4e90-4065-97e5-2bf1a4821405",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:48:36Z",
+  "gbl_mdModified_dt": "2026-05-07T07:48:36Z",
   "dct_title_s": "French Guiana: Administrative Division with Aggregated Population",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "French Guiana"
   ],
+  "locn_geometry": "ENVELOPE(-54.62, -51.64, 5.75, 2.11)",
+  "dcat_bbox": "ENVELOPE(-54.62, -51.64, 5.75, 2.11)",
   "dct_temporal_sm": [
     "2022"
   ],
@@ -37,5 +39,5 @@
     2022
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-french-guiana\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_GF_20220407.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-boundaries-french-guiana\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.eu-central-1.amazonaws.com/kontur_datasets/kontur_boundaries_GF_20220407.gpkg.gz\",\"label\":\"kontur_boundaries_GF_20220407.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_boundaries_GF_20230628.gpkg.gz\",\"label\":\"kontur_boundaries_GF_20230628.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_topology_boundaries_GF_20230628.gpkg.gz\",\"label\":\"kontur_topology_boundaries_GF_20230628.gpkg (Geopackage)\"}]}"
 }

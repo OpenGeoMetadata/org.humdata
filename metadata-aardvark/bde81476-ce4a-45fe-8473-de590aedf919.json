@@ -1,7 +1,7 @@
 {
   "id": "hdx-bde81476-ce4a-45fe-8473-de590aedf919",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-05-05T16:11:07Z",
+  "gbl_mdModified_dt": "2025-05-05T11:11:07Z",
   "dct_title_s": "Zone de santé Kalunguta (Nord-Kivu, RDC) / Kalunguta health zone (DRC)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
   ],
+  "locn_geometry": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
+  "dcat_bbox": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
   "dct_temporal_sm": [
     "2021"
   ],
@@ -37,5 +39,5 @@
     2021
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/zone-de-sante-kalunguta-rdc-kalunguta-health-zone-drc\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/bde81476-ce4a-45fe-8473-de590aedf919/resource/90f4ee6e-5717-40dd-802c-5973d8f870f0/download/osm_zskalunguta_as_211201.gpkg\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/zone-de-sante-kalunguta-rdc-kalunguta-health-zone-drc\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/bde81476-ce4a-45fe-8473-de590aedf919/resource/90f4ee6e-5717-40dd-802c-5973d8f870f0/download/osm_zskalunguta_as_211201.gpkg\",\"label\":\"OSM_ZSKalunguta_AS_211201.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/bde81476-ce4a-45fe-8473-de590aedf919/resource/170e8988-1063-44f2-a07e-ecaa92c6ad0c/download/osm_zskalunguta_zs_211201.gpkg\",\"label\":\"OSM_ZSKalunguta_ZS_211201.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/bde81476-ce4a-45fe-8473-de590aedf919/resource/264cca5e-c772-43ab-a728-7785783bd8c4/download/osm_zskalunguta_cac_211201.gpkg\",\"label\":\"OSM_ZSKalunguta_CAC_211201.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/bde81476-ce4a-45fe-8473-de590aedf919/resource/66cdc9cf-a378-4b14-815d-03dbafff4f25/download/osm_zskalunguta_fosa_211201.gpkg\",\"label\":\"OSM_ZSKalunguta_FoSa_211201.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/bde81476-ce4a-45fe-8473-de590aedf919/resource/c79ad1e8-e0f9-4201-a88a-4c163c5ffe26/download/osm_zskalunguta_educ_211201.gpkg\",\"label\":\"OSM_ZSKalunguta_Educ_211201.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/bde81476-ce4a-45fe-8473-de590aedf919/resource/a93b3122-321b-46a4-958a-45a066eae62d/download/osm_zskalunguta_autrespoints_211201.gpkg\",\"label\":\"OSM_ZSKalunguta_AutresPoints_211201.gpkg (Geopackage)\"}]}"
 }

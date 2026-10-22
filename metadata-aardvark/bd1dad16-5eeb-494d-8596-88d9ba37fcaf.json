@@ -1,7 +1,7 @@
 {
   "id": "hdx-bd1dad16-5eeb-494d-8596-88d9ba37fcaf",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:31:05Z",
+  "gbl_mdModified_dt": "2026-05-07T07:31:05Z",
   "dct_title_s": "Tonga: Population Density for 400m H3 Hexagons",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Tonga"
   ],
+  "locn_geometry": "ENVELOPE(-176.22, -173.91, -15.55, -22.34)",
+  "dcat_bbox": "ENVELOPE(-176.22, -173.91, -15.55, -22.34)",
   "dct_temporal_sm": [
     "2023"
   ],
@@ -37,5 +39,5 @@
     2023
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-tonga\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_TO_20220630.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-tonga\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_TO_20220630.gpkg.gz\",\"label\":\"kontur_population_TO_20220630.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_TO_20231101.gpkg.gz\",\"label\":\"kontur_population_TO_20231101.gpkg (Geopackage)\"}]}"
 }

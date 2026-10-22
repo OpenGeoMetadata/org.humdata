@@ -1,7 +1,7 @@
 {
   "id": "hdx-00a3eb33-1b93-4897-8268-ee059c0b6bb6",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:10:22Z",
+  "gbl_mdModified_dt": "2025-10-01T14:10:22Z",
   "dct_title_s": "Tonga: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Tonga"
   ],
+  "locn_geometry": "ENVELOPE(-176.22, -173.91, -15.55, -22.34)",
+  "dcat_bbox": "ENVELOPE(-176.22, -173.91, -15.55, -22.34)",
   "dct_temporal_sm": [
     "2015-2023"
   ],
@@ -47,5 +49,5 @@
     2023
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-ton\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-to-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-ton\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-to-latest.zip\",\"label\":\"whosonfirst-data-admin-to-latest.zip (SHP)\"}]}"
 }

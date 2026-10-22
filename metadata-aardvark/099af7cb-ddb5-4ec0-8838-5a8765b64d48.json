@@ -1,7 +1,7 @@
 {
   "id": "hdx-099af7cb-ddb5-4ec0-8838-5a8765b64d48",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-10T16:50:24Z",
+  "gbl_mdModified_dt": "2026-03-10T11:50:24Z",
   "dct_title_s": "Svalbard and Jan Mayen Islands: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "Svalbard and Jan Mayen Islands"
   ],
+  "locn_geometry": "ENVELOPE(-9.12, 33.65, 80.78, 70.8)",
+  "dcat_bbox": "ENVELOPE(-9.12, 33.65, 80.78, 70.8)",
   "dct_temporal_sm": [
     "1853-2025"
   ],
@@ -205,5 +207,5 @@
     2025
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/sjm-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/099af7cb-ddb5-4ec0-8838-5a8765b64d48/resource/aa687e67-3d5e-4e0a-bec6-0908be235cec/download/ibtracs_all_list_v04r01_lines_sjm.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/099af7cb-ddb5-4ec0-8838-5a8765b64d48/resource/aa687e67-3d5e-4e0a-bec6-0908be235cec/download/ibtracs_all_list_v04r01_lines_sjm.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/sjm-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/099af7cb-ddb5-4ec0-8838-5a8765b64d48/resource/4e1a6592-13d5-438c-a6b0-e4b16a63dc3e/download/ibtracs_all_list_v04r01_sjm.csv\",\"label\":\"ibtracs_ALL_list_v04r01_SJM.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/099af7cb-ddb5-4ec0-8838-5a8765b64d48/resource/aa687e67-3d5e-4e0a-bec6-0908be235cec/download/ibtracs_all_list_v04r01_lines_sjm.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_SJM.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/099af7cb-ddb5-4ec0-8838-5a8765b64d48/resource/aa687e67-3d5e-4e0a-bec6-0908be235cec/download/ibtracs_all_list_v04r01_lines_sjm.geojson\"}"
 }

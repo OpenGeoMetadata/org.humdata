@@ -1,7 +1,7 @@
 {
   "id": "hdx-d4e82e5c-7f6d-4433-b626-9be223646d73",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-06T15:41:27Z",
+  "gbl_mdModified_dt": "2026-06-06T10:41:27Z",
   "dct_title_s": "Curaçao: Road Surface Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -50,6 +50,8 @@
   "dct_spatial_sm": [
     "Curaçao"
   ],
+  "locn_geometry": "ENVELOPE(-69.18, -68.73, 12.4, 12.04)",
+  "dcat_bbox": "ENVELOPE(-69.18, -68.73, 12.4, 12.04)",
   "dct_temporal_sm": [
     "2024"
   ],
@@ -57,5 +59,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/curacao-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_cuw_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_cuw_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/curacao-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_cuw_roadsurface_lines.geojson\",\"label\":\"Curaçao GeoJSON Resource (GeoJSON)\"},{\"url\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_cuw_roadsurface_lines.gpkg\",\"label\":\"Curaçao GeoPackage Resource (Geopackage)\"}],\"http://geojson.org/geojson-spec.html\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_cuw_roadsurface_lines.geojson\"}"
 }

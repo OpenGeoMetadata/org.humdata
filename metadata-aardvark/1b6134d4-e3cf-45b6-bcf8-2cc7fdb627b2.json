@@ -1,7 +1,7 @@
 {
   "id": "hdx-1b6134d4-e3cf-45b6-bcf8-2cc7fdb627b2",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-05-23T18:11:50Z",
+  "gbl_mdModified_dt": "2025-05-23T13:11:50Z",
   "dct_title_s": "Congo: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Congo"
   ],
+  "locn_geometry": "ENVELOPE(11.09, 18.45, 3.73, -5.04)",
+  "dcat_bbox": "ENVELOPE(11.09, 18.45, 3.73, -5.04)",
   "dct_temporal_sm": [
     "1977-2021"
   ],
@@ -79,5 +81,5 @@
     2021
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cog-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/1b6134d4-e3cf-45b6-bcf8-2cc7fdb627b2/resource/cfa05b5b-c857-460a-8ad5-b37796d46bfa/download/ibtracs_all_list_v04r01_lines_cog.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/1b6134d4-e3cf-45b6-bcf8-2cc7fdb627b2/resource/cfa05b5b-c857-460a-8ad5-b37796d46bfa/download/ibtracs_all_list_v04r01_lines_cog.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cog-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/1b6134d4-e3cf-45b6-bcf8-2cc7fdb627b2/resource/5d761c70-343c-43b6-aa9d-036b4ca5190d/download/ibtracs_all_list_v04r01_cog.csv\",\"label\":\"ibtracs_ALL_list_v04r01_COG.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/1b6134d4-e3cf-45b6-bcf8-2cc7fdb627b2/resource/cfa05b5b-c857-460a-8ad5-b37796d46bfa/download/ibtracs_all_list_v04r01_lines_cog.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_COG.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/1b6134d4-e3cf-45b6-bcf8-2cc7fdb627b2/resource/cfa05b5b-c857-460a-8ad5-b37796d46bfa/download/ibtracs_all_list_v04r01_lines_cog.geojson\"}"
 }

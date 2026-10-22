@@ -1,7 +1,7 @@
 {
   "id": "hdx-fed81051-0646-4891-8038-7b9eead5a27a",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-07T12:42:50Z",
+  "gbl_mdModified_dt": "2026-05-07T07:42:50Z",
   "dct_title_s": "Maldives: Population Density for 400m H3 Hexagons",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Maldives"
   ],
+  "locn_geometry": "ENVELOPE(72.68, 73.76, 7.11, -0.69)",
+  "dcat_bbox": "ENVELOPE(72.68, 73.76, 7.11, -0.69)",
   "dct_temporal_sm": [
     "2023"
   ],
@@ -37,5 +39,5 @@
     2023
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-maldives\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_MV_20220630.gpkg.gz\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/kontur-population-maldives\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_MV_20220630.gpkg.gz\",\"label\":\"kontur_population_MV_20220630.gpkg (Geopackage)\"},{\"url\":\"https://geodata-eu-central-1-kontur-public.s3.amazonaws.com/kontur_datasets/kontur_population_MV_20231101.gpkg.gz\",\"label\":\"kontur_population_MV_20231101.gpkg (Geopackage)\"}]}"
 }

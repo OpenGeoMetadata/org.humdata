@@ -1,7 +1,7 @@
 {
   "id": "hdx-d65a0bc6-01bf-4213-a761-5ac831155242",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-10T16:32:36Z",
+  "gbl_mdModified_dt": "2026-03-10T11:32:36Z",
   "dct_title_s": "Faroe Islands: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "Faroe Islands"
   ],
+  "locn_geometry": "ENVELOPE(-7.65, -6.27, 62.4, 61.39)",
+  "dcat_bbox": "ENVELOPE(-7.65, -6.27, 62.4, 61.39)",
   "dct_temporal_sm": [
     "1853-2025"
   ],
@@ -205,5 +207,5 @@
     2025
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/fro-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/d65a0bc6-01bf-4213-a761-5ac831155242/resource/6434ad86-b8d7-44c8-90cb-5476a031e9be/download/ibtracs_all_list_v04r01_lines_fro.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/d65a0bc6-01bf-4213-a761-5ac831155242/resource/6434ad86-b8d7-44c8-90cb-5476a031e9be/download/ibtracs_all_list_v04r01_lines_fro.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/fro-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/d65a0bc6-01bf-4213-a761-5ac831155242/resource/a9cedd96-411b-4032-a40a-78fba274386f/download/ibtracs_all_list_v04r01_fro.csv\",\"label\":\"ibtracs_ALL_list_v04r01_FRO.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/d65a0bc6-01bf-4213-a761-5ac831155242/resource/6434ad86-b8d7-44c8-90cb-5476a031e9be/download/ibtracs_all_list_v04r01_lines_fro.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_FRO.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/d65a0bc6-01bf-4213-a761-5ac831155242/resource/6434ad86-b8d7-44c8-90cb-5476a031e9be/download/ibtracs_all_list_v04r01_lines_fro.geojson\"}"
 }

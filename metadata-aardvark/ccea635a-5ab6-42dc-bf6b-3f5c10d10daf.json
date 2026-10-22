@@ -1,7 +1,7 @@
 {
   "id": "hdx-ccea635a-5ab6-42dc-bf6b-3f5c10d10daf",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:10:37Z",
+  "gbl_mdModified_dt": "2025-10-01T14:10:37Z",
   "dct_title_s": "United States Virgin Islands: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "United States Virgin Islands"
   ],
+  "locn_geometry": "ENVELOPE(-65.05, -64.55, 18.39, 17.68)",
+  "dcat_bbox": "ENVELOPE(-65.05, -64.55, 18.39, 17.68)",
   "dct_temporal_sm": [
     "2015-2024"
   ],
@@ -48,5 +50,5 @@
     2024
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-vir\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-vi-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-vir\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-vi-latest.zip\",\"label\":\"whosonfirst-data-admin-vi-latest.zip (SHP)\"}]}"
 }

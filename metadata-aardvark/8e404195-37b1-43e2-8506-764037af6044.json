@@ -1,7 +1,7 @@
 {
   "id": "hdx-8e404195-37b1-43e2-8506-764037af6044",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-05-22T19:00:22Z",
+  "gbl_mdModified_dt": "2026-05-22T14:00:22Z",
   "dct_title_s": "RDC - Statistiques des Populations par Zones de Santé",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
   ],
+  "locn_geometry": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
+  "dcat_bbox": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
   "dct_temporal_sm": [
     "2019-2022"
   ],
@@ -40,5 +42,5 @@
     2022
   ],
   "dct_format_s": "XLSX",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/rdc-statistiques-des-populations\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/8e404195-37b1-43e2-8506-764037af6044/resource/69b48c35-4af4-47f5-bc3c-fe574e391c44/download/population-2019-2020.xlsx\",\"label\":\"XLSX\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/rdc-statistiques-des-populations\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/8e404195-37b1-43e2-8506-764037af6044/resource/69b48c35-4af4-47f5-bc3c-fe574e391c44/download/population-2019-2020.xlsx\",\"label\":\"POPULATION 2019-2020.xlsx (XLSX)\"},{\"url\":\"https://data.humdata.org/dataset/8e404195-37b1-43e2-8506-764037af6044/resource/05a36633-1c79-4ed4-9750-a06ae5d69f63/download/drc_zs_population_2019_2020.xlsx\",\"label\":\"drc_zs_population_2019_2020.xlsx (XLSX)\"},{\"url\":\"https://data.humdata.org/dataset/8e404195-37b1-43e2-8506-764037af6044/resource/e253d8e1-0b51-45d5-864a-9f8aee1c133b/download/rdc_zone_de_sante_04012019.zip\",\"label\":\"RDC_Zone_de_sante_04012019.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/8e404195-37b1-43e2-8506-764037af6044/resource/0d7a0ae1-e9fe-4900-87a5-cebe95293bdb/download/rgc_as_equateur.zip\",\"label\":\"RGC_as_equateur.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/8e404195-37b1-43e2-8506-764037af6044/resource/957cdee2-2a94-4dfe-9216-7c8b36960863/download/rgc_zs_equateur.zip\",\"label\":\"RGC_zs_equateur.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/8e404195-37b1-43e2-8506-764037af6044/resource/c9ca91b6-4cd3-475a-8821-01e40581479d/download/rdc_zone_de_sante_lignes_20210216.zip\",\"label\":\"rdc_zone_de_sante_lignes_20210216.zip (SHP)\"}]}"
 }

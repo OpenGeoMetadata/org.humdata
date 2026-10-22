@@ -1,7 +1,7 @@
 {
   "id": "hdx-6b2ba5c1-7d48-40b2-8baf-d110d1668423",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-31T16:34:21Z",
+  "gbl_mdModified_dt": "2026-03-31T11:34:21Z",
   "dct_title_s": "Cocos (Keeling) Islands: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "Cocos (Keeling) Islands"
   ],
+  "locn_geometry": "ENVELOPE(96.82, 96.93, -12.12, -12.2)",
+  "dcat_bbox": "ENVELOPE(96.82, 96.93, -12.12, -12.2)",
   "dct_temporal_sm": [
     "1848-2026"
   ],
@@ -211,5 +213,5 @@
     2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cck-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/6b2ba5c1-7d48-40b2-8baf-d110d1668423/resource/1f3e6d19-72d8-4b1e-9360-0155c1524f62/download/ibtracs_all_list_v04r01_lines_cck.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/6b2ba5c1-7d48-40b2-8baf-d110d1668423/resource/1f3e6d19-72d8-4b1e-9360-0155c1524f62/download/ibtracs_all_list_v04r01_lines_cck.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cck-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/6b2ba5c1-7d48-40b2-8baf-d110d1668423/resource/7dbb655d-dd88-42c6-9f7a-32397033e220/download/ibtracs_all_list_v04r01_cck.csv\",\"label\":\"ibtracs_ALL_list_v04r01_CCK.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/6b2ba5c1-7d48-40b2-8baf-d110d1668423/resource/1f3e6d19-72d8-4b1e-9360-0155c1524f62/download/ibtracs_all_list_v04r01_lines_cck.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_CCK.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/6b2ba5c1-7d48-40b2-8baf-d110d1668423/resource/1f3e6d19-72d8-4b1e-9360-0155c1524f62/download/ibtracs_all_list_v04r01_lines_cck.geojson\"}"
 }

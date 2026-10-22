@@ -1,7 +1,7 @@
 {
   "id": "hdx-ed5dc64f-c229-4c03-9672-6d0d9b82e59c",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-02-26T02:07:46Z",
+  "gbl_mdModified_dt": "2025-02-25T20:07:46Z",
   "dct_title_s": "DR Congo - Hydrology",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
   ],
+  "locn_geometry": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
+  "dcat_bbox": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
   "dct_temporal_sm": [
     "2016"
   ],
@@ -35,5 +37,5 @@
     2016
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/dr-congo-hydrology\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/ed5dc64f-c229-4c03-9672-6d0d9b82e59c/resource/a74c9a46-a184-45d1-acb2-bae04288ecd8/download/cascade.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/dr-congo-hydrology\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/ed5dc64f-c229-4c03-9672-6d0d9b82e59c/resource/a74c9a46-a184-45d1-acb2-bae04288ecd8/download/cascade.zip\",\"label\":\"cascade.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/ed5dc64f-c229-4c03-9672-6d0d9b82e59c/resource/6c0ff341-954d-4723-943c-1e17ce5c2c22/download/hydrology_l.zip\",\"label\":\"Hydrology_l.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/ed5dc64f-c229-4c03-9672-6d0d9b82e59c/resource/dcb41850-d369-4e04-b9c0-411616df75d7/download/hydrology_a.zip\",\"label\":\"Hydrology_a.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/ed5dc64f-c229-4c03-9672-6d0d9b82e59c/resource/6a1ed746-2411-469d-8711-91f7eaeea455/download/lac_a.zip\",\"label\":\"Lac_a.zip (SHP)\"}]}"
 }

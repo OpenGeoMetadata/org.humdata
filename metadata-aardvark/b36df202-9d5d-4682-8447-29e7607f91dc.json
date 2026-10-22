@@ -1,7 +1,7 @@
 {
   "id": "hdx-b36df202-9d5d-4682-8447-29e7607f91dc",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-10T20:23:32Z",
+  "gbl_mdModified_dt": "2025-04-10T15:23:32Z",
   "dct_title_s": "Hydrographie surfacique de la RDC / DRC water bodies",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
   ],
+  "locn_geometry": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
+  "dcat_bbox": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
   "dct_temporal_sm": [
     "2021"
   ],
@@ -35,5 +37,5 @@
     2021
   ],
   "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hydrographie-surfacique-rdc-drc-water-bodies\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/b36df202-9d5d-4682-8447-29e7607f91dc/resource/bb031159-3c57-4295-865c-cf295b4cca4b/download/osm_rdc_hydro_surfacique_211205.gpkg\",\"label\":\"Geopackage\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hydrographie-surfacique-rdc-drc-water-bodies\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/b36df202-9d5d-4682-8447-29e7607f91dc/resource/bb031159-3c57-4295-865c-cf295b4cca4b/download/osm_rdc_hydro_surfacique_211205.gpkg\",\"label\":\"OSM_RDC_hydro_surfacique_211205.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/b36df202-9d5d-4682-8447-29e7607f91dc/resource/4d0e1190-041c-4030-9f61-3d7f99c68087/download/osm_rdc_hydro_surfacique_lac_211205.gpkg\",\"label\":\"OSM_RDC_hydro_surfacique_lac_211205.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/b36df202-9d5d-4682-8447-29e7607f91dc/resource/a8ee167c-5895-44c0-b560-fc10ffb95c5c/download/osm_rdc_hydro_surfacique_riv_211205.gpkg\",\"label\":\"OSM_RDC_hydro_surfacique_riv_211205.gpkg (Geopackage)\"}]}"
 }

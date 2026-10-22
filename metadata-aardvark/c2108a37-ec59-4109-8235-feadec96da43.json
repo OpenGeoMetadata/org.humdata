@@ -1,7 +1,7 @@
 {
   "id": "hdx-c2108a37-ec59-4109-8235-feadec96da43",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-02T17:36:51Z",
+  "gbl_mdModified_dt": "2026-03-02T11:36:51Z",
   "dct_title_s": "Northern Mariana Islands: Planet Road Surface, Width, and Passability Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -52,6 +52,8 @@
   "dct_spatial_sm": [
     "Northern Mariana Islands"
   ],
+  "locn_geometry": "ENVELOPE(144.9, 145.87, 20.56, 14.11)",
+  "dcat_bbox": "ENVELOPE(144.9, 145.87, 20.56, 14.11)",
   "dct_temporal_sm": [
     "2020-2024"
   ],
@@ -63,5 +65,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/northern-mariana-islands-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_MP_planet_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_MP_planet_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/northern-mariana-islands-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_MP_planet_roadsurface_lines.gpkg\",\"label\":\"Northern mariana islands GPKG heigit_MP_planet_roadsurface_lines.gpkg (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_MP_planet_roadsurface_lines.geojson\",\"label\":\"Northern mariana islands GeoJSON heigit_MP_planet_roadsurface_lines.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_MP_planet_roadsurface_lines.geojson\"}"
 }

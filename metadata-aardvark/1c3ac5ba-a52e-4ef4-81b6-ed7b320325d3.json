@@ -1,7 +1,7 @@
 {
   "id": "hdx-1c3ac5ba-a52e-4ef4-81b6-ed7b320325d3",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-11-18T16:36:47Z",
+  "gbl_mdModified_dt": "2025-11-18T10:36:47Z",
   "dct_title_s": "British Indian Ocean Territory: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "British Indian Ocean Territory"
   ],
+  "locn_geometry": "ENVELOPE(71.26, 72.5, -5.22, -7.44)",
+  "dcat_bbox": "ENVELOPE(71.26, 72.5, -5.22, -7.44)",
   "dct_temporal_sm": [
     "2015-2020"
   ],
@@ -44,5 +46,5 @@
     2020
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-iot\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-io-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-iot\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-io-latest.zip\",\"label\":\"whosonfirst-data-admin-io-latest.zip (SHP)\"}]}"
 }

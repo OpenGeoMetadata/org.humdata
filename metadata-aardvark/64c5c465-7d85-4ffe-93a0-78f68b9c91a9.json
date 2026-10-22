@@ -1,7 +1,7 @@
 {
   "id": "hdx-64c5c465-7d85-4ffe-93a0-78f68b9c91a9",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-11-19T16:32:29Z",
+  "gbl_mdModified_dt": "2025-11-19T10:32:29Z",
   "dct_title_s": "Grenada: High Resolution Population Density Maps + Demographic Estimates",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -38,6 +38,8 @@
   "dct_spatial_sm": [
     "Grenada"
   ],
+  "locn_geometry": "ENVELOPE(-61.8, -61.42, 12.53, 12.0)",
+  "dcat_bbox": "ENVELOPE(-61.8, -61.42, 12.53, 12.0)",
   "dct_temporal_sm": [
     "2019-2021"
   ],
@@ -47,5 +49,5 @@
     2021
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grenada-high-resolution-population-density-maps-demographic-estimates\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/64c5c465-7d85-4ffe-93a0-78f68b9c91a9/resource/9845dc20-b3b6-4d97-84ef-1912799a039e/download/grd_general_2020_geotiff.zip\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grenada-high-resolution-population-density-maps-demographic-estimates\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/64c5c465-7d85-4ffe-93a0-78f68b9c91a9/resource/9845dc20-b3b6-4d97-84ef-1912799a039e/download/grd_general_2020_geotiff.zip\",\"label\":\"grd_general_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/64c5c465-7d85-4ffe-93a0-78f68b9c91a9/resource/88fa66a4-e2a4-44a8-a4ca-a342e536c471/download/grd_general_2020_csv.zip\",\"label\":\"grd_general_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/64c5c465-7d85-4ffe-93a0-78f68b9c91a9/resource/e4f207b8-b7f3-4f8d-a2ff-b07aa86f8bdf/download/grd_children_under_five_2020_csv.zip\",\"label\":\"grd_children_under_five_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/64c5c465-7d85-4ffe-93a0-78f68b9c91a9/resource/6e13a384-0c32-43d2-adb5-c847e550fa7e/download/grd_children_under_five_2020_geotiff.zip\",\"label\":\"grd_children_under_five_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/64c5c465-7d85-4ffe-93a0-78f68b9c91a9/resource/3348409f-1aa5-44e7-8d64-430ba16fa701/download/grd_elderly_60_plus_2020_csv.zip\",\"label\":\"grd_elderly_60_plus_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/64c5c465-7d85-4ffe-93a0-78f68b9c91a9/resource/d38bf74e-9a47-4eb1-b751-5a67baf1a845/download/grd_elderly_60_plus_2020_geotiff.zip\",\"label\":\"grd_elderly_60_plus_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/64c5c465-7d85-4ffe-93a0-78f68b9c91a9/resource/2487dfa0-dae1-4ed7-84c2-3aa121209991/download/grd_men_2020_csv.zip\",\"label\":\"grd_men_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/64c5c465-7d85-4ffe-93a0-78f68b9c91a9/resource/416b4ec7-2604-4411-9e89-40a2808abfec/download/grd_men_2020_geotiff.zip\",\"label\":\"grd_men_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/64c5c465-7d85-4ffe-93a0-78f68b9c91a9/resource/cb6c9e80-6f17-4e8d-a4c3-5bdfe4a145f7/download/grd_women_2020_csv.zip\",\"label\":\"grd_women_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/64c5c465-7d85-4ffe-93a0-78f68b9c91a9/resource/c10251d9-590f-420c-ae32-618f85ab519f/download/grd_women_2020_geotiff.zip\",\"label\":\"grd_women_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/64c5c465-7d85-4ffe-93a0-78f68b9c91a9/resource/dae3d91e-1459-4042-a449-3fa29cc03eb1/download/grd_women_of_reproductive_age_15_49_2020_csv.zip\",\"label\":\"grd_women_of_reproductive_age_15_49_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/64c5c465-7d85-4ffe-93a0-78f68b9c91a9/resource/06dd8b4d-5987-4431-97d2-78fce3f55e48/download/grd_women_of_reproductive_age_15_49_2020_geotiff.zip\",\"label\":\"grd_women_of_reproductive_age_15_49_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/64c5c465-7d85-4ffe-93a0-78f68b9c91a9/resource/92843b07-9a1e-4487-be3d-7a9fba3330be/download/grd_youth_15_24_2020_csv.zip\",\"label\":\"grd_youth_15_24_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/64c5c465-7d85-4ffe-93a0-78f68b9c91a9/resource/730f84ea-755a-475c-ba6e-1947b77e88bd/download/grd_youth_15_24_2020_geotiff.zip\",\"label\":\"grd_youth_15_24_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/64c5c465-7d85-4ffe-93a0-78f68b9c91a9/resource/703b2733-4dc5-4692-982a-c0187ba39722/download/grd_dg_metadata.json.zip\",\"label\":\"grd_dg_metadata.json.zip (JSON)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-3e93ff5d-946a-40af-89b4-8fde2e995258",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-01-09T23:06:33Z",
+  "gbl_mdModified_dt": "2025-01-09T17:06:33Z",
   "dct_title_s": "China, Macao Special Administrative Region: Copernicus Global Human Settlement Layer (GHSL)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "China, Macao Special Administrative Region"
   ],
+  "locn_geometry": "ENVELOPE(113.51, 113.59, 22.23, 22.1)",
+  "dcat_bbox": "ENVELOPE(113.51, 113.59, 22.23, 22.1)",
   "dct_temporal_sm": [
     "2025"
   ],
@@ -37,5 +39,5 @@
     2025
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mac-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/3e93ff5d-946a-40af-89b4-8fde2e995258/resource/9daf6321-4b9f-48fc-9a34-ecdcf40d5270/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_mac.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mac-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/3e93ff5d-946a-40af-89b4-8fde2e995258/resource/9daf6321-4b9f-48fc-9a34-ecdcf40d5270/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_mac.tif\",\"label\":\"GHS Built-up Surface (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/3e93ff5d-946a-40af-89b4-8fde2e995258/resource/9809d879-9469-4825-9a1b-b1c5e83d1e7b/download/ghs_pop_e2025_r2023a_54009_100_v1_0_mac.tif\",\"label\":\"GHS Population Grid (GeoTIFF)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-f24d26c5-e882-49ed-8bac-cae848ee82fa",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-02T17:29:29Z",
+  "gbl_mdModified_dt": "2026-03-02T11:29:29Z",
   "dct_title_s": "Seychelles: Planet Road Surface, Width, and Passability Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -52,6 +52,8 @@
   "dct_spatial_sm": [
     "Seychelles"
   ],
+  "locn_geometry": "ENVELOPE(46.2, 56.29, -3.79, -9.76)",
+  "dcat_bbox": "ENVELOPE(46.2, 56.29, -3.79, -9.76)",
   "dct_temporal_sm": [
     "2020-2024"
   ],
@@ -63,5 +65,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/seychelles-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_SC_planet_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_SC_planet_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/seychelles-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_SC_planet_roadsurface_lines.gpkg\",\"label\":\"Seychelles GPKG heigit_SC_planet_roadsurface_lines.gpkg (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_SC_planet_roadsurface_lines.geojson\",\"label\":\"Seychelles GeoJSON heigit_SC_planet_roadsurface_lines.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_SC_planet_roadsurface_lines.geojson\"}"
 }

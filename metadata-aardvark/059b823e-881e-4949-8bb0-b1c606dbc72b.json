@@ -1,7 +1,7 @@
 {
   "id": "hdx-059b823e-881e-4949-8bb0-b1c606dbc72b",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-03-02T17:33:57Z",
+  "gbl_mdModified_dt": "2026-03-02T11:33:57Z",
   "dct_title_s": "Guernsey: Planet Road Surface, Width, and Passability Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -52,6 +52,8 @@
   "dct_spatial_sm": [
     "Guernsey"
   ],
+  "locn_geometry": "ENVELOPE(-2.68, -2.17, 49.74, 49.41)",
+  "dcat_bbox": "ENVELOPE(-2.68, -2.17, 49.74, 49.41)",
   "dct_temporal_sm": [
     "2020-2024"
   ],
@@ -63,5 +65,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/guernsey-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_GG_planet_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_GG_planet_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/guernsey-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_GG_planet_roadsurface_lines.geojson\",\"label\":\"Guernsey GeoJSON heigit_GG_planet_roadsurface_lines.geojson (GeoJSON)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_GG_planet_roadsurface_lines.gpkg\",\"label\":\"Guernsey GPKG heigit_GG_planet_roadsurface_lines.gpkg (Geopackage)\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_GG_planet_roadsurface_lines.geojson\"}"
 }

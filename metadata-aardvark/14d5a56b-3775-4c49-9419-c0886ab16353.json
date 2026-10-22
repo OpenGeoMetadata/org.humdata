@@ -1,7 +1,7 @@
 {
   "id": "hdx-14d5a56b-3775-4c49-9419-c0886ab16353",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-06-25T01:58:58Z",
+  "gbl_mdModified_dt": "2025-06-24T20:58:58Z",
   "dct_title_s": "Côte d'Ivoire - Subnational Edge-matched Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "Côte d'Ivoire"
   ],
+  "locn_geometry": "ENVELOPE(-8.6, -2.56, 10.52, 4.34)",
+  "dcat_bbox": "ENVELOPE(-8.6, -2.56, 10.52, 4.34)",
   "dct_temporal_sm": [
     "2022"
   ],
@@ -33,5 +35,5 @@
     2022
   ],
   "dct_format_s": "XLSX",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-em-civ\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/14d5a56b-3775-4c49-9419-c0886ab16353/resource/36b5a951-ac2e-4d59-9b7d-525a33c3f327/download/civ_adminboundaries_tabulardata.xlsx\",\"label\":\"XLSX\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-em-civ\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/14d5a56b-3775-4c49-9419-c0886ab16353/resource/36b5a951-ac2e-4d59-9b7d-525a33c3f327/download/civ_adminboundaries_tabulardata.xlsx\",\"label\":\"CIV_AdminBoundaries_TabularData.xlsx (XLSX)\"},{\"url\":\"https://data.humdata.org/dataset/14d5a56b-3775-4c49-9419-c0886ab16353/resource/141973a7-b1b2-4988-99dc-665c265acd4b/download/civ_admbnda_cntig_20180706_em_v2.zip\",\"label\":\"civ_admbnda_cntig_20180706_em_v2.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/14d5a56b-3775-4c49-9419-c0886ab16353/resource/2f228d52-c646-4018-97a2-9d4b4ac104a4/download/civ_admbnda_cntig_20180706_em_v2.gdb.zip\",\"label\":\"civ_admbnda_cntig_20180706_em_v2.gdb.zip (Geodatabase)\"}]}"
 }

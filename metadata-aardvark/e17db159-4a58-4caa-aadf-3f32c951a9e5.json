@@ -1,7 +1,7 @@
 {
   "id": "hdx-e17db159-4a58-4caa-aadf-3f32c951a9e5",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-01-09T23:11:20Z",
+  "gbl_mdModified_dt": "2025-01-09T17:11:20Z",
   "dct_title_s": "Malta: Copernicus Global Human Settlement Layer (GHSL)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Malta"
   ],
+  "locn_geometry": "ENVELOPE(14.18, 14.57, 36.08, 35.8)",
+  "dcat_bbox": "ENVELOPE(14.18, 14.57, 36.08, 35.8)",
   "dct_temporal_sm": [
     "2025"
   ],
@@ -37,5 +39,5 @@
     2025
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mlt-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e17db159-4a58-4caa-aadf-3f32c951a9e5/resource/d8f80677-2d7d-4db3-a917-ec4667cdf7a4/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_mlt.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/mlt-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/e17db159-4a58-4caa-aadf-3f32c951a9e5/resource/d8f80677-2d7d-4db3-a917-ec4667cdf7a4/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_mlt.tif\",\"label\":\"GHS Built-up Surface (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/e17db159-4a58-4caa-aadf-3f32c951a9e5/resource/750a1a3e-5f55-4edc-b5d0-f82296e50fc5/download/ghs_pop_e2025_r2023a_54009_100_v1_0_mlt.tif\",\"label\":\"GHS Population Grid (GeoTIFF)\"}]}"
 }

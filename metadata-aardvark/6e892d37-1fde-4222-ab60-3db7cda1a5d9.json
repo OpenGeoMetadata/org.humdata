@@ -1,7 +1,7 @@
 {
   "id": "hdx-6e892d37-1fde-4222-ab60-3db7cda1a5d9",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-05-01T14:43:26Z",
+  "gbl_mdModified_dt": "2025-05-01T09:43:26Z",
   "dct_title_s": "Aruba: Copernicus Global Human Settlement Layer (GHSL)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "Aruba"
   ],
+  "locn_geometry": "ENVELOPE(-70.07, -69.87, 12.64, 12.41)",
+  "dcat_bbox": "ENVELOPE(-70.07, -69.87, 12.64, 12.41)",
   "dct_temporal_sm": [
     "2025"
   ],
@@ -37,5 +39,5 @@
     2025
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/abw-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/6e892d37-1fde-4222-ab60-3db7cda1a5d9/resource/cc76655a-acc9-4a1b-a3a2-a47f2325ff11/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_abw.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/abw-ghsl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/6e892d37-1fde-4222-ab60-3db7cda1a5d9/resource/cc76655a-acc9-4a1b-a3a2-a47f2325ff11/download/ghs_built_s_e2025_r2023a_54009_100_v1_0_abw.tif\",\"label\":\"GHS Built-up Surface (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/6e892d37-1fde-4222-ab60-3db7cda1a5d9/resource/12200506-3c8d-4435-b40d-d6383703da16/download/ghs_pop_e2025_r2023a_54009_100_v1_0_abw.tif\",\"label\":\"GHS Population Grid (GeoTIFF)\"}]}"
 }

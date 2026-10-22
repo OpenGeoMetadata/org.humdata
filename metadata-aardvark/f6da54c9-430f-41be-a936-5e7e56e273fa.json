@@ -1,7 +1,7 @@
 {
   "id": "hdx-f6da54c9-430f-41be-a936-5e7e56e273fa",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-11-19T16:36:09Z",
+  "gbl_mdModified_dt": "2025-11-19T10:36:09Z",
   "dct_title_s": "Faroe Islands: High Resolution Population Density Maps + Demographic Estimates",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -34,6 +34,8 @@
   "dct_spatial_sm": [
     "Faroe Islands"
   ],
+  "locn_geometry": "ENVELOPE(-7.65, -6.27, 62.4, 61.39)",
+  "dcat_bbox": "ENVELOPE(-7.65, -6.27, 62.4, 61.39)",
   "dct_temporal_sm": [
     "2019-2021"
   ],
@@ -43,5 +45,5 @@
     2021
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/faroe-islands-high-resolution-population-density-maps-demographic-estimates\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/f6da54c9-430f-41be-a936-5e7e56e273fa/resource/7633ad09-ab0d-445a-b565-6d9725201fe9/download/fro_general_2020_geotiff.zip\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/faroe-islands-high-resolution-population-density-maps-demographic-estimates\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/f6da54c9-430f-41be-a936-5e7e56e273fa/resource/4746c272-49c7-423e-b461-ff446511cb30/download/fro_general_2020_csv.zip\",\"label\":\"fro_general_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/f6da54c9-430f-41be-a936-5e7e56e273fa/resource/7633ad09-ab0d-445a-b565-6d9725201fe9/download/fro_general_2020_geotiff.zip\",\"label\":\"fro_general_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/f6da54c9-430f-41be-a936-5e7e56e273fa/resource/cf36e878-b09b-4c53-b3cb-904a3e701c73/download/fro_children_under_five_2020_csv.zip\",\"label\":\"fro_children_under_five_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/f6da54c9-430f-41be-a936-5e7e56e273fa/resource/ba146604-4b6e-406c-8208-65f18187f59b/download/fro_elderly_60_plus_2020_csv.zip\",\"label\":\"fro_elderly_60_plus_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/f6da54c9-430f-41be-a936-5e7e56e273fa/resource/9a88e0ee-53ca-4262-b7bb-250bead006ca/download/fro_men_2020_csv.zip\",\"label\":\"fro_men_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/f6da54c9-430f-41be-a936-5e7e56e273fa/resource/c7ebea67-847f-490c-a763-0d025fe0fc7a/download/fro_women_2020_csv.zip\",\"label\":\"fro_women_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/f6da54c9-430f-41be-a936-5e7e56e273fa/resource/d3434dac-80f9-4d0f-b28b-0bf0301f7836/download/fro_women_of_reproductive_age_15_49_2020_csv.zip\",\"label\":\"fro_women_of_reproductive_age_15_49_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/f6da54c9-430f-41be-a936-5e7e56e273fa/resource/00974e8b-313a-48d5-a36f-6f95cc0f1b57/download/fro_youth_15_24_2020_csv.zip\",\"label\":\"fro_youth_15_24_2020_csv.zip (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/f6da54c9-430f-41be-a936-5e7e56e273fa/resource/fcf99a92-b89f-4a91-9b6a-c3cbb2833807/download/fro_women_of_reproductive_age_15_49_2020_geotiff.zip\",\"label\":\"fro_women_of_reproductive_age_15_49_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/f6da54c9-430f-41be-a936-5e7e56e273fa/resource/b247528a-aba9-42b9-88a3-2b9f3a4f8b91/download/fro_children_under_five_2020_geotiff.zip\",\"label\":\"fro_children_under_five_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/f6da54c9-430f-41be-a936-5e7e56e273fa/resource/21d47eff-0a8f-4f7a-bacb-3a48e516da78/download/fro_elderly_60_plus_2020_geotiff.zip\",\"label\":\"fro_elderly_60_plus_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/f6da54c9-430f-41be-a936-5e7e56e273fa/resource/79321b5e-f8b4-4f63-8c49-2bf27bb4b4c3/download/fro_youth_15_24_2020_geotiff.zip\",\"label\":\"fro_youth_15_24_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/f6da54c9-430f-41be-a936-5e7e56e273fa/resource/18202574-45af-4f94-95b3-b7c00234564f/download/fro_women_2020_geotiff.zip\",\"label\":\"fro_women_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/f6da54c9-430f-41be-a936-5e7e56e273fa/resource/63ed4276-e9b1-4fd4-b089-8c7f710a3a1d/download/fro_men_2020_geotiff.zip\",\"label\":\"fro_men_2020_geotiff.zip (GeoTIFF)\"},{\"url\":\"https://data.humdata.org/dataset/f6da54c9-430f-41be-a936-5e7e56e273fa/resource/6d987fcc-e798-4656-bded-92d082ba586f/download/fro_dg_metadata.json.zip\",\"label\":\"fro_dg_metadata.json.zip (JSON)\"}]}"
 }

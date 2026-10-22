@@ -1,7 +1,7 @@
 {
   "id": "hdx-d3a843df-a640-4e9d-b867-8ca974c2aa74",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-05-05T16:16:43Z",
+  "gbl_mdModified_dt": "2025-05-05T11:16:43Z",
   "dct_title_s": "State of Palestine - Oslo Agreement in the West Bank",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "State of Palestine"
   ],
+  "locn_geometry": "ENVELOPE(34.2, 35.58, 32.55, 31.21)",
+  "dcat_bbox": "ENVELOPE(34.2, 35.58, 32.55, 31.21)",
   "dct_temporal_sm": [
     "2004"
   ],
@@ -33,5 +35,5 @@
     2004
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/state-of-palestine-other-0-0-0-0-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/d3a843df-a640-4e9d-b867-8ca974c2aa74/resource/86f2707a-dc64-46af-bd41-b31e95611b45/download/osloagreement.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/state-of-palestine-other-0-0-0-0-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/d3a843df-a640-4e9d-b867-8ca974c2aa74/resource/86f2707a-dc64-46af-bd41-b31e95611b45/download/osloagreement.zip\",\"label\":\"OsloAgreement.zip (SHP)\"}]}"
 }

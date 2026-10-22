@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "American Samoa"
   ],
+  "locn_geometry": "ENVELOPE(-171.09, -168.16, -11.05, -14.54)",
+  "dcat_bbox": "ENVELOPE(-171.09, -168.16, -11.05, -14.54)",
   "dct_temporal_sm": [
     "2020"
   ],
@@ -33,5 +35,5 @@
     2020
   ],
   "dct_format_s": "GeoTIFF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/pdh-american_samoa_population_grid_2020\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://pacificdata.org/data/dataset/88eb6392-c134-4736-b204-6de34a775166/resource/f03ee67f-8d8a-4cb6-a05b-f0f09b898577/download/asm_pop_grid_2020.tif\",\"label\":\"GeoTIFF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/pdh-american_samoa_population_grid_2020\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://pacificdata.org/data/dataset/88eb6392-c134-4736-b204-6de34a775166/resource/f03ee67f-8d8a-4cb6-a05b-f0f09b898577/download/asm_pop_grid_2020.tif\",\"label\":\"ASM_Pop_Grid_2020 (GeoTIFF)\"},{\"url\":\"https://pacificdata.org/data/dataset/88eb6392-c134-4736-b204-6de34a775166/resource/63081e26-bc81-44d4-b8a6-6c3c1df9a41f/download/asm_pop_grid_2020_readme.txt\",\"label\":\"ASM_Pop_Grid_2020_README (TXT)\"},{\"url\":\"https://pacificdata.org/data/dataset/88eb6392-c134-4736-b204-6de34a775166/resource/d231b639-8259-427f-8ae4-d7705dafba9c/download/asm_popgrid_2020_atlas.zip\",\"label\":\"ASM_Pop_Grid_ATLAS (zipped jpeg)\"}]}"
 }

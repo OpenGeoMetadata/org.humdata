@@ -1,7 +1,7 @@
 {
   "id": "hdx-c3a01b32-1520-403d-9ed3-a68bbb7ae9f9",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-02-07T23:08:48Z",
+  "gbl_mdModified_dt": "2025-02-07T17:08:48Z",
   "dct_title_s": "GRID3 REU - Settlement Extents v3.0",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Réunion"
   ],
+  "locn_geometry": "ENVELOPE(55.22, 55.86, -20.86, -21.38)",
+  "dcat_bbox": "ENVELOPE(55.22, 55.86, -20.86, -21.38)",
   "dct_temporal_sm": [
     "2016-2023"
   ],
@@ -42,5 +44,5 @@
     2023
   ],
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-reu-settlement-extents-v3-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/c3a01b32-1520-403d-9ed3-a68bbb7ae9f9/resource/ccf5ac07-5402-45b3-b8d9-4c1c18fa7ec8/download/grid3-reu-settlement-extents-v3.0-data-release-notes-.pdf\",\"label\":\"PDF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-reu-settlement-extents-v3-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/c3a01b32-1520-403d-9ed3-a68bbb7ae9f9/resource/ccf5ac07-5402-45b3-b8d9-4c1c18fa7ec8/download/grid3-reu-settlement-extents-v3.0-data-release-notes-.pdf\",\"label\":\"GRID3 REU - Settlement Extents v3.0 - Data Release Notes .pdf (PDF)\"},{\"url\":\"https://data.humdata.org/dataset/c3a01b32-1520-403d-9ed3-a68bbb7ae9f9/resource/e9cedbac-9717-45af-b42b-5d41bd390be3/download/grid3_reu_settlement_extents_v3_0.zip\",\"label\":\"GRID3_REU_settlement_extents_v3_0.zip (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/c3a01b32-1520-403d-9ed3-a68bbb7ae9f9/resource/e7943271-2da7-4fc8-9576-841070bd2278/download/grid3_reu_settlement_grid_v3_0.zip\",\"label\":\"GRID3_REU_settlement_grid_v3_0.zip (Geopackage)\"}]}"
 }

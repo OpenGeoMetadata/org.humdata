@@ -1,7 +1,7 @@
 {
   "id": "hdx-1050251a-7369-42a3-9534-c60ff992b9c8",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-15T22:11:16Z",
+  "gbl_mdModified_dt": "2025-04-15T17:11:16Z",
   "dct_title_s": "GRID3 CPV - Settlement Extents v3.0",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Cabo Verde"
   ],
+  "locn_geometry": "ENVELOPE(-25.37, -22.66, 17.2, 14.8)",
+  "dcat_bbox": "ENVELOPE(-25.37, -22.66, 17.2, 14.8)",
   "dct_temporal_sm": [
     "2016-2023"
   ],
@@ -42,5 +44,5 @@
     2023
   ],
   "dct_format_s": "PDF",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-cpv-settlement-extents-v3-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/1050251a-7369-42a3-9534-c60ff992b9c8/resource/055b4b5d-43a1-4317-aae1-40485d337521/download/grid3-cpv-settlement-extents-v3.0-data-release-notes-.pdf\",\"label\":\"PDF\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-cpv-settlement-extents-v3-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/1050251a-7369-42a3-9534-c60ff992b9c8/resource/055b4b5d-43a1-4317-aae1-40485d337521/download/grid3-cpv-settlement-extents-v3.0-data-release-notes-.pdf\",\"label\":\"GRID3 CPV - Settlement Extents v3.0 - Data Release Notes .pdf (PDF)\"},{\"url\":\"https://data.humdata.org/dataset/1050251a-7369-42a3-9534-c60ff992b9c8/resource/d2ff8f36-428a-4567-bf65-ac28c1608c8c/download/grid3_cpv_settlement_extents_v3_0.zip\",\"label\":\"GRID3_CPV_settlement_extents_v3_0.zip (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/1050251a-7369-42a3-9534-c60ff992b9c8/resource/a974ce9c-3ea4-4216-9d00-2005d988af1f/download/grid3_cpv_settlement_grid_v3_0.zip\",\"label\":\"GRID3_CPV_settlement_grid_v3_0.zip (Geopackage)\"}]}"
 }

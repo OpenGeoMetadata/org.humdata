@@ -1,7 +1,7 @@
 {
   "id": "hdx-1efb1a6f-7478-4f32-adb7-3e4e6557d2b3",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-06T14:10:59Z",
+  "gbl_mdModified_dt": "2026-06-06T09:10:59Z",
   "dct_title_s": "San Marino: Road Surface Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -50,6 +50,8 @@
   "dct_spatial_sm": [
     "San Marino"
   ],
+  "locn_geometry": "ENVELOPE(12.38, 12.5, 43.99, 43.89)",
+  "dcat_bbox": "ENVELOPE(12.38, 12.5, 43.99, 43.89)",
   "dct_temporal_sm": [
     "2024"
   ],
@@ -57,5 +59,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/san-marino-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_smr_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_smr_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/san-marino-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_smr_roadsurface_lines.geojson\",\"label\":\"San marino GeoJSON Resource (GeoJSON)\"},{\"url\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_smr_roadsurface_lines.gpkg\",\"label\":\"San marino GeoPackage Resource (Geopackage)\"}],\"http://geojson.org/geojson-spec.html\":\"https://downloads.ohsome.org/hdx/mapillary_road_surface/heigit_smr_roadsurface_lines.geojson\"}"
 }

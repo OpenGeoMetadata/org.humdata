@@ -1,7 +1,7 @@
 {
   "id": "hdx-62ce6315-6192-4e4d-8840-ff20c8553643",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-06-25T02:16:42Z",
+  "gbl_mdModified_dt": "2025-06-24T21:16:42Z",
   "dct_title_s": "Saint Martin - Subnational Edge-matched Administrative Boundaries",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -26,6 +26,8 @@
   "dct_spatial_sm": [
     "Saint Martin"
   ],
+  "locn_geometry": "ENVELOPE(-63.15, -63.01, 18.13, 18.03)",
+  "dcat_bbox": "ENVELOPE(-63.15, -63.01, 18.13, 18.03)",
   "dct_temporal_sm": [
     "2024"
   ],
@@ -33,5 +35,5 @@
     2024
   ],
   "dct_format_s": "XLSX",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-em-maf\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/62ce6315-6192-4e4d-8840-ff20c8553643/resource/89e3e589-6862-4873-b89d-16c23422eb13/download/maf_adminboundaries_tabulardata.xlsx\",\"label\":\"XLSX\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-em-maf\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/62ce6315-6192-4e4d-8840-ff20c8553643/resource/89e3e589-6862-4873-b89d-16c23422eb13/download/maf_adminboundaries_tabulardata.xlsx\",\"label\":\"MAF_AdminBoundaries_TabularData.xlsx (XLSX)\"},{\"url\":\"https://data.humdata.org/dataset/62ce6315-6192-4e4d-8840-ff20c8553643/resource/32fef88c-4456-4df7-bc39-a6ea0df7fc45/download/maf_adm_gadm_20240116_em_shp.zip\",\"label\":\"maf_adm_gadm_20240116_EM_SHP.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/62ce6315-6192-4e4d-8840-ff20c8553643/resource/5262daaf-379c-4daa-8be2-920d8ae877fd/download/maf_adm_gadm_itos_20240126_em_gdb.gdb.zip\",\"label\":\"maf_adm_gadm_ITOS_20240126_EM_GDB.gdb.zip (Geodatabase)\"},{\"url\":\"https://data.humdata.org/dataset/62ce6315-6192-4e4d-8840-ff20c8553643/resource/4c57d021-bfd6-4438-a330-a54b5899de3f/download/maf_adm_gadm_20240116_em_emf.zip\",\"label\":\"maf_adm_gadm_20240116_EM_EMF.zip (EMF)\"}]}"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hdx-4c378690-e850-475b-b413-aafcba4f013a",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-04-05T14:24:20Z",
+  "gbl_mdModified_dt": "2026-04-05T09:24:20Z",
   "dct_title_s": "DRC Health Data Ebola 2018",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
   ],
+  "locn_geometry": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
+  "dcat_bbox": "ENVELOPE(12.18, 31.17, 5.26, -13.26)",
   "dct_temporal_sm": [
     "2019"
   ],
@@ -39,5 +41,5 @@
     2019
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/drc-health-facilities\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/4c378690-e850-475b-b413-aafcba4f013a/resource/ae82d227-feeb-4191-b09e-8c4f8350e6b7/download/nk_it_aoiebola_structuressanitaire_v14.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/drc-health-facilities\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/4c378690-e850-475b-b413-aafcba4f013a/resource/ae82d227-feeb-4191-b09e-8c4f8350e6b7/download/nk_it_aoiebola_structuressanitaire_v14.zip\",\"label\":\"NK_IT_AOIEbola_StructuresSanitaire_V14.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/4c378690-e850-475b-b413-aafcba4f013a/resource/fed634d2-e55e-4443-a90a-19534d8def25/download/nk_sk_it_aoiebola_airesante_v10.zip\",\"label\":\"NK_SK_IT_AOIEbola_AireSante_V10.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/4c378690-e850-475b-b413-aafcba4f013a/resource/fa475e06-e26f-404f-9ebe-909626e8d802/download/nk_sk_it_aoiebola_airesante_v10.xlsx\",\"label\":\"NK_SK_IT_AOIEbola_AireSante_V10.xlsx (XLS)\"},{\"url\":\"https://data.humdata.org/dataset/4c378690-e850-475b-b413-aafcba4f013a/resource/fca23d8b-b934-4198-b6d9-702134aeb7be/download/cellulessanitaires_zsbeni24072019.zip\",\"label\":\"CellulesSanitaires_ZSBeni24072019.zip (SHP)\"},{\"url\":\"https://www.rgc.cd/index.php?option=com_content&view=featured&Itemid=90\",\"label\":\"Zones de santé (ZS) de la RDC (SHP)\"}]}"
 }

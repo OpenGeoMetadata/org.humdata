@@ -1,7 +1,7 @@
 {
   "id": "hdx-ac4d0e80-fb34-4a5a-b98e-a37f7f9c6598",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-10-01T19:09:22Z",
+  "gbl_mdModified_dt": "2025-10-01T14:09:22Z",
   "dct_title_s": "Saint Pierre and Miquelon: WOF Administrative Subdivisions and Human Settlements",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -32,6 +32,8 @@
   "dct_spatial_sm": [
     "Saint Pierre and Miquelon"
   ],
+  "locn_geometry": "ENVELOPE(-56.4, -56.14, 47.15, 46.75)",
+  "dcat_bbox": "ENVELOPE(-56.4, -56.14, 47.15, 46.75)",
   "dct_temporal_sm": [
     "2015-2023"
   ],
@@ -47,5 +49,5 @@
     2023
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-spm\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-pm-latest.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/whosonfirst-data-admin-spm\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.geocode.earth/wof/dist/shapefile/whosonfirst-data-admin-pm-latest.zip\",\"label\":\"whosonfirst-data-admin-pm-latest.zip (SHP)\"}]}"
 }

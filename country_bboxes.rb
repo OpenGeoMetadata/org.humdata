@@ -1,47 +1,73 @@
+# Country bounding boxes, as [min_lon, min_lat, max_lon, max_lat], keyed by name: lowercased, with
+# everything but letters and digits removed. The smaller countries and territories HDX lists that
+# the table first left out come from Natural Earth's 1:10m admin-0 map units (v5.1.2), rounded
+# outward to two decimal places. A box that crosses the antimeridian spans the longitudes between,
+# the long way round.
 module CountryBboxes
   BBOXES = {
     "afghanistan" => [60.53, 29.32, 75.16, 38.49],
+    "alandislands" => [19.51, 59.9, 21.1, 60.49],
     "albania" => [19.3, 39.62, 21.02, 42.69],
     "algeria" => [-8.68, 19.06, 12.0, 37.12],
+    "americansamoa" => [-171.09, -14.54, -168.16, -11.05],
+    "andorra" => [1.4, 42.42, 1.77, 42.65],
     "angola" => [11.64, -17.93, 24.08, -4.44],
+    "anguilla" => [-63.43, 18.16, -62.92, 18.61],
     "antarctica" => [-180.0, -90.0, 180.0, -63.27],
+    "antiguaandbarbuda" => [-62.35, 16.93, -61.66, 17.73],
     "argentina" => [-73.42, -55.25, -53.63, -21.83],
     "armenia" => [43.58, 38.74, 46.51, 41.25],
+    "aruba" => [-70.07, 12.41, -69.87, 12.64],
     "australia" => [113.34, -43.63, 153.57, -10.67],
     "austria" => [9.48, 46.43, 16.98, 49.04],
     "azerbaijan" => [44.79, 38.27, 50.39, 41.86],
     "bahamas" => [-78.98, 23.71, -77.0, 27.04],
+    "bahrain" => [50.38, 25.57, 50.82, 26.29],
     "bangladesh" => [88.08, 20.67, 92.67, 26.45],
+    "barbados" => [-59.66, 13.05, -59.42, 13.35],
     "belarus" => [23.2, 51.32, 32.69, 56.17],
     "belgium" => [2.51, 49.53, 6.16, 51.48],
     "belize" => [-89.23, 15.89, -88.11, 18.5],
     "benin" => [0.77, 6.14, 3.8, 12.24],
+    "bermuda" => [-64.89, 32.24, -64.64, 32.39],
     "bhutan" => [88.81, 26.72, 92.1, 28.3],
     "bolivia" => [-69.59, -22.87, -57.5, -9.76],
+    "bonairesinteustatiusandsaba" => [-68.42, 12.02, -62.94, 17.65],
     "bosniaandherzegovina" => [15.75, 42.65, 19.6, 45.23],
     "botswana" => [19.9, -26.83, 29.43, -17.66],
+    "bouvetisland" => [3.34, -54.47, 3.49, -54.38],
     "brazil" => [-73.99, -33.77, -34.73, 5.24],
+    "britishindianoceanterritory" => [71.26, -7.44, 72.5, -5.22],
+    "britishvirginislands" => [-64.78, 18.33, -64.27, 18.75],
     "brunei" => [114.2, 4.01, 115.45, 5.45],
     "bulgaria" => [22.38, 41.23, 28.56, 44.23],
     "burkinafaso" => [-5.47, 9.61, 2.18, 15.12],
     "burundi" => [29.02, -4.5, 30.75, -2.35],
+    "caboverde" => [-25.37, 14.8, -22.66, 17.2],
     "cambodia" => [102.35, 10.49, 107.61, 14.57],
     "cameroon" => [8.49, 1.73, 16.01, 12.86],
     "canada" => [-141.0, 41.68, -52.65, 73.23],
+    "caymanislands" => [-81.42, 19.26, -79.72, 19.76],
     "centralafricanrepublic" => [14.46, 2.27, 27.37, 11.14],
     "chad" => [13.54, 7.42, 23.89, 23.41],
     "chile" => [-75.64, -55.61, -66.96, -17.58],
     "china" => [73.68, 18.2, 135.03, 53.46],
+    "christmasisland" => [105.58, -10.57, 105.72, -10.43],
+    "cocoskeelingislands" => [96.82, -12.2, 96.93, -12.12],
     "colombia" => [-78.99, -4.3, -66.88, 12.44],
+    "comoros" => [43.21, -12.39, 44.53, -11.36],
     "congobrazzaville" => [11.09, -5.04, 18.45, 3.73],
     "congokinshasa" => [12.18, -13.26, 31.17, 5.26],
+    "cookislands" => [-165.83, -21.94, -157.31, -8.94],
     "costarica" => [-85.94, 8.23, -82.55, 11.22],
     "croatia" => [13.66, 42.48, 19.39, 46.5],
     "cuba" => [-84.97, 19.86, -74.18, 23.19],
+    "curacao" => [-69.18, 12.04, -68.73, 12.4],
     "cyprus" => [32.26, 34.57, 34.0, 35.17],
     "czechrepublic" => [12.24, 48.56, 18.85, 51.12],
     "denmark" => [8.09, 54.8, 12.69, 57.73],
     "djibouti" => [41.66, 10.93, 43.32, 12.7],
+    "dominica" => [-61.49, 15.2, -61.24, 15.64],
     "dominicanrepublic" => [-71.95, 17.6, -68.32, 19.88],
     "easttimor" => [124.97, -9.39, 127.34, -8.27],
     "ecuador" => [-80.97, -4.96, -75.23, 1.38],
@@ -52,23 +78,35 @@ module CountryBboxes
     "estonia" => [23.34, 57.47, 28.13, 59.61],
     "ethiopia" => [32.95, 3.42, 47.79, 14.96],
     "falklandislands" => [-61.2, -52.3, -57.75, -51.1],
+    "faroeislands" => [-7.65, 61.39, -6.27, 62.4],
     "fiji" => [-180.0, -18.29, 180.0, -16.02],
     "finland" => [20.65, 59.85, 31.52, 70.16],
     "france" => [-5.0, 42.5, 9.56, 51.15],
+    "frenchguiana" => [-54.62, 2.11, -51.64, 5.75],
+    "frenchpolynesia" => [-154.54, -27.65, -134.94, -7.95],
+    "frenchsouthernandantarcticterritories" => [39.72, -49.73, 77.59, -11.55],
     "frenchsouthernterritories" => [68.72, -49.78, 70.56, -48.63],
     "gabon" => [8.8, -3.98, 14.43, 2.33],
     "gambia" => [-16.84, 13.13, -13.84, 13.88],
     "georgia" => [39.96, 41.06, 46.64, 43.55],
     "germany" => [5.99, 47.3, 15.02, 54.98],
     "ghana" => [-3.24, 4.71, 1.06, 11.1],
+    "gibraltar" => [-5.36, 36.11, -5.33, 36.15],
     "greece" => [20.15, 34.92, 26.6, 41.83],
     "greenland" => [-73.3, 60.04, -12.21, 83.65],
+    "grenada" => [-61.8, 12.0, -61.42, 12.53],
+    "guadeloupe" => [-61.8, 15.84, -60.98, 16.52],
+    "guam" => [144.62, 13.24, 144.96, 13.66],
     "guatemala" => [-92.23, 13.74, -88.23, 17.82],
+    "guernsey" => [-2.68, 49.41, -2.17, 49.74],
     "guinea" => [-15.13, 7.31, -7.83, 12.59],
     "guineabissau" => [-16.68, 11.04, -13.7, 12.63],
     "guyana" => [-61.41, 1.27, -56.54, 8.37],
     "haiti" => [-74.46, 18.03, -71.62, 19.92],
+    "heardislandandmcdonaldislands" => [73.23, -53.2, 73.82, -52.96],
+    "holysee" => [12.45, 41.9, 12.46, 41.91],
     "honduras" => [-89.35, 12.98, -83.15, 16.01],
+    "hongkong" => [113.83, 22.17, 114.41, 22.57],
     "hungary" => [16.2, 45.76, 22.71, 48.62],
     "iceland" => [-24.33, 63.5, -13.61, 66.53],
     "india" => [68.18, 7.97, 97.4, 35.49],
@@ -76,14 +114,18 @@ module CountryBboxes
     "iran" => [44.11, 25.08, 63.32, 39.71],
     "iraq" => [38.79, 29.1, 48.57, 37.39],
     "ireland" => [-9.98, 51.67, -6.03, 55.13],
+    "isleofman" => [-4.8, 54.05, -4.31, 54.42],
     "israel" => [34.27, 29.5, 35.84, 33.28],
     "italy" => [6.75, 36.62, 18.48, 47.12],
     "ivorycoast" => [-8.6, 4.34, -2.56, 10.52],
     "jamaica" => [-78.34, 17.7, -76.2, 18.52],
     "japan" => [129.41, 31.03, 145.54, 45.55],
+    "jersey" => [-2.25, 49.17, -2.0, 49.27],
     "jordan" => [34.92, 29.2, 39.2, 33.38],
     "kazakhstan" => [46.47, 40.66, 87.36, 55.39],
     "kenya" => [33.89, -4.68, 41.86, 5.51],
+    "kiribati" => [-174.55, -11.47, 176.86, 4.73],
+    "kosovo" => [20.02, 41.84, 21.78, 43.27],
     "kuwait" => [46.57, 28.53, 48.42, 30.06],
     "kyrgyzstan" => [69.46, 39.28, 80.26, 43.3],
     "laos" => [100.12, 13.88, 107.56, 22.46],
@@ -92,22 +134,34 @@ module CountryBboxes
     "lesotho" => [27.0, -30.65, 29.33, -28.65],
     "liberia" => [-11.44, 4.36, -7.54, 8.54],
     "libya" => [9.32, 19.58, 25.16, 33.14],
+    "liechtenstein" => [9.47, 47.05, 9.62, 47.27],
     "lithuania" => [21.06, 53.91, 26.59, 56.37],
     "luxembourg" => [5.67, 49.44, 6.24, 50.13],
+    "macao" => [113.51, 22.1, 113.59, 22.23],
     "macedonia" => [20.46, 40.84, 22.95, 42.32],
     "madagascar" => [43.25, -25.6, 50.48, -12.04],
     "malawi" => [32.69, -16.8, 35.77, -9.23],
     "malaysia" => [100.09, 0.77, 119.18, 6.93],
+    "maldives" => [72.68, -0.69, 73.76, 7.11],
     "mali" => [-12.17, 10.1, 4.27, 24.97],
+    "malta" => [14.18, 35.8, 14.57, 36.08],
+    "marshallislands" => [165.28, 4.57, 172.03, 14.62],
+    "martinique" => [-61.23, 14.4, -60.81, 14.88],
     "mauritania" => [-17.06, 14.62, -4.92, 27.4],
+    "mauritius" => [56.52, -20.52, 63.5, -10.32],
+    "mayotte" => [45.04, -12.99, 45.3, -12.64],
     "mexico" => [-117.13, 14.54, -86.81, 32.72],
+    "micronesia" => [138.06, 0.91, 163.05, 9.78],
     "moldova" => [26.62, 45.49, 30.02, 48.47],
+    "monaco" => [7.36, 43.71, 7.44, 43.77],
     "mongolia" => [87.75, 41.6, 119.77, 52.05],
     "montenegro" => [18.45, 41.88, 20.34, 43.52],
+    "montserrat" => [-62.24, 16.67, -62.14, 16.82],
     "morocco" => [-17.02, 21.42, -1.12, 35.76],
     "mozambique" => [30.18, -26.74, 40.78, -10.32],
     "myanmar" => [92.3, 9.93, 101.18, 28.34],
     "namibia" => [11.73, -29.05, 25.08, -16.94],
+    "nauru" => [166.9, -0.56, 166.96, -0.49],
     "nepal" => [80.09, 26.4, 88.17, 30.42],
     "netherlands" => [3.31, 50.8, 7.09, 53.51],
     "newcaledonia" => [164.03, -22.4, 167.12, -20.11],
@@ -115,37 +169,59 @@ module CountryBboxes
     "nicaragua" => [-87.67, 10.73, -83.15, 15.02],
     "niger" => [0.3, 11.66, 15.9, 23.47],
     "nigeria" => [2.69, 4.24, 14.58, 13.87],
+    "niue" => [-169.96, -19.15, -169.78, -18.96],
+    "norfolkisland" => [167.91, -29.09, 168.0, -28.99],
+    "northernmarianaislands" => [144.9, 14.11, 145.87, 20.56],
     "northkorea" => [124.27, 37.67, 130.78, 42.99],
     "norway" => [4.99, 58.08, 31.29, 70.92],
     "oman" => [52.0, 16.65, 59.81, 26.4],
     "pakistan" => [60.87, 23.69, 77.84, 37.13],
+    "palau" => [131.13, 2.94, 134.73, 8.1],
     "panama" => [-82.97, 7.22, -77.24, 9.61],
     "papuanewguinea" => [141.0, -10.65, 156.02, -2.5],
     "paraguay" => [-62.69, -27.55, -54.29, -19.34],
     "peru" => [-81.41, -18.35, -68.67, -0.06],
     "philippines" => [117.17, 5.58, 126.54, 18.51],
+    "pitcairn" => [-130.76, -25.08, -124.77, -23.92],
     "poland" => [14.07, 49.03, 24.03, 54.85],
     "portugal" => [-9.53, 36.84, -6.39, 42.28],
     "puertorico" => [-67.24, 17.95, -65.59, 18.52],
     "qatar" => [50.74, 24.56, 51.61, 26.11],
+    "reunion" => [55.22, -21.38, 55.86, -20.86],
     "romania" => [20.22, 43.69, 29.63, 48.22],
     "russia" => [-180.0, 41.15, 180.0, 81.25],
     "rwanda" => [29.02, -2.92, 30.82, -1.13],
+    "saintbarthelemy" => [-62.87, 17.88, -62.79, 17.93],
+    "sainthelena" => [-14.42, -40.4, -5.65, -7.87],
+    "saintkittsandnevis" => [-62.87, 17.1, -62.53, 17.42],
+    "saintlucia" => [-61.08, 13.71, -60.88, 14.12],
+    "saintmartin" => [-63.15, 18.03, -63.01, 18.13],
+    "saintpierreandmiquelon" => [-56.4, 46.75, -56.14, 47.15],
+    "saintvincentandthegrenadines" => [-61.46, 12.58, -61.12, 13.39],
+    "samoa" => [-172.79, -14.06, -171.43, -13.46],
+    "sanmarino" => [12.38, 43.89, 12.5, 43.99],
+    "saotomeandprincipe" => [6.46, 0.02, 7.47, 1.7],
     "saudiarabia" => [34.63, 16.35, 55.67, 32.16],
     "senegal" => [-17.63, 12.33, -11.47, 16.6],
     "serbia" => [18.83, 42.25, 22.99, 46.17],
+    "seychelles" => [46.2, -9.76, 56.29, -3.79],
     "sierraleone" => [-13.25, 6.79, -10.23, 10.05],
+    "singapore" => [103.64, 1.26, 104.01, 1.45],
+    "sintmaarten" => [-63.12, 18.01, -63.01, 18.07],
     "slovakia" => [16.88, 47.76, 22.56, 49.57],
     "slovenia" => [13.7, 45.45, 16.56, 46.85],
     "solomonislands" => [156.49, -10.83, 162.4, -6.6],
     "somalia" => [40.98, -1.68, 51.13, 12.02],
     "southafrica" => [16.34, -34.82, 32.83, -22.09],
+    "southgeorgiaandthesouthsandwichislands" => [-38.09, -59.48, -26.23, -53.97],
     "southkorea" => [126.12, 34.39, 129.47, 38.61],
     "southsudan" => [23.89, 3.51, 35.3, 12.25],
     "spain" => [-9.39, 35.95, 3.04, 43.75],
     "srilanka" => [79.7, 5.97, 81.79, 9.82],
+    "stateofpalestine" => [34.2, 31.21, 35.58, 32.55],
     "sudan" => [21.94, 8.62, 38.41, 22.0],
     "suriname" => [-58.04, 1.82, -53.96, 6.03],
+    "svalbardandjanmayenislands" => [-9.12, 70.8, 33.65, 80.78],
     "swaziland" => [30.68, -27.29, 32.07, -25.66],
     "sweden" => [11.03, 55.36, 23.9, 69.11],
     "switzerland" => [6.02, 45.78, 10.44, 47.83],
@@ -155,70 +231,70 @@ module CountryBboxes
     "tanzania" => [29.34, -11.72, 40.32, -0.95],
     "thailand" => [97.38, 5.69, 105.59, 20.42],
     "togo" => [-0.05, 5.93, 1.87, 11.02],
+    "tokelau" => [-172.51, -9.37, -171.18, -8.54],
+    "tonga" => [-176.22, -22.34, -173.91, -15.55],
     "trinidadandtobago" => [-61.95, 10.0, -60.9, 10.89],
     "tunisia" => [7.52, 30.31, 11.49, 37.35],
     "turkey" => [26.04, 35.82, 44.79, 42.14],
     "turkmenistan" => [52.5, 35.27, 66.55, 42.75],
+    "turksandcaicosislands" => [-72.49, 21.29, -71.12, 21.96],
+    "tuvalu" => [176.12, -9.43, 179.91, -5.67],
     "uganda" => [29.58, -1.44, 35.04, 4.25],
     "ukraine" => [22.09, 44.36, 40.08, 52.34],
     "unitedarabemirates" => [51.58, 22.5, 56.4, 26.06],
     "unitedkingdom" => [-7.57, 49.96, 1.68, 58.64],
     "unitedstates" => [-125.0, 25.0, -66.96, 49.5],
+    "unitedstatesminoroutlyingislands" => [-177.39, -0.39, 166.66, 28.22],
+    "unitedstatesvirginislands" => [-65.05, 17.68, -64.55, 18.39],
     "uruguay" => [-58.43, -34.95, -53.21, -30.11],
     "uzbekistan" => [55.93, 37.14, 73.06, 45.59],
     "vanuatu" => [166.63, -16.6, 167.84, -14.63],
     "venezuela" => [-73.3, 0.72, -59.76, 12.16],
     "vietnam" => [102.17, 8.6, 109.34, 23.35],
+    "wallisandfutunaislands" => [-178.19, -14.32, -176.12, -13.2],
     "westbank" => [34.93, 31.35, 35.55, 32.53],
+    "westernsahara" => [-17.11, 20.76, -8.68, 27.67],
     "yemen" => [42.6, 12.59, 53.11, 19.0],
     "zambia" => [21.89, -17.96, 33.49, -8.24],
     "zimbabwe" => [25.26, -22.27, 32.85, -15.51],
   }.freeze
 
-  def self.bbox_for(country_name)
-    normalized = country_name.to_s.downcase.gsub(/[^a-z0-9]/, "")
-    # Direct lookup or alias lookup
-    BBOXES[normalized] || alias_for(normalized)
-  end
+  # HDX's names for places the table knows by another name, normalized like its keys
+  ALIASES = {
+    "boliviaplurinationalstateof" => "bolivia",
+    "bruneidarussalam" => "brunei",
+    "chinahongkongspecialadministrativeregion" => "hongkong",
+    "chinamacaospecialadministrativeregion" => "macao",
+    "congo" => "congobrazzaville",
+    "cotedivoire" => "ivorycoast",
+    "czechia" => "czechrepublic",
+    "democraticpeoplesrepublicofkorea" => "northkorea",
+    "democraticrepublicofthecongo" => "congokinshasa",
+    "eswatini" => "swaziland",
+    "falklandislandsmalvinas" => "falklandislands",
+    "iranislamicrepublicof" => "iran",
+    "laopeoplesdemocraticrepublic" => "laos",
+    "micronesiafederatedstatesof" => "micronesia",
+    "naoero" => "nauru",
+    "northmacedonia" => "macedonia",
+    "republicofkorea" => "southkorea",
+    "republicofmoldova" => "moldova",
+    "russianfederation" => "russia",
+    "syrianarabrepublic" => "syria",
+    "taiwanprovinceofchina" => "taiwan",
+    "timorleste" => "easttimor",
+    "turkiye" => "turkey",
+    "unitedrepublicoftanzania" => "tanzania",
+    "venezuelabolivarianrepublicof" => "venezuela",
+  }.freeze
 
-  def self.alias_for(name)
-    case name
-    when /congo.*democratic/i, /democratic.*congo/i, /cod/i
-      BBOXES["congothe_democratic_republic_of_the"] || BBOXES["congodemocraticrepublicofthe"] || BBOXES["congo"]
-    when /venezuela/i
-      BBOXES["venezuelabolivarianrepublicof"] || BBOXES["venezuela"]
-    when /bolivia/i
-      BBOXES["boliviaplurinationalstateof"] || BBOXES["bolivia"]
-    when /syria/i
-      BBOXES["syrianarabrepublic"] || BBOXES["syria"]
-    when /iran/i
-      BBOXES["iranislamicrepublicof"] || BBOXES["iran"]
-    when /viet.*nam/i, /vietnam/i
-      BBOXES["vietnam"]
-    when /korea.*dem/i, /north.*korea/i, /prk/i
-      BBOXES["koreanorth"] || BBOXES["democraticepeoplesrepublicofkorea"]
-    when /korea.*rep/i, /south.*korea/i, /kor/i
-      BBOXES["koreasouth"] || BBOXES["republicofkorea"]
-    when /russia/i, /rus/i
-      BBOXES["russianfederation"] || BBOXES["russia"]
-    when /moldova/i
-      BBOXES["moldovarepublicof"] || BBOXES["moldova"]
-    when /palestine/i, /pse/i
-      BBOXES["stateofpalestine"] || BBOXES["palestine"]
-    when /tanzania/i, /tza/i
-      BBOXES["tanzaniaunitedrepublicof"] || BBOXES["tanzania"]
-    when /lao/i, /lao/i
-      BBOXES["laopeoplesdemocraticrepublic"] || BBOXES["laos"]
-    when /turkey/i, /turkiye/i, /tur/i
-      BBOXES["turkiye"] || BBOXES["turkey"]
-    when /cote.*d.*ivoire/i, /ivory.*coast/i, /civ/i
-      BBOXES["cotedivoire"] || BBOXES["cote_divoire"]
-    when /micronesia/i, /fsm/i
-      BBOXES["micronesiafederatedstatesof"] || BBOXES["micronesia"]
-    when /world/i, /global/i
-      [-180.0, -90.0, 180.0, 90.0]
-    else
-      nil
-    end
+  WORLD = [-180.0, -90.0, 180.0, 90.0].freeze
+
+  def self.bbox_for(country_name)
+    # Accents are taken apart first, so "Côte d'Ivoire" becomes "cotedivoire" rather than "ctedivoire"
+    normalized = country_name.to_s.unicode_normalize(:nfkd).downcase.gsub(/[^a-z0-9]/, "")
+    return WORLD if normalized == "world"
+
+    BBOXES[normalized] || BBOXES[ALIASES[normalized]]
   end
 end

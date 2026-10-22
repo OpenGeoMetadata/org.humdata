@@ -1,7 +1,7 @@
 {
   "id": "hdx-c181df53-6143-4a32-a981-2247e40c7fb5",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-04-08T23:38:48Z",
+  "gbl_mdModified_dt": "2025-04-08T18:38:48Z",
   "dct_title_s": "State of Palestine - PRCS",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -30,6 +30,8 @@
   "dct_spatial_sm": [
     "State of Palestine"
   ],
+  "locn_geometry": "ENVELOPE(34.2, 35.58, 32.55, 31.21)",
+  "dcat_bbox": "ENVELOPE(34.2, 35.58, 32.55, 31.21)",
   "dct_temporal_sm": [
     "2019"
   ],
@@ -37,5 +39,5 @@
     2019
   ],
   "dct_format_s": "SHP",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/state-of-palestine-prccs\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/c181df53-6143-4a32-a981-2247e40c7fb5/resource/204567f2-53d4-47c0-98af-a3f303461903/download/prcs.zip\",\"label\":\"SHP\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/state-of-palestine-prccs\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/c181df53-6143-4a32-a981-2247e40c7fb5/resource/204567f2-53d4-47c0-98af-a3f303461903/download/prcs.zip\",\"label\":\"PRCS.zip (SHP)\"}]}"
 }

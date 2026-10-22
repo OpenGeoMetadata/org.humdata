@@ -1,7 +1,7 @@
 {
   "id": "hdx-332e3ab4-e1e0-4ad1-9d6c-aeed5b21c85a",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2023-04-17T07:48:03Z",
+  "gbl_mdModified_dt": "2023-04-17T02:48:03Z",
   "dct_title_s": "Community twon-watching walkthrough (Zhonghe District)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -20,6 +20,8 @@
   "dct_spatial_sm": [
     "Taiwan (Province of China)"
   ],
+  "locn_geometry": "ENVELOPE(120.11, 121.95, 25.3, 21.97)",
+  "dcat_bbox": "ENVELOPE(120.11, 121.95, 25.3, 21.97)",
   "dct_temporal_sm": [
     "2023"
   ],
@@ -27,5 +29,5 @@
     2023
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/community-twon-watching-walkthrough-zhonghe-district\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/332e3ab4-e1e0-4ad1-9d6c-aeed5b21c85a/resource/d0db2f89-6f63-4663-b71a-fae9172b85a9/download/community-assessment-april-07-2023.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/332e3ab4-e1e0-4ad1-9d6c-aeed5b21c85a/resource/d0db2f89-6f63-4663-b71a-fae9172b85a9/download/community-assessment-april-07-2023.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/community-twon-watching-walkthrough-zhonghe-district\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/332e3ab4-e1e0-4ad1-9d6c-aeed5b21c85a/resource/d0db2f89-6f63-4663-b71a-fae9172b85a9/download/community-assessment-april-07-2023.geojson\",\"label\":\"Community Townwatching April 07 2023.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/332e3ab4-e1e0-4ad1-9d6c-aeed5b21c85a/resource/d0db2f89-6f63-4663-b71a-fae9172b85a9/download/community-assessment-april-07-2023.geojson\"}"
 }

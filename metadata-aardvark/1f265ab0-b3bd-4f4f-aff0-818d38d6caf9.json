@@ -1,7 +1,7 @@
 {
   "id": "hdx-1f265ab0-b3bd-4f4f-aff0-818d38d6caf9",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-12-09T17:31:10Z",
+  "gbl_mdModified_dt": "2025-12-09T11:31:10Z",
   "dct_title_s": "Pitcairn: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -28,6 +28,8 @@
   "dct_spatial_sm": [
     "Pitcairn"
   ],
+  "locn_geometry": "ENVELOPE(-130.76, -124.77, -23.92, -25.08)",
+  "dcat_bbox": "ENVELOPE(-130.76, -124.77, -23.92, -25.08)",
   "dct_temporal_sm": [
     "1941-2025"
   ],
@@ -119,5 +121,5 @@
     2025
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/pcn-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/1f265ab0-b3bd-4f4f-aff0-818d38d6caf9/resource/010a3301-5978-4aca-82b4-831a64a84bfe/download/ibtracs_all_list_v04r01_lines_pcn.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/1f265ab0-b3bd-4f4f-aff0-818d38d6caf9/resource/010a3301-5978-4aca-82b4-831a64a84bfe/download/ibtracs_all_list_v04r01_lines_pcn.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/pcn-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/1f265ab0-b3bd-4f4f-aff0-818d38d6caf9/resource/92b4e481-c024-48b2-828f-2e883155f2cf/download/ibtracs_all_list_v04r01_pcn.csv\",\"label\":\"ibtracs_ALL_list_v04r01_PCN.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/1f265ab0-b3bd-4f4f-aff0-818d38d6caf9/resource/010a3301-5978-4aca-82b4-831a64a84bfe/download/ibtracs_all_list_v04r01_lines_pcn.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_PCN.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/1f265ab0-b3bd-4f4f-aff0-818d38d6caf9/resource/010a3301-5978-4aca-82b4-831a64a84bfe/download/ibtracs_all_list_v04r01_lines_pcn.geojson\"}"
 }

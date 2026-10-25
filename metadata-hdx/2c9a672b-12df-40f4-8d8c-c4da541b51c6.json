@@ -18,7 +18,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "0ec5ff66-dc01-4087-bb82-1d01f3b1c1ce",
   "metadata_created": "2022-01-06T14:08:44.428376",
-  "metadata_modified": "2026-04-29T09:06:10.120719",
+  "metadata_modified": "2026-10-24T09:05:43.746396",
   "methodology": "Other",
   "methodology_other": "All stages of data collection and processing are publicly available, as described in both [peer-reviewed academic outlets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231866) and in the public code base available through [GitHub](https://github.com/wmgeolab/geoBoundaries).",
   "name": "geoboundaries-admin-boundaries-for-rwanda",
@@ -39,14 +39,14 @@
   },
   "owner_org": "8be95204-f453-4b66-a4f6-dbe84cb0bdee",
   "package_creator": "geoboundaries",
-  "pageviews_last_14_days": 48,
+  "pageviews_last_14_days": 109,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Rwanda\"]}",
   "state": "active",
   "subnational": "1",
   "title": "Rwanda - Subnational Administrative Boundaries",
-  "total_res_downloads": 1674,
+  "total_res_downloads": 2021,
   "type": "dataset",
   "updated_by_script": "GeoBoundaries (2024-07-20T00:09:39.853393)",
   "url": null,
@@ -63,6 +63,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:44.484592",
@@ -74,7 +75,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RWA/ADM0/geoBoundaries-RWA-ADM0_simplified.geojson",
       "id": "4b667672-f448-478c-8f82-664c8c80d8a9",
       "last_modified": "2025-08-26T11:42:04",
-      "metadata_modified": "2025-08-26T12:04:31.001265",
+      "metadata_modified": "2026-10-24T09:05:43.768361",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -90,6 +91,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:44.484600",
@@ -101,7 +103,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RWA/ADM0/geoBoundaries-RWA-ADM0.geojson",
       "id": "aea3ae12-d472-4a2a-a7ba-a18113339510",
       "last_modified": "2025-08-26T11:42:04",
-      "metadata_modified": "2025-08-26T12:04:31.001450",
+      "metadata_modified": "2026-10-24T09:05:43.768493",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -145,6 +147,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:44.484607",
@@ -156,7 +159,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RWA/ADM0/geoBoundaries-RWA-ADM0-all.zip",
       "id": "8c50bf2f-b24c-4487-9910-817039cc889f",
       "last_modified": "2025-08-26T11:42:05",
-      "metadata_modified": "2025-08-26T12:04:31.001704",
+      "metadata_modified": "2026-10-24T09:05:43.768696",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -172,6 +175,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:44.484610",
@@ -183,7 +187,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RWA/ADM1/geoBoundaries-RWA-ADM1_simplified.geojson",
       "id": "688db306-9a46-4cdb-827f-ddcfdc322fd0",
       "last_modified": "2025-08-26T11:42:05",
-      "metadata_modified": "2025-08-26T12:04:31.001825",
+      "metadata_modified": "2026-10-24T09:05:43.768841",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -255,6 +259,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:44.484619",
@@ -266,7 +271,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RWA/ADM1/geoBoundaries-RWA-ADM1-all.zip",
       "id": "cbc141d8-759a-4903-ba1b-f06e49dd03fd",
       "last_modified": "2025-08-26T11:42:06",
-      "metadata_modified": "2025-08-26T12:04:31.002224",
+      "metadata_modified": "2026-10-24T09:05:43.769110",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -282,6 +287,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:44.484622",
@@ -293,7 +299,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RWA/ADM2/geoBoundaries-RWA-ADM2_simplified.geojson",
       "id": "942abc01-84e5-489d-81a1-e80fb038517c",
       "last_modified": "2025-08-26T11:42:06",
-      "metadata_modified": "2025-08-26T12:04:31.002343",
+      "metadata_modified": "2026-10-24T09:05:43.769172",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -309,6 +315,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:44.484625",
@@ -320,7 +327,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RWA/ADM2/geoBoundaries-RWA-ADM2.geojson",
       "id": "90508cea-aef3-40dc-9df1-308608e122da",
       "last_modified": "2025-08-26T11:42:06",
-      "metadata_modified": "2025-08-26T12:04:31.002458",
+      "metadata_modified": "2026-10-24T09:05:43.769232",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -364,6 +371,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:44.484631",
@@ -375,7 +383,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RWA/ADM2/geoBoundaries-RWA-ADM2-all.zip",
       "id": "994ee62b-fb15-4fdf-98c8-7a12091d1414",
       "last_modified": "2025-08-26T11:42:07",
-      "metadata_modified": "2025-08-26T12:04:31.002690",
+      "metadata_modified": "2026-10-24T09:05:43.769349",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -391,6 +399,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:44.484634",
@@ -402,7 +411,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RWA/ADM3/geoBoundaries-RWA-ADM3_simplified.geojson",
       "id": "7007cbf2-260f-459b-8d82-38178f96b445",
       "last_modified": "2025-08-26T11:42:07",
-      "metadata_modified": "2025-08-26T12:04:31.002800",
+      "metadata_modified": "2026-10-24T09:05:43.769417",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -418,6 +427,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:44.484636",
@@ -429,7 +439,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RWA/ADM3/geoBoundaries-RWA-ADM3.geojson",
       "id": "0176e6ff-c96a-454f-a40a-00d512897e69",
       "last_modified": "2025-08-26T11:42:07",
-      "metadata_modified": "2025-08-26T12:04:31.002916",
+      "metadata_modified": "2026-10-24T09:05:43.769474",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -445,6 +455,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:44.484639",
@@ -456,7 +467,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RWA/ADM3/geoBoundaries-RWA-ADM3.topojson",
       "id": "98ff7ace-a300-44f4-b36c-73c7431f71a2",
       "last_modified": "2025-08-26T11:42:07",
-      "metadata_modified": "2025-08-26T12:04:31.003033",
+      "metadata_modified": "2026-10-24T09:05:43.769567",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -472,6 +483,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:44.484642",
@@ -483,7 +495,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RWA/ADM3/geoBoundaries-RWA-ADM3-all.zip",
       "id": "ab0ab212-caf6-46a9-8489-51ea2e113326",
       "last_modified": "2025-08-26T11:42:08",
-      "metadata_modified": "2025-08-26T12:04:31.003149",
+      "metadata_modified": "2026-10-24T09:05:43.769627",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -499,6 +511,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:44.484645",
@@ -510,7 +523,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RWA/ADM4/geoBoundaries-RWA-ADM4_simplified.geojson",
       "id": "fe99ae5a-583d-4c0a-adc3-c1fc06df957b",
       "last_modified": "2025-08-26T11:42:08",
-      "metadata_modified": "2025-08-26T12:04:31.003262",
+      "metadata_modified": "2026-10-24T09:05:43.769685",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -526,6 +539,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:44.484648",
@@ -537,7 +551,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RWA/ADM4/geoBoundaries-RWA-ADM4.geojson",
       "id": "d6a6394a-8fff-4423-9c6b-01affe5aaaa9",
       "last_modified": "2025-08-26T11:42:08",
-      "metadata_modified": "2025-08-26T12:04:31.003378",
+      "metadata_modified": "2026-10-24T09:05:43.769743",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -553,6 +567,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:44.484651",
@@ -564,7 +579,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RWA/ADM4/geoBoundaries-RWA-ADM4.topojson",
       "id": "ad3e4947-e5ad-4dce-93c8-1010a9c77ca1",
       "last_modified": "2025-08-26T11:42:09",
-      "metadata_modified": "2025-08-26T12:04:31.003504",
+      "metadata_modified": "2026-10-24T09:05:43.769800",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -580,6 +595,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:44.484654",
@@ -591,7 +607,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RWA/ADM4/geoBoundaries-RWA-ADM4-all.zip",
       "id": "ccb557a9-84c4-4414-a6d8-bb1d3e4e8347",
       "last_modified": "2025-08-26T11:42:09",
-      "metadata_modified": "2025-08-26T12:04:31.003618",
+      "metadata_modified": "2026-10-24T09:05:43.769886",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -607,6 +623,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2023-04-11T19:02:32.267053",
@@ -618,7 +635,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RWA/ADM5/geoBoundaries-RWA-ADM5_simplified.geojson",
       "id": "b98d4471-8f5a-4ba0-b52a-163842b00e0c",
       "last_modified": "2025-08-26T11:42:09",
-      "metadata_modified": "2025-08-26T12:04:31.003730",
+      "metadata_modified": "2026-10-24T09:05:43.769983",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -634,6 +651,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2023-04-11T19:02:32.267058",
@@ -645,7 +663,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RWA/ADM5/geoBoundaries-RWA-ADM5.geojson",
       "id": "f3a77a0f-026f-4f66-a46e-afd195ca33b6",
       "last_modified": "2025-08-26T11:42:09",
-      "metadata_modified": "2025-08-26T12:04:31.003842",
+      "metadata_modified": "2026-10-24T09:05:43.770077",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -661,6 +679,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2023-04-11T19:02:32.267060",
@@ -672,7 +691,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RWA/ADM5/geoBoundaries-RWA-ADM5.topojson",
       "id": "2a8642d4-5b85-4332-8be3-01165977535e",
       "last_modified": "2025-08-26T11:42:10",
-      "metadata_modified": "2025-08-26T12:04:31.003955",
+      "metadata_modified": "2026-10-24T09:05:43.770171",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -688,6 +707,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2023-04-11T19:02:32.267062",
@@ -699,7 +719,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/RWA/ADM5/geoBoundaries-RWA-ADM5-all.zip",
       "id": "cb3cf66b-e113-4e41-b2e6-667a42c9a735",
       "last_modified": "2025-08-26T11:42:10",
-      "metadata_modified": "2025-08-26T12:04:31.004066",
+      "metadata_modified": "2026-10-24T09:05:43.770263",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

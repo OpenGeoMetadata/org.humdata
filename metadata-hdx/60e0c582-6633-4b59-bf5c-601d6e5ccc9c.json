@@ -18,7 +18,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "0ec5ff66-dc01-4087-bb82-1d01f3b1c1ce",
   "metadata_created": "2022-01-06T14:10:56.075771",
-  "metadata_modified": "2026-02-27T09:45:03.318212",
+  "metadata_modified": "2026-10-24T09:46:46.223309",
   "methodology": "Other",
   "methodology_other": "All stages of data collection and processing are publicly available, as described in both [peer-reviewed academic outlets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231866) and in the public code base available through [GitHub](https://github.com/wmgeolab/geoBoundaries).",
   "name": "geoboundaries-admin-boundaries-for-viet-nam",
@@ -39,14 +39,14 @@
   },
   "owner_org": "8be95204-f453-4b66-a4f6-dbe84cb0bdee",
   "package_creator": "geoboundaries",
-  "pageviews_last_14_days": 61,
+  "pageviews_last_14_days": 64,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Viet Nam\"]}",
   "state": "active",
   "subnational": "1",
   "title": "Viet Nam - Subnational Administrative Boundaries",
-  "total_res_downloads": 1970,
+  "total_res_downloads": 2175,
   "type": "dataset",
   "updated_by_script": "GeoBoundaries (2024-07-20T00:10:28.905231)",
   "url": null,
@@ -63,6 +63,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:56.080205",
@@ -74,7 +75,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/VNM/ADM0/geoBoundaries-VNM-ADM0_simplified.geojson",
       "id": "29b24d19-ad03-4ed0-b033-82656853e8bf",
       "last_modified": "2025-08-26T13:11:30",
-      "metadata_modified": "2025-08-26T13:27:25.545283",
+      "metadata_modified": "2026-10-24T09:46:46.253401",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -118,6 +119,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:56.080216",
@@ -129,7 +131,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/VNM/ADM0/geoBoundaries-VNM-ADM0.topojson",
       "id": "fbd2d8a3-937a-4f47-925b-4a2c265f7aa0",
       "last_modified": "2025-08-26T13:11:30",
-      "metadata_modified": "2025-08-26T13:27:25.545468",
+      "metadata_modified": "2026-10-24T09:46:46.253668",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -145,6 +147,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:56.080219",
@@ -156,7 +159,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/VNM/ADM0/geoBoundaries-VNM-ADM0-all.zip",
       "id": "7cc8547e-09db-4ba2-9728-58dfd0cdde31",
       "last_modified": "2025-08-26T13:11:31",
-      "metadata_modified": "2025-08-26T13:27:25.545553",
+      "metadata_modified": "2026-10-24T09:46:46.253777",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -284,6 +287,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:56.080233",
@@ -295,7 +299,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/VNM/ADM2/geoBoundaries-VNM-ADM2_simplified.geojson",
       "id": "db243c55-c74e-430f-8a7b-72ab2eef2555",
       "last_modified": "2025-08-26T13:11:32",
-      "metadata_modified": "2025-08-26T13:27:25.545970",
+      "metadata_modified": "2026-10-24T09:46:46.254443",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -339,6 +343,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:56.080238",
@@ -350,7 +355,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/VNM/ADM2/geoBoundaries-VNM-ADM2.topojson",
       "id": "7bb5c7d0-d4ed-46d5-8ab2-f4f8b519b3b3",
       "last_modified": "2025-08-26T13:11:32",
-      "metadata_modified": "2025-08-26T13:27:25.546106",
+      "metadata_modified": "2026-10-24T09:46:46.254655",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -366,6 +371,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:56.080241",
@@ -377,7 +383,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/VNM/ADM2/geoBoundaries-VNM-ADM2-all.zip",
       "id": "6c67d8eb-1f1d-4cae-85d6-6aad94fff81b",
       "last_modified": "2025-08-26T13:11:33",
-      "metadata_modified": "2025-08-26T13:27:25.546172",
+      "metadata_modified": "2026-10-24T09:46:46.254758",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

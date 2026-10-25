@@ -18,7 +18,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "0ec5ff66-dc01-4087-bb82-1d01f3b1c1ce",
   "metadata_created": "2022-01-06T14:07:27.892079",
-  "metadata_modified": "2026-05-23T10:26:42.980847",
+  "metadata_modified": "2026-10-24T10:32:21.394753",
   "methodology": "Other",
   "methodology_other": "All stages of data collection and processing are publicly available, as described in both [peer-reviewed academic outlets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231866) and in the public code base available through [GitHub](https://github.com/wmgeolab/geoBoundaries).",
   "name": "geoboundaries-admin-boundaries-for-mauritius",
@@ -39,14 +39,14 @@
   },
   "owner_org": "8be95204-f453-4b66-a4f6-dbe84cb0bdee",
   "package_creator": "geoboundaries",
-  "pageviews_last_14_days": 10,
+  "pageviews_last_14_days": 21,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Mauritius\"]}",
   "state": "active",
   "subnational": "1",
   "title": "Mauritius - Subnational Administrative Boundaries",
-  "total_res_downloads": 343,
+  "total_res_downloads": 362,
   "type": "dataset",
   "updated_by_script": "GeoBoundaries (2024-07-20T00:09:08.319365)",
   "url": null,
@@ -91,6 +91,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:07:27.911527",
@@ -102,7 +103,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MUS/ADM0/geoBoundaries-MUS-ADM0.geojson",
       "id": "d8734135-3947-431f-a19d-86201218cfc0",
       "last_modified": "2025-08-26T15:53:36",
-      "metadata_modified": "2025-08-26T16:11:04.243261",
+      "metadata_modified": "2026-10-24T10:32:21.423171",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -118,6 +119,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:07:27.911530",
@@ -129,7 +131,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MUS/ADM0/geoBoundaries-MUS-ADM0.topojson",
       "id": "27830724-7dcf-4845-aa06-4e71968fc42d",
       "last_modified": "2025-08-26T15:53:36",
-      "metadata_modified": "2025-08-26T16:11:04.243404",
+      "metadata_modified": "2026-10-24T10:32:21.423263",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -145,6 +147,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:07:27.911532",
@@ -156,7 +159,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MUS/ADM0/geoBoundaries-MUS-ADM0-all.zip",
       "id": "3f5525cc-9a9a-455a-be4e-563b3757321d",
       "last_modified": "2025-08-26T15:53:37",
-      "metadata_modified": "2025-08-26T16:11:04.243537",
+      "metadata_modified": "2026-10-24T10:32:21.423339",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -172,6 +175,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:07:27.911533",
@@ -183,7 +187,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MUS/ADM1/geoBoundaries-MUS-ADM1_simplified.geojson",
       "id": "f6c88532-0715-46bd-9c98-4d14d220a315",
       "last_modified": "2025-08-26T15:53:37",
-      "metadata_modified": "2025-08-26T16:11:04.243667",
+      "metadata_modified": "2026-10-24T10:32:21.423406",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -199,6 +203,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:07:27.911535",
@@ -210,7 +215,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MUS/ADM1/geoBoundaries-MUS-ADM1.geojson",
       "id": "29ad5707-93e3-463f-b052-eb4a650f3bb8",
       "last_modified": "2025-08-26T15:53:37",
-      "metadata_modified": "2025-08-26T16:11:04.243788",
+      "metadata_modified": "2026-10-24T10:32:21.423468",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -226,6 +231,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:07:27.911537",
@@ -237,7 +243,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MUS/ADM1/geoBoundaries-MUS-ADM1.topojson",
       "id": "ec5380cf-f279-407a-88b8-0446f2b4d3ad",
       "last_modified": "2025-08-26T15:53:37",
-      "metadata_modified": "2025-08-26T16:11:04.243907",
+      "metadata_modified": "2026-10-24T10:32:21.423527",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -253,6 +259,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:07:27.911538",
@@ -264,7 +271,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MUS/ADM1/geoBoundaries-MUS-ADM1-all.zip",
       "id": "b1fbf5a1-874a-4cb7-957a-76606205cd51",
       "last_modified": "2025-08-26T15:53:38",
-      "metadata_modified": "2025-08-26T16:11:04.244025",
+      "metadata_modified": "2026-10-24T10:32:21.423599",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

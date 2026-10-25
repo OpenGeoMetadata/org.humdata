@@ -18,7 +18,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "0ec5ff66-dc01-4087-bb82-1d01f3b1c1ce",
   "metadata_created": "2022-01-06T14:04:21.280473",
-  "metadata_modified": "2026-06-20T09:27:37.837836",
+  "metadata_modified": "2026-10-24T09:24:57.655482",
   "methodology": "Other",
   "methodology_other": "All stages of data collection and processing are publicly available, as described in both [peer-reviewed academic outlets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231866) and in the public code base available through [GitHub](https://github.com/wmgeolab/geoBoundaries).",
   "name": "geoboundaries-admin-boundaries-for-benin",
@@ -39,14 +39,14 @@
   },
   "owner_org": "8be95204-f453-4b66-a4f6-dbe84cb0bdee",
   "package_creator": "geoboundaries",
-  "pageviews_last_14_days": 57,
+  "pageviews_last_14_days": 48,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Benin\"]}",
   "state": "active",
   "subnational": "1",
   "title": "Benin - Subnational Administrative Boundaries",
-  "total_res_downloads": 2038,
+  "total_res_downloads": 2289,
   "type": "dataset",
   "updated_by_script": "GeoBoundaries (2024-07-20T00:06:53.545476)",
   "url": null,
@@ -63,6 +63,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:21.285209",
@@ -74,7 +75,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BEN/ADM0/geoBoundaries-BEN-ADM0_simplified.geojson",
       "id": "6aec44b2-9a34-4424-bff3-0287df1fc0cb",
       "last_modified": "2025-08-26T12:07:39",
-      "metadata_modified": "2025-08-26T12:24:19.784803",
+      "metadata_modified": "2026-10-24T09:24:57.685830",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -90,6 +91,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:21.285214",
@@ -101,7 +103,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BEN/ADM0/geoBoundaries-BEN-ADM0.geojson",
       "id": "3f8d7297-69fa-44bc-aad4-f5eb4aa32e27",
       "last_modified": "2025-08-26T12:07:39",
-      "metadata_modified": "2025-08-26T12:24:19.784960",
+      "metadata_modified": "2026-10-24T09:24:57.685939",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -117,6 +119,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:21.285216",
@@ -128,7 +131,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BEN/ADM0/geoBoundaries-BEN-ADM0.topojson",
       "id": "f2c04c56-02e3-4419-800f-4385bbf5a501",
       "last_modified": "2025-08-26T12:07:39",
-      "metadata_modified": "2025-08-26T12:24:19.785038",
+      "metadata_modified": "2026-10-24T09:24:57.686021",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -144,6 +147,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:21.285218",
@@ -155,7 +159,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BEN/ADM0/geoBoundaries-BEN-ADM0-all.zip",
       "id": "8fd88c3d-bd45-4699-92e2-595581adf6a4",
       "last_modified": "2025-08-26T12:07:39",
-      "metadata_modified": "2025-08-26T12:24:19.785111",
+      "metadata_modified": "2026-10-24T09:24:57.686096",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -171,6 +175,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:21.285220",
@@ -182,7 +187,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BEN/ADM1/geoBoundaries-BEN-ADM1_simplified.geojson",
       "id": "b599bcf5-72d3-4d77-a163-e58916305951",
       "last_modified": "2025-08-26T12:07:39",
-      "metadata_modified": "2025-08-26T12:24:19.785182",
+      "metadata_modified": "2026-10-24T09:24:57.686161",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,6 +203,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:21.285221",
@@ -209,7 +215,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BEN/ADM1/geoBoundaries-BEN-ADM1.geojson",
       "id": "65034fa3-d9a5-4a6b-b698-c6978feccac4",
       "last_modified": "2025-08-26T12:07:39",
-      "metadata_modified": "2025-08-26T12:24:19.785249",
+      "metadata_modified": "2026-10-24T09:24:57.686224",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -225,6 +231,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:21.285223",
@@ -236,7 +243,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BEN/ADM1/geoBoundaries-BEN-ADM1.topojson",
       "id": "466c4496-9382-4357-9bb4-2080c731c522",
       "last_modified": "2025-08-26T12:07:40",
-      "metadata_modified": "2025-08-26T12:24:19.785315",
+      "metadata_modified": "2026-10-24T09:24:57.686285",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -280,6 +287,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:21.285226",
@@ -291,7 +299,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BEN/ADM2/geoBoundaries-BEN-ADM2_simplified.geojson",
       "id": "39cac41a-f878-4ee1-98d2-ae10a3f3eaa4",
       "last_modified": "2025-08-26T12:07:40",
-      "metadata_modified": "2025-08-26T12:24:19.785462",
+      "metadata_modified": "2026-10-24T09:24:57.686430",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -335,6 +343,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:21.285229",
@@ -346,7 +355,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BEN/ADM2/geoBoundaries-BEN-ADM2.topojson",
       "id": "98d067b8-42e5-4b7f-a512-fcd1fc28c434",
       "last_modified": "2025-08-26T12:07:41",
-      "metadata_modified": "2025-08-26T12:24:19.785588",
+      "metadata_modified": "2026-10-24T09:24:57.686548",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -362,6 +371,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:21.285231",
@@ -373,7 +383,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BEN/ADM2/geoBoundaries-BEN-ADM2-all.zip",
       "id": "12f304a6-2fc6-45d1-9a73-fe34c8706a28",
       "last_modified": "2025-08-26T12:07:42",
-      "metadata_modified": "2025-08-26T12:24:19.785651",
+      "metadata_modified": "2026-10-24T09:24:57.686607",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -389,6 +399,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:21.285232",
@@ -400,7 +411,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BEN/ADM3/geoBoundaries-BEN-ADM3_simplified.geojson",
       "id": "c627f8b6-2bba-4c26-b1bc-f7f05bb5e515",
       "last_modified": "2025-08-26T12:07:42",
-      "metadata_modified": "2025-08-26T12:24:19.785713",
+      "metadata_modified": "2026-10-24T09:24:57.686665",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -416,6 +427,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:21.285234",
@@ -427,7 +439,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BEN/ADM3/geoBoundaries-BEN-ADM3.geojson",
       "id": "aa26e871-81fb-4907-a48b-0729b73f9ac9",
       "last_modified": "2025-08-26T12:07:42",
-      "metadata_modified": "2025-08-26T12:24:19.785773",
+      "metadata_modified": "2026-10-24T09:24:57.686722",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -443,6 +455,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:21.285235",
@@ -454,7 +467,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BEN/ADM3/geoBoundaries-BEN-ADM3.topojson",
       "id": "e1bbc59e-0e3e-4c3b-bc6a-99e52cb03042",
       "last_modified": "2025-08-26T12:07:42",
-      "metadata_modified": "2025-08-26T12:24:19.785835",
+      "metadata_modified": "2026-10-24T09:24:57.686787",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -470,6 +483,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:21.285237",
@@ -481,7 +495,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BEN/ADM3/geoBoundaries-BEN-ADM3-all.zip",
       "id": "00fa1795-1bc7-4a88-99a2-a99c9d340b67",
       "last_modified": "2025-08-26T12:07:43",
-      "metadata_modified": "2025-08-26T12:24:19.785894",
+      "metadata_modified": "2026-10-24T09:24:57.686852",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

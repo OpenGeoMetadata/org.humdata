@@ -18,7 +18,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "0ec5ff66-dc01-4087-bb82-1d01f3b1c1ce",
   "metadata_created": "2022-01-06T14:10:48.795685",
-  "metadata_modified": "2026-07-27T10:14:31.895788",
+  "metadata_modified": "2026-10-24T10:14:24.672803",
   "methodology": "Other",
   "methodology_other": "All stages of data collection and processing are publicly available, as described in both [peer-reviewed academic outlets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231866) and in the public code base available through [GitHub](https://github.com/wmgeolab/geoBoundaries).",
   "name": "geoboundaries-admin-boundaries-for-saint-vincent-and-the-grenadines",
@@ -39,7 +39,7 @@
   },
   "owner_org": "8be95204-f453-4b66-a4f6-dbe84cb0bdee",
   "package_creator": "geoboundaries",
-  "pageviews_last_14_days": 1,
+  "pageviews_last_14_days": 29,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Saint Vincent and the Grenadines\"]}",
@@ -63,6 +63,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:48.799849",
@@ -74,7 +75,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/VCT/ADM0/geoBoundaries-VCT-ADM0_simplified.geojson",
       "id": "13889c96-5b2d-4f7b-a997-97079da62f74",
       "last_modified": "2025-08-26T14:29:01",
-      "metadata_modified": "2025-08-26T14:55:00.236606",
+      "metadata_modified": "2026-10-24T10:14:24.693785",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -90,6 +91,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:48.799854",
@@ -101,7 +103,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/VCT/ADM0/geoBoundaries-VCT-ADM0.geojson",
       "id": "2667e1f9-e3a7-4fdc-8dbf-6cd4ea2fad53",
       "last_modified": "2025-08-26T14:29:02",
-      "metadata_modified": "2025-08-26T14:55:00.236799",
+      "metadata_modified": "2026-10-24T10:14:24.693940",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -117,6 +119,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:48.799856",
@@ -128,7 +131,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/VCT/ADM0/geoBoundaries-VCT-ADM0.topojson",
       "id": "e8a55124-17df-4d37-8ddb-939a6976da02",
       "last_modified": "2025-08-26T14:29:02",
-      "metadata_modified": "2025-08-26T14:55:00.236881",
+      "metadata_modified": "2026-10-24T10:14:24.694063",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -200,6 +203,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:48.799861",
@@ -211,7 +215,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/VCT/ADM1/geoBoundaries-VCT-ADM1.geojson",
       "id": "971e89c2-89d5-4a3a-803c-c22623141604",
       "last_modified": "2025-08-26T14:29:03",
-      "metadata_modified": "2025-08-26T14:55:00.237090",
+      "metadata_modified": "2026-10-24T10:14:24.694394",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -227,6 +231,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:48.799863",
@@ -238,7 +243,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/VCT/ADM1/geoBoundaries-VCT-ADM1.topojson",
       "id": "1c71d1a5-a225-42dc-81bb-a442eaf89156",
       "last_modified": "2025-08-26T14:29:03",
-      "metadata_modified": "2025-08-26T14:55:00.237156",
+      "metadata_modified": "2026-10-24T10:14:24.694489",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -254,6 +259,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:48.799865",
@@ -265,7 +271,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/VCT/ADM1/geoBoundaries-VCT-ADM1-all.zip",
       "id": "01b9e443-7d2d-40cf-930f-7990e995886e",
       "last_modified": "2025-08-26T14:29:03",
-      "metadata_modified": "2025-08-26T14:55:00.237223",
+      "metadata_modified": "2026-10-24T10:14:24.694555",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

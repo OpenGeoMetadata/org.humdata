@@ -18,7 +18,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "0ec5ff66-dc01-4087-bb82-1d01f3b1c1ce",
   "metadata_created": "2022-01-06T14:10:36.552966",
-  "metadata_modified": "2026-01-04T09:06:12.005931",
+  "metadata_modified": "2026-10-24T09:05:48.388470",
   "methodology": "Other",
   "methodology_other": "All stages of data collection and processing are publicly available, as described in both [peer-reviewed academic outlets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231866) and in the public code base available through [GitHub](https://github.com/wmgeolab/geoBoundaries).",
   "name": "geoboundaries-admin-boundaries-for-ukraine",
@@ -39,14 +39,14 @@
   },
   "owner_org": "8be95204-f453-4b66-a4f6-dbe84cb0bdee",
   "package_creator": "geoboundaries",
-  "pageviews_last_14_days": 164,
+  "pageviews_last_14_days": 233,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Ukraine\"]}",
   "state": "active",
   "subnational": "1",
   "title": "Ukraine - Subnational Administrative Boundaries",
-  "total_res_downloads": 6465,
+  "total_res_downloads": 6997,
   "type": "dataset",
   "updated_by_script": "GeoBoundaries (2024-07-20T00:10:22.088553)",
   "url": null,
@@ -63,6 +63,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:36.587115",
@@ -74,7 +75,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UKR/ADM0/geoBoundaries-UKR-ADM0_simplified.geojson",
       "id": "60a5ca3e-9c58-43f9-99f4-5d035406db0c",
       "last_modified": "2025-08-26T11:41:45",
-      "metadata_modified": "2025-08-26T12:04:15.014396",
+      "metadata_modified": "2026-10-24T09:05:48.409002",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -90,6 +91,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:36.587123",
@@ -101,7 +103,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UKR/ADM0/geoBoundaries-UKR-ADM0.geojson",
       "id": "48fd28b5-4d7b-42b2-b251-ec9c82227e1f",
       "last_modified": "2025-08-26T11:41:46",
-      "metadata_modified": "2025-08-26T12:04:15.014562",
+      "metadata_modified": "2026-10-24T09:05:48.409124",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -117,6 +119,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:36.587127",
@@ -128,7 +131,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UKR/ADM0/geoBoundaries-UKR-ADM0.topojson",
       "id": "3dd3b0cb-65e4-4443-ac7a-410d34140599",
       "last_modified": "2025-08-26T11:41:46",
-      "metadata_modified": "2025-08-26T12:04:15.014686",
+      "metadata_modified": "2026-10-24T09:05:48.409215",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -144,6 +147,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:36.587130",
@@ -155,7 +159,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UKR/ADM0/geoBoundaries-UKR-ADM0-all.zip",
       "id": "f6f1a4be-aabe-4ba5-a752-03c336d65421",
       "last_modified": "2025-08-26T11:41:46",
-      "metadata_modified": "2025-08-26T12:04:15.014830",
+      "metadata_modified": "2026-10-24T09:05:48.409293",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -171,6 +175,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:36.587133",
@@ -182,7 +187,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UKR/ADM1/geoBoundaries-UKR-ADM1_simplified.geojson",
       "id": "5cc15ee8-404a-40a4-b926-a310b5821465",
       "last_modified": "2025-08-26T11:41:47",
-      "metadata_modified": "2025-08-26T12:04:15.014973",
+      "metadata_modified": "2026-10-24T09:05:48.409379",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,6 +203,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:36.587136",
@@ -209,7 +215,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UKR/ADM1/geoBoundaries-UKR-ADM1.geojson",
       "id": "129fa96f-8515-4a4a-ba54-2a16c3697ea9",
       "last_modified": "2025-08-26T11:41:47",
-      "metadata_modified": "2025-08-26T12:04:15.015089",
+      "metadata_modified": "2026-10-24T09:05:48.409443",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -253,6 +259,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:36.587142",
@@ -264,7 +271,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UKR/ADM1/geoBoundaries-UKR-ADM1-all.zip",
       "id": "ec54c57e-03f3-48fe-8394-b777a1fedd58",
       "last_modified": "2025-08-26T11:41:47",
-      "metadata_modified": "2025-08-26T12:04:15.015243",
+      "metadata_modified": "2026-10-24T09:05:48.409572",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -280,6 +287,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:36.587145",
@@ -291,7 +299,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UKR/ADM2/geoBoundaries-UKR-ADM2_simplified.geojson",
       "id": "dab5548f-6f2d-4ab3-83ba-148f1bf01336",
       "last_modified": "2025-08-26T11:41:48",
-      "metadata_modified": "2025-08-26T12:04:15.015375",
+      "metadata_modified": "2026-10-24T09:05:48.409651",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -307,6 +315,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:36.587148",
@@ -318,7 +327,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UKR/ADM2/geoBoundaries-UKR-ADM2.geojson",
       "id": "2891beb0-2519-4cf6-a13a-247f5b5b52ff",
       "last_modified": "2025-08-26T11:41:48",
-      "metadata_modified": "2025-08-26T12:04:15.015495",
+      "metadata_modified": "2026-10-24T09:05:48.409712",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -334,6 +343,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:36.587150",
@@ -345,7 +355,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UKR/ADM2/geoBoundaries-UKR-ADM2.topojson",
       "id": "4325bfae-b3ce-48cd-916e-2eee650ec9eb",
       "last_modified": "2025-08-26T11:41:48",
-      "metadata_modified": "2025-08-26T12:04:15.015613",
+      "metadata_modified": "2026-10-24T09:05:48.409771",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -361,6 +371,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:36.587153",
@@ -372,7 +383,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UKR/ADM2/geoBoundaries-UKR-ADM2-all.zip",
       "id": "7e1c0098-cdcf-4143-8bd7-20dfdf02f512",
       "last_modified": "2025-08-26T11:41:48",
-      "metadata_modified": "2025-08-26T12:04:15.015720",
+      "metadata_modified": "2026-10-24T09:05:48.409829",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -388,6 +399,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:36.587156",
@@ -399,7 +411,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UKR/ADM3/geoBoundaries-UKR-ADM3_simplified.geojson",
       "id": "2901cbf3-5d51-42f1-9f48-76e03da2d15e",
       "last_modified": "2025-08-26T11:41:48",
-      "metadata_modified": "2025-08-26T12:04:15.015795",
+      "metadata_modified": "2026-10-24T09:05:48.409886",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -415,6 +427,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:36.587159",
@@ -426,7 +439,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UKR/ADM3/geoBoundaries-UKR-ADM3.geojson",
       "id": "4cbfd74d-af31-4daf-91fe-9f9ce5123304",
       "last_modified": "2025-08-26T11:41:49",
-      "metadata_modified": "2025-08-26T12:04:15.015898",
+      "metadata_modified": "2026-10-24T09:05:48.409942",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -442,6 +455,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:36.587162",
@@ -453,7 +467,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UKR/ADM3/geoBoundaries-UKR-ADM3.topojson",
       "id": "33d11ed5-1818-40a7-8530-ef244db41e35",
       "last_modified": "2025-08-26T11:41:49",
-      "metadata_modified": "2025-08-26T12:04:15.016014",
+      "metadata_modified": "2026-10-24T09:05:48.410000",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -469,6 +483,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:36.587165",
@@ -480,7 +495,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UKR/ADM3/geoBoundaries-UKR-ADM3-all.zip",
       "id": "0a719247-ff08-457d-800e-cb94b2f1b721",
       "last_modified": "2025-08-26T11:41:49",
-      "metadata_modified": "2025-08-26T12:04:15.016126",
+      "metadata_modified": "2026-10-24T09:05:48.410058",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

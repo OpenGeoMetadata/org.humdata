@@ -18,7 +18,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "0ec5ff66-dc01-4087-bb82-1d01f3b1c1ce",
   "metadata_created": "2022-01-06T14:05:09.307914",
-  "metadata_modified": "2026-02-15T10:31:06.688627",
+  "metadata_modified": "2026-10-24T10:37:00.308168",
   "methodology": "Other",
   "methodology_other": "All stages of data collection and processing are publicly available, as described in both [peer-reviewed academic outlets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231866) and in the public code base available through [GitHub](https://github.com/wmgeolab/geoBoundaries).",
   "name": "geoboundaries-admin-boundaries-for-egypt",
@@ -39,14 +39,14 @@
   },
   "owner_org": "8be95204-f453-4b66-a4f6-dbe84cb0bdee",
   "package_creator": "geoboundaries",
-  "pageviews_last_14_days": 44,
+  "pageviews_last_14_days": 104,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Egypt\"]}",
   "state": "active",
   "subnational": "1",
   "title": "Egypt - Subnational Administrative Boundaries",
-  "total_res_downloads": 1439,
+  "total_res_downloads": 1601,
   "type": "dataset",
   "updated_by_script": "GeoBoundaries (2024-07-20T00:07:43.813603)",
   "url": null,
@@ -63,6 +63,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:09.318550",
@@ -74,7 +75,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/EGY/ADM0/geoBoundaries-EGY-ADM0_simplified.geojson",
       "id": "61ace7cb-a6d5-4ad3-846f-76012d446067",
       "last_modified": "2025-08-26T16:14:19",
-      "metadata_modified": "2025-08-26T16:30:50.786648",
+      "metadata_modified": "2026-10-24T10:37:00.335627",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -90,6 +91,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:09.318559",
@@ -101,7 +103,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/EGY/ADM0/geoBoundaries-EGY-ADM0.geojson",
       "id": "07c8d7d6-bff6-41b2-afcb-0708ee3bea86",
       "last_modified": "2025-08-26T16:14:19",
-      "metadata_modified": "2025-08-26T16:30:50.786767",
+      "metadata_modified": "2026-10-24T10:37:00.335782",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -117,6 +119,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:09.318563",
@@ -128,7 +131,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/EGY/ADM0/geoBoundaries-EGY-ADM0.topojson",
       "id": "29296a78-a7f4-433b-ad12-7a0d3dcaac19",
       "last_modified": "2025-08-26T16:14:20",
-      "metadata_modified": "2025-08-26T16:30:50.786846",
+      "metadata_modified": "2026-10-24T10:37:00.335901",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -144,6 +147,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:09.318566",
@@ -155,7 +159,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/EGY/ADM0/geoBoundaries-EGY-ADM0-all.zip",
       "id": "24b7b5b7-db43-4f13-9159-da705d365421",
       "last_modified": "2025-08-26T16:14:20",
-      "metadata_modified": "2025-08-26T16:30:50.786919",
+      "metadata_modified": "2026-10-24T10:37:00.336028",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -171,6 +175,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:09.318569",
@@ -182,7 +187,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/EGY/ADM1/geoBoundaries-EGY-ADM1_simplified.geojson",
       "id": "614e4580-1d8f-4151-a730-9abb6b9427ea",
       "last_modified": "2025-08-26T16:14:20",
-      "metadata_modified": "2025-08-26T16:30:50.786989",
+      "metadata_modified": "2026-10-24T10:37:00.336143",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,6 +203,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:09.318572",
@@ -209,7 +215,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/EGY/ADM1/geoBoundaries-EGY-ADM1.geojson",
       "id": "b433d0e6-ef3f-4657-bded-e12b00b66a64",
       "last_modified": "2025-08-26T16:14:20",
-      "metadata_modified": "2025-08-26T16:30:50.787059",
+      "metadata_modified": "2026-10-24T10:37:00.336252",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -225,6 +231,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:09.318576",
@@ -236,7 +243,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/EGY/ADM1/geoBoundaries-EGY-ADM1.topojson",
       "id": "33a37903-bb03-4df2-a666-ca96a00e7dcb",
       "last_modified": "2025-08-26T16:14:21",
-      "metadata_modified": "2025-08-26T16:30:50.787125",
+      "metadata_modified": "2026-10-24T10:37:00.336361",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -252,6 +259,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:09.318579",
@@ -263,7 +271,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/EGY/ADM1/geoBoundaries-EGY-ADM1-all.zip",
       "id": "cda613e0-30df-4721-8804-cd9b2143dfde",
       "last_modified": "2025-08-26T16:14:21",
-      "metadata_modified": "2025-08-26T16:30:50.787192",
+      "metadata_modified": "2026-10-24T10:37:00.336490",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -307,6 +315,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:09.318585",
@@ -318,7 +327,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/EGY/ADM2/geoBoundaries-EGY-ADM2.geojson",
       "id": "9c97bba5-f84c-48fc-95de-2152d596087a",
       "last_modified": "2025-08-26T16:14:21",
-      "metadata_modified": "2025-08-26T16:30:50.787325",
+      "metadata_modified": "2026-10-24T10:37:00.336701",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -334,6 +343,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:09.318588",
@@ -345,7 +355,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/EGY/ADM2/geoBoundaries-EGY-ADM2.topojson",
       "id": "6355020c-d63a-4ea6-92b7-3b5ef4d47d7f",
       "last_modified": "2025-08-26T16:14:08",
-      "metadata_modified": "2025-08-26T16:30:50.787390",
+      "metadata_modified": "2026-10-24T10:37:00.336802",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -361,6 +371,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:09.318591",
@@ -372,7 +383,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/EGY/ADM2/geoBoundaries-EGY-ADM2-all.zip",
       "id": "920c7328-f6d1-4882-86f7-45e283cee521",
       "last_modified": "2025-08-26T16:14:08",
-      "metadata_modified": "2025-08-26T16:30:50.787456",
+      "metadata_modified": "2026-10-24T10:37:00.336910",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

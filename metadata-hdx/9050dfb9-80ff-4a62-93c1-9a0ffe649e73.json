@@ -18,7 +18,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "0ec5ff66-dc01-4087-bb82-1d01f3b1c1ce",
   "metadata_created": "2022-01-06T14:04:23.304890",
-  "metadata_modified": "2026-10-16T10:27:28.528956",
+  "metadata_modified": "2026-10-24T10:14:25.190549",
   "methodology": "Other",
   "methodology_other": "All stages of data collection and processing are publicly available, as described in both [peer-reviewed academic outlets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231866) and in the public code base available through [GitHub](https://github.com/wmgeolab/geoBoundaries).",
   "name": "geoboundaries-admin-boundaries-for-burkina-faso",
@@ -39,14 +39,14 @@
   },
   "owner_org": "8be95204-f453-4b66-a4f6-dbe84cb0bdee",
   "package_creator": "geoboundaries",
-  "pageviews_last_14_days": 58,
+  "pageviews_last_14_days": 49,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Burkina Faso\"]}",
   "state": "active",
   "subnational": "1",
   "title": "Burkina Faso - Subnational Administrative Boundaries",
-  "total_res_downloads": 1697,
+  "total_res_downloads": 1701,
   "type": "dataset",
   "updated_by_script": "GeoBoundaries (2024-07-20T00:06:55.561110)",
   "url": null,
@@ -63,6 +63,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:23.318079",
@@ -74,7 +75,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BFA/ADM0/geoBoundaries-BFA-ADM0_simplified.geojson",
       "id": "112f567d-4c1d-4673-a4c8-56dacc18ab2b",
       "last_modified": "2025-08-26T14:28:50",
-      "metadata_modified": "2025-08-26T14:53:46.939507",
+      "metadata_modified": "2026-10-24T10:14:25.218500",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -90,6 +91,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:23.318090",
@@ -101,7 +103,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BFA/ADM0/geoBoundaries-BFA-ADM0.geojson",
       "id": "029684de-f9ed-460e-be5c-bd405b9abef4",
       "last_modified": "2025-08-26T14:29:03",
-      "metadata_modified": "2025-08-26T14:53:46.939618",
+      "metadata_modified": "2026-10-24T10:14:25.218707",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -117,6 +119,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:23.318094",
@@ -128,7 +131,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BFA/ADM0/geoBoundaries-BFA-ADM0.topojson",
       "id": "fbcfd6e3-9401-46f3-a1ea-bb5b2178f477",
       "last_modified": "2025-08-26T14:29:04",
-      "metadata_modified": "2025-08-26T14:53:46.939698",
+      "metadata_modified": "2026-10-24T10:14:25.218838",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -172,6 +175,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:23.318101",
@@ -183,7 +187,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BFA/ADM1/geoBoundaries-BFA-ADM1_simplified.geojson",
       "id": "8f304ee7-d4c3-4a83-9d8a-eb2214255116",
       "last_modified": "2025-08-26T14:29:04",
-      "metadata_modified": "2025-08-26T14:53:46.939845",
+      "metadata_modified": "2026-10-24T10:14:25.219087",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -199,6 +203,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:23.318105",
@@ -210,7 +215,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BFA/ADM1/geoBoundaries-BFA-ADM1.geojson",
       "id": "416abe71-22e3-4082-b80e-9f8a9218c307",
       "last_modified": "2025-08-26T14:29:04",
-      "metadata_modified": "2025-08-26T14:53:46.939916",
+      "metadata_modified": "2026-10-24T10:14:25.219208",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -226,6 +231,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:23.318108",
@@ -237,7 +243,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BFA/ADM1/geoBoundaries-BFA-ADM1.topojson",
       "id": "af11589b-6e30-4cfa-b8b6-f4f9979aba39",
       "last_modified": "2025-08-26T14:29:05",
-      "metadata_modified": "2025-08-26T14:53:46.939984",
+      "metadata_modified": "2026-10-24T10:14:25.219320",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -253,6 +259,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:23.318112",
@@ -264,7 +271,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BFA/ADM1/geoBoundaries-BFA-ADM1-all.zip",
       "id": "774db546-6af1-434b-b82e-113df4ccb5a7",
       "last_modified": "2025-08-26T14:29:05",
-      "metadata_modified": "2025-08-26T14:53:46.940053",
+      "metadata_modified": "2026-10-24T10:14:25.219428",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -280,6 +287,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:23.318115",
@@ -291,7 +299,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BFA/ADM2/geoBoundaries-BFA-ADM2_simplified.geojson",
       "id": "0762ad15-07b9-49ae-ae6d-ea069c3b791f",
       "last_modified": "2025-08-26T14:29:05",
-      "metadata_modified": "2025-08-26T14:53:46.940122",
+      "metadata_modified": "2026-10-24T10:14:25.219527",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -307,6 +315,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:23.318118",
@@ -318,7 +327,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BFA/ADM2/geoBoundaries-BFA-ADM2.geojson",
       "id": "6cdee77b-a132-4b29-96b1-58034b5e2880",
       "last_modified": "2025-08-26T14:29:05",
-      "metadata_modified": "2025-08-26T14:53:46.940188",
+      "metadata_modified": "2026-10-24T10:14:25.219629",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -362,6 +371,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:23.318125",
@@ -373,7 +383,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BFA/ADM2/geoBoundaries-BFA-ADM2-all.zip",
       "id": "e002daca-8eec-4f93-8954-696bafcdded8",
       "last_modified": "2025-08-26T14:29:06",
-      "metadata_modified": "2025-08-26T14:53:46.940320",
+      "metadata_modified": "2026-10-24T10:14:25.219830",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -389,6 +399,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:23.318128",
@@ -400,7 +411,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BFA/ADM3/geoBoundaries-BFA-ADM3_simplified.geojson",
       "id": "458af8d1-cc0e-41f2-9c7f-56829e22b05a",
       "last_modified": "2025-08-26T14:29:06",
-      "metadata_modified": "2025-08-26T14:53:46.940384",
+      "metadata_modified": "2026-10-24T10:14:25.219923",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -416,6 +427,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:23.318132",
@@ -427,7 +439,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BFA/ADM3/geoBoundaries-BFA-ADM3.geojson",
       "id": "73f27db6-8412-4167-9ae0-166dddbc1c07",
       "last_modified": "2025-08-26T14:29:06",
-      "metadata_modified": "2025-08-26T14:53:46.940449",
+      "metadata_modified": "2026-10-24T10:14:25.220027",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

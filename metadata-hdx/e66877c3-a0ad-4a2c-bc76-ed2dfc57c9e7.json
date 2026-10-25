@@ -18,7 +18,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "0ec5ff66-dc01-4087-bb82-1d01f3b1c1ce",
   "metadata_created": "2022-01-06T14:08:10.119766",
-  "metadata_modified": "2026-02-27T10:34:36.193774",
+  "metadata_modified": "2026-10-24T10:55:17.983942",
   "methodology": "Other",
   "methodology_other": "All stages of data collection and processing are publicly available, as described in both [peer-reviewed academic outlets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231866) and in the public code base available through [GitHub](https://github.com/wmgeolab/geoBoundaries).",
   "name": "geoboundaries-admin-boundaries-for-peru",
@@ -39,14 +39,14 @@
   },
   "owner_org": "8be95204-f453-4b66-a4f6-dbe84cb0bdee",
   "package_creator": "geoboundaries",
-  "pageviews_last_14_days": 28,
+  "pageviews_last_14_days": 51,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Peru\"]}",
   "state": "active",
   "subnational": "1",
   "title": "Peru - Subnational Administrative Boundaries",
-  "total_res_downloads": 767,
+  "total_res_downloads": 837,
   "type": "dataset",
   "updated_by_script": "GeoBoundaries (2024-07-20T00:09:28.496983)",
   "url": null,
@@ -63,6 +63,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:10.135229",
@@ -74,7 +75,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/90a1d52/releaseData/gbOpen/PER/ADM0/geoBoundaries-PER-ADM0_simplified.geojson",
       "id": "7cca7828-9c13-486b-aadf-aa1d67a6e92d",
       "last_modified": "2025-08-26T16:34:11",
-      "metadata_modified": "2025-08-26T16:57:21.643041",
+      "metadata_modified": "2026-10-24T10:55:18.015147",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -90,6 +91,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:10.135234",
@@ -101,7 +103,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/90a1d52/releaseData/gbOpen/PER/ADM0/geoBoundaries-PER-ADM0.geojson",
       "id": "8194751d-b024-4d57-beeb-198d271dd66e",
       "last_modified": "2025-08-26T16:34:11",
-      "metadata_modified": "2025-08-26T16:57:21.643153",
+      "metadata_modified": "2026-10-24T10:55:18.015328",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -117,6 +119,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:10.135237",
@@ -128,7 +131,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/90a1d52/releaseData/gbOpen/PER/ADM0/geoBoundaries-PER-ADM0.topojson",
       "id": "c77b5189-20db-47da-83fd-bc7805498c38",
       "last_modified": "2025-08-26T16:34:11",
-      "metadata_modified": "2025-08-26T16:57:21.643225",
+      "metadata_modified": "2026-10-24T10:55:18.015468",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -172,6 +175,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:10.135240",
@@ -183,7 +187,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/90a1d52/releaseData/gbOpen/PER/ADM1/geoBoundaries-PER-ADM1_simplified.geojson",
       "id": "2cee2f5e-9b16-4b60-9f1b-339b88d634d4",
       "last_modified": "2025-08-26T16:34:12",
-      "metadata_modified": "2025-08-26T16:57:21.643387",
+      "metadata_modified": "2026-10-24T10:55:18.015704",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -199,6 +203,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:10.135242",
@@ -210,7 +215,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/90a1d52/releaseData/gbOpen/PER/ADM1/geoBoundaries-PER-ADM1.geojson",
       "id": "55cf5a1f-4e5f-4fed-86a0-b231fe0068d8",
       "last_modified": "2025-08-26T16:34:12",
-      "metadata_modified": "2025-08-26T16:57:21.643508",
+      "metadata_modified": "2026-10-24T10:55:18.015820",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -226,6 +231,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:10.135245",
@@ -237,7 +243,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/90a1d52/releaseData/gbOpen/PER/ADM1/geoBoundaries-PER-ADM1.topojson",
       "id": "3d3f12ea-ec85-4968-89c9-dad85b91b73f",
       "last_modified": "2025-08-26T16:34:12",
-      "metadata_modified": "2025-08-26T16:57:21.643616",
+      "metadata_modified": "2026-10-24T10:55:18.015934",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -253,6 +259,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:10.135247",
@@ -264,7 +271,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/90a1d52/releaseData/gbOpen/PER/ADM1/geoBoundaries-PER-ADM1-all.zip",
       "id": "ec82d812-a3a6-419b-8708-bcd98d8677b1",
       "last_modified": "2025-08-26T16:34:12",
-      "metadata_modified": "2025-08-26T16:57:21.643730",
+      "metadata_modified": "2026-10-24T10:55:18.016044",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -280,6 +287,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:10.135250",
@@ -291,7 +299,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PER/ADM2/geoBoundaries-PER-ADM2_simplified.geojson",
       "id": "cd697162-8310-44f7-92a0-72b0bc5f17d6",
       "last_modified": "2025-08-26T16:34:13",
-      "metadata_modified": "2025-08-26T16:57:21.643837",
+      "metadata_modified": "2026-10-24T10:55:18.016155",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -307,6 +315,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:10.135252",
@@ -318,7 +327,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PER/ADM2/geoBoundaries-PER-ADM2.geojson",
       "id": "6499403a-c2d7-453e-a696-4d4a6e9ffbe2",
       "last_modified": "2025-08-26T16:34:13",
-      "metadata_modified": "2025-08-26T16:57:21.643953",
+      "metadata_modified": "2026-10-24T10:55:18.016268",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

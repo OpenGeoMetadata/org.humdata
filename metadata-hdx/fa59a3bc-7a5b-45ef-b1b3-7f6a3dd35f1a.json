@@ -18,7 +18,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "0ec5ff66-dc01-4087-bb82-1d01f3b1c1ce",
   "metadata_created": "2022-01-06T14:06:09.587488",
-  "metadata_modified": "2025-08-26T21:19:02.867552",
+  "metadata_modified": "2026-10-24T10:57:45.504758",
   "methodology": "Other",
   "methodology_other": "All stages of data collection and processing are publicly available, as described in both [peer-reviewed academic outlets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231866) and in the public code base available through [GitHub](https://github.com/wmgeolab/geoBoundaries).",
   "name": "geoboundaries-admin-boundaries-for-kenya",
@@ -39,14 +39,14 @@
   },
   "owner_org": "8be95204-f453-4b66-a4f6-dbe84cb0bdee",
   "package_creator": "geoboundaries",
-  "pageviews_last_14_days": 105,
+  "pageviews_last_14_days": 214,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Kenya\"]}",
   "state": "active",
   "subnational": "1",
   "title": "Kenya - Subnational Administrative Boundaries",
-  "total_res_downloads": 5127,
+  "total_res_downloads": 5952,
   "type": "dataset",
   "updated_by_script": "GeoBoundaries (2024-07-20T00:08:29.597700)",
   "url": null,
@@ -63,6 +63,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:06:09.593149",
@@ -74,7 +75,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KEN/ADM0/geoBoundaries-KEN-ADM0_simplified.geojson",
       "id": "f33492a0-c56f-4d74-a22f-695019435dea",
       "last_modified": "2025-08-26T17:01:42",
-      "metadata_modified": "2025-08-26T17:18:53.316783",
+      "metadata_modified": "2026-10-24T10:57:45.531449",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -90,6 +91,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:06:09.593156",
@@ -101,7 +103,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KEN/ADM0/geoBoundaries-KEN-ADM0.geojson",
       "id": "ccfb8b41-3f59-4a64-8dd4-439cd3616cde",
       "last_modified": "2025-08-26T17:01:43",
-      "metadata_modified": "2025-08-26T17:18:53.316873",
+      "metadata_modified": "2026-10-24T10:57:45.531552",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -117,6 +119,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:06:09.593159",
@@ -128,7 +131,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KEN/ADM0/geoBoundaries-KEN-ADM0.topojson",
       "id": "eba50d77-3031-4656-a227-ac8b434996a0",
       "last_modified": "2025-08-26T17:01:43",
-      "metadata_modified": "2025-08-26T17:18:53.316968",
+      "metadata_modified": "2026-10-24T10:57:45.531621",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -144,6 +147,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:06:09.593162",
@@ -155,7 +159,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KEN/ADM0/geoBoundaries-KEN-ADM0-all.zip",
       "id": "16837f27-642e-4ed5-b097-fb0c40ea6deb",
       "last_modified": "2025-08-26T17:01:43",
-      "metadata_modified": "2025-08-26T17:18:53.317083",
+      "metadata_modified": "2026-10-24T10:57:45.531694",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -171,6 +175,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:06:09.593165",
@@ -182,7 +187,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KEN/ADM1/geoBoundaries-KEN-ADM1_simplified.geojson",
       "id": "af8b7b2d-bc30-4733-9c7b-b3cf5cbe9d05",
       "last_modified": "2025-08-26T17:01:43",
-      "metadata_modified": "2025-08-26T17:18:53.317200",
+      "metadata_modified": "2026-10-24T10:57:45.531757",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,6 +203,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:06:09.593168",
@@ -209,7 +215,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KEN/ADM1/geoBoundaries-KEN-ADM1.geojson",
       "id": "131419b7-30ea-4d7d-a72b-e9cf6dcb4fb1",
       "last_modified": "2025-08-26T17:01:44",
-      "metadata_modified": "2025-08-26T17:18:53.317314",
+      "metadata_modified": "2026-10-24T10:57:45.531819",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -225,6 +231,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:06:09.593171",
@@ -236,7 +243,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KEN/ADM1/geoBoundaries-KEN-ADM1.topojson",
       "id": "f31d70c1-1257-482b-8932-3209578aff45",
       "last_modified": "2025-08-26T17:01:44",
-      "metadata_modified": "2025-08-26T17:18:53.317416",
+      "metadata_modified": "2026-10-24T10:57:45.531877",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -252,6 +259,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:06:09.593173",
@@ -263,7 +271,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KEN/ADM1/geoBoundaries-KEN-ADM1-all.zip",
       "id": "79f926c7-6e9e-4cf2-8228-4177a1e15e6d",
       "last_modified": "2025-08-26T17:01:44",
-      "metadata_modified": "2025-08-26T17:18:53.317517",
+      "metadata_modified": "2026-10-24T10:57:45.531951",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -279,6 +287,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:06:09.593176",
@@ -290,7 +299,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KEN/ADM2/geoBoundaries-KEN-ADM2_simplified.geojson",
       "id": "32058330-ba4b-40c2-95ca-b39b94aeb6c5",
       "last_modified": "2025-08-26T17:01:44",
-      "metadata_modified": "2025-08-26T17:18:53.317584",
+      "metadata_modified": "2026-10-24T10:57:45.532011",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -306,6 +315,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:06:09.593178",
@@ -317,7 +327,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KEN/ADM2/geoBoundaries-KEN-ADM2.geojson",
       "id": "cd91de6f-4413-4709-90db-aa3109362b64",
       "last_modified": "2025-08-26T17:01:45",
-      "metadata_modified": "2025-08-26T17:18:53.317684",
+      "metadata_modified": "2026-10-24T10:57:45.532067",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -333,6 +343,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:06:09.593181",
@@ -344,7 +355,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KEN/ADM2/geoBoundaries-KEN-ADM2.topojson",
       "id": "02108d0a-6e9b-46e1-adda-f3a321556fbc",
       "last_modified": "2025-08-26T17:01:45",
-      "metadata_modified": "2025-08-26T17:18:53.317755",
+      "metadata_modified": "2026-10-24T10:57:45.532127",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -360,6 +371,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:06:09.593184",
@@ -371,7 +383,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KEN/ADM2/geoBoundaries-KEN-ADM2-all.zip",
       "id": "e3c0c5ed-eb5f-40cc-8aa0-adb516f96c89",
       "last_modified": "2025-08-26T17:01:45",
-      "metadata_modified": "2025-08-26T17:18:53.317824",
+      "metadata_modified": "2026-10-24T10:57:45.532206",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -387,6 +399,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:06:09.593186",
@@ -398,7 +411,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KEN/ADM3/geoBoundaries-KEN-ADM3_simplified.geojson",
       "id": "7cc332ab-c648-421c-91ce-13ee8464bb57",
       "last_modified": "2025-08-26T17:01:31",
-      "metadata_modified": "2025-08-26T17:18:53.317892",
+      "metadata_modified": "2026-10-24T10:57:45.532271",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -414,6 +427,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:06:09.593189",
@@ -425,7 +439,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KEN/ADM3/geoBoundaries-KEN-ADM3.geojson",
       "id": "4c590ce6-07a1-42db-9423-b78b385323cb",
       "last_modified": "2025-08-26T17:01:32",
-      "metadata_modified": "2025-08-26T17:18:53.317961",
+      "metadata_modified": "2026-10-24T10:57:45.532326",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -441,6 +455,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:06:09.593191",
@@ -452,7 +467,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KEN/ADM3/geoBoundaries-KEN-ADM3.topojson",
       "id": "c9fa64ea-9b64-4c1c-a290-d9f37ec3e784",
       "last_modified": "2025-08-26T17:01:32",
-      "metadata_modified": "2025-08-26T17:18:53.318029",
+      "metadata_modified": "2026-10-24T10:57:45.532382",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -468,6 +483,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:06:09.593194",
@@ -479,7 +495,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KEN/ADM3/geoBoundaries-KEN-ADM3-all.zip",
       "id": "4e99f68f-4383-400a-9bb0-cdc0570d8c2a",
       "last_modified": "2025-08-26T17:01:32",
-      "metadata_modified": "2025-08-26T17:18:53.318109",
+      "metadata_modified": "2026-10-24T10:57:45.532437",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

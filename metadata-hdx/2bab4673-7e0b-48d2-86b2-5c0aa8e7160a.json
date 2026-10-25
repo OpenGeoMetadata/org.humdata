@@ -18,7 +18,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "0ec5ff66-dc01-4087-bb82-1d01f3b1c1ce",
   "metadata_created": "2022-01-06T14:05:14.395246",
-  "metadata_modified": "2025-08-26T12:57:05.282609",
+  "metadata_modified": "2026-10-24T09:05:40.975101",
   "methodology": "Other",
   "methodology_other": "All stages of data collection and processing are publicly available, as described in both [peer-reviewed academic outlets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231866) and in the public code base available through [GitHub](https://github.com/wmgeolab/geoBoundaries).",
   "name": "geoboundaries-admin-boundaries-for-fiji",
@@ -39,14 +39,14 @@
   },
   "owner_org": "8be95204-f453-4b66-a4f6-dbe84cb0bdee",
   "package_creator": "geoboundaries",
-  "pageviews_last_14_days": 7,
+  "pageviews_last_14_days": 72,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Fiji\"]}",
   "state": "active",
   "subnational": "1",
   "title": "Fiji - Subnational Administrative Boundaries",
-  "total_res_downloads": 648,
+  "total_res_downloads": 708,
   "type": "dataset",
   "updated_by_script": "GeoBoundaries (2024-07-20T00:07:49.303607)",
   "url": null,
@@ -63,6 +63,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:14.399146",
@@ -74,7 +75,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FJI/ADM0/geoBoundaries-FJI-ADM0_simplified.geojson",
       "id": "4609c6ce-da42-4736-b1e2-7e47bb1cd9d9",
       "last_modified": "2025-08-26T11:41:30",
-      "metadata_modified": "2025-08-26T12:03:48.247682",
+      "metadata_modified": "2026-10-24T09:05:41.007148",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -90,6 +91,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:14.399153",
@@ -101,7 +103,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FJI/ADM0/geoBoundaries-FJI-ADM0.geojson",
       "id": "4886b9ef-c7b6-46b0-b4d5-3a86904bba33",
       "last_modified": "2025-08-26T11:41:30",
-      "metadata_modified": "2025-08-26T12:03:48.247772",
+      "metadata_modified": "2026-10-24T09:05:41.007411",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -117,6 +119,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:14.399156",
@@ -128,7 +131,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FJI/ADM0/geoBoundaries-FJI-ADM0.topojson",
       "id": "5485fc31-eb74-452b-91c1-1213d09beb9f",
       "last_modified": "2025-08-26T11:41:30",
-      "metadata_modified": "2025-08-26T12:03:48.247842",
+      "metadata_modified": "2026-10-24T09:05:41.007741",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -144,6 +147,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:14.399159",
@@ -155,7 +159,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FJI/ADM0/geoBoundaries-FJI-ADM0-all.zip",
       "id": "97e56628-f4bc-4da2-b0cb-1831af67097e",
       "last_modified": "2025-08-26T11:41:30",
-      "metadata_modified": "2025-08-26T12:03:48.247908",
+      "metadata_modified": "2026-10-24T09:05:41.007987",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -171,6 +175,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:14.399162",
@@ -182,7 +187,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FJI/ADM1/geoBoundaries-FJI-ADM1_simplified.geojson",
       "id": "ce92c0e5-2650-4f39-9831-fb06b881d06c",
       "last_modified": "2025-08-26T11:41:30",
-      "metadata_modified": "2025-08-26T12:03:48.247974",
+      "metadata_modified": "2026-10-24T09:05:41.008119",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,6 +203,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:14.399164",
@@ -209,7 +215,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FJI/ADM1/geoBoundaries-FJI-ADM1.geojson",
       "id": "c318c188-b9a5-4a5f-bace-53b1b3e32b8e",
       "last_modified": "2025-08-26T11:41:31",
-      "metadata_modified": "2025-08-26T12:03:48.248070",
+      "metadata_modified": "2026-10-24T09:05:41.008244",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -225,6 +231,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:14.399167",
@@ -236,7 +243,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FJI/ADM1/geoBoundaries-FJI-ADM1.topojson",
       "id": "b6dbe5bf-09a9-4aea-8c3a-24b9599c6d95",
       "last_modified": "2025-08-26T11:41:31",
-      "metadata_modified": "2025-08-26T12:03:48.248142",
+      "metadata_modified": "2026-10-24T09:05:41.008367",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -252,6 +259,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:14.399169",
@@ -263,7 +271,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FJI/ADM1/geoBoundaries-FJI-ADM1-all.zip",
       "id": "72dc2912-f433-42e1-a30f-07bc2b7a07c9",
       "last_modified": "2025-08-26T11:41:31",
-      "metadata_modified": "2025-08-26T12:03:48.248206",
+      "metadata_modified": "2026-10-24T09:05:41.008484",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -279,6 +287,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:14.399172",
@@ -290,7 +299,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FJI/ADM2/geoBoundaries-FJI-ADM2_simplified.geojson",
       "id": "b9b1edf6-ce33-4efb-aba9-da9c982b3257",
       "last_modified": "2025-08-26T11:41:32",
-      "metadata_modified": "2025-08-26T12:03:48.248269",
+      "metadata_modified": "2026-10-24T09:05:41.008603",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -306,6 +315,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:14.399174",
@@ -317,7 +327,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FJI/ADM2/geoBoundaries-FJI-ADM2.geojson",
       "id": "3b404762-3f03-4af7-8486-4152183a1b1c",
       "last_modified": "2025-08-26T11:41:32",
-      "metadata_modified": "2025-08-26T12:03:48.248331",
+      "metadata_modified": "2026-10-24T09:05:41.008720",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -333,6 +343,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:14.399177",
@@ -344,7 +355,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FJI/ADM2/geoBoundaries-FJI-ADM2.topojson",
       "id": "c907fc2c-1d0a-414c-a8f3-b66342008213",
       "last_modified": "2025-08-26T11:41:32",
-      "metadata_modified": "2025-08-26T12:03:48.248394",
+      "metadata_modified": "2026-10-24T09:05:41.008835",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -360,6 +371,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:14.399180",
@@ -371,7 +383,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FJI/ADM2/geoBoundaries-FJI-ADM2-all.zip",
       "id": "f446f9c5-0291-4c94-9bab-8546af84c3b3",
       "last_modified": "2025-08-26T11:41:32",
-      "metadata_modified": "2025-08-26T12:03:48.248456",
+      "metadata_modified": "2026-10-24T09:05:41.008955",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -387,6 +399,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:14.399182",
@@ -398,7 +411,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FJI/ADM3/geoBoundaries-FJI-ADM3_simplified.geojson",
       "id": "8750933b-20d2-4715-a093-199d33f4de63",
       "last_modified": "2025-08-26T11:41:33",
-      "metadata_modified": "2025-08-26T12:03:48.248525",
+      "metadata_modified": "2026-10-24T09:05:41.009072",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -414,6 +427,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:14.399185",
@@ -425,7 +439,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FJI/ADM3/geoBoundaries-FJI-ADM3.geojson",
       "id": "0f8000ec-1626-4701-a434-d1a3f41d747e",
       "last_modified": "2025-08-26T11:41:33",
-      "metadata_modified": "2025-08-26T12:03:48.248587",
+      "metadata_modified": "2026-10-24T09:05:41.009192",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -441,6 +455,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:14.399205",
@@ -452,7 +467,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FJI/ADM3/geoBoundaries-FJI-ADM3.topojson",
       "id": "23e066e9-fda8-4990-81c8-3b0ced8e0794",
       "last_modified": "2025-08-26T11:41:33",
-      "metadata_modified": "2025-08-26T12:03:48.248649",
+      "metadata_modified": "2026-10-24T09:05:41.009305",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -468,6 +483,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:14.399208",
@@ -479,7 +495,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FJI/ADM3/geoBoundaries-FJI-ADM3-all.zip",
       "id": "13c4bc9a-ee61-48c9-b166-f56e28e76482",
       "last_modified": "2025-08-26T11:41:33",
-      "metadata_modified": "2025-08-26T12:03:48.248710",
+      "metadata_modified": "2026-10-24T09:05:41.009582",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -495,6 +511,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:14.399211",
@@ -506,7 +523,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FJI/ADM4/geoBoundaries-FJI-ADM4_simplified.geojson",
       "id": "911208f4-6ed0-400a-babf-2433289f4c2e",
       "last_modified": "2025-08-26T11:41:34",
-      "metadata_modified": "2025-08-26T12:03:48.248777",
+      "metadata_modified": "2026-10-24T09:05:41.009794",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -522,6 +539,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:14.399213",
@@ -533,7 +551,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FJI/ADM4/geoBoundaries-FJI-ADM4.geojson",
       "id": "fa1e8ddd-0149-413b-8804-87f0438d589b",
       "last_modified": "2025-08-26T11:41:34",
-      "metadata_modified": "2025-08-26T12:03:48.248839",
+      "metadata_modified": "2026-10-24T09:05:41.009910",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -549,6 +567,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:14.399216",
@@ -560,7 +579,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FJI/ADM4/geoBoundaries-FJI-ADM4.topojson",
       "id": "d9146fe3-8ab6-4f81-a9e0-5cd8b1588004",
       "last_modified": "2025-08-26T11:41:34",
-      "metadata_modified": "2025-08-26T12:03:48.248901",
+      "metadata_modified": "2026-10-24T09:05:41.010013",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -576,6 +595,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:14.399218",
@@ -587,7 +607,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/FJI/ADM4/geoBoundaries-FJI-ADM4-all.zip",
       "id": "843ad1fe-1fce-43a0-aef2-4f4b70b874ab",
       "last_modified": "2025-08-26T11:41:34",
-      "metadata_modified": "2025-08-26T12:03:48.248963",
+      "metadata_modified": "2026-10-24T09:05:41.010126",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

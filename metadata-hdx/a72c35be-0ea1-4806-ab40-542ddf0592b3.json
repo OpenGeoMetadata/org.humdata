@@ -18,7 +18,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "0ec5ff66-dc01-4087-bb82-1d01f3b1c1ce",
   "metadata_created": "2023-04-11T19:02:16.032144",
-  "metadata_modified": "2025-08-26T15:26:33.618030",
+  "metadata_modified": "2026-10-24T10:16:23.940306",
   "methodology": "Other",
   "methodology_other": "All stages of data collection and processing are publicly available, as described in both [peer-reviewed academic outlets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231866) and in the public code base available through [GitHub](https://github.com/wmgeolab/geoBoundaries).",
   "name": "geoboundaries-admin-boundaries-for-pitcairn",
@@ -39,14 +39,14 @@
   },
   "owner_org": "8be95204-f453-4b66-a4f6-dbe84cb0bdee",
   "package_creator": "geoboundaries",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 2,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Pitcairn\"]}",
   "state": "active",
   "subnational": "0",
   "title": "Pitcairn - Subnational Administrative Boundaries",
-  "total_res_downloads": 12,
+  "total_res_downloads": 14,
   "type": "dataset",
   "updated_by_script": "GeoBoundaries (2024-07-20T00:09:27.122853)",
   "url": null,
@@ -63,6 +63,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2023-04-11T19:02:16.052918",
@@ -74,7 +75,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PCN/ADM0/geoBoundaries-PCN-ADM0_simplified.geojson",
       "id": "5f004dbb-277d-4525-af92-29a1680a72ba",
       "last_modified": "2025-08-26T14:59:04",
-      "metadata_modified": "2025-08-26T15:26:33.645846",
+      "metadata_modified": "2026-10-24T10:16:23.953857",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -89,6 +90,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2023-04-11T19:02:16.052922",
@@ -100,7 +102,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PCN/ADM0/geoBoundaries-PCN-ADM0.geojson",
       "id": "6cad790b-f106-4961-a64a-661bd38a9486",
       "last_modified": "2025-08-26T14:59:04",
-      "metadata_modified": "2025-08-26T15:26:33.645954",
+      "metadata_modified": "2026-10-24T10:16:23.954025",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -115,6 +117,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2023-04-11T19:02:16.052924",
@@ -126,7 +129,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PCN/ADM0/geoBoundaries-PCN-ADM0.topojson",
       "id": "a549cbf0-a1e4-44a0-ac4d-7a5b0783d980",
       "last_modified": "2025-08-26T14:59:04",
-      "metadata_modified": "2025-08-26T15:26:33.646029",
+      "metadata_modified": "2026-10-24T10:16:23.954214",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -141,6 +144,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2023-04-11T19:02:16.052925",
@@ -152,7 +156,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PCN/ADM0/geoBoundaries-PCN-ADM0-all.zip",
       "id": "a3df4689-7eaf-4905-9a65-b86d963b1188",
       "last_modified": "2025-08-26T14:59:04",
-      "metadata_modified": "2025-08-26T15:26:33.646101",
+      "metadata_modified": "2026-10-24T10:16:23.954443",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

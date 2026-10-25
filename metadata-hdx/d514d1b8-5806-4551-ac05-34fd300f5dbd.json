@@ -18,7 +18,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "0ec5ff66-dc01-4087-bb82-1d01f3b1c1ce",
   "metadata_created": "2022-01-06T14:10:32.019320",
-  "metadata_modified": "2026-04-25T10:29:58.698657",
+  "metadata_modified": "2026-10-24T10:37:12.147237",
   "methodology": "Other",
   "methodology_other": "All stages of data collection and processing are publicly available, as described in both [peer-reviewed academic outlets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231866) and in the public code base available through [GitHub](https://github.com/wmgeolab/geoBoundaries).",
   "name": "geoboundaries-admin-boundaries-for-uganda",
@@ -39,14 +39,14 @@
   },
   "owner_org": "8be95204-f453-4b66-a4f6-dbe84cb0bdee",
   "package_creator": "geoboundaries",
-  "pageviews_last_14_days": 59,
+  "pageviews_last_14_days": 74,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Uganda\"]}",
   "state": "active",
   "subnational": "1",
   "title": "Uganda - Subnational Administrative Boundaries",
-  "total_res_downloads": 2202,
+  "total_res_downloads": 2702,
   "type": "dataset",
   "updated_by_script": "GeoBoundaries (2024-07-20T00:10:19.595094)",
   "url": null,
@@ -63,6 +63,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:32.046876",
@@ -74,7 +75,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UGA/ADM0/geoBoundaries-UGA-ADM0_simplified.geojson",
       "id": "60c7aed2-8cba-4209-8dc5-ff23ba4648c8",
       "last_modified": "2025-08-26T16:13:58",
-      "metadata_modified": "2025-08-26T16:29:39.622934",
+      "metadata_modified": "2026-10-24T10:37:12.162727",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -90,6 +91,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:32.046884",
@@ -101,7 +103,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UGA/ADM0/geoBoundaries-UGA-ADM0.geojson",
       "id": "26fa4595-c049-431e-9c3c-8c39470dffda",
       "last_modified": "2025-08-26T16:13:58",
-      "metadata_modified": "2025-08-26T16:29:39.623026",
+      "metadata_modified": "2026-10-24T10:37:12.162890",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -117,6 +119,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:32.046887",
@@ -128,7 +131,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UGA/ADM0/geoBoundaries-UGA-ADM0.topojson",
       "id": "068dc405-562a-4b40-827c-a200aa2f89e5",
       "last_modified": "2025-08-26T16:13:58",
-      "metadata_modified": "2025-08-26T16:29:39.623096",
+      "metadata_modified": "2026-10-24T10:37:12.163017",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -144,6 +147,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:32.046890",
@@ -155,7 +159,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UGA/ADM0/geoBoundaries-UGA-ADM0-all.zip",
       "id": "6152301d-924c-425b-9e45-e1d85f642ec5",
       "last_modified": "2025-08-26T16:13:58",
-      "metadata_modified": "2025-08-26T16:29:39.623162",
+      "metadata_modified": "2026-10-24T10:37:12.163134",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -171,6 +175,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:32.046893",
@@ -182,7 +187,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UGA/ADM1/geoBoundaries-UGA-ADM1_simplified.geojson",
       "id": "be031351-8943-4534-9349-c6adec35dfb2",
       "last_modified": "2025-08-26T16:13:59",
-      "metadata_modified": "2025-08-26T16:29:39.623227",
+      "metadata_modified": "2026-10-24T10:37:12.163210",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,6 +203,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:32.046895",
@@ -209,7 +215,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UGA/ADM1/geoBoundaries-UGA-ADM1.geojson",
       "id": "494d7faf-0ea2-40d6-bcc2-5922c92ade68",
       "last_modified": "2025-08-26T16:13:59",
-      "metadata_modified": "2025-08-26T16:29:39.623290",
+      "metadata_modified": "2026-10-24T10:37:12.163274",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -253,6 +259,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:32.046901",
@@ -264,7 +271,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UGA/ADM1/geoBoundaries-UGA-ADM1-all.zip",
       "id": "9c177889-2d1e-4dea-9f8c-f2e51090e79b",
       "last_modified": "2025-08-26T16:13:59",
-      "metadata_modified": "2025-08-26T16:29:39.623416",
+      "metadata_modified": "2026-10-24T10:37:12.163429",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -280,6 +287,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:32.046904",
@@ -291,7 +299,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UGA/ADM2/geoBoundaries-UGA-ADM2_simplified.geojson",
       "id": "174d1a0e-5cd2-4ff3-b10f-0cc93874c370",
       "last_modified": "2025-08-26T16:14:00",
-      "metadata_modified": "2025-08-26T16:29:39.623477",
+      "metadata_modified": "2026-10-24T10:37:12.163528",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -307,6 +315,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:32.046906",
@@ -318,7 +327,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UGA/ADM2/geoBoundaries-UGA-ADM2.geojson",
       "id": "d6906ddf-5f20-4102-abb4-63e1ba3d2122",
       "last_modified": "2025-08-26T16:14:00",
-      "metadata_modified": "2025-08-26T16:29:39.623539",
+      "metadata_modified": "2026-10-24T10:37:12.163594",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -362,6 +371,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:32.046912",
@@ -373,7 +383,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UGA/ADM2/geoBoundaries-UGA-ADM2-all.zip",
       "id": "06e6438e-66cc-4cb6-8a8c-00ff7b19aae8",
       "last_modified": "2025-08-26T16:14:00",
-      "metadata_modified": "2025-08-26T16:29:39.623661",
+      "metadata_modified": "2026-10-24T10:37:12.163781",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -389,6 +399,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2023-04-11T19:03:33.412134",
@@ -400,7 +411,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UGA/ADM3/geoBoundaries-UGA-ADM3_simplified.geojson",
       "id": "c3f57cb5-869d-4a01-840c-6b836e4f4993",
       "last_modified": "2025-08-26T16:14:01",
-      "metadata_modified": "2025-08-26T16:29:39.623740",
+      "metadata_modified": "2026-10-24T10:37:12.163883",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -416,6 +427,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2023-04-11T19:03:33.412138",
@@ -427,7 +439,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UGA/ADM3/geoBoundaries-UGA-ADM3.geojson",
       "id": "3a889738-b841-4ec8-8d6c-367a8755bc69",
       "last_modified": "2025-08-26T16:14:01",
-      "metadata_modified": "2025-08-26T16:29:39.623820",
+      "metadata_modified": "2026-10-24T10:37:12.163981",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -443,6 +455,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2023-04-11T19:03:33.412141",
@@ -454,7 +467,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UGA/ADM3/geoBoundaries-UGA-ADM3.topojson",
       "id": "becf2499-000a-4a8a-94c9-e42d11b6ab76",
       "last_modified": "2025-08-26T16:13:54",
-      "metadata_modified": "2025-08-26T16:29:39.623884",
+      "metadata_modified": "2026-10-24T10:37:12.164075",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -470,6 +483,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2023-04-11T19:03:33.412142",
@@ -481,7 +495,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UGA/ADM3/geoBoundaries-UGA-ADM3-all.zip",
       "id": "457922e6-4dc5-4ee8-a9a7-ebc26e29d910",
       "last_modified": "2025-08-26T16:13:54",
-      "metadata_modified": "2025-08-26T16:29:39.623945",
+      "metadata_modified": "2026-10-24T10:37:12.164182",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -497,6 +511,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2023-04-11T19:03:33.412144",
@@ -508,7 +523,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UGA/ADM4/geoBoundaries-UGA-ADM4_simplified.geojson",
       "id": "3aefd43c-9276-49f5-987e-8177dedd4f3b",
       "last_modified": "2025-08-26T16:13:54",
-      "metadata_modified": "2025-08-26T16:29:39.624006",
+      "metadata_modified": "2026-10-24T10:37:12.164270",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -524,6 +539,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2023-04-11T19:03:33.412146",
@@ -535,7 +551,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UGA/ADM4/geoBoundaries-UGA-ADM4.geojson",
       "id": "9b4d64bf-b863-4389-9894-e58530b8209d",
       "last_modified": "2025-08-26T16:13:54",
-      "metadata_modified": "2025-08-26T16:29:39.624067",
+      "metadata_modified": "2026-10-24T10:37:12.164378",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -551,6 +567,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2023-04-11T19:03:33.412148",
@@ -562,7 +579,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UGA/ADM4/geoBoundaries-UGA-ADM4.topojson",
       "id": "448a8913-2394-4ba7-ab51-ea038dc6bf12",
       "last_modified": "2025-08-26T16:13:54",
-      "metadata_modified": "2025-08-26T16:29:39.624131",
+      "metadata_modified": "2026-10-24T10:37:12.164481",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -578,6 +595,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2023-04-11T19:03:33.412149",
@@ -589,7 +607,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/UGA/ADM4/geoBoundaries-UGA-ADM4-all.zip",
       "id": "6ac1d361-4502-4fd5-8529-983c05addb39",
       "last_modified": "2025-08-26T16:13:54",
-      "metadata_modified": "2025-08-26T16:29:39.624207",
+      "metadata_modified": "2026-10-24T10:37:12.164580",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

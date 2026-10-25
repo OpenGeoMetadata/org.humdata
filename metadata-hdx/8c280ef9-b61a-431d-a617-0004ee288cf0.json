@@ -18,7 +18,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "0ec5ff66-dc01-4087-bb82-1d01f3b1c1ce",
   "metadata_created": "2022-01-06T14:05:12.355381",
-  "metadata_modified": "2026-02-27T09:48:38.232576",
+  "metadata_modified": "2026-10-24T09:54:45.823232",
   "methodology": "Other",
   "methodology_other": "All stages of data collection and processing are publicly available, as described in both [peer-reviewed academic outlets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231866) and in the public code base available through [GitHub](https://github.com/wmgeolab/geoBoundaries).",
   "name": "geoboundaries-admin-boundaries-for-ethiopia",
@@ -39,14 +39,14 @@
   },
   "owner_org": "8be95204-f453-4b66-a4f6-dbe84cb0bdee",
   "package_creator": "geoboundaries",
-  "pageviews_last_14_days": 59,
+  "pageviews_last_14_days": 112,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Ethiopia\"]}",
   "state": "active",
   "subnational": "1",
   "title": "Ethiopia - Subnational Administrative Boundaries",
-  "total_res_downloads": 4372,
+  "total_res_downloads": 4764,
   "type": "dataset",
   "updated_by_script": "GeoBoundaries (2024-07-20T00:07:47.392278)",
   "url": null,
@@ -63,6 +63,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:12.360078",
@@ -74,7 +75,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ETH/ADM0/geoBoundaries-ETH-ADM0_simplified.geojson",
       "id": "37c9877b-b06a-489a-a0d0-9e5f2f90e7d3",
       "last_modified": "2025-08-26T13:57:28",
-      "metadata_modified": "2025-08-26T14:24:06.168190",
+      "metadata_modified": "2026-10-24T09:54:45.847252",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -118,6 +119,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:12.360091",
@@ -129,7 +131,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ETH/ADM0/geoBoundaries-ETH-ADM0.topojson",
       "id": "b9fe1573-a68e-4544-91b0-78f39e25e789",
       "last_modified": "2025-08-26T13:57:29",
-      "metadata_modified": "2025-08-26T14:24:06.168350",
+      "metadata_modified": "2026-10-24T09:54:45.847535",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -201,6 +203,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:12.360100",
@@ -212,7 +215,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ETH/ADM1/geoBoundaries-ETH-ADM1.geojson",
       "id": "bf5844b4-ee64-4dea-afd1-ec91b13b6f8c",
       "last_modified": "2025-08-26T13:57:29",
-      "metadata_modified": "2025-08-26T14:24:06.168546",
+      "metadata_modified": "2026-10-24T09:54:45.847868",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -256,6 +259,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:12.360105",
@@ -267,7 +271,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ETH/ADM1/geoBoundaries-ETH-ADM1-all.zip",
       "id": "125b9fec-8c15-4537-b3b3-f82b140bb4bb",
       "last_modified": "2025-08-26T13:57:30",
-      "metadata_modified": "2025-08-26T14:24:06.168688",
+      "metadata_modified": "2026-10-24T09:54:45.848085",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -339,6 +343,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:12.360114",
@@ -350,7 +355,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ETH/ADM2/geoBoundaries-ETH-ADM2.topojson",
       "id": "859e55d2-0db3-4b15-8785-623d33b7bd49",
       "last_modified": "2025-08-26T13:57:31",
-      "metadata_modified": "2025-08-26T14:24:06.168875",
+      "metadata_modified": "2026-10-24T09:54:45.848410",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -422,6 +427,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:12.360123",
@@ -433,7 +439,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ETH/ADM3/geoBoundaries-ETH-ADM3.geojson",
       "id": "431f35ee-6d3e-4720-9166-5133ac51e31f",
       "last_modified": "2025-08-26T13:57:31",
-      "metadata_modified": "2025-08-26T14:24:06.169076",
+      "metadata_modified": "2026-10-24T09:54:45.848712",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -449,6 +455,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:12.360126",
@@ -460,7 +467,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ETH/ADM3/geoBoundaries-ETH-ADM3.topojson",
       "id": "80dde446-548e-43bd-8d7b-fecb28391b7e",
       "last_modified": "2025-08-26T13:57:32",
-      "metadata_modified": "2025-08-26T14:24:06.169148",
+      "metadata_modified": "2026-10-24T09:54:45.848816",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -476,6 +483,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:12.360129",
@@ -487,7 +495,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/ETH/ADM3/geoBoundaries-ETH-ADM3-all.zip",
       "id": "eb56103b-7b91-4934-89d9-e0954afb230b",
       "last_modified": "2025-08-26T13:57:32",
-      "metadata_modified": "2025-08-26T14:24:06.169218",
+      "metadata_modified": "2026-10-24T09:54:45.848929",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

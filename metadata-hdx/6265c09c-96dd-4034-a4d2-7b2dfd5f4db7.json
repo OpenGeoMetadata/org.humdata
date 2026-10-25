@@ -18,7 +18,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "0ec5ff66-dc01-4087-bb82-1d01f3b1c1ce",
   "metadata_created": "2022-01-06T14:04:41.257149",
-  "metadata_modified": "2026-06-12T09:45:11.392139",
+  "metadata_modified": "2026-10-24T09:46:51.050931",
   "methodology": "Other",
   "methodology_other": "All stages of data collection and processing are publicly available, as described in both [peer-reviewed academic outlets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231866) and in the public code base available through [GitHub](https://github.com/wmgeolab/geoBoundaries).",
   "name": "geoboundaries-admin-boundaries-for-central-african-republic",
@@ -39,14 +39,14 @@
   },
   "owner_org": "8be95204-f453-4b66-a4f6-dbe84cb0bdee",
   "package_creator": "geoboundaries",
-  "pageviews_last_14_days": 8,
+  "pageviews_last_14_days": 32,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Central African Republic\"]}",
   "state": "active",
   "subnational": "1",
   "title": "Central African Republic - Subnational Administrative Boundaries",
-  "total_res_downloads": 588,
+  "total_res_downloads": 618,
   "type": "dataset",
   "updated_by_script": "GeoBoundaries (2024-07-20T00:07:14.397017)",
   "url": null,
@@ -63,6 +63,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:41.262952",
@@ -74,7 +75,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CAF/ADM0/geoBoundaries-CAF-ADM0_simplified.geojson",
       "id": "ad7ce8e8-32e7-42fd-83f6-d369b66caaff",
       "last_modified": "2025-08-26T13:11:49",
-      "metadata_modified": "2025-08-26T13:27:50.364405",
+      "metadata_modified": "2026-10-24T09:46:51.074629",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -118,6 +119,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:41.262959",
@@ -129,7 +131,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CAF/ADM0/geoBoundaries-CAF-ADM0.topojson",
       "id": "d11e2b9a-bbba-4b35-9d88-f80bb409596b",
       "last_modified": "2025-08-26T13:11:50",
-      "metadata_modified": "2025-08-26T13:27:50.364728",
+      "metadata_modified": "2026-10-24T09:46:51.074810",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -145,6 +147,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:41.262961",
@@ -156,7 +159,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CAF/ADM0/geoBoundaries-CAF-ADM0-all.zip",
       "id": "f69d32d0-ed70-4559-a27c-abb521d89b9b",
       "last_modified": "2025-08-26T13:11:50",
-      "metadata_modified": "2025-08-26T13:27:50.364803",
+      "metadata_modified": "2026-10-24T09:46:51.074874",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -200,6 +203,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:41.262964",
@@ -211,7 +215,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CAF/ADM1/geoBoundaries-CAF-ADM1.geojson",
       "id": "0e711c1f-3b40-439f-a38c-c35c676a3e17",
       "last_modified": "2025-08-26T13:11:51",
-      "metadata_modified": "2025-08-26T13:27:50.364939",
+      "metadata_modified": "2026-10-24T09:46:51.074993",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -311,6 +315,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:41.262971",
@@ -322,7 +327,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CAF/ADM2/geoBoundaries-CAF-ADM2.geojson",
       "id": "7ff4e72e-ea64-49f1-9008-1b67319e2164",
       "last_modified": "2025-08-26T13:11:52",
-      "metadata_modified": "2025-08-26T13:27:50.365199",
+      "metadata_modified": "2026-10-24T09:46:51.075239",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -394,6 +399,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:41.262976",
@@ -405,7 +411,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CAF/ADM3/geoBoundaries-CAF-ADM3_simplified.geojson",
       "id": "a4e9ca06-8779-4288-9fd9-d36cfad728b5",
       "last_modified": "2025-08-26T13:11:52",
-      "metadata_modified": "2025-08-26T13:27:50.365392",
+      "metadata_modified": "2026-10-24T09:46:51.075434",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -421,6 +427,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:41.262977",
@@ -432,7 +439,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CAF/ADM3/geoBoundaries-CAF-ADM3.geojson",
       "id": "ef82bb59-9a5e-46bc-bb4a-84e654190e02",
       "last_modified": "2025-08-26T13:11:53",
-      "metadata_modified": "2025-08-26T13:27:50.365456",
+      "metadata_modified": "2026-10-24T09:46:51.075490",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -560,6 +567,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:41.262985",
@@ -571,7 +579,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/CAF/ADM5/geoBoundaries-CAF-ADM5.topojson",
       "id": "efeb49c4-1d5b-407b-842a-33c7f74b3c3e",
       "last_modified": "2025-08-26T13:11:54",
-      "metadata_modified": "2025-08-26T13:27:50.365776",
+      "metadata_modified": "2026-10-24T09:46:51.075762",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

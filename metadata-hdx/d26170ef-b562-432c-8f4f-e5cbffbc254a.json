@@ -18,7 +18,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "0ec5ff66-dc01-4087-bb82-1d01f3b1c1ce",
   "metadata_created": "2022-01-06T14:07:07.096114",
-  "metadata_modified": "2026-02-21T10:27:35.174395",
+  "metadata_modified": "2026-10-24T10:37:05.200141",
   "methodology": "Other",
   "methodology_other": "All stages of data collection and processing are publicly available, as described in both [peer-reviewed academic outlets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231866) and in the public code base available through [GitHub](https://github.com/wmgeolab/geoBoundaries).",
   "name": "geoboundaries-admin-boundaries-for-marshall-islands",
@@ -39,14 +39,14 @@
   },
   "owner_org": "8be95204-f453-4b66-a4f6-dbe84cb0bdee",
   "package_creator": "geoboundaries",
-  "pageviews_last_14_days": 4,
+  "pageviews_last_14_days": 11,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Marshall Islands\"]}",
   "state": "active",
   "subnational": "1",
   "title": "Marshall Islands - Subnational Administrative Boundaries",
-  "total_res_downloads": 111,
+  "total_res_downloads": 116,
   "type": "dataset",
   "updated_by_script": "GeoBoundaries (2024-07-20T00:08:57.784616)",
   "url": null,
@@ -63,6 +63,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:07:07.143129",
@@ -74,7 +75,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MHL/ADM0/geoBoundaries-MHL-ADM0_simplified.geojson",
       "id": "bbdbe141-c3a7-4004-aec9-bf2314d14803",
       "last_modified": "2025-08-26T16:14:12",
-      "metadata_modified": "2025-08-26T16:30:57.656423",
+      "metadata_modified": "2026-10-24T10:37:05.214233",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -90,6 +91,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:07:07.143137",
@@ -101,7 +103,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MHL/ADM0/geoBoundaries-MHL-ADM0.geojson",
       "id": "ba5cdf6f-8223-44e1-959c-7bbb74d9ee9a",
       "last_modified": "2025-08-26T16:14:12",
-      "metadata_modified": "2025-08-26T16:30:57.656523",
+      "metadata_modified": "2026-10-24T10:37:05.214383",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -117,6 +119,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:07:07.143141",
@@ -128,7 +131,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MHL/ADM0/geoBoundaries-MHL-ADM0.topojson",
       "id": "a05d0e1f-4160-40c1-b4c6-d4c5ca8f67f5",
       "last_modified": "2025-08-26T16:14:12",
-      "metadata_modified": "2025-08-26T16:30:57.656595",
+      "metadata_modified": "2026-10-24T10:37:05.214495",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -256,6 +259,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:07:07.143155",
@@ -267,7 +271,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MHL/ADM1/geoBoundaries-MHL-ADM1-all.zip",
       "id": "f51e011b-82ed-4766-9a8d-4e85194e60cd",
       "last_modified": "2025-08-26T16:14:13",
-      "metadata_modified": "2025-08-26T16:30:57.656979",
+      "metadata_modified": "2026-10-24T10:37:05.215020",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

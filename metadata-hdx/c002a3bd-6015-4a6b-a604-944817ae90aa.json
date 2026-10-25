@@ -18,7 +18,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "0ec5ff66-dc01-4087-bb82-1d01f3b1c1ce",
   "metadata_created": "2022-01-06T14:07:03.257104",
-  "metadata_modified": "2025-12-15T10:25:55.184825",
+  "metadata_modified": "2026-10-24T10:32:20.814514",
   "methodology": "Other",
   "methodology_other": "All stages of data collection and processing are publicly available, as described in both [peer-reviewed academic outlets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231866) and in the public code base available through [GitHub](https://github.com/wmgeolab/geoBoundaries).",
   "name": "geoboundaries-admin-boundaries-for-mexico",
@@ -39,14 +39,14 @@
   },
   "owner_org": "8be95204-f453-4b66-a4f6-dbe84cb0bdee",
   "package_creator": "geoboundaries",
-  "pageviews_last_14_days": 20,
+  "pageviews_last_14_days": 58,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Mexico\"]}",
   "state": "active",
   "subnational": "1",
   "title": "Mexico - Subnational Administrative Boundaries",
-  "total_res_downloads": 1071,
+  "total_res_downloads": 1166,
   "type": "dataset",
   "updated_by_script": "GeoBoundaries (2024-07-20T00:08:56.058042)",
   "url": null,
@@ -63,6 +63,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:07:03.295016",
@@ -74,7 +75,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MEX/ADM0/geoBoundaries-MEX-ADM0_simplified.geojson",
       "id": "5d95337f-59b2-43a5-b598-7247fb7dedfe",
       "last_modified": "2025-08-26T15:53:33",
-      "metadata_modified": "2025-08-26T16:11:02.367705",
+      "metadata_modified": "2026-10-24T10:32:20.841125",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -90,6 +91,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:07:03.295023",
@@ -101,7 +103,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MEX/ADM0/geoBoundaries-MEX-ADM0.geojson",
       "id": "73bf0f10-7e59-4fea-b10a-26390e269630",
       "last_modified": "2025-08-26T15:53:33",
-      "metadata_modified": "2025-08-26T16:11:02.367817",
+      "metadata_modified": "2026-10-24T10:32:20.841330",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -117,6 +119,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:07:03.295026",
@@ -128,7 +131,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MEX/ADM0/geoBoundaries-MEX-ADM0.topojson",
       "id": "62d4a58e-2656-4632-8f50-0a1481eae226",
       "last_modified": "2025-08-26T15:53:33",
-      "metadata_modified": "2025-08-26T16:11:02.367898",
+      "metadata_modified": "2026-10-24T10:32:20.841467",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -144,6 +147,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:07:03.295028",
@@ -155,7 +159,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MEX/ADM0/geoBoundaries-MEX-ADM0-all.zip",
       "id": "3e0152eb-3001-447f-aad9-e7a57dd0c60a",
       "last_modified": "2025-08-26T15:53:34",
-      "metadata_modified": "2025-08-26T16:11:02.367989",
+      "metadata_modified": "2026-10-24T10:32:20.841544",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -171,6 +175,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:07:03.295030",
@@ -182,7 +187,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/90a1d52/releaseData/gbOpen/MEX/ADM1/geoBoundaries-MEX-ADM1_simplified.geojson",
       "id": "4aa6981b-f3b4-4ad9-9a2e-3a2877839c40",
       "last_modified": "2025-08-26T15:53:34",
-      "metadata_modified": "2025-08-26T16:11:02.368138",
+      "metadata_modified": "2026-10-24T10:32:20.841610",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,6 +203,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:07:03.295032",
@@ -209,7 +215,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/90a1d52/releaseData/gbOpen/MEX/ADM1/geoBoundaries-MEX-ADM1.geojson",
       "id": "db66c93a-472f-4c4f-89d5-692b9f3002f2",
       "last_modified": "2025-08-26T15:53:34",
-      "metadata_modified": "2025-08-26T16:11:02.368257",
+      "metadata_modified": "2026-10-24T10:32:20.841689",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -225,6 +231,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:07:03.295033",
@@ -236,7 +243,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/90a1d52/releaseData/gbOpen/MEX/ADM1/geoBoundaries-MEX-ADM1.topojson",
       "id": "a97a76f9-fbaf-4adc-85a3-4ed784dabc14",
       "last_modified": "2025-08-26T15:53:34",
-      "metadata_modified": "2025-08-26T16:11:02.368378",
+      "metadata_modified": "2026-10-24T10:32:20.841766",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -252,6 +259,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:07:03.295035",
@@ -263,7 +271,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/90a1d52/releaseData/gbOpen/MEX/ADM1/geoBoundaries-MEX-ADM1-all.zip",
       "id": "72790942-830f-41e6-909f-fca4672962df",
       "last_modified": "2025-08-26T15:53:35",
-      "metadata_modified": "2025-08-26T16:11:02.368494",
+      "metadata_modified": "2026-10-24T10:32:20.841830",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -279,6 +287,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:07:03.295037",
@@ -290,7 +299,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MEX/ADM2/geoBoundaries-MEX-ADM2_simplified.geojson",
       "id": "b04f8a31-6b15-4f9f-930a-44374bd4058c",
       "last_modified": "2025-08-26T15:53:35",
-      "metadata_modified": "2025-08-26T16:11:02.368696",
+      "metadata_modified": "2026-10-24T10:32:20.841947",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -306,6 +315,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:07:03.295038",
@@ -317,7 +327,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MEX/ADM2/geoBoundaries-MEX-ADM2.geojson",
       "id": "01245dae-63db-4cf1-b4f1-ba78a7308951",
       "last_modified": "2025-08-26T15:53:35",
-      "metadata_modified": "2025-08-26T16:11:02.368817",
+      "metadata_modified": "2026-10-24T10:32:20.842013",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -333,6 +343,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:07:03.295040",
@@ -344,7 +355,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MEX/ADM2/geoBoundaries-MEX-ADM2.topojson",
       "id": "068d1ac8-324c-48c5-b42b-73fcefe891f5",
       "last_modified": "2025-08-26T15:53:35",
-      "metadata_modified": "2025-08-26T16:11:02.368933",
+      "metadata_modified": "2026-10-24T10:32:20.842075",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

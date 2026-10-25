@@ -18,7 +18,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "0ec5ff66-dc01-4087-bb82-1d01f3b1c1ce",
   "metadata_created": "2022-01-06T14:04:30.748968",
-  "metadata_modified": "2026-04-25T09:48:38.133008",
+  "metadata_modified": "2026-10-24T09:54:45.056078",
   "methodology": "Other",
   "methodology_other": "All stages of data collection and processing are publicly available, as described in both [peer-reviewed academic outlets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231866) and in the public code base available through [GitHub](https://github.com/wmgeolab/geoBoundaries).",
   "name": "geoboundaries-admin-boundaries-for-belarus",
@@ -39,14 +39,14 @@
   },
   "owner_org": "8be95204-f453-4b66-a4f6-dbe84cb0bdee",
   "package_creator": "geoboundaries",
-  "pageviews_last_14_days": 24,
+  "pageviews_last_14_days": 42,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Belarus\"]}",
   "state": "active",
   "subnational": "1",
   "title": "Belarus - Subnational Administrative Boundaries",
-  "total_res_downloads": 500,
+  "total_res_downloads": 585,
   "type": "dataset",
   "updated_by_script": "GeoBoundaries (2024-07-20T00:07:03.228754)",
   "url": null,
@@ -63,6 +63,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:30.758154",
@@ -74,7 +75,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BLR/ADM0/geoBoundaries-BLR-ADM0_simplified.geojson",
       "id": "e4cef3d5-0cb7-4514-9093-e6202082130f",
       "last_modified": "2025-08-26T13:57:25",
-      "metadata_modified": "2025-08-26T14:23:51.335479",
+      "metadata_modified": "2026-10-24T09:54:45.104024",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -90,6 +91,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:30.758160",
@@ -101,7 +103,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BLR/ADM0/geoBoundaries-BLR-ADM0.geojson",
       "id": "15300525-ed7e-4a5d-a94d-90d47bd6a448",
       "last_modified": "2025-08-26T13:57:25",
-      "metadata_modified": "2025-08-26T14:23:51.335579",
+      "metadata_modified": "2026-10-24T09:54:45.104266",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -145,6 +147,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:30.758164",
@@ -156,7 +159,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BLR/ADM0/geoBoundaries-BLR-ADM0-all.zip",
       "id": "c06f766f-9305-49d7-9da9-a9ed50054bf6",
       "last_modified": "2025-08-26T13:57:26",
-      "metadata_modified": "2025-08-26T14:23:51.335719",
+      "metadata_modified": "2026-10-24T09:54:45.104513",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -172,6 +175,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:30.758166",
@@ -183,7 +187,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BLR/ADM1/geoBoundaries-BLR-ADM1_simplified.geojson",
       "id": "c09b7180-3d2a-4ffd-8d8f-053915975f32",
       "last_modified": "2025-08-26T13:57:26",
-      "metadata_modified": "2025-08-26T14:23:51.335783",
+      "metadata_modified": "2026-10-24T09:54:45.104626",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -199,6 +203,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:30.758168",
@@ -210,7 +215,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BLR/ADM1/geoBoundaries-BLR-ADM1.geojson",
       "id": "5dcce8af-4a89-4370-b470-754b33da2f69",
       "last_modified": "2025-08-26T13:57:26",
-      "metadata_modified": "2025-08-26T14:23:51.335848",
+      "metadata_modified": "2026-10-24T09:54:45.104737",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -226,6 +231,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:30.758169",
@@ -237,7 +243,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BLR/ADM1/geoBoundaries-BLR-ADM1.topojson",
       "id": "d55db1e0-81d6-4db8-a8f2-c31da2e09a40",
       "last_modified": "2025-08-26T13:57:27",
-      "metadata_modified": "2025-08-26T14:23:51.335910",
+      "metadata_modified": "2026-10-24T09:54:45.104846",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -253,6 +259,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:30.758171",
@@ -264,7 +271,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BLR/ADM1/geoBoundaries-BLR-ADM1-all.zip",
       "id": "cb22599e-254a-4d8d-b263-b180520486e1",
       "last_modified": "2025-08-26T13:57:27",
-      "metadata_modified": "2025-08-26T14:23:51.335973",
+      "metadata_modified": "2026-10-24T09:54:45.104956",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -280,6 +287,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:30.758172",
@@ -291,7 +299,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BLR/ADM2/geoBoundaries-BLR-ADM2_simplified.geojson",
       "id": "3d617478-c32c-4245-95f5-f43dd0fe7913",
       "last_modified": "2025-08-26T13:57:27",
-      "metadata_modified": "2025-08-26T14:23:51.336035",
+      "metadata_modified": "2026-10-24T09:54:45.105067",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -307,6 +315,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:30.758174",
@@ -318,7 +327,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BLR/ADM2/geoBoundaries-BLR-ADM2.geojson",
       "id": "1fdee8f7-06f3-412c-b1a4-abd96d2aab89",
       "last_modified": "2025-08-26T13:57:27",
-      "metadata_modified": "2025-08-26T14:23:51.336132",
+      "metadata_modified": "2026-10-24T09:54:45.105176",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -334,6 +343,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:30.758176",
@@ -345,7 +355,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BLR/ADM2/geoBoundaries-BLR-ADM2.topojson",
       "id": "9943878e-6c34-475d-8a65-9bd2e0be0f8a",
       "last_modified": "2025-08-26T13:57:28",
-      "metadata_modified": "2025-08-26T14:23:51.336194",
+      "metadata_modified": "2026-10-24T09:54:45.105289",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -361,6 +371,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:04:30.758177",
@@ -372,7 +383,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BLR/ADM2/geoBoundaries-BLR-ADM2-all.zip",
       "id": "b7e8dc1a-5761-4202-9338-26b158d3d5c3",
       "last_modified": "2025-08-26T13:57:28",
-      "metadata_modified": "2025-08-26T14:23:51.336256",
+      "metadata_modified": "2026-10-24T09:54:45.105399",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

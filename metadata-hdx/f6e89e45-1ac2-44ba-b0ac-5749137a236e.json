@@ -18,7 +18,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "0ec5ff66-dc01-4087-bb82-1d01f3b1c1ce",
   "metadata_created": "2022-01-06T14:05:33.378570",
-  "metadata_modified": "2025-08-26T21:19:45.838628",
+  "metadata_modified": "2026-10-24T10:58:01.749378",
   "methodology": "Other",
   "methodology_other": "All stages of data collection and processing are publicly available, as described in both [peer-reviewed academic outlets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231866) and in the public code base available through [GitHub](https://github.com/wmgeolab/geoBoundaries).",
   "name": "geoboundaries-admin-boundaries-for-honduras",
@@ -39,14 +39,14 @@
   },
   "owner_org": "8be95204-f453-4b66-a4f6-dbe84cb0bdee",
   "package_creator": "geoboundaries",
-  "pageviews_last_14_days": 17,
+  "pageviews_last_14_days": 44,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Honduras\"]}",
   "state": "active",
   "subnational": "1",
   "title": "Honduras - Subnational Administrative Boundaries",
-  "total_res_downloads": 657,
+  "total_res_downloads": 802,
   "type": "dataset",
   "updated_by_script": "GeoBoundaries (2024-07-20T00:08:10.588548)",
   "url": null,
@@ -63,6 +63,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:33.385054",
@@ -74,7 +75,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/HND/ADM0/geoBoundaries-HND-ADM0_simplified.geojson",
       "id": "ee9d9597-30e6-4a26-a6da-b792450d31ef",
       "last_modified": "2025-08-26T17:01:39",
-      "metadata_modified": "2025-08-26T17:19:21.313846",
+      "metadata_modified": "2026-10-24T10:58:01.798359",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -90,6 +91,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:33.385061",
@@ -101,7 +103,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/HND/ADM0/geoBoundaries-HND-ADM0.geojson",
       "id": "f887505d-f524-4d09-b4bb-23b498810262",
       "last_modified": "2025-08-26T17:01:40",
-      "metadata_modified": "2025-08-26T17:19:21.314015",
+      "metadata_modified": "2026-10-24T10:58:01.799348",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -117,6 +119,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:33.385065",
@@ -128,7 +131,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/HND/ADM0/geoBoundaries-HND-ADM0.topojson",
       "id": "90a2edca-0681-49c1-9b4e-03610200740c",
       "last_modified": "2025-08-26T17:01:40",
-      "metadata_modified": "2025-08-26T17:19:21.314149",
+      "metadata_modified": "2026-10-24T10:58:01.800036",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -144,6 +147,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:33.385068",
@@ -155,7 +159,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/HND/ADM0/geoBoundaries-HND-ADM0-all.zip",
       "id": "07a26e38-3ba4-49ab-ac39-1b71074426c3",
       "last_modified": "2025-08-26T17:01:40",
-      "metadata_modified": "2025-08-26T17:19:21.314280",
+      "metadata_modified": "2026-10-24T10:58:01.800242",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -171,6 +175,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:33.385070",
@@ -182,7 +187,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/HND/ADM1/geoBoundaries-HND-ADM1_simplified.geojson",
       "id": "c1765671-9b33-4d4b-a4df-d7f9a534a454",
       "last_modified": "2025-08-26T17:01:40",
-      "metadata_modified": "2025-08-26T17:19:21.314407",
+      "metadata_modified": "2026-10-24T10:58:01.800332",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,6 +203,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:33.385073",
@@ -209,7 +215,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/HND/ADM1/geoBoundaries-HND-ADM1.geojson",
       "id": "1733dee1-2117-4faf-87a3-8667806fd580",
       "last_modified": "2025-08-26T17:01:41",
-      "metadata_modified": "2025-08-26T17:19:21.314536",
+      "metadata_modified": "2026-10-24T10:58:01.800436",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -225,6 +231,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:33.385076",
@@ -236,7 +243,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/HND/ADM1/geoBoundaries-HND-ADM1.topojson",
       "id": "04082874-e703-4bf2-948a-2d2ab9c3def8",
       "last_modified": "2025-08-26T17:01:41",
-      "metadata_modified": "2025-08-26T17:19:21.314661",
+      "metadata_modified": "2026-10-24T10:58:01.800544",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -252,6 +259,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:33.385078",
@@ -263,7 +271,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/HND/ADM1/geoBoundaries-HND-ADM1-all.zip",
       "id": "8b921b20-384b-4e2b-b7bf-b379634da943",
       "last_modified": "2025-08-26T17:01:41",
-      "metadata_modified": "2025-08-26T17:19:21.314789",
+      "metadata_modified": "2026-10-24T10:58:01.801853",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -279,6 +287,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:33.385081",
@@ -290,7 +299,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/905b0ba/releaseData/gbOpen/HND/ADM2/geoBoundaries-HND-ADM2_simplified.geojson",
       "id": "251a9a1d-dae7-4824-b2ce-66ca10a1205b",
       "last_modified": "2025-08-26T17:01:41",
-      "metadata_modified": "2025-08-26T17:19:21.314925",
+      "metadata_modified": "2026-10-24T10:58:01.801987",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -306,6 +315,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:33.385084",
@@ -317,7 +327,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/905b0ba/releaseData/gbOpen/HND/ADM2/geoBoundaries-HND-ADM2.geojson",
       "id": "e0e437db-645a-41d6-b6e0-dd0126af7bbe",
       "last_modified": "2025-08-26T17:01:42",
-      "metadata_modified": "2025-08-26T17:19:21.315054",
+      "metadata_modified": "2026-10-24T10:58:01.802105",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -333,6 +343,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:33.385087",
@@ -344,7 +355,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/905b0ba/releaseData/gbOpen/HND/ADM2/geoBoundaries-HND-ADM2.topojson",
       "id": "a7e208f4-3253-43b3-a13a-1413e21566ba",
       "last_modified": "2025-08-26T17:01:42",
-      "metadata_modified": "2025-08-26T17:19:21.315181",
+      "metadata_modified": "2026-10-24T10:58:01.802263",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -360,6 +371,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:05:33.385089",
@@ -371,7 +383,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/905b0ba/releaseData/gbOpen/HND/ADM2/geoBoundaries-HND-ADM2-all.zip",
       "id": "c3864e67-68a5-42b6-944b-212e7f4cd7e3",
       "last_modified": "2025-08-26T17:01:42",
-      "metadata_modified": "2025-08-26T17:19:21.315308",
+      "metadata_modified": "2026-10-24T10:58:01.802384",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

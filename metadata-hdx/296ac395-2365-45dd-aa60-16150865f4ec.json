@@ -18,7 +18,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "0ec5ff66-dc01-4087-bb82-1d01f3b1c1ce",
   "metadata_created": "2022-01-06T14:08:00.372299",
-  "metadata_modified": "2026-10-22T09:10:46.060874",
+  "metadata_modified": "2026-10-24T09:05:43.294687",
   "methodology": "Other",
   "methodology_other": "All stages of data collection and processing are publicly available, as described in both [peer-reviewed academic outlets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231866) and in the public code base available through [GitHub](https://github.com/wmgeolab/geoBoundaries).",
   "name": "geoboundaries-admin-boundaries-for-nauru",
@@ -39,14 +39,14 @@
   },
   "owner_org": "8be95204-f453-4b66-a4f6-dbe84cb0bdee",
   "package_creator": "geoboundaries",
-  "pageviews_last_14_days": 20,
+  "pageviews_last_14_days": 22,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Naoero\"]}",
   "state": "active",
   "subnational": "1",
   "title": "Nauru - Subnational Administrative Boundaries",
-  "total_res_downloads": 171,
+  "total_res_downloads": 172,
   "type": "dataset",
   "updated_by_script": "GeoBoundaries (2024-07-20T00:09:23.797391)",
   "url": null,
@@ -63,6 +63,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:00.383623",
@@ -74,7 +75,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NRU/ADM0/geoBoundaries-NRU-ADM0_simplified.geojson",
       "id": "3ec01524-af78-4e60-82cc-9d02e7d5d260",
       "last_modified": "2025-08-26T11:42:02",
-      "metadata_modified": "2025-08-26T12:04:29.588826",
+      "metadata_modified": "2026-10-24T09:05:43.316462",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -116,6 +117,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:00.383635",
@@ -127,7 +129,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NRU/ADM0/geoBoundaries-NRU-ADM0.topojson",
       "id": "b0eecd18-3a67-4258-86ca-073f64bcb2d0",
       "last_modified": "2025-08-26T11:42:03",
-      "metadata_modified": "2025-08-26T12:04:29.589006",
+      "metadata_modified": "2026-10-24T09:05:43.316654",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -142,6 +144,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:00.383638",
@@ -153,7 +156,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NRU/ADM0/geoBoundaries-NRU-ADM0-all.zip",
       "id": "044b7882-7ffe-40d1-93b0-1c8c9a87740a",
       "last_modified": "2025-08-26T11:42:03",
-      "metadata_modified": "2025-08-26T12:04:29.589078",
+      "metadata_modified": "2026-10-24T09:05:43.316733",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -168,6 +171,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:00.383641",
@@ -179,7 +183,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NRU/ADM1/geoBoundaries-NRU-ADM1_simplified.geojson",
       "id": "e3a08d57-f25b-4a16-b421-0ac3cc4023cc",
       "last_modified": "2025-08-26T11:42:03",
-      "metadata_modified": "2025-08-26T12:04:29.589146",
+      "metadata_modified": "2026-10-24T09:05:43.316798",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -221,6 +225,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:00.383647",
@@ -232,7 +237,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NRU/ADM1/geoBoundaries-NRU-ADM1.topojson",
       "id": "4dfaf443-d75a-4fb7-9d30-ab578354487a",
       "last_modified": "2025-08-26T11:42:03",
-      "metadata_modified": "2025-08-26T12:04:29.589279",
+      "metadata_modified": "2026-10-24T09:05:43.316945",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -247,6 +252,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:00.383649",
@@ -258,7 +264,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NRU/ADM1/geoBoundaries-NRU-ADM1-all.zip",
       "id": "0ceab6e4-dc1c-455c-8ecf-4dfdde330229",
       "last_modified": "2025-08-26T11:42:04",
-      "metadata_modified": "2025-08-26T12:04:29.589346",
+      "metadata_modified": "2026-10-24T09:05:43.317052",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

@@ -18,7 +18,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "0ec5ff66-dc01-4087-bb82-1d01f3b1c1ce",
   "metadata_created": "2022-01-06T14:10:04.963065",
-  "metadata_modified": "2026-08-30T09:32:45.145982",
+  "metadata_modified": "2026-10-24T09:32:12.179440",
   "methodology": "Other",
   "methodology_other": "All stages of data collection and processing are publicly available, as described in both [peer-reviewed academic outlets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231866) and in the public code base available through [GitHub](https://github.com/wmgeolab/geoBoundaries).",
   "name": "geoboundaries-admin-boundaries-for-tonga",
@@ -39,14 +39,14 @@
   },
   "owner_org": "8be95204-f453-4b66-a4f6-dbe84cb0bdee",
   "package_creator": "geoboundaries",
-  "pageviews_last_14_days": 1,
+  "pageviews_last_14_days": 25,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Tonga\"]}",
   "state": "active",
   "subnational": "1",
   "title": "Tonga - Subnational Administrative Boundaries",
-  "total_res_downloads": 143,
+  "total_res_downloads": 147,
   "type": "dataset",
   "updated_by_script": "GeoBoundaries (2024-07-20T00:10:09.447361)",
   "url": null,
@@ -63,6 +63,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:05.004384",
@@ -74,7 +75,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TON/ADM0/geoBoundaries-TON-ADM0_simplified.geojson",
       "id": "9ab45971-8e16-4b8d-9944-b5db0260aa81",
       "last_modified": "2025-08-26T12:50:17",
-      "metadata_modified": "2025-08-26T13:08:12.661226",
+      "metadata_modified": "2026-10-24T09:32:12.227410",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -118,6 +119,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:05.004392",
@@ -129,7 +131,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TON/ADM0/geoBoundaries-TON-ADM0.topojson",
       "id": "606c80f8-fddf-464b-9cf8-44845db87f24",
       "last_modified": "2025-08-26T12:50:17",
-      "metadata_modified": "2025-08-26T13:08:12.661406",
+      "metadata_modified": "2026-10-24T09:32:12.227737",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -145,6 +147,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:05.004394",
@@ -156,7 +159,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TON/ADM0/geoBoundaries-TON-ADM0-all.zip",
       "id": "73db910e-90dd-4f9b-9b83-0938ee239c77",
       "last_modified": "2025-08-26T12:50:17",
-      "metadata_modified": "2025-08-26T13:08:12.661477",
+      "metadata_modified": "2026-10-24T09:32:12.227908",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -284,6 +287,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:05.004402",
@@ -295,7 +299,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TON/ADM2/geoBoundaries-TON-ADM2_simplified.geojson",
       "id": "96b572e8-dbde-4095-b0d5-d2cde2b5a762",
       "last_modified": "2025-08-26T12:50:19",
-      "metadata_modified": "2025-08-26T13:08:12.661946",
+      "metadata_modified": "2026-10-24T09:32:12.228257",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -311,6 +315,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:05.004403",
@@ -322,7 +327,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TON/ADM2/geoBoundaries-TON-ADM2.geojson",
       "id": "75d527cd-ba76-4672-9936-be4daca1d481",
       "last_modified": "2025-08-26T12:50:19",
-      "metadata_modified": "2025-08-26T13:08:12.662063",
+      "metadata_modified": "2026-10-24T09:32:12.228318",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -338,6 +343,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:05.004405",
@@ -349,7 +355,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TON/ADM2/geoBoundaries-TON-ADM2.topojson",
       "id": "3eeb9d2c-f689-45d0-b4b3-07498a35aa24",
       "last_modified": "2025-08-26T12:50:19",
-      "metadata_modified": "2025-08-26T13:08:12.662173",
+      "metadata_modified": "2026-10-24T09:32:12.228377",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -365,6 +371,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:10:05.004406",
@@ -376,7 +383,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/TON/ADM2/geoBoundaries-TON-ADM2-all.zip",
       "id": "3bb17441-a0b6-4a17-841b-66d0eb16cb4a",
       "last_modified": "2025-08-26T12:50:19",
-      "metadata_modified": "2025-08-26T13:08:12.662335",
+      "metadata_modified": "2026-10-24T09:32:12.228472",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

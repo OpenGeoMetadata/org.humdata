@@ -18,7 +18,7 @@
   "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
   "maintainer": "0ec5ff66-dc01-4087-bb82-1d01f3b1c1ce",
   "metadata_created": "2022-01-06T14:08:04.032408",
-  "metadata_modified": "2026-03-09T09:52:42.944715",
+  "metadata_modified": "2026-10-24T09:54:46.975453",
   "methodology": "Other",
   "methodology_other": "All stages of data collection and processing are publicly available, as described in both [peer-reviewed academic outlets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231866) and in the public code base available through [GitHub](https://github.com/wmgeolab/geoBoundaries).",
   "name": "geoboundaries-admin-boundaries-for-pakistan",
@@ -39,14 +39,14 @@
   },
   "owner_org": "8be95204-f453-4b66-a4f6-dbe84cb0bdee",
   "package_creator": "geoboundaries",
-  "pageviews_last_14_days": 52,
+  "pageviews_last_14_days": 109,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Pakistan\"]}",
   "state": "active",
   "subnational": "1",
   "title": "Pakistan - Subnational Administrative Boundaries",
-  "total_res_downloads": 3913,
+  "total_res_downloads": 4368,
   "type": "dataset",
   "updated_by_script": "GeoBoundaries (2024-07-20T00:09:25.333647)",
   "url": null,
@@ -63,6 +63,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:04.044643",
@@ -74,7 +75,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PAK/ADM0/geoBoundaries-PAK-ADM0_simplified.geojson",
       "id": "d32b09dd-e5a1-42e0-b4f5-f7d10a3fc003",
       "last_modified": "2025-08-26T13:57:36",
-      "metadata_modified": "2025-08-26T14:24:41.407855",
+      "metadata_modified": "2026-10-24T09:54:47.000700",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -146,6 +147,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:04.044653",
@@ -157,7 +159,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PAK/ADM0/geoBoundaries-PAK-ADM0-all.zip",
       "id": "7e3160e9-5810-4d1d-82db-b369152a8820",
       "last_modified": "2025-08-26T13:57:37",
-      "metadata_modified": "2025-08-26T14:24:41.408459",
+      "metadata_modified": "2026-10-24T09:54:47.000936",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -229,6 +231,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:04.044658",
@@ -240,7 +243,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PAK/ADM1/geoBoundaries-PAK-ADM1.topojson",
       "id": "f2828645-ea48-4c72-a573-7e69033b4c65",
       "last_modified": "2025-08-26T13:57:38",
-      "metadata_modified": "2025-08-26T14:24:41.409795",
+      "metadata_modified": "2026-10-24T09:54:47.001120",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -340,6 +343,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:04.044665",
@@ -351,7 +355,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PAK/ADM2/geoBoundaries-PAK-ADM2.topojson",
       "id": "6848abd9-2f37-438c-85ed-4baa91337f9a",
       "last_modified": "2025-08-26T13:57:39",
-      "metadata_modified": "2025-08-26T14:24:41.410365",
+      "metadata_modified": "2026-10-24T09:54:47.001353",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -423,6 +427,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:04.044669",
@@ -434,7 +439,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PAK/ADM3/geoBoundaries-PAK-ADM3.geojson",
       "id": "57ae9f20-f600-42d3-92d7-ac409097bc92",
       "last_modified": "2025-08-26T13:57:39",
-      "metadata_modified": "2025-08-26T14:24:41.410812",
+      "metadata_modified": "2026-10-24T09:54:47.001551",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -478,6 +483,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2022-01-06T14:08:04.044672",
@@ -489,7 +495,7 @@
       "hdx_rel_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/PAK/ADM3/geoBoundaries-PAK-ADM3-all.zip",
       "id": "d4a81a04-0089-4f71-ae72-4da4395afb87",
       "last_modified": "2025-08-26T13:57:40",
-      "metadata_modified": "2025-08-26T14:24:41.411230",
+      "metadata_modified": "2026-10-24T09:54:47.001668",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

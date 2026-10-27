@@ -1,0 +1,43 @@
+{
+  "id": "hdx-56c60e63-a8e7-45b8-956e-e1d9f55e8e7e",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-26T13:09:26Z",
+  "dct_title_s": "Madagascar: Acute Food Insecurity Classification (February 2018 - August 2018)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Current (February 2018) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (February 2018 - May 2018) and medium term (June 2018 - August 2018) periods."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "FEWS NET"
+  ],
+  "dcat_keyword_sm": [
+    "food security",
+    "geodata",
+    "integrated food security phase classification-ipc"
+  ],
+  "dct_subject_sm": [
+    "food security",
+    "geodata",
+    "integrated food security phase classification-ipc"
+  ],
+  "dct_spatial_sm": [
+    "Madagascar"
+  ],
+  "locn_geometry": "ENVELOPE(43.25, 50.48, -12.04, -25.6)",
+  "dcat_bbox": "ENVELOPE(43.25, 50.48, -12.04, -25.6)",
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "gbl_indexYear_im": [
+    2018
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/madagascar-acute-food-insecurity-classification-february-2018-august-2018\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcpackage/country/MG/2018-02-01/\",\"label\":\"Madagascar Acute Food Insecurity Classification Shapefile February 2018 (.zip) (zip)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/MG/2018-02-01.geojson\",\"label\":\"Madagascar Acute Food Insecurity Classification February 2018 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2018-02-01&dataseries__geographic_unit__country=MG&dataseries__ipcclassification__scenario=CS\",\"label\":\"Current Situation: February 2018 (.png) (PNG)\"},{\"url\":\"https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2018-02-01&dataseries__geographic_unit__country=MG&dataseries__ipcclassification__scenario=ML1\",\"label\":\"Near Term Projection: February 2018 - May 2018 (.png) (PNG)\"},{\"url\":\"https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2018-02-01&dataseries__geographic_unit__country=MG&dataseries__ipcclassification__scenario=ML2\",\"label\":\"Medium Term Projection: June 2018 - August 2018 (.png) (PNG)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/MG/CS/2018-02-01.kml\",\"label\":\"Current Situation: February 2018 (.kml) (KML)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/MG/ML1/2018-02-01.kml\",\"label\":\"Near Term Projection: February 2018 - May 2018 (.kml) (KML)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/MG/ML2/2018-02-01.kml\",\"label\":\"Medium Term Projection: June 2018 - August 2018 (.kml) (KML)\"}],\"http://geojson.org/geojson-spec.html\":\"https://fdw.fews.net/api/ipcphasemap/country/MG/2018-02-01.geojson\"}"
+}

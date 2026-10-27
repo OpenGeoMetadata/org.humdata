@@ -19,7 +19,7 @@
   "license_title": "Other",
   "maintainer": "196196be-6037-4488-8b71-d786adf4c081",
   "metadata_created": "2026-02-19T20:59:49.608235",
-  "metadata_modified": "2026-10-24T09:48:44.020304",
+  "metadata_modified": "2026-10-26T09:56:25.590803",
   "methodology": "Other",
   "methodology_other": "The WDPCA is a joint project between UN Environment Programme and the International Union for Conservation of Nature (IUCN). The compilation and management of the WDPCA is carried out by UN Environment Programme World Conservation Monitoring Centre (UNEP-WCMC), in collaboration with governments, non-governmental organisations, academia and industry. More on methodology can be found [here](https://www.protectedplanet.net/en/thematic-areas/WDPCA?tab=Methodology).\n",
   "name": "unep_wdpca_hrv",
@@ -40,7 +40,7 @@
   },
   "owner_org": "ca802a27-cc96-4c7b-aab2-a494a0fa64c9",
   "package_creator": "HDX Data Systems Team",
-  "pageviews_last_14_days": 33,
+  "pageviews_last_14_days": 26,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Croatia\"]}",
@@ -65,6 +65,7 @@
   "resources": [
     {
       "alt_url": "https://data.humdata.org/dataset/7c009fae-eeb2-4f03-b5f0-c12a7a5602f4/resource/835a9eef-4d6f-4cec-b38a-6677a22a37fe/download/",
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-02-19T20:59:49.613186",
@@ -77,7 +78,7 @@
       "hdx_rel_url": "https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geojson?layers=0&where=ISO3+%3D+%27HRV%27&redirect=true&spatialRefId=4326",
       "id": "835a9eef-4d6f-4cec-b38a-6677a22a37fe",
       "last_modified": "2026-10-23T01:43:21.612925",
-      "metadata_modified": "2026-10-24T09:48:44.044586",
+      "metadata_modified": "2026-10-26T09:56:25.608516",
       "microdata": false,
       "mimetype": "application/vnd.geo+json",
       "mimetype_inner": null,
@@ -93,6 +94,7 @@
     },
     {
       "alt_url": "https://data.humdata.org/dataset/7c009fae-eeb2-4f03-b5f0-c12a7a5602f4/resource/e09b591d-fea0-479b-9082-af8eefce1354/download/",
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-02-19T20:59:49.613189",
@@ -106,7 +108,7 @@
       "hdx_rel_url": "https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/csv?layers=0&where=ISO3+%3D+%27HRV%27&redirect=true",
       "id": "e09b591d-fea0-479b-9082-af8eefce1354",
       "last_modified": "2026-10-23T01:43:21.614902",
-      "metadata_modified": "2026-10-24T09:48:44.044694",
+      "metadata_modified": "2026-10-26T09:56:25.608682",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,6 +150,7 @@
     },
     {
       "alt_url": "https://data.humdata.org/dataset/7c009fae-eeb2-4f03-b5f0-c12a7a5602f4/resource/b3001a6c-caed-4c7c-a380-713ad932a67a/download/",
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-02-19T20:59:49.613197",
@@ -160,7 +163,7 @@
       "hdx_rel_url": "https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geojson?layers=1&where=ISO3+%3D+%27HRV%27&redirect=true&spatialRefId=4326",
       "id": "b3001a6c-caed-4c7c-a380-713ad932a67a",
       "last_modified": "2026-10-23T01:43:21.617580",
-      "metadata_modified": "2026-10-24T09:48:44.044835",
+      "metadata_modified": "2026-10-26T09:56:25.608912",
       "microdata": false,
       "mimetype": "application/vnd.geo+json",
       "mimetype_inner": null,
@@ -230,6 +233,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-23T01:43:21.929008",
@@ -242,7 +246,7 @@
       "hdx_rel_url": "https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geopackage?layers=0&where=ISO3+%3D+%27HRV%27&redirect=true&spatialRefId=4326",
       "id": "4f2c6ea0-6d7c-4e87-bf2c-337cae233d7f",
       "last_modified": "2026-10-23T01:43:21.653103",
-      "metadata_modified": "2026-10-24T09:48:44.045022",
+      "metadata_modified": "2026-10-26T09:56:25.609234",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -256,6 +260,7 @@
       "url_type": "api"
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-23T01:43:21.929016",
@@ -268,7 +273,7 @@
       "hdx_rel_url": "https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geopackage?layers=1&where=ISO3+%3D+%27HRV%27&redirect=true&spatialRefId=4326",
       "id": "0018ab10-f7fa-44f0-8999-48b8710805fc",
       "last_modified": "2026-10-23T01:43:21.653209",
-      "metadata_modified": "2026-10-24T09:48:44.045098",
+      "metadata_modified": "2026-10-26T09:56:25.609336",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

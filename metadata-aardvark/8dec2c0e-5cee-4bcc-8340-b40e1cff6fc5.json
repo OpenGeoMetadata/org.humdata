@@ -1,0 +1,43 @@
+{
+  "id": "hdx-8dec2c0e-5cee-4bcc-8340-b40e1cff6fc5",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-26T21:22:46Z",
+  "dct_title_s": "Vanuatu - Earthquake on Oct 25 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us6000u4rf](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us6000u4rf) Magnitude 6.2 earthquake at 136.298 depth occurred on Oct 25 2026 56km N of Luganville. The epicentre of the earthquake was located at latitude -15.0125 longitude 167.2692. It impacted 7444 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Vanuatu"
+  ],
+  "locn_geometry": "ENVELOPE(166.63, 167.84, -14.63, -16.6)",
+  "dcat_bbox": "ENVELOPE(166.63, 167.84, -14.63, -16.6)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/vut-earthquake-sm-us6000u4rf\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/8dec2c0e-5cee-4bcc-8340-b40e1cff6fc5/resource/9fd1cbfe-3fb2-436e-9e0c-721a9966a00a/download/vut_wfpadam_earthquake_20261025.geojson\",\"label\":\"vut_wfpadam_earthquake_20261025.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/8dec2c0e-5cee-4bcc-8340-b40e1cff6fc5/resource/c21d0202-dcf3-4f7d-b219-b43369954704/download/vut_wfpadam_earthquake_20261025.csv\",\"label\":\"vut_wfpadam_earthquake_20261025.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/8dec2c0e-5cee-4bcc-8340-b40e1cff6fc5/resource/e91ca4ac-5ae0-4df5-9241-200bb14b43cf/download/vut_wfpadam_earthquake_20261025.xlsx\",\"label\":\"vut_wfpadam_earthquake_20261025.xlsx (XLSX)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/8dec2c0e-5cee-4bcc-8340-b40e1cff6fc5/resource/9fd1cbfe-3fb2-436e-9e0c-721a9966a00a/download/vut_wfpadam_earthquake_20261025.geojson\"}"
+}

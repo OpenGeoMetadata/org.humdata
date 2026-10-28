@@ -1,0 +1,44 @@
+{
+  "id": "hdx-1d9843c9-f950-48ad-b18c-399d6e1482ee",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-27T23:46:51Z",
+  "dct_title_s": "South Sudan: Acute Food Insecurity Classification (July 2023 - January 2024)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Forward-looking analysis representing the most likely food security outcomes for the near term (July 2023 - September 2023) and medium term (October 2023 - January 2024) periods."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "FEWS NET"
+  ],
+  "dcat_keyword_sm": [
+    "food security",
+    "geodata",
+    "integrated food security phase classification-ipc"
+  ],
+  "dct_subject_sm": [
+    "food security",
+    "geodata",
+    "integrated food security phase classification-ipc"
+  ],
+  "dct_spatial_sm": [
+    "South Sudan"
+  ],
+  "locn_geometry": "ENVELOPE(23.89, 35.3, 12.25, 3.51)",
+  "dcat_bbox": "ENVELOPE(23.89, 35.3, 12.25, 3.51)",
+  "dct_temporal_sm": [
+    "2023-2024"
+  ],
+  "gbl_indexYear_im": [
+    2023,
+    2024
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/south-sudan-acute-food-insecurity-classification-july-2023-january-2024\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcpackage/country/SS/2023-07-01/\",\"label\":\"South Sudan Acute Food Insecurity Classification Shapefile July 2023 (.zip) (zip)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/SS/2023-07-01.geojson\",\"label\":\"South Sudan Acute Food Insecurity Classification July 2023 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-07-01&dataseries__geographic_unit__country=SS&dataseries__ipcclassification__scenario=ML1\",\"label\":\"Near Term Projection: July 2023 - September 2023 (.png) (PNG)\"},{\"url\":\"https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-07-01&dataseries__geographic_unit__country=SS&dataseries__ipcclassification__scenario=ML2\",\"label\":\"Medium Term Projection: October 2023 - January 2024 (.png) (PNG)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/SS/ML1/2023-07-01.kml\",\"label\":\"Near Term Projection: July 2023 - September 2023 (.kml) (KML)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/SS/ML2/2023-07-01.kml\",\"label\":\"Medium Term Projection: October 2023 - January 2024 (.kml) (KML)\"}],\"http://geojson.org/geojson-spec.html\":\"https://fdw.fews.net/api/ipcphasemap/country/SS/2023-07-01.geojson\"}"
+}

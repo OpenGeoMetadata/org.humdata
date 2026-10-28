@@ -1,0 +1,44 @@
+{
+  "id": "hdx-e98768c3-872b-431c-b550-8595fa524327",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-27T23:34:24Z",
+  "dct_title_s": "South Sudan: Acute Food Insecurity Classification (September 2020 - January 2021)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Forward-looking analysis representing the most likely food security outcomes for the near term (September 2020) and medium term (October 2020 - January 2021) periods."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "FEWS NET"
+  ],
+  "dcat_keyword_sm": [
+    "food security",
+    "geodata",
+    "integrated food security phase classification-ipc"
+  ],
+  "dct_subject_sm": [
+    "food security",
+    "geodata",
+    "integrated food security phase classification-ipc"
+  ],
+  "dct_spatial_sm": [
+    "South Sudan"
+  ],
+  "locn_geometry": "ENVELOPE(23.89, 35.3, 12.25, 3.51)",
+  "dcat_bbox": "ENVELOPE(23.89, 35.3, 12.25, 3.51)",
+  "dct_temporal_sm": [
+    "2020-2021"
+  ],
+  "gbl_indexYear_im": [
+    2020,
+    2021
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/south-sudan-acute-food-insecurity-classification-september-2020-january-2021\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcpackage/country/SS/2020-09-01/\",\"label\":\"South Sudan Acute Food Insecurity Classification Shapefile September 2020 (.zip) (zip)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/SS/2020-09-01.geojson\",\"label\":\"South Sudan Acute Food Insecurity Classification September 2020 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2020-09-01&dataseries__geographic_unit__country=SS&dataseries__ipcclassification__scenario=ML1\",\"label\":\"Near Term Projection: September 2020 (.png) (PNG)\"},{\"url\":\"https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2020-09-01&dataseries__geographic_unit__country=SS&dataseries__ipcclassification__scenario=ML2\",\"label\":\"Medium Term Projection: October 2020 - January 2021 (.png) (PNG)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/SS/ML1/2020-09-01.kml\",\"label\":\"Near Term Projection: September 2020 (.kml) (KML)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/SS/ML2/2020-09-01.kml\",\"label\":\"Medium Term Projection: October 2020 - January 2021 (.kml) (KML)\"}],\"http://geojson.org/geojson-spec.html\":\"https://fdw.fews.net/api/ipcphasemap/country/SS/2020-09-01.geojson\"}"
+}

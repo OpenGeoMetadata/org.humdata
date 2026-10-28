@@ -1,0 +1,44 @@
+{
+  "id": "hdx-6aa0135c-63f9-47b0-b93b-901e186bb58a",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-27T19:55:23Z",
+  "dct_title_s": "Yemen: Acute Food Insecurity Classification (August 2022 - January 2023)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Forward-looking analysis representing the most likely food security outcomes for the near term (August 2022 - September 2022) and medium term (October 2022 - January 2023) periods."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "FEWS NET"
+  ],
+  "dcat_keyword_sm": [
+    "food security",
+    "geodata",
+    "integrated food security phase classification-ipc"
+  ],
+  "dct_subject_sm": [
+    "food security",
+    "geodata",
+    "integrated food security phase classification-ipc"
+  ],
+  "dct_spatial_sm": [
+    "Yemen"
+  ],
+  "locn_geometry": "ENVELOPE(42.6, 53.11, 19.0, 12.59)",
+  "dcat_bbox": "ENVELOPE(42.6, 53.11, 19.0, 12.59)",
+  "dct_temporal_sm": [
+    "2022-2023"
+  ],
+  "gbl_indexYear_im": [
+    2022,
+    2023
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/yemen-acute-food-insecurity-classification-august-2022-january-2023\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcpackage/country/YE/2022-08-01/\",\"label\":\"Yemen Acute Food Insecurity Classification Shapefile August 2022 (.zip) (zip)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/YE/2022-08-01.geojson\",\"label\":\"Yemen Acute Food Insecurity Classification August 2022 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-08-01&dataseries__geographic_unit__country=YE&dataseries__ipcclassification__scenario=ML1\",\"label\":\"Near Term Projection: August 2022 - September 2022 (.png) (PNG)\"},{\"url\":\"https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-08-01&dataseries__geographic_unit__country=YE&dataseries__ipcclassification__scenario=ML2\",\"label\":\"Medium Term Projection: October 2022 - January 2023 (.png) (PNG)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/YE/ML1/2022-08-01.kml\",\"label\":\"Near Term Projection: August 2022 - September 2022 (.kml) (KML)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/YE/ML2/2022-08-01.kml\",\"label\":\"Medium Term Projection: October 2022 - January 2023 (.kml) (KML)\"}],\"http://geojson.org/geojson-spec.html\":\"https://fdw.fews.net/api/ipcphasemap/country/YE/2022-08-01.geojson\"}"
+}

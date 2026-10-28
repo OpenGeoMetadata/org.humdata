@@ -1,0 +1,43 @@
+{
+  "id": "hdx-11c3a5f9-bc8d-45ac-810b-54dc5e4f4be4",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-27T18:17:40Z",
+  "dct_title_s": "South Sudan: Acute Food Insecurity Classification (April 2012 - September 2012)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Current (April 2012) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (April 2012 - June 2012) and medium term (July 2012 - September 2012) periods."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "FEWS NET"
+  ],
+  "dcat_keyword_sm": [
+    "food security",
+    "geodata",
+    "integrated food security phase classification-ipc"
+  ],
+  "dct_subject_sm": [
+    "food security",
+    "geodata",
+    "integrated food security phase classification-ipc"
+  ],
+  "dct_spatial_sm": [
+    "South Sudan"
+  ],
+  "locn_geometry": "ENVELOPE(23.89, 35.3, 12.25, 3.51)",
+  "dcat_bbox": "ENVELOPE(23.89, 35.3, 12.25, 3.51)",
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "gbl_indexYear_im": [
+    2012
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/south-sudan-acute-food-insecurity-classification-april-2012-september-2012\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcpackage/country/SS/2012-04-01/\",\"label\":\"South Sudan Acute Food Insecurity Classification Shapefile April 2012 (.zip) (zip)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/SS/2012-04-01.geojson\",\"label\":\"South Sudan Acute Food Insecurity Classification April 2012 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2012-04-01&dataseries__geographic_unit__country=SS&dataseries__ipcclassification__scenario=CS\",\"label\":\"Current Situation: April 2012 (.png) (PNG)\"},{\"url\":\"https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2012-04-01&dataseries__geographic_unit__country=SS&dataseries__ipcclassification__scenario=ML1\",\"label\":\"Near Term Projection: April 2012 - June 2012 (.png) (PNG)\"},{\"url\":\"https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2012-04-01&dataseries__geographic_unit__country=SS&dataseries__ipcclassification__scenario=ML2\",\"label\":\"Medium Term Projection: July 2012 - September 2012 (.png) (PNG)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/SS/CS/2012-04-01.kml\",\"label\":\"Current Situation: April 2012 (.kml) (KML)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/SS/ML1/2012-04-01.kml\",\"label\":\"Near Term Projection: April 2012 - June 2012 (.kml) (KML)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/SS/ML2/2012-04-01.kml\",\"label\":\"Medium Term Projection: July 2012 - September 2012 (.kml) (KML)\"}],\"http://geojson.org/geojson-spec.html\":\"https://fdw.fews.net/api/ipcphasemap/country/SS/2012-04-01.geojson\"}"
+}

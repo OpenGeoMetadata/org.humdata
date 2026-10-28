@@ -1,0 +1,43 @@
+{
+  "id": "hdx-22de6ac8-bb18-45f4-8d95-c3263f0613cf",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-27T16:55:38Z",
+  "dct_title_s": "Malawi: Acute Food Insecurity Classification (February 2016 - August 2016)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Current (February 2016) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (February 2016 - May 2016) and medium term (June 2016 - August 2016) periods."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "FEWS NET"
+  ],
+  "dcat_keyword_sm": [
+    "food security",
+    "geodata",
+    "integrated food security phase classification-ipc"
+  ],
+  "dct_subject_sm": [
+    "food security",
+    "geodata",
+    "integrated food security phase classification-ipc"
+  ],
+  "dct_spatial_sm": [
+    "Malawi"
+  ],
+  "locn_geometry": "ENVELOPE(32.69, 35.77, -9.23, -16.8)",
+  "dcat_bbox": "ENVELOPE(32.69, 35.77, -9.23, -16.8)",
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "gbl_indexYear_im": [
+    2016
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/malawi-acute-food-insecurity-classification-february-2016-august-2016\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcpackage/country/MW/2016-02-01/\",\"label\":\"Malawi Acute Food Insecurity Classification Shapefile February 2016 (.zip) (zip)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/MW/2016-02-01.geojson\",\"label\":\"Malawi Acute Food Insecurity Classification February 2016 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2016-02-01&dataseries__geographic_unit__country=MW&dataseries__ipcclassification__scenario=CS\",\"label\":\"Current Situation: February 2016 (.png) (PNG)\"},{\"url\":\"https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2016-02-01&dataseries__geographic_unit__country=MW&dataseries__ipcclassification__scenario=ML1\",\"label\":\"Near Term Projection: February 2016 - May 2016 (.png) (PNG)\"},{\"url\":\"https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2016-02-01&dataseries__geographic_unit__country=MW&dataseries__ipcclassification__scenario=ML2\",\"label\":\"Medium Term Projection: June 2016 - August 2016 (.png) (PNG)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/MW/CS/2016-02-01.kml\",\"label\":\"Current Situation: February 2016 (.kml) (KML)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/MW/ML1/2016-02-01.kml\",\"label\":\"Near Term Projection: February 2016 - May 2016 (.kml) (KML)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/MW/ML2/2016-02-01.kml\",\"label\":\"Medium Term Projection: June 2016 - August 2016 (.kml) (KML)\"}],\"http://geojson.org/geojson-spec.html\":\"https://fdw.fews.net/api/ipcphasemap/country/MW/2016-02-01.geojson\"}"
+}

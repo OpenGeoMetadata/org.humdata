@@ -1,0 +1,44 @@
+{
+  "id": "hdx-e0a91506-1007-4e5b-b71f-9332f873a873",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-28T05:54:01Z",
+  "dct_title_s": "Cameroon: Acute Food Insecurity Classification (June 2022 - January 2023)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Current (June 2022) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (June 2022 - September 2022) and medium term (October 2022 - January 2023) periods."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "FEWS NET"
+  ],
+  "dcat_keyword_sm": [
+    "food security",
+    "geodata",
+    "integrated food security phase classification-ipc"
+  ],
+  "dct_subject_sm": [
+    "food security",
+    "geodata",
+    "integrated food security phase classification-ipc"
+  ],
+  "dct_spatial_sm": [
+    "Cameroon"
+  ],
+  "locn_geometry": "ENVELOPE(8.49, 16.01, 12.86, 1.73)",
+  "dcat_bbox": "ENVELOPE(8.49, 16.01, 12.86, 1.73)",
+  "dct_temporal_sm": [
+    "2022-2023"
+  ],
+  "gbl_indexYear_im": [
+    2022,
+    2023
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cameroon-acute-food-insecurity-classification-june-2022-january-2023\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcpackage/country/CM/2022-06-01/\",\"label\":\"Cameroon Acute Food Insecurity Classification Shapefile June 2022 (.zip) (zip)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/CM/2022-06-01.geojson\",\"label\":\"Cameroon Acute Food Insecurity Classification June 2022 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-06-01&dataseries__geographic_unit__country=CM&dataseries__ipcclassification__scenario=CS\",\"label\":\"Current Situation: June 2022 (.png) (PNG)\"},{\"url\":\"https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-06-01&dataseries__geographic_unit__country=CM&dataseries__ipcclassification__scenario=ML1\",\"label\":\"Near Term Projection: June 2022 - September 2022 (.png) (PNG)\"},{\"url\":\"https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-06-01&dataseries__geographic_unit__country=CM&dataseries__ipcclassification__scenario=ML2\",\"label\":\"Medium Term Projection: October 2022 - January 2023 (.png) (PNG)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/CM/CS/2022-06-01.kml\",\"label\":\"Current Situation: June 2022 (.kml) (KML)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/CM/ML1/2022-06-01.kml\",\"label\":\"Near Term Projection: June 2022 - September 2022 (.kml) (KML)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/CM/ML2/2022-06-01.kml\",\"label\":\"Medium Term Projection: October 2022 - January 2023 (.kml) (KML)\"}],\"http://geojson.org/geojson-spec.html\":\"https://fdw.fews.net/api/ipcphasemap/country/CM/2022-06-01.geojson\"}"
+}

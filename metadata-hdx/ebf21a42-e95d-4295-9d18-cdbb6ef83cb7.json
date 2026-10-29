@@ -11,13 +11,13 @@
   "id": "ebf21a42-e95d-4295-9d18-cdbb6ef83cb7",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-27T19:51:56.147968",
+  "last_modified": "2026-10-28T08:44:12.094448",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-27T19:51:55.011723",
-  "metadata_modified": "2026-10-27T19:52:05.471430",
+  "metadata_modified": "2026-10-28T11:01:30.147789",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "yemen-acute-food-insecurity-classification-august-2021-january-2022",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (August 2021 - September 2021) and medium term (October 2021 - January 2022) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "248046"
-    },
-    {
-      "key": "end_date",
-      "value": "2022-01-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2021-08-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2021-08-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-08-01&dataseries__geographic_unit__country=YE&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "7e64da3eb2a4a0217d73e99ec93c6977",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-08-01&dataseries__geographic_unit__country=YE&dataseries__ipcclassification__scenario=ML1",
       "id": "b4746632-a776-499c-9f96-b1c25c283663",
-      "last_modified": "2026-10-27T19:51:55.001828",
-      "metadata_modified": "2026-10-27T19:51:56.148188",
+      "last_modified": "2026-10-28T08:44:12.094448",
+      "metadata_modified": "2026-10-28T11:01:30.188022",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "ebf21a42-e95d-4295-9d18-cdbb6ef83cb7",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 613433,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-08-01&dataseries__geographic_unit__country=YE&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-08-01&dataseries__geographic_unit__country=YE&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "4afd635d8470705b34c177d84bbe5522",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-08-01&dataseries__geographic_unit__country=YE&dataseries__ipcclassification__scenario=ML2",
       "id": "3e683a86-761c-4d09-970c-a9a7a7a520e5",
-      "last_modified": "2026-10-27T19:51:55.001972",
-      "metadata_modified": "2026-10-27T19:51:56.148258",
+      "last_modified": "2026-10-28T08:44:12.094448",
+      "metadata_modified": "2026-10-28T11:01:30.188190",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "ebf21a42-e95d-4295-9d18-cdbb6ef83cb7",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 612444,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-08-01&dataseries__geographic_unit__country=YE&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

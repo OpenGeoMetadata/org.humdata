@@ -11,13 +11,13 @@
   "id": "97d3a427-cb7b-4f6c-8843-35fbb775e5ec",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-27T18:58:39.625000",
+  "last_modified": "2026-10-28T08:44:12.080454",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-27T18:58:38.548332",
-  "metadata_modified": "2026-10-27T18:58:48.352046",
+  "metadata_modified": "2026-10-28T10:31:04.103382",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "ethiopia-acute-food-insecurity-classification-april-2022-september-2022",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (April 2022 - May 2022) and medium term (June 2022 - September 2022) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "297587"
-    },
-    {
-      "key": "end_date",
-      "value": "2022-09-30"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2022-04-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2022-04-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-04-01&dataseries__geographic_unit__country=ET&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "6adf97f83acf6453d4a6a4b1070f3754",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-04-01&dataseries__geographic_unit__country=ET&dataseries__ipcclassification__scenario=ML1",
       "id": "318df854-ffe6-45b9-9ba1-edb250895662",
-      "last_modified": "2026-10-27T18:58:38.537921",
-      "metadata_modified": "2026-10-27T18:58:39.625342",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T10:31:04.124750",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "97d3a427-cb7b-4f6c-8843-35fbb775e5ec",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 4,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-04-01&dataseries__geographic_unit__country=ET&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-04-01&dataseries__geographic_unit__country=ET&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "d77a65c1e7bb04e9c22510a62ee3558b",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-04-01&dataseries__geographic_unit__country=ET&dataseries__ipcclassification__scenario=ML2",
       "id": "7c0ba523-69b4-4874-9bc1-859db472691d",
-      "last_modified": "2026-10-27T18:58:38.538089",
-      "metadata_modified": "2026-10-27T18:58:39.625460",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T10:31:04.124824",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "97d3a427-cb7b-4f6c-8843-35fbb775e5ec",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 715014,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-04-01&dataseries__geographic_unit__country=ET&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

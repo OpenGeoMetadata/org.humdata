@@ -11,13 +11,13 @@
   "id": "3551693a-aa7c-4b87-86e2-e2d54b2435f8",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T03:04:21.155040",
+  "last_modified": "2026-10-28T08:44:12.094448",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T03:04:20.321421",
-  "metadata_modified": "2026-10-28T03:04:30.308666",
+  "metadata_modified": "2026-10-28T09:32:21.225292",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "afghanistan-acute-food-insecurity-classification-february-2022-september-2022",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (February 2022 - May 2022) and medium term (June 2022 - September 2022) periods.",
@@ -37,7 +37,7 @@
   },
   "owner_org": "f9695fdf-9252-44e1-b3d5-1d73e669ef5a",
   "package_creator": "hussein_lightwalla",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 1,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Afghanistan\"]}",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "294840"
-    },
-    {
-      "key": "end_date",
-      "value": "2022-09-30"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2022-02-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2022-02-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-02-01&dataseries__geographic_unit__country=AF&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "b020e1ea1d468dae7c118c2d13206389",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-02-01&dataseries__geographic_unit__country=AF&dataseries__ipcclassification__scenario=ML1",
       "id": "45fa8ce8-7c81-403e-a96e-81ea6bc9f042",
-      "last_modified": "2026-10-28T03:04:20.315961",
-      "metadata_modified": "2026-10-28T03:04:21.155342",
+      "last_modified": "2026-10-28T08:44:12.094448",
+      "metadata_modified": "2026-10-28T09:32:21.244886",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "3551693a-aa7c-4b87-86e2-e2d54b2435f8",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 455736,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-02-01&dataseries__geographic_unit__country=AF&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-02-01&dataseries__geographic_unit__country=AF&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "656bf2eb46460a16b7cde12ee775c839",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-02-01&dataseries__geographic_unit__country=AF&dataseries__ipcclassification__scenario=ML2",
       "id": "407c57c4-0dce-44b2-9ede-3ffd36a626cf",
-      "last_modified": "2026-10-28T03:04:20.316087",
-      "metadata_modified": "2026-10-28T03:04:21.155458",
+      "last_modified": "2026-10-28T08:44:12.094448",
+      "metadata_modified": "2026-10-28T09:32:21.245009",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "3551693a-aa7c-4b87-86e2-e2d54b2435f8",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 455045,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-02-01&dataseries__geographic_unit__country=AF&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

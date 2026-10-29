@@ -11,13 +11,13 @@
   "id": "b09de8a7-a942-44d4-99ea-ebdfccfe2f66",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-26T17:19:56.912199",
+  "last_modified": "2026-10-28T08:44:11.553559",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-26T17:19:53.009253",
-  "metadata_modified": "2026-10-26T17:20:37.430972",
+  "metadata_modified": "2026-10-28T10:34:32.059600",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "niger-acute-food-insecurity-classification-october-2014-march-2015",
   "notes": "Current (October 2014) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (October 2014 - December 2014) and medium term (January 2015 - March 2015) periods.",
@@ -37,7 +37,7 @@
   },
   "owner_org": "f9695fdf-9252-44e1-b3d5-1d73e669ef5a",
   "package_creator": "hussein_lightwalla",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 9,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Niger\"]}",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "168597"
-    },
-    {
-      "key": "end_date",
-      "value": "2015-03-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2014-10-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2014-10-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2014-10-01&dataseries__geographic_unit__country=NE&dataseries__ipcclassification__scenario=CS",
       "format": "PNG",
-      "hash": "",
+      "hash": "c398935a293948045391117b49166080",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2014-10-01&dataseries__geographic_unit__country=NE&dataseries__ipcclassification__scenario=CS",
       "id": "e4b0bda7-52f7-4a9b-9319-ca00161a15bd",
-      "last_modified": "2026-10-26T17:19:52.997025",
-      "metadata_modified": "2026-10-26T17:19:56.912600",
+      "last_modified": "2026-10-28T08:44:11.553559",
+      "metadata_modified": "2026-10-28T10:34:32.089865",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "b09de8a7-a942-44d4-99ea-ebdfccfe2f66",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 441425,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2014-10-01&dataseries__geographic_unit__country=NE&dataseries__ipcclassification__scenario=CS",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2014-10-01&dataseries__geographic_unit__country=NE&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "45b4a8604a8b1e4e9a6e3a65c8ce3973",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2014-10-01&dataseries__geographic_unit__country=NE&dataseries__ipcclassification__scenario=ML1",
       "id": "2f7bad5c-ff3f-4fe5-945b-9b6a053fc7a8",
-      "last_modified": "2026-10-26T17:19:52.997180",
-      "metadata_modified": "2026-10-26T17:19:56.912845",
+      "last_modified": "2026-10-28T08:44:11.553559",
+      "metadata_modified": "2026-10-28T10:34:32.089985",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "b09de8a7-a942-44d4-99ea-ebdfccfe2f66",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 442823,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2014-10-01&dataseries__geographic_unit__country=NE&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -186,11 +168,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2014-10-01&dataseries__geographic_unit__country=NE&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "798929cdf02a6308db7ac54312e48186",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2014-10-01&dataseries__geographic_unit__country=NE&dataseries__ipcclassification__scenario=ML2",
       "id": "c51fe3f4-bdc4-4c71-9d0c-1ba4f636aced",
-      "last_modified": "2026-10-26T17:19:52.997333",
-      "metadata_modified": "2026-10-26T17:19:56.913190",
+      "last_modified": "2026-10-28T08:44:11.553559",
+      "metadata_modified": "2026-10-28T10:34:32.090113",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,7 +180,7 @@
       "package_id": "b09de8a7-a942-44d4-99ea-ebdfccfe2f66",
       "position": 4,
       "resource_type": null,
-      "size": null,
+      "size": 470483,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2014-10-01&dataseries__geographic_unit__country=NE&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

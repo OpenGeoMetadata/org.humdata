@@ -17,7 +17,7 @@
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T01:29:47.900132",
-  "metadata_modified": "2026-10-28T01:30:00.984386",
+  "metadata_modified": "2026-10-28T11:01:58.822056",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "mauritania-acute-food-insecurity-classification-december-2023-may-2024",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (December 2023 - January 2024) and medium term (February 2024 - May 2024) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "339440"
-    },
-    {
-      "key": "end_date",
-      "value": "2024-05-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2023-12-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2023-12-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -85,11 +67,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/api/ipcpackage/country/MR/2023-12-01/",
       "format": "zip",
-      "hash": "",
+      "hash": "W/\"10956feb5a626bdb6974a4cbba3d4336\"",
       "hdx_rel_url": "https://fdw.fews.net/api/ipcpackage/country/MR/2023-12-01/",
       "id": "8070bbb4-6447-4bca-878a-fa3585a58e33",
       "last_modified": "2026-10-28T01:29:48.817976",
-      "metadata_modified": "2026-10-28T01:29:51.979141",
+      "metadata_modified": "2026-10-28T11:01:58.838795",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -110,11 +92,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/api/ipcphasemap/country/MR/2023-12-01.geojson",
       "format": "GeoJSON",
-      "hash": "",
+      "hash": "W/\"18880663874c0573daef95ce9bd7dd8d\"",
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/country/MR/2023-12-01.geojson",
       "id": "c375a4a2-37c2-46fa-8381-2887b6bceef6",
       "last_modified": "2026-10-28T01:29:47.891132",
-      "metadata_modified": "2026-10-28T01:29:51.979236",
+      "metadata_modified": "2026-10-28T11:01:58.838883",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -129,6 +111,7 @@
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-28T01:29:47.904597",
@@ -140,7 +123,7 @@
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-12-01&dataseries__geographic_unit__country=MR&dataseries__ipcclassification__scenario=ML1",
       "id": "1eccea51-9c26-42a5-a989-10c325dd1b01",
       "last_modified": "2026-10-28T01:29:47.891229",
-      "metadata_modified": "2026-10-28T01:29:48.818183",
+      "metadata_modified": "2026-10-28T11:01:58.838944",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -154,6 +137,7 @@
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-28T01:29:47.904600",
@@ -165,7 +149,7 @@
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-12-01&dataseries__geographic_unit__country=MR&dataseries__ipcclassification__scenario=ML2",
       "id": "384feb48-872a-4cd4-9e84-16056f871574",
       "last_modified": "2026-10-28T01:29:47.891330",
-      "metadata_modified": "2026-10-28T01:29:48.818273",
+      "metadata_modified": "2026-10-28T11:01:58.839003",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -179,6 +163,7 @@
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-28T01:29:47.904602",
@@ -190,7 +175,7 @@
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/country/MR/ML1/2023-12-01.kml",
       "id": "dd6793dd-4551-4517-bf25-b160931fd92d",
       "last_modified": "2026-10-28T01:29:47.891499",
-      "metadata_modified": "2026-10-28T01:30:01.005356",
+      "metadata_modified": "2026-10-28T11:01:58.839059",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -212,11 +197,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/api/ipcphasemap/country/MR/ML2/2023-12-01.kml",
       "format": "KML",
-      "hash": "",
+      "hash": "W/\"5224cda42c36e865d8b27aa619379014\"",
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/country/MR/ML2/2023-12-01.kml",
       "id": "19c1e639-dc7d-4492-a0d9-d77da92c9303",
       "last_modified": "2026-10-28T01:29:47.891663",
-      "metadata_modified": "2026-10-28T01:29:52.500822",
+      "metadata_modified": "2026-10-28T11:01:58.839118",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

@@ -17,7 +17,7 @@
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-26T16:39:07.711990",
-  "metadata_modified": "2026-10-26T16:39:22.640369",
+  "metadata_modified": "2026-10-28T11:19:46.320728",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "mozambique-acute-food-insecurity-classification-may-2023-september-2023",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (May 2023) and medium term (June 2023 - September 2023) periods.",
@@ -37,7 +37,7 @@
   },
   "owner_org": "f9695fdf-9252-44e1-b3d5-1d73e669ef5a",
   "package_creator": "hussein_lightwalla",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 6,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Mozambique\"]}",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "320024"
-    },
-    {
-      "key": "end_date",
-      "value": "2023-09-30"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2023-05-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2023-05-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -129,6 +111,7 @@
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-26T16:39:07.715494",
@@ -140,7 +123,7 @@
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-05-01&dataseries__geographic_unit__country=MZ&dataseries__ipcclassification__scenario=ML1",
       "id": "4047fa1a-0197-4118-bd70-ec8dfe17f99a",
       "last_modified": "2026-10-26T16:39:07.703522",
-      "metadata_modified": "2026-10-26T16:39:09.557577",
+      "metadata_modified": "2026-10-28T11:19:46.487150",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -154,6 +137,7 @@
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-26T16:39:07.715496",
@@ -165,7 +149,7 @@
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-05-01&dataseries__geographic_unit__country=MZ&dataseries__ipcclassification__scenario=ML2",
       "id": "f1dd1218-930c-4f91-a5e2-543b19612254",
       "last_modified": "2026-10-26T16:39:07.703659",
-      "metadata_modified": "2026-10-26T16:39:09.557688",
+      "metadata_modified": "2026-10-28T11:19:46.487262",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

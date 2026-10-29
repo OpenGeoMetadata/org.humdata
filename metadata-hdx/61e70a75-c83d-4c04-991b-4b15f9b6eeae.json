@@ -11,13 +11,13 @@
   "id": "61e70a75-c83d-4c04-991b-4b15f9b6eeae",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-27T23:38:38.705363",
+  "last_modified": "2026-10-28T08:44:12.080454",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-27T23:38:37.808187",
-  "metadata_modified": "2026-10-27T23:38:47.198800",
+  "metadata_modified": "2026-10-28T09:55:11.051915",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "south-sudan-acute-food-insecurity-classification-may-2019-september-2019",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (May 2019) and medium term (June 2019 - September 2019) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "287313"
-    },
-    {
-      "key": "end_date",
-      "value": "2019-09-30"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2019-05-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2019-05-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -110,11 +92,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/api/ipcphasemap/country/SS/2019-05-01.geojson",
       "format": "GeoJSON",
-      "hash": "",
+      "hash": "W/\"53995d46a16afaf27b561b4b3235f05f\"",
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/country/SS/2019-05-01.geojson",
       "id": "07e48ae3-c4a1-4389-9f46-783e857c3aa2",
-      "last_modified": "2026-10-27T23:38:37.799344",
-      "metadata_modified": "2026-10-27T23:38:42.009862",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T09:55:11.071523",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2019-05-01&dataseries__geographic_unit__country=SS&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "48fba46a0ad9b0dcefac886a03d88c70",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2019-05-01&dataseries__geographic_unit__country=SS&dataseries__ipcclassification__scenario=ML1",
       "id": "cc737a25-c9e2-41e5-8399-0c4f1175953e",
-      "last_modified": "2026-10-27T23:38:37.799499",
-      "metadata_modified": "2026-10-27T23:38:38.705539",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T09:55:11.071620",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "61e70a75-c83d-4c04-991b-4b15f9b6eeae",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 609837,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2019-05-01&dataseries__geographic_unit__country=SS&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2019-05-01&dataseries__geographic_unit__country=SS&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "ddc14c4176e9e9ecbecb07c5200cbbed",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2019-05-01&dataseries__geographic_unit__country=SS&dataseries__ipcclassification__scenario=ML2",
       "id": "4baa6097-a349-4d1c-a0e0-0d8b35e369dc",
-      "last_modified": "2026-10-27T23:38:37.799594",
-      "metadata_modified": "2026-10-27T23:38:38.705600",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T09:55:11.071732",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "61e70a75-c83d-4c04-991b-4b15f9b6eeae",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 633256,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2019-05-01&dataseries__geographic_unit__country=SS&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

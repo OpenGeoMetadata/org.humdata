@@ -11,13 +11,13 @@
   "id": "ec4ce031-d45b-4d04-b67d-68a35639b274",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T04:41:40.991162",
+  "last_modified": "2026-10-28T08:44:12.094448",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T04:41:39.864010",
-  "metadata_modified": "2026-10-28T04:41:50.487459",
+  "metadata_modified": "2026-10-28T11:00:17.645151",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "democratic-republic-of-the-congo-acute-food-insecurity-classification-february-2023-september-2023",
   "notes": "Current (February 2023) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (February 2023 - May 2023) and medium term (June 2023 - September 2023) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "315149"
-    },
-    {
-      "key": "end_date",
-      "value": "2023-09-30"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2023-02-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2023-02-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-02-01&dataseries__geographic_unit__country=CD&dataseries__ipcclassification__scenario=CS",
       "format": "PNG",
-      "hash": "",
+      "hash": "6adf97f83acf6453d4a6a4b1070f3754",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-02-01&dataseries__geographic_unit__country=CD&dataseries__ipcclassification__scenario=CS",
       "id": "1e5f50be-0ed6-4981-8bc0-4de588536ec0",
-      "last_modified": "2026-10-28T04:41:39.854037",
-      "metadata_modified": "2026-10-28T04:41:40.991358",
+      "last_modified": "2026-10-28T08:44:12.094448",
+      "metadata_modified": "2026-10-28T11:00:17.669760",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,12 +130,13 @@
       "package_id": "ec4ce031-d45b-4d04-b67d-68a35639b274",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 4,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-02-01&dataseries__geographic_unit__country=CD&dataseries__ipcclassification__scenario=CS",
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-28T04:41:39.869915",
@@ -165,7 +148,7 @@
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-02-01&dataseries__geographic_unit__country=CD&dataseries__ipcclassification__scenario=ML1",
       "id": "7523b74a-e99c-49fb-b658-681c2a36ed02",
       "last_modified": "2026-10-28T04:41:39.854202",
-      "metadata_modified": "2026-10-28T04:41:40.991435",
+      "metadata_modified": "2026-10-28T11:00:17.669825",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -186,11 +169,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-02-01&dataseries__geographic_unit__country=CD&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "9f6cf8c6f5c05de1aedacde4594814d7",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-02-01&dataseries__geographic_unit__country=CD&dataseries__ipcclassification__scenario=ML2",
       "id": "e5e83f50-6f98-49e9-a2ce-6650a061ce20",
-      "last_modified": "2026-10-28T04:41:39.854366",
-      "metadata_modified": "2026-10-28T04:41:40.991495",
+      "last_modified": "2026-10-28T08:44:12.094448",
+      "metadata_modified": "2026-10-28T11:00:17.669891",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,7 +181,7 @@
       "package_id": "ec4ce031-d45b-4d04-b67d-68a35639b274",
       "position": 4,
       "resource_type": null,
-      "size": null,
+      "size": 856738,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-02-01&dataseries__geographic_unit__country=CD&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

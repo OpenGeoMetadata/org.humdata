@@ -11,13 +11,13 @@
   "id": "5c8cdc91-5a15-46d4-8d1a-8d60d7437dff",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T04:27:09.814358",
+  "last_modified": "2026-10-28T08:44:11.553559",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T04:27:08.945246",
-  "metadata_modified": "2026-10-28T04:27:16.586338",
+  "metadata_modified": "2026-10-28T09:38:53.352518",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "burundi-acute-food-insecurity-classification-july-2026-january-2027",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (July 2026 - September 2026) and medium term (October 2026 - January 2027) periods.",
@@ -37,7 +37,7 @@
   },
   "owner_org": "f9695fdf-9252-44e1-b3d5-1d73e669ef5a",
   "package_creator": "hussein_lightwalla",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 1,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Burundi\"]}",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "400907"
-    },
-    {
-      "key": "end_date",
-      "value": "2027-01-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2026-07-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2026-07-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-07-01&dataseries__geographic_unit__country=BI&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "00ed4640ae1e7d60a53c7951298d7cdd",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-07-01&dataseries__geographic_unit__country=BI&dataseries__ipcclassification__scenario=ML1",
       "id": "9b6feca9-aac2-4d5b-8f11-2ebbaa1a2c8d",
-      "last_modified": "2026-10-28T04:27:08.939852",
-      "metadata_modified": "2026-10-28T04:27:09.814564",
+      "last_modified": "2026-10-28T08:44:11.553559",
+      "metadata_modified": "2026-10-28T09:38:53.394673",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,12 +130,13 @@
       "package_id": "5c8cdc91-5a15-46d4-8d1a-8d60d7437dff",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 533644,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-07-01&dataseries__geographic_unit__country=BI&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-28T04:27:08.946922",
@@ -165,7 +148,7 @@
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-07-01&dataseries__geographic_unit__country=BI&dataseries__ipcclassification__scenario=ML2",
       "id": "42207439-af19-4001-b4b8-fae208dff3e9",
       "last_modified": "2026-10-28T04:27:08.939948",
-      "metadata_modified": "2026-10-28T04:27:09.814632",
+      "metadata_modified": "2026-10-28T09:38:53.394780",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

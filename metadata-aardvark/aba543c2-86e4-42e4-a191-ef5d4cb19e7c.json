@@ -1,0 +1,41 @@
+{
+  "id": "hdx-aba543c2-86e4-42e4-a191-ef5d4cb19e7c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-28T18:38:21Z",
+  "dct_title_s": "Significant Flood Events",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Significant flood events are areas at high risk of major flood events based on early forecasts developed by Google Research, using the Global Hydrological Model. The system uses gauge based discharge predictions, which are then clustered for basins which exceed danger level thresholds. It also incorporates the area of impact and the population within that area. These clusters indicate areas with a high risk of potential flooding. Significant events are predicted flood events with high probability and high impact. They also cover places where we don't have quality-verified gauges. Flood conditions are approximate and are for informational purposes only. Check official sources for more information. Visit https://sites.research.google/gr/floodforecasting to learn more about Google's Flood Forecasting initiative."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Google"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "locn_geometry": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dcat_bbox": "ENVELOPE(-180.0, 180.0, 90.0, -90.0)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "CSV",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/google-floods-significant-events\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/aba543c2-86e4-42e4-a191-ef5d4cb19e7c/resource/bb0e0b69-0ba9-4dae-a7da-75e30b5a6553/download/significant_flood_events.csv\",\"label\":\"significant_flood_events.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/aba543c2-86e4-42e4-a191-ef5d4cb19e7c/resource/45625a77-c820-49cc-83c9-a82c556ff3bc/download/significant_flood_events.geojson\",\"label\":\"significant_flood_events.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/aba543c2-86e4-42e4-a191-ef5d4cb19e7c/resource/45625a77-c820-49cc-83c9-a82c556ff3bc/download/significant_flood_events.geojson\"}"
+}

@@ -11,13 +11,13 @@
   "id": "99f2b0e2-2525-4ccf-a641-e830e41f6a3a",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-26T13:09:59.082315",
+  "last_modified": "2026-10-28T08:44:12.080454",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-26T13:09:57.896808",
-  "metadata_modified": "2026-10-26T13:10:10.689131",
+  "metadata_modified": "2026-10-28T10:32:03.573542",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "madagascar-acute-food-insecurity-classification-june-2018-december-2018",
   "notes": "Current (June 2018) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (June 2018 - September 2018) and medium term (October 2018 - December 2018) periods.",
@@ -37,7 +37,7 @@
   },
   "owner_org": "f9695fdf-9252-44e1-b3d5-1d73e669ef5a",
   "package_creator": "hussein_lightwalla",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 8,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Madagascar\"]}",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "168763"
-    },
-    {
-      "key": "end_date",
-      "value": "2018-12-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2018-06-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2018-06-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2018-06-01&dataseries__geographic_unit__country=MG&dataseries__ipcclassification__scenario=CS",
       "format": "PNG",
-      "hash": "",
+      "hash": "eca8c40c3f1c4bc0dfe4d81281af0355",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2018-06-01&dataseries__geographic_unit__country=MG&dataseries__ipcclassification__scenario=CS",
       "id": "850500ac-ebfb-414e-887c-512553085d8b",
-      "last_modified": "2026-10-26T13:09:57.890004",
-      "metadata_modified": "2026-10-26T13:09:59.082642",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T10:32:03.594695",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "99f2b0e2-2525-4ccf-a641-e830e41f6a3a",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 572145,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2018-06-01&dataseries__geographic_unit__country=MG&dataseries__ipcclassification__scenario=CS",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2018-06-01&dataseries__geographic_unit__country=MG&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "71e537cfd15dedfe8f3a321f9f2fea5f",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2018-06-01&dataseries__geographic_unit__country=MG&dataseries__ipcclassification__scenario=ML1",
       "id": "ffc0c902-4b5b-44b4-9c90-1c785c2b9300",
-      "last_modified": "2026-10-26T13:09:57.890094",
-      "metadata_modified": "2026-10-26T13:09:59.082746",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T10:32:03.594883",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "99f2b0e2-2525-4ccf-a641-e830e41f6a3a",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 573196,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2018-06-01&dataseries__geographic_unit__country=MG&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -186,11 +168,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2018-06-01&dataseries__geographic_unit__country=MG&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "2fb24eb9cf71f89e320e3c0a2fab49ae",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2018-06-01&dataseries__geographic_unit__country=MG&dataseries__ipcclassification__scenario=ML2",
       "id": "45984185-68ad-422d-9f81-6af579a9a82f",
-      "last_modified": "2026-10-26T13:09:57.890179",
-      "metadata_modified": "2026-10-26T13:09:59.082845",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T10:32:03.595016",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,7 +180,7 @@
       "package_id": "99f2b0e2-2525-4ccf-a641-e830e41f6a3a",
       "position": 4,
       "resource_type": null,
-      "size": null,
+      "size": 573181,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2018-06-01&dataseries__geographic_unit__country=MG&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

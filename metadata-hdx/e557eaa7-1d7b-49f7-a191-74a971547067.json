@@ -11,13 +11,13 @@
   "id": "e557eaa7-1d7b-49f7-a191-74a971547067",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-27T22:56:08.794788",
+  "last_modified": "2026-10-28T08:44:12.094448",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-27T22:56:07.098441",
-  "metadata_modified": "2026-10-27T22:56:18.951506",
+  "metadata_modified": "2026-10-28T11:01:44.332122",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "malawi-acute-food-insecurity-classification-july-2022-january-2023",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (July 2022 - September 2022) and medium term (October 2022 - January 2023) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "307019"
-    },
-    {
-      "key": "end_date",
-      "value": "2023-01-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2022-07-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2022-07-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -129,6 +111,7 @@
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-27T22:56:07.109959",
@@ -140,7 +123,7 @@
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-07-01&dataseries__geographic_unit__country=MW&dataseries__ipcclassification__scenario=ML1",
       "id": "93eaf0eb-e6c5-4c4c-a73a-3139d44e9716",
       "last_modified": "2026-10-27T22:56:07.091685",
-      "metadata_modified": "2026-10-27T22:56:08.795146",
+      "metadata_modified": "2026-10-28T11:01:44.356416",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -161,11 +144,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-07-01&dataseries__geographic_unit__country=MW&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "370b7fe624aa0d45bb8a0f6223b3a0fa",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-07-01&dataseries__geographic_unit__country=MW&dataseries__ipcclassification__scenario=ML2",
       "id": "68167d13-a72a-4431-8b17-695e49a005d1",
-      "last_modified": "2026-10-27T22:56:07.091841",
-      "metadata_modified": "2026-10-27T22:56:08.795273",
+      "last_modified": "2026-10-28T08:44:12.094448",
+      "metadata_modified": "2026-10-28T11:01:44.356542",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +156,7 @@
       "package_id": "e557eaa7-1d7b-49f7-a191-74a971547067",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 535328,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-07-01&dataseries__geographic_unit__country=MW&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

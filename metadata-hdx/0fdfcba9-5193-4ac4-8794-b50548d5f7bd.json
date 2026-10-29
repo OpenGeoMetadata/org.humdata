@@ -17,7 +17,7 @@
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-27T15:46:16.010037",
-  "metadata_modified": "2026-10-27T15:46:30.532398",
+  "metadata_modified": "2026-10-28T09:14:43.329666",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "kenya-acute-food-insecurity-classification-october-2011-march-2012",
   "notes": "Current (October 2011) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (October 2011 - December 2011) and medium term (January 2012 - March 2012) periods.",
@@ -37,7 +37,7 @@
   },
   "owner_org": "f9695fdf-9252-44e1-b3d5-1d73e669ef5a",
   "package_creator": "hussein_lightwalla",
-  "pageviews_last_14_days": 5,
+  "pageviews_last_14_days": 8,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Kenya\"]}",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "168957"
-    },
-    {
-      "key": "end_date",
-      "value": "2012-03-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2011-10-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2011-10-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -85,11 +67,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/api/ipcpackage/country/KE/2011-10-01/",
       "format": "zip",
-      "hash": "",
+      "hash": "W/\"5c6d8d666568560fa817d278f0578319\"",
       "hdx_rel_url": "https://fdw.fews.net/api/ipcpackage/country/KE/2011-10-01/",
       "id": "06c09295-7b3d-40e9-bd02-b4be5a30b58d",
       "last_modified": "2026-10-27T15:46:17.485298",
-      "metadata_modified": "2026-10-27T15:46:24.134762",
+      "metadata_modified": "2026-10-28T09:14:43.351263",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -110,11 +92,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/api/ipcphasemap/country/KE/2011-10-01.geojson",
       "format": "GeoJSON",
-      "hash": "",
+      "hash": "W/\"f78ee27978529713435c94e3fa5e6782\"",
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/country/KE/2011-10-01.geojson",
       "id": "6bc27037-78fa-4e43-90e8-ded19d6ee635",
       "last_modified": "2026-10-27T15:46:15.986238",
-      "metadata_modified": "2026-10-27T15:46:27.668410",
+      "metadata_modified": "2026-10-28T09:14:43.351350",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -129,6 +111,7 @@
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-27T15:46:16.012756",
@@ -140,7 +123,7 @@
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2011-10-01&dataseries__geographic_unit__country=KE&dataseries__ipcclassification__scenario=CS",
       "id": "de250fe7-f993-43e1-bf2e-b81c1588ff11",
       "last_modified": "2026-10-27T15:46:15.986383",
-      "metadata_modified": "2026-10-27T15:46:17.485591",
+      "metadata_modified": "2026-10-28T09:14:43.351412",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -154,6 +137,7 @@
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-27T15:46:16.012758",
@@ -165,7 +149,7 @@
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2011-10-01&dataseries__geographic_unit__country=KE&dataseries__ipcclassification__scenario=ML1",
       "id": "8ea6a9dd-169e-4dc3-a61c-6bf29f1d5a84",
       "last_modified": "2026-10-27T15:46:15.986525",
-      "metadata_modified": "2026-10-27T15:46:17.485705",
+      "metadata_modified": "2026-10-28T09:14:43.351472",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -179,6 +163,7 @@
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-27T15:46:16.012760",
@@ -190,7 +175,7 @@
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2011-10-01&dataseries__geographic_unit__country=KE&dataseries__ipcclassification__scenario=ML2",
       "id": "822ea03d-fdc8-4454-88c9-25bd6825b372",
       "last_modified": "2026-10-27T15:46:15.986663",
-      "metadata_modified": "2026-10-27T15:46:17.485808",
+      "metadata_modified": "2026-10-28T09:14:43.351530",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -211,11 +196,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/api/ipcphasemap/country/KE/CS/2011-10-01.kml",
       "format": "KML",
-      "hash": "",
+      "hash": "W/\"cabc39debc7a825e6da1948d3d598804\"",
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/country/KE/CS/2011-10-01.kml",
       "id": "44b8417d-8666-43a3-a4e2-2350f1af3ec9",
       "last_modified": "2026-10-27T15:46:15.986805",
-      "metadata_modified": "2026-10-27T15:46:26.374358",
+      "metadata_modified": "2026-10-28T09:14:43.351589",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -237,11 +222,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/api/ipcphasemap/country/KE/ML1/2011-10-01.kml",
       "format": "KML",
-      "hash": "",
+      "hash": "W/\"01861409a4af7862683f59c43b412824\"",
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/country/KE/ML1/2011-10-01.kml",
       "id": "2f4ee714-dff9-4970-9ae6-712d6684e0db",
       "last_modified": "2026-10-27T15:46:15.986944",
-      "metadata_modified": "2026-10-27T15:46:24.135429",
+      "metadata_modified": "2026-10-28T09:14:43.351645",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -263,11 +248,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/api/ipcphasemap/country/KE/ML2/2011-10-01.kml",
       "format": "KML",
-      "hash": "",
+      "hash": "W/\"f679e7aed7de6ed8eaeb96fbf2a06d6c\"",
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/country/KE/ML2/2011-10-01.kml",
       "id": "c013a99b-90fe-4b6b-bdb7-0f6ff9d08503",
       "last_modified": "2026-10-27T15:46:15.987090",
-      "metadata_modified": "2026-10-27T15:46:29.039704",
+      "metadata_modified": "2026-10-28T09:14:43.351714",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

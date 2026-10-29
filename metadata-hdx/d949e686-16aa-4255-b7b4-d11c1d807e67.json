@@ -11,13 +11,13 @@
   "id": "d949e686-16aa-4255-b7b4-d11c1d807e67",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T06:21:55.787353",
+  "last_modified": "2026-10-28T08:44:11.553559",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T06:21:54.589411",
-  "metadata_modified": "2026-10-28T06:22:03.572023",
+  "metadata_modified": "2026-10-28T10:59:12.216992",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "cameroon-acute-food-insecurity-classification-may-2020-september-2020",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (May 2020) and medium term (June 2020 - September 2020) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "237004"
-    },
-    {
-      "key": "end_date",
-      "value": "2020-09-30"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2020-05-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2020-05-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2020-05-01&dataseries__geographic_unit__country=CM&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "4ddb55cfd60f6f820dea2feb589f7faf",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2020-05-01&dataseries__geographic_unit__country=CM&dataseries__ipcclassification__scenario=ML1",
       "id": "14389e75-6dc7-428f-905c-a7629dbc6fe0",
-      "last_modified": "2026-10-28T06:21:54.580922",
-      "metadata_modified": "2026-10-28T06:21:55.787558",
+      "last_modified": "2026-10-28T08:44:11.553559",
+      "metadata_modified": "2026-10-28T10:59:12.255027",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "d949e686-16aa-4255-b7b4-d11c1d807e67",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 587953,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2020-05-01&dataseries__geographic_unit__country=CM&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2020-05-01&dataseries__geographic_unit__country=CM&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "e215c0463c0fc1ce940a5cd14e0de474",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2020-05-01&dataseries__geographic_unit__country=CM&dataseries__ipcclassification__scenario=ML2",
       "id": "0bf20d52-976a-4717-961b-554acb92a743",
-      "last_modified": "2026-10-28T06:21:54.581010",
-      "metadata_modified": "2026-10-28T06:21:55.787622",
+      "last_modified": "2026-10-28T08:44:11.553559",
+      "metadata_modified": "2026-10-28T10:59:12.255163",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "d949e686-16aa-4255-b7b4-d11c1d807e67",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 584925,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2020-05-01&dataseries__geographic_unit__country=CM&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

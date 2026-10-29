@@ -11,13 +11,13 @@
   "id": "4f4e7fe9-48e7-4ce1-8742-f1d3ba003124",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-27T22:23:08.384823",
+  "last_modified": "2026-10-28T08:44:12.080454",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-27T22:23:07.147181",
-  "metadata_modified": "2026-10-27T22:23:17.451271",
+  "metadata_modified": "2026-10-28T09:33:54.608757",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "kenya-acute-food-insecurity-classification-may-2019-september-2019",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (May 2019) and medium term (June 2019 - September 2019) periods.",
@@ -37,7 +37,7 @@
   },
   "owner_org": "f9695fdf-9252-44e1-b3d5-1d73e669ef5a",
   "package_creator": "hussein_lightwalla",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 6,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Kenya\"]}",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "287304"
-    },
-    {
-      "key": "end_date",
-      "value": "2019-09-30"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2019-05-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2019-05-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2019-05-01&dataseries__geographic_unit__country=KE&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "6adf97f83acf6453d4a6a4b1070f3754",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2019-05-01&dataseries__geographic_unit__country=KE&dataseries__ipcclassification__scenario=ML1",
       "id": "36181f27-e764-4859-b040-eb224ef80e11",
-      "last_modified": "2026-10-27T22:23:07.141617",
-      "metadata_modified": "2026-10-27T22:23:08.385123",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T09:33:54.633347",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "4f4e7fe9-48e7-4ce1-8742-f1d3ba003124",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 4,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2019-05-01&dataseries__geographic_unit__country=KE&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2019-05-01&dataseries__geographic_unit__country=KE&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "6adf97f83acf6453d4a6a4b1070f3754",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2019-05-01&dataseries__geographic_unit__country=KE&dataseries__ipcclassification__scenario=ML2",
       "id": "c2f02d3d-2332-4932-a636-56b5b40a82f0",
-      "last_modified": "2026-10-27T22:23:07.141704",
-      "metadata_modified": "2026-10-27T22:23:08.385236",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T09:33:54.633456",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "4f4e7fe9-48e7-4ce1-8742-f1d3ba003124",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 4,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2019-05-01&dataseries__geographic_unit__country=KE&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

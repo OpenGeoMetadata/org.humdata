@@ -11,13 +11,13 @@
   "id": "223991ae-4889-48c7-8eb3-15f3e32f94e0",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-27T15:21:09.749909",
+  "last_modified": "2026-10-28T08:44:12.094448",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-27T15:21:08.236408",
-  "metadata_modified": "2026-10-27T15:21:25.407964",
+  "metadata_modified": "2026-10-28T09:09:06.612443",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "ethiopia-acute-food-insecurity-classification-april-2014-september-2014",
   "notes": "Current (April 2014) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (April 2014 - June 2014) and medium term (July 2014 - September 2014) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "354902"
-    },
-    {
-      "key": "end_date",
-      "value": "2014-09-30"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2014-04-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2014-04-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2014-04-01&dataseries__geographic_unit__country=ET&dataseries__ipcclassification__scenario=CS",
       "format": "PNG",
-      "hash": "",
+      "hash": "f13cbce96e1f5e67530ffad03d58f423",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2014-04-01&dataseries__geographic_unit__country=ET&dataseries__ipcclassification__scenario=CS",
       "id": "28afaa69-c43f-4316-933a-839e180f75fd",
-      "last_modified": "2026-10-27T15:21:08.226736",
-      "metadata_modified": "2026-10-27T15:21:09.750232",
+      "last_modified": "2026-10-28T08:44:12.094448",
+      "metadata_modified": "2026-10-28T09:09:06.632939",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "223991ae-4889-48c7-8eb3-15f3e32f94e0",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 754404,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2014-04-01&dataseries__geographic_unit__country=ET&dataseries__ipcclassification__scenario=CS",
       "url_type": null

@@ -11,13 +11,13 @@
   "id": "adda4b1e-7d80-4799-83b4-b8e8f23cc160",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-26T16:07:38.429961",
+  "last_modified": "2026-10-28T08:44:12.094448",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-26T16:07:37.294895",
-  "metadata_modified": "2026-10-26T16:07:47.196640",
+  "metadata_modified": "2026-10-28T10:34:59.488318",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "mozambique-acute-food-insecurity-classification-april-2020-september-2020",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (April 2020 - May 2020) and medium term (June 2020 - September 2020) periods.",
@@ -37,7 +37,7 @@
   },
   "owner_org": "f9695fdf-9252-44e1-b3d5-1d73e669ef5a",
   "package_creator": "hussein_lightwalla",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 12,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Mozambique\"]}",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "237000"
-    },
-    {
-      "key": "end_date",
-      "value": "2020-09-30"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2020-04-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2020-04-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2020-04-01&dataseries__geographic_unit__country=MZ&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "b99bbc1b4f14ee7bae7786d74954901b",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2020-04-01&dataseries__geographic_unit__country=MZ&dataseries__ipcclassification__scenario=ML1",
       "id": "0189a506-1ac0-426a-bcb8-fca9248c3a00",
-      "last_modified": "2026-10-26T16:07:37.287801",
-      "metadata_modified": "2026-10-26T16:07:38.430372",
+      "last_modified": "2026-10-28T08:44:12.094448",
+      "metadata_modified": "2026-10-28T10:34:59.521463",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,12 +130,13 @@
       "package_id": "adda4b1e-7d80-4799-83b4-b8e8f23cc160",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 593374,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2020-04-01&dataseries__geographic_unit__country=MZ&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-26T16:07:37.296774",
@@ -165,7 +148,7 @@
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2020-04-01&dataseries__geographic_unit__country=MZ&dataseries__ipcclassification__scenario=ML2",
       "id": "5904e839-2cc9-4441-bfac-896afc74663e",
       "last_modified": "2026-10-26T16:07:37.287942",
-      "metadata_modified": "2026-10-26T16:07:38.430515",
+      "metadata_modified": "2026-10-28T10:34:59.521577",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

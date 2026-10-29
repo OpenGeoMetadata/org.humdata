@@ -11,13 +11,13 @@
   "id": "0866baba-01da-443d-8c23-d55258a91846",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-27T18:57:25.637135",
+  "last_modified": "2026-10-28T08:44:11.553559",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-27T18:57:24.566615",
-  "metadata_modified": "2026-10-27T18:57:33.887682",
+  "metadata_modified": "2026-10-28T09:15:08.506187",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "ethiopia-acute-food-insecurity-classification-december-2019-may-2020",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (December 2019 - January 2020) and medium term (February 2020 - May 2020) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "247966"
-    },
-    {
-      "key": "end_date",
-      "value": "2020-05-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2019-12-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2019-12-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2019-12-01&dataseries__geographic_unit__country=ET&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "a093119cd9bab4cc2d6ce2d8c9c5501b",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2019-12-01&dataseries__geographic_unit__country=ET&dataseries__ipcclassification__scenario=ML1",
       "id": "63bd6548-5cda-4d8f-a199-55daa77aec85",
-      "last_modified": "2026-10-27T18:57:24.558000",
-      "metadata_modified": "2026-10-27T18:57:25.637479",
+      "last_modified": "2026-10-28T08:44:11.553559",
+      "metadata_modified": "2026-10-28T09:15:08.517621",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "0866baba-01da-443d-8c23-d55258a91846",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 716847,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2019-12-01&dataseries__geographic_unit__country=ET&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2019-12-01&dataseries__geographic_unit__country=ET&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "18c200381c94219a8d353a6930938534",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2019-12-01&dataseries__geographic_unit__country=ET&dataseries__ipcclassification__scenario=ML2",
       "id": "2acf64c0-8bd4-4c78-8986-358041985143",
-      "last_modified": "2026-10-27T18:57:24.558163",
-      "metadata_modified": "2026-10-27T18:57:25.637619",
+      "last_modified": "2026-10-28T08:44:11.553559",
+      "metadata_modified": "2026-10-28T09:15:08.517690",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "0866baba-01da-443d-8c23-d55258a91846",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 721575,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2019-12-01&dataseries__geographic_unit__country=ET&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

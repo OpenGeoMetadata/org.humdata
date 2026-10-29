@@ -11,13 +11,13 @@
   "id": "dc11d9cb-481f-4896-86d8-cc7d0f387ac7",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-27T18:26:23.534428",
+  "last_modified": "2026-10-28T08:44:11.553559",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-27T18:26:22.038315",
-  "metadata_modified": "2026-10-27T18:26:31.722827",
+  "metadata_modified": "2026-10-28T10:59:24.659494",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "south-sudan-acute-food-insecurity-classification-january-2015-june-2015",
   "notes": "Current (January 2015) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (January 2015 - March 2015) and medium term (April 2015 - June 2015) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "168798"
-    },
-    {
-      "key": "end_date",
-      "value": "2015-06-30"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2015-01-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2015-01-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-01-01&dataseries__geographic_unit__country=SS&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "48790e1013337fd2ebe665aa5492d749",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-01-01&dataseries__geographic_unit__country=SS&dataseries__ipcclassification__scenario=ML1",
       "id": "fee4c72b-73bf-454d-8139-f7cc6863aa03",
-      "last_modified": "2026-10-27T18:26:22.020611",
-      "metadata_modified": "2026-10-27T18:26:23.534956",
+      "last_modified": "2026-10-28T08:44:11.553559",
+      "metadata_modified": "2026-10-28T10:59:24.684667",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "dc11d9cb-481f-4896-86d8-cc7d0f387ac7",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 586975,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-01-01&dataseries__geographic_unit__country=SS&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -186,11 +168,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-01-01&dataseries__geographic_unit__country=SS&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "1df9481f97a46b4434e4e5082d4e91e4",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-01-01&dataseries__geographic_unit__country=SS&dataseries__ipcclassification__scenario=ML2",
       "id": "023e63c6-3822-4c4d-86ed-c341c232d247",
-      "last_modified": "2026-10-27T18:26:22.020861",
-      "metadata_modified": "2026-10-27T18:26:23.535057",
+      "last_modified": "2026-10-28T08:44:11.553559",
+      "metadata_modified": "2026-10-28T10:59:24.684794",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,7 +180,7 @@
       "package_id": "dc11d9cb-481f-4896-86d8-cc7d0f387ac7",
       "position": 4,
       "resource_type": null,
-      "size": null,
+      "size": 584718,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-01-01&dataseries__geographic_unit__country=SS&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

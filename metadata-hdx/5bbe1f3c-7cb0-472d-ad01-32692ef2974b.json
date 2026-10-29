@@ -11,13 +11,13 @@
   "id": "5bbe1f3c-7cb0-472d-ad01-32692ef2974b",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-27T20:55:12.355912",
+  "last_modified": "2026-10-28T08:44:11.553559",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-27T20:55:11.452712",
-  "metadata_modified": "2026-10-27T20:55:19.852373",
+  "metadata_modified": "2026-10-28T09:37:43.684460",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "angola-acute-food-insecurity-classification-december-2022-may-2023",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (December 2022 - January 2023) and medium term (February 2023 - May 2023) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "312988"
-    },
-    {
-      "key": "end_date",
-      "value": "2023-05-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2022-12-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2022-12-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-12-01&dataseries__geographic_unit__country=AO&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "921b83feda3a235ff381e6b0bb2b2e83",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-12-01&dataseries__geographic_unit__country=AO&dataseries__ipcclassification__scenario=ML1",
       "id": "29492e2b-80e9-42ff-b709-4c340ccd04bb",
-      "last_modified": "2026-10-27T20:55:11.446678",
-      "metadata_modified": "2026-10-27T20:55:12.356180",
+      "last_modified": "2026-10-28T08:44:11.553559",
+      "metadata_modified": "2026-10-28T09:37:43.708780",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "5bbe1f3c-7cb0-472d-ad01-32692ef2974b",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 383803,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-12-01&dataseries__geographic_unit__country=AO&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-12-01&dataseries__geographic_unit__country=AO&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "ed048ac1e90e5003c3455a19e4965003",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-12-01&dataseries__geographic_unit__country=AO&dataseries__ipcclassification__scenario=ML2",
       "id": "dfef50f3-40d9-443f-9f63-b525f3c84bbf",
-      "last_modified": "2026-10-27T20:55:11.446768",
-      "metadata_modified": "2026-10-27T20:55:12.356250",
+      "last_modified": "2026-10-28T08:44:11.553559",
+      "metadata_modified": "2026-10-28T09:37:43.708890",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "5bbe1f3c-7cb0-472d-ad01-32692ef2974b",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 383587,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-12-01&dataseries__geographic_unit__country=AO&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

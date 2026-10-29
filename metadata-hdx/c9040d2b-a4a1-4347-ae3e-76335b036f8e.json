@@ -11,13 +11,13 @@
   "id": "c9040d2b-a4a1-4347-ae3e-76335b036f8e",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-26T11:29:48.662328",
+  "last_modified": "2026-10-28T08:44:12.080454",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-26T11:29:47.654115",
-  "metadata_modified": "2026-10-26T11:29:56.220783",
+  "metadata_modified": "2026-10-28T10:57:46.357203",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "chad-acute-food-insecurity-classification-july-2014-december-2014",
   "notes": "Current (July 2014) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (July 2014 - September 2014) and medium term (October 2014 - December 2014) periods.",
@@ -37,7 +37,7 @@
   },
   "owner_org": "f9695fdf-9252-44e1-b3d5-1d73e669ef5a",
   "package_creator": "hussein_lightwalla",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 7,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Chad\"]}",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "168540"
-    },
-    {
-      "key": "end_date",
-      "value": "2014-12-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2014-07-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2014-07-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -110,11 +92,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/api/ipcphasemap/country/TD/2014-07-01.geojson",
       "format": "GeoJSON",
-      "hash": "",
+      "hash": "W/\"f514b6e6f44e1ab17b63848dd8d2f42c\"",
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/country/TD/2014-07-01.geojson",
       "id": "cb704f32-7c34-425b-a184-70894c6a0b45",
-      "last_modified": "2026-10-26T11:29:47.645592",
-      "metadata_modified": "2026-10-26T11:29:53.489316",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T10:57:46.402124",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2014-07-01&dataseries__geographic_unit__country=TD&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "4cffab15da130ac909e6c1d9dd095cad",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2014-07-01&dataseries__geographic_unit__country=TD&dataseries__ipcclassification__scenario=ML1",
       "id": "c261e7df-a097-46ac-a82a-7f87465b0968",
-      "last_modified": "2026-10-26T11:29:47.645884",
-      "metadata_modified": "2026-10-26T11:29:48.662604",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T10:57:46.402368",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "c9040d2b-a4a1-4347-ae3e-76335b036f8e",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 623790,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2014-07-01&dataseries__geographic_unit__country=TD&dataseries__ipcclassification__scenario=ML1",
       "url_type": null

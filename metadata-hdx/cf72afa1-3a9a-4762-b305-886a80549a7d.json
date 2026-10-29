@@ -11,13 +11,13 @@
   "id": "cf72afa1-3a9a-4762-b305-886a80549a7d",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-26T15:04:27.621077",
+  "last_modified": "2026-10-28T08:44:12.080454",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-26T15:04:26.205581",
-  "metadata_modified": "2026-10-26T15:04:37.946344",
+  "metadata_modified": "2026-10-28T10:54:32.776179",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "mali-acute-food-insecurity-classification-august-2023-january-2024",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (August 2023 - September 2023) and medium term (October 2023 - January 2024) periods.",
@@ -37,7 +37,7 @@
   },
   "owner_org": "f9695fdf-9252-44e1-b3d5-1d73e669ef5a",
   "package_creator": "hussein_lightwalla",
-  "pageviews_last_14_days": 4,
+  "pageviews_last_14_days": 11,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Mali\"]}",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "329809"
-    },
-    {
-      "key": "end_date",
-      "value": "2024-01-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2023-08-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2023-08-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-08-01&dataseries__geographic_unit__country=ML&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "af2d51557f63cea2a1b6dfd248fc53b4",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-08-01&dataseries__geographic_unit__country=ML&dataseries__ipcclassification__scenario=ML1",
       "id": "7668a6cc-b5ac-49f5-bbe0-ec10fc33f84c",
-      "last_modified": "2026-10-26T15:04:26.192877",
-      "metadata_modified": "2026-10-26T15:04:27.621430",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T10:54:32.801491",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "cf72afa1-3a9a-4762-b305-886a80549a7d",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 631462,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-08-01&dataseries__geographic_unit__country=ML&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-08-01&dataseries__geographic_unit__country=ML&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "f000b0d2d518ca129a6aca6b4a9deb70",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-08-01&dataseries__geographic_unit__country=ML&dataseries__ipcclassification__scenario=ML2",
       "id": "c64a60af-f442-45c2-89b3-1b7db7082447",
-      "last_modified": "2026-10-26T15:04:26.193030",
-      "metadata_modified": "2026-10-26T15:04:27.621542",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T10:54:32.801559",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "cf72afa1-3a9a-4762-b305-886a80549a7d",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 627948,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-08-01&dataseries__geographic_unit__country=ML&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

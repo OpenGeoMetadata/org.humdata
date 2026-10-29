@@ -11,13 +11,13 @@
   "id": "92d21bba-f218-474e-9ef5-336d215c3caf",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T00:49:49.011539",
+  "last_modified": "2026-10-28T08:44:12.080454",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T00:49:47.985904",
-  "metadata_modified": "2026-10-28T00:49:58.898597",
+  "metadata_modified": "2026-10-28T10:32:05.965479",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "zimbabwe-acute-food-insecurity-classification-january-2024-may-2024",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (January 2024) and medium term (February 2024 - May 2024) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "340657"
-    },
-    {
-      "key": "end_date",
-      "value": "2024-05-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2024-01-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2024-01-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-01-01&dataseries__geographic_unit__country=ZW&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "b56aa49e163eeaf6b8dff880a7a569ba",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-01-01&dataseries__geographic_unit__country=ZW&dataseries__ipcclassification__scenario=ML1",
       "id": "2c0b5914-6eae-41c4-94f0-d4a08c2ba785",
-      "last_modified": "2026-10-28T00:49:47.979688",
-      "metadata_modified": "2026-10-28T00:49:49.011868",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T10:32:05.983317",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "92d21bba-f218-474e-9ef5-336d215c3caf",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 889695,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-01-01&dataseries__geographic_unit__country=ZW&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-01-01&dataseries__geographic_unit__country=ZW&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "076128d4046582b7c7db3465d3b26dc1",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-01-01&dataseries__geographic_unit__country=ZW&dataseries__ipcclassification__scenario=ML2",
       "id": "40dce8ef-1509-4a29-a7d6-d9d108646f30",
-      "last_modified": "2026-10-28T00:49:47.979776",
-      "metadata_modified": "2026-10-28T00:49:49.011980",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T10:32:05.983438",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "92d21bba-f218-474e-9ef5-336d215c3caf",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 901466,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-01-01&dataseries__geographic_unit__country=ZW&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

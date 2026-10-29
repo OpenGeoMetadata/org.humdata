@@ -11,13 +11,13 @@
   "id": "cdd6f642-0700-4a22-b6f1-14220f8d46ba",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-27T23:13:18.486714",
+  "last_modified": "2026-10-28T08:44:12.080454",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-27T23:13:17.239467",
-  "metadata_modified": "2026-10-27T23:13:27.838674",
+  "metadata_modified": "2026-10-28T10:55:00.994232",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "mauritania-acute-food-insecurity-classification-may-2021-september-2021",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (May 2021) and medium term (June 2021 - September 2021) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "213553"
-    },
-    {
-      "key": "end_date",
-      "value": "2021-09-30"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2021-05-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2021-05-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-05-01&dataseries__geographic_unit__country=MR&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "179e4106ec8873d4ff512d2b28d11e80",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-05-01&dataseries__geographic_unit__country=MR&dataseries__ipcclassification__scenario=ML1",
       "id": "307defb7-2ee6-497e-bc3f-a08d609197a6",
-      "last_modified": "2026-10-27T23:13:17.232601",
-      "metadata_modified": "2026-10-27T23:13:18.487008",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T10:55:01.015875",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "cdd6f642-0700-4a22-b6f1-14220f8d46ba",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 356076,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-05-01&dataseries__geographic_unit__country=MR&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-05-01&dataseries__geographic_unit__country=MR&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "6fc2202da39d2266d60e57d6b581df5f",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-05-01&dataseries__geographic_unit__country=MR&dataseries__ipcclassification__scenario=ML2",
       "id": "2b3155df-58e4-47fe-97f5-9bbe01dd493f",
-      "last_modified": "2026-10-27T23:13:17.232703",
-      "metadata_modified": "2026-10-27T23:13:18.487111",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T10:55:01.015943",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "cdd6f642-0700-4a22-b6f1-14220f8d46ba",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 357554,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-05-01&dataseries__geographic_unit__country=MR&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

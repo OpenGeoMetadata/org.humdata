@@ -11,13 +11,13 @@
   "id": "d9a6e447-7282-4165-88e1-a21b8a3f599c",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T07:10:20.739083",
+  "last_modified": "2026-10-28T08:44:11.553559",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T07:10:19.840307",
-  "metadata_modified": "2026-10-28T07:10:30.779393",
+  "metadata_modified": "2026-10-28T10:59:47.550817",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "guatemala-acute-food-insecurity-classification-february-2017-august-2017",
   "notes": "Current (February 2017) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (February 2017 - May 2017) and medium term (June 2017 - August 2017) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "168847"
-    },
-    {
-      "key": "end_date",
-      "value": "2017-08-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2017-02-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2017-02-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2017-02-01&dataseries__geographic_unit__country=GT&dataseries__ipcclassification__scenario=CS",
       "format": "PNG",
-      "hash": "",
+      "hash": "750a6b58783446566ee2ccfec1becd09",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2017-02-01&dataseries__geographic_unit__country=GT&dataseries__ipcclassification__scenario=CS",
       "id": "ffd10932-db32-427e-9c55-3d899d69ca74",
-      "last_modified": "2026-10-28T07:10:19.830503",
-      "metadata_modified": "2026-10-28T07:10:20.739456",
+      "last_modified": "2026-10-28T08:44:11.553559",
+      "metadata_modified": "2026-10-28T10:59:47.571015",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "d9a6e447-7282-4165-88e1-a21b8a3f599c",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 649695,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2017-02-01&dataseries__geographic_unit__country=GT&dataseries__ipcclassification__scenario=CS",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2017-02-01&dataseries__geographic_unit__country=GT&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "d506483e5be4ba8e430bad08a32d3019",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2017-02-01&dataseries__geographic_unit__country=GT&dataseries__ipcclassification__scenario=ML1",
       "id": "9e69b75a-3706-4f19-84f2-1a6badde86d4",
-      "last_modified": "2026-10-28T07:10:19.830659",
-      "metadata_modified": "2026-10-28T07:10:20.739584",
+      "last_modified": "2026-10-28T08:44:11.553559",
+      "metadata_modified": "2026-10-28T10:59:47.571085",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "d9a6e447-7282-4165-88e1-a21b8a3f599c",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 651386,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2017-02-01&dataseries__geographic_unit__country=GT&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -186,11 +168,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2017-02-01&dataseries__geographic_unit__country=GT&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "e1e242d580c24f31a0b9803e8d58ab30",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2017-02-01&dataseries__geographic_unit__country=GT&dataseries__ipcclassification__scenario=ML2",
       "id": "c171a6bc-96ae-42f5-8fda-70e6e86f6632",
-      "last_modified": "2026-10-28T07:10:19.830807",
-      "metadata_modified": "2026-10-28T07:10:20.739704",
+      "last_modified": "2026-10-28T08:44:11.553559",
+      "metadata_modified": "2026-10-28T10:59:47.571151",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,7 +180,7 @@
       "package_id": "d9a6e447-7282-4165-88e1-a21b8a3f599c",
       "position": 4,
       "resource_type": null,
-      "size": null,
+      "size": 651815,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2017-02-01&dataseries__geographic_unit__country=GT&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

@@ -11,13 +11,13 @@
   "id": "ef0dd070-e971-49ac-b71f-98e2642efe31",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-27T21:22:27.278954",
+  "last_modified": "2026-10-28T08:44:12.094448",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-27T21:22:26.373664",
-  "metadata_modified": "2026-10-27T21:22:34.793944",
+  "metadata_modified": "2026-10-28T11:01:40.189390",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "chad-acute-food-insecurity-classification-september-2022-january-2023",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (September 2022) and medium term (October 2022 - January 2023) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "307586"
-    },
-    {
-      "key": "end_date",
-      "value": "2023-01-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2022-09-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2022-09-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-09-01&dataseries__geographic_unit__country=TD&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "d9c06862df30e6cc5f3917dad5d41d52",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-09-01&dataseries__geographic_unit__country=TD&dataseries__ipcclassification__scenario=ML1",
       "id": "4c41f505-00a7-4c03-80a5-3d29e41c1a63",
-      "last_modified": "2026-10-27T21:22:26.366402",
-      "metadata_modified": "2026-10-27T21:22:27.279249",
+      "last_modified": "2026-10-28T08:44:12.094448",
+      "metadata_modified": "2026-10-28T11:01:40.206195",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "ef0dd070-e971-49ac-b71f-98e2642efe31",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 597418,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-09-01&dataseries__geographic_unit__country=TD&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-09-01&dataseries__geographic_unit__country=TD&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "5ca4a7c336aa274edd4d3722860257fe",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-09-01&dataseries__geographic_unit__country=TD&dataseries__ipcclassification__scenario=ML2",
       "id": "7d7cc703-3771-415e-b176-f56cf8fc4fe5",
-      "last_modified": "2026-10-27T21:22:26.366485",
-      "metadata_modified": "2026-10-27T21:22:27.279369",
+      "last_modified": "2026-10-28T08:44:12.094448",
+      "metadata_modified": "2026-10-28T11:01:40.206306",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "ef0dd070-e971-49ac-b71f-98e2642efe31",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 594999,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-09-01&dataseries__geographic_unit__country=TD&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

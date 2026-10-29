@@ -11,13 +11,13 @@
   "id": "fc1354ab-024d-4b28-bf8b-afe1b9e1de65",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-27T17:22:13.720422",
+  "last_modified": "2026-10-28T08:44:12.080454",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-27T17:22:12.606874",
-  "metadata_modified": "2026-10-27T17:22:23.335480",
+  "metadata_modified": "2026-10-28T11:19:32.278677",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "mauritania-acute-food-insecurity-classification-january-2012-june-2012",
   "notes": "Current (January 2012) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (January 2012 - March 2012) and medium term (April 2012 - June 2012) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "168614"
-    },
-    {
-      "key": "end_date",
-      "value": "2012-06-30"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2012-01-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2012-01-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2012-01-01&dataseries__geographic_unit__country=MR&dataseries__ipcclassification__scenario=CS",
       "format": "PNG",
-      "hash": "",
+      "hash": "d068798ae5475ac1b0efb55fe44c724e",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2012-01-01&dataseries__geographic_unit__country=MR&dataseries__ipcclassification__scenario=CS",
       "id": "7beafdde-8f90-477b-ab30-ab424de83856",
-      "last_modified": "2026-10-27T17:22:12.599296",
-      "metadata_modified": "2026-10-27T17:22:13.720742",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T11:19:32.318514",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "fc1354ab-024d-4b28-bf8b-afe1b9e1de65",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 461865,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2012-01-01&dataseries__geographic_unit__country=MR&dataseries__ipcclassification__scenario=CS",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2012-01-01&dataseries__geographic_unit__country=MR&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "ed34a124aceb6d22bae81b80532de95e",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2012-01-01&dataseries__geographic_unit__country=MR&dataseries__ipcclassification__scenario=ML1",
       "id": "6de40269-07a5-41d8-955f-344d2189f3db",
-      "last_modified": "2026-10-27T17:22:12.599401",
-      "metadata_modified": "2026-10-27T17:22:13.720850",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T11:19:32.318637",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,12 +155,13 @@
       "package_id": "fc1354ab-024d-4b28-bf8b-afe1b9e1de65",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 469618,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2012-01-01&dataseries__geographic_unit__country=MR&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-27T17:22:12.609659",
@@ -190,7 +173,7 @@
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2012-01-01&dataseries__geographic_unit__country=MR&dataseries__ipcclassification__scenario=ML2",
       "id": "1cdbe5ce-d352-4e15-8340-b6e85a8fbc18",
       "last_modified": "2026-10-27T17:22:12.599487",
-      "metadata_modified": "2026-10-27T17:22:13.720956",
+      "metadata_modified": "2026-10-28T11:19:32.318742",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

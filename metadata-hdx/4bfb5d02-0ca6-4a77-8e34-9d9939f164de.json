@@ -11,13 +11,13 @@
   "id": "4bfb5d02-0ca6-4a77-8e34-9d9939f164de",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-27T08:17:36.214535",
+  "last_modified": "2026-10-28T08:44:12.080454",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-27T08:17:33.875320",
-  "metadata_modified": "2026-10-27T08:17:42.552412",
+  "metadata_modified": "2026-10-28T09:30:58.719741",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "djibouti-acute-food-insecurity-classification-april-2013-september-2013",
   "notes": "Current (April 2013) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (April 2013 - June 2013) and medium term (July 2013 - September 2013) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "168815"
-    },
-    {
-      "key": "end_date",
-      "value": "2013-09-30"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2013-04-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2013-04-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2013-04-01&dataseries__geographic_unit__country=DJ&dataseries__ipcclassification__scenario=CS",
       "format": "PNG",
-      "hash": "",
+      "hash": "e6ffbda5ee1beba7828cf2dc8256a7d2",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2013-04-01&dataseries__geographic_unit__country=DJ&dataseries__ipcclassification__scenario=CS",
       "id": "2afad787-a671-4475-91c0-e46cde11ce89",
-      "last_modified": "2026-10-27T08:17:33.857134",
-      "metadata_modified": "2026-10-27T08:17:36.214873",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T09:30:58.743356",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "4bfb5d02-0ca6-4a77-8e34-9d9939f164de",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 470291,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2013-04-01&dataseries__geographic_unit__country=DJ&dataseries__ipcclassification__scenario=CS",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2013-04-01&dataseries__geographic_unit__country=DJ&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "712918c614d2fdf149b4582a0cb54d94",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2013-04-01&dataseries__geographic_unit__country=DJ&dataseries__ipcclassification__scenario=ML1",
       "id": "22e9f204-9aac-4f39-ad8c-dcfcff69f82f",
-      "last_modified": "2026-10-27T08:17:33.857293",
-      "metadata_modified": "2026-10-27T08:17:36.214996",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T09:30:58.743483",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,12 +155,13 @@
       "package_id": "4bfb5d02-0ca6-4a77-8e34-9d9939f164de",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 470775,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2013-04-01&dataseries__geographic_unit__country=DJ&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-27T08:17:33.878011",
@@ -190,7 +173,7 @@
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2013-04-01&dataseries__geographic_unit__country=DJ&dataseries__ipcclassification__scenario=ML2",
       "id": "3823493d-3fc0-4d74-834e-f2bd047f2763",
       "last_modified": "2026-10-27T08:17:33.857447",
-      "metadata_modified": "2026-10-27T08:17:36.215422",
+      "metadata_modified": "2026-10-28T09:30:58.743592",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

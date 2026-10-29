@@ -1,0 +1,44 @@
+{
+  "id": "hdx-d2ce0c23-4195-438a-80f0-3d412a416578",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-28T21:58:07Z",
+  "dct_title_s": "Côte d’Ivoire: Acute Food Insecurity Classification (July 2026 - January 2027)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Forward-looking analysis representing the most likely food security outcomes for the near term (July 2026 - September 2026) and medium term (October 2026 - January 2027) periods."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "FEWS NET"
+  ],
+  "dcat_keyword_sm": [
+    "food security",
+    "geodata",
+    "integrated food security phase classification-ipc"
+  ],
+  "dct_subject_sm": [
+    "food security",
+    "geodata",
+    "integrated food security phase classification-ipc"
+  ],
+  "dct_spatial_sm": [
+    "Côte d'Ivoire"
+  ],
+  "locn_geometry": "ENVELOPE(-8.6, -2.56, 10.52, 4.34)",
+  "dcat_bbox": "ENVELOPE(-8.6, -2.56, 10.52, 4.34)",
+  "dct_temporal_sm": [
+    "2026-2027"
+  ],
+  "gbl_indexYear_im": [
+    2026,
+    2027
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cote-divoire-acute-food-insecurity-classification-july-2026-january-2027\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcpackage/country/CI/2026-07-01/\",\"label\":\"Côte d’Ivoire Acute Food Insecurity Classification Shapefile July 2026 (.zip) (zip)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/CI/2026-07-01.geojson\",\"label\":\"Côte d’Ivoire Acute Food Insecurity Classification July 2026 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-07-01&dataseries__geographic_unit__country=CI&dataseries__ipcclassification__scenario=ML1\",\"label\":\"Near Term Projection: July 2026 - September 2026 (.png) (PNG)\"},{\"url\":\"https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-07-01&dataseries__geographic_unit__country=CI&dataseries__ipcclassification__scenario=ML2\",\"label\":\"Medium Term Projection: October 2026 - January 2027 (.png) (PNG)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/CI/ML1/2026-07-01.kml\",\"label\":\"Near Term Projection: July 2026 - September 2026 (.kml) (KML)\"},{\"url\":\"https://fdw.fews.net/api/ipcphasemap/country/CI/ML2/2026-07-01.kml\",\"label\":\"Medium Term Projection: October 2026 - January 2027 (.kml) (KML)\"}],\"http://geojson.org/geojson-spec.html\":\"https://fdw.fews.net/api/ipcphasemap/country/CI/2026-07-01.geojson\"}"
+}

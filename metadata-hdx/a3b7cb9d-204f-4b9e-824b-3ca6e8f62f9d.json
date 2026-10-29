@@ -11,13 +11,13 @@
   "id": "a3b7cb9d-204f-4b9e-824b-3ca6e8f62f9d",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T06:41:00.862579",
+  "last_modified": "2026-10-28T08:44:12.094448",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T06:40:59.713894",
-  "metadata_modified": "2026-10-28T06:41:11.018686",
+  "metadata_modified": "2026-10-28T10:34:17.588172",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "cameroon-acute-food-insecurity-classification-september-2024-january-2025",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (September 2024) and medium term (October 2024 - January 2025) periods.",
@@ -37,7 +37,7 @@
   },
   "owner_org": "f9695fdf-9252-44e1-b3d5-1d73e669ef5a",
   "package_creator": "hussein_lightwalla",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 6,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Cameroon\"]}",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "353553"
-    },
-    {
-      "key": "end_date",
-      "value": "2025-01-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2024-09-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2024-09-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -129,6 +111,7 @@
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-28T06:40:59.715504",
@@ -140,7 +123,7 @@
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-09-01&dataseries__geographic_unit__country=CM&dataseries__ipcclassification__scenario=ML1",
       "id": "3947b0ce-ebe3-480a-8df3-40701f671b04",
       "last_modified": "2026-10-28T06:40:59.709627",
-      "metadata_modified": "2026-10-28T06:41:00.862892",
+      "metadata_modified": "2026-10-28T10:34:17.621284",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -161,11 +144,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-09-01&dataseries__geographic_unit__country=CM&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "82c92fd3bd006a4b359a2d95cd79a4b1",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-09-01&dataseries__geographic_unit__country=CM&dataseries__ipcclassification__scenario=ML2",
       "id": "a946722c-0da6-4db8-b259-8e5c83ae674c",
-      "last_modified": "2026-10-28T06:40:59.709708",
-      "metadata_modified": "2026-10-28T06:41:00.862998",
+      "last_modified": "2026-10-28T08:44:12.094448",
+      "metadata_modified": "2026-10-28T10:34:17.621410",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +156,7 @@
       "package_id": "a3b7cb9d-204f-4b9e-824b-3ca6e8f62f9d",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 586555,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-09-01&dataseries__geographic_unit__country=CM&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

@@ -11,13 +11,13 @@
   "id": "c4badef4-d6aa-4ac6-87b6-ce35d6b788a1",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T05:58:37.643881",
+  "last_modified": "2026-10-28T08:44:12.080454",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T05:58:36.286070",
-  "metadata_modified": "2026-10-28T05:58:47.600406",
+  "metadata_modified": "2026-10-28T10:56:38.862866",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "cameroon-acute-food-insecurity-classification-october-2023-may-2024",
   "notes": "Current (October 2023) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (October 2023 - January 2024) and medium term (February 2024 - May 2024) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "337307"
-    },
-    {
-      "key": "end_date",
-      "value": "2024-05-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2023-10-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2023-10-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-10-01&dataseries__geographic_unit__country=CM&dataseries__ipcclassification__scenario=CS",
       "format": "PNG",
-      "hash": "",
+      "hash": "a5acfb3a78e71bd1d0e1475f7dc95956",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-10-01&dataseries__geographic_unit__country=CM&dataseries__ipcclassification__scenario=CS",
       "id": "9053a1ce-069e-4345-b4b2-76d4d0bb0028",
-      "last_modified": "2026-10-28T05:58:36.273397",
-      "metadata_modified": "2026-10-28T05:58:37.644215",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T10:56:38.883945",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "c4badef4-d6aa-4ac6-87b6-ce35d6b788a1",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 585165,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-10-01&dataseries__geographic_unit__country=CM&dataseries__ipcclassification__scenario=CS",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-10-01&dataseries__geographic_unit__country=CM&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "66041358988bda78c9f69e3d158aab9e",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-10-01&dataseries__geographic_unit__country=CM&dataseries__ipcclassification__scenario=ML1",
       "id": "c71e1aa1-8e4e-4265-b6db-79c689e69a61",
-      "last_modified": "2026-10-28T05:58:36.273573",
-      "metadata_modified": "2026-10-28T05:58:37.644334",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T10:56:38.884095",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "c4badef4-d6aa-4ac6-87b6-ce35d6b788a1",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 586732,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-10-01&dataseries__geographic_unit__country=CM&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -186,11 +168,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-10-01&dataseries__geographic_unit__country=CM&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "be7a128ab662c8495ec64b28a2bcae5f",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-10-01&dataseries__geographic_unit__country=CM&dataseries__ipcclassification__scenario=ML2",
       "id": "36dc46f2-2183-48d7-a726-7a8c96c7ea12",
-      "last_modified": "2026-10-28T05:58:36.273725",
-      "metadata_modified": "2026-10-28T05:58:37.644410",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T10:56:38.884216",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,7 +180,7 @@
       "package_id": "c4badef4-d6aa-4ac6-87b6-ce35d6b788a1",
       "position": 4,
       "resource_type": null,
-      "size": null,
+      "size": 586099,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-10-01&dataseries__geographic_unit__country=CM&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

@@ -11,13 +11,13 @@
   "id": "8ca2cb2a-8e2c-4fd4-b5b7-51f27334707b",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T01:13:59.855653",
+  "last_modified": "2026-10-28T08:44:11.553559",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T01:13:58.789197",
-  "metadata_modified": "2026-10-28T01:14:08.729544",
+  "metadata_modified": "2026-10-28T10:05:21.510324",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "angola-acute-food-insecurity-classification-february-2024-september-2024",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (February 2024 - May 2024) and medium term (June 2024 - September 2024) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "344473"
-    },
-    {
-      "key": "end_date",
-      "value": "2024-09-30"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2024-02-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2024-02-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -110,11 +92,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/api/ipcphasemap/country/AO/2024-02-01.geojson",
       "format": "GeoJSON",
-      "hash": "",
+      "hash": "W/\"73dbd3f19e2470bd45a64bcffd314958\"",
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/country/AO/2024-02-01.geojson",
       "id": "110b4461-578a-472f-8c8b-a47e7aa5f873",
-      "last_modified": "2026-10-28T01:13:58.778002",
-      "metadata_modified": "2026-10-28T01:14:03.849470",
+      "last_modified": "2026-10-28T08:44:11.553559",
+      "metadata_modified": "2026-10-28T10:05:21.544782",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-02-01&dataseries__geographic_unit__country=AO&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "5aa51b43ae9df13acf39affa6aee012c",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-02-01&dataseries__geographic_unit__country=AO&dataseries__ipcclassification__scenario=ML1",
       "id": "00339738-d7b6-487e-a24e-725c08190327",
-      "last_modified": "2026-10-28T01:13:58.778163",
-      "metadata_modified": "2026-10-28T01:13:59.855927",
+      "last_modified": "2026-10-28T08:44:11.553559",
+      "metadata_modified": "2026-10-28T10:05:21.544918",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "8ca2cb2a-8e2c-4fd4-b5b7-51f27334707b",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 382701,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-02-01&dataseries__geographic_unit__country=AO&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-02-01&dataseries__geographic_unit__country=AO&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "d0ac6db6e53125919b00b9ec6ef9357d",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-02-01&dataseries__geographic_unit__country=AO&dataseries__ipcclassification__scenario=ML2",
       "id": "ca475e5f-17c3-448d-a8c2-d2b0008cd1f5",
-      "last_modified": "2026-10-28T01:13:58.778319",
-      "metadata_modified": "2026-10-28T01:13:59.855999",
+      "last_modified": "2026-10-28T08:44:11.553559",
+      "metadata_modified": "2026-10-28T10:05:21.545046",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "8ca2cb2a-8e2c-4fd4-b5b7-51f27334707b",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 382947,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-02-01&dataseries__geographic_unit__country=AO&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

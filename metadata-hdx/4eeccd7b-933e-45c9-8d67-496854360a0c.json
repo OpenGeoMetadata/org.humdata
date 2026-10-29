@@ -11,13 +11,13 @@
   "id": "4eeccd7b-933e-45c9-8d67-496854360a0c",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-26T18:41:14.422722",
+  "last_modified": "2026-10-28T08:44:12.080454",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-26T18:41:13.115890",
-  "metadata_modified": "2026-10-26T18:41:24.945090",
+  "metadata_modified": "2026-10-28T09:31:32.599451",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "nigeria-acute-food-insecurity-classification-july-2015-december-2015",
   "notes": "Current (July 2015) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (July 2015 - September 2015) and medium term (October 2015 - December 2015) periods.",
@@ -37,7 +37,7 @@
   },
   "owner_org": "f9695fdf-9252-44e1-b3d5-1d73e669ef5a",
   "package_creator": "hussein_lightwalla",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 5,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Nigeria\"]}",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "168572"
-    },
-    {
-      "key": "end_date",
-      "value": "2015-12-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2015-07-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2015-07-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-07-01&dataseries__geographic_unit__country=NG&dataseries__ipcclassification__scenario=CS",
       "format": "PNG",
-      "hash": "",
+      "hash": "0c7b12ee668e5e36157dfa7e2b86fcb2",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-07-01&dataseries__geographic_unit__country=NG&dataseries__ipcclassification__scenario=CS",
       "id": "11e33219-cf9b-4c93-a86a-3b231f2404de",
-      "last_modified": "2026-10-26T18:41:13.103107",
-      "metadata_modified": "2026-10-26T18:41:14.422928",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T09:31:32.640249",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "4eeccd7b-933e-45c9-8d67-496854360a0c",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 808673,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-07-01&dataseries__geographic_unit__country=NG&dataseries__ipcclassification__scenario=CS",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-07-01&dataseries__geographic_unit__country=NG&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "170122c6d025f94d473664e47f563dc3",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-07-01&dataseries__geographic_unit__country=NG&dataseries__ipcclassification__scenario=ML1",
       "id": "18de4195-3f83-4339-a869-581b00ef86a0",
-      "last_modified": "2026-10-26T18:41:13.103270",
-      "metadata_modified": "2026-10-26T18:41:14.422994",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T09:31:32.640393",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "4eeccd7b-933e-45c9-8d67-496854360a0c",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 810876,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-07-01&dataseries__geographic_unit__country=NG&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -186,11 +168,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-07-01&dataseries__geographic_unit__country=NG&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "54dfcfb345ab6e1ee14d7327482305e2",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-07-01&dataseries__geographic_unit__country=NG&dataseries__ipcclassification__scenario=ML2",
       "id": "0ca2b092-230b-4111-a0db-b264b9be6627",
-      "last_modified": "2026-10-26T18:41:13.103441",
-      "metadata_modified": "2026-10-26T18:41:14.423055",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T09:31:32.640531",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,7 +180,7 @@
       "package_id": "4eeccd7b-933e-45c9-8d67-496854360a0c",
       "position": 4,
       "resource_type": null,
-      "size": null,
+      "size": 810819,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-07-01&dataseries__geographic_unit__country=NG&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

@@ -11,13 +11,13 @@
   "id": "cfd3f5b1-0fae-4bcc-93c9-142b2294c5f3",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-26T18:15:19.798376",
+  "last_modified": "2026-10-28T08:44:12.080454",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-26T18:15:18.201188",
-  "metadata_modified": "2026-10-26T18:15:30.138882",
+  "metadata_modified": "2026-10-28T10:57:47.523786",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "niger-acute-food-insecurity-classification-november-2023-may-2024",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (November 2023 - January 2024) and medium term (February 2024 - May 2024) periods.",
@@ -37,7 +37,7 @@
   },
   "owner_org": "f9695fdf-9252-44e1-b3d5-1d73e669ef5a",
   "package_creator": "hussein_lightwalla",
-  "pageviews_last_14_days": 6,
+  "pageviews_last_14_days": 12,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Niger\"]}",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "338665"
-    },
-    {
-      "key": "end_date",
-      "value": "2024-05-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2023-11-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2023-11-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -110,11 +92,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/api/ipcphasemap/country/NE/2023-11-01.geojson",
       "format": "GeoJSON",
-      "hash": "",
+      "hash": "W/\"4be167e6a82752fec2e105f5997e815d\"",
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/country/NE/2023-11-01.geojson",
       "id": "cb0f32fd-66ca-419b-8314-d97da97770b0",
-      "last_modified": "2026-10-26T18:15:18.188994",
-      "metadata_modified": "2026-10-26T18:15:23.626400",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T10:57:47.561490",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

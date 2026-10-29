@@ -11,13 +11,13 @@
   "id": "dc8638b0-db36-41a5-a844-51fd59e69643",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-27T23:00:25.271458",
+  "last_modified": "2026-10-28T08:44:11.553559",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-27T23:00:24.218041",
-  "metadata_modified": "2026-10-27T23:00:34.539825",
+  "metadata_modified": "2026-10-28T11:00:36.010958",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "malawi-acute-food-insecurity-classification-may-2023-september-2023",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (May 2023) and medium term (June 2023 - September 2023) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "320135"
-    },
-    {
-      "key": "end_date",
-      "value": "2023-09-30"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2023-05-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2023-05-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -103,6 +85,7 @@
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-27T23:00:24.223041",
@@ -114,7 +97,7 @@
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/country/MW/2023-05-01.geojson",
       "id": "8ab59d7f-913b-43db-a090-d96abfe313ef",
       "last_modified": "2026-10-27T23:00:24.211304",
-      "metadata_modified": "2026-10-27T23:00:29.328110",
+      "metadata_modified": "2026-10-28T11:00:36.028527",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -186,11 +169,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/api/ipcphasemap/country/MW/ML1/2023-05-01.kml",
       "format": "KML",
-      "hash": "",
+      "hash": "W/\"3a5daec85e1f3bcc9bc76c5ed362d817\"",
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/country/MW/ML1/2023-05-01.kml",
       "id": "57314f33-5a61-47ed-a71f-fb1fc06101bd",
-      "last_modified": "2026-10-27T23:00:24.211630",
-      "metadata_modified": "2026-10-27T23:00:28.757307",
+      "last_modified": "2026-10-28T08:44:11.553559",
+      "metadata_modified": "2026-10-28T11:00:36.028917",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -212,11 +195,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/api/ipcphasemap/country/MW/ML2/2023-05-01.kml",
       "format": "KML",
-      "hash": "",
+      "hash": "W/\"be13108d3989483e8850b7d291dc09fd\"",
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/country/MW/ML2/2023-05-01.kml",
       "id": "c247c44e-21d4-48dd-ab7d-a5b6f57d8b75",
-      "last_modified": "2026-10-27T23:00:24.211730",
-      "metadata_modified": "2026-10-27T23:00:29.953220",
+      "last_modified": "2026-10-28T08:44:11.553559",
+      "metadata_modified": "2026-10-28T11:00:36.029020",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

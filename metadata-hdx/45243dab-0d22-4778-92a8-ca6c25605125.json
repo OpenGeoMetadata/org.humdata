@@ -11,13 +11,13 @@
   "id": "45243dab-0d22-4778-92a8-ca6c25605125",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-27T15:27:38.757026",
+  "last_modified": "2026-10-28T08:44:12.080454",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-27T15:27:37.307979",
-  "metadata_modified": "2026-10-27T15:27:49.174365",
+  "metadata_modified": "2026-10-28T09:31:44.695867",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "ethiopia-acute-food-insecurity-classification-february-2017-august-2017",
   "notes": "Current (February 2017) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (February 2017 - May 2017) and medium term (June 2017 - August 2017) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "354916"
-    },
-    {
-      "key": "end_date",
-      "value": "2017-08-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2017-02-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2017-02-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2017-02-01&dataseries__geographic_unit__country=ET&dataseries__ipcclassification__scenario=CS",
       "format": "PNG",
-      "hash": "",
+      "hash": "d6c0e348e3992859453b94edb345526c",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2017-02-01&dataseries__geographic_unit__country=ET&dataseries__ipcclassification__scenario=CS",
       "id": "6a098364-617d-474e-a41e-8ba36b4b57ff",
-      "last_modified": "2026-10-27T15:27:37.297538",
-      "metadata_modified": "2026-10-27T15:27:38.757322",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T09:31:44.716928",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "45243dab-0d22-4778-92a8-ca6c25605125",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 772959,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2017-02-01&dataseries__geographic_unit__country=ET&dataseries__ipcclassification__scenario=CS",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2017-02-01&dataseries__geographic_unit__country=ET&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "2c41d4dbf6b38cf024c0046fd9738ad1",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2017-02-01&dataseries__geographic_unit__country=ET&dataseries__ipcclassification__scenario=ML1",
       "id": "dd7d3864-8e1c-47af-88a4-a340ce8962b9",
-      "last_modified": "2026-10-27T15:27:37.297681",
-      "metadata_modified": "2026-10-27T15:27:38.757424",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T09:31:44.717051",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "45243dab-0d22-4778-92a8-ca6c25605125",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 773965,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2017-02-01&dataseries__geographic_unit__country=ET&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -186,11 +168,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2017-02-01&dataseries__geographic_unit__country=ET&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "6cb238768a950ecb831619b16c078e53",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2017-02-01&dataseries__geographic_unit__country=ET&dataseries__ipcclassification__scenario=ML2",
       "id": "2fc86def-921a-406f-ae53-1b9a74dce24c",
-      "last_modified": "2026-10-27T15:27:37.297861",
-      "metadata_modified": "2026-10-27T15:27:38.757526",
+      "last_modified": "2026-10-28T08:44:12.080454",
+      "metadata_modified": "2026-10-28T09:31:44.717167",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,7 +180,7 @@
       "package_id": "45243dab-0d22-4778-92a8-ca6c25605125",
       "position": 4,
       "resource_type": null,
-      "size": null,
+      "size": 710501,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2017-02-01&dataseries__geographic_unit__country=ET&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

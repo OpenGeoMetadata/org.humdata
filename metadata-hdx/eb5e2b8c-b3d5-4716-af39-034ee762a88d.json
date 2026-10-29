@@ -11,13 +11,13 @@
   "id": "eb5e2b8c-b3d5-4716-af39-034ee762a88d",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T04:03:05.804055",
+  "last_modified": "2026-10-28T08:44:12.094448",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T04:03:04.685746",
-  "metadata_modified": "2026-10-28T04:03:13.719838",
+  "metadata_modified": "2026-10-28T11:00:14.046815",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "burundi-acute-food-insecurity-classification-november-2022-may-2023",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (November 2022 - January 2023) and medium term (February 2023 - May 2023) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "310671"
-    },
-    {
-      "key": "end_date",
-      "value": "2023-05-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2022-11-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2022-11-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-11-01&dataseries__geographic_unit__country=BI&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "f5b0a4d81a4f673812f2d292ce17767f",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-11-01&dataseries__geographic_unit__country=BI&dataseries__ipcclassification__scenario=ML1",
       "id": "6081980e-49e9-4780-8dba-f17baef2fe0a",
-      "last_modified": "2026-10-28T04:03:04.673940",
-      "metadata_modified": "2026-10-28T04:03:05.804363",
+      "last_modified": "2026-10-28T08:44:12.094448",
+      "metadata_modified": "2026-10-28T11:00:14.082252",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,12 +130,13 @@
       "package_id": "eb5e2b8c-b3d5-4716-af39-034ee762a88d",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 521672,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-11-01&dataseries__geographic_unit__country=BI&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-28T04:03:04.691421",
@@ -165,7 +148,7 @@
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-11-01&dataseries__geographic_unit__country=BI&dataseries__ipcclassification__scenario=ML2",
       "id": "ea1a9ed7-5d1b-4324-9f3d-1d14586aef94",
       "last_modified": "2026-10-28T04:03:04.674175",
-      "metadata_modified": "2026-10-28T04:03:05.804468",
+      "metadata_modified": "2026-10-28T11:00:14.082410",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

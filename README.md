@@ -8,14 +8,24 @@ The records are mapped from HDX's own metadata for each dataset, which is kept a
 
 ```
 metadata-hdx/
-  0a01505d-cf39-4d5c-b805-60073b555a95.json      a dataset's metadata as HDX gives it, named by its id
+  worldpop/                                        the organization that shares the dataset
+    0a01505d-cf39-4d5c-b805-60073b555a95.json      a dataset's metadata as HDX gives it, named by its id
+    ...
+  hot/
+    eth/                                           HOT datasets, further divided by the country each covers
+      ...
+    ...
   ...
 metadata-aardvark/
-  0a01505d-cf39-4d5c-b805-60073b555a95.json      its record, whose id is hdx-0a01505d-cf39-4d5c-b805-60073b555a95
+  worldpop/
+    0a01505d-cf39-4d5c-b805-60073b555a95.json      the Aardvark record corresponding to id 0a01505d-cf39-4d5c-b805-60073b555a95
+    ...
   ...
-state.json                                       where the next harvest starts from
-withdrawn.json                                   records that have left the repository
+state.json                                         where the next harvest starts from
+withdrawn.json                                     records that have left the repository
 ```
+
+Records are subdivided by the organization or program that provides the dataset to HDX. The Humanitarian OpenStreetMap Team (HOT) shares  exports per country, and FEWS NET does a food insecurity classification for each country and period, so their records are additionally subdivided by country code. This makes it easier to browse directories on GitHub.
 
 ## Metadata
 
@@ -69,16 +79,16 @@ for test in test/*_test.rb; do ruby "$test"; done
 
 ## Converting Metadata to Aardvark
 
-`convert.rb` maps the HDX metadata files passed to it into the OGM Aardvark schema, and writes each record to `metadata-aardvark/` with the same filename as its input:
+`convert.rb` maps the HDX metadata files passed to it into the OGM Aardvark schema, and writes each record to its directory in `metadata-aardvark/`, with the same filename as its input:
 
 ```bash
-TZ=UTC ruby convert.rb metadata-hdx/some-id.json metadata-hdx/another-id.json
+TZ=UTC ruby convert.rb metadata-hdx/worldpop/some-id.json metadata-hdx/hot/eth/another-id.json
 ```
 
 To convert every dataset:
 
 ```bash
-TZ=UTC ruby convert.rb metadata-hdx/*.json
+find metadata-hdx -name '*.json' -exec env TZ=UTC ruby convert.rb {} +
 ```
 
 ## How to Contribute

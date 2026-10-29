@@ -8,8 +8,8 @@ require_relative 'http_client'
 require_relative 'mapper'
 
 # Harvests the datasets with geodata on the Humanitarian Data Exchange (HDX) that it hasn't archived: their
-# metadata as HDX gives it, in metadata-hdx/, and the Aardvark records mapped from it, in metadata-aardvark/.
-# Records that leave the repository are logged in withdrawn.json.
+# metadata as HDX gives it, in metadata-hdx/, and the Aardvark records mapped from it, in metadata-aardvark/, both
+# filed by organization. Records that leave the repository are logged in withdrawn.json.
 #
 # HDX has too many datasets to fetch every one on every run, so a run fetches only those modified since the last
 # one began, which state.json records. Their ids are cheap to list, though, so every run also lists them all, and
@@ -33,10 +33,25 @@ class Harvester
   # left the listing without being archived
   INTERVALS = { 'data.humdata.org' => 0.5 }.freeze
 
+  # The organizations whose records are filed by country as well, with thousands of datasets each: HOT shares a
+  # dozen OpenStreetMap exports for each country, and FEWS NET a food insecurity classification for each country and
+  # period
+  BY_COUNTRY = %w[fewsnet hot].freeze
+
   class Error < StandardError; end
 
   def self.run(**options)
     new(**options).run
+  end
+
+  # Records are filed by the organization that shares their dataset, and the largest organizations' by country too,
+  # which keeps every directory under GitHub's 1,000-entry listing limit. A dataset that covers more than one
+  # country stays in its organization's directory. A record moves when HDX moves its dataset.
+  # @return [Array<String>] the directories a dataset's files are in, under each metadata directory
+  def self.directories(dataset)
+    organization = dataset.dig('organization', 'name') || 'no-organization'
+    countries = (dataset['groups'] || []).map { |group| group['name'] }
+    BY_COUNTRY.include?(organization) && countries.size == 1 ? [organization, countries.first] : [organization]
   end
 
   attr_reader :state_file, :hdx_metadata_dir, :aardvark_metadata_dir, :withdrawn_file, :dry_run, :force,
@@ -74,7 +89,7 @@ class Harvester
     counts[:modified] = hdx.modified_since(last_run) do |dataset|
       modified = dataset['metadata_modified']
       if modified && Hdx.time(modified) > last_run
-        counts[save(dataset)] += 1
+        counts[save(dataset, existing[dataset['id']])] += 1
         written << dataset['id']
       else
         counts[:not_newer] += 1
@@ -119,28 +134,30 @@ class Harvester
     "#{Mapper::ID_PREFIX}#{id}"
   end
 
-  def hdx_path(id)
-    File.join(hdx_metadata_dir, "#{id}.json")
-  end
-
-  def aardvark_path(id)
-    File.join(aardvark_metadata_dir, "#{id}.json")
+  # The files a dataset's metadata and its record belong in
+  def paths(dataset)
+    path = File.join(*Harvester.directories(dataset), "#{dataset['id']}.json")
+    [File.join(hdx_metadata_dir, path), File.join(aardvark_metadata_dir, path)]
   end
 
   # Every dataset's record currently in the repository, by the dataset's id, with the files it's kept in
   def existing_records
-    Dir.glob(File.join(aardvark_metadata_dir, '*.json')).to_h do |path|
-      id = File.basename(path, '.json')
-      [id, [hdx_path(id), path]]
+    Dir.glob('**/*.json', base: aardvark_metadata_dir).to_h do |path|
+      [File.basename(path, '.json'), [File.join(hdx_metadata_dir, path), File.join(aardvark_metadata_dir, path)]]
     end
   end
 
-  # Saves a dataset as HDX gave it, and its record
+  # Saves a dataset as HDX gave it, and its record, and deletes the files it was kept in if it has moved
+  # @param previous [Array<String>, nil] the files the dataset is kept in now, if it has a record
   # @return [Symbol] :created, :updated, or :unchanged, for the record
-  def save(dataset)
-    id = dataset['id']
-    write_json(hdx_path(id), dataset)
-    write_json(aardvark_path(id), Mapper.map(dataset))
+  def save(dataset, previous)
+    hdx_path, aardvark_path = paths(dataset)
+    write_json(hdx_path, dataset)
+    result = write_json(aardvark_path, Mapper.map(dataset))
+    return result unless previous && previous != [hdx_path, aardvark_path]
+
+    previous.each { |path| File.delete(path) if !dry_run && File.exist?(path) }
+    :updated
   end
 
   def write_json(path, data)

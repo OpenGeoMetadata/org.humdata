@@ -27,7 +27,7 @@ class HarvesterTest < Minitest::Test
 
   def dataset(id, modified: '2026-10-01T12:00:00.000000', **fields)
     { 'id' => id, 'name' => "dataset-#{id}", 'title' => "Dataset #{id.upcase}", 'metadata_modified' => modified,
-      'has_geodata' => true }.merge(fields.transform_keys(&:to_s))
+      'has_geodata' => true, 'organization' => { 'name' => 'example' } }.merge(fields.transform_keys(&:to_s))
   end
 
   # With five records, one leaving is more than the 2% drop a real run allows
@@ -51,12 +51,12 @@ class HarvesterTest < Minitest::Test
     JSON.parse(File.read(@state_file))['last_run']
   end
 
-  def record_path(id)
-    File.join(@aardvark_metadata_dir, "#{id}.json")
+  def record_path(id, *directories)
+    File.join(@aardvark_metadata_dir, *(directories.empty? ? ['example'] : directories), "#{id}.json")
   end
 
-  def hdx_path(id)
-    File.join(@hdx_metadata_dir, "#{id}.json")
+  def hdx_path(id, *directories)
+    File.join(@hdx_metadata_dir, *(directories.empty? ? ['example'] : directories), "#{id}.json")
   end
 
   def record(id)
@@ -83,6 +83,49 @@ class HarvesterTest < Minitest::Test
     assert_equal 'hdx-a1', record('a1')['id']
     assert_equal 'metadata_modified:[2024-01-01T00:00:00Z TO *]', @hdx.searches.last['fq']
     refute File.exist?(@withdrawn_file), 'nothing was withdrawn, so there should be no log'
+  end
+
+  def test_records_are_filed_by_organization
+    edit('b2', organization: { 'name' => 'worldpop' })
+    harvest
+
+    assert File.exist?(hdx_path('a1'))
+    assert File.exist?(record_path('b2', 'worldpop'))
+    assert File.exist?(hdx_path('b2', 'worldpop'))
+  end
+
+  def test_hot_records_are_filed_by_country_unless_they_cover_more_than_one
+    edit('a1', organization: { 'name' => 'hot' }, groups: [{ 'name' => 'eth' }])
+    edit('b2', organization: { 'name' => 'hot' }, groups: [{ 'name' => 'cod' }, { 'name' => 'uga' }])
+    edit('c3', groups: [{ 'name' => 'eth' }])
+    harvest
+
+    assert File.exist?(record_path('a1', 'hot', 'eth'))
+    assert File.exist?(record_path('b2', 'hot'))
+    assert File.exist?(record_path('c3', 'example'))
+  end
+
+  def test_a_record_moves_with_its_dataset
+    harvested
+    edit('b2', organization: { 'name' => 'worldpop' }, metadata_modified: '2026-10-08T03:00:00.000000')
+    counts = harvest
+
+    assert_equal 1, counts[:updated]
+    assert_equal 0, counts[:created]
+    assert File.exist?(record_path('b2', 'worldpop'))
+    assert File.exist?(hdx_path('b2', 'worldpop'))
+    refute File.exist?(record_path('b2'))
+    refute File.exist?(hdx_path('b2'))
+  end
+
+  def test_a_dry_run_leaves_a_moved_record_where_it_was
+    harvested
+    edit('b2', organization: { 'name' => 'worldpop' }, metadata_modified: '2026-10-08T03:00:00.000000')
+    counts = harvest(dry_run: true)
+
+    assert_equal 1, counts[:updated]
+    assert File.exist?(record_path('b2'))
+    refute File.exist?(record_path('b2', 'worldpop'))
   end
 
   def test_files_are_pretty_printed_utf8_without_a_trailing_newline

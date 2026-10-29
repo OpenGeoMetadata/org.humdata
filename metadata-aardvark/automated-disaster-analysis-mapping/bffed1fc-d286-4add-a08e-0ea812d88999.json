@@ -1,0 +1,43 @@
+{
+  "id": "hdx-bffed1fc-d286-4add-a08e-0ea812d88999",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-10-30T04:23:08Z",
+  "dct_title_s": "Vanuatu - Earthquake on Oct 29 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000ttvf](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000ttvf) Magnitude 5.4 earthquake at 10.0 depth occurred on Oct 29 2026 4km NW of Maewo Island. The epicentre of the earthquake was located at latitude -15.1213 longitude 168.0994. It impacted 11987 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Vanuatu"
+  ],
+  "locn_geometry": "ENVELOPE(166.63, 167.84, -14.63, -16.6)",
+  "dcat_bbox": "ENVELOPE(166.63, 167.84, -14.63, -16.6)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/vut-earthquake-sm-us7000ttvf\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/bffed1fc-d286-4add-a08e-0ea812d88999/resource/a22fb18e-fec1-4775-a2f6-f443df2dda87/download/vut_wfpadam_earthquake_20261029.geojson\",\"label\":\"vut_wfpadam_earthquake_20261029.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/bffed1fc-d286-4add-a08e-0ea812d88999/resource/c4ed9de9-bc55-419f-903f-d71773f62f90/download/vut_wfpadam_earthquake_20261029.csv\",\"label\":\"vut_wfpadam_earthquake_20261029.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/bffed1fc-d286-4add-a08e-0ea812d88999/resource/d2dd13b7-9922-4684-81e8-14c3797f7ac5/download/vut_wfpadam_earthquake_20261029.xlsx\",\"label\":\"vut_wfpadam_earthquake_20261029.xlsx (XLSX)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/bffed1fc-d286-4add-a08e-0ea812d88999/resource/a22fb18e-fec1-4775-a2f6-f443df2dda87/download/vut_wfpadam_earthquake_20261029.geojson\"}"
+}

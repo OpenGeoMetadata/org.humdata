@@ -11,13 +11,13 @@
   "id": "2157d386-32cf-49a7-b608-2be0c5cc7a4a",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T19:22:40.583258",
+  "last_modified": "2026-10-30T08:44:10.620960",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T19:22:39.666493",
-  "metadata_modified": "2026-10-28T19:22:51.721983",
+  "metadata_modified": "2026-10-30T09:07:26.436522",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "central-african-republic-acute-food-insecurity-classification-august-2021-january-2022",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (August 2021 - September 2021) and medium term (October 2021 - January 2022) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "240343"
-    },
-    {
-      "key": "end_date",
-      "value": "2022-01-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2021-08-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2021-08-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-08-01&dataseries__geographic_unit__country=CF&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "cf68f291290ebcd62444030ff572f691",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-08-01&dataseries__geographic_unit__country=CF&dataseries__ipcclassification__scenario=ML1",
       "id": "ec1ac3f5-6e50-4e4c-9a44-4d8165e07e10",
-      "last_modified": "2026-10-28T19:22:39.657421",
-      "metadata_modified": "2026-10-28T19:22:40.583781",
+      "last_modified": "2026-10-30T08:44:10.620960",
+      "metadata_modified": "2026-10-30T09:07:26.459416",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "2157d386-32cf-49a7-b608-2be0c5cc7a4a",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 443249,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-08-01&dataseries__geographic_unit__country=CF&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-08-01&dataseries__geographic_unit__country=CF&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "25c91bab62cce73d4106f3e7183d18b3",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-08-01&dataseries__geographic_unit__country=CF&dataseries__ipcclassification__scenario=ML2",
       "id": "da5d3698-074e-43da-b121-0da834866de0",
-      "last_modified": "2026-10-28T19:22:39.657561",
-      "metadata_modified": "2026-10-28T19:22:40.583851",
+      "last_modified": "2026-10-30T08:44:10.620960",
+      "metadata_modified": "2026-10-30T09:07:26.459543",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "2157d386-32cf-49a7-b608-2be0c5cc7a4a",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 442707,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-08-01&dataseries__geographic_unit__country=CF&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

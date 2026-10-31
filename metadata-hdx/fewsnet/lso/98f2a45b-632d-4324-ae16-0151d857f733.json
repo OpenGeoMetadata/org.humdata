@@ -11,13 +11,13 @@
   "id": "98f2a45b-632d-4324-ae16-0151d857f733",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T17:55:03.211198",
+  "last_modified": "2026-10-30T08:44:09.716161",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T17:55:02.026587",
-  "metadata_modified": "2026-10-28T17:55:12.227698",
+  "metadata_modified": "2026-10-30T10:24:59.845021",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "lesotho-acute-food-insecurity-classification-january-2021-may-2021",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (January 2021) and medium term (February 2021 - May 2021) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "171580"
-    },
-    {
-      "key": "end_date",
-      "value": "2021-05-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2021-01-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2021-01-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-01-01&dataseries__geographic_unit__country=LS&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "2fad380e0fe9486afd8b06d84cb77f8f",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-01-01&dataseries__geographic_unit__country=LS&dataseries__ipcclassification__scenario=ML1",
       "id": "e59c57c1-68a2-4bfc-a397-bc1cf767be25",
-      "last_modified": "2026-10-28T17:55:02.019727",
-      "metadata_modified": "2026-10-28T17:55:03.211542",
+      "last_modified": "2026-10-30T08:44:09.716161",
+      "metadata_modified": "2026-10-30T10:24:59.885620",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "98f2a45b-632d-4324-ae16-0151d857f733",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 340679,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-01-01&dataseries__geographic_unit__country=LS&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-01-01&dataseries__geographic_unit__country=LS&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "617e3c75e243d606d0e843fc785fdac3",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-01-01&dataseries__geographic_unit__country=LS&dataseries__ipcclassification__scenario=ML2",
       "id": "6596fc53-348d-4bcb-8940-fd8fa763b01b",
-      "last_modified": "2026-10-28T17:55:02.019815",
-      "metadata_modified": "2026-10-28T17:55:03.211686",
+      "last_modified": "2026-10-30T08:44:09.716161",
+      "metadata_modified": "2026-10-30T10:24:59.885746",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "98f2a45b-632d-4324-ae16-0151d857f733",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 341686,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-01-01&dataseries__geographic_unit__country=LS&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

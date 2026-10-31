@@ -11,13 +11,13 @@
   "id": "873c4aed-5904-4c03-8ef3-d5bbacab6995",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T15:43:38.207926",
+  "last_modified": "2026-10-30T08:44:09.640885",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T15:43:37.307486",
-  "metadata_modified": "2026-10-28T15:43:44.971512",
+  "metadata_modified": "2026-10-30T10:01:51.920522",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "el-salvador-acute-food-insecurity-classification-september-2021-january-2022",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (September 2021) and medium term (October 2021 - January 2022) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "247834"
-    },
-    {
-      "key": "end_date",
-      "value": "2022-01-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2021-09-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2021-09-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-09-01&dataseries__geographic_unit__country=SV&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "b0ada7685d8c8a7213e32baed5f8336a",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-09-01&dataseries__geographic_unit__country=SV&dataseries__ipcclassification__scenario=ML1",
       "id": "6631c32b-1fb4-42f8-8e34-b2eb1d5ff5f8",
-      "last_modified": "2026-10-28T15:43:37.301079",
-      "metadata_modified": "2026-10-28T15:43:38.208291",
+      "last_modified": "2026-10-30T08:44:09.640885",
+      "metadata_modified": "2026-10-30T10:01:51.938489",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "873c4aed-5904-4c03-8ef3-d5bbacab6995",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 444868,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-09-01&dataseries__geographic_unit__country=SV&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-09-01&dataseries__geographic_unit__country=SV&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "42203ce5e30b1390377c2333e862d2f4",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-09-01&dataseries__geographic_unit__country=SV&dataseries__ipcclassification__scenario=ML2",
       "id": "3b163dc8-46e0-4127-9d7a-e7feb1cb0938",
-      "last_modified": "2026-10-28T15:43:37.301161",
-      "metadata_modified": "2026-10-28T15:43:38.208414",
+      "last_modified": "2026-10-30T08:44:09.640885",
+      "metadata_modified": "2026-10-30T10:01:51.938597",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "873c4aed-5904-4c03-8ef3-d5bbacab6995",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 440010,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-09-01&dataseries__geographic_unit__country=SV&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

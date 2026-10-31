@@ -11,13 +11,13 @@
   "id": "dd644c00-4593-4d93-9005-e0d8b90c11a3",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T13:22:30.711747",
+  "last_modified": "2026-10-30T08:44:10.620960",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T13:22:29.647118",
-  "metadata_modified": "2026-10-28T13:22:43.397424",
+  "metadata_modified": "2026-10-30T10:49:34.938579",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "uganda-acute-food-insecurity-classification-june-2021-january-2022",
   "notes": "Current (June 2021) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (June 2021 - September 2021) and medium term (October 2021 - January 2022) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "234779"
-    },
-    {
-      "key": "end_date",
-      "value": "2022-01-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2021-06-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2021-06-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-06-01&dataseries__geographic_unit__country=UG&dataseries__ipcclassification__scenario=CS",
       "format": "PNG",
-      "hash": "",
+      "hash": "2facd8ad83285c497d9fce9ec0481c57",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-06-01&dataseries__geographic_unit__country=UG&dataseries__ipcclassification__scenario=CS",
       "id": "98ee627d-3d6b-4bed-bab9-45b68e996da1",
-      "last_modified": "2026-10-28T13:22:29.639335",
-      "metadata_modified": "2026-10-28T13:22:30.712087",
+      "last_modified": "2026-10-30T08:44:10.620960",
+      "metadata_modified": "2026-10-30T10:49:34.952859",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "dd644c00-4593-4d93-9005-e0d8b90c11a3",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 563642,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-06-01&dataseries__geographic_unit__country=UG&dataseries__ipcclassification__scenario=CS",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-06-01&dataseries__geographic_unit__country=UG&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "431c5a1e5b418bb6c6232fbb4245cb48",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-06-01&dataseries__geographic_unit__country=UG&dataseries__ipcclassification__scenario=ML1",
       "id": "7710a2bd-f629-4c96-ba0a-58c9be7b3009",
-      "last_modified": "2026-10-28T13:22:29.639498",
-      "metadata_modified": "2026-10-28T13:22:30.712199",
+      "last_modified": "2026-10-30T08:44:10.620960",
+      "metadata_modified": "2026-10-30T10:49:34.952929",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "dd644c00-4593-4d93-9005-e0d8b90c11a3",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 565898,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-06-01&dataseries__geographic_unit__country=UG&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -186,11 +168,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-06-01&dataseries__geographic_unit__country=UG&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "6adf97f83acf6453d4a6a4b1070f3754",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-06-01&dataseries__geographic_unit__country=UG&dataseries__ipcclassification__scenario=ML2",
       "id": "d6df003e-b6bd-4efa-8cb0-c9ebee07035a",
-      "last_modified": "2026-10-28T13:22:29.639640",
-      "metadata_modified": "2026-10-28T13:22:30.712307",
+      "last_modified": "2026-10-30T08:44:10.620960",
+      "metadata_modified": "2026-10-30T10:49:34.952991",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,7 +180,7 @@
       "package_id": "dd644c00-4593-4d93-9005-e0d8b90c11a3",
       "position": 4,
       "resource_type": null,
-      "size": null,
+      "size": 4,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-06-01&dataseries__geographic_unit__country=UG&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

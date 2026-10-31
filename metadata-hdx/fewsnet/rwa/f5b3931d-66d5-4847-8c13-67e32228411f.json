@@ -11,13 +11,13 @@
   "id": "f5b3931d-66d5-4847-8c13-67e32228411f",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T17:42:04.753809",
+  "last_modified": "2026-10-30T08:44:10.620960",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T17:42:03.468008",
-  "metadata_modified": "2026-10-28T17:42:13.815806",
+  "metadata_modified": "2026-10-30T11:11:45.281951",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "rwanda-acute-food-insecurity-classification-april-2021-september-2021",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (April 2021 - May 2021) and medium term (June 2021 - September 2021) periods.",
@@ -37,7 +37,7 @@
   },
   "owner_org": "f9695fdf-9252-44e1-b3d5-1d73e669ef5a",
   "package_creator": "hussein_lightwalla",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 7,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Rwanda\"]}",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "207302"
-    },
-    {
-      "key": "end_date",
-      "value": "2021-09-30"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2021-04-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2021-04-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-04-01&dataseries__geographic_unit__country=RW&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "546a65c6941cbafe4ba1e3691c1868dd",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-04-01&dataseries__geographic_unit__country=RW&dataseries__ipcclassification__scenario=ML1",
       "id": "81c43a95-d4fb-422c-9ddf-bbe8f3ffc865",
-      "last_modified": "2026-10-28T17:42:03.459207",
-      "metadata_modified": "2026-10-28T17:42:04.754892",
+      "last_modified": "2026-10-30T08:44:10.620960",
+      "metadata_modified": "2026-10-30T11:11:45.300783",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "f5b3931d-66d5-4847-8c13-67e32228411f",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 380634,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-04-01&dataseries__geographic_unit__country=RW&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-04-01&dataseries__geographic_unit__country=RW&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "f561b65882a3c006f7e9735001feb696",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-04-01&dataseries__geographic_unit__country=RW&dataseries__ipcclassification__scenario=ML2",
       "id": "65e39acc-66cf-46c8-abd4-df0a4ecfec2e",
-      "last_modified": "2026-10-28T17:42:03.459381",
-      "metadata_modified": "2026-10-28T17:42:04.755067",
+      "last_modified": "2026-10-30T08:44:10.620960",
+      "metadata_modified": "2026-10-30T11:11:45.300902",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "f5b3931d-66d5-4847-8c13-67e32228411f",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 380790,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-04-01&dataseries__geographic_unit__country=RW&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

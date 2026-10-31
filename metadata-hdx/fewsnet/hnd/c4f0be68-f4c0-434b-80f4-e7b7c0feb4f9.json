@@ -11,13 +11,13 @@
   "id": "c4f0be68-f4c0-434b-80f4-e7b7c0feb4f9",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T14:33:39.976101",
+  "last_modified": "2026-10-30T08:44:09.716161",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T14:33:38.659695",
-  "metadata_modified": "2026-10-28T14:33:50.629495",
+  "metadata_modified": "2026-10-30T10:45:07.486405",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "honduras-acute-food-insecurity-classification-february-2026-september-2026",
   "notes": "Current (February 2026) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (February 2026 - May 2026) and medium term (June 2026 - September 2026) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "389005"
-    },
-    {
-      "key": "end_date",
-      "value": "2026-09-30"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2026-02-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2026-02-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-02-01&dataseries__geographic_unit__country=HN&dataseries__ipcclassification__scenario=CS",
       "format": "PNG",
-      "hash": "",
+      "hash": "cfec80fe6b1f7248b509d58e9546ccad",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-02-01&dataseries__geographic_unit__country=HN&dataseries__ipcclassification__scenario=CS",
       "id": "b9309260-1605-4e84-a247-3704acda416d",
-      "last_modified": "2026-10-28T14:33:38.648803",
-      "metadata_modified": "2026-10-28T14:33:39.976901",
+      "last_modified": "2026-10-30T08:44:09.716161",
+      "metadata_modified": "2026-10-30T10:45:07.515028",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "c4f0be68-f4c0-434b-80f4-e7b7c0feb4f9",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 701798,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-02-01&dataseries__geographic_unit__country=HN&dataseries__ipcclassification__scenario=CS",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-02-01&dataseries__geographic_unit__country=HN&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "d349b76db6df7910b45f3664844e2d89",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-02-01&dataseries__geographic_unit__country=HN&dataseries__ipcclassification__scenario=ML1",
       "id": "5c6de6fd-ede0-4ecb-abe3-e63ca376697e",
-      "last_modified": "2026-10-28T14:33:38.648955",
-      "metadata_modified": "2026-10-28T14:33:39.977107",
+      "last_modified": "2026-10-30T08:44:09.716161",
+      "metadata_modified": "2026-10-30T10:45:07.515234",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "c4f0be68-f4c0-434b-80f4-e7b7c0feb4f9",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 703056,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-02-01&dataseries__geographic_unit__country=HN&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -186,11 +168,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-02-01&dataseries__geographic_unit__country=HN&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "0fc04d8dc15d6ced02c7048790a8276c",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-02-01&dataseries__geographic_unit__country=HN&dataseries__ipcclassification__scenario=ML2",
       "id": "c12a87a1-6b9e-4757-8eb2-16e98ed15838",
-      "last_modified": "2026-10-28T14:33:38.649109",
-      "metadata_modified": "2026-10-28T14:33:39.977309",
+      "last_modified": "2026-10-30T08:44:09.716161",
+      "metadata_modified": "2026-10-30T10:45:07.515384",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,7 +180,7 @@
       "package_id": "c4f0be68-f4c0-434b-80f4-e7b7c0feb4f9",
       "position": 4,
       "resource_type": null,
-      "size": null,
+      "size": 713659,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-02-01&dataseries__geographic_unit__country=HN&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

@@ -11,13 +11,13 @@
   "id": "75ba949a-8ac1-4270-9ccf-7ddd5c61ca6f",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T22:12:10.819341",
+  "last_modified": "2026-10-30T08:44:10.620960",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T22:12:09.579889",
-  "metadata_modified": "2026-10-28T22:12:20.567883",
+  "metadata_modified": "2026-10-30T09:55:01.299679",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "syria-acute-food-insecurity-classification-march-2026-september-2026",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (March 2026 - May 2026) and medium term (June 2026 - September 2026) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "391039"
-    },
-    {
-      "key": "end_date",
-      "value": "2026-09-30"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2026-03-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2026-03-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-03-01&dataseries__geographic_unit__country=SY&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "26ab3a2ac2a280b5ba7e7eb2d34532fe",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-03-01&dataseries__geographic_unit__country=SY&dataseries__ipcclassification__scenario=ML1",
       "id": "ff13cc92-169c-453c-815f-5cf0b18c72d0",
-      "last_modified": "2026-10-28T22:12:09.560967",
-      "metadata_modified": "2026-10-28T22:12:10.819706",
+      "last_modified": "2026-10-30T08:44:10.620960",
+      "metadata_modified": "2026-10-30T09:55:01.316671",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "75ba949a-8ac1-4270-9ccf-7ddd5c61ca6f",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 544214,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-03-01&dataseries__geographic_unit__country=SY&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-03-01&dataseries__geographic_unit__country=SY&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "be6ad8930f476ae3a608a5de1a78e7dd",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-03-01&dataseries__geographic_unit__country=SY&dataseries__ipcclassification__scenario=ML2",
       "id": "8323dced-016f-4fc8-a67f-3aa6bda589e3",
-      "last_modified": "2026-10-28T22:12:09.561125",
-      "metadata_modified": "2026-10-28T22:12:10.819827",
+      "last_modified": "2026-10-30T08:44:10.620960",
+      "metadata_modified": "2026-10-30T09:55:01.316802",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "75ba949a-8ac1-4270-9ccf-7ddd5c61ca6f",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 543999,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-03-01&dataseries__geographic_unit__country=SY&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

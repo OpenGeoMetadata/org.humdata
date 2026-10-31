@@ -11,13 +11,13 @@
   "id": "690c3c42-b814-4ef7-b9d5-ec9c51969aba",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T16:09:46.075782",
+  "last_modified": "2026-10-30T08:44:09.716161",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T16:09:45.060628",
-  "metadata_modified": "2026-10-28T16:09:53.872379",
+  "metadata_modified": "2026-10-30T09:54:32.714167",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "el-salvador-acute-food-insecurity-classification-october-2021-may-2022",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (October 2021 - January 2022) and medium term (February 2022 - May 2022) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "269894"
-    },
-    {
-      "key": "end_date",
-      "value": "2022-05-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2021-10-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2021-10-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -129,6 +111,7 @@
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-28T16:09:45.062812",
@@ -140,7 +123,7 @@
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-10-01&dataseries__geographic_unit__country=SV&dataseries__ipcclassification__scenario=ML1",
       "id": "d57ef950-8561-4ed4-b584-3451f0cbe55c",
       "last_modified": "2026-10-28T16:09:45.052896",
-      "metadata_modified": "2026-10-28T16:09:46.076088",
+      "metadata_modified": "2026-10-30T09:54:32.728147",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -161,11 +144,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-10-01&dataseries__geographic_unit__country=SV&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "da7a3784ea4cb0d1260e6c95c994edb7",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-10-01&dataseries__geographic_unit__country=SV&dataseries__ipcclassification__scenario=ML2",
       "id": "ad940dc4-8c3e-49fb-ad51-11222fe3a6e3",
-      "last_modified": "2026-10-28T16:09:45.053035",
-      "metadata_modified": "2026-10-28T16:09:46.076252",
+      "last_modified": "2026-10-30T08:44:09.716161",
+      "metadata_modified": "2026-10-30T09:54:32.728218",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +156,7 @@
       "package_id": "690c3c42-b814-4ef7-b9d5-ec9c51969aba",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 439313,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-10-01&dataseries__geographic_unit__country=SV&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

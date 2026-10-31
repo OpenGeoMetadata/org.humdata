@@ -17,7 +17,7 @@
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T08:39:56.105285",
-  "metadata_modified": "2026-10-28T09:13:47.952847",
+  "metadata_modified": "2026-10-30T09:13:13.496869",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "haiti-acute-food-insecurity-classification-april-2013-september-2013",
   "notes": "Current (April 2013) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (April 2013 - June 2013) and medium term (July 2013 - September 2013) periods.",
@@ -60,6 +60,7 @@
   ],
   "resources": [
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-28T08:39:57.084717",
@@ -71,7 +72,7 @@
       "hdx_rel_url": "https://fdw.fews.net/api/ipcpackage/country/HT/2013-04-01/",
       "id": "8d146880-129c-4a4e-a0e9-bbf1ac3c7562",
       "last_modified": "2026-10-28T08:39:57.059200",
-      "metadata_modified": "2026-10-28T08:40:01.039441",
+      "metadata_modified": "2026-10-30T09:13:13.515125",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -92,11 +93,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/api/ipcphasemap/country/HT/2013-04-01.geojson",
       "format": "GeoJSON",
-      "hash": "",
+      "hash": "W/\"a8992201343e205e8d9521b312418092\"",
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/country/HT/2013-04-01.geojson",
       "id": "ebb2fcc5-eb64-4f7e-a879-000e47b1376f",
       "last_modified": "2026-10-28T08:39:56.097542",
-      "metadata_modified": "2026-10-28T08:40:02.511547",
+      "metadata_modified": "2026-10-30T09:13:13.515279",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -111,6 +112,7 @@
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-28T08:39:56.109845",
@@ -122,7 +124,7 @@
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2013-04-01&dataseries__geographic_unit__country=HT&dataseries__ipcclassification__scenario=CS",
       "id": "0991d63b-a3c5-4f95-9759-eb4d363a3efd",
       "last_modified": "2026-10-28T08:44:11.553559",
-      "metadata_modified": "2026-10-28T09:13:47.963893",
+      "metadata_modified": "2026-10-30T09:13:13.515396",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -136,6 +138,7 @@
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-28T08:39:56.109855",
@@ -147,7 +150,7 @@
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2013-04-01&dataseries__geographic_unit__country=HT&dataseries__ipcclassification__scenario=ML1",
       "id": "5b2d9b5a-6678-47e7-a40b-2ff1cf102096",
       "last_modified": "2026-10-28T08:44:11.553559",
-      "metadata_modified": "2026-10-28T09:13:47.963961",
+      "metadata_modified": "2026-10-30T09:13:13.515483",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -161,6 +164,7 @@
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-28T08:39:56.109858",
@@ -172,7 +176,7 @@
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2013-04-01&dataseries__geographic_unit__country=HT&dataseries__ipcclassification__scenario=ML2",
       "id": "2e5df090-1d81-4488-8832-39acd1d152d9",
       "last_modified": "2026-10-28T08:44:11.553559",
-      "metadata_modified": "2026-10-28T09:13:47.964023",
+      "metadata_modified": "2026-10-30T09:13:13.515564",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -193,11 +197,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/api/ipcphasemap/country/HT/CS/2013-04-01.kml",
       "format": "KML",
-      "hash": "",
+      "hash": "W/\"f1b1a27c473d4b67f6a6c41f9b076d76\"",
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/country/HT/CS/2013-04-01.kml",
       "id": "2bb88a6e-c623-4422-ac6d-1e26a43a3ed7",
       "last_modified": "2026-10-28T08:39:56.098155",
-      "metadata_modified": "2026-10-28T08:40:02.047871",
+      "metadata_modified": "2026-10-30T09:13:13.515648",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -212,6 +216,7 @@
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-28T08:39:56.109862",
@@ -223,7 +228,7 @@
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/country/HT/ML1/2013-04-01.kml",
       "id": "19cb2135-4181-496f-9c82-2a85d9067a83",
       "last_modified": "2026-10-28T08:39:56.098300",
-      "metadata_modified": "2026-10-28T08:40:01.647599",
+      "metadata_modified": "2026-10-30T09:13:13.515724",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -238,6 +243,7 @@
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-28T08:39:56.109864",
@@ -249,7 +255,7 @@
       "hdx_rel_url": "https://fdw.fews.net/api/ipcphasemap/country/HT/ML2/2013-04-01.kml",
       "id": "9eca1e00-7573-4a61-9c99-f21fafd28ddd",
       "last_modified": "2026-10-28T08:39:56.098441",
-      "metadata_modified": "2026-10-28T08:40:01.039892",
+      "metadata_modified": "2026-10-30T09:13:13.515802",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

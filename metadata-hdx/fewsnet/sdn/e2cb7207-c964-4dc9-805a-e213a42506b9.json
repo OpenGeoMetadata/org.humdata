@@ -11,13 +11,13 @@
   "id": "e2cb7207-c964-4dc9-805a-e213a42506b9",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T10:55:02.385933",
+  "last_modified": "2026-10-30T08:44:09.716161",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T10:55:01.356365",
-  "metadata_modified": "2026-10-28T10:55:32.349880",
+  "metadata_modified": "2026-10-30T11:11:40.543591",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "sudan-acute-food-insecurity-classification-may-2026-september-2026",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (May 2026) and medium term (June 2026 - September 2026) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "394757"
-    },
-    {
-      "key": "end_date",
-      "value": "2026-09-30"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2026-05-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2026-05-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-05-01&dataseries__geographic_unit__country=SD&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "8697b0e5f19e53c45122249dc8f659c5",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-05-01&dataseries__geographic_unit__country=SD&dataseries__ipcclassification__scenario=ML1",
       "id": "1bfa46e2-a3d2-49bf-b53d-25e8cdb3d448",
-      "last_modified": "2026-10-28T10:55:01.350078",
-      "metadata_modified": "2026-10-28T10:55:02.386139",
+      "last_modified": "2026-10-30T08:44:09.716161",
+      "metadata_modified": "2026-10-30T11:11:40.560373",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "e2cb7207-c964-4dc9-805a-e213a42506b9",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 656018,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-05-01&dataseries__geographic_unit__country=SD&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-05-01&dataseries__geographic_unit__country=SD&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "836354223029d27a38f58e9cf84dacae",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-05-01&dataseries__geographic_unit__country=SD&dataseries__ipcclassification__scenario=ML2",
       "id": "8d9adea2-4dcc-46fc-9791-8f45c250da2b",
-      "last_modified": "2026-10-28T10:55:01.350213",
-      "metadata_modified": "2026-10-28T10:55:02.386213",
+      "last_modified": "2026-10-30T08:44:09.716161",
+      "metadata_modified": "2026-10-30T11:11:40.560489",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "e2cb7207-c964-4dc9-805a-e213a42506b9",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 643288,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-05-01&dataseries__geographic_unit__country=SD&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

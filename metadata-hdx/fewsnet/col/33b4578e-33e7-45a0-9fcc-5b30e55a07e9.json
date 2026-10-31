@@ -11,13 +11,13 @@
   "id": "33b4578e-33e7-45a0-9fcc-5b30e55a07e9",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T21:56:15.389245",
+  "last_modified": "2026-10-30T08:44:10.620960",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T21:56:14.078868",
-  "metadata_modified": "2026-10-28T21:56:23.853304",
+  "metadata_modified": "2026-10-30T09:30:25.599823",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "colombia-acute-food-insecurity-classification-september-2026-january-2027",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (September 2026) and medium term (October 2026 - January 2027) periods.",
@@ -37,7 +37,7 @@
   },
   "owner_org": "f9695fdf-9252-44e1-b3d5-1d73e669ef5a",
   "package_creator": "hussein_lightwalla",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 9,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Colombia\"]}",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "405960"
-    },
-    {
-      "key": "end_date",
-      "value": "2027-01-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2026-09-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2026-09-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-09-01&dataseries__geographic_unit__country=CO&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "8468a23c7e98fb0bb19d48ae1846d379",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-09-01&dataseries__geographic_unit__country=CO&dataseries__ipcclassification__scenario=ML1",
       "id": "13d18570-7866-47ec-b613-098a689cced6",
-      "last_modified": "2026-10-28T21:56:14.070671",
-      "metadata_modified": "2026-10-28T21:56:15.389567",
+      "last_modified": "2026-10-30T08:44:10.620960",
+      "metadata_modified": "2026-10-30T09:30:25.622626",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "33b4578e-33e7-45a0-9fcc-5b30e55a07e9",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 835277,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-09-01&dataseries__geographic_unit__country=CO&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-09-01&dataseries__geographic_unit__country=CO&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "0145929c2d2ada2cca759027a5086ac0",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-09-01&dataseries__geographic_unit__country=CO&dataseries__ipcclassification__scenario=ML2",
       "id": "a2a241e7-b09e-4bd5-a74d-0bd69fcd4112",
-      "last_modified": "2026-10-28T21:56:14.070761",
-      "metadata_modified": "2026-10-28T21:56:15.389676",
+      "last_modified": "2026-10-30T08:44:10.620960",
+      "metadata_modified": "2026-10-30T09:30:25.622695",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "33b4578e-33e7-45a0-9fcc-5b30e55a07e9",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 836312,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-09-01&dataseries__geographic_unit__country=CO&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

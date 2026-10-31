@@ -11,13 +11,13 @@
   "id": "f2461e5e-0e2f-474b-952a-24f182f6c68a",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T21:35:29.016094",
+  "last_modified": "2026-10-30T08:44:10.620960",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T21:35:27.940386",
-  "metadata_modified": "2026-10-28T21:35:35.561870",
+  "metadata_modified": "2026-10-30T11:12:59.303960",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "lebanon-acute-food-insecurity-classification-april-2024-september-2024",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (April 2024 - May 2024) and medium term (June 2024 - September 2024) periods.",
@@ -37,7 +37,7 @@
   },
   "owner_org": "f9695fdf-9252-44e1-b3d5-1d73e669ef5a",
   "package_creator": "hussein_lightwalla",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 6,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Lebanon\"]}",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "346521"
-    },
-    {
-      "key": "end_date",
-      "value": "2024-09-30"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2024-04-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2024-04-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-04-01&dataseries__geographic_unit__country=LB&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "08768f48ec7134b7be04569872e13c12",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-04-01&dataseries__geographic_unit__country=LB&dataseries__ipcclassification__scenario=ML1",
       "id": "c7310057-77b8-4cb9-9526-d46b8f25f948",
-      "last_modified": "2026-10-28T21:35:27.929279",
-      "metadata_modified": "2026-10-28T21:35:29.016311",
+      "last_modified": "2026-10-30T08:44:10.620960",
+      "metadata_modified": "2026-10-30T11:12:59.325006",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "f2461e5e-0e2f-474b-952a-24f182f6c68a",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 319784,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-04-01&dataseries__geographic_unit__country=LB&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-04-01&dataseries__geographic_unit__country=LB&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "0e0fefadf99834c146d94eeb3eb7fad4",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-04-01&dataseries__geographic_unit__country=LB&dataseries__ipcclassification__scenario=ML2",
       "id": "3a56692c-e1a8-450d-a461-171c02ace58e",
-      "last_modified": "2026-10-28T21:35:27.929408",
-      "metadata_modified": "2026-10-28T21:35:29.016377",
+      "last_modified": "2026-10-30T08:44:10.620960",
+      "metadata_modified": "2026-10-30T11:12:59.325137",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "f2461e5e-0e2f-474b-952a-24f182f6c68a",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 319718,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-04-01&dataseries__geographic_unit__country=LB&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

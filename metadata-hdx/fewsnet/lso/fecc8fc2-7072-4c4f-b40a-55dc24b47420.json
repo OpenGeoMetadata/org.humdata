@@ -11,13 +11,13 @@
   "id": "fecc8fc2-7072-4c4f-b40a-55dc24b47420",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T18:17:17.602358",
+  "last_modified": "2026-10-30T08:44:10.620960",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T18:17:16.683968",
-  "metadata_modified": "2026-10-28T18:17:26.519620",
+  "metadata_modified": "2026-10-30T11:13:19.708077",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "lesotho-acute-food-insecurity-classification-july-2024-january-2025",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (July 2024 - September 2024) and medium term (October 2024 - January 2025) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "350598"
-    },
-    {
-      "key": "end_date",
-      "value": "2025-01-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2024-07-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2024-07-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-07-01&dataseries__geographic_unit__country=LS&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "0466de063376fe341489f94597aad578",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-07-01&dataseries__geographic_unit__country=LS&dataseries__ipcclassification__scenario=ML1",
       "id": "abd80465-6dde-4535-aed1-47197f4049dc",
-      "last_modified": "2026-10-28T18:17:16.677493",
-      "metadata_modified": "2026-10-28T18:17:17.602574",
+      "last_modified": "2026-10-30T08:44:10.620960",
+      "metadata_modified": "2026-10-30T11:13:19.724814",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,12 +130,13 @@
       "package_id": "fecc8fc2-7072-4c4f-b40a-55dc24b47420",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 341204,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-07-01&dataseries__geographic_unit__country=LS&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-28T18:17:16.689846",
@@ -165,7 +148,7 @@
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-07-01&dataseries__geographic_unit__country=LS&dataseries__ipcclassification__scenario=ML2",
       "id": "72411d37-45fc-4d4d-920e-20bed992588e",
       "last_modified": "2026-10-28T18:17:16.677582",
-      "metadata_modified": "2026-10-28T18:17:17.602640",
+      "metadata_modified": "2026-10-30T11:13:19.724918",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

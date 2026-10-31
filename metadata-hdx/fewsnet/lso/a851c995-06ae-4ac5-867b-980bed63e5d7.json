@@ -11,13 +11,13 @@
   "id": "a851c995-06ae-4ac5-867b-980bed63e5d7",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T17:52:57.600939",
+  "last_modified": "2026-10-30T08:44:10.620960",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T17:52:56.318979",
-  "metadata_modified": "2026-10-28T17:53:09.559276",
+  "metadata_modified": "2026-10-30T10:26:42.914455",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "lesotho-acute-food-insecurity-classification-june-2026-january-2027",
   "notes": "Current (June 2026) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (June 2026 - September 2026) and medium term (October 2026 - January 2027) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "396768"
-    },
-    {
-      "key": "end_date",
-      "value": "2027-01-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2026-06-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2026-06-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-06-01&dataseries__geographic_unit__country=LS&dataseries__ipcclassification__scenario=CS",
       "format": "PNG",
-      "hash": "",
+      "hash": "b3f3aa0a41ccb4220a845bb19ffcf3f7",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-06-01&dataseries__geographic_unit__country=LS&dataseries__ipcclassification__scenario=CS",
       "id": "a944c6d7-9c0f-4de3-85f6-73d392621bc0",
-      "last_modified": "2026-10-28T17:52:56.308005",
-      "metadata_modified": "2026-10-28T17:52:57.601284",
+      "last_modified": "2026-10-30T08:44:10.620960",
+      "metadata_modified": "2026-10-30T10:26:42.936588",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "a851c995-06ae-4ac5-867b-980bed63e5d7",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 496023,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-06-01&dataseries__geographic_unit__country=LS&dataseries__ipcclassification__scenario=CS",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-06-01&dataseries__geographic_unit__country=LS&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "6a7559477c582607b02643752e2e6d4e",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-06-01&dataseries__geographic_unit__country=LS&dataseries__ipcclassification__scenario=ML1",
       "id": "848793ee-81c7-4120-bbb4-a56d9a38ad5e",
-      "last_modified": "2026-10-28T17:52:56.308211",
-      "metadata_modified": "2026-10-28T17:52:57.601406",
+      "last_modified": "2026-10-30T08:44:10.620960",
+      "metadata_modified": "2026-10-30T10:26:42.936720",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "a851c995-06ae-4ac5-867b-980bed63e5d7",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 498146,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-06-01&dataseries__geographic_unit__country=LS&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -186,11 +168,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-06-01&dataseries__geographic_unit__country=LS&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "c8c08ba23d9b8f5dcedba68ca94fb07a",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-06-01&dataseries__geographic_unit__country=LS&dataseries__ipcclassification__scenario=ML2",
       "id": "9a722e94-393e-407d-94d1-755571609d2d",
-      "last_modified": "2026-10-28T17:52:56.308370",
-      "metadata_modified": "2026-10-28T17:52:57.601516",
+      "last_modified": "2026-10-30T08:44:10.620960",
+      "metadata_modified": "2026-10-30T10:26:42.936844",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,7 +180,7 @@
       "package_id": "a851c995-06ae-4ac5-867b-980bed63e5d7",
       "position": 4,
       "resource_type": null,
-      "size": null,
+      "size": 501253,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-06-01&dataseries__geographic_unit__country=LS&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

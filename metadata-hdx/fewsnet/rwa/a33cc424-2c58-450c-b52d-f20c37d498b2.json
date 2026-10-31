@@ -11,13 +11,13 @@
   "id": "a33cc424-2c58-450c-b52d-f20c37d498b2",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T17:18:04.392953",
+  "last_modified": "2026-10-30T08:44:10.620960",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T17:18:02.754646",
-  "metadata_modified": "2026-10-28T17:18:15.442676",
+  "metadata_modified": "2026-10-30T10:26:38.816472",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "rwanda-acute-food-insecurity-classification-october-2012-march-2013",
   "notes": "Current (October 2012) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (October 2012 - December 2012) and medium term (January 2013 - March 2013) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "170302"
-    },
-    {
-      "key": "end_date",
-      "value": "2013-03-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2012-10-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2012-10-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2012-10-01&dataseries__geographic_unit__country=RW&dataseries__ipcclassification__scenario=CS",
       "format": "PNG",
-      "hash": "",
+      "hash": "afdc58fbfc5801265a0d89a6c2e215ad",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2012-10-01&dataseries__geographic_unit__country=RW&dataseries__ipcclassification__scenario=CS",
       "id": "2686c72f-5484-45a0-9e49-9737500183c1",
-      "last_modified": "2026-10-28T17:18:02.742044",
-      "metadata_modified": "2026-10-28T17:18:04.393398",
+      "last_modified": "2026-10-30T08:44:10.620960",
+      "metadata_modified": "2026-10-30T10:26:38.832767",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "a33cc424-2c58-450c-b52d-f20c37d498b2",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 489823,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2012-10-01&dataseries__geographic_unit__country=RW&dataseries__ipcclassification__scenario=CS",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2012-10-01&dataseries__geographic_unit__country=RW&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "e578664834e05436eab2199e15c3842c",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2012-10-01&dataseries__geographic_unit__country=RW&dataseries__ipcclassification__scenario=ML1",
       "id": "bc826e7a-b2e9-46cf-a9ae-6113fc7c5030",
-      "last_modified": "2026-10-28T17:18:02.742234",
-      "metadata_modified": "2026-10-28T17:18:04.393521",
+      "last_modified": "2026-10-30T08:44:10.620960",
+      "metadata_modified": "2026-10-30T10:26:38.832900",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "a33cc424-2c58-450c-b52d-f20c37d498b2",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 491232,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2012-10-01&dataseries__geographic_unit__country=RW&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -186,11 +168,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2012-10-01&dataseries__geographic_unit__country=RW&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "f20ca656657d7bcea45b93dbf130b6f9",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2012-10-01&dataseries__geographic_unit__country=RW&dataseries__ipcclassification__scenario=ML2",
       "id": "6fa1cc40-4968-4b1e-a9eb-ada2c2ccf1e8",
-      "last_modified": "2026-10-28T17:18:02.742405",
-      "metadata_modified": "2026-10-28T17:18:04.393627",
+      "last_modified": "2026-10-30T08:44:10.620960",
+      "metadata_modified": "2026-10-30T10:26:38.833039",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,7 +180,7 @@
       "package_id": "a33cc424-2c58-450c-b52d-f20c37d498b2",
       "position": 4,
       "resource_type": null,
-      "size": null,
+      "size": 468885,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2012-10-01&dataseries__geographic_unit__country=RW&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

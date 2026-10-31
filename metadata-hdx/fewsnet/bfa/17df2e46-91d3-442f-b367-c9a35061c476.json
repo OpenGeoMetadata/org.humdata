@@ -11,13 +11,13 @@
   "id": "17df2e46-91d3-442f-b367-c9a35061c476",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T19:51:08.302318",
+  "last_modified": "2026-10-30T08:44:09.716161",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T19:51:07.194678",
-  "metadata_modified": "2026-10-28T19:51:20.835960",
+  "metadata_modified": "2026-10-30T09:09:15.384230",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "burkina-faso-acute-food-insecurity-classification-april-2014-september-2014",
   "notes": "Current (April 2014) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (April 2014 - June 2014) and medium term (July 2014 - September 2014) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "170327"
-    },
-    {
-      "key": "end_date",
-      "value": "2014-09-30"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2014-04-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2014-04-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -129,6 +111,7 @@
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-28T19:51:07.199659",
@@ -140,7 +123,7 @@
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2014-04-01&dataseries__geographic_unit__country=BF&dataseries__ipcclassification__scenario=CS",
       "id": "add80c69-8753-4f0a-85ba-a54a15fd8569",
       "last_modified": "2026-10-28T19:51:07.187421",
-      "metadata_modified": "2026-10-28T19:51:08.308404",
+      "metadata_modified": "2026-10-30T09:09:15.452589",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -161,11 +144,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2014-04-01&dataseries__geographic_unit__country=BF&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "279cb6eaa05bb64b9b88add883f887fe",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2014-04-01&dataseries__geographic_unit__country=BF&dataseries__ipcclassification__scenario=ML1",
       "id": "055c30a4-47d6-409c-8f23-076724ebbe34",
-      "last_modified": "2026-10-28T19:51:07.187514",
-      "metadata_modified": "2026-10-28T19:51:08.308530",
+      "last_modified": "2026-10-30T08:44:09.716161",
+      "metadata_modified": "2026-10-30T09:09:15.452715",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +156,7 @@
       "package_id": "17df2e46-91d3-442f-b367-c9a35061c476",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 604508,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2014-04-01&dataseries__geographic_unit__country=BF&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -186,11 +169,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2014-04-01&dataseries__geographic_unit__country=BF&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "6adf97f83acf6453d4a6a4b1070f3754",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2014-04-01&dataseries__geographic_unit__country=BF&dataseries__ipcclassification__scenario=ML2",
       "id": "5ce7a3cf-667c-4323-9dbe-940a27e69404",
-      "last_modified": "2026-10-28T19:51:07.187597",
-      "metadata_modified": "2026-10-28T19:51:08.308708",
+      "last_modified": "2026-10-30T08:44:09.716161",
+      "metadata_modified": "2026-10-30T09:09:15.452834",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,7 +181,7 @@
       "package_id": "17df2e46-91d3-442f-b367-c9a35061c476",
       "position": 4,
       "resource_type": null,
-      "size": null,
+      "size": 4,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2014-04-01&dataseries__geographic_unit__country=BF&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

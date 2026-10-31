@@ -11,13 +11,13 @@
   "id": "4d8cc1bf-efeb-465b-8a06-9b4b3360d78d",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T09:55:25.740156",
+  "last_modified": "2026-10-30T08:44:09.716161",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T09:55:23.850126",
-  "metadata_modified": "2026-10-28T09:55:34.449118",
+  "metadata_modified": "2026-10-30T09:29:14.637862",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "sudan-acute-food-insecurity-classification-february-2023-september-2023",
   "notes": "Current (February 2023) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (February 2023 - May 2023) and medium term (June 2023 - September 2023) periods.",
@@ -37,7 +37,7 @@
   },
   "owner_org": "f9695fdf-9252-44e1-b3d5-1d73e669ef5a",
   "package_creator": "hussein_lightwalla",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 10,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Sudan\"]}",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "315726"
-    },
-    {
-      "key": "end_date",
-      "value": "2023-09-30"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2023-02-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2023-02-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-02-01&dataseries__geographic_unit__country=SD&dataseries__ipcclassification__scenario=CS",
       "format": "PNG",
-      "hash": "",
+      "hash": "da0a88c4f3ef2cd8cedd5840a76c6311",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-02-01&dataseries__geographic_unit__country=SD&dataseries__ipcclassification__scenario=CS",
       "id": "ec0c96ea-4e9c-49e9-bf3c-6380ec280fb5",
-      "last_modified": "2026-10-28T09:55:23.841673",
-      "metadata_modified": "2026-10-28T09:55:25.740422",
+      "last_modified": "2026-10-30T08:44:09.716161",
+      "metadata_modified": "2026-10-30T09:29:14.661711",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,12 +130,13 @@
       "package_id": "4d8cc1bf-efeb-465b-8a06-9b4b3360d78d",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 660908,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-02-01&dataseries__geographic_unit__country=SD&dataseries__ipcclassification__scenario=CS",
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-28T09:55:23.854332",
@@ -165,7 +148,7 @@
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-02-01&dataseries__geographic_unit__country=SD&dataseries__ipcclassification__scenario=ML1",
       "id": "79cd6772-48a3-44e7-a460-c7c577973ca7",
       "last_modified": "2026-10-28T09:55:23.841761",
-      "metadata_modified": "2026-10-28T09:55:25.740509",
+      "metadata_modified": "2026-10-30T09:29:14.661835",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -186,11 +169,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-02-01&dataseries__geographic_unit__country=SD&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "17677ef745550f11f84d532c3c864a47",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-02-01&dataseries__geographic_unit__country=SD&dataseries__ipcclassification__scenario=ML2",
       "id": "daf444da-8644-43e5-aa88-018a8363171b",
-      "last_modified": "2026-10-28T09:55:23.841845",
-      "metadata_modified": "2026-10-28T09:55:25.740581",
+      "last_modified": "2026-10-30T08:44:09.716161",
+      "metadata_modified": "2026-10-30T09:29:14.661963",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,7 +181,7 @@
       "package_id": "4d8cc1bf-efeb-465b-8a06-9b4b3360d78d",
       "position": 4,
       "resource_type": null,
-      "size": null,
+      "size": 654558,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2023-02-01&dataseries__geographic_unit__country=SD&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

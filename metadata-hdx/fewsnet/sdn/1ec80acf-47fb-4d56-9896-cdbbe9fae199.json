@@ -11,13 +11,13 @@
   "id": "1ec80acf-47fb-4d56-9896-cdbbe9fae199",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T09:50:48.165144",
+  "last_modified": "2026-10-30T08:44:09.716161",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T09:50:46.526588",
-  "metadata_modified": "2026-10-28T09:50:58.763521",
+  "metadata_modified": "2026-10-30T09:08:37.743521",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "sudan-acute-food-insecurity-classification-february-2021-september-2021",
   "notes": "Current (February 2021) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (February 2021 - May 2021) and medium term (June 2021 - September 2021) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "204779"
-    },
-    {
-      "key": "end_date",
-      "value": "2021-09-30"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2021-02-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2021-02-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-02-01&dataseries__geographic_unit__country=SD&dataseries__ipcclassification__scenario=CS",
       "format": "PNG",
-      "hash": "",
+      "hash": "7614003f5532f5f7deeb51314595d858",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-02-01&dataseries__geographic_unit__country=SD&dataseries__ipcclassification__scenario=CS",
       "id": "f8fa7684-bcbb-47b8-bbc2-1fe0756e7d28",
-      "last_modified": "2026-10-28T09:50:46.514938",
-      "metadata_modified": "2026-10-28T09:50:48.165500",
+      "last_modified": "2026-10-30T08:44:09.716161",
+      "metadata_modified": "2026-10-30T09:08:37.767358",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "1ec80acf-47fb-4d56-9896-cdbbe9fae199",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 693147,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-02-01&dataseries__geographic_unit__country=SD&dataseries__ipcclassification__scenario=CS",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-02-01&dataseries__geographic_unit__country=SD&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "2637cfca3179737c6c46883f32f4ac68",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-02-01&dataseries__geographic_unit__country=SD&dataseries__ipcclassification__scenario=ML1",
       "id": "afedf477-a201-4d23-aabf-c68b5ae6f246",
-      "last_modified": "2026-10-28T09:50:46.515119",
-      "metadata_modified": "2026-10-28T09:50:48.165614",
+      "last_modified": "2026-10-30T08:44:09.716161",
+      "metadata_modified": "2026-10-30T09:08:37.767499",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "1ec80acf-47fb-4d56-9896-cdbbe9fae199",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 687514,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-02-01&dataseries__geographic_unit__country=SD&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -186,11 +168,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-02-01&dataseries__geographic_unit__country=SD&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "8a5a61fc55a32e76b6ed42ec676170e6",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-02-01&dataseries__geographic_unit__country=SD&dataseries__ipcclassification__scenario=ML2",
       "id": "9e3605da-90a3-419f-a294-d6345b667cab",
-      "last_modified": "2026-10-28T09:50:46.515292",
-      "metadata_modified": "2026-10-28T09:50:48.165720",
+      "last_modified": "2026-10-30T08:44:09.716161",
+      "metadata_modified": "2026-10-30T09:08:37.767701",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,7 +180,7 @@
       "package_id": "1ec80acf-47fb-4d56-9896-cdbbe9fae199",
       "position": 4,
       "resource_type": null,
-      "size": null,
+      "size": 680012,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-02-01&dataseries__geographic_unit__country=SD&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

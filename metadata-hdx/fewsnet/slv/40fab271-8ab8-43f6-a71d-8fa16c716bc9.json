@@ -11,13 +11,13 @@
   "id": "40fab271-8ab8-43f6-a71d-8fa16c716bc9",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T15:47:03.941099",
+  "last_modified": "2026-10-30T08:44:09.716161",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T15:47:02.804271",
-  "metadata_modified": "2026-10-28T15:47:12.739687",
+  "metadata_modified": "2026-10-30T09:29:54.361064",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "el-salvador-acute-food-insecurity-classification-july-2022-january-2023",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (July 2022 - September 2022) and medium term (October 2022 - January 2023) periods.",
@@ -37,7 +37,7 @@
   },
   "owner_org": "f9695fdf-9252-44e1-b3d5-1d73e669ef5a",
   "package_creator": "hussein_lightwalla",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 5,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"El Salvador\"]}",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "307337"
-    },
-    {
-      "key": "end_date",
-      "value": "2023-01-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2022-07-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2022-07-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-07-01&dataseries__geographic_unit__country=SV&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "535b3a9211cfbf0b5978edbac2bb4f0c",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-07-01&dataseries__geographic_unit__country=SV&dataseries__ipcclassification__scenario=ML1",
       "id": "598514f6-5eab-46aa-a6ec-23cdbda6cd9d",
-      "last_modified": "2026-10-28T15:47:02.796163",
-      "metadata_modified": "2026-10-28T15:47:03.941421",
+      "last_modified": "2026-10-30T08:44:09.716161",
+      "metadata_modified": "2026-10-30T09:29:54.378874",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,12 +130,13 @@
       "package_id": "40fab271-8ab8-43f6-a71d-8fa16c716bc9",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 438562,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-07-01&dataseries__geographic_unit__country=SV&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-28T15:47:02.807773",
@@ -165,7 +148,7 @@
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-07-01&dataseries__geographic_unit__country=SV&dataseries__ipcclassification__scenario=ML2",
       "id": "22d87b88-aa10-490c-807c-d2466c4d4648",
       "last_modified": "2026-10-28T15:47:02.796281",
-      "metadata_modified": "2026-10-28T15:47:03.941568",
+      "metadata_modified": "2026-10-30T09:29:54.378936",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

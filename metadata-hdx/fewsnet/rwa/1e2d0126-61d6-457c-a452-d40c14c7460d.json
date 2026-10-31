@@ -11,13 +11,13 @@
   "id": "1e2d0126-61d6-457c-a452-d40c14c7460d",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T17:24:42.363555",
+  "last_modified": "2026-10-30T08:44:09.716161",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T17:24:40.951763",
-  "metadata_modified": "2026-10-28T17:24:54.209835",
+  "metadata_modified": "2026-10-30T09:08:58.929017",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "rwanda-acute-food-insecurity-classification-january-2015-june-2015",
   "notes": "Current (January 2015) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (January 2015 - March 2015) and medium term (April 2015 - June 2015) periods.",
@@ -37,7 +37,7 @@
   },
   "owner_org": "f9695fdf-9252-44e1-b3d5-1d73e669ef5a",
   "package_creator": "hussein_lightwalla",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 1,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Rwanda\"]}",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "170311"
-    },
-    {
-      "key": "end_date",
-      "value": "2015-06-30"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2015-01-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2015-01-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-01-01&dataseries__geographic_unit__country=RW&dataseries__ipcclassification__scenario=CS",
       "format": "PNG",
-      "hash": "",
+      "hash": "f9970b106a4df26982c0bdfb9bb83ba6",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-01-01&dataseries__geographic_unit__country=RW&dataseries__ipcclassification__scenario=CS",
       "id": "ea7d7d4d-12df-40e2-864b-6fbea08f6ff8",
-      "last_modified": "2026-10-28T17:24:40.942831",
-      "metadata_modified": "2026-10-28T17:24:42.363879",
+      "last_modified": "2026-10-30T08:44:09.716161",
+      "metadata_modified": "2026-10-30T09:08:58.943764",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "1e2d0126-61d6-457c-a452-d40c14c7460d",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 424175,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-01-01&dataseries__geographic_unit__country=RW&dataseries__ipcclassification__scenario=CS",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-01-01&dataseries__geographic_unit__country=RW&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "7e4d9a0c33bf499f535976401d31d4f5",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-01-01&dataseries__geographic_unit__country=RW&dataseries__ipcclassification__scenario=ML1",
       "id": "79d3d86d-75d2-4edc-8cbe-b5501c55350f",
-      "last_modified": "2026-10-28T17:24:40.942918",
-      "metadata_modified": "2026-10-28T17:24:42.363994",
+      "last_modified": "2026-10-30T08:44:09.716161",
+      "metadata_modified": "2026-10-30T09:08:58.943855",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "1e2d0126-61d6-457c-a452-d40c14c7460d",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 425816,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-01-01&dataseries__geographic_unit__country=RW&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -186,11 +168,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-01-01&dataseries__geographic_unit__country=RW&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "12ecc82ceb72fcb5e775501c8d9b88ae",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-01-01&dataseries__geographic_unit__country=RW&dataseries__ipcclassification__scenario=ML2",
       "id": "c290d806-7251-4856-b476-cfe78df89673",
-      "last_modified": "2026-10-28T17:24:40.943002",
-      "metadata_modified": "2026-10-28T17:24:42.364106",
+      "last_modified": "2026-10-30T08:44:09.716161",
+      "metadata_modified": "2026-10-30T09:08:58.943935",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,7 +180,7 @@
       "package_id": "1e2d0126-61d6-457c-a452-d40c14c7460d",
       "position": 4,
       "resource_type": null,
-      "size": null,
+      "size": 425432,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-01-01&dataseries__geographic_unit__country=RW&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

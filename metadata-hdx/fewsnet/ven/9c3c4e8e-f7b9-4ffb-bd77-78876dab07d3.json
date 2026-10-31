@@ -11,13 +11,13 @@
   "id": "9c3c4e8e-f7b9-4ffb-bd77-78876dab07d3",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T22:22:56.712709",
+  "last_modified": "2026-10-30T08:44:09.716161",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T22:22:55.780945",
-  "metadata_modified": "2026-10-28T22:23:04.155311",
+  "metadata_modified": "2026-10-30T10:26:41.997747",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "venezuela-acute-food-insecurity-classification-may-2026-september-2026",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (May 2026) and medium term (June 2026 - September 2026) periods.",
@@ -37,7 +37,7 @@
   },
   "owner_org": "f9695fdf-9252-44e1-b3d5-1d73e669ef5a",
   "package_creator": "hussein_lightwalla",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 8,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Venezuela (Bolivarian Republic of)\"]}",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "393212"
-    },
-    {
-      "key": "end_date",
-      "value": "2026-09-30"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2026-05-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2026-05-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-05-01&dataseries__geographic_unit__country=VE&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "e581574f8dcf600f8f75b0a73a9350c3",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-05-01&dataseries__geographic_unit__country=VE&dataseries__ipcclassification__scenario=ML1",
       "id": "3a6f5314-8c85-4a09-8930-fcaf7fa69ce9",
-      "last_modified": "2026-10-28T22:22:55.775409",
-      "metadata_modified": "2026-10-28T22:22:56.712994",
+      "last_modified": "2026-10-30T08:44:09.716161",
+      "metadata_modified": "2026-10-30T10:26:42.013009",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "9c3c4e8e-f7b9-4ffb-bd77-78876dab07d3",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 730135,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-05-01&dataseries__geographic_unit__country=VE&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-05-01&dataseries__geographic_unit__country=VE&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "59f6fbb8e9014944bffa7a12aca415d4",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-05-01&dataseries__geographic_unit__country=VE&dataseries__ipcclassification__scenario=ML2",
       "id": "734ed9a1-d317-4dac-a7db-d83f3b9fd415",
-      "last_modified": "2026-10-28T22:22:55.775512",
-      "metadata_modified": "2026-10-28T22:22:56.713062",
+      "last_modified": "2026-10-30T08:44:09.716161",
+      "metadata_modified": "2026-10-30T10:26:42.013133",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "9c3c4e8e-f7b9-4ffb-bd77-78876dab07d3",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 731102,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-05-01&dataseries__geographic_unit__country=VE&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

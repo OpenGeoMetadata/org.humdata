@@ -11,13 +11,13 @@
   "id": "a493254e-29ab-42da-91f8-487da70bc44e",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T14:29:21.610944",
+  "last_modified": "2026-10-30T08:44:10.620960",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T14:29:20.201713",
-  "metadata_modified": "2026-10-28T14:29:30.959365",
+  "metadata_modified": "2026-10-30T10:26:01.935719",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "sierra-leone-acute-food-insecurity-classification-october-2015-march-2016",
   "notes": "Current (October 2015) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (October 2015 - December 2015) and medium term (January 2016 - March 2016) periods.",
@@ -37,7 +37,7 @@
   },
   "owner_org": "f9695fdf-9252-44e1-b3d5-1d73e669ef5a",
   "package_creator": "hussein_lightwalla",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 3,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Sierra Leone\"]}",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "168522"
-    },
-    {
-      "key": "end_date",
-      "value": "2016-03-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2015-10-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2015-10-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -129,6 +111,7 @@
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-28T14:29:20.210892",
@@ -140,7 +123,7 @@
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-10-01&dataseries__geographic_unit__country=SL&dataseries__ipcclassification__scenario=CS",
       "id": "5ecae9e0-4c98-4b49-88a4-a010e47e6a4c",
       "last_modified": "2026-10-28T14:29:20.190945",
-      "metadata_modified": "2026-10-28T14:29:21.611278",
+      "metadata_modified": "2026-10-30T10:26:01.959019",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -161,11 +144,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-10-01&dataseries__geographic_unit__country=SL&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "d31addd20be157279243178d78e84d5f",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-10-01&dataseries__geographic_unit__country=SL&dataseries__ipcclassification__scenario=ML1",
       "id": "e47dcc90-cfdc-42f4-afbf-5a04a22bc606",
-      "last_modified": "2026-10-28T14:29:20.191112",
-      "metadata_modified": "2026-10-28T14:29:21.611405",
+      "last_modified": "2026-10-30T08:44:10.620960",
+      "metadata_modified": "2026-10-30T10:26:01.959151",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +156,7 @@
       "package_id": "a493254e-29ab-42da-91f8-487da70bc44e",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 486227,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-10-01&dataseries__geographic_unit__country=SL&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -186,11 +169,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-10-01&dataseries__geographic_unit__country=SL&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "3f4e7aa6eebd5e10555ba0a7fca54c13",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-10-01&dataseries__geographic_unit__country=SL&dataseries__ipcclassification__scenario=ML2",
       "id": "e327eab9-c253-4979-aa15-ed0509de81ee",
-      "last_modified": "2026-10-28T14:29:20.191275",
-      "metadata_modified": "2026-10-28T14:29:21.611515",
+      "last_modified": "2026-10-30T08:44:10.620960",
+      "metadata_modified": "2026-10-30T10:26:01.959266",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,7 +181,7 @@
       "package_id": "a493254e-29ab-42da-91f8-487da70bc44e",
       "position": 4,
       "resource_type": null,
-      "size": null,
+      "size": 485724,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2015-10-01&dataseries__geographic_unit__country=SL&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

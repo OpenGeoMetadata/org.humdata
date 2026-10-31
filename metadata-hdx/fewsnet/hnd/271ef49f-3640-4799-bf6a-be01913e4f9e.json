@@ -11,13 +11,13 @@
   "id": "271ef49f-3640-4799-bf6a-be01913e4f9e",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T14:45:35.770001",
+  "last_modified": "2026-10-30T08:44:10.620960",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T14:45:34.789526",
-  "metadata_modified": "2026-10-28T14:45:43.852962",
+  "metadata_modified": "2026-10-30T09:07:03.124744",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "honduras-acute-food-insecurity-classification-july-2022-january-2023",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (July 2022 - September 2022) and medium term (October 2022 - January 2023) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "307336"
-    },
-    {
-      "key": "end_date",
-      "value": "2023-01-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2022-07-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2022-07-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-07-01&dataseries__geographic_unit__country=HN&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "8d06926fb17608bbf400d7e429ea673b",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-07-01&dataseries__geographic_unit__country=HN&dataseries__ipcclassification__scenario=ML1",
       "id": "30c3606e-06bd-462f-93d7-1653c140dd46",
-      "last_modified": "2026-10-28T14:45:34.784097",
-      "metadata_modified": "2026-10-28T14:45:35.770307",
+      "last_modified": "2026-10-30T08:44:10.620960",
+      "metadata_modified": "2026-10-30T09:07:03.154138",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "271ef49f-3640-4799-bf6a-be01913e4f9e",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 462038,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-07-01&dataseries__geographic_unit__country=HN&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-07-01&dataseries__geographic_unit__country=HN&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "3f8679756d67a0279d6566e90b2db0d6",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-07-01&dataseries__geographic_unit__country=HN&dataseries__ipcclassification__scenario=ML2",
       "id": "2f73eb00-bb66-41d5-b86e-c196004185c8",
-      "last_modified": "2026-10-28T14:45:34.784240",
-      "metadata_modified": "2026-10-28T14:45:35.770407",
+      "last_modified": "2026-10-30T08:44:10.620960",
+      "metadata_modified": "2026-10-30T09:07:03.154290",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "271ef49f-3640-4799-bf6a-be01913e4f9e",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 458471,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2022-07-01&dataseries__geographic_unit__country=HN&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

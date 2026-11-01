@@ -1,7 +1,7 @@
 {
   "id": "hdx-758231d0-b4ff-4e52-ad8f-7878b5f68c39",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-10-30T14:45:17Z",
+  "gbl_mdModified_dt": "2026-10-31T14:45:36Z",
   "dct_title_s": "Bhutan - GLIDE Disaster Events",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -41,7 +41,7 @@
   "locn_geometry": "ENVELOPE(88.81, 92.1, 28.3, 26.72)",
   "dcat_bbox": "ENVELOPE(88.81, 92.1, 28.3, 26.72)",
   "dct_temporal_sm": [
-    "2000-2024"
+    "2000-2026"
   ],
   "gbl_indexYear_im": [
     2000,
@@ -68,7 +68,9 @@
     2021,
     2022,
     2023,
-    2024
+    2024,
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/btn-glide-events\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/758231d0-b4ff-4e52-ad8f-7878b5f68c39/resource/c362d82f-74f2-4a76-bc83-96ba34984820/download/btn_glide_events.csv\",\"label\":\"btn_glide_events.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/758231d0-b4ff-4e52-ad8f-7878b5f68c39/resource/7cd3128c-fba1-4663-8d4f-9c720cc3c4b7/download/btn_glide_events.geojson\",\"label\":\"btn_glide_events.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/758231d0-b4ff-4e52-ad8f-7878b5f68c39/resource/7cd3128c-fba1-4663-8d4f-9c720cc3c4b7/download/btn_glide_events.geojson\"}"

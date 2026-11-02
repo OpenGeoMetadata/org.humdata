@@ -11,13 +11,13 @@
   "id": "b8abf7b6-7ffb-4f45-b1e1-c45e9a7bcbcb",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T21:53:31.489298",
+  "last_modified": "2026-11-01T08:44:10.641360",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T21:53:30.553626",
-  "metadata_modified": "2026-10-28T21:53:37.742650",
+  "metadata_modified": "2026-11-01T10:27:04.575850",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "togo-acute-food-insecurity-classification-october-2024-may-2025",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (October 2024 - January 2025) and medium term (February 2025 - May 2025) periods.",
@@ -37,7 +37,7 @@
   },
   "owner_org": "f9695fdf-9252-44e1-b3d5-1d73e669ef5a",
   "package_creator": "hussein_lightwalla",
-  "pageviews_last_14_days": 0,
+  "pageviews_last_14_days": 4,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Togo\"]}",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "354500"
-    },
-    {
-      "key": "end_date",
-      "value": "2025-05-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2024-10-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2024-10-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -129,6 +111,7 @@
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-28T21:53:30.559055",
@@ -140,7 +123,7 @@
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-10-01&dataseries__geographic_unit__country=TG&dataseries__ipcclassification__scenario=ML1",
       "id": "c11d7dfe-b325-4b92-a4db-2c8197015765",
       "last_modified": "2026-10-28T21:53:30.545645",
-      "metadata_modified": "2026-10-28T21:53:31.489582",
+      "metadata_modified": "2026-11-01T10:27:04.592399",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -161,11 +144,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-10-01&dataseries__geographic_unit__country=TG&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "1e326fb7ba80640dcddb7f2dcc785499",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-10-01&dataseries__geographic_unit__country=TG&dataseries__ipcclassification__scenario=ML2",
       "id": "207d7305-35b0-4a9f-b637-d4025a563e24",
-      "last_modified": "2026-10-28T21:53:30.545784",
-      "metadata_modified": "2026-10-28T21:53:31.489683",
+      "last_modified": "2026-11-01T08:44:10.641360",
+      "metadata_modified": "2026-11-01T10:27:04.592472",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +156,7 @@
       "package_id": "b8abf7b6-7ffb-4f45-b1e1-c45e9a7bcbcb",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 427485,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2024-10-01&dataseries__geographic_unit__country=TG&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

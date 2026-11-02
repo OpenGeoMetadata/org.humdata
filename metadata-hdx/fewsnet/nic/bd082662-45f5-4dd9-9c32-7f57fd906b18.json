@@ -11,13 +11,13 @@
   "id": "bd082662-45f5-4dd9-9c32-7f57fd906b18",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T16:53:10.324269",
+  "last_modified": "2026-11-01T08:44:10.641360",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T16:53:09.405315",
-  "metadata_modified": "2026-10-28T16:53:18.603379",
+  "metadata_modified": "2026-11-01T10:26:36.699826",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "nicaragua-acute-food-insecurity-classification-october-2020-may-2021",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (October 2020 - January 2021) and medium term (February 2021 - May 2021) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "168185"
-    },
-    {
-      "key": "end_date",
-      "value": "2021-05-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2020-10-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2020-10-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2020-10-01&dataseries__geographic_unit__country=NI&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "225150992d6871ad556e4cceddd88c53",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2020-10-01&dataseries__geographic_unit__country=NI&dataseries__ipcclassification__scenario=ML1",
       "id": "07748721-b165-4eef-91ab-3bbe42d054bb",
-      "last_modified": "2026-10-28T16:53:09.393752",
-      "metadata_modified": "2026-10-28T16:53:10.324613",
+      "last_modified": "2026-11-01T08:44:10.641360",
+      "metadata_modified": "2026-11-01T10:26:36.717075",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "bd082662-45f5-4dd9-9c32-7f57fd906b18",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 408430,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2020-10-01&dataseries__geographic_unit__country=NI&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2020-10-01&dataseries__geographic_unit__country=NI&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "8e8d3f411de843fa59b34d13ee4a7143",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2020-10-01&dataseries__geographic_unit__country=NI&dataseries__ipcclassification__scenario=ML2",
       "id": "18534323-8175-40b3-beff-eea7de72a5a6",
-      "last_modified": "2026-10-28T16:53:09.393931",
-      "metadata_modified": "2026-10-28T16:53:10.324742",
+      "last_modified": "2026-11-01T08:44:10.641360",
+      "metadata_modified": "2026-11-01T10:26:36.717186",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "bd082662-45f5-4dd9-9c32-7f57fd906b18",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 407938,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2020-10-01&dataseries__geographic_unit__country=NI&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

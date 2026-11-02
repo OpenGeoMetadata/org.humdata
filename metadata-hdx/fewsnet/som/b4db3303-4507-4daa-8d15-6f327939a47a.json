@@ -11,13 +11,13 @@
   "id": "b4db3303-4507-4daa-8d15-6f327939a47a",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T12:11:59.235924",
+  "last_modified": "2026-11-01T08:44:10.641360",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T12:11:58.179808",
-  "metadata_modified": "2026-10-28T12:12:08.259252",
+  "metadata_modified": "2026-11-01T10:26:20.890640",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "somalia-acute-food-insecurity-classification-november-2021-may-2022",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (November 2021 - January 2022) and medium term (February 2022 - May 2022) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "272060"
-    },
-    {
-      "key": "end_date",
-      "value": "2022-05-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2021-11-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2021-11-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-11-01&dataseries__geographic_unit__country=SO&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "4bc09f72ef693faf23b9c2f18a843f1b",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-11-01&dataseries__geographic_unit__country=SO&dataseries__ipcclassification__scenario=ML1",
       "id": "5f8a446e-8f5d-4aee-b0c1-b2208901d6aa",
-      "last_modified": "2026-10-28T12:11:58.169830",
-      "metadata_modified": "2026-10-28T12:11:59.236248",
+      "last_modified": "2026-11-01T08:44:10.641360",
+      "metadata_modified": "2026-11-01T10:26:20.908247",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,12 +130,13 @@
       "package_id": "b4db3303-4507-4daa-8d15-6f327939a47a",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 529756,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-11-01&dataseries__geographic_unit__country=SO&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-28T12:11:58.184855",
@@ -165,7 +148,7 @@
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2021-11-01&dataseries__geographic_unit__country=SO&dataseries__ipcclassification__scenario=ML2",
       "id": "d2c86cf6-c137-47d6-a7b2-da5dd569dd3b",
       "last_modified": "2026-10-28T12:11:58.169985",
-      "metadata_modified": "2026-10-28T12:11:59.236360",
+      "metadata_modified": "2026-11-01T10:26:20.908356",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

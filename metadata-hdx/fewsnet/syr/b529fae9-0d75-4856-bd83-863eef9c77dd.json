@@ -11,13 +11,13 @@
   "id": "b529fae9-0d75-4856-bd83-863eef9c77dd",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-10-28T22:13:27.186759",
+  "last_modified": "2026-11-01T08:44:10.641360",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-10-28T22:13:25.935982",
-  "metadata_modified": "2026-10-28T22:13:35.031095",
+  "metadata_modified": "2026-11-01T10:27:19.431470",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "syria-acute-food-insecurity-classification-july-2026-january-2027",
   "notes": "Forward-looking analysis representing the most likely food security outcomes for the near term (July 2026 - September 2026) and medium term (October 2026 - January 2027) periods.",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "400994"
-    },
-    {
-      "key": "end_date",
-      "value": "2027-01-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2026-07-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2026-07-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-07-01&dataseries__geographic_unit__country=SY&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "e6c0cf9a46c52500763f167a413c8ffa",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-07-01&dataseries__geographic_unit__country=SY&dataseries__ipcclassification__scenario=ML1",
       "id": "6fed6857-bdf2-4c32-b691-f62a3e3311b5",
-      "last_modified": "2026-10-28T22:13:25.925401",
-      "metadata_modified": "2026-10-28T22:13:27.187144",
+      "last_modified": "2026-11-01T08:44:10.641360",
+      "metadata_modified": "2026-11-01T10:27:19.446405",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,12 +130,13 @@
       "package_id": "b529fae9-0d75-4856-bd83-863eef9c77dd",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 543988,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-07-01&dataseries__geographic_unit__country=SY&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-10-28T22:13:25.943568",
@@ -165,7 +148,7 @@
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-07-01&dataseries__geographic_unit__country=SY&dataseries__ipcclassification__scenario=ML2",
       "id": "c47e1257-d199-4c80-8416-77c972f1b14e",
       "last_modified": "2026-10-28T22:13:25.925550",
-      "metadata_modified": "2026-10-28T22:13:27.187266",
+      "metadata_modified": "2026-11-01T10:27:19.446465",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,

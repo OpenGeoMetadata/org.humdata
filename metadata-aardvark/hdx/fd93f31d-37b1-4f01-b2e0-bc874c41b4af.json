@@ -1,7 +1,7 @@
 {
   "id": "hdx-fd93f31d-37b1-4f01-b2e0-bc874c41b4af",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-08-05T23:38:14Z",
+  "gbl_mdModified_dt": "2026-11-03T12:05:15Z",
   "dct_title_s": "United States Minor Outlying Islands: IBTrACS Storm Tracks",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,12 +18,10 @@
     "National Oceanic and Atmospheric Administration (NOAA) / National Centers for Environmental Information (NCEI)"
   ],
   "dcat_keyword_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_subject_sm": [
-    "cyclones-hurricanes-typhoons",
-    "hxl"
+    "cyclones-hurricanes-typhoons"
   ],
   "dct_spatial_sm": [
     "United States Minor Outlying Islands"
@@ -31,7 +29,7 @@
   "locn_geometry": "ENVELOPE(-177.39, 166.66, 28.22, -0.39)",
   "dcat_bbox": "ENVELOPE(-177.39, 166.66, 28.22, -0.39)",
   "dct_temporal_sm": [
-    "1941-2025"
+    "1941-2026"
   ],
   "gbl_indexYear_im": [
     1941,
@@ -118,7 +116,8 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "CSV",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/umi-ibtracs-tropical-storm-tracks\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/fd93f31d-37b1-4f01-b2e0-bc874c41b4af/resource/70158a5d-dcd0-4fe3-b1c1-e4f87c526df5/download/ibtracs_all_list_v04r01_umi.csv\",\"label\":\"ibtracs_ALL_list_v04r01_UMI.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/fd93f31d-37b1-4f01-b2e0-bc874c41b4af/resource/d9d03178-ef79-4190-a731-89516527e8a5/download/ibtracs_all_list_v04r01_lines_umi.geojson\",\"label\":\"ibtracs_ALL_list_v04r01_lines_UMI.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/fd93f31d-37b1-4f01-b2e0-bc874c41b4af/resource/d9d03178-ef79-4190-a731-89516527e8a5/download/ibtracs_all_list_v04r01_lines_umi.geojson\"}"

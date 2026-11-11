@@ -1,0 +1,43 @@
+{
+  "id": "hdx-51e8cf30-7353-4614-ac5b-c2a85bba6d12",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-11-10T21:23:06Z",
+  "dct_title_s": "Indonesia - Earthquake on Nov 10 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000tx8d](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000tx8d) Magnitude 5.4 earthquake at 10.0 depth occurred on Nov 10 2026 78km E of Tepa. The epicentre of the earthquake was located at latitude -7.8742 longitude 130.2935. It impacted 1940 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Indonesia"
+  ],
+  "locn_geometry": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dcat_bbox": "ENVELOPE(95.29, 141.03, 5.48, -10.36)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/idn-earthquake-sm-us7000tx8d\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/51e8cf30-7353-4614-ac5b-c2a85bba6d12/resource/230b7b8f-d623-4dac-bd72-bfc0b256dc7e/download/idn_wfpadam_earthquake_20261110.geojson\",\"label\":\"idn_wfpadam_earthquake_20261110.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/51e8cf30-7353-4614-ac5b-c2a85bba6d12/resource/b9ff3768-8092-4fec-b798-90ae08819184/download/idn_wfpadam_earthquake_20261110.csv\",\"label\":\"idn_wfpadam_earthquake_20261110.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/51e8cf30-7353-4614-ac5b-c2a85bba6d12/resource/631b4c61-484a-441f-a3fa-1fc8bb73f6f9/download/idn_wfpadam_earthquake_20261110.xlsx\",\"label\":\"idn_wfpadam_earthquake_20261110.xlsx (XLSX)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/51e8cf30-7353-4614-ac5b-c2a85bba6d12/resource/230b7b8f-d623-4dac-bd72-bfc0b256dc7e/download/idn_wfpadam_earthquake_20261110.geojson\"}"
+}

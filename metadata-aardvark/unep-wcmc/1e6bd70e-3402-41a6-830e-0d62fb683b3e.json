@@ -1,7 +1,7 @@
 {
   "id": "hdx-1e6bd70e-3402-41a6-830e-0d62fb683b3e",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-11-09T09:11:22Z",
+  "gbl_mdModified_dt": "2026-11-10T10:10:36Z",
   "dct_title_s": "Protected and Conserved Areas (WDPCA) in Luxembourg",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -31,7 +31,7 @@
   "locn_geometry": "ENVELOPE(5.67, 6.24, 50.13, 49.44)",
   "dcat_bbox": "ENVELOPE(5.67, 6.24, 50.13, 49.44)",
   "dct_temporal_sm": [
-    "1987-2024"
+    "1987-2025"
   ],
   "gbl_indexYear_im": [
     1987,
@@ -71,7 +71,8 @@
     2021,
     2022,
     2023,
-    2024
+    2024,
+    2025
   ],
   "dct_format_s": "GeoJSON",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/unep_wdpca_lux\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geojson?layers=1&where=ISO3+%3D+%27LUX%27&redirect=true&spatialRefId=4326\",\"label\":\"protected_conserved_areas_WDPCA_polygons.geojson (GeoJSON)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/csv?layers=1&where=ISO3+%3D+%27LUX%27&redirect=true\",\"label\":\"protected_conserved_areas_WDPCA_polygons.csv (CSV)\"},{\"url\":\"https://services5.arcgis.com/Mj0hjvkNtV7NRhA7/arcgis/rest/services/WDPCA_v5/FeatureServer/1\",\"label\":\"polygons GeoService (Geoservice)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geopackage?layers=1&where=ISO3+%3D+%27LUX%27&redirect=true&spatialRefId=4326\",\"label\":\"protected_conserved_areas_WDPCA_polygons.gpkg (Geopackage)\"}]}"

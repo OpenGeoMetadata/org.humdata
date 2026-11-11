@@ -1,7 +1,7 @@
 {
   "id": "hdx-ab57d56b-7c67-42a3-b666-e94174e4300f",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-11-09T10:30:41Z",
+  "gbl_mdModified_dt": "2026-11-10T10:11:01Z",
   "dct_title_s": "Protected and Conserved Areas (WDPCA) in Malta",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -31,7 +31,7 @@
   "locn_geometry": "ENVELOPE(14.18, 14.57, 36.08, 35.8)",
   "dcat_bbox": "ENVELOPE(14.18, 14.57, 36.08, 35.8)",
   "dct_temporal_sm": [
-    "1988-2024"
+    "1988-2025"
   ],
   "gbl_indexYear_im": [
     1988,
@@ -70,7 +70,8 @@
     2021,
     2022,
     2023,
-    2024
+    2024,
+    2025
   ],
   "dct_format_s": "GeoJSON",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/unep_wdpca_mlt\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geojson?layers=1&where=ISO3+%3D+%27MLT%27&redirect=true&spatialRefId=4326\",\"label\":\"protected_conserved_areas_WDPCA_polygons.geojson (GeoJSON)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/csv?layers=1&where=ISO3+%3D+%27MLT%27&redirect=true\",\"label\":\"protected_conserved_areas_WDPCA_polygons.csv (CSV)\"},{\"url\":\"https://services5.arcgis.com/Mj0hjvkNtV7NRhA7/arcgis/rest/services/WDPCA_v5/FeatureServer/1\",\"label\":\"polygons GeoService (Geoservice)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geopackage?layers=1&where=ISO3+%3D+%27MLT%27&redirect=true&spatialRefId=4326\",\"label\":\"protected_conserved_areas_WDPCA_polygons.gpkg (Geopackage)\"}]}"

@@ -1,7 +1,7 @@
 {
   "id": "hdx-805a2344-940e-4a29-b2a1-a864d5eba3eb",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-11-07T10:39:17Z",
+  "gbl_mdModified_dt": "2026-11-10T10:14:58Z",
   "dct_title_s": "Protected and Conserved Areas (WDPCA) in Uruguay",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -31,7 +31,7 @@
   "locn_geometry": "ENVELOPE(-58.43, -53.21, -30.11, -34.95)",
   "dcat_bbox": "ENVELOPE(-58.43, -53.21, -30.11, -34.95)",
   "dct_temporal_sm": [
-    "1976-2020"
+    "1976-2026"
   ],
   "gbl_indexYear_im": [
     1976,
@@ -78,7 +78,13 @@
     2017,
     2018,
     2019,
-    2020
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
   ],
   "dct_format_s": "GeoJSON",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/unep_wdpca_ury\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geojson?layers=1&where=ISO3+%3D+%27URY%27&redirect=true&spatialRefId=4326\",\"label\":\"protected_conserved_areas_WDPCA_polygons.geojson (GeoJSON)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/csv?layers=1&where=ISO3+%3D+%27URY%27&redirect=true\",\"label\":\"protected_conserved_areas_WDPCA_polygons.csv (CSV)\"},{\"url\":\"https://services5.arcgis.com/Mj0hjvkNtV7NRhA7/arcgis/rest/services/WDPCA_v5/FeatureServer/1\",\"label\":\"polygons GeoService (Geoservice)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geopackage?layers=1&where=ISO3+%3D+%27URY%27&redirect=true&spatialRefId=4326\",\"label\":\"protected_conserved_areas_WDPCA_polygons.gpkg (Geopackage)\"}]}"

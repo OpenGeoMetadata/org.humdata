@@ -1,0 +1,54 @@
+{
+  "id": "hdx-64941164-7046-4368-89e1-625f594fa9d0",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-11-10T19:16:37Z",
+  "dct_title_s": "GRID3 NGA - Operational Wards v4.0",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "The GRID3 NGA – Operational Wards v4.0 dataset provides operational ward boundary polygons for all 36 states and the Federal Capital Territory (FCT) of Nigeria. This release updates the boundaries for 31 states and the FCT. Benue, Cross River, Ebonyi, Plateau and Taraba are included but have not been updated, and will be updated in the December release. This version supersedes the previously published Version 3.0. The following changes were made: - v4.0 includes major updates for Akwa Ibom, Anambra, Edo, Ekiti, Imo, Lagos, Ondo, and Rivers states (which had not been updated since v1.0) and supersedes v3.0 for the remaining 24 states, which have minor edits Ward boundaries were aligned to Small Settlement Areas (SSA) and Built-Up Areas (BUA) type settlement extents for all states and FCT - State boundaries were aligned to SSA and BUA type settlement extents for all states and FCT, Abuja - Ward boundaries were aligned to blocks for all states and FCT - Ward boundaries modified based on PoI datasets (MLoS and health facility) and the boundaries aligned to major roads and water bodies (rivers and lakes for Akwa Ibom, Anambra, Edo, Ekiti, Imo, Lagos, Ondo, and Rivers) - Kano Ward boundaries were modified based on National Malaria Elimination Programme (NMEP) 2022 and 2025 version datasets - The geometry for Ikuru ward in Andoni LGA, Rivers State, was removed in error and its name assigned to one part of Ataba 2 ward. Small gaps may also occur along the borders of Benue, Cross River, Ebonyi, Plateau and Taraba states, which still use v1.0 boundaries. Both issues will be corrected in our next release. GRID3 is continuously incorporating new input data into its products—this includes raw field data collected from health campaigns (often a few states at a time, at irregular intervals) and program data from GRID3 partners. When an update is made to one GRID3 product, GRID3 strives to include those updates in its other data products as quickly and efficiently as possible to ensure timely and seamless integration across all core spatial data. This v4.0 is the 3rd update to operational ward boundaries in 2026, covering a total of 31 states and FCT, and the next will constitute updates to operational ward boundaries for the entire country. Each release uses the latest household registration, settlement, and health facility data, as well as aligns ward boundaries with other GRID3 core products, including settlement extents and blocks. Dataset citation: Center for Integrated Earth System Information (CIESIN), Columbia University 2026. GRID3 NGA - Operational Wards v4.0. New York: Columbia University. https://data.humdata.org/dataset/grid3-nga-operational-wards-v4-0. Accessed [DAY MONTH YEAR]. Contacts and data queries: The authors of this dataset appreciate feedback regarding the data, including suggestions, discovery of errors, difficulties in using the data, and format preferences. For dataset-related questions, please send an email to: info@ciesin.columbia.edu"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Center for Integrated Earth System Information (CIESIN), Columbia University"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Nigeria"
+  ],
+  "locn_geometry": "ENVELOPE(2.69, 14.58, 13.87, 4.24)",
+  "dcat_bbox": "ENVELOPE(2.69, 14.58, 13.87, 4.24)",
+  "dct_temporal_sm": [
+    "2013-2026"
+  ],
+  "gbl_indexYear_im": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-nga-operational-wards-v4-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/64941164-7046-4368-89e1-625f594fa9d0/resource/dda4a442-2939-4095-a758-b6af4a5318b5/download/grid3_nga_operational_wards_v4_0.gpkg\",\"label\":\"GRID3_NGA_operational_wards_v4_0.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/64941164-7046-4368-89e1-625f594fa9d0/resource/ab3d6ccf-24f7-4008-928f-1b30fc1c9edd/download/state_grid3_nga_operational_wards_v4_0.zip\",\"label\":\"State_GRID3_NGA_operational_wards_v4_0.zip (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/64941164-7046-4368-89e1-625f594fa9d0/resource/efe1375c-de8d-42fb-af9f-3599c76e7a43/download/grid3-nga-operational-wards-v4.0.pdf\",\"label\":\"GRID3 NGA - Operational Wards v4.0.pdf (PDF)\"},{\"url\":\"https://data.humdata.org/dataset/64941164-7046-4368-89e1-625f594fa9d0/resource/cc41b467-d396-461e-8b71-26a9e28f7421/download/grid3-nga-operational-wards-v4.0.xml\",\"label\":\"GRID3 NGA – Operational Wards v4.0.xml (XML)\"}]}"
+}

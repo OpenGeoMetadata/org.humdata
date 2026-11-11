@@ -1,0 +1,48 @@
+{
+  "id": "hdx-8fc250b2-5805-4f7a-8818-031efab5b36c",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-11-10T19:18:45Z",
+  "dct_title_s": "GRID3 NGA - Health Facilities v4.0",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "GRID3 NGA - Health Facilities v4.0 includes operational health facility points for all 36 states in Nigeria, as well as for the Federal Capital Territory (FCT). The dataset is a non-exhaustive, non-validated geographic representation of health facility points for all 36 states and the FCT. This release supersedes v3.0, which updated 23 states and the FCT, and supersedes GRID3 NGA Health Facilities v2.0, the last complete national release. The following changes were made: - For all states and the FCT, the ward boundary attribute is updated based on the GRID3 NGA – Operational Wards v4.0 dataset. As a result, the flag5 attribute is updated, which indicates if health facility points fall outside the current operational ward boundary layer - Major updates for the 13 states not included in v3.0: Akwa Ibom, Anambra, Benue, Cross River, Ebonyi, Edo, Ekiti, Imo, Lagos, Ondo, Plateau, Rivers and Taraba - Minor updates for 11 states included in v3.0: Bauchi, Borno, Kaduna, Kano, Kogi, Kwara, Nasarawa, Niger, Ogun, Osun and Sokoto. Small numbers of health facilities were added or removed, mostly among records without xy coordinates - No health facilities added or removed in the remainder of v3.0: Abia, Adamawa, Bayelsa, Delta, Enugu, Gombe, Jigawa, Katsina, Kebbi, Oyo, Yobe, Zamfara and the FCT. GRID3 is continuously incorporating new input data into its products—this includes fieldwork managed by GRID3, facility lists updated annually from the federal Ministry of Health, and program data from GRID3 partners. When an update is made to one GRID3 product, GRID3 strives to include those updates in its other data products as quickly and efficiently as possible to ensure timely and seamless integration across all core spatial data. This version is the second update to health facilities in 2026, covering all states and the FCT. Each release uses the latest available data from relevant sources to improve the completeness and consistency of the health facility dataset. Dataset citation: Center for Integrated Earth System Information (CIESIN), Columbia University 2026. GRID3 NGA - Health Facilities v4.0. New York: Columbia University. https://data.humdata.org/dataset/grid3-nga-health-facilities-v4-0. Accessed [DAY MONTH YEAR]. Contacts and data queries: The authors of this dataset appreciate feedback regarding the data, including suggestions, discovery of errors, difficulties in using the data, and format preferences. For dataset-related questions, please send an email to: info@ciesin.columbia.edu"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Center for Integrated Earth System Information (CIESIN), Columbia University"
+  ],
+  "dcat_keyword_sm": [
+    "geodata",
+    "health facilities"
+  ],
+  "dct_subject_sm": [
+    "geodata",
+    "health facilities"
+  ],
+  "dct_spatial_sm": [
+    "Nigeria"
+  ],
+  "locn_geometry": "ENVELOPE(2.69, 14.58, 13.87, 4.24)",
+  "dcat_bbox": "ENVELOPE(2.69, 14.58, 13.87, 4.24)",
+  "dct_temporal_sm": [
+    "2018-2025"
+  ],
+  "gbl_indexYear_im": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/grid3-nga-health-facilities-v4-0\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/8fc250b2-5805-4f7a-8818-031efab5b36c/resource/68a37a8f-80ef-4b80-a343-da8bf54c4d62/download/grid3_nga_health_facility_v4.gpkg\",\"label\":\"GRID3_NGA_health_facility_v4.gpkg (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/8fc250b2-5805-4f7a-8818-031efab5b36c/resource/3640551f-1f0d-4861-8460-cfccd0235e4a/download/state_grid3_nga_health_facility_v4_0.zip\",\"label\":\"State_GRID3_NGA_health_facility_v4_0.zip (Geopackage)\"},{\"url\":\"https://data.humdata.org/dataset/8fc250b2-5805-4f7a-8818-031efab5b36c/resource/c0946946-0d0f-4a65-b822-0506234c252b/download/grid3-nga-health-facilities-v4.0-data-release-notes.pdf\",\"label\":\"GRID3 NGA - Health Facilities v4.0 - Data Release Notes.pdf (PDF)\"},{\"url\":\"https://data.humdata.org/dataset/8fc250b2-5805-4f7a-8818-031efab5b36c/resource/629e55a6-ee8e-4b35-b1a0-84a78f8e5216/download/grid3_nga_health_facilities_v4_0.xml\",\"label\":\"GRID3_NGA_Health_Facilities_v4_0.xml (XML)\"}]}"
+}

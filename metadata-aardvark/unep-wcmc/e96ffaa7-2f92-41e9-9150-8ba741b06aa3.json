@@ -1,7 +1,7 @@
 {
   "id": "hdx-e96ffaa7-2f92-41e9-9150-8ba741b06aa3",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-11-09T11:06:09Z",
+  "gbl_mdModified_dt": "2026-11-10T10:10:41Z",
   "dct_title_s": "Protected and Conserved Areas (WDPCA) in Lithuania",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -31,7 +31,7 @@
   "locn_geometry": "ENVELOPE(21.06, 26.59, 56.37, 53.91)",
   "dcat_bbox": "ENVELOPE(21.06, 26.59, 56.37, 53.91)",
   "dct_temporal_sm": [
-    "1960-2023"
+    "1960-2025"
   ],
   "gbl_indexYear_im": [
     1960,
@@ -97,7 +97,9 @@
     2020,
     2021,
     2022,
-    2023
+    2023,
+    2024,
+    2025
   ],
   "dct_format_s": "GeoJSON",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/unep_wdpca_ltu\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geojson?layers=0&where=ISO3+%3D+%27LTU%27&redirect=true&spatialRefId=4326\",\"label\":\"protected_conserved_areas_WDPCA_points.geojson (GeoJSON)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/csv?layers=0&where=ISO3+%3D+%27LTU%27&redirect=true\",\"label\":\"protected_conserved_areas_WDPCA_points.csv (CSV)\"},{\"url\":\"https://services5.arcgis.com/Mj0hjvkNtV7NRhA7/arcgis/rest/services/WDPCA_v5/FeatureServer/0\",\"label\":\"points GeoService (Geoservice)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geojson?layers=1&where=ISO3+%3D+%27LTU%27&redirect=true&spatialRefId=4326\",\"label\":\"protected_conserved_areas_WDPCA_polygons.geojson (GeoJSON)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/csv?layers=1&where=ISO3+%3D+%27LTU%27&redirect=true\",\"label\":\"protected_conserved_areas_WDPCA_polygons.csv (CSV)\"},{\"url\":\"https://services5.arcgis.com/Mj0hjvkNtV7NRhA7/arcgis/rest/services/WDPCA_v5/FeatureServer/1\",\"label\":\"polygons GeoService (Geoservice)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geopackage?layers=0&where=ISO3+%3D+%27LTU%27&redirect=true&spatialRefId=4326\",\"label\":\"protected_conserved_areas_WDPCA_points.gpkg (Geopackage)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geopackage?layers=1&where=ISO3+%3D+%27LTU%27&redirect=true&spatialRefId=4326\",\"label\":\"protected_conserved_areas_WDPCA_polygons.gpkg (Geopackage)\"}]}"

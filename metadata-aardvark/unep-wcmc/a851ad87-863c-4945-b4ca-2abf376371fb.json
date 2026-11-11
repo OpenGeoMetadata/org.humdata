@@ -1,7 +1,7 @@
 {
   "id": "hdx-a851ad87-863c-4945-b4ca-2abf376371fb",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-11-09T10:30:42Z",
+  "gbl_mdModified_dt": "2026-11-10T10:15:45Z",
   "dct_title_s": "Protected and Conserved Areas (WDPCA) in South Africa",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -31,7 +31,7 @@
   "locn_geometry": "ENVELOPE(16.34, 32.83, -22.09, -34.82)",
   "dcat_bbox": "ENVELOPE(16.34, 32.83, -22.09, -34.82)",
   "dct_temporal_sm": [
-    "1903-2025"
+    "1903-2026"
   ],
   "gbl_indexYear_im": [
     1903,
@@ -156,7 +156,8 @@
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "dct_format_s": "GeoJSON",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/unep_wdpca_zaf\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geojson?layers=1&where=ISO3+%3D+%27ZAF%27&redirect=true&spatialRefId=4326\",\"label\":\"protected_conserved_areas_WDPCA_polygons.geojson (GeoJSON)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/csv?layers=1&where=ISO3+%3D+%27ZAF%27&redirect=true\",\"label\":\"protected_conserved_areas_WDPCA_polygons.csv (CSV)\"},{\"url\":\"https://services5.arcgis.com/Mj0hjvkNtV7NRhA7/arcgis/rest/services/WDPCA_v5/FeatureServer/1\",\"label\":\"polygons GeoService (Geoservice)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geopackage?layers=1&where=ISO3+%3D+%27ZAF%27&redirect=true&spatialRefId=4326\",\"label\":\"protected_conserved_areas_WDPCA_polygons.gpkg (Geopackage)\"}]}"

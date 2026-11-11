@@ -1,7 +1,7 @@
 {
   "id": "hdx-edf070bc-b9dc-4ff5-af43-60f9676c135d",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-11-09T11:05:59Z",
+  "gbl_mdModified_dt": "2026-11-10T10:09:55Z",
   "dct_title_s": "Protected and Conserved Areas (WDPCA) in Italy",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -31,9 +31,26 @@
   "locn_geometry": "ENVELOPE(6.75, 18.48, 47.12, 36.62)",
   "dcat_bbox": "ENVELOPE(6.75, 18.48, 47.12, 36.62)",
   "dct_temporal_sm": [
-    "1922-2023"
+    "1905-2025"
   ],
   "gbl_indexYear_im": [
+    1905,
+    1906,
+    1907,
+    1908,
+    1909,
+    1910,
+    1911,
+    1912,
+    1913,
+    1914,
+    1915,
+    1916,
+    1917,
+    1918,
+    1919,
+    1920,
+    1921,
     1922,
     1923,
     1924,
@@ -135,7 +152,9 @@
     2020,
     2021,
     2022,
-    2023
+    2023,
+    2024,
+    2025
   ],
   "dct_format_s": "GeoJSON",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/unep_wdpca_ita\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geojson?layers=0&where=ISO3+%3D+%27ITA%27&redirect=true&spatialRefId=4326\",\"label\":\"protected_conserved_areas_WDPCA_points.geojson (GeoJSON)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/csv?layers=0&where=ISO3+%3D+%27ITA%27&redirect=true\",\"label\":\"protected_conserved_areas_WDPCA_points.csv (CSV)\"},{\"url\":\"https://services5.arcgis.com/Mj0hjvkNtV7NRhA7/arcgis/rest/services/WDPCA_v5/FeatureServer/0\",\"label\":\"points GeoService (Geoservice)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geojson?layers=1&where=ISO3+%3D+%27ITA%27&redirect=true&spatialRefId=4326\",\"label\":\"protected_conserved_areas_WDPCA_polygons.geojson (GeoJSON)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/csv?layers=1&where=ISO3+%3D+%27ITA%27&redirect=true\",\"label\":\"protected_conserved_areas_WDPCA_polygons.csv (CSV)\"},{\"url\":\"https://services5.arcgis.com/Mj0hjvkNtV7NRhA7/arcgis/rest/services/WDPCA_v5/FeatureServer/1\",\"label\":\"polygons GeoService (Geoservice)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geopackage?layers=0&where=ISO3+%3D+%27ITA%27&redirect=true&spatialRefId=4326\",\"label\":\"protected_conserved_areas_WDPCA_points.gpkg (Geopackage)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geopackage?layers=1&where=ISO3+%3D+%27ITA%27&redirect=true&spatialRefId=4326\",\"label\":\"protected_conserved_areas_WDPCA_polygons.gpkg (Geopackage)\"}]}"

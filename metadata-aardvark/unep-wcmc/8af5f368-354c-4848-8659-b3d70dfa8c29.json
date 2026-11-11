@@ -1,7 +1,7 @@
 {
   "id": "hdx-8af5f368-354c-4848-8659-b3d70dfa8c29",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-11-07T10:39:09Z",
+  "gbl_mdModified_dt": "2026-11-10T10:12:21Z",
   "dct_title_s": "Protected and Conserved Areas (WDPCA) in New Zealand",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -31,7 +31,7 @@
   "locn_geometry": "ENVELOPE(166.51, 178.52, -34.45, -46.64)",
   "dcat_bbox": "ENVELOPE(166.51, 178.52, -34.45, -46.64)",
   "dct_temporal_sm": [
-    "1840-2020"
+    "1840-2026"
   ],
   "gbl_indexYear_im": [
     1840,
@@ -214,7 +214,13 @@
     2017,
     2018,
     2019,
-    2020
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
   ],
   "dct_format_s": "GeoJSON",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/unep_wdpca_nzl\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geojson?layers=0&where=ISO3+%3D+%27NZL%27&redirect=true&spatialRefId=4326\",\"label\":\"protected_conserved_areas_WDPCA_points.geojson (GeoJSON)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/csv?layers=0&where=ISO3+%3D+%27NZL%27&redirect=true\",\"label\":\"protected_conserved_areas_WDPCA_points.csv (CSV)\"},{\"url\":\"https://services5.arcgis.com/Mj0hjvkNtV7NRhA7/arcgis/rest/services/WDPCA_v5/FeatureServer/0\",\"label\":\"points GeoService (Geoservice)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geojson?layers=1&where=ISO3+%3D+%27NZL%27&redirect=true&spatialRefId=4326\",\"label\":\"protected_conserved_areas_WDPCA_polygons.geojson (GeoJSON)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/csv?layers=1&where=ISO3+%3D+%27NZL%27&redirect=true\",\"label\":\"protected_conserved_areas_WDPCA_polygons.csv (CSV)\"},{\"url\":\"https://services5.arcgis.com/Mj0hjvkNtV7NRhA7/arcgis/rest/services/WDPCA_v5/FeatureServer/1\",\"label\":\"polygons GeoService (Geoservice)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geopackage?layers=0&where=ISO3+%3D+%27NZL%27&redirect=true&spatialRefId=4326\",\"label\":\"protected_conserved_areas_WDPCA_points.gpkg (Geopackage)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geopackage?layers=1&where=ISO3+%3D+%27NZL%27&redirect=true&spatialRefId=4326\",\"label\":\"protected_conserved_areas_WDPCA_polygons.gpkg (Geopackage)\"}]}"

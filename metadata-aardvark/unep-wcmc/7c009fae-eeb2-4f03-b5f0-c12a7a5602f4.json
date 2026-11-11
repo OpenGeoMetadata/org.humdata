@@ -1,7 +1,7 @@
 {
   "id": "hdx-7c009fae-eeb2-4f03-b5f0-c12a7a5602f4",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-11-09T09:59:00Z",
+  "gbl_mdModified_dt": "2026-11-10T10:09:08Z",
   "dct_title_s": "Protected and Conserved Areas (WDPCA) in Croatia",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -31,10 +31,9 @@
   "locn_geometry": "ENVELOPE(13.66, 19.39, 46.5, 42.48)",
   "dcat_bbox": "ENVELOPE(13.66, 19.39, 46.5, 42.48)",
   "dct_temporal_sm": [
-    "1947-2024"
+    "1948-2025"
   ],
   "gbl_indexYear_im": [
-    1947,
     1948,
     1949,
     1950,
@@ -111,7 +110,8 @@
     2021,
     2022,
     2023,
-    2024
+    2024,
+    2025
   ],
   "dct_format_s": "GeoJSON",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/unep_wdpca_hrv\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geojson?layers=0&where=ISO3+%3D+%27HRV%27&redirect=true&spatialRefId=4326\",\"label\":\"protected_conserved_areas_WDPCA_points.geojson (GeoJSON)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/csv?layers=0&where=ISO3+%3D+%27HRV%27&redirect=true\",\"label\":\"protected_conserved_areas_WDPCA_points.csv (CSV)\"},{\"url\":\"https://services5.arcgis.com/Mj0hjvkNtV7NRhA7/arcgis/rest/services/WDPCA_v5/FeatureServer/0\",\"label\":\"points GeoService (Geoservice)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geojson?layers=1&where=ISO3+%3D+%27HRV%27&redirect=true&spatialRefId=4326\",\"label\":\"protected_conserved_areas_WDPCA_polygons.geojson (GeoJSON)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/csv?layers=1&where=ISO3+%3D+%27HRV%27&redirect=true\",\"label\":\"protected_conserved_areas_WDPCA_polygons.csv (CSV)\"},{\"url\":\"https://services5.arcgis.com/Mj0hjvkNtV7NRhA7/arcgis/rest/services/WDPCA_v5/FeatureServer/1\",\"label\":\"polygons GeoService (Geoservice)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geopackage?layers=0&where=ISO3+%3D+%27HRV%27&redirect=true&spatialRefId=4326\",\"label\":\"protected_conserved_areas_WDPCA_points.gpkg (Geopackage)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geopackage?layers=1&where=ISO3+%3D+%27HRV%27&redirect=true&spatialRefId=4326\",\"label\":\"protected_conserved_areas_WDPCA_polygons.gpkg (Geopackage)\"}]}"

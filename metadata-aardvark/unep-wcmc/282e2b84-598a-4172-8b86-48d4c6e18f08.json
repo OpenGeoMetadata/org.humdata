@@ -1,7 +1,7 @@
 {
   "id": "hdx-282e2b84-598a-4172-8b86-48d4c6e18f08",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-11-09T09:10:09Z",
+  "gbl_mdModified_dt": "2026-11-10T10:10:32Z",
   "dct_title_s": "Protected and Conserved Areas (WDPCA) in Saint Martin (French part)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -31,7 +31,7 @@
   "locn_geometry": "ENVELOPE(-63.15, -63.01, 18.13, 18.03)",
   "dcat_bbox": "ENVELOPE(-63.15, -63.01, 18.13, 18.03)",
   "dct_temporal_sm": [
-    "1998-2013"
+    "1998-2016"
   ],
   "gbl_indexYear_im": [
     1998,
@@ -49,7 +49,10 @@
     2010,
     2011,
     2012,
-    2013
+    2013,
+    2014,
+    2015,
+    2016
   ],
   "dct_format_s": "GeoJSON",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/unep_wdpca_maf\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geojson?layers=1&where=ISO3+%3D+%27MAF%27&redirect=true&spatialRefId=4326\",\"label\":\"protected_conserved_areas_WDPCA_polygons.geojson (GeoJSON)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/csv?layers=1&where=ISO3+%3D+%27MAF%27&redirect=true\",\"label\":\"protected_conserved_areas_WDPCA_polygons.csv (CSV)\"},{\"url\":\"https://services5.arcgis.com/Mj0hjvkNtV7NRhA7/arcgis/rest/services/WDPCA_v5/FeatureServer/1\",\"label\":\"polygons GeoService (Geoservice)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geopackage?layers=1&where=ISO3+%3D+%27MAF%27&redirect=true&spatialRefId=4326\",\"label\":\"protected_conserved_areas_WDPCA_polygons.gpkg (Geopackage)\"}]}"

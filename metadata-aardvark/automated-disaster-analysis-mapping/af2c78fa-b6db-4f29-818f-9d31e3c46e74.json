@@ -1,0 +1,43 @@
+{
+  "id": "hdx-af2c78fa-b6db-4f29-818f-9d31e3c46e74",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-11-10T21:23:03Z",
+  "dct_title_s": "Guatemala - Earthquake on Nov 10 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000txb8](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000txb8) Magnitude 5.6 earthquake at 35.0 depth occurred on Nov 10 2026 43km S of Puerto San Jose. The epicentre of the earthquake was located at latitude 13.5381 longitude -90.8798. It impacted 59951 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Guatemala"
+  ],
+  "locn_geometry": "ENVELOPE(-92.23, -88.23, 17.82, 13.74)",
+  "dcat_bbox": "ENVELOPE(-92.23, -88.23, 17.82, 13.74)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/gtm-earthquake-sm-us7000txb8\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/af2c78fa-b6db-4f29-818f-9d31e3c46e74/resource/ce42af59-72df-4259-8fc0-67b4ee881ee1/download/gtm_wfpadam_earthquake_20261110.geojson\",\"label\":\"gtm_wfpadam_earthquake_20261110.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/af2c78fa-b6db-4f29-818f-9d31e3c46e74/resource/9cd1566d-f9e8-428f-acea-1e87a984ce87/download/gtm_wfpadam_earthquake_20261110.csv\",\"label\":\"gtm_wfpadam_earthquake_20261110.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/af2c78fa-b6db-4f29-818f-9d31e3c46e74/resource/2999a24f-3153-43c6-b5fe-a311d2429cfa/download/gtm_wfpadam_earthquake_20261110.xlsx\",\"label\":\"gtm_wfpadam_earthquake_20261110.xlsx (XLSX)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/af2c78fa-b6db-4f29-818f-9d31e3c46e74/resource/ce42af59-72df-4259-8fc0-67b4ee881ee1/download/gtm_wfpadam_earthquake_20261110.geojson\"}"
+}

@@ -1,7 +1,7 @@
 {
   "id": "hdx-3ed7b1d1-d332-4f86-919f-923974154929",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-11-09T09:30:05Z",
+  "gbl_mdModified_dt": "2026-11-10T10:11:49Z",
   "dct_title_s": "Protected and Conserved Areas (WDPCA) in Netherlands (Kingdom of the)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -31,7 +31,7 @@
   "locn_geometry": "ENVELOPE(3.31, 7.09, 53.51, 50.8)",
   "dcat_bbox": "ENVELOPE(3.31, 7.09, 53.51, 50.8)",
   "dct_temporal_sm": [
-    "1929-2022"
+    "1929-2024"
   ],
   "gbl_indexYear_im": [
     1929,
@@ -127,7 +127,9 @@
     2019,
     2020,
     2021,
-    2022
+    2022,
+    2023,
+    2024
   ],
   "dct_format_s": "GeoJSON",
   "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/unep_wdpca_nld\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geojson?layers=1&where=ISO3+%3D+%27NLD%27&redirect=true&spatialRefId=4326\",\"label\":\"protected_conserved_areas_WDPCA_polygons.geojson (GeoJSON)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/csv?layers=1&where=ISO3+%3D+%27NLD%27&redirect=true\",\"label\":\"protected_conserved_areas_WDPCA_polygons.csv (CSV)\"},{\"url\":\"https://services5.arcgis.com/Mj0hjvkNtV7NRhA7/arcgis/rest/services/WDPCA_v5/FeatureServer/1\",\"label\":\"polygons GeoService (Geoservice)\"},{\"url\":\"https://hub.arcgis.com/api/download/v1/items/8664a0d82205448e942c1189775846be/geopackage?layers=1&where=ISO3+%3D+%27NLD%27&redirect=true&spatialRefId=4326\",\"label\":\"protected_conserved_areas_WDPCA_polygons.gpkg (Geopackage)\"}]}"

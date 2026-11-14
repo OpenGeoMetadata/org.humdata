@@ -1,7 +1,7 @@
 {
   "id": "hdx-e62be3f4-8bfd-4d59-ad31-3f91132e88f7",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-06-26T06:53:23Z",
+  "gbl_mdModified_dt": "2026-11-13T13:04:27Z",
   "dct_title_s": "Venezuela (Bolivarian Republic of): Planet Road Surface, Width, and Passability Data",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,6 @@
     "HeiGIT"
   ],
   "dcat_keyword_sm": [
-    "crisis-venezuela-earthquake",
     "development",
     "humanitarian access",
     "indicators",
@@ -35,7 +34,6 @@
     "urban"
   ],
   "dct_subject_sm": [
-    "crisis-venezuela-earthquake",
     "development",
     "humanitarian access",
     "indicators",
@@ -67,5 +65,5 @@
     2024
   ],
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/venezuela-bolivarian-republic-of-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_VE_planet_roadsurface_lines.geojson\",\"label\":\"GeoJSON\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_VE_planet_roadsurface_lines.geojson\"}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/venezuela-bolivarian-republic-of-planet-road-surface-data\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_VE_planet_roadsurface_lines.gpkg\",\"label\":\"Venezuela (bolivarian republic of) GPKG heigit_VE_planet_roadsurface_lines.gpkg (Geopackage)\"},{\"url\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_VE_planet_roadsurface_lines.geojson\",\"label\":\"Venezuela (bolivarian republic of) GeoJSON heigit_VE_planet_roadsurface_lines.geojson (GeoJSON)\"}],\"http://geojson.org/geojson-spec.html\":\"https://hot.storage.heigit.org/heigit-hdx-public/planet_road_data/heigit_VE_planet_roadsurface_lines.geojson\"}"
 }

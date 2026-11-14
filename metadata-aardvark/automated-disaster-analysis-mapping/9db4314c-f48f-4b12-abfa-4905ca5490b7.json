@@ -1,0 +1,43 @@
+{
+  "id": "hdx-9db4314c-f48f-4b12-abfa-4905ca5490b7",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-11-13T21:23:16Z",
+  "dct_title_s": "Peru - Earthquake on Nov 13 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000ty1a](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000ty1a) Magnitude 5.8 earthquake at 10.0 depth occurred on Nov 13 2026 75km SW of Ocucaje. The epicentre of the earthquake was located at latitude -14.9934 longitude -75.8807. It impacted 1656 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Peru"
+  ],
+  "locn_geometry": "ENVELOPE(-81.41, -68.67, -0.06, -18.35)",
+  "dcat_bbox": "ENVELOPE(-81.41, -68.67, -0.06, -18.35)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/per-earthquake-sm-us7000ty1a\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/9db4314c-f48f-4b12-abfa-4905ca5490b7/resource/0884c85b-0faf-4809-9291-c7c3f3e80cc6/download/per_wfpadam_earthquake_20261113.geojson\",\"label\":\"per_wfpadam_earthquake_20261113.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/9db4314c-f48f-4b12-abfa-4905ca5490b7/resource/06ef1764-6412-4d96-94d7-90c2517e1c07/download/per_wfpadam_earthquake_20261113.csv\",\"label\":\"per_wfpadam_earthquake_20261113.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/9db4314c-f48f-4b12-abfa-4905ca5490b7/resource/71fc49f6-82ad-482e-8d58-b3e5ba28c5e5/download/per_wfpadam_earthquake_20261113.xlsx\",\"label\":\"per_wfpadam_earthquake_20261113.xlsx (XLSX)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/9db4314c-f48f-4b12-abfa-4905ca5490b7/resource/0884c85b-0faf-4809-9291-c7c3f3e80cc6/download/per_wfpadam_earthquake_20261113.geojson\"}"
+}

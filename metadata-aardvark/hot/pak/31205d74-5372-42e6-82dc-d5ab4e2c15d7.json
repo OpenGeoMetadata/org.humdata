@@ -1,7 +1,7 @@
 {
   "id": "hdx-31205d74-5372-42e6-82dc-d5ab4e2c15d7",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-10-14T09:31:07Z",
+  "gbl_mdModified_dt": "2026-11-16T04:51:10Z",
   "dct_title_s": "Roads of Pakistan",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -38,6 +38,6 @@
   "gbl_indexYear_im": [
     2026
   ],
-  "dct_format_s": "Geopackage",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_pak_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PAK/roads/hotosm_pak_roads_osm_gpkg.zip\",\"label\":\"Roads (OSM), GeoPackage (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PAK/_layers/osm/roads.parquet\",\"label\":\"Roads (OSM), GeoParquet (GeoParquet)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PAK/roads/hotosm_pak_roads_osm_shp.zip\",\"label\":\"Roads (OSM), Shapefile (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PAK/roads/hotosm_pak_roads_osm_metadata.json\",\"label\":\"Roads (OSM), STAC Collection (JSON)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PAK/roads/hotosm_pak_roads_osm.pmtiles\",\"label\":\"Roads (OSM), Vector Tiles (PMTiles) (PMTiles)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PAK/roads/hotosm_pak_roads_report.html\",\"label\":\"Roads, Data Quality Report (HTML)\"}],\"https://github.com/protomaps/PMTiles\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PAK/roads/hotosm_pak_roads_osm.pmtiles\"}"
+  "dct_format_s": "HTML",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/hotosm_pak_roads\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PAK/roads/hotosm_pak_roads_report.html\",\"label\":\"Roads, Data Quality Report (HTML)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PAK/roads/hotosm_pak_roads_osm_gpkg.zip\",\"label\":\"Roads (OSM), GeoPackage (Geopackage)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PAK/roads/hotosm_pak_roads_osm_shp.zip\",\"label\":\"Roads (OSM), Shapefile (SHP)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PAK/_layers/osm/roads.parquet\",\"label\":\"Roads (OSM), GeoParquet (GeoParquet)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PAK/roads/hotosm_pak_roads_osm.pmtiles\",\"label\":\"Roads (OSM), Vector Tiles (PMTiles) (PMTiles)\"},{\"url\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PAK/roads/hotosm_pak_roads_osm_metadata.json\",\"label\":\"Roads (OSM), STAC Collection (JSON)\"}],\"https://github.com/protomaps/PMTiles\":\"https://production-raw-data-api.s3.amazonaws.com/ISO3/PAK/roads/hotosm_pak_roads_osm.pmtiles\"}"
 }

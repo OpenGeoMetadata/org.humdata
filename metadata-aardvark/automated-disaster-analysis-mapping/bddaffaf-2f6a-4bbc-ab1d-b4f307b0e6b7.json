@@ -1,0 +1,43 @@
+{
+  "id": "hdx-bddaffaf-2f6a-4bbc-ab1d-b4f307b0e6b7",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-11-15T21:23:23Z",
+  "dct_title_s": "Philippines - Earthquake on Nov 15 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000tyek](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000tyek) Magnitude 5.5 earthquake at 9.971 depth occurred on Nov 15 2026 5km SE of General Luna. The epicentre of the earthquake was located at latitude 9.7595 longitude 126.2. It impacted 69084 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Philippines"
+  ],
+  "locn_geometry": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dcat_bbox": "ENVELOPE(117.17, 126.54, 18.51, 5.58)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/phl-earthquake-sm-us7000tyek\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/bddaffaf-2f6a-4bbc-ab1d-b4f307b0e6b7/resource/f7369a99-028d-4c7a-9ad0-76f1806dd8ea/download/phl_wfpadam_earthquake_20261115.geojson\",\"label\":\"phl_wfpadam_earthquake_20261115.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/bddaffaf-2f6a-4bbc-ab1d-b4f307b0e6b7/resource/be2d9ad9-a410-43ab-9133-79f533a784dd/download/phl_wfpadam_earthquake_20261115.csv\",\"label\":\"phl_wfpadam_earthquake_20261115.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/bddaffaf-2f6a-4bbc-ab1d-b4f307b0e6b7/resource/7c8081a4-980f-48f1-91be-2bc5b4109413/download/phl_wfpadam_earthquake_20261115.xlsx\",\"label\":\"phl_wfpadam_earthquake_20261115.xlsx (XLSX)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/bddaffaf-2f6a-4bbc-ab1d-b4f307b0e6b7/resource/f7369a99-028d-4c7a-9ad0-76f1806dd8ea/download/phl_wfpadam_earthquake_20261115.geojson\"}"
+}

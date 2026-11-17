@@ -1,0 +1,43 @@
+{
+  "id": "hdx-d65710d3-0efb-4da9-993f-260d549396a0",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-11-16T22:44:29Z",
+  "dct_title_s": "Peru - Earthquake on Nov 16 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000tykh](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000tykh) Magnitude 5.4 earthquake at 10.0 depth occurred on Nov 16 2026 95 km WSW of Changuillo, Peru. The epicentre of the earthquake was located at latitude -15.0306 longitude -76.0259. It impacted 490 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Peru"
+  ],
+  "locn_geometry": "ENVELOPE(-81.41, -68.67, -0.06, -18.35)",
+  "dcat_bbox": "ENVELOPE(-81.41, -68.67, -0.06, -18.35)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/per-earthquake-sm-us7000tykh\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/d65710d3-0efb-4da9-993f-260d549396a0/resource/a2c08f52-9e37-4aaf-adf2-c9eeb6c581f6/download/per_wfpadam_earthquake_20261116.geojson\",\"label\":\"per_wfpadam_earthquake_20261116.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/d65710d3-0efb-4da9-993f-260d549396a0/resource/6bf934cf-d075-45fe-bdea-e430eee4e8c7/download/per_wfpadam_earthquake_20261116.csv\",\"label\":\"per_wfpadam_earthquake_20261116.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/d65710d3-0efb-4da9-993f-260d549396a0/resource/dfd0e45f-81e8-4aa9-8d1a-d2e055ef89b4/download/per_wfpadam_earthquake_20261116.xlsx\",\"label\":\"per_wfpadam_earthquake_20261116.xlsx (XLSX)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/d65710d3-0efb-4da9-993f-260d549396a0/resource/a2c08f52-9e37-4aaf-adf2-c9eeb6c581f6/download/per_wfpadam_earthquake_20261116.geojson\"}"
+}

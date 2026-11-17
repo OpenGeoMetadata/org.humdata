@@ -1,7 +1,7 @@
 {
   "id": "hdx-55865adf-fb21-40b9-b6af-4e99f3f2d55a",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2025-08-26T18:09:08Z",
+  "gbl_mdModified_dt": "2026-11-17T07:44:08Z",
   "dct_title_s": "Haiti - UNHAS landing sites",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -46,5 +46,5 @@
     2021
   ],
   "dct_format_s": "KML",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/haiti-unhas-helicopter-landing-zones\",\"http://schema.org/downloadUrl\":[{\"url\":\"http://geonode.wfp.org/geoserver/wms/kml?layers=geonode%3Awld_trs_airports_wfp&mode=download&CQL_FILTER=(iso3_op=%27HTI%27%20AND%20humuse%3C%3E%27Connection%27)\",\"label\":\"KML\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/haiti-unhas-helicopter-landing-zones\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/55865adf-fb21-40b9-b6af-4e99f3f2d55a/resource/ddfedc1e-94a8-48bd-9518-f788821c46d5/download/20211021-hti_unhas-landing-sites-database.xlsx\",\"label\":\"20211021 HTI_UNHAS landing sites database (XLSX)\"},{\"url\":\"https://geonode.wfp.org/geoserver/wfs?typename=geonode%3Awld_trs_airports_wfp&outputFormat=excel&version=1.0.0&request=GetFeature&service=WFS&hdx=hdx&CQL_FILTER=(iso3_op=%27HTI%27%20AND%20humuse%3C%3E%27Connection%27)\",\"label\":\"Haiti UNHAS Helicopter landing sites (XLSX)\"},{\"url\":\"http://geonode.wfp.org/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Awld_trs_airports_wfp&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature&CQL_FILTER=(iso3_op=%27HTI%27%20AND%20humuse%3C%3E%27Connection%27)\",\"label\":\"Haiti UNHAS Helicopter landing sites (SHP)\"},{\"url\":\"http://geonode.wfp.org/geoserver/wms/kml?layers=geonode%3Awld_trs_airports_wfp&mode=download&CQL_FILTER=(iso3_op=%27HTI%27%20AND%20humuse%3C%3E%27Connection%27)\",\"label\":\"Haiti UNHAS Helicopter landing sites (KML)\"},{\"url\":\"http://geonode.wfp.org/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Awld_trs_airports_wfp&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature&CQL_FILTER=(iso3_op=%27HTI%27%20AND%20humuse%3C%3E%27Connection%27)\",\"label\":\"Haiti UNHAS Helicopter landing sites (GeoJSON)\"}]}"
 }

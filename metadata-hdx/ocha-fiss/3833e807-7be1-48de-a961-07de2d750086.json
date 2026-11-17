@@ -1,6 +1,6 @@
 {
   "archived": false,
-  "batch": "bf0d4f46-7a78-42f3-8b4c-b4f2f5334bc9",
+  "batch": "3d92094e-4d4c-4e46-a51d-2a1de820d3f0",
   "cod_level": "cod-standard",
   "creator_user_id": "84e567b6-1d09-4f7e-96f5-b69c09028cbc",
   "data_update_frequency": "-2",
@@ -18,13 +18,13 @@
   "license_url": "http://creativecommons.org/licenses/by/3.0/igo/legalcode",
   "maintainer": "84e567b6-1d09-4f7e-96f5-b69c09028cbc",
   "metadata_created": "2025-01-17T16:09:44.163407",
-  "metadata_modified": "2025-06-27T10:04:31.608245",
+  "metadata_modified": "2026-11-16T10:50:36.527704",
   "methodology": "Other",
   "methodology_other": "Derived by Reginal Information Management Working Group Europe from EuroGeoGraphics data",
   "name": "cod-ab-grc",
   "notes": "Greece administrative level 0-2 boundaries (COD-AB) dataset.\r\n\r\nThese administrative boundaries were established in:  2010\r\n\r\nNOTE:  This dataset was derived in January 2025 from a version now named 'Greece- Subnational Administrative Boundaries - RIMWGE' developed but since neglected by the Regional IM Working Group - Europe.  This dataset was modified for compatibility by OCHA FIS.  LIVE GEOSERVICES WILL BE UPDATED SHORTLY.\r\n\r\nThis COD-AB was most recently reviewed for accuracy and necessary changes in January 2025.  The COD-AB does not require any update.\r\n\r\nSourced from EuroGeoGraphics\r\n\r\nVetting by Information Technology Outreach Services (ITOS) with funding from USAID.\r\n\r\nThere is no suitable population statistics dataset (COD-PS) for linkage to this COD-AB..\r\n\r\nNo edge-matched (COD-EM) version of this COD-AB has yet been prepared.\r\n\r\nPlease see the [COD Portal](https://cod.unocha.org/).\r\n\r\nAdministrative level 1 contains 8 feature(s).  The normal administrative level 1 feature type is 'Decentralized Administration or Monastic Community'.\r\n\r\nAdministrative level 2 contains 14 feature(s).  The normal administrative level 2 feature type is 'Region'.\r\n\r\nRecommended cartographic projection:  Europe Albers Equal Area Conic\r\n\r\nThis metadata was last updated on January 17, 2025.",
   "num_resources": 2,
-  "num_tags": 0,
+  "num_tags": 1,
   "organization": {
     "id": "b3a25ac4-ac05-4991-923c-d25f47bef1ec",
     "name": "ocha-fiss",
@@ -39,14 +39,14 @@
   },
   "owner_org": "b3a25ac4-ac05-4991-923c-d25f47bef1ec",
   "package_creator": "ocha-fis-data",
-  "pageviews_last_14_days": 73,
+  "pageviews_last_14_days": 55,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Greece\"]}",
   "state": "active",
   "subnational": "1",
   "title": "Greece - Subnational Administrative Boundaries",
-  "total_res_downloads": 766,
+  "total_res_downloads": 1376,
   "type": "dataset",
   "updated_by_script": "hdx:HDXPythonLibrary/6.3.1-hdx_cli_toolkit_cjh (2025-06-27T10:04:31.793307)",
   "url": null,
@@ -123,7 +123,15 @@
       "url_type": "upload"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "display_name": "administrative boundaries-divisions",
+      "id": "6e0600e9-167a-482f-9259-4a17455607c6",
+      "name": "administrative boundaries-divisions",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
   "relationships_as_subject": [],
   "relationships_as_object": []
 }

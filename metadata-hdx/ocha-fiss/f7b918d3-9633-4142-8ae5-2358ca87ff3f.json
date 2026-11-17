@@ -1,6 +1,6 @@
 {
   "archived": false,
-  "batch": "bf0d4f46-7a78-42f3-8b4c-b4f2f5334bc9",
+  "batch": "3d92094e-4d4c-4e46-a51d-2a1de820d3f0",
   "cod_level": "cod-standard",
   "creator_user_id": "84e567b6-1d09-4f7e-96f5-b69c09028cbc",
   "data_update_frequency": "-2",
@@ -18,13 +18,13 @@
   "license_url": "http://creativecommons.org/licenses/by/3.0/igo/legalcode",
   "maintainer": "84e567b6-1d09-4f7e-96f5-b69c09028cbc",
   "metadata_created": "2025-01-17T21:39:46.032215",
-  "metadata_modified": "2025-06-27T10:04:33.828342",
+  "metadata_modified": "2026-11-16T10:50:37.595286",
   "methodology": "Other",
   "methodology_other": "Initially adapted by RIMWGE from \tEuroGeographics and NTES (Nomenclature of Territorial Units for Statistics - Republic of Macedonia State Statistical Office); corrected to 2013 status by OCHA",
   "name": "cod-ab-mkd",
   "notes": "North Macedonia administrative level 0-4 boundaries (COD-AB) dataset.\r\n\r\nThe date that these administrative boundaries were established is unknown.\r\n\r\nNOTE:  COD-AB omits MH0609 feature contained in COD-PS.\r\n\r\nThis COD-AB was most recently reviewed for accuracy and necessary changes in December 2024.  The COD-AB does not require any update.\r\n\r\nSourced from EuroGeographics and NTES (Nomenclature of Territorial Units for Statistics - Republic of Macedonia State Statistical Office)\r\n\r\nVetting by Information Technology Outreach Services (ITOS) with funding from USAID.\r\n\r\nThere is no suitable population statistics dataset (COD-PS) for linkage to this COD-AB..\r\n\r\nNo edge-matched (COD-EM) version of this COD-AB has yet been prepared.\r\n\r\nPlease see the [COD Portal](https://cod.unocha.org/).\r\n\r\nAdministrative level 1 contains 1 feature(s).  The normal administrative level 1 feature type is 'currently not known'.\r\n\r\nAdministrative level 3 contains 8 feature(s).  The normal administrative level 3 feature type is 'currently not known'.\r\n\r\nAdministrative level 4 contains 84 feature(s).  The normal administrative level 4 feature type is 'currently not known'.\r\n\r\nRecommended cartographic projection:  Europe Albers Equal Area Conic\r\n\r\nThis metadata was last updated on January 17, 2025.",
   "num_resources": 2,
-  "num_tags": 0,
+  "num_tags": 1,
   "organization": {
     "id": "b3a25ac4-ac05-4991-923c-d25f47bef1ec",
     "name": "ocha-fiss",
@@ -39,14 +39,14 @@
   },
   "owner_org": "b3a25ac4-ac05-4991-923c-d25f47bef1ec",
   "package_creator": "ocha-fis-data",
-  "pageviews_last_14_days": 29,
+  "pageviews_last_14_days": 20,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"North Macedonia\"]}",
   "state": "active",
   "subnational": "1",
   "title": "North Macedonia - Subnational Administrative Boundaries",
-  "total_res_downloads": 346,
+  "total_res_downloads": 703,
   "type": "dataset",
   "updated_by_script": "hdx:HDXPythonLibrary/6.3.1-hdx_cli_toolkit_cjh (2025-06-27T10:04:34.409802)",
   "url": null,
@@ -123,7 +123,15 @@
       "url_type": "upload"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "display_name": "administrative boundaries-divisions",
+      "id": "6e0600e9-167a-482f-9259-4a17455607c6",
+      "name": "administrative boundaries-divisions",
+      "state": "active",
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
+    }
+  ],
   "relationships_as_subject": [],
   "relationships_as_object": []
 }

@@ -1,0 +1,43 @@
+{
+  "id": "hdx-23a85209-66d3-4d10-a69f-7baf6d2cc8c1",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-11-18T09:18:04Z",
+  "dct_title_s": "Bahrain - Subnational Administrative Boundaries",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Bahrain administrative level 0-3 boundaries (COD-AB) dataset version 01. This dataset is structured into 3 levels: - Admin 1: 4 Governorate - Admin 2: 180 Area - Admin 3: 499 Block Note: Base layer is the block level (admin3, 499 units, source columns blockno/bltext), with area (admin2, 180 units) and governorate (admin1, 4 units) built up via schema-join; root code is ISO2 'BH'. admin2 (area) has no source code of its own; codes for all three levels are generated in stage 4 (code-create). admin3 has no source name of its own; the block number (bltext) is used as its name. topo-tools schema-join 0.17.0 silently dropped admin2's own name columns when joining admin3 against an admin2 file already enriched with admin1 columns, because 5 of 180 area names repeat under two different governorates; admin2_name/admin2_name1 were restored manually via a largest-overlap DuckDB join. Dates associated with this dataset: - 16 November 2026: dataset reviewed for accuracy and completeness - 16 November 2026: valid for use by the humanitarian community Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx). Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Bahrain Ministry of Municipalities Affairs & Urban Planning"
+  ],
+  "dcat_keyword_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "administrative boundaries-divisions",
+    "gazetteer",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Bahrain"
+  ],
+  "locn_geometry": "ENVELOPE(50.38, 50.82, 26.29, 25.57)",
+  "dcat_bbox": "ENVELOPE(50.38, 50.82, 26.29, 25.57)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/cod-ab-bhr\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/23a85209-66d3-4d10-a69f-7baf6d2cc8c1/resource/a0c10d06-15b7-4280-8574-477f2c955941/download/bhr_admin_boundaries.gdb.zip\",\"label\":\"bhr_admin_boundaries.gdb.zip (Geodatabase)\"},{\"url\":\"https://data.humdata.org/dataset/23a85209-66d3-4d10-a69f-7baf6d2cc8c1/resource/e7afedc6-bd1f-4b5e-85eb-ca123d40e5ef/download/bhr_admin_boundaries.shp.zip\",\"label\":\"bhr_admin_boundaries.shp.zip (SHP)\"},{\"url\":\"https://data.humdata.org/dataset/23a85209-66d3-4d10-a69f-7baf6d2cc8c1/resource/ce2ce845-076f-4627-b9a1-9ef2ab52f48e/download/bhr_admin_boundaries.geojson.zip\",\"label\":\"bhr_admin_boundaries.geojson.zip (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/23a85209-66d3-4d10-a69f-7baf6d2cc8c1/resource/19097853-b6c1-4d48-87e5-61752f72a3e0/download/bhr_admin_boundaries.xlsx\",\"label\":\"bhr_admin_boundaries.xlsx (XLSX)\"}]}"
+}

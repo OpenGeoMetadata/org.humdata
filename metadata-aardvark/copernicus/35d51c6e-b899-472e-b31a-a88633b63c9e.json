@@ -1,0 +1,45 @@
+{
+  "id": "hdx-35d51c6e-b899-472e-b31a-a88633b63c9e",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-11-17T10:21:25Z",
+  "dct_title_s": "Ecuador - Flood (EMSR936)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "This dataset contains Copernicus EMS Rapid Mapping products for activation EMSR936. From 12 to 14 November 2026, torrential rain linked to El Niño flooded Guayaquil, Milagro and other parts of Ecuador’s Guayas province, killing two people in Guayaquil and raising the number of fatalities from El Niño rains in Ecuador to 14 since the national alert was declared at the end of August, according to the National Secretariat for Risk Management (SNGR). Floods are affecting several sectors of Milagro city due to the overflow of the Milagro River, with approximately 12,000 people exposed. Copernicus EMS Rapid Mapping is requested to provide flood extent and damage assessment emergency mapping, to adjust humanitarian assistance, planning, and response. GDACS ID: FL1104167. **Citation:** Copernicus Emergency Management Service (© 2026 European Union), EMSR936 **Product types present in this dataset's resources:** **FEP (First Estimate Product)**: a rapid, less precise product released shortly after activation for immediate situational awareness; excluded from this dataset once a more accurate DEL or GRA product for the same AOI is available. Where a GeoPackage download is available for an Area of Interest/round, it already contains every layer with its official Copernicus styling and colours - prefer it in GIS software over the zipped shapefile download."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "Copernicus"
+  ],
+  "dcat_keyword_sm": [
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "flooding",
+    "geodata",
+    "hazards and risk",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Ecuador"
+  ],
+  "locn_geometry": "ENVELOPE(-80.97, -75.23, 1.38, -4.96)",
+  "dcat_bbox": "ENVELOPE(-80.97, -75.23, 1.38, -4.96)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "Geopackage",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/ecu-flood-emsr936\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR936/AOI01/FEP_PRODUCT/EMSR936_AOI01_FEP_PRODUCT_v1.zip?type=gpkg\",\"label\":\"ecu_copernicus_ems_aoi01_first_estimate_initial.gpkg (Geopackage)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR936/AOI01/FEP_PRODUCT/EMSR936_AOI01_FEP_PRODUCT_v1.zip?type=xlsx\",\"label\":\"ecu_copernicus_ems_aoi01_first_estimate_initial.xlsx (XLSX)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR936/AOI01/FEP_PRODUCT/EMSR936_AOI01_FEP_PRODUCT_v1.zip?type=vectors\",\"label\":\"ecu_copernicus_ems_aoi01_first_estimate_initial_vectors.zip (SHP)\"},{\"url\":\"https://rapidmapping.emergency.copernicus.eu/backend/EMSR936/AOI01/FEP_PRODUCT/EMSR936_AOI01_FEP_PRODUCT_v1.zip?type=pdf\",\"label\":\"ecu_copernicus_ems_aoi01_first_estimate_initial.pdf (PDF)\"}]}"
+}

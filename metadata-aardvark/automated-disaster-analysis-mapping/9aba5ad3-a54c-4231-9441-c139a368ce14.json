@@ -1,0 +1,43 @@
+{
+  "id": "hdx-9aba5ad3-a54c-4231-9441-c139a368ce14",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-11-18T21:23:05Z",
+  "dct_title_s": "Peru - Earthquake on Nov 18 2026",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "**ADAM ID: **[sm\\_us7000tyy8](https://api.adam.geospatial.wfp.org/api/collections/adam.adam_eq_events/items?uid=sm_us7000tyy8) Magnitude 5.9 earthquake at 21.895 depth occurred on Nov 18 2026 79km W of San Nicolas. The epicentre of the earthquake was located at latitude -15.1438 longitude -75.9238. It impacted 259 people within 50km. WFP’s Automated Disaster Analysis and Mapping (ADAM) system is an operational system for collecting, analysing and mapping geospatial and socio-economic information following sudden onset humanitarian emergencies."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "WFP ADAM API"
+  ],
+  "dcat_keyword_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_subject_sm": [
+    "affected population",
+    "earthquake-tsunami",
+    "geodata"
+  ],
+  "dct_spatial_sm": [
+    "Peru"
+  ],
+  "locn_geometry": "ENVELOPE(-81.41, -68.67, -0.06, -18.35)",
+  "dcat_bbox": "ENVELOPE(-81.41, -68.67, -0.06, -18.35)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/per-earthquake-sm-us7000tyy8\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/9aba5ad3-a54c-4231-9441-c139a368ce14/resource/3fca003e-de03-4b1c-bbde-b05281c2e78e/download/per_wfpadam_earthquake_20261118.geojson\",\"label\":\"per_wfpadam_earthquake_20261118.geojson (GeoJSON)\"},{\"url\":\"https://data.humdata.org/dataset/9aba5ad3-a54c-4231-9441-c139a368ce14/resource/ca236677-9577-4b38-b625-39572a1079cc/download/per_wfpadam_earthquake_20261118.csv\",\"label\":\"per_wfpadam_earthquake_20261118.csv (CSV)\"},{\"url\":\"https://data.humdata.org/dataset/9aba5ad3-a54c-4231-9441-c139a368ce14/resource/45727859-bbe5-47d5-ab65-4578439deb6b/download/per_wfpadam_earthquake_20261118.xlsx\",\"label\":\"per_wfpadam_earthquake_20261118.xlsx (XLSX)\"}],\"http://geojson.org/geojson-spec.html\":\"https://data.humdata.org/dataset/9aba5ad3-a54c-4231-9441-c139a368ce14/resource/3fca003e-de03-4b1c-bbde-b05281c2e78e/download/per_wfpadam_earthquake_20261118.geojson\"}"
+}

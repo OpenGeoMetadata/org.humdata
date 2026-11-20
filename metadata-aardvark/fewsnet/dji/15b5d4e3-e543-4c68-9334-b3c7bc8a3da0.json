@@ -1,0 +1,58 @@
+{
+  "id": "hdx-15b5d4e3-e543-4c68-9334-b3c7bc8a3da0",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-11-19T19:51:59Z",
+  "dct_title_s": "Djibouti: Acute Food Insecurity Classification (Historical)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Forward-looking analysis representing the most likely food security outcomes for the near term and medium term."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "FEWS NET"
+  ],
+  "dcat_keyword_sm": [
+    "food security",
+    "geodata",
+    "integrated food security phase classification-ipc"
+  ],
+  "dct_subject_sm": [
+    "food security",
+    "geodata",
+    "integrated food security phase classification-ipc"
+  ],
+  "dct_spatial_sm": [
+    "Djibouti"
+  ],
+  "locn_geometry": "ENVELOPE(41.66, 43.32, 12.7, 10.93)",
+  "dcat_bbox": "ENVELOPE(41.66, 43.32, 12.7, 10.93)",
+  "dct_temporal_sm": [
+    "2011-2026"
+  ],
+  "gbl_indexYear_im": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "dct_format_s": "CSV",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/dji-acute-food-insecurity-classification-historical\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=DJ&format=csv&preference=best\",\"label\":\"Medium and Near Term (.csv) (CSV)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=DJ&format=geojson&scenario=ml1&preference=best\",\"label\":\"Near Term (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=DJ&format=geojson&scenario=ml2&preference=best\",\"label\":\"Medium Term (.geojson) (GeoJSON)\"}]}"
+}

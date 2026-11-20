@@ -1,0 +1,43 @@
+{
+  "id": "hdx-e829df5b-dc2a-49a3-9564-38891e73ed95",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-11-19T20:25:20Z",
+  "dct_title_s": "Sri Lanka: Acute Food Insecurity Classification (Historical)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Forward-looking analysis representing the most likely food security outcomes for the near term and medium term."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "FEWS NET"
+  ],
+  "dcat_keyword_sm": [
+    "food security",
+    "geodata",
+    "integrated food security phase classification-ipc"
+  ],
+  "dct_subject_sm": [
+    "food security",
+    "geodata",
+    "integrated food security phase classification-ipc"
+  ],
+  "dct_spatial_sm": [
+    "Sri Lanka"
+  ],
+  "locn_geometry": "ENVELOPE(79.7, 81.79, 9.82, 5.97)",
+  "dcat_bbox": "ENVELOPE(79.7, 81.79, 9.82, 5.97)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "CSV",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/lka-acute-food-insecurity-classification-historical\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=LK&format=csv&preference=best\",\"label\":\"Medium and Near Term (.csv) (CSV)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=LK&format=geojson&scenario=ml1&preference=best\",\"label\":\"Near Term (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=LK&format=geojson&scenario=ml2&preference=best\",\"label\":\"Medium Term (.geojson) (GeoJSON)\"}]}"
+}

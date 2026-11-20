@@ -1,0 +1,47 @@
+{
+  "id": "hdx-2e4a9296-ecae-4d7a-bed8-c992273b6c6f",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-11-20T08:30:27Z",
+  "dct_title_s": "Ethiopia - FloodScan: Near Real-Time and Historical Flood Mapping",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "FloodScan uses satellite data to map and monitor floods daily, helping compare current flood conditions with historical averages. This dataset contains two resources: The first (hdx_floodscan_zonal_stats.xlsx) is a daily tabular dataset providing average FloodScan Standard Flood Extent Depiction (SFED) flood fraction (0-100%) per admin 1 and 2 level. Historical baseline values (SFED_BASELINE) are calculated per day-of-year from the last 10 years of historical data (non-inclusive of current year) after applying an 11 day smoothing mean window. Return Period (RP) is calculated empirically based on all historical data up to the current year (non-inclusive). The second resource (aer_floodscan_300s_SFED_90d.zip) is a zipped file containing AER FloodScan estimated daily flood fraction (0-100%) gridded data at approximately 10 km resolution (300 arcseconds equivalent to approximately 0.083 degrees) for the last 90 days. Each file represents the estimates for a single day and includes 2 bands: SFED and SFED_BASELINE. The baseline band provides users an easy way to compare current values with historical averages. The baseline is calculated per day-of-year from the last 10 years of historical data (non-inclusive of current year) after applying an 11 day temporal smoothing mean window."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "AER FloodScan: Atmospheric and Environmental Research (AER)."
+  ],
+  "dcat_keyword_sm": [
+    "climate hazards",
+    "climate-weather",
+    "flooding",
+    "hydrology",
+    "natural disasters"
+  ],
+  "dct_subject_sm": [
+    "climate hazards",
+    "climate-weather",
+    "flooding",
+    "hydrology",
+    "natural disasters"
+  ],
+  "dct_spatial_sm": [
+    "Ethiopia"
+  ],
+  "locn_geometry": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dcat_bbox": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dct_temporal_sm": [
+    "2026"
+  ],
+  "gbl_indexYear_im": [
+    2026
+  ],
+  "dct_format_s": "GeoTIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/floodscan-eth\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://data.humdata.org/dataset/2e4a9296-ecae-4d7a-bed8-c992273b6c6f/resource/a0275af6-1dee-43f0-9b53-6bd4955a77b5/download/hdx_floodscan_zonal_stats.xlsx\",\"label\":\"hdx_floodscan_zonal_stats.xlsx (XLSX)\"},{\"url\":\"https://data.humdata.org/dataset/2e4a9296-ecae-4d7a-bed8-c992273b6c6f/resource/6cac48be-3164-4a34-8deb-4949d941a015/download/aer_floodscan_300s_sfed_90d.zip\",\"label\":\"aer_floodscan_300s_SFED_90d.zip (GeoTIFF)\"}]}"
+}

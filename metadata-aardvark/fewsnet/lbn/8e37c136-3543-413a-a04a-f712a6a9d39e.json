@@ -1,0 +1,45 @@
+{
+  "id": "hdx-8e37c136-3543-413a-a04a-f712a6a9d39e",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-11-19T20:05:24Z",
+  "dct_title_s": "Lebanon: Acute Food Insecurity Classification (Historical)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Forward-looking analysis representing the most likely food security outcomes for the near term and medium term."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "FEWS NET"
+  ],
+  "dcat_keyword_sm": [
+    "food security",
+    "geodata",
+    "integrated food security phase classification-ipc"
+  ],
+  "dct_subject_sm": [
+    "food security",
+    "geodata",
+    "integrated food security phase classification-ipc"
+  ],
+  "dct_spatial_sm": [
+    "Lebanon"
+  ],
+  "locn_geometry": "ENVELOPE(35.13, 36.61, 34.64, 33.09)",
+  "dcat_bbox": "ENVELOPE(35.13, 36.61, 34.64, 33.09)",
+  "dct_temporal_sm": [
+    "2024-2026"
+  ],
+  "gbl_indexYear_im": [
+    2024,
+    2025,
+    2026
+  ],
+  "dct_format_s": "CSV",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/lbn-acute-food-insecurity-classification-historical\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=LB&format=csv&preference=best\",\"label\":\"Medium and Near Term (.csv) (CSV)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=LB&format=geojson&scenario=ml1&preference=best\",\"label\":\"Near Term (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=LB&format=geojson&scenario=ml2&preference=best\",\"label\":\"Medium Term (.geojson) (GeoJSON)\"}]}"
+}

@@ -11,13 +11,13 @@
   "id": "99f0cce2-e65c-42fb-9a65-c842f50ef860",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-11-19T13:02:55.353747",
+  "last_modified": "2026-11-21T08:44:10.340239",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-11-19T13:02:53.931807",
-  "metadata_modified": "2026-11-19T13:03:06.337579",
+  "metadata_modified": "2026-11-21T10:16:26.854496",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "nepal-acute-food-insecurity-classification",
   "notes": "Current (October 2026) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (October 2026 - January 2027) and medium term (February 2027 - May 2027) periods.",
@@ -37,7 +37,7 @@
   },
   "owner_org": "f9695fdf-9252-44e1-b3d5-1d73e669ef5a",
   "package_creator": "hussein_lightwalla",
-  "pageviews_last_14_days": 9,
+  "pageviews_last_14_days": 36,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Nepal\"]}",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "408709"
-    },
-    {
-      "key": "end_date",
-      "value": "2027-05-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2026-10-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2026-10-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=NP&dataseries__ipcclassification__scenario=CS",
       "format": "PNG",
-      "hash": "",
+      "hash": "0ea9240bc49eae096af906bcad6170d1",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=NP&dataseries__ipcclassification__scenario=CS",
       "id": "b5c8a63b-2ad5-43eb-b854-f1c4f5b7ffb9",
-      "last_modified": "2026-11-19T13:02:53.917079",
-      "metadata_modified": "2026-11-19T13:02:55.354102",
+      "last_modified": "2026-11-21T08:44:10.340239",
+      "metadata_modified": "2026-11-21T10:16:26.895594",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,12 +130,13 @@
       "package_id": "99f0cce2-e65c-42fb-9a65-c842f50ef860",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 569424,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=NP&dataseries__ipcclassification__scenario=CS",
       "url_type": null
     },
     {
+      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2026-11-19T13:02:53.941193",
@@ -165,7 +148,7 @@
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=NP&dataseries__ipcclassification__scenario=ML1",
       "id": "b3df7c59-e565-4f7f-9056-13ac1c2c7c78",
       "last_modified": "2026-11-19T13:02:53.917232",
-      "metadata_modified": "2026-11-19T13:02:55.354223",
+      "metadata_modified": "2026-11-21T10:16:26.895709",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -186,11 +169,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=NP&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "105b7c8039911e73240298d408e4689c",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=NP&dataseries__ipcclassification__scenario=ML2",
       "id": "a93a05d2-f235-45e2-a7af-0f5b8cbb9646",
-      "last_modified": "2026-11-19T13:02:53.917397",
-      "metadata_modified": "2026-11-19T13:02:55.354343",
+      "last_modified": "2026-11-21T08:44:10.340239",
+      "metadata_modified": "2026-11-21T10:16:26.895835",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,7 +181,7 @@
       "package_id": "99f0cce2-e65c-42fb-9a65-c842f50ef860",
       "position": 4,
       "resource_type": null,
-      "size": null,
+      "size": 557237,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=NP&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

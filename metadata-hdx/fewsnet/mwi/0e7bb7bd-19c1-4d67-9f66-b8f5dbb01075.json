@@ -11,13 +11,13 @@
   "id": "0e7bb7bd-19c1-4d67-9f66-b8f5dbb01075",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-11-20T13:10:10.252220",
+  "last_modified": "2026-11-21T08:44:08.254659",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-11-20T13:10:08.138148",
-  "metadata_modified": "2026-11-20T15:23:37.614546",
+  "metadata_modified": "2026-11-21T09:10:14.363232",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "malawi-acute-food-insecurity-classification",
   "notes": "Current (October 2026) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (October 2026 - January 2027) and medium term (February 2027 - May 2027) periods.",
@@ -37,7 +37,7 @@
   },
   "owner_org": "f9695fdf-9252-44e1-b3d5-1d73e669ef5a",
   "package_creator": "hussein_lightwalla",
-  "pageviews_last_14_days": 2,
+  "pageviews_last_14_days": 29,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Malawi\"]}",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "409074"
-    },
-    {
-      "key": "end_date",
-      "value": "2027-05-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2026-10-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2026-10-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=MW&dataseries__ipcclassification__scenario=CS",
       "format": "PNG",
-      "hash": "",
+      "hash": "28d0c7fbf3554004f220f657ddc1447e",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=MW&dataseries__ipcclassification__scenario=CS",
       "id": "02887972-7572-41a5-b754-97e945182357",
-      "last_modified": "2026-11-20T13:10:08.096266",
-      "metadata_modified": "2026-11-20T13:10:10.252538",
+      "last_modified": "2026-11-21T08:44:08.254659",
+      "metadata_modified": "2026-11-21T09:10:14.402288",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "0e7bb7bd-19c1-4d67-9f66-b8f5dbb01075",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 535180,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=MW&dataseries__ipcclassification__scenario=CS",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=MW&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "2104f84a38533b9dc1b8b5fad7500b77",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=MW&dataseries__ipcclassification__scenario=ML1",
       "id": "a56afeb9-b831-4578-9a30-f79e12c0ef46",
-      "last_modified": "2026-11-20T13:10:08.096424",
-      "metadata_modified": "2026-11-20T13:10:10.252695",
+      "last_modified": "2026-11-21T08:44:08.254659",
+      "metadata_modified": "2026-11-21T09:10:14.402421",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "0e7bb7bd-19c1-4d67-9f66-b8f5dbb01075",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 539906,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=MW&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -186,11 +168,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=MW&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "4660afd4c31ca01fe1b8b5fceb9bd918",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=MW&dataseries__ipcclassification__scenario=ML2",
       "id": "d7c66cb8-69e3-427d-8fb6-d5b76319d34c",
-      "last_modified": "2026-11-20T13:10:08.096575",
-      "metadata_modified": "2026-11-20T13:10:10.252812",
+      "last_modified": "2026-11-21T08:44:08.254659",
+      "metadata_modified": "2026-11-21T09:10:14.402542",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,7 +180,7 @@
       "package_id": "0e7bb7bd-19c1-4d67-9f66-b8f5dbb01075",
       "position": 4,
       "resource_type": null,
-      "size": null,
+      "size": 535520,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=MW&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

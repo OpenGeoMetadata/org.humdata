@@ -11,13 +11,13 @@
   "id": "e00dbd50-4841-4924-9e6d-165583174e62",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-11-19T12:56:27.941384",
+  "last_modified": "2026-11-21T08:44:08.254659",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-11-19T12:56:26.779948",
-  "metadata_modified": "2026-11-19T12:56:36.416905",
+  "metadata_modified": "2026-11-21T10:47:10.219035",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "cote-divoire-acute-food-insecurity-classification",
   "notes": "Current (October 2026) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (October 2026 - January 2027) and medium term (February 2027 - May 2027) periods.",
@@ -37,7 +37,7 @@
   },
   "owner_org": "f9695fdf-9252-44e1-b3d5-1d73e669ef5a",
   "package_creator": "hussein_lightwalla",
-  "pageviews_last_14_days": 18,
+  "pageviews_last_14_days": 35,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"C\\u00f4te d'Ivoire\"]}",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "408702"
-    },
-    {
-      "key": "end_date",
-      "value": "2027-05-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2026-10-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2026-10-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=CI&dataseries__ipcclassification__scenario=CS",
       "format": "PNG",
-      "hash": "",
+      "hash": "48e899e829f54ee19c14b14b9d6bc877",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=CI&dataseries__ipcclassification__scenario=CS",
       "id": "8d0799dd-ae50-4e14-844c-cf687a91362f",
-      "last_modified": "2026-11-19T12:56:26.768639",
-      "metadata_modified": "2026-11-19T12:56:27.941684",
+      "last_modified": "2026-11-21T08:44:08.254659",
+      "metadata_modified": "2026-11-21T10:47:10.235101",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "e00dbd50-4841-4924-9e6d-165583174e62",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 762861,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=CI&dataseries__ipcclassification__scenario=CS",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=CI&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "a69e43c3ea34ba96f16aa28e1c5249d1",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=CI&dataseries__ipcclassification__scenario=ML1",
       "id": "93124550-0ee2-4c05-80f0-82102618bd5c",
-      "last_modified": "2026-11-19T12:56:26.768793",
-      "metadata_modified": "2026-11-19T12:56:27.941786",
+      "last_modified": "2026-11-21T08:44:08.254659",
+      "metadata_modified": "2026-11-21T10:47:10.235179",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "e00dbd50-4841-4924-9e6d-165583174e62",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 764269,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=CI&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -186,11 +168,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=CI&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "63b97ef86c039785eb69d1246c74297d",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=CI&dataseries__ipcclassification__scenario=ML2",
       "id": "e4ce0b0d-d160-453e-80ee-b5003e0306d1",
-      "last_modified": "2026-11-19T12:56:26.768941",
-      "metadata_modified": "2026-11-19T12:56:27.941882",
+      "last_modified": "2026-11-21T08:44:08.254659",
+      "metadata_modified": "2026-11-21T10:47:10.235250",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,7 +180,7 @@
       "package_id": "e00dbd50-4841-4924-9e6d-165583174e62",
       "position": 4,
       "resource_type": null,
-      "size": null,
+      "size": 763246,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=CI&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

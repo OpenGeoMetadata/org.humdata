@@ -11,13 +11,13 @@
   "id": "b5079c7b-1eff-4f66-beae-4a45f509bbb8",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-11-19T13:07:26.563581",
+  "last_modified": "2026-11-21T08:44:09.247101",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-11-19T13:07:23.850839",
-  "metadata_modified": "2026-11-19T13:07:40.989066",
+  "metadata_modified": "2026-11-21T10:16:09.574309",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "sierra-leone-acute-food-insecurity-classification",
   "notes": "Current (October 2016) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (October 2016 - January 2017) and medium term (February 2017 - April 2017) periods.",
@@ -37,7 +37,7 @@
   },
   "owner_org": "f9695fdf-9252-44e1-b3d5-1d73e669ef5a",
   "package_creator": "hussein_lightwalla",
-  "pageviews_last_14_days": 18,
+  "pageviews_last_14_days": 24,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Sierra Leone\"]}",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "168525"
-    },
-    {
-      "key": "end_date",
-      "value": "2017-04-30"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2016-10-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2016-10-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2016-10-01&dataseries__geographic_unit__country=SL&dataseries__ipcclassification__scenario=CS",
       "format": "PNG",
-      "hash": "",
+      "hash": "8b73c4748c8b5142646556cb9c05016a",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2016-10-01&dataseries__geographic_unit__country=SL&dataseries__ipcclassification__scenario=CS",
       "id": "df2afbb3-07ee-400f-8e65-97a2028b45c1",
-      "last_modified": "2026-11-19T13:07:23.843473",
-      "metadata_modified": "2026-11-19T13:07:26.564071",
+      "last_modified": "2026-11-21T08:44:09.247101",
+      "metadata_modified": "2026-11-21T10:16:09.610313",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "b5079c7b-1eff-4f66-beae-4a45f509bbb8",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 477107,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2016-10-01&dataseries__geographic_unit__country=SL&dataseries__ipcclassification__scenario=CS",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2016-10-01&dataseries__geographic_unit__country=SL&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "715b4befbd5ccab75ad731ec39c809e1",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2016-10-01&dataseries__geographic_unit__country=SL&dataseries__ipcclassification__scenario=ML1",
       "id": "daac2926-a62c-4170-bbe8-c6fb240f9d45",
-      "last_modified": "2026-11-19T13:07:23.843633",
-      "metadata_modified": "2026-11-19T13:07:26.564203",
+      "last_modified": "2026-11-21T08:44:09.247101",
+      "metadata_modified": "2026-11-21T10:16:09.610387",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "b5079c7b-1eff-4f66-beae-4a45f509bbb8",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 478659,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2016-10-01&dataseries__geographic_unit__country=SL&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -186,11 +168,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2016-10-01&dataseries__geographic_unit__country=SL&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "35a12f51122c4a7abd2b042bd393ed37",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2016-10-01&dataseries__geographic_unit__country=SL&dataseries__ipcclassification__scenario=ML2",
       "id": "9fbbdd6a-c280-4acf-8580-bd91b2f872b2",
-      "last_modified": "2026-11-19T13:07:23.843795",
-      "metadata_modified": "2026-11-19T13:07:26.564330",
+      "last_modified": "2026-11-21T08:44:09.247101",
+      "metadata_modified": "2026-11-21T10:16:09.610456",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,7 +180,7 @@
       "package_id": "b5079c7b-1eff-4f66-beae-4a45f509bbb8",
       "position": 4,
       "resource_type": null,
-      "size": null,
+      "size": 466130,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2016-10-01&dataseries__geographic_unit__country=SL&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

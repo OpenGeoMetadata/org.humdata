@@ -11,13 +11,13 @@
   "id": "306b693b-1906-40b3-b0c1-0010a283bf2c",
   "is_requestdata_type": false,
   "isopen": true,
-  "last_modified": "2026-11-19T13:06:07.207706",
+  "last_modified": "2026-11-21T08:44:10.340239",
   "license_id": "cc-by",
   "license_title": "Creative Commons Attribution International (CC BY)",
   "license_url": "http://www.opendefinition.org/licenses/cc-by",
   "maintainer": "007a9022-36d4-410c-a346-21770b1b31be",
   "metadata_created": "2026-11-19T13:06:05.416380",
-  "metadata_modified": "2026-11-19T13:06:25.840004",
+  "metadata_modified": "2026-11-21T09:25:10.246958",
   "methodology": "Acute Food Insecurity projections by FEWS NET based on ongoing monitoring of the factors that influence food security – staple food prices, household income, rainfall, crop production, conflict, etc. ",
   "name": "pakistan-acute-food-insecurity-classification",
   "notes": "Current (October 2026) food security outcomes and forward-looking analysis representing the most likely food security outcomes for the near term (October 2026 - January 2027) and medium term (February 2027 - May 2027) periods.",
@@ -37,7 +37,7 @@
   },
   "owner_org": "f9695fdf-9252-44e1-b3d5-1d73e669ef5a",
   "package_creator": "hussein_lightwalla",
-  "pageviews_last_14_days": 16,
+  "pageviews_last_14_days": 32,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"Pakistan\"]}",
@@ -48,24 +48,6 @@
   "type": "dataset",
   "url": null,
   "version": null,
-  "extras": [
-    {
-      "key": "datacollection_id",
-      "value": "409081"
-    },
-    {
-      "key": "end_date",
-      "value": "2027-05-31"
-    },
-    {
-      "key": "reporting_date",
-      "value": "2026-10-01"
-    },
-    {
-      "key": "start_date",
-      "value": "2026-10-01"
-    }
-  ],
   "groups": [
     {
       "description": "",
@@ -136,11 +118,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=PK&dataseries__ipcclassification__scenario=CS",
       "format": "PNG",
-      "hash": "",
+      "hash": "faaf7949293da1f39bd05ab2ce7614f1",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=PK&dataseries__ipcclassification__scenario=CS",
       "id": "7189ba8c-d785-47d2-b8f3-66921bf2838c",
-      "last_modified": "2026-11-19T13:06:05.392817",
-      "metadata_modified": "2026-11-19T13:06:07.208013",
+      "last_modified": "2026-11-21T08:44:10.340239",
+      "metadata_modified": "2026-11-21T09:25:10.285250",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -148,7 +130,7 @@
       "package_id": "306b693b-1906-40b3-b0c1-0010a283bf2c",
       "position": 2,
       "resource_type": null,
-      "size": null,
+      "size": 600959,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=PK&dataseries__ipcclassification__scenario=CS",
       "url_type": null
@@ -161,11 +143,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=PK&dataseries__ipcclassification__scenario=ML1",
       "format": "PNG",
-      "hash": "",
+      "hash": "31b5d48f62348a731eb931f76a83a645",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=PK&dataseries__ipcclassification__scenario=ML1",
       "id": "c83f9d48-1eef-450e-ae90-360020eed049",
-      "last_modified": "2026-11-19T13:06:05.392984",
-      "metadata_modified": "2026-11-19T13:06:07.208120",
+      "last_modified": "2026-11-21T08:44:10.340239",
+      "metadata_modified": "2026-11-21T09:25:10.285405",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -173,7 +155,7 @@
       "package_id": "306b693b-1906-40b3-b0c1-0010a283bf2c",
       "position": 3,
       "resource_type": null,
-      "size": null,
+      "size": 604746,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=PK&dataseries__ipcclassification__scenario=ML1",
       "url_type": null
@@ -186,11 +168,11 @@
       "description": null,
       "download_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=PK&dataseries__ipcclassification__scenario=ML2",
       "format": "PNG",
-      "hash": "",
+      "hash": "ba3ad50e3becb0a476a7992750eda5fa",
       "hdx_rel_url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=PK&dataseries__ipcclassification__scenario=ML2",
       "id": "2d906eee-059f-48e3-adb9-759fa26ba5fe",
-      "last_modified": "2026-11-19T13:06:05.393165",
-      "metadata_modified": "2026-11-19T13:06:07.208222",
+      "last_modified": "2026-11-21T08:44:10.340239",
+      "metadata_modified": "2026-11-21T09:25:10.285542",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -198,7 +180,7 @@
       "package_id": "306b693b-1906-40b3-b0c1-0010a283bf2c",
       "position": 4,
       "resource_type": null,
-      "size": null,
+      "size": 603711,
       "state": "active",
       "url": "https://fdw.fews.net/en/viz/viz_visualizations_ipc_ipccountryregionstaticmap.png_attachment?show_logos=True&data_center_image=True&datacollection__collection_date=2026-10-01&dataseries__geographic_unit__country=PK&dataseries__ipcclassification__scenario=ML2",
       "url_type": null

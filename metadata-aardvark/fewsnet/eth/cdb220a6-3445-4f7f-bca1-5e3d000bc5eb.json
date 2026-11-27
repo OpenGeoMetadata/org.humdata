@@ -1,7 +1,7 @@
 {
-  "id": "hdx-40be6074-ebe6-42a1-be89-3732cfe92481",
+  "id": "hdx-cdb220a6-3445-4f7f-bca1-5e3d000bc5eb",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-11-21T09:32:19Z",
+  "gbl_mdModified_dt": "2026-11-26T12:37:28Z",
   "dct_title_s": "Ethiopia: Acute Food Insecurity Classification (Historical)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
@@ -33,17 +33,9 @@
   "locn_geometry": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
   "dcat_bbox": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
   "dct_temporal_sm": [
-    "2011-2026"
+    "2019-2026"
   ],
   "gbl_indexYear_im": [
-    2011,
-    2012,
-    2013,
-    2014,
-    2015,
-    2016,
-    2017,
-    2018,
     2019,
     2020,
     2021,
@@ -54,5 +46,5 @@
     2026
   ],
   "dct_format_s": "CSV",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eth-acute-food-insecurity-classification-historical\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=ET&format=csv&preference=best\",\"label\":\"Medium and Near Term (.csv) (CSV)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=ET&format=geojson&scenario=ml1&preference=best\",\"label\":\"Near Term (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=ET&format=geojson&scenario=ml2&preference=best\",\"label\":\"Medium Term (.geojson) (GeoJSON)\"}]}"
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eth-acute-food-insecurity-classification-historical\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=ET&format=csv&preference=best\",\"label\":\"Medium and Near Term food security outcomes for Ethiopia (.csv) (CSV)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=ET&format=geojson&scenario=ml1&preference=best\",\"label\":\"Near Term food security outcomes for Ethiopia (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=ET&format=geojson&scenario=ml2&preference=best\",\"label\":\"Medium Term food security outcomes for Ethiopia (.geojson) (GeoJSON)\"}]}"
 }

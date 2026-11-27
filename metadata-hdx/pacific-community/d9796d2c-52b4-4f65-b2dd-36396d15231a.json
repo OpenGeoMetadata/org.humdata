@@ -1,9 +1,9 @@
 {
   "archived": false,
-  "batch": "fb1856d5-04ae-43f8-a651-faf6503b9969",
+  "batch": "dbcbf786-3aeb-4d32-822b-53037a8a2f02",
   "creator_user_id": "7c7cdf72-1e5b-479d-89c1-d96833e7940a",
   "data_update_frequency": "-2",
-  "dataset_date": "[2020-04-22T00:00:00 TO 2020-04-22T23:59:59]",
+  "dataset_date": "[2015-01-01T00:00:00 TO 2015-12-31T23:59:59]",
   "dataset_preview": "first_resource",
   "dataset_source": "SPC Statistics for Development Division (SDD)",
   "has_geodata": true,
@@ -17,7 +17,7 @@
   "license_url": "https://opendatacommons.org/licenses/by/1-0/",
   "maintainer": "7c7cdf72-1e5b-479d-89c1-d96833e7940a",
   "metadata_created": "2023-01-31T21:52:03.403564",
-  "metadata_modified": "2026-06-24T10:34:51.698650",
+  "metadata_modified": "2026-11-27T03:22:10.595831",
   "methodology": "Census",
   "name": "pdh-geographic-mapping-of-school-locations-in-the-pacific",
   "notes": "Schools in all Pacific Island Countries and Territories have been included in their respective Education Management Information Systems in 2015 by the Statistics for Development Division of SPC. This data can be used for applications such as disaster mitigation and optimise emergency response and service delivery.\n\n_Access this dataset from the [Pacific Data Hub](https://pacificdata.org/data/dataset/geographic-mapping-of-school-locations-in-the-pacific)_",
@@ -37,15 +37,16 @@
   },
   "owner_org": "572657e0-2ac0-41d7-aea9-785ad273bcf0",
   "package_creator": "pacificdatahub",
-  "pageviews_last_14_days": 1,
+  "pageviews_last_14_days": 71,
   "private": false,
   "qa_completed": false,
   "solr_additions": "{\"countries\": [\"World\"]}",
   "state": "active",
   "subnational": "0",
   "title": "Geographic mapping of school locations in the Pacific",
-  "total_res_downloads": 97,
+  "total_res_downloads": 105,
   "type": "dataset",
+  "updated_by_script": "HDXPythonLibrary/6.8.0-PDH_CKAN_Toolkit (2026-11-27T03:22:09.225863)",
   "url": null,
   "version": null,
   "groups": [
@@ -60,7 +61,6 @@
   ],
   "resources": [
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393109",
@@ -72,7 +72,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/eb011fba-4202-4eb6-b636-b9f1d7aced16/download/cok_schoollocations_4326.geojson",
       "id": "d3cd6749-af07-4e3c-abb4-cb2a73a2d45d",
       "last_modified": "2024-02-06T04:01:03.320691",
-      "metadata_modified": "2026-06-24T10:34:51.721043",
+      "metadata_modified": "2026-11-27T03:22:10.622688",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -87,7 +87,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393115",
@@ -99,7 +98,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/c6ac81cc-075b-45b2-ad58-9c5e0a6216c1/download/fji_schoollocations_4326.geojson",
       "id": "5e4b0f77-fb3f-4ed5-a672-b1b2417be5eb",
       "last_modified": "2024-02-06T04:01:03.320999",
-      "metadata_modified": "2026-06-24T10:34:51.721215",
+      "metadata_modified": "2026-11-27T03:22:10.622900",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -114,7 +113,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393119",
@@ -126,7 +124,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/8134abb8-b27f-46ae-b33a-cc94373ae054/download/fsm_schoollocations_4326.geojson",
       "id": "f581bcff-4f40-4f8e-b9fc-ef7403ae1fa8",
       "last_modified": "2024-02-06T04:01:03.321243",
-      "metadata_modified": "2026-06-24T10:34:51.722004",
+      "metadata_modified": "2026-11-27T03:22:10.623035",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -141,7 +139,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393122",
@@ -153,7 +150,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/9dbccdb2-1626-4ddf-9089-f6e42a8ee01f/download/kir_schoollocations_4326.geojson",
       "id": "4701d485-d659-447c-b5db-3f63e5c921c1",
       "last_modified": "2024-02-06T04:01:03.321482",
-      "metadata_modified": "2026-06-24T10:34:51.722125",
+      "metadata_modified": "2026-11-27T03:22:10.623154",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -168,7 +165,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393124",
@@ -180,7 +176,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/d9809f64-5136-4b9d-8fa0-3f78648270bb/download/mhl_schoollocations_4326.geojson",
       "id": "c9676b61-58a6-4a85-a353-ff35ae81a96a",
       "last_modified": "2024-02-06T04:01:03.321711",
-      "metadata_modified": "2026-06-24T10:34:51.722236",
+      "metadata_modified": "2026-11-27T03:22:10.623279",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -195,7 +191,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393127",
@@ -207,7 +202,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/fff7988c-7c50-4757-8b5b-3f1e213b29d3/download/niu_schoollocations_4326.geojson",
       "id": "c6326123-3521-4ea0-8909-2c9b568b252f",
       "last_modified": "2024-02-06T04:01:03.321930",
-      "metadata_modified": "2026-06-24T10:34:51.722347",
+      "metadata_modified": "2026-11-27T03:22:10.623393",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -222,7 +217,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393130",
@@ -234,7 +228,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/866891ad-6127-4c87-ad69-a9e8ff37095f/download/nru_schoollocations_4326.geojson",
       "id": "c412a914-2d38-4a2f-bfc3-8af0e3be5958",
       "last_modified": "2024-02-06T04:01:03.322163",
-      "metadata_modified": "2026-06-24T10:34:51.722454",
+      "metadata_modified": "2026-11-27T03:22:10.623518",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -249,7 +243,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393133",
@@ -261,7 +254,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/6d401127-3297-4336-8fc1-7c7df52cde0d/download/plw_schoollocations_4326.geojson",
       "id": "784fa84a-d134-46c4-a001-b255596972be",
       "last_modified": "2024-02-06T04:01:03.322393",
-      "metadata_modified": "2026-06-24T10:34:51.722557",
+      "metadata_modified": "2026-11-27T03:22:10.623675",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -276,7 +269,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393136",
@@ -288,7 +280,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/4efe1055-5b41-4fff-8e21-12a84c4c3183/download/png_schoollocations_4326.geojson",
       "id": "fe303dee-df7e-40c4-8258-dab564b14348",
       "last_modified": "2024-02-06T04:01:03.322616",
-      "metadata_modified": "2026-06-24T10:34:51.722662",
+      "metadata_modified": "2026-11-27T03:22:10.623903",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -303,7 +295,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393138",
@@ -315,7 +306,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/083ed021-84e0-4ec4-bb64-3a38974634f9/download/slb_schoollocations_4326.geojson",
       "id": "5c1c0c64-d578-4d17-a5e8-ffa015157d17",
       "last_modified": "2024-02-06T04:01:03.322832",
-      "metadata_modified": "2026-06-24T10:34:51.722767",
+      "metadata_modified": "2026-11-27T03:22:10.624059",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -330,7 +321,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393141",
@@ -342,7 +332,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/de9a77b0-163a-4211-89c2-1403e4ae8668/download/tkl_schoollocations_4326.geojson",
       "id": "3baedc87-288c-4820-9efc-5d54f0886cc5",
       "last_modified": "2024-02-06T04:01:03.323060",
-      "metadata_modified": "2026-06-24T10:34:51.722871",
+      "metadata_modified": "2026-11-27T03:22:10.624197",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -357,7 +347,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393144",
@@ -369,7 +358,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/40e738ef-feab-49ad-b773-3867f2f037cf/download/ton_schoollocations_4326.geojson",
       "id": "d6ce7192-7292-4e00-a662-4a9a7acd53a9",
       "last_modified": "2024-02-06T04:01:03.323291",
-      "metadata_modified": "2026-06-24T10:34:51.722976",
+      "metadata_modified": "2026-11-27T03:22:10.624309",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -384,7 +373,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393146",
@@ -396,7 +384,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/c979edec-0d0e-4584-b628-f7953fa99095/download/tuv_schoollocations_4326.geojson",
       "id": "17ada913-0573-47b5-9527-1d1dae721ff8",
       "last_modified": "2024-08-09T01:02:16.101489",
-      "metadata_modified": "2026-06-24T10:34:51.723077",
+      "metadata_modified": "2026-11-27T03:22:10.624418",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -411,7 +399,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393149",
@@ -423,7 +410,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/bcde03d3-7681-40ff-abae-115cae6b7853/download/vut_schoollocations_4326.geojson",
       "id": "170fac40-435b-4566-92ac-b2e65db94d47",
       "last_modified": "2024-02-06T04:01:03.323800",
-      "metadata_modified": "2026-06-24T10:34:51.723184",
+      "metadata_modified": "2026-11-27T03:22:10.624525",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -438,7 +425,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393152",
@@ -450,7 +436,7 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/d2fd8032-7919-4a66-91b6-ec5572cec34c/download/wsm_schoollocations_4326.geojson",
       "id": "4e57c8ef-2961-4f32-bc4d-e47f1e71c3d0",
       "last_modified": "2024-02-06T04:01:03.324194",
-      "metadata_modified": "2026-06-24T10:34:51.723325",
+      "metadata_modified": "2026-11-27T03:22:10.624633",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
@@ -465,7 +451,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393154",
@@ -477,12 +462,11 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/b33949ff-f3f2-466e-ba8e-db228dafa738/download/cok_schoollocations_4326xy.csv",
       "id": "a5412005-7fb8-4b8e-bc6f-baa69ff97438",
       "last_modified": "2024-02-06T04:01:03.324426",
-      "metadata_modified": "2026-06-24T10:34:51.723434",
+      "metadata_modified": "2026-11-27T03:22:10.624743",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
       "name": "Cook Islands - School locations - Table",
-      "p_coded": false,
       "package_id": "d9796d2c-52b4-4f65-b2dd-36396d15231a",
       "position": 15,
       "resource_type": "api",
@@ -492,7 +476,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393157",
@@ -504,12 +487,11 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/20e32d62-cb2a-43e0-a6cd-def9d89cc6cd/download/fsm_schoollocations_4326xy.csv",
       "id": "e97265da-b711-4909-a01d-3e68f86e9b96",
       "last_modified": "2024-02-06T04:01:03.324655",
-      "metadata_modified": "2026-06-24T10:34:51.723539",
+      "metadata_modified": "2026-11-27T03:22:10.624849",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
       "name": "Federated States of Micronesia - School locations - Table",
-      "p_coded": false,
       "package_id": "d9796d2c-52b4-4f65-b2dd-36396d15231a",
       "position": 16,
       "resource_type": "api",
@@ -519,7 +501,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393160",
@@ -531,12 +512,11 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/1cd65903-0b8b-48d3-a8e4-15225f2ca9fc/download/fji_schoollocations_4326xy.csv",
       "id": "cd895cae-a35e-409f-ade2-0f7b4f3f1099",
       "last_modified": "2024-10-10T01:02:03.465450",
-      "metadata_modified": "2026-06-24T10:34:51.723644",
+      "metadata_modified": "2026-11-27T03:22:10.624951",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
       "name": "Fiji - School locations - Table",
-      "p_coded": false,
       "package_id": "d9796d2c-52b4-4f65-b2dd-36396d15231a",
       "position": 17,
       "resource_type": "api",
@@ -546,7 +526,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393163",
@@ -558,12 +537,11 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/147e328c-0225-48b2-98d0-c1d04bf21ebe/download/kir_schoollocations_4326xy.csv",
       "id": "a8c66d63-832e-4b9d-b730-0a83dde754a7",
       "last_modified": "2024-02-06T04:01:03.325083",
-      "metadata_modified": "2026-06-24T10:34:51.723748",
+      "metadata_modified": "2026-11-27T03:22:10.625034",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
       "name": "Kiribati - School locations - Table",
-      "p_coded": false,
       "package_id": "d9796d2c-52b4-4f65-b2dd-36396d15231a",
       "position": 18,
       "resource_type": "api",
@@ -573,7 +551,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393165",
@@ -585,12 +562,11 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/e5a764ec-78f8-43e8-b4d6-58bc319c8d6c/download/mhl_schoollocations_4326xy.csv",
       "id": "aaf7ed4a-dfe7-4192-8ddf-33c28a895a1f",
       "last_modified": "2024-02-06T04:01:03.325305",
-      "metadata_modified": "2026-06-24T10:34:51.723854",
+      "metadata_modified": "2026-11-27T03:22:10.625123",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
       "name": "Marshall Islands - School locations - Table",
-      "p_coded": false,
       "package_id": "d9796d2c-52b4-4f65-b2dd-36396d15231a",
       "position": 19,
       "resource_type": "api",
@@ -600,7 +576,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393168",
@@ -612,12 +587,11 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/0d817050-79cd-4ef1-87d4-0e05e549d1a1/download/nru_schoollocations_4326xy.csv",
       "id": "6c56d37d-ade5-4bf3-b616-10d8c55c71a0",
       "last_modified": "2024-02-06T04:01:03.325522",
-      "metadata_modified": "2026-06-24T10:34:51.723959",
+      "metadata_modified": "2026-11-27T03:22:10.625208",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
       "name": "Nauru - School locations - Table",
-      "p_coded": false,
       "package_id": "d9796d2c-52b4-4f65-b2dd-36396d15231a",
       "position": 20,
       "resource_type": "api",
@@ -627,7 +601,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393170",
@@ -639,12 +612,11 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/58acf9e9-7f10-4014-bf19-22f672e1d83a/download/niu_schoollocations_4326xy.csv",
       "id": "278fa173-2b57-482a-908b-17bced86c020",
       "last_modified": "2024-02-06T04:01:03.325739",
-      "metadata_modified": "2026-06-24T10:34:51.724065",
+      "metadata_modified": "2026-11-27T03:22:10.625292",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
       "name": "Niue - School locations - Table",
-      "p_coded": false,
       "package_id": "d9796d2c-52b4-4f65-b2dd-36396d15231a",
       "position": 21,
       "resource_type": "api",
@@ -654,7 +626,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393173",
@@ -666,12 +637,11 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/6a590c4b-02f0-406a-86d7-9ed8b3b67a4c/download/plw_schoollocations_4326xy.csv",
       "id": "21da7ec1-47bb-4765-b4fd-ae8c1e87134d",
       "last_modified": "2024-02-06T04:01:03.325957",
-      "metadata_modified": "2026-06-24T10:34:51.724168",
+      "metadata_modified": "2026-11-27T03:22:10.625376",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
       "name": "Palau - School locations - Table",
-      "p_coded": false,
       "package_id": "d9796d2c-52b4-4f65-b2dd-36396d15231a",
       "position": 22,
       "resource_type": "api",
@@ -681,7 +651,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393176",
@@ -693,12 +662,11 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/aa8bf959-22bd-4ee5-89a7-4d241983a2fe/download/png_schoollocations_4326xy.csv",
       "id": "f34e3de3-92ff-4366-a4bd-544c020c06d6",
       "last_modified": "2024-02-06T04:01:03.326170",
-      "metadata_modified": "2026-06-24T10:34:51.724270",
+      "metadata_modified": "2026-11-27T03:22:10.625462",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
       "name": "Papua New Guinea - School locations - Table",
-      "p_coded": false,
       "package_id": "d9796d2c-52b4-4f65-b2dd-36396d15231a",
       "position": 23,
       "resource_type": "api",
@@ -708,7 +676,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393178",
@@ -720,12 +687,11 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/1a26148e-0c40-4cec-bfe2-709cd6ba459e/download/slb_schoollocations_4326xy.csv",
       "id": "a29b02ce-bad2-437e-bb6c-70b4c81345d3",
       "last_modified": "2024-02-06T04:01:03.326388",
-      "metadata_modified": "2026-06-24T10:34:51.724374",
+      "metadata_modified": "2026-11-27T03:22:10.625546",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
       "name": "Solomon Islands - School locations - Table",
-      "p_coded": false,
       "package_id": "d9796d2c-52b4-4f65-b2dd-36396d15231a",
       "position": 24,
       "resource_type": "api",
@@ -735,7 +701,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393181",
@@ -747,12 +712,11 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/25693103-47e0-4334-bdf7-beeb080fb3a1/download/ton_schoollocations_4326xy.csv",
       "id": "a5033a5e-924a-4ca7-941f-f579229d5637",
       "last_modified": "2024-02-06T04:01:03.326608",
-      "metadata_modified": "2026-06-24T10:34:51.724485",
+      "metadata_modified": "2026-11-27T03:22:10.625635",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
       "name": "Tonga - School locations - Table",
-      "p_coded": false,
       "package_id": "d9796d2c-52b4-4f65-b2dd-36396d15231a",
       "position": 25,
       "resource_type": "api",
@@ -762,7 +726,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393183",
@@ -774,12 +737,11 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/f0a0ba31-03f9-46b5-a33b-bfa45b0ffae6/download/tkl_schoollocations_4326xy.csv",
       "id": "8459f987-54b4-4c3b-aa87-2c7bca77a757",
       "last_modified": "2024-07-21T22:59:29",
-      "metadata_modified": "2026-06-24T10:34:51.724588",
+      "metadata_modified": "2026-11-27T03:22:10.625722",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
       "name": "Tokelau - School locations - Table",
-      "p_coded": false,
       "package_id": "d9796d2c-52b4-4f65-b2dd-36396d15231a",
       "position": 26,
       "resource_type": "api",
@@ -789,7 +751,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393186",
@@ -801,12 +762,11 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/c1ace25e-c18b-45d3-8bba-76f280696106/download/tuv_schoollocations_4326xy.csv",
       "id": "00d0fe85-b758-4217-afcc-3e5e417ba09e",
       "last_modified": "2024-08-09T01:02:16.101489",
-      "metadata_modified": "2026-06-24T10:34:51.724693",
+      "metadata_modified": "2026-11-27T03:22:10.625813",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
       "name": "Tuvalu - School locations - Table",
-      "p_coded": false,
       "package_id": "d9796d2c-52b4-4f65-b2dd-36396d15231a",
       "position": 27,
       "resource_type": "api",
@@ -816,7 +776,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393188",
@@ -828,12 +787,11 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/5dfd5a6a-57bd-4df6-9ee6-6128191face4/download/vut_schoollocations_4326xy.csv",
       "id": "69ee2746-6880-4395-ae00-a801e84a3418",
       "last_modified": "2024-02-06T04:01:03.327293",
-      "metadata_modified": "2026-06-24T10:34:51.724797",
+      "metadata_modified": "2026-11-27T03:22:10.625903",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
       "name": "Vanuatu - School locations - Table",
-      "p_coded": false,
       "package_id": "d9796d2c-52b4-4f65-b2dd-36396d15231a",
       "position": 28,
       "resource_type": "api",
@@ -843,7 +801,6 @@
       "url_type": "api"
     },
     {
-      "broken_link": true,
       "cache_last_updated": null,
       "cache_url": null,
       "created": "2024-02-06T04:01:03.393191",
@@ -855,12 +812,11 @@
       "hdx_rel_url": "https://pacificdata.org/data/dataset/81a988dc-8bda-40f2-98af-a581bc334d70/resource/56b5b94e-1d6b-46ad-9761-ab64262156b8/download/wsm_schoollocations_4326xy.csv",
       "id": "f5102312-194b-4a14-ab1b-2079ddfafb75",
       "last_modified": "2024-02-06T04:01:03.327525",
-      "metadata_modified": "2026-06-24T10:34:51.724899",
+      "metadata_modified": "2026-11-27T03:22:10.625997",
       "microdata": false,
       "mimetype": null,
       "mimetype_inner": null,
       "name": "Western Samoa - School locations - Table",
-      "p_coded": false,
       "package_id": "d9796d2c-52b4-4f65-b2dd-36396d15231a",
       "position": 29,
       "resource_type": "api",
@@ -872,9 +828,9 @@
   ],
   "tags": [
     {
-      "display_name": "education",
-      "id": "111f9068-6270-4dbd-a2a9-b4d69ee1735b",
-      "name": "education",
+      "display_name": "indicators",
+      "id": "08dade96-0bf4-4248-9d9f-421f7b844e53",
+      "name": "indicators",
       "state": "active",
       "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1"
     }

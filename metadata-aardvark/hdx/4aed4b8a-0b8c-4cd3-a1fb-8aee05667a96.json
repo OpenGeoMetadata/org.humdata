@@ -1,14 +1,14 @@
 {
   "id": "hdx-4aed4b8a-0b8c-4cd3-a1fb-8aee05667a96",
   "gbl_mdVersion_s": "Aardvark",
-  "gbl_mdModified_dt": "2026-11-23T12:26:15Z",
+  "gbl_mdModified_dt": "2026-11-27T11:54:42Z",
   "dct_title_s": "Global - Subnational Administrative Boundaries (Historic)",
   "dct_accessRights_s": "Public",
   "gbl_resourceClass_sm": [
     "Datasets"
   ],
   "dct_description_sm": [
-    "Past versions of administrative level 1-4 boundaries for 31 countries / territories. For current boundaries, use [Global - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global). This dataset combines the [country COD-AB datasets](https://data.humdata.org/dataset/?cod_level=cod-ab) and contains: - **Edge-Matched**: Subnational boundaries are aligned to fit international boundaries. This process results in simplification at the international border, but gaps and overlaps are eliminated. The internal resolution of each subnational boundary layer is not modified by this process. Recommended to use for most use cases. - **Original**: Subnational boundaries are unmodified from their original source. There will be gaps and overlaps at the international border. Recommended if maintaining the integrity of the initial source is important. - **Metadata**: A table of the sources used. **Related datasets** - [Country COD-AB datasets](https://data.humdata.org/dataset/?cod_level=cod-ab): for boundaries of a single country or territory. - [Global P-code List](https://data.humdata.org/dataset/global-pcodes): P-codes and names as CSV."
+    "Past versions of administrative level 1-4 boundaries for 32 countries / territories. For current boundaries, use [Global - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global). This dataset combines the [country COD-AB datasets](https://data.humdata.org/dataset/?cod_level=cod-ab) and contains: - **Edge-Matched**: Subnational boundaries are aligned to fit international boundaries. This process results in simplification at the international border, but gaps and overlaps are eliminated. The internal resolution of each subnational boundary layer is not modified by this process. Recommended to use for most use cases. - **Original**: Subnational boundaries are unmodified from their original source. There will be gaps and overlaps at the international border. Recommended if maintaining the integrity of the initial source is important. - **Metadata**: A table of the sources used. **Related datasets** - [Country COD-AB datasets](https://data.humdata.org/dataset/?cod_level=cod-ab): for boundaries of a single country or territory. - [Global P-code List](https://data.humdata.org/dataset/global-pcodes): P-codes and names as CSV."
   ],
   "dct_language_sm": [
     "eng"
@@ -18,10 +18,12 @@
     "Multiple sources aggregated by UN OCHA Information Systems Section (ISS)"
   ],
   "dcat_keyword_sm": [
-    "administrative boundaries-divisions"
+    "administrative boundaries-divisions",
+    "geodata"
   ],
   "dct_subject_sm": [
-    "administrative boundaries-divisions"
+    "administrative boundaries-divisions",
+    "geodata"
   ],
   "dct_spatial_sm": [
     "World"

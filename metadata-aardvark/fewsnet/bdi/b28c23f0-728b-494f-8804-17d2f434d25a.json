@@ -1,0 +1,49 @@
+{
+  "id": "hdx-b28c23f0-728b-494f-8804-17d2f434d25a",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-11-27T11:28:54Z",
+  "dct_title_s": "Burundi: Acute Food Insecurity Classification (Historical)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Analysis representing food security outcomes for Burundi for Near Term and Medium Term periods dating from 2020-02-01"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "FEWS NET"
+  ],
+  "dcat_keyword_sm": [
+    "food security",
+    "geodata",
+    "integrated food security phase classification-ipc"
+  ],
+  "dct_subject_sm": [
+    "food security",
+    "geodata",
+    "integrated food security phase classification-ipc"
+  ],
+  "dct_spatial_sm": [
+    "Burundi"
+  ],
+  "locn_geometry": "ENVELOPE(29.02, 30.75, -2.35, -4.5)",
+  "dcat_bbox": "ENVELOPE(29.02, 30.75, -2.35, -4.5)",
+  "dct_temporal_sm": [
+    "2020-2026"
+  ],
+  "gbl_indexYear_im": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/bdi-acute-food-insecurity-classification-historical\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=BI&format=geojson&preference=best&start_date=2020-01-01&end_date=2020-12-31\",\"label\":\"Near Term and Medium Term food security outcomes for Burundi for 2020 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=BI&format=geojson&preference=best&start_date=2021-01-01&end_date=2021-12-31\",\"label\":\"Near Term and Medium Term food security outcomes for Burundi for 2021 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=BI&format=geojson&preference=best&start_date=2022-01-01&end_date=2022-12-31\",\"label\":\"Near Term and Medium Term food security outcomes for Burundi for 2022 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=BI&format=geojson&preference=best&start_date=2023-01-01&end_date=2023-12-31\",\"label\":\"Near Term and Medium Term food security outcomes for Burundi for 2023 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=BI&format=geojson&preference=best&start_date=2024-01-01&end_date=2024-12-31\",\"label\":\"Near Term and Medium Term food security outcomes for Burundi for 2024 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=BI&format=geojson&preference=best&start_date=2025-01-01&end_date=2025-12-31\",\"label\":\"Near Term and Medium Term food security outcomes for Burundi for 2025 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=BI&format=geojson&preference=best&start_date=2026-01-01&end_date=2026-12-31\",\"label\":\"Near Term and Medium Term food security outcomes for Burundi for 2026 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=BI&format=csv&preference=best\",\"label\":\"Medium and Near Term food security outcomes for Burundi (.csv) (CSV)\"}]}"
+}

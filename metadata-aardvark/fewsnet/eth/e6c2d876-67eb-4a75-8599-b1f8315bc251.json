@@ -1,0 +1,50 @@
+{
+  "id": "hdx-e6c2d876-67eb-4a75-8599-b1f8315bc251",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2026-11-27T11:58:56Z",
+  "dct_title_s": "Ethiopia: Acute Food Insecurity Classification (Historical)",
+  "dct_accessRights_s": "Public",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "dct_description_sm": [
+    "Analysis representing food security outcomes for Ethiopia for Near Term and Medium Term periods dating from 2019-03-01"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Humanitarian Data Exchange",
+  "dct_publisher_sm": [
+    "FEWS NET"
+  ],
+  "dcat_keyword_sm": [
+    "food security",
+    "geodata",
+    "integrated food security phase classification-ipc"
+  ],
+  "dct_subject_sm": [
+    "food security",
+    "geodata",
+    "integrated food security phase classification-ipc"
+  ],
+  "dct_spatial_sm": [
+    "Ethiopia"
+  ],
+  "locn_geometry": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dcat_bbox": "ENVELOPE(32.95, 47.79, 14.96, 3.42)",
+  "dct_temporal_sm": [
+    "2019-2026"
+  ],
+  "gbl_indexYear_im": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "dct_format_s": "GeoJSON",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://data.humdata.org/dataset/eth-acute-food-insecurity-classification-historical\",\"http://schema.org/downloadUrl\":[{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=ET&format=geojson&preference=best&start_date=2011-01-01&end_date=2011-12-31\",\"label\":\"Near Term and Medium Term food security outcomes for Ethiopia for 2011 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=ET&format=geojson&preference=best&start_date=2012-01-01&end_date=2012-12-31\",\"label\":\"Near Term and Medium Term food security outcomes for Ethiopia for 2012 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=ET&format=geojson&preference=best&start_date=2013-01-01&end_date=2013-12-31\",\"label\":\"Near Term and Medium Term food security outcomes for Ethiopia for 2013 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=ET&format=geojson&preference=best&start_date=2014-01-01&end_date=2014-12-31\",\"label\":\"Near Term and Medium Term food security outcomes for Ethiopia for 2014 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=ET&format=geojson&preference=best&start_date=2015-01-01&end_date=2015-12-31\",\"label\":\"Near Term and Medium Term food security outcomes for Ethiopia for 2015 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=ET&format=geojson&preference=best&start_date=2016-01-01&end_date=2016-12-31\",\"label\":\"Near Term and Medium Term food security outcomes for Ethiopia for 2016 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=ET&format=geojson&preference=best&start_date=2017-01-01&end_date=2017-12-31\",\"label\":\"Near Term and Medium Term food security outcomes for Ethiopia for 2017 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=ET&format=geojson&preference=best&start_date=2018-01-01&end_date=2018-12-31\",\"label\":\"Near Term and Medium Term food security outcomes for Ethiopia for 2018 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=ET&format=geojson&preference=best&start_date=2019-01-01&end_date=2019-12-31\",\"label\":\"Near Term and Medium Term food security outcomes for Ethiopia for 2019 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=ET&format=geojson&preference=best&start_date=2020-01-01&end_date=2020-12-31\",\"label\":\"Near Term and Medium Term food security outcomes for Ethiopia for 2020 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=ET&format=geojson&preference=best&start_date=2021-01-01&end_date=2021-12-31\",\"label\":\"Near Term and Medium Term food security outcomes for Ethiopia for 2021 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=ET&format=geojson&preference=best&start_date=2022-01-01&end_date=2022-12-31\",\"label\":\"Near Term and Medium Term food security outcomes for Ethiopia for 2022 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=ET&format=geojson&preference=best&start_date=2023-01-01&end_date=2023-12-31\",\"label\":\"Near Term and Medium Term food security outcomes for Ethiopia for 2023 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=ET&format=geojson&preference=best&start_date=2024-01-01&end_date=2024-12-31\",\"label\":\"Near Term and Medium Term food security outcomes for Ethiopia for 2024 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=ET&format=geojson&preference=best&start_date=2025-01-01&end_date=2025-12-31\",\"label\":\"Near Term and Medium Term food security outcomes for Ethiopia for 2025 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=ET&format=geojson&preference=best&start_date=2026-01-01&end_date=2026-12-31\",\"label\":\"Near Term and Medium Term food security outcomes for Ethiopia for 2026 (.geojson) (GeoJSON)\"},{\"url\":\"https://fdw.fews.net/api/ipcphase?country_code=ET&format=csv&preference=best\",\"label\":\"Medium and Near Term food security outcomes for Ethiopia (.csv) (CSV)\"}]}"
+}
